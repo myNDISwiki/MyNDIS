@@ -41,6 +41,9 @@ jobs:
       - name: Run NDIS archive scraper
         run: python scraper/main.py
 
+      - name: Build human-readable change register
+        run: python scraper/change_tracker.py
+
       - name: Commit archive changes
         shell: bash
         run: |
