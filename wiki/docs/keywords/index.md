@@ -1,5 +1,4 @@
 ---
-id: keywords-index
 slug: /keywords/
 title: Keywords
 ---
