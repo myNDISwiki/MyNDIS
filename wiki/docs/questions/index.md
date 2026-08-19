@@ -1,5 +1,4 @@
 ---
-id: questions-index
 slug: /questions/
 title: Questions
 ---
