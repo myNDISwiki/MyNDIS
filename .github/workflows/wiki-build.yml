@@ -1,16 +1,6 @@
 name: Build MyNDIS wiki
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "wiki/**"
-      - ".github/workflows/wiki-build.yml"
-  pull_request:
-    branches: [main]
-    paths:
-      - "wiki/**"
-      - ".github/workflows/wiki-build.yml"
   workflow_dispatch:
 
 jobs:
