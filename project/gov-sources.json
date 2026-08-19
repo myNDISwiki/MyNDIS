@@ -5,6 +5,55 @@
       "title": "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026",
       "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7487",
       "archive_path": "archive/gov/aph/bills/r7487"
+    },
+    {
+      "id": "ndia-scheme-actuary",
+      "organisation_id": "B-001969",
+      "title": "National Disability Insurance Scheme Actuary",
+      "url": "https://www.ndis.gov.au/about-us/governance/scheme-actuary",
+      "archive_path": "archive/gov/ndia/scheme-actuary"
+    },
+    {
+      "id": "ndia-reviewing-actuary",
+      "organisation_id": "B-001971",
+      "title": "National Disability Insurance Scheme Reviewing Actuary",
+      "url": "https://www.ndis.gov.au/about-us/governance/scheme-actuary",
+      "archive_path": "archive/gov/ndia/reviewing-actuary"
+    },
+    {
+      "id": "ndia-iac",
+      "organisation_id": "B-001970",
+      "title": "NDIS Independent Advisory Council",
+      "url": "https://www.ndis.gov.au/about-us/about-ndia/independent-advisory-council",
+      "archive_path": "archive/gov/ndia/independent-advisory-council"
+    },
+    {
+      "id": "ndia-iac-site",
+      "organisation_id": "B-001970",
+      "title": "NDIS Independent Advisory Council website",
+      "url": "https://www.ndis-iac.com.au/",
+      "archive_path": "archive/gov/ndia/independent-advisory-council/site"
+    },
+    {
+      "id": "national-autism-strategy-reference-group",
+      "organisation_id": "B-004691",
+      "title": "National Autism Strategy Reference Group",
+      "url": "https://www.health.gov.au/committees-and-groups/national-autism-strategy-reference-group?language=en",
+      "archive_path": "archive/gov/health/national-autism-strategy-reference-group"
+    },
+    {
+      "id": "national-autism-strategy",
+      "organisation_id": "B-004691",
+      "title": "National Autism Strategy",
+      "url": "https://www.health.gov.au/our-work/national-autism-strategy",
+      "archive_path": "archive/gov/health/national-autism-strategy"
+    },
+    {
+      "id": "national-autism-strategy-reference-group-tor",
+      "organisation_id": "B-004691",
+      "title": "National Autism Strategy Reference Group Terms of Reference",
+      "url": "https://www.health.gov.au/resources/publications/national-autism-strategy-reference-group-terms-of-reference?language=en",
+      "archive_path": "archive/gov/health/national-autism-strategy-reference-group/terms-of-reference"
     }
   ]
 }
