@@ -59,7 +59,8 @@ def normalize_url(url: str, base_url: str) -> str | None:
 
     base_host = urlsplit(base_url).hostname or ""
     host = parts.hostname or ""
-    allowed_hosts = {base_host, base_host.removeprefix("www."), f"www.{base_host.removeprefix('www.')}"}
+    bare_host = base_host.removeprefix("www.")
+    allowed_hosts = {base_host, bare_host, f"www.{bare_host}"}
     if host not in allowed_hosts:
         return None
 
@@ -110,7 +111,12 @@ def fetch(session: requests.Session, url: str, timeout: int, delay: float) -> re
     return response
 
 
-def discover_sitemap_links(html: bytes, sitemap_url: str, base_url: str, document_extensions: set[str]) -> tuple[set[str], set[str]]:
+def discover_sitemap_links(
+    html: bytes,
+    sitemap_url: str,
+    base_url: str,
+    document_extensions: set[str],
+) -> tuple[set[str], set[str]]:
     soup = BeautifulSoup(html, "html.parser")
     pages: set[str] = set()
     documents: set[str] = set()
@@ -129,7 +135,11 @@ def discover_sitemap_links(html: bytes, sitemap_url: str, base_url: str, documen
     return pages, documents
 
 
-def discover_documents_from_page(html: bytes, page_url: str, base_url: str, document_extensions: set[str]) -> set[str]:
+def discover_documents_from_page(
+    html: bytes,
+    base_url: str,
+    document_extensions: set[str],
+) -> set[str]:
     soup = BeautifulSoup(html, "html.parser")
     documents: set[str] = set()
     for tag in soup.find_all("a", href=True):
@@ -204,7 +214,12 @@ def main() -> int:
         raise RuntimeError(f"Invalid manifest: {manifest_path}")
 
     session = requests.Session()
-    session.headers.update({"User-Agent": user_agent, "Accept": "text/html,application/xhtml+xml,application/pdf,*/*;q=0.8"})
+    session.headers.update(
+        {
+            "User-Agent": user_agent,
+            "Accept": "text/html,application/xhtml+xml,application/pdf,*/*;q=0.8",
+        }
+    )
 
     robots = build_robots(session, base_url, user_agent, timeout)
     if not robots.can_fetch(user_agent, sitemap_url):
@@ -213,7 +228,6 @@ def main() -> int:
     now = utc_now()
     errors: list[dict[str, str]] = []
     changes: dict[str, list[str]] = {"new": [], "changed": [], "missing": [], "restored": []}
-    seen_urls: set[str] = set()
 
     print(f"Fetching sitemap: {sitemap_url}")
     sitemap_response = fetch(session, sitemap_url, timeout, delay)
@@ -244,9 +258,8 @@ def main() -> int:
                 changes[state].append(url)
                 if old_status == "missing":
                     changes["restored"].append(url)
-            seen_urls.add(url)
             if "html" in response.headers.get("Content-Type", "").lower() or not response.headers.get("Content-Type"):
-                document_urls.update(discover_documents_from_page(data, url, base_url, document_extensions))
+                document_urls.update(discover_documents_from_page(data, base_url, document_extensions))
             print(f"[{index}/{len(page_urls)}] {state.upper():9} {url}")
         except requests.RequestException as exc:
             errors.append({"url": url, "error": str(exc)})
@@ -270,16 +283,18 @@ def main() -> int:
                 changes[state].append(url)
                 if old_status == "missing":
                     changes["restored"].append(url)
-            seen_urls.add(url)
             print(f"[file {index}/{len(document_urls)}] {state.upper():9} {url}")
         except requests.RequestException as exc:
             errors.append({"url": url, "error": str(exc)})
             print(f"ERROR {url}: {exc}", file=sys.stderr)
 
-    # Never delete historical archive files. If something disappears from the sitemap/current pages,
-    # mark it missing once and let Git history preserve the last captured version.
+    # Never delete historical archive files. A page is marked missing only when it disappears
+    # from the site's sitemap inventory. Linked documents are retained indefinitely because a
+    # temporarily unavailable source page could otherwise make them look falsely removed.
+    pages_prefix = (archive_root / "pages").relative_to(REPO_ROOT).as_posix() + "/"
     for url, entry in list(manifest["entries"].items()):
-        if url not in seen_urls and entry.get("status") == "active":
+        is_page = str(entry.get("path", "")).startswith(pages_prefix)
+        if is_page and url not in page_urls and entry.get("status") == "active":
             entry["status"] = "missing"
             entry["missing_since"] = now
             changes["missing"].append(url)
