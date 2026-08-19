@@ -1,7 +1,6 @@
 const config = {
   title: 'MyNDIS',
   tagline: 'Practical, independent information for navigating the NDIS',
-  favicon: 'img/favicon.ico',
 
   url: 'https://myndiswiki.github.io',
   baseUrl: '/MyNDIS/',
@@ -59,7 +58,7 @@ const config = {
         {
           title: 'Sources',
           items: [
-            {label: 'NDIS website archive', href: '../archive/ndis/'},
+            {label: 'NDIS website archive', href: '/MyNDIS/archive/ndis/'},
             {label: 'Project repository', href: 'https://github.com/myNDISwiki/MyNDIS'},
           ],
         },
