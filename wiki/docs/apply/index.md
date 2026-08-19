@@ -1,5 +1,4 @@
 ---
-id: apply-index
 slug: /apply/
 title: I want to apply for the NDIS
 ---
