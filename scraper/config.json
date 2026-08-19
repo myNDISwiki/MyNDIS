@@ -3,6 +3,7 @@
   "base_url": "https://www.ndis.gov.au",
   "sitemap_url": "https://www.ndis.gov.au/sitemap",
   "archive_root": "archive/ndis",
+  "published_archive_base_url": "https://myndiswiki.github.io/MyNDIS/archive/ndis",
   "user_agent": "MyNDISArchiveBot/1.0 (+https://github.com/myNDISwiki/MyNDIS)",
   "request_delay_seconds": 0.35,
   "request_timeout_seconds": 30,
