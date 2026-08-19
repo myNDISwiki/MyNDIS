@@ -1,0 +1,52 @@
+name: Archive NDIS website
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+      timezone: "Australia/Melbourne"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-ndis
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: python -m pip install -r scraper/requirements.txt
+
+      - name: Run NDIS archive scraper
+        run: python scraper/main.py
+
+      - name: Commit archive changes
+        shell: bash
+        run: |
+          git add archive/ndis
+          if git diff --cached --quiet; then
+            echo "No NDIS website changes detected."
+            exit 0
+          fi
+
+          git config user.name "MyNDIS Archive Bot"
+          git config user.email "myndiswiki@users.noreply.github.com"
+          git commit -m "Archive NDIS website updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
