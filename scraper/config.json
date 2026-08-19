@@ -1,0 +1,21 @@
+{
+  "site_name": "NDIS",
+  "base_url": "https://www.ndis.gov.au",
+  "sitemap_url": "https://www.ndis.gov.au/sitemap",
+  "archive_root": "archive/ndis",
+  "user_agent": "MyNDISArchiveBot/1.0 (+https://github.com/myNDISwiki/MyNDIS)",
+  "request_delay_seconds": 0.35,
+  "request_timeout_seconds": 30,
+  "max_pages": 5000,
+  "document_extensions": [
+    ".pdf",
+    ".doc",
+    ".docx",
+    ".xls",
+    ".xlsx",
+    ".csv",
+    ".rtf",
+    ".txt",
+    ".zip"
+  ]
+}
