@@ -1,5 +1,4 @@
 ---
-id: on-the-ndis-index
 slug: /on-the-ndis/
 title: I am on the NDIS
 ---
