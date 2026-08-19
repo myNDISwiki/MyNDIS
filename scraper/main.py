@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """Archive the public NDIS website into archive/ndis.
 
-The scraper uses the NDIS HTML sitemap as its page inventory, respects robots.txt,
-stores page/document bytes at stable paths, and maintains a hash manifest so Git
-history becomes the version history of the archived site.
+The scraper uses the NDIS HTML sitemap as its page inventory, explicitly includes
+the NDIS home page, respects robots.txt, stores page/document bytes at stable
+paths, maintains a hash manifest, and generates a browsable archive index.
+Git history becomes the version history of the archived site.
 """
 
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import sys
 import time
@@ -17,6 +19,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import unquote, urljoin, urlsplit, urlunsplit
 from urllib.robotparser import RobotFileParser
+from xml.sax.saxutils import escape as xml_escape
 
 import requests
 from bs4 import BeautifulSoup
@@ -41,13 +44,17 @@ def load_json(path: Path, default: Any) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def write_json_if_changed(path: Path, value: Any) -> bool:
-    rendered = json.dumps(value, indent=2, ensure_ascii=False, sort_keys=True) + "\n"
+def write_text_if_changed(path: Path, rendered: str) -> bool:
     if path.exists() and path.read_text(encoding="utf-8") == rendered:
         return False
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(rendered, encoding="utf-8")
     return True
+
+
+def write_json_if_changed(path: Path, value: Any) -> bool:
+    rendered = json.dumps(value, indent=2, ensure_ascii=False, sort_keys=True) + "\n"
+    return write_text_if_changed(path, rendered)
 
 
 def normalize_url(url: str, base_url: str) -> str | None:
@@ -99,7 +106,6 @@ def build_robots(session: requests.Session, base_url: str, user_agent: str, time
         response.raise_for_status()
         parser.parse(response.text.splitlines())
     except requests.RequestException as exc:
-        # Fail conservatively: if robots.txt cannot be read, stop instead of assuming permission.
         raise RuntimeError(f"Unable to read {robots_url}: {exc}") from exc
     return parser
 
@@ -112,12 +118,12 @@ def fetch(session: requests.Session, url: str, timeout: int, delay: float) -> re
 
 
 def discover_sitemap_links(
-    html: bytes,
+    html_bytes: bytes,
     sitemap_url: str,
     base_url: str,
     document_extensions: set[str],
 ) -> tuple[set[str], set[str]]:
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(html_bytes, "html.parser")
     pages: set[str] = set()
     documents: set[str] = set()
 
@@ -132,15 +138,16 @@ def discover_sitemap_links(
             pages.add(normalized)
 
     pages.add(normalize_url(sitemap_url, base_url) or sitemap_url)
+    pages.add(normalize_url(base_url, base_url) or base_url)
     return pages, documents
 
 
 def discover_documents_from_page(
-    html: bytes,
+    html_bytes: bytes,
     base_url: str,
     document_extensions: set[str],
 ) -> set[str]:
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(html_bytes, "html.parser")
     documents: set[str] = set()
     for tag in soup.find_all("a", href=True):
         normalized = normalize_url(tag["href"], base_url)
@@ -193,6 +200,81 @@ def update_entry(
     return state
 
 
+def active_page_entries(manifest: dict[str, Any], archive_root: Path) -> list[tuple[str, dict[str, Any]]]:
+    pages_prefix = (archive_root / "pages").relative_to(REPO_ROOT).as_posix() + "/"
+    rows: list[tuple[str, dict[str, Any]]] = []
+    for url, entry in manifest.get("entries", {}).items():
+        if entry.get("status") != "active":
+            continue
+        if str(entry.get("path", "")).startswith(pages_prefix):
+            rows.append((url, entry))
+    return sorted(rows, key=lambda row: urlsplit(row[0]).path.lower())
+
+
+def generate_archive_index(archive_root: Path, manifest: dict[str, Any], checked_at: str) -> bool:
+    rows = active_page_entries(manifest, archive_root)
+    links: list[str] = []
+    for url, entry in rows:
+        source_path = REPO_ROOT / entry["path"]
+        relative_href = source_path.relative_to(archive_root).as_posix()
+        display = urlsplit(url).path or "/"
+        links.append(
+            f'      <li><a href="{html.escape(relative_href, quote=True)}">'
+            f'{html.escape(display)}</a> '
+            f'<small>— <a href="{html.escape(url, quote=True)}">source</a></small></li>'
+        )
+
+    rendered = f'''<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NDIS Website Archive — MyNDIS</title>
+  <meta name="description" content="Browsable archive index of NDIS website pages preserved by MyNDIS.">
+</head>
+<body>
+  <main>
+    <h1>NDIS Website Archive</h1>
+    <p>This index links to every currently active NDIS webpage preserved in this archive.</p>
+    <p>Archived pages: {len(rows)}. Last archive check: {html.escape(checked_at)}.</p>
+    <p><a href="pages/home/">Archived NDIS home page</a></p>
+    <h2>Archived pages</h2>
+    <ul>
+{chr(10).join(links)}
+    </ul>
+  </main>
+</body>
+</html>
+'''
+    return write_text_if_changed(archive_root / "index.html", rendered)
+
+
+def generate_xml_sitemap(
+    archive_root: Path,
+    manifest: dict[str, Any],
+    published_base_url: str | None,
+) -> bool:
+    if not published_base_url:
+        return False
+
+    base = published_base_url.rstrip("/")
+    urls: list[str] = []
+    for _, entry in active_page_entries(manifest, archive_root):
+        source_path = REPO_ROOT / entry["path"]
+        relative_path = source_path.relative_to(archive_root).as_posix()
+        if relative_path.endswith("/index.html"):
+            relative_path = relative_path[:-len("index.html")]
+        urls.append(f"{base}/{relative_path}")
+
+    body = "\n".join(f"  <url><loc>{xml_escape(url)}</loc></url>" for url in urls)
+    rendered = f'''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{body}
+</urlset>
+'''
+    return write_text_if_changed(archive_root / "sitemap.xml", rendered)
+
+
 def main() -> int:
     config = load_json(CONFIG_PATH, None)
     if not isinstance(config, dict):
@@ -205,6 +287,7 @@ def main() -> int:
     delay = float(config.get("request_delay_seconds", 0.35))
     max_pages = int(config.get("max_pages", 5000))
     document_extensions = {ext.lower() for ext in config.get("document_extensions", [])}
+    published_base_url = config.get("published_archive_base_url")
 
     archive_root = REPO_ROOT / config["archive_root"]
     archive_root.mkdir(parents=True, exist_ok=True)
@@ -238,9 +321,8 @@ def main() -> int:
     if len(page_urls) > max_pages:
         raise RuntimeError(f"Sitemap exposed {len(page_urls)} pages; configured maximum is {max_pages}")
 
-    print(f"Discovered {len(page_urls)} pages from the NDIS sitemap")
+    print(f"Discovered {len(page_urls)} pages from the NDIS sitemap/homepage inventory")
 
-    # Pages are fetched first because they can expose downloadable documents not listed in the sitemap.
     for index, url in enumerate(sorted(page_urls), start=1):
         if not robots.can_fetch(user_agent, url):
             print(f"SKIP robots.txt: {url}")
@@ -288,9 +370,6 @@ def main() -> int:
             errors.append({"url": url, "error": str(exc)})
             print(f"ERROR {url}: {exc}", file=sys.stderr)
 
-    # Never delete historical archive files. A page is marked missing only when it disappears
-    # from the site's sitemap inventory. Linked documents are retained indefinitely because a
-    # temporarily unavailable source page could otherwise make them look falsely removed.
     pages_prefix = (archive_root / "pages").relative_to(REPO_ROOT).as_posix() + "/"
     for url, entry in list(manifest["entries"].items()):
         is_page = str(entry.get("path", "")).startswith(pages_prefix)
@@ -312,6 +391,9 @@ def main() -> int:
         write_json_if_changed(manifest_path, manifest)
     elif not manifest_path.exists():
         write_json_if_changed(manifest_path, manifest)
+
+    generate_archive_index(archive_root, manifest, now)
+    generate_xml_sitemap(archive_root, manifest, published_base_url)
 
     print(
         "Done. "
