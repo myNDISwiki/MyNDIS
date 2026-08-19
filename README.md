@@ -32,6 +32,8 @@ The primary user routes are:
 - **I want to apply for the NDIS**
 - **I am on the NDIS**
 
+The canonical detailed wiki structure and content plan is maintained in **[project/wiki-information-architecture.md](project/wiki-information-architecture.md)**. Earlier proposals, drafts, and process documents are retained as part of the project history rather than deleted when the plan evolves.
+
 The wiki should preserve stable URLs, support multilingual content, expose useful metadata and sitemaps, and link claims and practical guidance back to relevant primary sources wherever possible.
 
 ### Site-wide disclaimer
