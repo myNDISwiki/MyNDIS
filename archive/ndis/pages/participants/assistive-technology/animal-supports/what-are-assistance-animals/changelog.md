@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/participants/assistive-technology/animal-supports/what-are-assistance-animals
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `73f11484c3963b4beee819d414bc99c2a5a4d9a9b75db42562791d334a963982`
+- New SHA-256: `d1599a92bb8c162d110a47e57b5ba4369eec90dc39833cc35abdbe54ca17533c`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

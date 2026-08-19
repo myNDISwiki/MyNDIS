@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/about-us/service-charter/participant-service-improvement-plan
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `f6441226d0b87fe9627931ddf3fb0574dee4ed54c7cbc8faa5733b73166d8013`
+- New SHA-256: `440c41b227b60e48ebb902e765409ff3b5dd389c89c484878d46d80721ba4102`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

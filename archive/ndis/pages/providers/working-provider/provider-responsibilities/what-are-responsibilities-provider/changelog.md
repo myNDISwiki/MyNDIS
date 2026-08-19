@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-are-responsibilities-provider
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `2b3ed963e5fe4907c207bc747ef2b5b96f35d425963e4fb51005c1d4d3d23c4e`
+- New SHA-256: `c2bbc851757d9a5ef77c4687c8c98c9bf3654395ea2efdcf15be2d49c12a62c2`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

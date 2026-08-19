@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/participants/changing-your-plan
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `00fa0c1c775df77d8b191f94b37c4f9983820426088e4e22f83bdaa02f66fa14`
+- New SHA-256: `f6fe065b26c8b1d5b4fdb2fa66c1796a4f9173cdda03e46cb1eda9cdca547555`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

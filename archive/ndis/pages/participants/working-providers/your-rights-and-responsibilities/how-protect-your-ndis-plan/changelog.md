@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/participants/working-providers/your-rights-and-responsibilities/how-protect-your-ndis-plan
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `097c73327b4dcb778e496c96766b55f1daeceb6cf83e142071d8d10f7f4ecd12`
+- New SHA-256: `bc0e1c078d4d8498cb83e352696a998c6d4b9fc25714189c01e16088b0828c0d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

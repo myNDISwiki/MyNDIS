@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/participants/changing-your-plan/your-next-plan/what-check
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `b01557c1ead993940984ad625ad5cb27a2cdea52039a34a2d438a54a12180dde`
+- New SHA-256: `0ea9dac202ddade9cd7048b29e0c6b89387758554580d95c64f704032af6d8bc`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

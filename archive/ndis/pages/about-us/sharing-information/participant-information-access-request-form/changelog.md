@@ -1,0 +1,14 @@
+# Page change history
+
+Source: https://www.ndis.gov.au/about-us/sharing-information/participant-information-access-request-form
+
+This file accumulates the recorded history of this NDIS page. For language changes, lines beginning `+` were added and lines beginning `-` were removed.
+
+## 2026-08-19T11:12:29Z — changed
+
+- Previous SHA-256: `97be1aaebe5f94f6ce707fc0bfc8ad627669a11fb5431011d9861b551e1a45dc`
+- New SHA-256: `77b57822ebbb981da68a0ea39af32ad88ff08d28da4e8b36ac8a6d2b4b55472a`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
