@@ -1,0 +1,114 @@
+{
+  "organisations": [
+    {
+      "id": "O-000926",
+      "name": "National Disability Insurance Agency",
+      "department": "Health, Disability and Ageing",
+      "classification": {
+        "body_level": "Primary Body",
+        "body_type": "Corporate Commonwealth entity",
+        "materiality": "Material",
+        "ggs": true,
+        "ps_act_body": "Yes - Statutory Agency"
+      },
+      "legislation": [
+        {
+          "title": "National Disability Insurance Scheme Act 2013",
+          "effective_date": "2013-07-01"
+        }
+      ],
+      "gfs_function": "Social Security and Welfare",
+      "auditor": "ANAO",
+      "abn": "25 617 475 104",
+      "address": "13-19 Malop Street, Geelong, VIC 3220",
+      "known_urls": [
+        "https://www.ndis.gov.au/"
+      ],
+      "notes": "Primary statutory body responsible for delivery and financial sustainability of the NDIS, disability-sector development, community awareness, data and research."
+    },
+    {
+      "id": "B-001969",
+      "name": "National Disability Insurance Scheme Actuary",
+      "department": "Health, Disability and Ageing",
+      "classification": {
+        "body_level": "Secondary statutory structure",
+        "body_type": "Statutory office holder, offices and committees",
+        "ps_act_body": "Yes - Statutory Agency"
+      },
+      "legislation": [
+        {
+          "title": "National Disability Insurance Scheme Act 2013",
+          "effective_date": "2013-07-01",
+          "sections": ["180A", "180B"]
+        }
+      ],
+      "gfs_function": "Social Security and Welfare",
+      "auditor": "ANAO",
+      "parent": "O-000926",
+      "address": "13-19 Malop Street, Geelong, VIC 3220",
+      "known_urls": [
+        "https://www.ndis.gov.au/about-us/governance/scheme-actuary"
+      ],
+      "notes": "Scheme Actuary nominated by the NDIA Board; responsible for assessing NDIS financial sustainability among other duties."
+    },
+    {
+      "id": "B-001970",
+      "name": "NDIS Independent Advisory Council",
+      "department": "Health, Disability and Ageing",
+      "classification": {
+        "body_level": "Secondary statutory structure",
+        "body_type": "Statutory office holder, offices and committees",
+        "ps_act_body": "Yes - Statutory Agency"
+      },
+      "legislation": [
+        {
+          "title": "National Disability Insurance Scheme Act 2013",
+          "effective_date": "2013-07-01"
+        }
+      ],
+      "gfs_function": "Social Security and Welfare",
+      "auditor": "ANAO",
+      "parent": "O-000926",
+      "address": "Level 3, 13-19 Malop Street, Geelong, VIC 3220",
+      "known_urls": [
+        "https://www.ndis-iac.com.au/"
+      ],
+      "notes": "Provides the NDIA Board with independent advice on NDIS design and delivery, including the role of families, carers and other significant people in participants' lives."
+    },
+    {
+      "id": "B-001971",
+      "name": "National Disability Insurance Scheme Reviewing Actuary",
+      "department": "Health, Disability and Ageing",
+      "classification": {
+        "body_level": "Secondary statutory structure",
+        "body_type": "Statutory office holder, offices and committees",
+        "ps_act_body": "Yes - Statutory Agency"
+      },
+      "legislation": [
+        {
+          "title": "National Disability Insurance Scheme Act 2013",
+          "effective_date": "2013-07-01",
+          "sections": ["180D", "180E"]
+        }
+      ],
+      "gfs_function": "Social Security and Welfare",
+      "auditor": "ANAO",
+      "parent": "O-000926",
+      "known_urls": [
+        "https://www.ndis.gov.au/about-us/governance/scheme-actuary#reviewing-actuary"
+      ],
+      "notes": "Reviewing Actuary nominated by the NDIA Board for a maximum term of three years; reviews and reports on actuarial reports and advice received by the Board."
+    },
+    {
+      "id": "B-004691",
+      "name": "National Autism Strategy Reference Group",
+      "department": "Health, Disability and Ageing",
+      "classification": {
+        "body_level": "Secondary non-statutory structure",
+        "body_type": "Non-statutory advisory structure"
+      },
+      "known_urls": [],
+      "notes": "Reference Group providing strategic guidance for the National Autism Strategy. Source notes supplied are incomplete; additional metadata and URLs to be added."
+    }
+  ]
+}
