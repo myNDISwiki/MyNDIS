@@ -23,6 +23,44 @@ MyNDIS/
 
 Empty directories contain `.gitkeep` files because Git does not otherwise preserve empty folders.
 
+## Public wiki
+
+The public-facing MyNDIS wiki will use **Docusaurus**, with its content stored as Markdown/MDX in this repository. The site should be designed mobile-first, with clear practical navigation rather than reproducing the organisational structure of the NDIA website.
+
+The primary user routes are:
+
+- **I want to apply for the NDIS**
+- **I am on the NDIS**
+
+The wiki should preserve stable URLs, support multilingual content, expose useful metadata and sitemaps, and link claims and practical guidance back to relevant primary sources wherever possible.
+
+### Site-wide disclaimer
+
+Every public MyNDIS page must display the following disclaimer at the bottom of the page. It should be implemented globally in the site layout/footer rather than copied manually into individual Markdown files:
+
+> **MyNDIS is an independent information project and is not an official Australian Government or NDIA website. Information is maintained and updated as carefully as possible, but may become outdated or contain errors. Always check relevant official sources when making decisions about your NDIS supports, rights, or obligations.**
+
+The disclaimer must remain clearly visible and should not be hidden behind a menu, modal, or separate legal page.
+
+### Keywords and concept index
+
+MyNDIS should include a controlled **keyword/concept index** that maps important NDIS concepts across both the MyNDIS wiki and official source material. This is distinct from ordinary tags used to classify MyNDIS articles.
+
+A concept page such as `/keywords/evidence/` should be able to contain:
+
+- a plain-language explanation of the concept in an NDIS context;
+- links to relevant MyNDIS guides;
+- links to current official NDIS pages where the concept or controlled search terms appear;
+- links to the corresponding archived NDIS pages;
+- links to relevant legislation, rules, operational guidance, or other primary sources where appropriate; and
+- related concepts and terminology, including alternative official language used for substantially the same idea.
+
+The keyword vocabulary should be centrally controlled so that variants such as `evidence`, `Evidence`, and overlapping synonyms do not accidentally become unrelated indexes.
+
+Where practical, the NDIS archive should support automated keyword discovery. A script can search the visible text of archived NDIS pages for each controlled term and regenerate the source-occurrence portion of the concept index. Human-authored explanations and relationships should remain separate from automatically generated occurrence lists.
+
+The purpose is not merely to count words. It is to let a user start with a concept such as **evidence** and discover where that concept appears across otherwise disconnected parts of the NDIS information system.
+
 ## NDIS website archive
 
 The automated archive lives under `archive/ndis/`.
@@ -31,7 +69,7 @@ The scraper starts from the official NDIS sitemap at:
 
 `https://www.ndis.gov.au/sitemap`
 
-It uses that page as the inventory of public NDIS web pages, then checks each same-domain page and collects downloadable documents linked from those pages, including PDFs, Word files, spreadsheets, text files and ZIP files.
+It uses that page as the inventory of public NDIS web pages, then checks each same-domain page and collects downloadable documents linked from those pages, including PDFs, Word files, spreadsheets, text files, and ZIP files.
 
 The scraper does **not** delete an archived page when it disappears from the live NDIS website. A missing page is marked as missing in the manifest while its last captured copy remains in the repository. This matters because deletion or replacement of official information can itself be historically important.
 
@@ -44,7 +82,7 @@ archive/ndis/
 ├── pages/                Raw HTML snapshots of NDIS pages
 ├── files/                Downloaded documents linked from NDIS pages
 ├── changes/              JSON reports for runs that found material changes
-└── manifest.json         Current URL, file path, status and SHA-256 hash index
+└── manifest.json         Current URL, file path, status, and SHA-256 hash index
 ```
 
 Page paths mirror the source URL. For example:
@@ -126,7 +164,7 @@ The scraper writes directly into `archive/ndis/`. Review the resulting Git diff 
 ```text
 scraper/
 ├── main.py               Scraper and change-detection logic
-├── config.json           Site, timing and file-type configuration
+├── config.json           Site, timing, and file-type configuration
 └── requirements.txt      Python dependencies
 ```
 
