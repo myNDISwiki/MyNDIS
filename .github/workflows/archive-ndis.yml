@@ -2,6 +2,10 @@ name: Archive NDIS website
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "scraper/**"
+      - ".github/workflows/archive-ndis.yml"
   schedule:
     - cron: "17 3 * * *"
       timezone: "Australia/Melbourne"
