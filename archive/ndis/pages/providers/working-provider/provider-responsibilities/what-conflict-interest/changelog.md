@@ -12,3 +12,12 @@ This file accumulates the recorded history of this NDIS page. For language chang
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-20T18:07:43Z — changed
+
+- Previous SHA-256: `f105375357f3e11451984c8a2e088f2e2cebde7d994bacf7b35c7088dab01d07`
+- New SHA-256: `ff1466b16767758622588a30109eb25ff5597986cf388fbb83f85849bd7be2a7`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

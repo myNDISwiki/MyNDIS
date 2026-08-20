@@ -12,3 +12,41 @@ This file accumulates the recorded history of this NDIS page. For language chang
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-20T18:07:43Z — changed
+
+- Previous SHA-256: `bf1743c7704f78a537dfca65588d4513a8bccb306f70aace3bbe39e36ccfbe47`
+- New SHA-256: `8bddcc47c33d962d763c3fd40eb37326c1baaaed984244d7de03913afe6852e5`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,6 +16,11 @@
+ '
+ Events and information sessions
+ Category
++Provider Engagement
++SDA Enrolments Webinar
++Event Date
++Thursday, 17 September 2026
++Category
+ Community Engagement
+ Understanding the NDIS webinar: Pathways to post school life
+ Event Date
+@@ -25,11 +30,6 @@
+ Understanding the NDIS webinar: Pathways to post school life
+ Event Date
+ Thursday, 22 October 2026
+-Category
+-Community Engagement
+-Understanding the NDIS webinar: Using your NDIS plan
+-Event Date
+-Wednesday, 14 October 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```
