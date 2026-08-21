@@ -12,6 +12,7 @@ import hashlib
 import json
 import re
 import sys
+import time
 from collections import deque
 from datetime import datetime, timezone
 from html.parser import HTMLParser
@@ -25,6 +26,8 @@ ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
 SEED = "https://www.health.gov.au/our-work/ndis-legislation-changes"
 HOST = "www.health.gov.au"
 MAX_PAGES = 500
+FETCH_TIMEOUT = 90
+FETCH_ATTEMPTS = 3
 UA = "Mozilla/5.0 MyNDIS-Archive/1.0 (+https://github.com/myNDISwiki/MyNDIS)"
 DOC_EXT = {".pdf", ".doc", ".docx", ".rtf", ".odt"}
 NDIS_RE = re.compile(r"\b(ndis|national disability insurance scheme)\b", re.I)
@@ -51,9 +54,29 @@ class Links(HTMLParser):
 
 
 def fetch(url: str) -> tuple[bytes, str]:
-    req = Request(url, headers={"User-Agent": UA, "Accept-Language": "en-AU,en;q=0.9", "Cache-Control": "no-cache"})
-    with urlopen(req, timeout=45) as r:
-        return r.read(), r.headers.get("Content-Type", "")
+    req = Request(
+        url,
+        headers={
+            "User-Agent": UA,
+            "Accept": "text/html,application/xhtml+xml,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,*/*;q=0.8",
+            "Accept-Language": "en-AU,en;q=0.9",
+            "Cache-Control": "no-cache",
+        },
+    )
+    last_error: Exception | None = None
+    for attempt in range(1, FETCH_ATTEMPTS + 1):
+        try:
+            with urlopen(req, timeout=FETCH_TIMEOUT) as r:
+                return r.read(), r.headers.get("Content-Type", "")
+        except (HTTPError, URLError, TimeoutError, OSError) as exc:
+            last_error = exc
+            if attempt == FETCH_ATTEMPTS:
+                raise
+            delay = 5 * attempt
+            print(f"Retrying {url} after fetch error ({attempt}/{FETCH_ATTEMPTS}): {exc}; sleeping {delay}s", file=sys.stderr)
+            time.sleep(delay)
+    assert last_error is not None
+    raise last_error
 
 
 def clean(url: str) -> str:

@@ -2,6 +2,12 @@ name: Archive Health NDIS material
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "project/health_ndis_tracker.py"
+      - ".github/workflows/archive-health-ndis.yml"
   schedule:
     - cron: "17 4 * * *"
       timezone: "Australia/Melbourne"
