@@ -19,7 +19,7 @@ from collections import deque
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import quote, urljoin, urlparse, urldefrag
+from urllib.parse import urljoin, urlparse, urldefrag
 
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
@@ -33,7 +33,7 @@ UA = (
 )
 NDIS_RE = re.compile(r"\b(ndis|national disability insurance scheme)\b", re.I)
 MD_LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^)\s]+)\)")
-RAW_URL_RE = re.compile(r"https?://www\.health\.gov\.au/[^\s)>\]}"']+")
+RAW_URL_RE = re.compile(r"https?://www\.health\.gov\.au/[^\s)>]+")
 
 
 class Links(HTMLParser):
@@ -92,9 +92,6 @@ def fetch(url: str) -> tuple[bytes, str, str]:
     except RuntimeError as direct_error:
         print(f"Direct Health fetch failed; using fallback for {url}: {direct_error}", file=sys.stderr)
 
-    # Jina Reader fetches the canonical public URL from outside GitHub's Azure
-    # runner network and returns a text/markdown rendering suitable for hashing,
-    # link discovery, and change tracking. It is explicitly labelled as fallback.
     fallback_url = "https://r.jina.ai/http://" + url.removeprefix("https://")
     data, _ = curl_fetch(fallback_url, timeout=60, retries=2)
     return data, "text/markdown; charset=utf-8", "jina-reader-fallback"
@@ -142,7 +139,7 @@ def discovered_links(url: str, data: bytes, ctype: str, method: str) -> list[str
     else:
         candidates = MD_LINK_RE.findall(text) + RAW_URL_RE.findall(text)
         for candidate in candidates:
-            linked = clean(candidate.rstrip(".,;"))
+            linked = clean(candidate.rstrip(".,;\"'"))
             if relevant(linked):
                 found.append(linked)
     return found
