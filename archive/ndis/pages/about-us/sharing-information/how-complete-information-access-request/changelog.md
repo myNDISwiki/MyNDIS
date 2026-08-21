@@ -102,3 +102,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  About
  About the NDIA
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `219acc761fe80e8f78606dbeabf3c3f177dfe75dda78bc51ab252d99f6bec2b0`
+- New SHA-256: `c16bc326b84b9cafcee1fa8712fb8dd2067d50dfa81834bacf3fee6d8b55ec3d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

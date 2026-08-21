@@ -79,3 +79,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  your employment journey
  .
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `991ecb027ed354a63b0cc6c8ccba6ef80e116735e68e4ff65359535a14df138b`
+- New SHA-256: `78fb3a8b6471dd016a465de7fa466abbc82319fb7d0f9d3c82ed7c7161c16a29`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

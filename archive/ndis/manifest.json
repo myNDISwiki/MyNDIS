@@ -19,9 +19,9 @@
     "https://www.ndis.gov.au/about-us/about-ndia": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/about-ndia/index.html",
-      "sha256": "3b74879135bd94d2fcb8e7e2a67844f7d9a2ab4c0cbf769bee87a6370d0cf9c4",
+      "sha256": "3b3429b2fc96536f877bbdb855b4bfa746bfb87d011895fa03650716ec6b6b9b",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/about-ndia/chief-executive-officer": {
@@ -35,9 +35,9 @@
     "https://www.ndis.gov.au/about-us/about-ndia/independent-advisory-council": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/about-ndia/independent-advisory-council/index.html",
-      "sha256": "dffbe2ae54c6dfbdf4b4c75ffd83a01d242b2c85b4b501dd66da9a371a2e9474",
+      "sha256": "968dc48b111c8397ce13d952a92ff62d7947493a7041e7858230f0d2ab3c6bf3",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/about-ndia/ndia-board": {
@@ -83,9 +83,9 @@
     "https://www.ndis.gov.au/about-us/access-information": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/access-information/index.html",
-      "sha256": "63ffb1b71be7592ace0ed6028cf26f2ce7504cdfd1f53b990e82fa15e21d1f51",
+      "sha256": "6ce00b127006cae4523739c463c4c38797db6ecfac7b4c55ee359736a8229968",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/careers-ndia": {
@@ -115,9 +115,9 @@
     "https://www.ndis.gov.au/about-us/careers-ndia/career-pathways/graduate-program": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/careers-ndia/career-pathways/graduate-program/index.html",
-      "sha256": "eb1dc07972ef2f969c6d93fda1a4b612c8cd4cb55eefb5db06bd4a0936c49e02",
+      "sha256": "0a04db51ada2555fa49319f5ff503b5bcce091bbae45a3b5aa302e1bb2cb7f95",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/careers-ndia/career-pathways/graduate-program/meet-our-graduates": {
@@ -155,17 +155,17 @@
     "https://www.ndis.gov.au/about-us/careers-ndia/inclusive-workplace/candidates-disability": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/careers-ndia/inclusive-workplace/candidates-disability/index.html",
-      "sha256": "21e7cd5e362da083afc1dc733b3286264e5ff49ac4c782a5e60b0bcb93c847b4",
+      "sha256": "094399f6c11d33d63c2397c442e2e340398d28210169705eae615a6cf95a7cfa",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/careers-ndia/inclusive-workplace/culturally-and-linguistically-diverse-cald-candidates": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/careers-ndia/inclusive-workplace/culturally-and-linguistically-diverse-cald-candidates/index.html",
-      "sha256": "235a663b48151afeb9a8a25ee5c6c9b8170a975c368e17e750d28e0866030d7b",
+      "sha256": "a6cee367f7a70be562935a09acb512a8eb73e5a61662cf15776edda51b3a7763",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/careers-ndia/inclusive-workplace/first-nations-candidates": {
@@ -259,9 +259,9 @@
     "https://www.ndis.gov.au/about-us/policies/public-interest-disclosure-procedures": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/policies/public-interest-disclosure-procedures/index.html",
-      "sha256": "d02dddf95fa1f7ceb7f5900cab6282b11dacbf22499c6998627da907ea9b3c28",
+      "sha256": "8003ec12b9bf7fcd3234bfffece7b6780ca71295d1796789c3f8c9338dd44b5a",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/reference-group-updates/mental-health-sector-reference-group": {
@@ -299,9 +299,9 @@
     "https://www.ndis.gov.au/about-us/service-charter/participant-service-improvement-plan": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/service-charter/participant-service-improvement-plan/index.html",
-      "sha256": "25d522deb1ae0fc7cf537faf47151264fb6bdf7f7cca9d44ebf9a8211703b728",
+      "sha256": "a4ce97f9f42e754769ad03a27853550a2884c5fd5b6b1619fc03107f29e57cd6",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/sharing-information": {
@@ -315,33 +315,33 @@
     "https://www.ndis.gov.au/about-us/sharing-information/access-information": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/sharing-information/access-information/index.html",
-      "sha256": "3979773dc49766302d34d4578ce96f0ca0d7fd2bc3012b81de4e46027cbad543",
+      "sha256": "b94f1095527c7d5b6c43d7a85462d9314b15090c935b68ebace094e6ec6b954e",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/sharing-information/how-complete-information-access-request": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/sharing-information/how-complete-information-access-request/index.html",
-      "sha256": "219acc761fe80e8f78606dbeabf3c3f177dfe75dda78bc51ab252d99f6bec2b0",
+      "sha256": "c16bc326b84b9cafcee1fa8712fb8dd2067d50dfa81834bacf3fee6d8b55ec3d",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/sharing-information/how-give-consent": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/sharing-information/how-give-consent/index.html",
-      "sha256": "ec5749cb1e800212bb59bd000799ac24f77dd4bfd4bdb208ba3a1aa83ad07bec",
+      "sha256": "e2eb869f0591968ac6726daf9300f9d0e898d3b3c3a1b46a79051d5503adea9b",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/sharing-information/participant-information-access-request-form": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/sharing-information/participant-information-access-request-form/index.html",
-      "sha256": "a2e96a57619ff088a4ef88f0d67a870d3be256546dddefdd0e0abf08242c0718",
+      "sha256": "42a13d77ad36ab769f8d557f181e487ed4f08e11d6980bcd6e1972621828ed08",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/sharing-information/what-consent": {
@@ -355,9 +355,9 @@
     "https://www.ndis.gov.au/about-us/sharing-information/what-information-we-can-share": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/about-us/sharing-information/what-information-we-can-share/index.html",
-      "sha256": "78dc70c9104ea4349c6c260523f04fe8f7bd63374cb78d66afd1f059e0391193",
+      "sha256": "e06a7a764cce5cc753dab24c8ca8c51c9d128b5c0adfedcde24bec2da5c4f3c2",
       "status": "active"
     },
     "https://www.ndis.gov.au/about-us/strategies": {
@@ -379,9 +379,9 @@
     "https://www.ndis.gov.au/applying/application-process": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/applying/application-process/index.html",
-      "sha256": "8aeb22d24e0e14eaef0a000af557c65406b35cebfd66770d430cdfface40c942",
+      "sha256": "a44ed4088a2364f473cec3575ff65a24f01ef300f184f6e7a75af565d25bf0f8",
       "status": "active"
     },
     "https://www.ndis.gov.au/applying/application-process/how-apply": {
@@ -547,9 +547,9 @@
     "https://www.ndis.gov.au/applying/gathering-evidence/what-evidence-identity": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/applying/gathering-evidence/what-evidence-identity/index.html",
-      "sha256": "4335fbc7570f395eebd1af0f29884228ea28f8bf90c911a16197e06d5325bc4c",
+      "sha256": "590427be212ed82caa0ab3f69a3570643395c8979ef3ad933521aa660fdf8e57",
       "status": "active"
     },
     "https://www.ndis.gov.au/applying/gathering-evidence/what-supporting-evidence": {
@@ -563,9 +563,9 @@
     "https://www.ndis.gov.au/applying/types-assessments": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/applying/types-assessments/index.html",
-      "sha256": "e975352c1ce7e2a6b2cc7187253263d10f80310d231e239a8336117f69d698c9",
+      "sha256": "51f0d5c11b681c97e11d0e5be1afd46b426695b8f3bf67165031206ba97c5779",
       "status": "active"
     },
     "https://www.ndis.gov.au/applying/types-assessments/what-functional-capacity-assessment": {
@@ -619,9 +619,9 @@
     "https://www.ndis.gov.au/contact/feedback-and-enquiries/how-give-feedback": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/feedback-and-enquiries/how-give-feedback/index.html",
-      "sha256": "5aab03b5cfeabf1bea600f3ac64d281cf0ada362d1d75250e566c7b878b2d27b",
+      "sha256": "57e061b2891c590cbbecb0af987377e659b4b763fa15a4f3c434bc1013c1d2ca",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/feedback-and-enquiries/language-interpreting-services": {
@@ -635,9 +635,9 @@
     "https://www.ndis.gov.au/contact/feedback-and-enquiries/media-enquiries": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/feedback-and-enquiries/media-enquiries/index.html",
-      "sha256": "55ea8c3cffddd651680675ea1900506b6f40c3c33fc0ea7373cb18ec7ca11b47",
+      "sha256": "5dd8f04e15be30d1cd388b492dbcfc955fba706a796afaf87d4fdf239df76a5c",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/feedback-and-enquiries/ndis-logo-guidelines": {
@@ -675,9 +675,9 @@
     "https://www.ndis.gov.au/contact/find-us/ndis-each-state/australian-capital-territory": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/find-us/ndis-each-state/australian-capital-territory/index.html",
-      "sha256": "f3103c99621a3a0369985a5c5171caf94245592519ade7c3340104ba9bcc40a6",
+      "sha256": "9d56873679ffefe919a6fce0700be5c2225561c808c591d52219317ec6b59956",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/find-us/ndis-each-state/new-south-wales": {
@@ -707,9 +707,9 @@
     "https://www.ndis.gov.au/contact/find-us/ndis-each-state/south-australia": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/find-us/ndis-each-state/south-australia/index.html",
-      "sha256": "d6b5fab180fcd7c5804e4a08896b06025fbb723f9a620b3164de0f55ce62b5f1",
+      "sha256": "d6912036816f717fd6fad283cdccee5e7568dfffcc16ed2d18fb803cdc7d7047",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/find-us/ndis-each-state/tasmania": {
@@ -723,9 +723,9 @@
     "https://www.ndis.gov.au/contact/find-us/ndis-each-state/victoria": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/find-us/ndis-each-state/victoria/index.html",
-      "sha256": "5f7a60d3cb79901c9b850af53b889d7b27daeb3857870dfe624246d4bf3ed1cf",
+      "sha256": "c35b295632049affa0fcbb7b2e18a40c21ba7f42919d2859c9f845cad3ab0075",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/find-us/ndis-each-state/western-australia": {
@@ -739,9 +739,9 @@
     "https://www.ndis.gov.au/contact/locations": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/locations/index.html",
-      "sha256": "972ca3fdf3a5523396a7987bd7d3fbe94ac2c9782d26f7438f4b9b8dbd043325",
+      "sha256": "4fec78ea2fd8386c634ac656737b7ee2ca3a428443364ae75af15f2eb62323e5",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/other-support": {
@@ -755,25 +755,25 @@
     "https://www.ndis.gov.au/contact/other-support/family-violence-and-mental-health": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/other-support/family-violence-and-mental-health/index.html",
-      "sha256": "a40906f3b5b31c47778bfa6a1d35280d0584e2f9205cc5dfa686a93c236a57e9",
+      "sha256": "c4feec60f44cddf0d0755c0c0f756530e7a5f7e814935ad32b4e1a89c33303d9",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/other-support/ndis-and-bushfire-and-emergency-support": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/other-support/ndis-and-bushfire-and-emergency-support/index.html",
-      "sha256": "e4bf0704fc0202d6aa5c14d409991e25f113c87e7fae0ba48422aa07845624a7",
+      "sha256": "8268269265337b7f0ec231550b7271d11238a9058d1a12d7e94edc3bf5a35995",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/reporting-fraud": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/contact/reporting-fraud/index.html",
-      "sha256": "749815cd17d429d4266dbf2063b6b936c5a0578ba78f4861791a73fe70b935fc",
+      "sha256": "9b0cc6180aac9434287308981a5ac1295816b69ee801a932b49df76ec67bf629",
       "status": "active"
     },
     "https://www.ndis.gov.au/contact/reporting-fraud/fraud-reporting-form": {
@@ -835,9 +835,9 @@
     "https://www.ndis.gov.au/governance/debt-management-and-recovery": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/governance/debt-management-and-recovery/index.html",
-      "sha256": "ee872bbff6c09b4f7f2e22e4342e768482bf777782d373ec70b66e3784590c2e",
+      "sha256": "ed9903bffbe76adc39066cc0f80cefcd55a6abd93c8ebec8608dcd005f3be326",
       "status": "active"
     },
     "https://www.ndis.gov.au/governance/fraud-and-non-compliance": {
@@ -899,9 +899,9 @@
     "https://www.ndis.gov.au/grants-and-projects/coordinated-funding-proposals": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/grants-and-projects/coordinated-funding-proposals/index.html",
-      "sha256": "3bc63cc50c34251fbd59016850feaf6cbad17f86a70ae09082bfae447060832b",
+      "sha256": "9687bb4ae45d9e4bf3403078d4f00290e579e3debd9051fb5c767a07b081c55c",
       "status": "active"
     },
     "https://www.ndis.gov.au/grants-and-projects/funded-projects": {
@@ -923,9 +923,9 @@
     "https://www.ndis.gov.au/grants-and-projects/how-coordinated-funding-proposals-work": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/grants-and-projects/how-coordinated-funding-proposals-work/index.html",
-      "sha256": "de0e7ffa210f3728a8e529d26bc4518f53aa8a0714f0462f2ea7d0fa3c7066d4",
+      "sha256": "146ac45980ab21b27783d4e7bb5a944ab54afd8871c9d36846eab077779dd4ba",
       "status": "active"
     },
     "https://www.ndis.gov.au/grants-and-projects/information-linkages-and-capacity-building-ilc": {
@@ -955,17 +955,17 @@
     "https://www.ndis.gov.au/grants-and-projects/procurement-and-grants-guidance": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/grants-and-projects/procurement-and-grants-guidance/index.html",
-      "sha256": "91c00d69d2ff3f50527f87c293682df73cc47fef36c79c04a856ce1e7df8d636",
+      "sha256": "b4a3fc9700b3df508069ed6b091be14c6f74a7a66c08b2fa46938e5187414697",
       "status": "active"
     },
     "https://www.ndis.gov.au/grants-and-projects/quality-supports-program": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/grants-and-projects/quality-supports-program/index.html",
-      "sha256": "b69d37b8afd72f4bbdbf0017edd0c71a191206530742ed81a37cf1f9ffb0700f",
+      "sha256": "7752d450b5bf888628096ae9d8c21b23ee8003fe0a1fdf1c6ce833ee40fe2855",
       "status": "active"
     },
     "https://www.ndis.gov.au/languages": {
@@ -1019,9 +1019,9 @@
     "https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/ndis-laws/securing-ndis-future-generations/index.html",
-      "sha256": "3f46a4bd6ed2f60a5aa9de463040389627e41fb4ac7391033bd2d84e5fc160c9",
+      "sha256": "6d8a4794ecb97e51678346132597a2009e722fe446f78010f5c59928c581be16",
       "status": "active"
     },
     "https://www.ndis.gov.au/news": {
@@ -1059,9 +1059,9 @@
     "https://www.ndis.gov.au/news/media": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/news/media/index.html",
-      "sha256": "e51e8b16d15ce90780f1464dd3fe469bb25515e3e6eff5b4f2f640b7be3e5c71",
+      "sha256": "4bf70a88e39c22444e78ffa2c33d9142c6104bbc96ddc3bc7f2b8d386feb9f09",
       "status": "active"
     },
     "https://www.ndis.gov.au/news/media-releases": {
@@ -1107,9 +1107,9 @@
     "https://www.ndis.gov.au/participants/assistive-technology/animal-supports/dog-guide-provider-list": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/assistive-technology/animal-supports/dog-guide-provider-list/index.html",
-      "sha256": "357763dc257641b1e0a2f3b4c12206071dff001522fda79a05493e3a72c82f9c",
+      "sha256": "552533d671162b3d54f619c68194141452b433d47a8d81921fa92694c5f258fb",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/assistive-technology/animal-supports/how-ask-funding-assistance-animals": {
@@ -1131,9 +1131,9 @@
     "https://www.ndis.gov.au/participants/assistive-technology/animal-supports/what-are-assistance-animals": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/assistive-technology/animal-supports/what-are-assistance-animals/index.html",
-      "sha256": "073f315c54839ce899c07b44aa68c062b2f241a480163c95ac3b65212134871f",
+      "sha256": "8c3df4f2956f3afb2e250426aae599b84fb9d41a6882cc8d96742b76f2a2c3e2",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/assistive-technology/animal-supports/what-assistance-animal-assessment": {
@@ -1195,9 +1195,9 @@
     "https://www.ndis.gov.au/participants/assistive-technology/assistive-technology-assessments": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/assistive-technology/assistive-technology-assessments/index.html",
-      "sha256": "d32bd918a4abce7d8d484ff123c251b7d858cc2cb971e399413c510dbfe081c0",
+      "sha256": "9b6a54851be4a81a27919db59f0eb62fe6b0c65778b3260b87eb525545a67c28",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/assistive-technology/assistive-technology-assessments/what-continence-related-assistive-technology-assessment": {
@@ -1539,9 +1539,9 @@
     "https://www.ndis.gov.au/participants/changing-your-plan/your-next-plan/what-check": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/changing-your-plan/your-next-plan/what-check/index.html",
-      "sha256": "5037929adf26a1146cb015aec382ae6d44500c10cab1f31493c27896dd9ece50",
+      "sha256": "02159f26c2df8599543f6692532fe6bd837e50a7dd7dc32c2383396a23e9b82a",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/creating-plan": {
@@ -1563,25 +1563,25 @@
     "https://www.ndis.gov.au/participants/creating-plan/compensation/ndis-compensation-calculator": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/creating-plan/compensation/ndis-compensation-calculator/index.html",
-      "sha256": "5cf522c832a6538f3a2691956e9b14a9cb3530a38962724c66617e8812e12832",
+      "sha256": "3b00c913d89bf65155adb843c5883cd3ebb83c4404794d9cd8badac2519242d3",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/creating-plan/compensation/what-compensation": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/creating-plan/compensation/what-compensation/index.html",
-      "sha256": "cdcbaec9c8e42bac6845507631984a5f7c6ed04ff1759e6426daa6c6bbadaf34",
+      "sha256": "3e3f94dd3ba796a0106bccb283a2b47c934cf7eddce899a0ba25c867ede18ace",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/creating-plan/compensation/what-statutory-scheme": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/creating-plan/compensation/what-statutory-scheme/index.html",
-      "sha256": "e2e70a443bf05abaa120a1d4aba37af8e4ad78094ddf9b8d750bb8cbab328939",
+      "sha256": "f6a0dc055211e23914c6bd7e00ea893bcf8317f16ee0afb27e8ffcc90ed17f90",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/creating-plan/creating-your-first-plan": {
@@ -1667,9 +1667,9 @@
     "https://www.ndis.gov.au/participants/creating-plan/understanding-plan-meeting/what-reasonable-and-necessary": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/creating-plan/understanding-plan-meeting/what-reasonable-and-necessary/index.html",
-      "sha256": "1c2e7e4c62e19074cee2baa43b463046594d29cacb65676e4b8a33e12ddac9e1",
+      "sha256": "f612f3b5ca57cf652f118ea7ed1b89bd782f760c18f80b9a080f5338b21cb7a6",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/home-and-living": {
@@ -1827,9 +1827,9 @@
     "https://www.ndis.gov.au/participants/life-transitions/employment-support/guide-employment-support-young-participants": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/life-transitions/employment-support/guide-employment-support-young-participants/index.html",
-      "sha256": "991ecb027ed354a63b0cc6c8ccba6ef80e116735e68e4ff65359535a14df138b",
+      "sha256": "78fb3a8b6471dd016a465de7fa466abbc82319fb7d0f9d3c82ed7c7161c16a29",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/life-transitions/employment-support/how-set-employment-goals": {
@@ -1851,9 +1851,9 @@
     "https://www.ndis.gov.au/participants/life-transitions/leaving-ndis/guide-leaving-ndis": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/life-transitions/leaving-ndis/guide-leaving-ndis/index.html",
-      "sha256": "fd987864a3668180298ded8a17409cba328a55b1740117de069049ed2e6187cc",
+      "sha256": "41bbdfb2ae606812bbb1c55d8eabba26c8e319dd8ca75a488bccaacca975abf4",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/life-transitions/leaving-ndis/what-needed-when-participant-dies": {
@@ -1875,9 +1875,9 @@
     "https://www.ndis.gov.au/participants/life-transitions/transitioning-other-systems/guide-residential-aged-care": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/life-transitions/transitioning-other-systems/guide-residential-aged-care/index.html",
-      "sha256": "d0a8067767a841833abde47809d544dd875c25868c427deb2bcdd3d13138538b",
+      "sha256": "6302d5bd2471f05423407d3178933d428d528002c8519b52cd45cc187b549a8b",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/life-transitions/transitioning-other-systems/guide-your-hospital-stay": {
@@ -2195,9 +2195,9 @@
     "https://www.ndis.gov.au/participants/using-your-funding/using-portal-and-app/ndis-budget-calculator": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/using-your-funding/using-portal-and-app/ndis-budget-calculator/index.html",
-      "sha256": "5fe4101a6ad3d4f8926fdcd5bfa925b4e3de77f47a3070d98f4c60bdc186b0cc",
+      "sha256": "4afb692767f36790e61b30d00c53b14ebfd1e12f07a570a99e29d2b2ab79f914",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/using-your-funding/using-portal-and-app/what-are-ndis-pricing-arrangements": {
@@ -2267,9 +2267,9 @@
     "https://www.ndis.gov.au/participants/working-providers/finding-providers/continence-provider-list": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/finding-providers/continence-provider-list/index.html",
-      "sha256": "4690904487a87d8281bfbb85c89a93b33d3397b3a2b0bb70aa75b73bcd1cb837",
+      "sha256": "df7d23f5eb40bdbe407bf8056767d59ec3c509596b32c18ee1010b2f3fdbffb1",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/finding-providers/how-find-and-choose-provider": {
@@ -2411,25 +2411,25 @@
     "https://www.ndis.gov.au/participants/working-providers/protecting-yourself/what-non-compliance": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/protecting-yourself/what-non-compliance/index.html",
-      "sha256": "8c6dba900f15278c254753ab90b7b8826edbe5794979f06e04ff17535533f7ba",
+      "sha256": "7126b4ce34026fac92bd0edc9063e72b5b9db5a709abe5d27d340e5581893853",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/protecting-yourself/what-scam": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/protecting-yourself/what-scam/index.html",
-      "sha256": "951d598ae851e2772b2524262a21070d7bbd176aa286746a3e811ae1dc0813c8",
+      "sha256": "93cdd60b8ac3c6abfba5426ef0402673d3c3bd2115be8c63bfc861d3333e145c",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/support-coordinators-and-plan-managers": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/support-coordinators-and-plan-managers/index.html",
-      "sha256": "82a0945dd9b917fc5b0947084752dfd4bee169894d966a795811d98e56bf944e",
+      "sha256": "06f448527f7db5954d6a9b40a999f3071df121baf987e21ffe31b5308d209711",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/support-coordinators-and-plan-managers/how-find-plan-manager": {
@@ -2443,17 +2443,17 @@
     "https://www.ndis.gov.au/participants/working-providers/support-coordinators-and-plan-managers/how-find-support-coordinator": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/support-coordinators-and-plan-managers/how-find-support-coordinator/index.html",
-      "sha256": "e464ca966affc7b049d19aceb7c6527bbfbba0ccde713db78825b4ab0e3d3242",
+      "sha256": "14341e24c30b9b44673fc821017ed730ba57bdfa249f2ca1563f9da7322ed97f",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/support-coordinators-and-plan-managers/what-plan-manager": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/support-coordinators-and-plan-managers/what-plan-manager/index.html",
-      "sha256": "6449a6e707ebb3a28b50b272c8f6e81ed3eb53feb613fec4511d81a748bd0883",
+      "sha256": "e202bdcf721d48e6abb88a839b4c5db09a2c9c67cb6616bbe4b1f247348fe8e1",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/support-coordinators-and-plan-managers/what-support-coordinator": {
@@ -2499,9 +2499,9 @@
     "https://www.ndis.gov.au/participants/working-providers/your-rights-and-responsibilities/how-protect-your-ndis-plan": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/participants/working-providers/your-rights-and-responsibilities/how-protect-your-ndis-plan/index.html",
-      "sha256": "863a69897d618df8117149b2f25427200605d29567bf7af945d370cb14889902",
+      "sha256": "f2d6d060a6317d1342bed9180fbe469c185a80ef23f7d827956979efe11e9881",
       "status": "active"
     },
     "https://www.ndis.gov.au/participants/working-providers/your-rights-and-responsibilities/how-take-steps-when-something-wrong": {
@@ -2547,25 +2547,25 @@
     "https://www.ndis.gov.au/policies-rules-and-legal/about-freedom-information-foi/foi-disclosure-log": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/about-freedom-information-foi/foi-disclosure-log/index.html",
-      "sha256": "5968640f1a38276b0111cf123bd6d2c78a37556f229b1f1ff2adf7f5422f8de1",
+      "sha256": "e6b84cd632628a0b0bbf624cd6f858a666546b415a0e5b0902d52760e43613ef",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/about-freedom-information-foi/freedom-information-foi": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/about-freedom-information-foi/freedom-information-foi/index.html",
-      "sha256": "53d6c62de4e3700763b6f55ea8313b6e26a3b91ec69a90e8a4236b5e797a950e",
+      "sha256": "88b67805350b2238ddd2e65affc18644f6ffbae8ba37f0b5a0f21f728c72df12",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/about-freedom-information-foi/information-publication-scheme": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/about-freedom-information-foi/information-publication-scheme/index.html",
-      "sha256": "3df95e8491ce96277c82ff655bca8e8c131fc078c895953ed1d7a72afd2e10f2",
+      "sha256": "3847b785d8083c6a3e3cb6bfbdafed8356f9dc2a06261af9e4f84f227dc05b10",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/legal": {
@@ -2579,25 +2579,25 @@
     "https://www.ndis.gov.au/policies-rules-and-legal/legal/how-serve-court-orders": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/legal/how-serve-court-orders/index.html",
-      "sha256": "910889a3c4bcfd5d7d5cf3ca4b1a71e7e424aad8f1dd2d60423cbf492e771dc7",
+      "sha256": "25cff24d314e8bf936cd184c66eebaf0d59e4fbb574f20963c2db824bc8b831a",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/legal/legal-matters": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/legal/legal-matters/index.html",
-      "sha256": "d2b6be479d526d6e4771727600305b5d8a1ad66c348afa2512583880b4c8fb8d",
+      "sha256": "4d9a515efee89a40df5a8270a595f558f22de1119db7d7e1a2589d9fb1d70c6c",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/legal/our-model-litigant-guidelines": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/legal/our-model-litigant-guidelines/index.html",
-      "sha256": "29705198c5ae4389b583c9d1cb51cb5aaa2142e58b824234f44b9ada58a235d5",
+      "sha256": "42f6519ce3d2bcab959ef22d0470e106b11c38282f9665ad218fbf25f92da531",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/legal/senate-order-12-indexed-list-departmental-or-agency-files": {
@@ -2651,9 +2651,9 @@
     "https://www.ndis.gov.au/policies-rules-and-legal/policy/self-management-policy": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/policy/self-management-policy/index.html",
-      "sha256": "5967825f2c67bfbfa62f2b9f3d6275df2225392e4ad3883f09b0423a6d4bda68",
+      "sha256": "d800092e5cab87408e714c165636613fb7ee0967b70bb18b0c16e18afbd39b4c",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/policy/supported-decision-making-policy": {
@@ -2667,9 +2667,9 @@
     "https://www.ndis.gov.au/policies-rules-and-legal/policy/vulnerability-disclosure-policy": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/policy/vulnerability-disclosure-policy/index.html",
-      "sha256": "56a068c865f60f5a25c462ec10d5d0de5efb087d425c5802abdfd9237f36dad0",
+      "sha256": "852c5d1d4747f14681af5e5af12ed674ab8bc7b6369487f966e0116b50bc607e",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media": {
@@ -2707,9 +2707,9 @@
     "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/policies-rules-and-legal/using-our-websites-and-social-media/privacy/index.html",
-      "sha256": "9f2253953084e08e39df2dcb1e2cb8621d221c94b6771ea0de596bc74ed4ab43",
+      "sha256": "56682d38914de526532f7679c90266dbf4067e2dcd1398f74269f1be933d0f52",
       "status": "active"
     },
     "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use": {
@@ -2763,9 +2763,9 @@
     "https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers/how-help-alternative-options-residential-aged-care": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/home-and-living-providers/how-help-alternative-options-residential-aged-care/index.html",
-      "sha256": "d8ee58ad3f2ef416b7139d2d0e95fb84ec554e00cd4fc4931909d50039e3a11f",
+      "sha256": "306720cbcd05128646e0e2aff8968d1d5e5e4ae0752c71b7773dea35e7d5cc6c",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications": {
@@ -2787,9 +2787,9 @@
     "https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications/how-provide-home-modification-assessment": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/home-modifications/how-provide-home-modification-assessment/index.html",
-      "sha256": "91f6167ae88b83af5f2f219e17804647751a40fd147cc9e2332ca112098a281a",
+      "sha256": "4ebeca24be5aa53e0be34bd5e4f9a44396fe83b3e75337a29454ed673dc74ba4",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda": {
@@ -2811,41 +2811,41 @@
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/find-specialist-disability-accommodation-sda-assessor": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/find-specialist-disability-accommodation-sda-assessor/index.html",
-      "sha256": "266ada062ec15f4e51e33683407ec312009816604d40a40061b23fd50b853674",
+      "sha256": "52b3d9ab8f6cdfe7e8ad4cb6a50022a57536cddf459cabdce67f3389a2050b34",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-design-standards": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-design-standards/index.html",
-      "sha256": "2c8d96896528bfb6f918f2d8eece935724bf16d52738eac8badf357013c60c10",
+      "sha256": "c402568571a2a73fddfa13152084d60660c3beb3f7f1f0ff8dacc84a48a776e1",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-arrangements": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-arrangements/index.html",
-      "sha256": "e2e5043210b4b976ab0c6707ada1a0dcedf437d859befb70216e13be39cb3bc3",
+      "sha256": "d820b015c907cf5f6927a5f0d99e3e9b81662cf01bbbe01e369267b3b6bc5a31",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-review": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-review/index.html",
-      "sha256": "055bed79c6f621a00fafc09be49bed74df2a55d814af2f9bee0a356e760c8ca6",
+      "sha256": "74d8bace25608326bdc133bbe150f32cca3e04ef1ced4a944820a432ebdaeee8",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/what-specialist-disability-accommodation-sda-demand-data": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/what-specialist-disability-accommodation-sda-demand-data/index.html",
-      "sha256": "c5c5e1386eada5121babc1823ea942119bebba39d36788d7fb52fe602cb48e19",
+      "sha256": "0ece815e7f7feb4c5a73cecfda7c84b5cb9545b7d2ddad31394f0833da678200",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/guide-providing-specialist-disability-accommodation-sda": {
@@ -2867,9 +2867,9 @@
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-manage-specialist-disability-accommodation-sda-vacancies": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-manage-specialist-disability-accommodation-sda-vacancies/index.html",
-      "sha256": "1e58d453034d3b942c9bdb80056d3b917446fa0ac904f847c57968b4a1934662",
+      "sha256": "6bc8e1e4c1855fc189bfdbf366bbd6cef5e00161ffc3337756aa1c4bb2c5e919",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-provide-onsite-shared-support": {
@@ -2883,9 +2883,9 @@
     "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/investment-specialist-disability-accommodation-sda": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/home-and-living-providers/specialist-disability-accommodation-sda/investment-specialist-disability-accommodation-sda/index.html",
-      "sha256": "3278598026d0896ecf29016b158c4140fff1253b7cbd435d7142e0cc284e8073",
+      "sha256": "73a71bd6d503ffa4a1a684bc60fcbaf236d27b871f6b1c6ea340dddc909ad3f7",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently": {
@@ -3051,9 +3051,9 @@
     "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/pricing-updates": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/pricing-and-payments/pricing/pricing-updates/index.html",
-      "sha256": "0b4dc742d21d003521eb76f1c83856ee72884ae9cce7f2c8b81e8d487566d3e9",
+      "sha256": "eab186c53408fb2900f2d128fd6f0db6cd161cf709b6a605dd9a430d0ffd05cb",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/what-annual-pricing-review-apr": {
@@ -3091,17 +3091,17 @@
     "https://www.ndis.gov.au/providers/working-participants/allied-health-professionals/guide-working-allied-health-provider": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/allied-health-professionals/guide-working-allied-health-provider/index.html",
-      "sha256": "d1d9aeab6f4a1eda0170c2e34f73ee2e2fb8ad3365691feb4725978a3dc5735c",
+      "sha256": "277c1ea73f1785adb25145e54331cf15b94919961a6cb1aa1a01f1038d0b92f9",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/allied-health-professionals/how-write-plan-reassessment-report": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/allied-health-professionals/how-write-plan-reassessment-report/index.html",
-      "sha256": "ce73f98f5f992d9929b358908421eb38b076a80f3a28c0e531121cb2fad0dbaf",
+      "sha256": "956d97cdc427d7a18b366b9c6402e4d29cf79584bd112db94334ab1e89699289",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers": {
@@ -3115,25 +3115,25 @@
     "https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers/how-prepare-evidence-participants-assistive-technology-assessment": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/assistive-technology-providers/how-prepare-evidence-participants-assistive-technology-assessment/index.html",
-      "sha256": "87297ee822267f1e75b8c1a18b62ce5b6f763afa365a3c4a3a975aaacb3e10ee",
+      "sha256": "40b0f2670b5d7bd868b00456a906512c724d8689cf4f346f204539ac092e69f7",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers/how-provide-assistive-technology-participants": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/assistive-technology-providers/how-provide-assistive-technology-participants/index.html",
-      "sha256": "639c10cf319e91490109959cbe68c74c6d9b8ac408f1582615a3d621c699a802",
+      "sha256": "05292ed405be1d5095173c62f7885779d164057eb018edc5eaa7bd44ca49df38",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/early-childhood-providers": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/early-childhood-providers/index.html",
-      "sha256": "060dca29bfd94792d217037bfcda8120ec7b36a149802a742a79f33a3d27993b",
+      "sha256": "0491fb9b5d7b559dabe33161f5055070293a0c706e12f833c18801245e318784",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/early-childhood-providers/how-write-early-childhood-provider-report": {
@@ -3155,9 +3155,9 @@
     "https://www.ndis.gov.au/providers/working-participants/employment-providers/employment-provider-reports": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/employment-providers/employment-provider-reports/index.html",
-      "sha256": "a9d2cd5511ed2178a49bfa37a65e11e0b4984f50542d29d741cc219d5e44e71c",
+      "sha256": "c872f876ce268d62f628baa74ab3795175b8d04d526dc41044e930cf504e6253",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/employment-providers/guide-providing-employment-supports": {
@@ -3171,9 +3171,9 @@
     "https://www.ndis.gov.au/providers/working-participants/employment-providers/how-report-employment-outcomes": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-participants/employment-providers/how-report-employment-outcomes/index.html",
-      "sha256": "2d1c73e46f2aa2d22013fc07f054555111d9d991e187c128edb9df7a1c6b6fb1",
+      "sha256": "25ba2fc65750b967268044e14618a99d7c740cca1029d71b96adb05d997353ff",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals": {
@@ -3299,9 +3299,9 @@
     "https://www.ndis.gov.au/providers/working-provider/becoming-provider": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/becoming-provider/index.html",
-      "sha256": "a0e0b92f90ec2f1fc4f8c53eb090cf70637c0a8dba5d8840452370b875f805b3",
+      "sha256": "34dbeccb3455bf32cbca7d86311ff8c944c380bc5a928a34b837e97a67ff718d",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/becoming-provider/guide-becoming-provider": {
@@ -3315,9 +3315,9 @@
     "https://www.ndis.gov.au/providers/working-provider/becoming-provider/guide-working-provider": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/becoming-provider/guide-working-provider/index.html",
-      "sha256": "42b4c641df0a7a6e49ef84daf481a7e55eea71e76d25013c0b57132584fdb88b",
+      "sha256": "b9dd9fb1a3f0f23e313abedb67760b6a614f2684db788d6661dfdc9d8363d066",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/becoming-provider/how-register-provider": {
@@ -3331,17 +3331,17 @@
     "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/provider-responsibilities/index.html",
-      "sha256": "b689c744b738314fe0b57f42f9def611890b2fcd3e1f8d74950a0b28e8c5c904",
+      "sha256": "67487487f66509ffe5660c25a632a1e1c31d12d7383246b597d84f06414e09a7",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants/index.html",
-      "sha256": "7497eb3b7443f164ce8c40e19347e3b4ea3257e4bafd6c3aa30b2102b14866fa",
+      "sha256": "c1e688421449d11ab0192e9df2184296a3dc14e77630916a16f900033e39e6c2",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-do-right-thing-provider": {
@@ -3363,9 +3363,9 @@
     "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-are-responsibilities-provider": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/provider-responsibilities/what-are-responsibilities-provider/index.html",
-      "sha256": "e3381c3cf1ff17b28c64fec7801ea526a894e2e8bec74b8a7c336007f5c560e7",
+      "sha256": "8a30121d453b6465a8ffc2392acd6c8d35ee7f82e574846b76900ab7d1d6e07f",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-conflict-interest": {
@@ -3387,9 +3387,9 @@
     "https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping/guide-report-writing": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/reporting-and-recording-keeping/guide-report-writing/index.html",
-      "sha256": "59c521d5679dc4b604b2799583c233736f6a67fe9ab483198cea87b3ef9dedbc",
+      "sha256": "5efa25a0d4bc380ffb9374ddc7e105e015516cfb81a561178184584c0fd934ad",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping/what-are-record-keeping-requirements": {
@@ -3411,9 +3411,9 @@
     "https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-connect-our-systems": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/providers/working-provider/using-provider-portals/how-connect-our-systems/index.html",
-      "sha256": "9fbe1ac4714a9736aa56803ef2093408a759a7790ae29d56131d341d45dc2703",
+      "sha256": "9ccabe1d07b410735015988efa939ecaf96f1c9045459f6edde50d393e6d5e81",
       "status": "active"
     },
     "https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-use-provider-portals": {
@@ -3475,9 +3475,9 @@
     "https://www.ndis.gov.au/publications/annual-report/annual-report-2014-15": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/publications/annual-report/annual-report-2014-15/index.html",
-      "sha256": "c6f44b74ab3ab205a7b2f34cc19cd97a400599def37def7e1bae2a901d0c3809",
+      "sha256": "5f7c5d91ae635211adf682317d288950204398ec7253da78f3ff00da0f43fe64",
       "status": "active"
     },
     "https://www.ndis.gov.au/publications/annual-report/annual-report-2015-16": {
@@ -3491,9 +3491,9 @@
     "https://www.ndis.gov.au/publications/annual-report/annual-report-2016-17": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/publications/annual-report/annual-report-2016-17/index.html",
-      "sha256": "82fece3bb26f07725c2f8963e7f590071e4c0920e26e5664a9a2f55583de0960",
+      "sha256": "52ae9e11e17421424b8646aec764b062d2e52494b5c0345afdd47f970d492d73",
       "status": "active"
     },
     "https://www.ndis.gov.au/publications/annual-report/annual-report-2017-18": {
@@ -3555,9 +3555,9 @@
     "https://www.ndis.gov.au/publications/aps-census": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/publications/aps-census/index.html",
-      "sha256": "8a9407e0d61e0020208d39552f7def7f8fe0e5294a465d1ba5a88b3f7afdff0e",
+      "sha256": "f900dbc5b50952d21293260d5d68162249735b7c9a91d2e3fff5368af4cc788c",
       "status": "active"
     },
     "https://www.ndis.gov.au/publications/booklets-and-factsheets": {
@@ -3603,9 +3603,9 @@
     "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2015-16": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/publications/quarterly-reports/archived-quarterly-reports-2015-16/index.html",
-      "sha256": "3abbcbb8db4421d667d75bf6b1e59e44dc0c86c309be2d9e50197dd633f672a4",
+      "sha256": "6c66a3c01232cb743c027372e6b9d8464b3294f861d383315a7933b0a6970286",
       "status": "active"
     },
     "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2016-17": {
@@ -3715,9 +3715,9 @@
     "https://www.ndis.gov.au/reference-groups/cald-expert-advisory-group": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/reference-groups/cald-expert-advisory-group/index.html",
-      "sha256": "a633b630ace1e2607db4f4f5ddc763545c8fac772d495d34d6d0aa31dd067ed9",
+      "sha256": "a98d197760ffa0c0f26d12dfe7cb4ed98b2cba4d466c3889084441cefef4ce40",
       "status": "active"
     },
     "https://www.ndis.gov.au/reference-groups/childrens-expert-advisory-group": {
@@ -3731,9 +3731,9 @@
     "https://www.ndis.gov.au/reference-groups/co-design-advisory-group": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/reference-groups/co-design-advisory-group/index.html",
-      "sha256": "9f274a7dad55126f8974b500299963407e01beceeebb541275b4e5eca467d751",
+      "sha256": "dbaf3829d20a2574779cefded727ab633e775cd2bf947370cac337f06796b548",
       "status": "active"
     },
     "https://www.ndis.gov.au/reference-groups/disability-representative-and-carer-organisations": {
@@ -3771,9 +3771,9 @@
     "https://www.ndis.gov.au/reference-groups/participant-reference-group": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/reference-groups/participant-reference-group/index.html",
-      "sha256": "612d668ff6a030f27e80b4ea1ffeba057d88bc331a952d743113b0efeef06e77",
+      "sha256": "cc9a5ecb40610df531266ede78a56ad416d17785800c29141a31f12c9fed08ed",
       "status": "active"
     },
     "https://www.ndis.gov.au/reference-groups/pricing-arrangement-reference-group": {
@@ -3795,9 +3795,9 @@
     "https://www.ndis.gov.au/reference-groups/sda-reference-group": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/reference-groups/sda-reference-group/index.html",
-      "sha256": "3c52ffbd70f7677f2872e283244422dc670a8f06d16f1adc135985f307124a35",
+      "sha256": "9bc266bb1fd1d59f276d73cccce0db1ff4f184d1e4fc7fe8319de8b4e4a17b49",
       "status": "active"
     },
     "https://www.ndis.gov.au/reference-groups/self-management-advisory-group": {
@@ -3851,9 +3851,9 @@
     "https://www.ndis.gov.au/strategies/first-nations-strategy": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/strategies/first-nations-strategy/index.html",
-      "sha256": "4b27adc03357a5673b927cef861574c229650159ea8e144e9a4970ccce1e0c4a",
+      "sha256": "21e256bbccb788a38695d580b93807e573696110756c4df1c570a9f675b587a3",
       "status": "active"
     },
     "https://www.ndis.gov.au/strategies/lgbtiqa-strategy": {
@@ -3867,9 +3867,9 @@
     "https://www.ndis.gov.au/strategies/participant-employment-strategy": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/strategies/participant-employment-strategy/index.html",
-      "sha256": "1fa559b58f2b16447e7aa641283f065b435831e5d8c7418e22e2bf15cc6a0555",
+      "sha256": "038b0cd764763e78f567fdaea112d19f093bddfb72553ad689165b8516693a3f",
       "status": "active"
     },
     "https://www.ndis.gov.au/strategies/pricing-work-plan": {
@@ -3891,9 +3891,9 @@
     "https://www.ndis.gov.au/understanding-ndis": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/understanding-ndis/index.html",
-      "sha256": "8bddcc47c33d962d763c3fd40eb37326c1baaaed984244d7de03913afe6852e5",
+      "sha256": "124711b3dd01effebd42f5482cc9b3386edb9801ee9f9ffb5a63061465efedeb",
       "status": "active"
     },
     "https://www.ndis.gov.au/understanding-ndis/about-ndis": {
@@ -3939,9 +3939,9 @@
     "https://www.ndis.gov.au/understanding-ndis/people-help-you/what-my-ndis-contact": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/understanding-ndis/people-help-you/what-my-ndis-contact/index.html",
-      "sha256": "7c64198492482ae9dc4e53f3044327a0c629a3a4a9a7fceaf22f123fbe561e59",
+      "sha256": "0210164e499b2ea084bc2a79feb4b8ff0766d1bb65b4b62a5017186f48bec8c7",
       "status": "active"
     },
     "https://www.ndis.gov.au/understanding-ndis/people-help-you/what-ndis-partner": {
@@ -3963,9 +3963,9 @@
     "https://www.ndis.gov.au/understanding-ndis/people-help-you/what-remote-community-connector": {
       "content_type": "text/html; charset=UTF-8",
       "first_seen": "2026-08-19T06:08:51Z",
-      "last_changed": "2026-08-20T18:03:03Z",
+      "last_changed": "2026-08-21T18:03:55Z",
       "path": "archive/ndis/pages/understanding-ndis/people-help-you/what-remote-community-connector/index.html",
-      "sha256": "ceb22037c036912ba09ad4d865f39e3185926b73e1f26f32499e0b31e9df0293",
+      "sha256": "9fc2a6b908b210cee75ccd5064d50778d0d11a529537cc812d86c4541297773d",
       "status": "active"
     },
     "https://www.ndis.gov.au/understanding-ndis/where-begin": {

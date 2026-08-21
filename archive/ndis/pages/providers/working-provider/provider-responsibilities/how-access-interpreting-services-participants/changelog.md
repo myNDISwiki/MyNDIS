@@ -44,3 +44,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Unregistered providers can also use these services, but they'll need to fund the cost of the service.
  Tip: Does your participant need Auslan interpretation?
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `7497eb3b7443f164ce8c40e19347e3b4ea3257e4bafd6c3aa30b2102b14866fa`
+- New SHA-256: `c1e688421449d11ab0192e9df2184296a3dc14e77630916a16f900033e39e6c2`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

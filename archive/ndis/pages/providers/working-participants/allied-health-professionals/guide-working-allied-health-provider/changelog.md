@@ -55,3 +55,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  between you and the participant should document this consent.
  It should also include how the arrangement can result in more flexibility for the participant. For example, a lower hourly rate or additional hours of service.
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `d1d9aeab6f4a1eda0170c2e34f73ee2e2fb8ad3365691feb4725978a3dc5735c`
+- New SHA-256: `277c1ea73f1785adb25145e54331cf15b94919961a6cb1aa1a01f1038d0b92f9`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

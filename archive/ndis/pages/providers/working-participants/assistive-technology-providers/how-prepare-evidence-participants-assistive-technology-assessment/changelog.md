@@ -149,3 +149,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Main navigation sidebar
  For providers
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `87297ee822267f1e75b8c1a18b62ce5b6f763afa365a3c4a3a975aaacb3e10ee`
+- New SHA-256: `40b0f2670b5d7bd868b00456a906512c724d8689cf4f346f204539ac092e69f7`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

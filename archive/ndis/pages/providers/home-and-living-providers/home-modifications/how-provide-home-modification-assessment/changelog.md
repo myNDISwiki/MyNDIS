@@ -125,3 +125,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  service hub
  .
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `91f6167ae88b83af5f2f219e17804647751a40fd147cc9e2332ca112098a281a`
+- New SHA-256: `4ebeca24be5aa53e0be34bd5e4f9a44396fe83b3e75337a29454ed673dc74ba4`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

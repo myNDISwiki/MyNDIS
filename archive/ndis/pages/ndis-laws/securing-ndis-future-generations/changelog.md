@@ -40,3 +40,35 @@ The page bytes changed, but no visible main-content wording change was detected.
  There will be community consultation on:
  the design of a commissioning approach for home and living supports for supported independent living (SIL) participants who need 24/7 support to make sure participants get the best supports and address provider viability challenges
 ```
+
+## 2026-08-21T18:07:41Z — changed
+
+- Previous SHA-256: `3f46a4bd6ed2f60a5aa9de463040389627e41fb4ac7391033bd2d84e5fc160c9`
+- New SHA-256: `6d8a4794ecb97e51678346132597a2009e722fe446f78010f5c59928c581be16`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -6,7 +6,7 @@
+ Save page as PDF
+ On 19 August 2026, the Australian Parliament passed the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ This means there are some changes coming to the NDIS to secure it for the long term. These include who can access the NDIS, how plans are managed, how funding is used and how providers operate.
+-The Bill will become law once the Governor-General signs it. Changes will start 7 days after that.
++The Governor-General signed the new laws on Thursday 20 August 2026. Changes will start from Thursday 27 August 2026.
+ If a change affects you, we'll let you know what’s happening and when and make sure you have the information and support you need.
+ Right now, you can continue using your plan and supports as usual.
+ Learn more about what the NDIS laws mean in this video or
+@@ -15,7 +15,7 @@
+ Transcript for '
+ What do the new NDIS laws mean
+ '
+-Changes from 7 days after the new laws are signed
++Changes from 27 August 2026
+ Plan reassessments
+ Changes will be made to when and how participants can ask for plan reassessments, before their scheduled reassessment date.
+ Only participants, plan nominees or child representatives will be able to ask for this type of plan reassessment.
+```
