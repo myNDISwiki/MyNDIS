@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Discover, archive, and change-track NDIS material on health.gov.au.
 
-Starts from the Department's NDIS legislation hub, follows same-site links that
-are either inside the NDIS legislation section or whose URL/link text refers to
-NDIS/National Disability Insurance Scheme, and archives HTML pages plus linked
-PDF/Word documents. Git history preserves prior versions.
+The tracker first attempts direct retrieval from Health.gov.au. GitHub-hosted
+Azure runners are currently receiving zero-byte timeouts from Health's edge, so
+when direct retrieval fails it falls back to Jina Reader. Canonical Health.gov.au
+URLs remain the source identifiers. Metadata records which retrieval path was
+used so proxy-derived captures are never mistaken for direct raw HTML.
 """
 from __future__ import annotations
 
@@ -18,7 +19,7 @@ from collections import deque
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, urldefrag
+from urllib.parse import quote, urljoin, urlparse, urldefrag
 
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
@@ -31,6 +32,8 @@ UA = (
     "Chrome/140.0.0.0 Safari/537.36"
 )
 NDIS_RE = re.compile(r"\b(ndis|national disability insurance scheme)\b", re.I)
+MD_LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^)\s]+)\)")
+RAW_URL_RE = re.compile(r"https?://www\.health\.gov\.au/[^\s)>\]}"']+")
 
 
 class Links(HTMLParser):
@@ -56,47 +59,45 @@ class Links(HTMLParser):
             self._text = []
 
 
-def fetch(url: str) -> tuple[bytes, str]:
-    """Fetch with curl rather than urllib.
-
-    Health.gov.au repeatedly stalled urllib reads from GitHub-hosted Azure
-    runners. curl more closely matches a normal browser request and handles
-    compression/redirects robustly.
-    """
+def curl_fetch(url: str, *, timeout: int, retries: int = 0) -> tuple[bytes, str]:
     with tempfile.TemporaryDirectory() as td:
         body = Path(td) / "body"
         headers = Path(td) / "headers"
         cmd = [
-            "curl",
-            "--location",
-            "--fail",
-            "--silent",
-            "--show-error",
-            "--compressed",
-            "--http1.1",
-            "--retry", "3",
-            "--retry-all-errors",
-            "--retry-delay", "5",
-            "--connect-timeout", "20",
-            "--max-time", "90",
+            "curl", "--location", "--fail", "--silent", "--show-error",
+            "--compressed", "--http1.1",
+            "--connect-timeout", "12", "--max-time", str(timeout),
             "--user-agent", UA,
             "--header", "Accept: text/html,application/xhtml+xml,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,*/*;q=0.8",
             "--header", "Accept-Language: en-AU,en;q=0.9",
-            "--header", "Cache-Control: no-cache",
-            "--dump-header", str(headers),
-            "--output", str(body),
-            url,
+            "--dump-header", str(headers), "--output", str(body),
         ]
+        if retries:
+            cmd += ["--retry", str(retries), "--retry-all-errors", "--retry-delay", "3"]
+        cmd.append(url)
         proc = subprocess.run(cmd, capture_output=True, text=True)
         if proc.returncode != 0:
-            detail = (proc.stderr or proc.stdout or f"curl exit {proc.returncode}").strip()
-            raise RuntimeError(detail)
-
+            raise RuntimeError((proc.stderr or proc.stdout or f"curl exit {proc.returncode}").strip())
         data = body.read_bytes()
         header_text = headers.read_text("iso-8859-1", errors="replace")
         content_types = re.findall(r"(?im)^content-type:\s*([^\r\n]+)", header_text)
-        ctype = content_types[-1].strip() if content_types else ""
-        return data, ctype
+        return data, (content_types[-1].strip() if content_types else "")
+
+
+def fetch(url: str) -> tuple[bytes, str, str]:
+    """Return bytes, content type, and retrieval method."""
+    try:
+        data, ctype = curl_fetch(url, timeout=20, retries=0)
+        return data, ctype, "direct"
+    except RuntimeError as direct_error:
+        print(f"Direct Health fetch failed; using fallback for {url}: {direct_error}", file=sys.stderr)
+
+    # Jina Reader fetches the canonical public URL from outside GitHub's Azure
+    # runner network and returns a text/markdown rendering suitable for hashing,
+    # link discovery, and change tracking. It is explicitly labelled as fallback.
+    fallback_url = "https://r.jina.ai/http://" + url.removeprefix("https://")
+    data, _ = curl_fetch(fallback_url, timeout=60, retries=2)
+    return data, "text/markdown; charset=utf-8", "jina-reader-fallback"
 
 
 def clean(url: str) -> str:
@@ -113,10 +114,12 @@ def relevant(url: str, text: str = "") -> bool:
     return bool(NDIS_RE.search(url + " " + text))
 
 
-def local_path(url: str, content_type: str) -> Path:
+def local_path(url: str, content_type: str, method: str) -> Path:
     p = urlparse(url)
     path = p.path.strip("/") or "index"
     suffix = Path(path).suffix.lower()
+    if method != "direct":
+        return ARCHIVE / path.rstrip("/") / "current.md"
     if "text/html" in content_type or not suffix:
         path = path.rstrip("/") + "/current.html"
     return ARCHIVE / path
@@ -124,6 +127,25 @@ def local_path(url: str, content_type: str) -> Path:
 
 def sha(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
+
+
+def discovered_links(url: str, data: bytes, ctype: str, method: str) -> list[str]:
+    text = data.decode("utf-8", errors="replace")
+    found: list[str] = []
+    if method == "direct" and "text/html" in ctype:
+        parser = Links()
+        parser.feed(text)
+        for href, label in parser.links:
+            linked = clean(urljoin(url, href))
+            if relevant(linked, label):
+                found.append(linked)
+    else:
+        candidates = MD_LINK_RE.findall(text) + RAW_URL_RE.findall(text)
+        for candidate in candidates:
+            linked = clean(candidate.rstrip(".,;"))
+            if relevant(linked):
+                found.append(linked)
+    return found
 
 
 def main() -> int:
@@ -143,45 +165,45 @@ def main() -> int:
             continue
         seen.add(url)
         try:
-            data, ctype = fetch(url)
+            data, ctype, method = fetch(url)
         except (RuntimeError, OSError) as e:
             failures.append(f"{url}: {e}")
             continue
 
-        dest = local_path(url, ctype)
+        dest = local_path(url, ctype, method)
         dest.parent.mkdir(parents=True, exist_ok=True)
         digest = sha(data)
         previous = old_items.get(url, {}).get("sha256")
         if previous != digest or not dest.exists():
             dest.write_bytes(data)
-            print(("NEW " if previous is None else "CHANGED ") + url)
+            print(("NEW " if previous is None else "CHANGED ") + url + f" [{method}]")
 
         items[url] = {
             "sha256": digest,
             "path": str(dest.relative_to(ROOT)),
             "content_type": ctype,
+            "canonical_url": url,
+            "retrieval_method": method,
+            "retrieval_note": (
+                "Direct capture from health.gov.au" if method == "direct" else
+                "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
+            ),
         }
 
-        if "text/html" in ctype:
-            parser = Links()
-            parser.feed(data.decode("utf-8", errors="replace"))
-            for href, text in parser.links:
-                linked = clean(urljoin(url, href))
-                if relevant(linked, text):
-                    queue.append(linked)
+        for linked in discovered_links(url, data, ctype, method):
+            if linked not in seen:
+                queue.append(linked)
 
     removed = sorted(set(old_items) - set(items))
     added = sorted(set(items) - set(old_items))
-    changed = sorted(
-        u for u in items.keys() & old_items.keys()
-        if items[u]["sha256"] != old_items[u].get("sha256")
-    )
+    changed = sorted(u for u in items.keys() & old_items.keys() if items[u]["sha256"] != old_items[u].get("sha256"))
 
     manifest = {
         "seed": SEED,
         "checked_at": checked,
         "items": dict(sorted(items.items())),
         "removed_since_previous_run": removed,
+        "note": "Canonical sources are health.gov.au. retrieval_method identifies direct vs fallback captures.",
     }
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", "utf-8")
 
@@ -193,13 +215,11 @@ def main() -> int:
                 if urls:
                     f.write(f"### {label}\n\n")
                     for u in urls:
-                        f.write(f"- {u}\n")
+                        method = items.get(u, old_items.get(u, {})).get("retrieval_method", "unknown")
+                        f.write(f"- {u} — `{method}`\n")
                     f.write("\n")
 
-    print(
-        f"Health NDIS tracker: {len(items)} archived; {len(added)} added; "
-        f"{len(changed)} changed; {len(removed)} removed"
-    )
+    print(f"Health NDIS tracker: {len(items)} archived; {len(added)} added; {len(changed)} changed; {len(removed)} removed")
     if failures:
         print("Fetch failures:", file=sys.stderr)
         for x in failures:
