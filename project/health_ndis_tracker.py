@@ -11,25 +11,25 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import subprocess
 import sys
-import time
+import tempfile
 from collections import deque
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, urlparse, urldefrag
-from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
 SEED = "https://www.health.gov.au/our-work/ndis-legislation-changes"
 HOST = "www.health.gov.au"
 MAX_PAGES = 500
-FETCH_TIMEOUT = 90
-FETCH_ATTEMPTS = 3
-UA = "Mozilla/5.0 MyNDIS-Archive/1.0 (+https://github.com/myNDISwiki/MyNDIS)"
-DOC_EXT = {".pdf", ".doc", ".docx", ".rtf", ".odt"}
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/140.0.0.0 Safari/537.36"
+)
 NDIS_RE = re.compile(r"\b(ndis|national disability insurance scheme)\b", re.I)
 
 
@@ -39,13 +39,16 @@ class Links(HTMLParser):
         self.links: list[tuple[str, str]] = []
         self._href: str | None = None
         self._text: list[str] = []
+
     def handle_starttag(self, tag, attrs):
         if tag.lower() == "a":
             self._href = dict(attrs).get("href")
             self._text = []
+
     def handle_data(self, data):
         if self._href is not None:
             self._text.append(data)
+
     def handle_endtag(self, tag):
         if tag.lower() == "a" and self._href is not None:
             self.links.append((self._href, " ".join(self._text).strip()))
@@ -54,29 +57,46 @@ class Links(HTMLParser):
 
 
 def fetch(url: str) -> tuple[bytes, str]:
-    req = Request(
-        url,
-        headers={
-            "User-Agent": UA,
-            "Accept": "text/html,application/xhtml+xml,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,*/*;q=0.8",
-            "Accept-Language": "en-AU,en;q=0.9",
-            "Cache-Control": "no-cache",
-        },
-    )
-    last_error: Exception | None = None
-    for attempt in range(1, FETCH_ATTEMPTS + 1):
-        try:
-            with urlopen(req, timeout=FETCH_TIMEOUT) as r:
-                return r.read(), r.headers.get("Content-Type", "")
-        except (HTTPError, URLError, TimeoutError, OSError) as exc:
-            last_error = exc
-            if attempt == FETCH_ATTEMPTS:
-                raise
-            delay = 5 * attempt
-            print(f"Retrying {url} after fetch error ({attempt}/{FETCH_ATTEMPTS}): {exc}; sleeping {delay}s", file=sys.stderr)
-            time.sleep(delay)
-    assert last_error is not None
-    raise last_error
+    """Fetch with curl rather than urllib.
+
+    Health.gov.au repeatedly stalled urllib reads from GitHub-hosted Azure
+    runners. curl more closely matches a normal browser request and handles
+    compression/redirects robustly.
+    """
+    with tempfile.TemporaryDirectory() as td:
+        body = Path(td) / "body"
+        headers = Path(td) / "headers"
+        cmd = [
+            "curl",
+            "--location",
+            "--fail",
+            "--silent",
+            "--show-error",
+            "--compressed",
+            "--http1.1",
+            "--retry", "3",
+            "--retry-all-errors",
+            "--retry-delay", "5",
+            "--connect-timeout", "20",
+            "--max-time", "90",
+            "--user-agent", UA,
+            "--header", "Accept: text/html,application/xhtml+xml,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,*/*;q=0.8",
+            "--header", "Accept-Language: en-AU,en;q=0.9",
+            "--header", "Cache-Control: no-cache",
+            "--dump-header", str(headers),
+            "--output", str(body),
+            url,
+        ]
+        proc = subprocess.run(cmd, capture_output=True, text=True)
+        if proc.returncode != 0:
+            detail = (proc.stderr or proc.stdout or f"curl exit {proc.returncode}").strip()
+            raise RuntimeError(detail)
+
+        data = body.read_bytes()
+        header_text = headers.read_text("iso-8859-1", errors="replace")
+        content_types = re.findall(r"(?im)^content-type:\s*([^\r\n]+)", header_text)
+        ctype = content_types[-1].strip() if content_types else ""
+        return data, ctype
 
 
 def clean(url: str) -> str:
@@ -124,7 +144,7 @@ def main() -> int:
         seen.add(url)
         try:
             data, ctype = fetch(url)
-        except (HTTPError, URLError, TimeoutError, OSError) as e:
+        except (RuntimeError, OSError) as e:
             failures.append(f"{url}: {e}")
             continue
 
@@ -136,7 +156,11 @@ def main() -> int:
             dest.write_bytes(data)
             print(("NEW " if previous is None else "CHANGED ") + url)
 
-        items[url] = {"sha256": digest, "path": str(dest.relative_to(ROOT)), "content_type": ctype}
+        items[url] = {
+            "sha256": digest,
+            "path": str(dest.relative_to(ROOT)),
+            "content_type": ctype,
+        }
 
         if "text/html" in ctype:
             parser = Links()
@@ -148,9 +172,17 @@ def main() -> int:
 
     removed = sorted(set(old_items) - set(items))
     added = sorted(set(items) - set(old_items))
-    changed = sorted(u for u in items.keys() & old_items.keys() if items[u]["sha256"] != old_items[u].get("sha256"))
+    changed = sorted(
+        u for u in items.keys() & old_items.keys()
+        if items[u]["sha256"] != old_items[u].get("sha256")
+    )
 
-    manifest = {"seed": SEED, "checked_at": checked, "items": dict(sorted(items.items())), "removed_since_previous_run": removed}
+    manifest = {
+        "seed": SEED,
+        "checked_at": checked,
+        "items": dict(sorted(items.items())),
+        "removed_since_previous_run": removed,
+    }
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", "utf-8")
 
     log = ARCHIVE / "changelog.md"
@@ -164,7 +196,10 @@ def main() -> int:
                         f.write(f"- {u}\n")
                     f.write("\n")
 
-    print(f"Health NDIS tracker: {len(items)} archived; {len(added)} added; {len(changed)} changed; {len(removed)} removed")
+    print(
+        f"Health NDIS tracker: {len(items)} archived; {len(added)} added; "
+        f"{len(changed)} changed; {len(removed)} removed"
+    )
     if failures:
         print("Fetch failures:", file=sys.stderr)
         for x in failures:
