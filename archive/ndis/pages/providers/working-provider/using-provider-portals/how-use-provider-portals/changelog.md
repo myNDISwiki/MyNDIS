@@ -235,3 +235,77 @@ The page bytes changed, but no visible main-content wording change was detected.
  myplace provider portal terms and conditions
  (PDF 89KB)
 ```
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `da7b3e29e4c7dfb86d8a480364552c95ce50bdbecfebe011b30ca2837ba72c89`
+- New SHA-256: `3260e557f9d9b08f769d0fa1371c4765d4288d0c42371144da1c160abd95979f`
+- Visible text lines added: 14
+- Visible text lines removed: 14
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -103,9 +103,9 @@
+ Step 5: Read the terms and conditions
+ You must agree to the terms and conditions to use the my NDIS provider portal.
+ Download the my NDIS provider portal terms and conditions:
+-my NDIS provider portal terms and condition
++my NDIS provider portal terms and conditions
+ (PDF 201KB)
+-my NDIS provider portal terms and condition
++my NDIS provider portal terms and conditions
+ (DOCX 296KB)
+ Option 2: The myplace provider portal
+ You can use the myplace provider portal to access and manage your services with a participant.
+@@ -131,24 +131,24 @@
+ myplace provider portal step-by-step guide
+ (DOCX 16MB)
+ The myplace provider portal guide is a comprehensive resource that shows you how to navigate and complete tasks in the myplace provider portal.
+-Download Part 1: Using the myplace provider portal:
+-Part 1 - Using the myplace provider portal
++Download part 1: using the myplace provider portal:
++Part 1: using the myplace provider portal
+ (PDF 2MB)
+-Part 1 - Using the myplace provider portal
++Part 1: using the myplace provider portal
+ (DOCX 2MB)
+ Step 2: Maintain your information in the myplace provider portal
+ The maintaining your information guide shows you how to access and maintain your profile, registration details, outlets and my organisation in the myplace provider portal.
+-Download Part 2: Maintaining your information:
+-Part 2 - Maintaining your information
++Download part 2: maintaining your information:
++Part 2: maintaining your information
+ (PDF 882KB)
+-Part 2 - Maintaining your information
++Part 2: maintaining your information
+ (DOCX 1MB)
+ Step 3: Manage your correspondence
+ The managing your correspondence guide shows you how to manage your inbox in the myplace provider portal.
+-Download the managing your correspondence guide:
+-Part 3 - Managing your correspondence
++Download part 3: managing your correspondence:
++Part 3: managing your correspondence
+ (PDF 395KB)
+-Part 3 - Managing your correspondence
++Part 3: managing your correspondence
+ (DOCX 296KB)
+ Step 4: Administer your services
+ The administering your services guide shows you how to:
+@@ -162,10 +162,10 @@
+ use the provider finder
+ upload evidence
+ download and view reports.
+-Download Part 4: Administering your services:
+-Part 4 - Administering your services
++Download part 4: administering your services:
++Part 4: administering your services
+ (PDF 8MB)
+-Part 4 - Administering your services
++Part 4: administering your services
+ (DOCX 14MB)
+ Step 5: Identify and fix any system errors
+ The provider portal system and error messages guide helps you identify and fix any errors that come up.
+```

@@ -122,3 +122,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `870eb3d4a2fc995e80f9cc70cc68843687e4520e7a64737b6223a96518271b9c`
+- New SHA-256: `33bf05b25d7ad1c6469ddedd824a4104660eaa6f845675f5b8d4840461b5aa76`
+- Visible text lines added: 8
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -57,12 +57,12 @@
+ your patient’s ability to do day-to-day activities
+ their ability to participate in social and vocational tasks
+ the tasks they can and can’t complete within each activity domain of function:
+-Mobility: how a person moves around and uses their arms and legs. It includes things like moving in bed, transfers, walking, using stairs, accessing the community, and using mobility aids.
+-Communication: how a person understands and expresses themselves, including spoken language, written language, and other forms of communication like sign language.
++Mobility: how a person moves around and uses their arms and legs. It includes things like moving in bed, transfers, walking, using stairs, accessing the community and using mobility aids.
++Communication: how a person understands and expresses themselves, including spoken language, written language and other forms of communication like sign language.
+ Social interaction: how a person interacts with others, makes and keeps friends, and participates in social and recreational activities.
+-Self-care: a person's ability to perform personal care tasks like dressing, bathing, grooming, eating, and toileting.
+-Self-management: a person's ability to manage their own life, including organising their daily activities, making decisions, and managing their health.
+-Learning: a person's ability to learn new things, participate in educational activities, and develop new skills.
++Self-care: a person's ability to perform personal care tasks like dressing, bathing, grooming, eating and toileting.
++Self-management: a person's ability to manage their own life, including organising their daily activities, making decisions and managing their health.
++Learning: a person's ability to learn new things, participate in educational activities and develop new skills.
+ the type of support, aid or modification they need and how often they need it
+ if functional tasks were observed, assessed or reported.
+ Learn more about
+@@ -78,6 +78,9 @@
+ case notes from service providers
+ carer statement
+ self-reports.
++Learn more about
++how to apply
++.
+ Main navigation sidebar
+ For providers
+ Pricing and payments
+```

@@ -126,3 +126,61 @@ The page bytes changed, but no visible main-content wording change was detected.
  For providers
  Pricing and payments
 ```
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `d51754cd37eafa91cb7175e532dd660fdb4dbf5c45477bfc5ea17572d8470f0d`
+- New SHA-256: `75e6de3ec54f4990a1bcc06974e1c4a177f55fafac79f3a27b79e31c518f015f`
+- Visible text lines added: 5
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -38,7 +38,7 @@
+ understand their strengths and capabilities
+ learn what they can do to build their skills through their ILO supports
+ choose where they live, who they live with and how they’re supported
+-understand how supports from friends and family, community supports, and paid supports can all play a role in their ILO
++understand how supports from friends and family, community supports and paid supports can all play a role in their ILO
+ find out what’s possible and assess and manage any risks
+ design and make decisions about their ILO.
+ At the end of the explore and design stage
+@@ -51,9 +51,7 @@
+ ILO supports can then be added to the participant’s plan once approved.
+ Tip: What's a service proposal?
+ A form tells us how participants want to live and what type of supports they need in their ILO arrangement.
+-Participants complete a
+-service proposal form
+-at the exploration and design stage.
++Participants complete a service proposal form at the exploration and design stage.
+ Participants, and the people helping them to design their ILO, need to complete and return the service proposal to us by:
+ submitting it via an enquiry through our
+ service hub
+@@ -62,7 +60,7 @@
+ The second stage is about helping participants put their ILOs in place.
+ The supports depend on how and where the participant wants to live and what support they need.
+ You’ll:
+-ideally be involved in the exploration and design stage and contribute to the ILO service proposal
++ideally be involved in the exploration and design stage, and contribute to the ILO service proposal
+ build and implement the ILO support arrangements
+ facilitate the drafting of agreements for supports
+ undertake dispute resolution and problem solving
+@@ -85,12 +83,12 @@
+ Each ILO package and payments to support providers is different. Payment arrangements should be:
+ discussed and agreed to by you and the participant
+ specified in the service proposal.
+-Both you and the participant should seek independent financial advice before agreeing to an ILO arrangement This is because payments received through an ILO may be assessable for tax purposes.
++Both you and the participant should seek independent financial advice before agreeing to an ILO arrangement. This is because payments received through an ILO may be assessable for tax purposes.
+ The
+ Australian Taxation Office
+ can provide information about assessable income and allowable deductions.
+ How to get paid
+-Learn more about to
++Learn more about how to
+ get paid
+ .
+ Main navigation sidebar
+```

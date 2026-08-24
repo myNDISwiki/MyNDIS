@@ -162,3 +162,30 @@ The page bytes changed, but no visible main-content wording change was detected.
  Learn about how the NDIS works with your existing supports in this video.
  Understanding your current NDIS supports
 ```
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `a658e25564656a28de39c53cd3b12d65aeff8d004db85d55ce55c8de0642477d`
+- New SHA-256: `17b9a944447ea7885f38ded39de767cda41df3f1f83a04a8758ca7e8817b5971`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -103,10 +103,10 @@
+ Behaviour support guideline
+ (DOCX 152KB)
+ Video
++How to – understanding your current NDIS supports
+ Learn about how the NDIS works with your existing supports in this video.
+-Understanding your current NDIS supports
+ Transcript for '
+-Understanding your current supports
++How to – understanding your current NDIS supports
+ '
+ Main navigation sidebar
+ For participants
+```

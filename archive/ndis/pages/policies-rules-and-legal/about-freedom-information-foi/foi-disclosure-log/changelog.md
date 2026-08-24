@@ -57,3 +57,38 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `7e259a0019d78b30f332a51ab62e1700c286b8e3ba9ec4188920ff840d6b6966`
+- New SHA-256: `74bd9fe3e3c4f2b1b24bf4846c97d955dd18f963449e30bb5b9bb682aedb15cb`
+- Visible text lines added: 9
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,14 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3612
++12/08/2026
++Data regarding use of AUSLAN and interpreting service per financial years (19/20-25/26) including a breakdown of these individuals by:
++Age
++The support category under which the interpreter support is funded/provided.
++FOI 25/26-3612 (PDF 225KB)
++The following 1 document was created pursuant section 17 of the FOI Act and released in full:
++Data regarding use of AUSLAN and interpreting service per financial years (19/20-25/26)
+ FOI 25/26-2694
+ 4/08/2026
+ The number of registered NDIS providers since 1 July 2017 who have not submitted any payment requests (claims) through the NDIS.
+@@ -8785,4 +8793,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-19 August 2026
++24 August 2026
+```

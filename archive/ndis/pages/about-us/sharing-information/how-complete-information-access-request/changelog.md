@@ -129,3 +129,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `5dbbd25b8fe9995ea5a798dfe789c8b73f2873f0c56b4de66d123e6696b72cea`
+- New SHA-256: `12eba5d4756fcaf01abe34f35d76e1cc84560a114bcabc9a53fe1df2164dc272`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -64,7 +64,7 @@
+ what type of information you want
+ any other documents or evidence you want access to.
+ Submit your request
+-Submit your request clicking on ‘submit’ at the end of the online participant information access request form and mailing it to us.
++Submit your request by clicking on ‘submit’ at the end of the online participant information access request form and mailing it to us.
+ We’ll submit a request for information on your behalf if you’ve called us or spoken to us in person.
+ Once we have your request for information
+ We’ll aim to provide the information to you within 28 business days if your request meets the identity and consent requirements.
+```

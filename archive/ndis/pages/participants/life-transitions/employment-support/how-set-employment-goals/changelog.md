@@ -21,3 +21,35 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `4d95d85fb438795712267ec4008e8a6554d63aa645c794dc3cedfa0d801bf3b3`
+- New SHA-256: `938574bab3e7057507b334340b14304f84ac787f5c9ea78f6764bf4e7f51bfea`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -44,7 +44,7 @@
+ ?
+ For example:
+ I would like to volunteer at my local library. I love books so it’s okay if I don’t get paid at the start. One day I would like to become a librarian.
+-I have always loved to bake cakes and cookies. One of my goals is to work in a bakery.
++I have always loved baking cakes and cookies. One of my goals is to work in a bakery.
+ If you’re not ready to look for work
+ Planning to work can feel like a big step. Your
+ my NDIS contact
+@@ -142,7 +142,7 @@
+ let’s talk about work booklet
+ has space for you to write down answers to questions you have to identify your employment goals.
+ Step 5: Share your goals
+-Talk to us about your goals.
++Talk to us about your goals
+ Share your employment goals at your next
+ plan meeting
+ so they can be included in your NDIS plan. Your
+```

@@ -57,3 +57,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-24T19:20:59Z — changed
+
+- Previous SHA-256: `adeaa9c2282d74d2d4799d60a0288a778edf9c31b21ca715465e0cb477bd7a38`
+- New SHA-256: `aaba1e3a179f1e59d2e3bcbec0cfe276f58d3864e18e7162f8bc85d835dec0aa`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -36,7 +36,7 @@
+ or live chat
+ Email:
+ [email protected]
+-Phone: 1800 800 110 (NDIS National Contact Centre), Monday – Friday 8am to 8pm
++Phone: 1800 800 110 (NDIS National Contact Centre), Monday – Friday 8 am to 7 pm
+ In person: by visiting an NDIS office, Local Area Coordinator (LAC) or Early childhood (EC) partner
+ Mail: NDIA, GPO Box 700, Canberra ACT 2601.
+ If you need an interpreter, call the Translation and Interpreting Service (TIS) on 131 450 and ask to be connected to the NDIS
+```
