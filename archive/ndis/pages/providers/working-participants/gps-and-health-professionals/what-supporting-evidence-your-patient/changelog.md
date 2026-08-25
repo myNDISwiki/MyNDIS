@@ -164,3 +164,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  For providers
  Pricing and payments
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `33bf05b25d7ad1c6469ddedd824a4104660eaa6f845675f5b8d4840461b5aa76`
+- New SHA-256: `b580ef1b05a9807cc739796ecbf39066e6f0a4b0b5a7ac6dec89eaee8bf41a6b`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -108,3 +108,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  . We can verify that claims for payment are compliant with your complete and accurate records.
  The provider payment assurance program
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `d521513545077ab994ef2b55f43c200e8a7e1ce9728a74cbe3a1c143d9fd01aa`
+- New SHA-256: `ec4457835cb4e15f04e07da23cee022f9d6b075f0b1ed4d31c55e6cde89ff6cf`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

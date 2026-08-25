@@ -66,3 +66,44 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `373d18a23931b2c3d2efeee78e36f8f3308b0619d723b10f108f8726c713f1d6`
+- New SHA-256: `0e99ae8e524232dded0cc76e83c13c67e42228e1ca447ab2cc6c058b396183b1`
+- Visible text lines added: 5
+- Visible text lines removed: 12
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -49,21 +49,14 @@
+ choose a date for your consent to end
+ give ongoing consent, until you decide to take it back.
+ Step 2: Choose how you give consent
+-There are 3 ways you can give consent:
+-Option 1: Verbal consent
+-You can give us verbal consent by:
+-talking to your
+-my NDIS contact
+-calling us on
+-1800 800 110
+-visiting an office
+-in person.
+-Option 2: Written consent
++There are 2 ways you can give consent:
++Option 1: Written consent
+ You can give us written consent by:
+ submitting your request through our
+ service hub
+-.
+-Option 3: Consent form
++visiting an office
++in person.
++Option 2: Consent form
+ You can download and fill out the consent for your NDIS information form:
+ Consent for your NDIS information form
+ (DOCX 124KB)
+```

@@ -309,3 +309,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Step 5: Identify and fix any system errors
  The provider portal system and error messages guide helps you identify and fix any errors that come up.
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `3260e557f9d9b08f769d0fa1371c4765d4288d0c42371144da1c160abd95979f`
+- New SHA-256: `979b2a6713830e47fa0ed836e687aaa22068ab49dfaba7a0a7d17738a29791f6`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

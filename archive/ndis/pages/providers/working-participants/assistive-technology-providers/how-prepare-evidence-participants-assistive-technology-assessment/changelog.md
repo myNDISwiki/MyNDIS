@@ -185,3 +185,56 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `c8d2533cfb85145613a8147fe2eff5c6c43182e210dd2abebe37e3c8bb827df9`
+- New SHA-256: `7d7d1bc3979e5021c0c510eb75eda6aafa511ef80d79cea93e07319713dcde6c`
+- Visible text lines added: 12
+- Visible text lines removed: 11
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -68,26 +68,27 @@
+ what training they need to use the assistive technology
+ what risks there might be when using the item and how it can be safe for them to use.
+ We have templates to help complete an assessment
+-These templates are not mandatory. They can, however, help to make sure you are providing all the evidence that we need to make a decision.
+-General assistive technology assessment template docx file
++These templates are not mandatory, but they can help to make sure you’re providing all the evidence we need to make a decision.
++Download a template:
++General assistive technology assessment template
+ (DOCX 79KB)
+-Prosthetics and orthotics assistive technology assessment template docx file
++Prosthetics and orthotics assistive technology assessment template
+ (DOCX 113KB)
+-Continence related assistive technology assessment template docx file
++Continence related assistive technology assessment template
+ (DOCX 104KB)
+-Nutrition and dysphagia assistive technology assessment template docx file
++Nutrition and dysphagia assistive technology assessment template
+ (DOCX 66KB)
+-Complex home modifications assessment template docx file
++Complex home modifications assessment template
+ (DOCX 101KB)
+-Vehicle modification assessment template docx file
++Vehicle modification assessment template
+ (DOCX 92KB)
+-Assistance animal assessment template docx file
++Assistance animal assessment template
+ (DOCX 80KB)
+-Dog guide assessment template for a first time handler docx file
++Dog guide assessment template for a first time handler
+ (DOCX 109KB)
+-Dog guide assessment template for an experienced handler docx file
++Dog guide assessment template for an experienced handler
+ (DOCX 110KB)
+-Hearing devices and technology assessment template docx file
++Hearing devices and technology assessment template
+ (DOCX 76KB)
+ We'll generally need at least one quote for high-cost assistive technology
+ We might ask for a second quote where the price is more than we expect.
+```

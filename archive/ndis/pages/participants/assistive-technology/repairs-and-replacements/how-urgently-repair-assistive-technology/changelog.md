@@ -44,3 +44,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We understand you might need urgent repairs to your assistive technology outside National Contact Centre hours. For example, if you’re unable to access alternatives or back up supports and there’s a risk to your safety or wellbeing.
  You can organise repairs or hire assistive technology if this happens and your plan doesn’t include funding. You can seek approval for further funding, repairs and claims the next business day.
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `45ece3c7a4f6836bff524df659919252a6638b9f8a9f43f85d4464def92834b6`
+- New SHA-256: `c1c0ebb74f5dc9e378883704dbea449c04b79fb8983a40786f813b9ff4e2b16d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -139,3 +139,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `fb9087023c9cea4eb8ad78e71123c43f8ce19349d8b76433788afdba904b4b66`
+- New SHA-256: `65ffbe691100781380ff839e33ba583c28f5936696694dd910b7c60176ed252a`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Participants may be able to
+ rent assistive technology
+ for the time they need it. They may also trial it or even borrow it first to see if it’s right for them.
+-They can also receive funding from other organisations. We can’t fund assistive technology if it’s another organisation’s role to fund or provide it. We can help participants work out whose role it’s to fund it.
++They can also receive funding from other organisations. We can’t fund assistive technology if it’s another organisation’s role to fund or provide it. We can help participants work out whose role it is to fund it.
+ We can help participants work out whose role it is to fund it. For example, state and territory governments are responsible for supplying power sources or back-up generators.
+ Participants may also hire or purchase second-hand or refurbished equipment that meets their needs.
+ Step 4: Work with the participant
+```

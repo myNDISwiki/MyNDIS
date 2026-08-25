@@ -21,3 +21,31 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `a694074a31699e270b67d7aa66aaf3b68f9466ce84a957d2bbe0bc1ef0c9a29e`
+- New SHA-256: `bcab29bbb1da17504e621e33d02bd59bf7afde489646bbef75ccfbf3775ff2e5`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,11 +5,11 @@
+ Save page as PDF
+ Getting the NDIS back on track - October 2024
+ NDIS laws
+-Securing the NDIS for future generations - May 2026
++Securing the NDIS for future generations - August 2026
+ NDIS laws
+ Integrity and safeguarding - April 2026
+ NDIS laws
+ The NDIS Review
+ The NDIS Review was an independent review to put people with disability back at the centre of the NDIS.
+ This page current as of
+-29 June 2026
++25 August 2026
+```

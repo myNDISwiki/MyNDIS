@@ -72,3 +72,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Changes will be made to when and how participants can ask for plan reassessments, before their scheduled reassessment date.
  Only participants, plan nominees or child representatives will be able to ask for this type of plan reassessment.
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `6d8a4794ecb97e51678346132597a2009e722fe446f78010f5c59928c581be16`
+- New SHA-256: `a6a60034a6386ca8b22512dbe889ec81c0f5ac0229f8eaa9fd372ce1e486ece9`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

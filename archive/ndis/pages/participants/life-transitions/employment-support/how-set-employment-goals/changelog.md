@@ -53,3 +53,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  plan meeting
  so they can be included in your NDIS plan. Your
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `938574bab3e7057507b334340b14304f84ac787f5c9ea78f6764bf4e7f51bfea`
+- New SHA-256: `75bce66cc4e66af5998be569ce769400064d599973bc6facbc749ebcd463a497`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

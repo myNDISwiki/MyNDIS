@@ -80,3 +80,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Mail: NDIA, GPO Box 700, Canberra ACT 2601.
  If you need an interpreter, call the Translation and Interpreting Service (TIS) on 131 450 and ask to be connected to the NDIS
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `aaba1e3a179f1e59d2e3bcbec0cfe276f58d3864e18e7162f8bc85d835dec0aa`
+- New SHA-256: `0f8b2a84e8d0f07e33da5579c2bd1869fc17f71dbe08cc212f9f282b22147104`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -97,3 +97,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  self-managed
  ,
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `bb3a9e55ce20273736e1c5cdfaf53b3f09e54cb34c9cf059188d607fad23d067`
+- New SHA-256: `3a1905da3e2903ffa26806245cc8b9cbb1b7dbb3cc1f241f20df39472a5a72b3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

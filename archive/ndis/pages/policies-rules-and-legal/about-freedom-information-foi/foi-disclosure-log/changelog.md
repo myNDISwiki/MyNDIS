@@ -92,3 +92,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 -19 August 2026
 +24 August 2026
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `74bd9fe3e3c4f2b1b24bf4846c97d955dd18f963449e30bb5b9bb682aedb15cb`
+- New SHA-256: `8fa2e481d59f3d48170e4f8f72b1c2e8f826d005af6ff71ec7cb948aaecfd7bf`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

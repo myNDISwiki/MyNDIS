@@ -21,3 +21,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `f3f14213daeb42f36aba5a87ac6c7baf568e73a2c2f26715802073a91d3090bd`
+- New SHA-256: `9c8f26cb734f6f3c219fb732044f6ae9f377216fa1de840b397f188f58a34cdc`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++News
++New operating hours for the National Contact Centre
++Date
++24 August 2026
++Category
+ Changes to the NDIS
+ New NDIS laws pass
+ Date
+@@ -38,11 +43,6 @@
+ Category
+ Media release
+ SA man second person charged over alleged $5 million dishonesty plot
+-Date
+-17 August 2026
+-Category
+-News
+-Have your say on the continence provider list
+ Date
+ 17 August 2026
+ Read more news
+```

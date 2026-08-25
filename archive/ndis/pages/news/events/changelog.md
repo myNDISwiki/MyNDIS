@@ -88,3 +88,59 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `99305005c5a5143a9a1149cad30df5874c8919558d4357877e0d7ecb0128ae36`
+- New SHA-256: `3cd7b08a4a569243ea4107d5647fff58d12ce3b48b674ebae59c4d6c71645419`
+- Visible text lines added: 9
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -11,9 +11,9 @@
+ Save page as PDF
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
++Community Engagement
++(8)
+ Provider Engagement
+-(9)
+-Community Engagement
+ (8)
+ General information
+ (1)
+@@ -26,15 +26,9 @@
+ September 2026
+ (9)
+ August 2026
+-(3)
++(2)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Working as an NDIS Provider
+-The National Disability Insurance Agency (NDIA) invites all new NDIS providers who have started delivering supports to NDIS participants to attend an information session on Working as a NDIS Provider.
+-Event Date
+-Friday, 21 August 2026
+ Category
+ Provider Engagement
+ Getting Paid as an NDIS Provider
+@@ -68,6 +62,12 @@
+ The National Disability Insurance Agency (NDIA) invites providers to an information session about the NDIA claims and payment processes.
+ Event Date
+ Tuesday, 8 September 2026
++Category
++Community Engagement
++Understanding the NDIS webinar: Supporting an NDIS Participant
++Join us for an informative webinar focused on the different ways people can support an NDIS participant to make decisions and manage their supports.
++Event Date
++Thursday, 10 September 2026
+ Pagination
+ 1
+ 2
+```

@@ -30,3 +30,46 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `c50c8837038f637090f4f8dae044c5f26402df23ccf11b077a5543c57c9459e9`
+- New SHA-256: `7aa649424525fd7a9d2fe3364c6cd364b6d7b8481b4faf7880e1bd5a8fc71c52`
+- Visible text lines added: 6
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -54,13 +54,16 @@
+ Giving consent
+ You can give consent by:
+ completing a written consent form
+-calling
+-1800 800 110
++submitting a request through our
++service hub
+ visiting an office
+ in person.
+ Learn more about
+ how to give consent
+ .
++Tip: You can give consent for someone to talk to us on your behalf when you call us.
++This consent will only be for that call. We’ll always check your identity when you call us or when we call you.
++You need to give us written consent if you’d like someone to speak to us on your behalf ongoing or for a set period.
+ Understanding your consent
+ We’ll make sure you understand what you agree to and are giving consent because you want to.
+ We’ll make sure you choose:
+@@ -96,8 +99,7 @@
+ 1800 800 110
+ submitting your request through our
+ service hub
+-visiting
+-an office
++visiting an office
+ in person.
+ Main navigation sidebar
+ About
+```

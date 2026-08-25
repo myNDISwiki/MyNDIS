@@ -161,3 +161,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  For participants
  Creating a plan
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `38345a53c095af5d6bbda3b36d1d22a5486992b93190282986628b243f71514a`
+- New SHA-256: `25b7a7ba7de3b335309f7c30ab9882361c82680f4845f394f9a4ba4d278aefce`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -64,3 +64,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `277c1ea73f1785adb25145e54331cf15b94919961a6cb1aa1a01f1038d0b92f9`
+- New SHA-256: `3e5d5eb8a7caec87e1ac3d74545ccc8fa38e1d7a5b472cad59bbc10969cc7c94`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -22,7 +22,7 @@
+ Referring people to information about the NDIS
+ You can help clients who may be
+ eligible for NDIS supports
+-, by:
++by:
+ giving them information about
+ accessing the NDIS
+ helping them contact
+```

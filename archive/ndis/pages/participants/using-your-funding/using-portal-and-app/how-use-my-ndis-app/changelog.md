@@ -55,3 +55,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  my NDIS app overview
  Learn about the my NDIS app in this video.
 ```
+
+## 2026-08-25T19:14:31Z — changed
+
+- Previous SHA-256: `1d3c5c61e88585e3045a1f572763f606536d31fac169bdbf3a7751718d9bf066`
+- New SHA-256: `c3db222d9b4da25f5bce982ed52c00d15e5d12d50895a24de6f7f2b7a19c6a0c`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
