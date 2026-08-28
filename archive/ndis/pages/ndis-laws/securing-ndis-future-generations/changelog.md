@@ -191,3 +191,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  Plan suspensions
  We’ll have the ability to suspend plans if a participant doesn’t respond to requests for information.
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `ed80572d40778b06b2c427b779f43c21c6b5120052b0b385fd4bd2978ee8e850`
+- New SHA-256: `b8d15f094f360918dfbfced68cef7a473723b61e5a811bf0919e3af574a47684`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -66,7 +66,7 @@
+ Support budgets for social, civic and community participation supports and capacity building daily activities will be progressively reset as participants’ plans are reassessed or renewed.
+ These changes will not impact funding for:
+ help with eating and drinking
+-education or employment supports
++education supports
+ employment supports
+ disability related health supports.
+ Participants will not see changes to their funding until their plan is reassessed or renewed. Changes to funding are not backdated.
+```

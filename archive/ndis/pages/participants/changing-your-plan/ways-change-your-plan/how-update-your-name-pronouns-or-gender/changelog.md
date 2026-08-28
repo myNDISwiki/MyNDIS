@@ -52,3 +52,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `194297170381c65b442f1e827d683a729cb5071f2e573ea7637f50a7de86fd68`
+- New SHA-256: `6e066f5c4a20d9832a1df46bc4a0d18c3b678017323b2fc020af94e71b22c514`
+- Visible text lines added: 2
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -50,6 +50,8 @@
+ filling out a consent for a third party to act on behalf of a person form.
+ Consent for your NDIS information form
+ Download the consent for your NDIS information form:
++Consent for your NDIS information form
++(PDF 589KB)
+ Consent for your NDIS information form
+ (DOCX 124KB)
+ Step 3: Send your completed form to us
+```

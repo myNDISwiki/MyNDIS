@@ -165,3 +165,94 @@ The page bytes changed, but no visible main-content wording change was detected.
 -24 August 2026
 +26 August 2026
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `9469826050474e750ebba8f80220520606c07d9552e71709f8890921a62346c7`
+- New SHA-256: `886706026f2ca6001daf785776dbc62d1362cdf5f51992768bf7f493902f8a63`
+- Visible text lines added: 65
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,70 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 24/25-2310
++24/08/2026
++Documents relating to the governance, implementation, monitoring and reporting of the Dispute Resolution Improvement Strategy (DRIS), including strategy, guidance, performance and ministerial documents.
++FOI 24/25-2310 (PDF 15MB)
++44 documents released in full and 5 documents released in part.
++Dispute Resolution Improvement Strategy 2022-2025 – released in full
++Dispute Resolution Improvement Strategy on a page – released in full
++Dispute Resolution Improvement Strategy Working Group Terms of Reference – released in part
++Dispute Resolution Improvement Strategy Working Group Operating Guide – released in full
++Dispute Resolution Improvement Strategy Implementation – released in part
++Dispute Resolution Improvement Strategy Performance Dashboard – Dated 30 June 2023 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard- dated 31 August 2023  – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 September 2023 – released in full
++Dispute Resolution Improvement Strategy Reporting Cycle – Dated July to September 2023 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 October 2023 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard- dated 30 November 2023 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 December 2023 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard- dated 31 January 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 January 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 29 February 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 March 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 May 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 June 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 June 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 July 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 July 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 August 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 August 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 September 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 September 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 October 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 October 2024 – released in full
++Dispute Resolution Improvement Strategy Progress Report – dated October 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 November 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 November 2024 - released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 December 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 December 2024 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 January 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 January 2025 – released in full
++Dispute Resolution Improvement Strategy Progress Report – dated January 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – 28 February 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 March 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 March 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated Q3 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 April 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 May 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 31 January 2025 – released in full
++Dispute Resolution Improvement Strategy Progress Report – dated May 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 June 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated 30 Jue 2025 – released in full
++Dispute Resolution Improvement Strategy Performance Dashboard – dated Q4 2025 – released in full
++Ministerial Submission MS24-000024 – dated 2 October 2024 – released in part
++Ministerial Submission MS24-000024 – dated 4 October 2024 – released in part
++Ministerial Submission MS-25-000159 – released in part
++FOI 25/26-3237
++18/08/2026
++This request contains:
++Number of Participant Critical Incidents (PCIs) recorded during the following periods:
++Financial years 2023-24,24-25,25-26 to date.
++PCIs while awaiting an Internal Review outcome for each period
++PCIs following an Internal Review outcome for each period
++FOI 25/26-3237 (PDF 70KB)
++A single document was created under section 17 of the FOI Act and released in full:
++1. S17 – Data – Participant Critical Incident Data
+ FOI 25/26-3392
+ 17/08/2026
+ NDIA policies, guidelines, procedures and related documents (2019-2025) concerning eligibility assessments, funding decisions, and funding reductions for high intensity supports and intensive and complex behaviour supports under the NDIS.
+@@ -8830,4 +8894,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-26 August 2026
++28 August 2026
+```

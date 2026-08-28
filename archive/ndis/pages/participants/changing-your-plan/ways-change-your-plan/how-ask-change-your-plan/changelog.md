@@ -188,3 +188,31 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `63957ad8c6df7e822db624bd14a7a8e027771a3c92a6d14aaaae9faad0a35f30`
+- New SHA-256: `45aa6cdf98833c22bf096b0ddaa0d71e98b0849889f3688ca2005d2a7f33b2dc`
+- Visible text lines added: 2
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -39,11 +39,13 @@
+ Plan reassessment request form
+ Download the plan reassessment request form:
+ Plan reassessment request form (DOCX 257KB)
++Plan reassessment request form (PDF 619KB)
+ Plan variation
+ Your plan may be varied if you need smaller changes to your current plan. Use the plan variation request form to ask for this type of change.
+ Plan variation request form
+ Download the plan variation request form:
+ Plan variation request form (DOCX 131KB)
++Plan variation request form (PDF 619KB)
+ Other ways to change your details
+ You can let us know about other changes to your details without asking for a change to your plan. Let us know about changes to your details by:
+ calling us on
+```

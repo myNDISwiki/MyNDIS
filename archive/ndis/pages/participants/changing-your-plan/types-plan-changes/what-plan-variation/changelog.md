@@ -120,3 +120,25 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `f6402c2d680d59aac0eb01541e7e8b0b102b63dd88620447a80470fd231afe6c`
+- New SHA-256: `6e0a009dd5a59f2ae9b66bc16def1f8cb806ad833c3bdace8f770aa2f6d26d05`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -40,6 +40,7 @@
+ Plan variation request form
+ Download the plan variation request form:
+ Plan variation request form (DOCX 131KB)
++Plan variation request form (PDF 619KB)
+ Send us your information
+ You can give us your complete form and evidence by:
+ using our
+```

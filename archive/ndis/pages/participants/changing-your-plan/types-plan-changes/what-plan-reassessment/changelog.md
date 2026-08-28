@@ -183,3 +183,25 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `0cc994b35326651454d14935ea96b644294b78c0e8ceddf0edb37ad444683e2d`
+- New SHA-256: `98017ea08fd5b4c5bd93ea0901f85e420a408f9e15c4eb8f68c62af139ae6995`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -41,6 +41,7 @@
+ Plan reassessment request form
+ Download the plan reassessment request form:
+ Plan reassessment request form (DOCX 257KB)
++Plan reassessment request form (PDF 619KB)
+ We need evidence to reassess your plan
+ You need to give us
+ evidence
+```

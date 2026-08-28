@@ -208,3 +208,70 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-08-28T22:03:15Z — changed
+
+- Previous SHA-256: `1504258adcc867acf1904289081dcc7d76042873c1d605c61e8a167254680285`
+- New SHA-256: `2610db1b1927c4362b2f68a3c9c9b8de561f66e8d1bd576147b995cb394c7384`
+- Visible text lines added: 13
+- Visible text lines removed: 11
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,7 +12,7 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(9)
++(18)
+ Provider Engagement
+ (7)
+ General information
+@@ -21,20 +21,14 @@
+ NSW
+ (1)
+ Event date
++November 2026
++(1)
+ October 2026
+-(5)
++(9)
+ September 2026
+-(10)
+-August 2026
+-(1)
++(15)
+ Search
+ Search
+-Category
+-Community Engagement
+-Understanding the NDIS Webinar Series: Employment Supports
+-Employment supports through the NDIS can help participants build skills, find and keep work, and move toward their goals. This session will explain what supports are available, how they work, and how they can be used to support meaningful employment outcomes.
+-Event Date
+-Thursday, 27 August 2026
+ Category
+ Community Engagement
+ General information
+@@ -68,10 +62,18 @@
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+ Tuesday, 15 September 2026
++Category
++Community Engagement
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
++Event Date
++Wednesday, 16 September 2026
+ Pagination
+ 1
+ 2
+ 3
++4
++5
+ ›
+ ››
+ »
+```
