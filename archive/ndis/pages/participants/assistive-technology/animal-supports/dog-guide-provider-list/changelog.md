@@ -75,3 +75,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `69300ac173da160f82b5bf5af83e5889e91c0fd7ecf61fa0807fc4dc88e86bdc`
+- New SHA-256: `c4625b5ccd197b5888077be8738fd5b13f5c66e81c2504a2b1983e1b65b24232`
+- Visible text lines added: 0
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -330,7 +330,6 @@
+ Ways to change your plan
+ Expand or collapse sub-menu for Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+```

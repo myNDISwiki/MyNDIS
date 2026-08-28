@@ -73,3 +73,25 @@ The page bytes changed, but no visible main-content wording change was detected.
  Main navigation sidebar
  About
 ```
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `7aa649424525fd7a9d2fe3364c6cd364b6d7b8481b4faf7880e1bd5a8fc71c52`
+- New SHA-256: `ad233188b563fe5eb849f688e74b695179eb73251d61fe5ea494b89a35ac23bd`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -142,6 +142,7 @@
+ Service charter
+ Expand or collapse sub-menu for Service charter
+ Participant Service Charter
++Safe and respectful interactions
+ Participant Service Guarantee
+ Participant Service Improvement Plan
+ Sharing information
+```

@@ -30,3 +30,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `789d350c909f25ada159b11875695d830abaa88b0c22bb3d081fdce580fa9c30`
+- New SHA-256: `3cd95abec94fcc21cdc3ef95857fd0f583170e79ee948372a550030deb3056f9`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -81,10 +81,10 @@
+ local office
+ .
+ Step 5: Wait for our decision
+-We’ll let you know within 21 days
++We’ll let you know within 90 days
+ We’ll tell you if you are
+ eligible for the NDIS
+-in 21 days once your application and all your
++in 90 days once your application and all your
+ supporting evidence
+ is submitted to us.
+ We tell you if you’ve met the
+```

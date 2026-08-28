@@ -331,3 +331,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `8013cd421bdd334756b0f327dc75e94e70066beb8458172c3b56cf948c8ad352`
+- New SHA-256: `72911c9bb781b2af73441d0a328c05ac9a4c558bb5b0781a13ab0b168590c233`
+- Visible text lines added: 6
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -49,19 +49,15 @@
+ (ZIP 3KB)
+ Early connections
+ Factsheet: Early connections
+-(PDF 89KB)
++(PDF 201KB)
+ Factsheet: Early connections
+ (DOCX 291KB)
+-Easy Read: Early connections
+-(PDF 7MB)
+-Easy Read: Early connections
+-(DOCX 67KB)
+-Braille: Early connections
+-(ZIP 3KB)
+ Applying to the NDIS
+ Applying to the NDIS
+ Factsheet: Applying to the NDIS
+ (DOCX 294KB)
++Factsheet: Applying to the NDIS
++(PDF 220KB)
+ Confirming your identity
+ Factsheet: Confirming your identity
+ (PDF 116KB)
+@@ -226,10 +222,10 @@
+ (PDF 228KB)
+ Factsheet: Evidence of identity
+ (DOCX 298KB)
+-Evidence you need to give us before we create or change your plan
+-Evidence you need to give us before we create or change your plan
++Evidence we need to include NDIS supports in your plan
++Evidence we need to include NDIS supports in your plan
+ (PDF 452KB)
+-Evidence you need to give us before we create or change your plan
++Evidence we need to include NDIS supports in your plan
+ (DOCX 352KB)
+ Main navigation sidebar
+ Publications
+```

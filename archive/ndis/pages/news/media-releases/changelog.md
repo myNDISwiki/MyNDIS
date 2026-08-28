@@ -30,3 +30,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `269f521796e7b6cdbde43efdb537993f090890fba1324ba5b08f298e181a83a4`
+- New SHA-256: `f1ff50d3caf7fcfe587da72a19583c0886e7ad0c1461944bb2f3ab2788687fb9`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,7 +21,7 @@
+ NT
+ (1)
+ August 2026
+-(1)
++(2)
+ July 2026
+ (3)
+ June 2026
+@@ -104,6 +104,13 @@
+ Search
+ Category
+ Media release
++News
++Victorian man arrested following alleged $700K NDIS fraud
++A Victorian man has been arrested after he allegedly defrauded the NDIS of around $700,000 over a two-year period.
++Date
++27 August 2026
++Category
++Media release
+ SA man second person charged over alleged $5 million dishonesty plot
+ The AFP has charged an Adelaide man over an alleged multi-million-dollar dishonesty plot against the NDIS.
+ Date
+@@ -136,13 +143,6 @@
+ The Fraud Fusion Taskforce has sent 17 convicted NDIS criminals to jail for more than 60 years, since its establishment by the Australian Government.
+ Date
+ 30 June 2026
+-Category
+-Media release
+-Media release from the Minister
+-Crackdown on sales of NDIS businesses as mandatory registration set to expand from 1 July
+-The Government is moving to impose new obligations on the sale of NDIS businesses aimed at cracking down on the sale of ‘cleanskin’ registered businesses.
+-Date
+-30 June 2026
+ Pagination
+ 1
+ 2
+```

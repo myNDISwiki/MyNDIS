@@ -30,3 +30,57 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `24632055707c6bcdf7f60e9f7976b9f89c5f87c21f549d938749e30ff4d629c3`
+- New SHA-256: `a0823ea6a22da5888ed8a744f3fd2d08ecb3dca2f496defee54861155f1bd078`
+- Visible text lines added: 9
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -23,14 +23,17 @@
+ will contact you about 2 to 3 months before your current plan’s reassessment date for a
+ check-in
+ . We may also organise a check-in if you let us know your current situation has changed and changes may be needed to your plan.
+-As part of this process, they’ll check to see how you are going with your current NDIS plan and if your situation has changed in the last year.
+-Your my NDIS contact will start the process for you if your situation has changed and you need a
+-plan reassessment
+-. This will be done within 21 days.
++As part of this process, they’ll check to see how you are going with your current NDIS plan and if your situation has changed in the last year. Your my NDIS contact will start the process for you if your situation has significantly changed.
+ Your my NDIS contact will explain:
+-the kinds of information and evidence you’ll need for your plan reassessment
++the kinds of
++information and evidence
++you’ll need for your plan reassessment
+ how to go about gathering this information and evidence
+ the plan reassessment process.
++If you don’t have a check-in coming up
++You can still
++ask us to reassess your plan
++if you don’t have a check-in coming up and if your situation has changed significantly.
+ Step 2: Gather information and evidence
+ Information helps us decide on your next plan
+ You should consider what information you need to share to prepare for your plan reassessment. Think about:
+@@ -61,7 +64,7 @@
+ will help you to work towards your goals
+ will increase your independence
+ help you work, study and join social activities.
+-We’ll let you know our decision within 21 days.
++We’ll let you know our decision within 90 days.
+ There are 3 possible outcomes:
+ we vary your plan
+ we create a new plan for you
+@@ -206,7 +209,6 @@
+ Ways to change your plan
+ Expand or collapse sub-menu for Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+```

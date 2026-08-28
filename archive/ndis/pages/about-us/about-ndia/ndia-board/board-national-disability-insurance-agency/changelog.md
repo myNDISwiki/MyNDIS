@@ -30,3 +30,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `18f381fab182e0eca7e4e28af28a6b2b7d40c7aac9d10d8d977722be968b5917`
+- New SHA-256: `f4e843d89cab3e6fcf5e4617f6c6a43d7886c1443d9802ee2f6a58579a53344f`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -118,6 +118,7 @@
+ Service charter
+ Expand or collapse sub-menu for Service charter
+ Participant Service Charter
++Safe and respectful interactions
+ Participant Service Guarantee
+ Participant Service Improvement Plan
+ Sharing information
+```

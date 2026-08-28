@@ -87,3 +87,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  accessing the NDIS
  helping them contact
 ```
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `3e5d5eb8a7caec87e1ac3d74545ccc8fa38e1d7a5b472cad59bbc10969cc7c94`
+- New SHA-256: `2524792e00a0f351ea4908ee6e8109f38dc15a8f9cd9d94b59c9114d16061f02`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

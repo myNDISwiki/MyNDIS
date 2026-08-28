@@ -162,3 +162,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Participants may also hire or purchase second-hand or refurbished equipment that meets their needs.
  Step 4: Work with the participant
 ```
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `65ffbe691100781380ff839e33ba583c28f5936696694dd910b7c60176ed252a`
+- New SHA-256: `4d0cfa2b9943a8203158ec1330e77ca8eb23042f95a52d5faa2b8ed57ab04769`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

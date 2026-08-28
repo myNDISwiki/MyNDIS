@@ -30,3 +30,93 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `9802b17330e8646f447f9c07cb4c467420c025131ef537acee23ed8010c7c1f7`
+- New SHA-256: `f6402c2d680d59aac0eb01541e7e8b0b102b63dd88620447a80470fd231afe6c`
+- Visible text lines added: 32
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -15,35 +15,50 @@
+ 2 - What plan variations are for
+ 3 - What a plan variation is like
+ What a plan variation is
+-When we do a plan variation, we only change part of your plan. We do plan variations when the change you’ve asked for fits with your overall package of NDIS supports.
+-This means we don’t need to do a plan reassessment to create a whole new plan for you.
+-If you think your plan needs to change, you can let us know at any time. You don’t need to wait for your
+-check-in
+-.
++When we do a plan variation, we only change part of your plan. We do plan variations when the change you’ve asked for fits within your overall package of NDIS supports. This means we don’t need to do a plan reassessment to create a whole new plan for you.
+ What plan variations are for
+ There are a few things we can do a plan variation for, like changing:
+ the reassessment date of your plan
+ your goals
+ your statement of your supports
+ the way you manage your funding component amounts.
+-We can also use a plan variation to correct or add information too.
+-This could include:
++We can also use a plan variation to correct or add information. This could include:
+ fixing a small or technical error in your plan
+ adding assistive technology that has been recommended in an occupational therapist’s report that we requested during planning.
+-If you need crisis or emergency funding, we do this in a plan variation so you can access the NDIS supports you need quickly.
++You may need crisis or emergency funding. We can do this in a plan variation so you can quickly access your NDIS supports.
++Using all your funding before the end of your plan or
++funding period
++isn’t considered by itself an emergency.
+ What a plan variation is like
++Plan variation request form
++You, your plan nominee or child representative can ask for a plan variation at any time using the plan variation request form.
++You need to give consent for someone else, like a support coordinator, to ask for a plan variation.
++You can use this form when you need changes to a part of your current plan. You can also speak to your my NDIS contact or
++contact us
++about the changes you need.
++We may ask you for information and evidence to support your request to vary your plan.
++Plan variation request form
++Download the plan variation request form:
++Plan variation request form (DOCX 131KB)
++Send us your information
++You can give us your complete form and evidence by:
++using our
++service hub
++mailing it to NDIA, GPO Box 700, Canberra ACT 2601
++delivering it in person to your
++my NDIS contact
++or
++local office
++.
+ How we make plan variations
+-If you ask us to change your plan, we may ask you for information and evidence to support that change.
+-Once we have the information and evidence we need from you to decide about the change, we’ll let you know our decision within 21 days.
+-If we need more evidence from you to make the change, or we think you might need a
+-plan reassessment
+-, we will tell you.
+-If we decide not to change your plan, we’ll let you know and explain why.
+-If we do vary your plan, you’ll get a copy of your varied plan within 7 days.
++We’ll let you know our decision within 21 days once we have the information and evidence. We’ll let you know if we need more time to review your request.
++We’ll tell you if we need more evidence from you to make the change or if we think you might need a plan reassessment.
++We may decide not to change your plan. We’ll let you know and explain why.
++You’ll get a copy of your varied plan within 7 days if we vary your plan.
+ If you don’t agree with our decision
+-If we make a decision about your plan you don’t agree with, you can request an internal
++You can request an internal
+ review of a decision
+-.
++you don’t agree with.
+ Main navigation sidebar
+ For participants
+ Creating a plan
+@@ -181,7 +196,6 @@
+ Ways to change your plan
+ Expand or collapse sub-menu for Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+```

@@ -30,3 +30,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `3b185f968de3b630b5898dd2c3d92a09f1acb0b2ef2b4bd0760660c04d4d6df3`
+- New SHA-256: `1aec4857b04b926ba6287e691a38372d1f5c50bf7b2fe7abeaa5386b65e62cc9`
+- Visible text lines added: 5
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,7 +17,7 @@
+ 3 - Asking for a change to your next plan
+ 4 - Keep your next plan the same as your current one
+ Learn about plan reassessments
+-We’ll work with you to create a new plan when it’s 56 days from its reassessment date. We call this process a
++We’ll work with you to create a new plan when it’s 56 days from its reassessment date if your situation has significantly changed. We call this process a
+ plan reassessment
+ .
+ When to start thinking about your next plan
+@@ -56,7 +56,9 @@
+ uses your information and evidence to decide about the change you’ve asked for and the types of NDIS supports you might need in your next plan.
+ Your NDIA planner will invite you to a plan meeting to talk about your new plan to explain the decisions they’ve made about your NDIS supports, if your next plan is different to your current one.
+ Tip: You don’t have to wait until your plan’s reassessment date to ask for changes.
+-You can ask us to change your plan at any time. Get in touch with your my NDIS contact, support coordinator or recovery coach about what’s changed.
++You can ask for a
++plan reassessment
++at any time if you have significant and ongoing changes to your support needs.
+ Keep your next plan the same as your current one
+ You don’t have to change your plan if it’s working well
+ Let us know at your check-in if your plan’s working well for you. We can vary your current plan instead of creating a new one. Or we may continue your plan if it’s working for you.
+@@ -68,7 +70,7 @@
+ Has anything not worked so well in this plan?
+ Are you expecting any changes in your life in the coming months?
+ Changes can be small
+-We can vary your current plan if we need to make small changes. It’ll be 12 months long and you can manage your plan the same way you do now.
++We can vary your current plan if we need to make small changes.
+ Learn more about
+ plan variations
+ .
+@@ -217,7 +219,6 @@
+ Ways to change your plan
+ Expand or collapse sub-menu for Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+```

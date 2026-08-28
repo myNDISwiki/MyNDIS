@@ -126,3 +126,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 +National Disability Insurance Scheme (NDIS), Broome, 6725
 +24 August 2026
 ```
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `6c321e16daf1174df4500be2717f022962170c11dc66501290c6b849a18c914c`
+- New SHA-256: `04806c5b877e1d0334e23374ffadab4847c6eb76dc8d62d6746f6beeac4e667d`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Early Childhood partner, Leongatha, 3953
+-25 August 2026
+-Local Area Coordinator (LAC) partner, Leongatha, 3953
+-25 August 2026
+-How to give consent
+-24 August 2026
+-What is consent
+-24 August 2026
+-Guide to working as an allied health provider
+-24 August 2026
+-How to provide assistive technology to participants
+-24 August 2026
+-FOI disclosure log
+-24 August 2026
+-How to prepare evidence for a participant's assistive technology assessment
+-24 August 2026
+-National Disability Insurance Scheme (NDIS), Tennant Creek, 0862
+-24 August 2026
+-National Disability Insurance Scheme (NDIS), Broome, 6725
+-24 August 2026
++Find a specialist disability accommodation (SDA) assessor
++27 August 2026
++How to ask for a change to your plan
++27 August 2026
++Guide to your next plan
++27 August 2026
++Booklets and factsheets
++27 August 2026
++Securing the NDIS for future generations
++27 August 2026
++Would we fund it
++27 August 2026
++Victorian man arrested following alleged $700K NDIS fraud
++27 August 2026
++Our guidelines
++27 August 2026
++How to apply
++27 August 2026
++Guide to getting started
++27 August 2026
+```

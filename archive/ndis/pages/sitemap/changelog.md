@@ -30,3 +30,33 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `372e77b8b01e9533a3346e15cb338124ebb4659aad990bbebe5480903fbbd460`
+- New SHA-256: `7a2ada94d58be39bc64c5eec1f207a5592b16176e2e95c905ed7d31ba2683ba0`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -170,7 +170,6 @@
+ What is a plan variation
+ Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+@@ -416,6 +415,7 @@
+ Changes to the NDIS
+ Service charter
+ Participant Service Charter
++Safe and respectful interactions
+ Participant Service Guarantee
+ Participant Service Improvement Plan
+ Sharing information
+```

@@ -101,3 +101,67 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `8fa2e481d59f3d48170e4f8f72b1c2e8f826d005af6ff71ec7cb948aaecfd7bf`
+- New SHA-256: `9469826050474e750ebba8f80220520606c07d9552e71709f8890921a62346c7`
+- Visible text lines added: 38
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,43 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3392
++17/08/2026
++NDIA policies, guidelines, procedures and related documents (2019-2025) concerning eligibility assessments, funding decisions, and funding reductions for high intensity supports and intensive and complex behaviour supports under the NDIS.
++FOI 25/26-3392 (PDF 6MB)
++32 documents released in full:
++Guideline - Reasonable and Necessary Supports v3.0
++Guideline - Reasonable and Necessary Supports v4.0
++Guideline - Reasonable and Necessary Supports v5.0
++Guideline - Reasonable and Necessary Supports v6.0
++Guideline - Reasonable and Necessary Supports v7.0
++Guideline - Applying to the NDIS v3.0
++Guideline - Applying to the NDIS v7.0
++Guideline - Applying to the NDIS v10.0
++Guideline - Applying to the NDIS v2.0
++Guideline - Applying to the NDIS v9.0
++Guideline - Leaving the NDIS v5.0
++Guideline - Leaving the NDIS v6.0
++Guideline - Leaving the NDIS v8.0
++Guideline - Leaving the NDIS v3.0
++Guideline - Leaving the NDIS v7.0
++Guideline - Leaving the NDIS v9.0
++Guideline - Applying to the NDIS v1.0
++Guideline - Applying to the NDIS v6.0
++Guideline - Applying to the NDIS v8.0
++Guideline - Reasonable and Necessary Supports v2.0
++Practice Guide - Intensive Super Intensive Participants v3.0
++Practice Guide - Intensive Super Intensive Participants v4.0
++Practice Guide - Intensive Super Intensive Participants v5.0
++Practice Guide - Participants Streamed as Intensive or Super Intensive v6.0
++Practice Guide - Participants Streamed as Intensive or Super Intensive v7.0
++Knowledge Article - Add Self-Care and Community Access Supports v1.0
++Knowledge Article - Add or Update Self-Care and Community Access Supports in a Plan Approval Case v2.0
++Knowledge Article - Add or Update Self-Care and Community Access Supports in a Plan Approval Case v3.0
++Knowledge Article - Understand Seld-Care and Community Access Supports v4.0
++Knowledge Article - Understand Self-Care and Community Access Supports v5.0
++Knowledge Article - Understand Self-Care and Community Access Supports v6.0
++Knowledge Article - Understand Self-Care and Community Access Supports v7.0
+ FOI 25/26-3612
+ 12/08/2026
+ Data regarding use of AUSLAN and interpreting service per financial years (19/20-25/26) including a breakdown of these individuals by:
+@@ -8793,4 +8830,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-24 August 2026
++26 August 2026
+```

@@ -59,3 +59,50 @@ The page bytes changed, but no visible main-content wording change was detected.
  17 August 2026
  Read more news
 ```
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `9c8f26cb734f6f3c219fb732044f6ae9f377216fa1de840b397f188f58a34cdc`
+- New SHA-256: `e32b80f38d5f2614985ad752755ce910315cc4d8bad34636fb907aa40659a7c3`
+- Visible text lines added: 12
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,20 +31,22 @@
+ Learn more
+ Latest news
+ Category
++Media release
++News
++Victorian man arrested following alleged $700K NDIS fraud
++Date
++27 August 2026
++Category
++Changes to the NDIS
++News
++Changes to plan reassessments
++Date
++27 August 2026
++Category
+ News
+ New operating hours for the National Contact Centre
+ Date
+ 24 August 2026
+-Category
+-Changes to the NDIS
+-New NDIS laws pass
+-Date
+-19 August 2026
+-Category
+-Media release
+-SA man second person charged over alleged $5 million dishonesty plot
+-Date
+-17 August 2026
+ Read more news
+ Participant experiences
+ With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
+```

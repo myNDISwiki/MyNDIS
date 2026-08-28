@@ -39,3 +39,34 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `9829b9430f2c11516bd10fb4d32dd3be10389e0f2c517759f6d43038cf50f83e`
+- New SHA-256: `bc118be235ebbf580033317343ee3a55e6c81dbca5872110fe901f693415f7d1`
+- Visible text lines added: 1
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -65,7 +65,7 @@
+ Step 5: After your check-in
+ We can send you a summary of what we talked about at your check-in, if you want one.
+ Your current plan will continue.
+-We’ll start creating your next plan based on the information we talked about in your check-in.
++We’ll start creating your next plan based on the information we talked about in your check-in, if you need a new plan.
+ A new plan that is like your current plan
+ We can continue your current plan if:
+ you tell us you are happy with your current plan
+@@ -219,7 +219,6 @@
+ Ways to change your plan
+ Expand or collapse sub-menu for Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+```

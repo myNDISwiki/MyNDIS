@@ -30,3 +30,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `e4267730eccbddfc73907dc8f38da83b973ce54f6ed73fb001b416359adc3654`
+- New SHA-256: `dc73e5d418936b770fd3d246023c31148a6fe5dd08fc4caec5b320393767e21c`
+- Visible text lines added: 3
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -54,7 +54,7 @@
+ 96%
+ Within 3 percentage points
+ Decide who can use the NDIS
+-21 days
++90 days
+ 96%
+ More than 3 percentage points higher
+ Make a decision about who can use the NDIS after we've been given more information
+@@ -96,7 +96,7 @@
+ 45%
+ Within 3 percentage points
+ Decide whether to do a plan reassessment, if you ask us to
+-21 days
++90 days
+ 32%
+ Within 3 percentage points
+ Do a plan reassessment we have agreed to
+@@ -179,6 +179,7 @@
+ Service charter
+ Expand or collapse sub-menu for Service charter
+ Participant Service Charter
++Safe and respectful interactions
+ Participant Service Guarantee
+ Participant Service Improvement Plan
+ Sharing information
+```

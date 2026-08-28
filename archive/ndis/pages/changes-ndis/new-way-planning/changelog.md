@@ -30,3 +30,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `dd80526cdd9356c84285926dd8595e4417ddba7d75aba55a076556cfc56d64b3`
+- New SHA-256: `65b7d1098223828d9bf91ce80456e65dd24d01ac4fbcd191c65c202e5e74d3de`
+- Visible text lines added: 0
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -51,8 +51,6 @@
+ Increased flexibility of budgets
+ Support to make decisions
+ Help to find the right supports.
+-Read more about the legislative changes
+-.
+ Support needs assessments
+ What is the change?
+ We’re introducing support needs assessments from April 2027.
+```

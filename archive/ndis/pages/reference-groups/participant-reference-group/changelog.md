@@ -75,3 +75,27 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `91506a58b956332918d5e9ac193c7d98e1937e0e399088a82c4acd3803de7527`
+- New SHA-256: `056b5ce79157d2671a3b0c4c3fa274e8a83886bf6ca32d33869b8eda71fcd82e`
+- Visible text lines added: 1
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -90,8 +90,7 @@
+ 8 July
+ 5 August
+ 2 September
+-28-29 October (2-day face-to-face meeting)
+-16 November
++4-5 November (2-day face-to-face meeting)
+ 9 December
+ Members
+ Alexander (Alek) Luczak – NDIS Participant
+```

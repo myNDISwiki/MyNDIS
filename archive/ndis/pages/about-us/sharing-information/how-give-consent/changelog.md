@@ -107,3 +107,25 @@ The page bytes changed, but no visible main-content wording change was detected.
  Consent for your NDIS information form
  (DOCX 124KB)
 ```
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `0e99ae8e524232dded0cc76e83c13c67e42228e1ca447ab2cc6c058b396183b1`
+- New SHA-256: `eb91ebeab091771a194dc59bbbd4bd215b357c2e68bdf2e9f81c435a2b2587d1`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -116,6 +116,7 @@
+ Service charter
+ Expand or collapse sub-menu for Service charter
+ Participant Service Charter
++Safe and respectful interactions
+ Participant Service Guarantee
+ Participant Service Improvement Plan
+ Sharing information
+```

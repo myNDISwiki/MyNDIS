@@ -97,3 +97,34 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `1858692530ff1864045c9e03fa3e925793efeea6ab54971c52b985ac64ec2c6d`
+- New SHA-256: `b5d06ab28832445257996e4244a0453e471e643986561bc386f07dbb9692335a`
+- Visible text lines added: 1
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,7 +17,7 @@
+ 3 - Moving from school to work
+ 4 - Transitioning from school to further education or training
+ When support is available for young participants
+-NDIS supports are available to any working age participant with an employment goal. This support focuses on helping young participants to build skills and confidence to get ready for work. When we say young participants, we mean those aged 20 to 24 years old.
++NDIS supports are available to any working age participant with an employment goal. This support focuses on helping young participants to build skills and confidence to get ready for work. When we say young participants, we mean those aged 14 to 24 years old.
+ Support is available to help:
+ get extra work experience to that received at school
+ get a part-time job outside of school hours
+@@ -196,7 +196,6 @@
+ Ways to change your plan
+ Expand or collapse sub-menu for Ways to change your plan
+ How to change your goals
+-How to tell us about a change of situation
+ How to ask for a change to your plan
+ How to update your name, pronouns or gender
+ Decision reviews
+```

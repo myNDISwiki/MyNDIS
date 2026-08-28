@@ -30,3 +30,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-28T01:36:08Z — changed
+
+- Previous SHA-256: `4d3a3bcd3fba4d8e5e69981ad625e79fce41aacdde341eab7ba3b39821959de6`
+- New SHA-256: `7ddba088dc0615586bfc0e7a15051fd55881cfc2121cf41b03c4622f6325db46`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,6 +12,12 @@
+ Latest news about changes
+ Category
+ Changes to the NDIS
++News
++Changes to plan reassessments
++Date
++27 August 2026
++Category
++Changes to the NDIS
+ New NDIS laws pass
+ Date
+ 19 August 2026
+@@ -21,12 +27,6 @@
+ Help test the new way of planning
+ Date
+ 11 June 2026
+-Category
+-Changes to the NDIS
+-News
+-Federal Budget and NDIS laws update
+-Date
+-14 May 2026
+ More news about changes
+ Contact supports and services
+ Translating and interpreting
+```
