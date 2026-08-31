@@ -184,3 +184,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Guide to getting started
 +27 August 2026
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `04806c5b877e1d0334e23374ffadab4847c6eb76dc8d62d6746f6beeac4e667d`
+- New SHA-256: `e093a565a9e3f318b3411539d3c6d7f1b6bb9e0f70d791b3e6350f4db1ba99c0`
+- Visible text lines added: 19
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Find a specialist disability accommodation (SDA) assessor
+-27 August 2026
++Senate Order 13 for Entity Contracts
++31 August 2026
++FOI disclosure log
++28 August 2026
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++28 August 2026
++How to update your name, pronouns or gender
++28 August 2026
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++28 August 2026
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++28 August 2026
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++28 August 2026
++What is a plan variation
++28 August 2026
++What is a plan reassessment
++28 August 2026
+ How to ask for a change to your plan
+-27 August 2026
+-Guide to your next plan
+-27 August 2026
+-Booklets and factsheets
+-27 August 2026
+-Securing the NDIS for future generations
+-27 August 2026
+-Would we fund it
+-27 August 2026
+-Victorian man arrested following alleged $700K NDIS fraud
+-27 August 2026
+-Our guidelines
+-27 August 2026
+-How to apply
+-27 August 2026
+-Guide to getting started
+-27 August 2026
++28 August 2026
+```

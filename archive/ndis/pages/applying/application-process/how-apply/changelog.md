@@ -57,3 +57,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  is submitted to us.
  We tell you if you’ve met the
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `3cd95abec94fcc21cdc3ef95857fd0f583170e79ee948372a550030deb3056f9`
+- New SHA-256: `8f8866410ce6ee5727bd53997d5d4ab5e22dcea2cc63526d7a1803b4a6468ad8`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

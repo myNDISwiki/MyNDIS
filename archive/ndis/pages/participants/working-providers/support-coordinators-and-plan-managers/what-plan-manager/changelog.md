@@ -61,3 +61,46 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `976e2534361c3637f83d317d9d0e6c7b828b932ed815d304f4886f38b2100c69`
+- New SHA-256: `59878f2b6e0b9a1f6ae2acc61bec5f55578f8d189d02dc4fd66d8b668615c474`
+- Visible text lines added: 5
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,7 +16,9 @@
+ 3 - What working with a plan manager is like
+ What a plan manager is
+ You can ask for funding for a provider to manage your NDIS plan for you instead of managing your NDIS funding by yourself.
+-We call this type of provider a plan manager. Plan managers must be registered providers.
++We call this type of provider a plan manager. Plan managers must be
++registered providers
++.
+ What a plan manager is for
+ A plan manager can help you look after your funding and budgeting for your NDIS supports.
+ They can help:
+@@ -24,7 +26,7 @@
+ make sure claims are in line with your plan, budget and
+ NDIS supports
+ prevent non-compliance, misspending and overspending
+-with your budget
++with your budget.
+ Tip: A plan manager is different to a support coordinator.
+ A
+ support coordinator
+@@ -35,7 +37,7 @@
+ This is separate from other services and supports in your budget.
+ You can choose to have one or more of your
+ support types
+-managed by a plan manager, if we say that is okay. You can let us know this at your
++managed by a plan manager if we say that's okay. You can let us know this at your
+ plan meeting
+ .
+ Learn more about
+```

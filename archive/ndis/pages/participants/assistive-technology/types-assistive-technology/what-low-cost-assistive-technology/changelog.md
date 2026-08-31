@@ -52,3 +52,62 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `0c57487dabd38e3076c5fcfaa7ee96f43af7664fbe2fdf069e8d5a354d8bf365`
+- New SHA-256: `ad81c0a6aa366092bcddefad3d5acdc4e9d06b03d6be5e97efc84dc6d83e012b`
+- Visible text lines added: 14
+- Visible text lines removed: 14
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,7 +31,7 @@
+ quotes
+ evidence
+ assessments.
+-You also dont need to ask us for approval before you buy it.
++You also don't need to ask us for approval before you buy it.
+ Tip: Using low-cost assistive technology for the first time?
+ We suggest everyone gets advice before buying assistive technology, even if it’s low-cost. This makes sure the item's right for you. You can speak to an
+ assistive technology advisor
+@@ -40,22 +40,22 @@
+ There are many types of low-cost assistive technology. What you need depends on your situation and goals.
+ Some examples include:
+ Mobility aids
+-walking sticks or canes
+-four-wheeled walker frames
+-short portable ramps.
++Walking sticks or canes
++Four-wheeled walker frames
++Short portable ramps
+ Communication aids
+-screen magnifiers
+-text to voice apps.
++Screen magnifiers
++Text to voice apps
+ Bathing and toileting support items
+-shower chairs
+-hand showers
+-handrails
+-incontinence alarms.
++Shower chairs
++Hand showers
++Handrails
++Incontinence alarms
+ Household support items
+-modified eating utensils
+-washing line adaptors
+-talking kitchen scales
+-adjustable-height chairs.
++Modified eating utensils
++Washing line adaptors
++Talking kitchen scales
++Adjustable-height chairs
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

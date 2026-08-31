@@ -214,3 +214,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  disability related health supports.
  Participants will not see changes to their funding until their plan is reassessed or renewed. Changes to funding are not backdated.
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `b8d15f094f360918dfbfced68cef7a473723b61e5a811bf0919e3af574a47684`
+- New SHA-256: `7523beaa9dbcf6c1979827fa5d3d142aa37a045491fbe2644aaa17fc81b1ec3a`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

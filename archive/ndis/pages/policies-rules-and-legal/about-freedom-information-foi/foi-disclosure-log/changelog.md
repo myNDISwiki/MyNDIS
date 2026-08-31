@@ -274,3 +274,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `fc924652c6c8e505ae1616c9e1e7c7dc4b0571e10ec087c04756ea04a63cb926`
+- New SHA-256: `19e84376643aee9a086bba644016c85d81d45dec88aebdda6ba7f3e15b229095`
+- Visible text lines added: 18
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,16 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3231
++18/08/2026
++This request contains:
++Number of Participant Critical Incidents (PCIs) recorded during the following periods:
++Financial years 2023-24,24-25,25-26 to date.
++PCIs while awaiting an Internal Review outcome for each period
++PCIs following an Internal Review outcome for each period
++FOI 25/26-3231 (PDF 261KB)
++A single document was created under section 17 of the FOI Act and released in full:
++1. S17 – Data – Participant Critical Incident Data
+ FOI 24/25-2310
+ 24/08/2026
+ Documents relating to the governance, implementation, monitoring and reporting of the Dispute Resolution Improvement Strategy (DRIS), including strategy, guidance, performance and ministerial documents.
+@@ -83,14 +93,14 @@
+ Ministerial Submission MS-25-000159 – released in part
+ FOI 25/26-3237
+ 18/08/2026
+-This request contains:
+-Number of Participant Critical Incidents (PCIs) recorded during the following periods:
+-Financial years 2023-24,24-25,25-26 to date.
+-PCIs while awaiting an Internal Review outcome for each period
+-PCIs following an Internal Review outcome for each period
++The Number of NCC staff in a customer facing role (Telephony, Email, Webchat) employed in by Serco, for the following periods:
++Financial year 2023-24
++Financial year 2024-25
++Financial year 2025-26 Year To date (or to the end of the most recent quarter, whichever is more readily available)
++the number of staff onboarded and offboarded within each period referenced above
+ FOI 25/26-3237 (PDF 70KB)
+-A single document was created under section 17 of the FOI Act and released in full:
+-1. S17 – Data – Participant Critical Incident Data
++1 document was created under section 17 of the FOI Act and released in full:
++1. S17 – Data – NCC Serco Staff
+ FOI 25/26-3392
+ 17/08/2026
+ NDIA policies, guidelines, procedures and related documents (2019-2025) concerning eligibility assessments, funding decisions, and funding reductions for high intensity supports and intensive and complex behaviour supports under the NDIS.
+@@ -8894,4 +8904,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-28 August 2026
++31 August 2026
+```

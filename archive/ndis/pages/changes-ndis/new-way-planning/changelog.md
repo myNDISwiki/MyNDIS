@@ -53,3 +53,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  What is the change?
  We’re introducing support needs assessments from April 2027.
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `65b7d1098223828d9bf91ce80456e65dd24d01ac4fbcd191c65c202e5e74d3de`
+- New SHA-256: `91a5f23f9f3fb39e6063154d8f4d1424cf5ea80a9a747dbac13a590014210727`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

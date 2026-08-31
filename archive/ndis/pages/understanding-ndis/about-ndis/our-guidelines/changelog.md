@@ -134,3 +134,58 @@ The page bytes changed, but no visible main-content wording change was detected.
  Reviewing our decisions
  Reviewing our decisions
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `755b11e8b36a2e120a468101d247d34391a0faf311952200cec25c0b1e33566b`
+- New SHA-256: `07b3ec41136914ebbb32ea0a8a12d37d011a51d5b7dc0e2aa8918bee4bed6774`
+- Visible text lines added: 20
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -64,6 +64,16 @@
+ Leaving the NDIS
+ (DOCX 101KB)
+ How NDIS supports work
++Principles we follow to create your plan
++Principles we follow to create your plan
++(PDF 174KB)
++Principles we follow to create your plan
++(DOCX 80KB)
++Reasonable and necessary supports
++Reasonable and necessary supports
++(PDF 335KB)
++Reasonable and necessary supports
++(DOCX 112KB)
+ Justice system
+ Justice system
+ (PDF 216KB)
+@@ -79,6 +89,11 @@
+ (PDF 313KB)
+ Your privacy and information
+ (DOCX 95KB)
++Compensation
++Compensation
++(PDF 835KB)
++Compensation
++(DOCX 136KB)
+ Early childhood
+ Early childhood approach
+ Early childhood approach
+@@ -97,6 +112,11 @@
+ Plan variations (PDF 104KB)
+ Plan variations (DOCX 283KB)
+ Your plan
++Creating your plan
++Creating your plan
++(PDF 461KB)
++Creating your plan
++(DOCX 444KB)
+ Your plan
+ Your Plan
+ (PDF 350KB)
+```

@@ -75,3 +75,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 124KB)
  Step 3: Send your completed form to us
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `6e066f5c4a20d9832a1df46bc4a0d18c3b678017323b2fc020af94e71b22c514`
+- New SHA-256: `2c65dcbfb4b2f4cf64dde8fdc6f30ac4631deb0925d0d5b8a18f3c30485516c0`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

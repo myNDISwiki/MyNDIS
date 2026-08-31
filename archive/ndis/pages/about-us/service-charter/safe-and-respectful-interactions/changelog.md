@@ -12,3 +12,12 @@ This file accumulates the recorded history of this NDIS page. For language chang
 - Visible text lines removed: 0
 
 Initial capture. The full initial wording is preserved in `index.html`; it is not duplicated here.
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `8d6f7dbb6a4e11631298908fd9eb0ca01a2bf786fc6e09d198099ae05f340a32`
+- New SHA-256: `85f7edccb2f7cd5c6220b2c34ff36235ff32b0b8359010573d2c04b647b13bbd`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

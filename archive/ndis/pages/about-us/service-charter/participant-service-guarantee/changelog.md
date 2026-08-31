@@ -70,3 +70,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Participant Service Improvement Plan
  Sharing information
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `dc73e5d418936b770fd3d246023c31148a6fe5dd08fc4caec5b320393767e21c`
+- New SHA-256: `964b12d61e118cd72b8581ead38b1a270f8bd0e9cc8931428d1a689a20ac12b3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

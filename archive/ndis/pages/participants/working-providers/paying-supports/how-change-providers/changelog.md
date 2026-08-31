@@ -52,3 +52,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  How to update your name, pronouns or gender
  Decision reviews
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `6cb6ad016db3ddc0499ac423f9df403af19fb46539aba971edd82d4f73fbaec9`
+- New SHA-256: `937abbe81c01c6dd453f70690e6e76cc9970236f5aa3a5c26c134410728b7076`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -53,3 +53,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We create your first plan once you’re an NDIS participant. We use the information and evidence you gave us in your application to do this.
  Learn more about
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `d9bd3ba7b16bcb281f7c875935ce1a2e119c1e117e87fd98847d0cfe8bae56a6`
+- New SHA-256: `1ea62c9a9bb91197b4974dec59e78e05869c53714cbfc79fe7aff04d09e80c6e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

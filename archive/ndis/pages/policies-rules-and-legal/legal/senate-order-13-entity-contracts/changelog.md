@@ -39,3 +39,46 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `ff3f7b842281b0110cdda3df9c661112fd8919b574858b43e0cdd7187bd8c6c5`
+- New SHA-256: `696a0745d6c28b6f3e51be3b91cc55f9559c6ce40e4930970ba20e75cbdebbda`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,9 +5,9 @@
+ Listen
+ Print this page
+ Save page as PDF
+-Senate Order 13 (February 2026)
++Senate Order 13 (August 2026)
+ Senate Order 13 (SO13), known as Murray Motion, requires that, twice a year, Commonwealth entities publish details of individual contracts with a total value of $100,000 (GST inclusive) or more, which meets specific date requirements (during the reporting period).
+-For the 2025 Calendar Year (this reporting period), 01 January 2025 to 31 December 2025, the National Disability Insurance Agency (Agency) identified 1273 individual contracts that met the requirements of SO13.
++For the 2025-26 Financial Year (this reporting period), 01 July 2025 to 30 June 2026, the National Disability Insurance Agency (Agency) identified 1187 individual contracts that met the requirements of SO13.
+ The NDIA does not report contract information on AusTender. To support transparency in the Agency’s procurement and contract management activities, we provide key details for each contract on this page.
+ This includes the procurement method used, how many suppliers were approached, any contract variations and the original contract value.
+ Confidentiality
+@@ -17,13 +17,13 @@
+ protection of other Commonwealth material and personal information.
+ The Accountable Authority of the Agency has assured that the listed contracts do not contain any inappropriate confidentiality provisions.
+ For details on the current SO13 listing, please download:
+-Senate Order Entity contract listing 2025 Calendar year (XLSX 246KB)
++Senate Order Entity contract listing 2026 Calendar year (XLSX 246KB)
+ Cost of Compliance
+-The estimated cost of complying with SO13 in relation to the current list for the Agency is approximately $32,333.
++The estimated cost of complying with SO13 in relation to the current list for the Agency is approximately $26,065.
+ An estimate of the total hours committed by each staff member involved in the preparation of the SO13 response was costed to calculate the above figure.
+ Previous reporting
++Senate Order Entity contract listing 2025 Calendar year (XLSX 246KB)
+ Senate Order entity contract listing 2024-2025 financial year (PDF 6MB)
+-Senate Order entity contract listing 2024 Calendar year (PDF 682.7KB)
+ Main navigation sidebar
+ Policies, rules and legal
+ About Freedom of Information (FOI)
+```

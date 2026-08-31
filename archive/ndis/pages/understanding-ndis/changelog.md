@@ -77,3 +77,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `18a90f976279bdf4b8cd7398b5ae7a164e54fdfdb179807dee79799f4f8b1d68`
+- New SHA-256: `9960d9ecb815ae849fe8ffa0beef5201668bad634263aa1c2f9c2eeddd600532`
+- Visible text lines added: 7
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,20 +16,20 @@
+ '
+ Events and information sessions
+ Category
+-Provider Engagement
+-SDA Enrolments Webinar
++Community Engagement
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+ Event Date
+-Thursday, 17 September 2026
++Wednesday, 4 November 2026
+ Category
+ Community Engagement
+-Understanding the NDIS webinar: Pathways to post school life
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+ Event Date
+-Tuesday, 27 October 2026
++Wednesday, 28 October 2026
+ Category
+ Community Engagement
+-Understanding the NDIS webinar: Pathways to post school life
++An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+ Event Date
+-Thursday, 22 October 2026
++Wednesday, 21 October 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

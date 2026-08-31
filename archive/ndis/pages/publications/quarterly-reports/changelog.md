@@ -57,3 +57,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  ACT performance
  ACT Dashboard as at 30 June 2026 (PDF 172KB)
 ```
+
+## 2026-08-31T17:21:43Z — changed
+
+- Previous SHA-256: `236d734bf8f0d119edc2a7968274799c539352eb8ae4b04271e6f55355456255`
+- New SHA-256: `5ec9cc0f50666a78b7ef9c8b601693c850010ce48fcfcfb0649981221ea65a73`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
