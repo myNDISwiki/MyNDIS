@@ -133,3 +133,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `603354bf3f130efd1abea820cc57e57d810b52d905a85ede43fbfd53aa8db290`
+- New SHA-256: `2dbe34fdd501b16cf69a9440c1e8cc00a975628b340bb8ef24ac61c43187777a`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -102,9 +102,9 @@
+ Our Guideline
+ Download the compensation guideline:
+ Compensation
+-(PDF 769KB)
++(PDF 835KB)
+ Compensation
+-(DOCX 218KB)
++(DOCX 136KB)
+ Easy Read
+ Download what is compensation in Easy Read:
+ What is compensation
+```

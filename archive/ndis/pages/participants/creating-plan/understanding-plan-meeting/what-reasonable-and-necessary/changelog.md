@@ -70,3 +70,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `e991cd47957ab00325ba9750653204dd162cb2fc0af02e27b6dc8eb4e475582b`
+- New SHA-256: `f5914edf9bd45b1b910f759b10d6ac68d78ba79fccdfc7cde990a93a607e1d2a`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -59,9 +59,9 @@
+ Our Guideline
+ Download the reasonable and necessary guideline:
+ Reasonable and necessary supports
+-(PDF 304.87 KB)
++(PDF 335KB)
+ Reasonable and necessary supports
+-(DOCX 105.98 KB)
++(DOCX 112KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

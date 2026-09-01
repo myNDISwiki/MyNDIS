@@ -61,3 +61,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `e25b5753c95525ed76d01298c7597775a7c89dcde499c543395b37df7af9e79e`
+- New SHA-256: `cc218a42298bab32732aa5def9893268059c54d9eef677c276fcc991280dc417`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -89,9 +89,9 @@
+ Our Guidelines
+ Download the principles we follow to create your plan guideline:
+ Principles we follow to create your plan
+-(PDF 169.06 KB)
++(PDF 174KB)
+ Principles we follow to create your plan
+-(DOCX 78.33 KB)
++(DOCX 80KB)
+ Download the creating your plan guideline:
+ Creating your plan
+ (PDF 460.8 KB)
+```

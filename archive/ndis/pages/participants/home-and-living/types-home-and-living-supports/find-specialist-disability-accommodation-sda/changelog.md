@@ -59,3 +59,23 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `9452b6fe6da6e19debd09de12634c8f3ebfda1619c8347fddd1495b057579658`
+- New SHA-256: `22c382e12c6397282873502798ad37a63dc45e9644e05491c5c187d7cbe0df8f`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -28,4 +28,4 @@
+ page.
+ SDA finder
+ This page current as of
+-25 August 2026
++31 August 2026
+```

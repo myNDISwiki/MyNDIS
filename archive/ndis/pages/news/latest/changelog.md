@@ -183,3 +183,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `c38ba538ef2712fdae7a145343b0f7a563260436ab893d15afbcb64a727cb65e`
+- New SHA-256: `140ca3dfb9ba87d025d4870e8e428d33dee2dc2e3762cf890ba6d59809005c58`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(319)
++(320)
+ Notification
+ (41)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ August 2026
+-(11)
++(12)
+ July 2026
+ (12)
+ June 2026
+@@ -356,6 +356,12 @@
+ Search
+ Search
+ Category
++News
++Corporate Plan 2026–27 now available
++The Corporate Plan describes our purpose, key performance measures, and priorities for the next 4 years.
++Date
++31 August 2026
++Category
+ Media release
+ News
+ Victorian man arrested following alleged $700K NDIS fraud
+@@ -385,12 +391,6 @@
+ Media release
+ SA man second person charged over alleged $5 million dishonesty plot
+ The AFP has charged an Adelaide man over an alleged multi-million-dollar dishonesty plot against the NDIS.
+-Date
+-17 August 2026
+-Category
+-News
+-Have your say on the continence provider list
+-We want to make it easier for NDIS participants to find and choose continence products that meet their needs.
+ Date
+ 17 August 2026
+ Pagination
+```

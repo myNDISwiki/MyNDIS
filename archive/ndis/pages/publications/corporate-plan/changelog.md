@@ -149,3 +149,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  2018-2022
  The 2018-22 NDIS Corporate Plan is available for your reference.
 ```
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `04165fdd552b33446111c3e1e7c5d5dc0fc9524e249bb6e85f5f19b53071dade`
+- New SHA-256: `9fd10fcb1a762ce93eb0a4bb2124f294dffec20abecd6b355db550007b0352a2`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

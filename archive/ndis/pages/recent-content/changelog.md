@@ -241,3 +241,58 @@ The page bytes changed, but no visible main-content wording change was detected.
 -27 August 2026
 +28 August 2026
 ```
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `e093a565a9e3f318b3411539d3c6d7f1b6bb9e0f70d791b3e6350f4db1ba99c0`
+- New SHA-256: `44cbac6216aefefb48a60fc0d8f51cd64ca43c3236d63b7b901e39fa9386d71a`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -6,22 +6,22 @@
+ Page title
+ Updated
+ Senate Order 13 for Entity Contracts
++1 September 2026
++Ways to change your plan
++1 September 2026
++What is compensation
++1 September 2026
++Guide to your first plan
++1 September 2026
++What is reasonable and necessary
++1 September 2026
++What is onsite shared support
++1 September 2026
++Guide to leaving the NDIS
++1 September 2026
++What are NDIS support budgets
++1 September 2026
++Corporate Plan 2026–27 now available
+ 31 August 2026
+-FOI disclosure log
+-28 August 2026
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+-28 August 2026
+-How to update your name, pronouns or gender
+-28 August 2026
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+-28 August 2026
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+-28 August 2026
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+-28 August 2026
+-What is a plan variation
+-28 August 2026
+-What is a plan reassessment
+-28 August 2026
+-How to ask for a change to your plan
+-28 August 2026
++Local Area Coordinator (LAC) partner, Cooma, 2630
++31 August 2026
+```

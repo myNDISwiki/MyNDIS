@@ -82,3 +82,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  Policies, rules and legal
  About Freedom of Information (FOI)
 ```
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `696a0745d6c28b6f3e51be3b91cc55f9559c6ce40e4930970ba20e75cbdebbda`
+- New SHA-256: `5d4a4c671315abdd93af89f09991835e335682d9fc3025c8a6a65f0abe7ab01d`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,7 +17,7 @@
+ protection of other Commonwealth material and personal information.
+ The Accountable Authority of the Agency has assured that the listed contracts do not contain any inappropriate confidentiality provisions.
+ For details on the current SO13 listing, please download:
+-Senate Order Entity contract listing 2026 Calendar year (XLSX 246KB)
++Senate Order Entity contract listing 2025-26 financial year (XLSX 246KB)
+ Cost of Compliance
+ The estimated cost of complying with SO13 in relation to the current list for the Agency is approximately $26,065.
+ An estimate of the total hours committed by each staff member involved in the preparation of the SO13 response was costed to calculate the above figure.
+```

@@ -189,3 +189,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Your Plan
  (PDF 350KB)
 ```
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `07b3ec41136914ebbb32ea0a8a12d37d011a51d5b7dc0e2aa8918bee4bed6774`
+- New SHA-256: `176554168e9997051a31c7263ff90ca79f65f1855e20f8694e22ac20b68d69c8`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

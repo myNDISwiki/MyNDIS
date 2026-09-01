@@ -124,3 +124,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-01T17:27:20Z — changed
+
+- Previous SHA-256: `7c5fe3e77336a54a81c8378f03420ec007d4aa6ea5ff9dc6f7821f4e57d61fc5`
+- New SHA-256: `c16ef73fe59ddded7338fee9d185c9c9d764c6e365d629ee7b72ac26793f9f8b`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++News
++Corporate Plan 2026–27 now available
++Date
++31 August 2026
++Category
+ Media release
+ News
+ Victorian man arrested following alleged $700K NDIS fraud
+@@ -42,11 +47,6 @@
+ Changes to plan reassessments
+ Date
+ 27 August 2026
+-Category
+-News
+-New operating hours for the National Contact Centre
+-Date
+-24 August 2026
+ Read more news
+ Participant experiences
+ With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
+```
