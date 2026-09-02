@@ -159,3 +159,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Download what is compensation in Easy Read:
  What is compensation
 ```
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `2dbe34fdd501b16cf69a9440c1e8cc00a975628b340bb8ef24ac61c43187777a`
+- New SHA-256: `3426322cb34f8a02f0001c904bc905c5cf3f1b5be10492abcde1ee6d4d880b77`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

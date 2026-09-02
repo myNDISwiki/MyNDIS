@@ -241,3 +241,61 @@ The page bytes changed, but no visible main-content wording change was detected.
  17 August 2026
  Pagination
 ```
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `140ca3dfb9ba87d025d4870e8e428d33dee2dc2e3762cf890ba6d59809005c58`
+- New SHA-256: `f0bc57ba136953cb33c5620925807ecd962317ebdc038828445620c46eafca29`
+- Visible text lines added: 9
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(320)
++(321)
+ Notification
+ (41)
+ News State or Territory
+@@ -77,6 +77,8 @@
+ WA
+ (29)
+ News date
++September 2026
++(1)
+ August 2026
+ (12)
+ July 2026
+@@ -357,6 +359,12 @@
+ Search
+ Category
+ News
++Planned system updates 3 September 2026
++Planned system updates 3 September 2026
++Date
++2 September 2026
++Category
++News
+ Corporate Plan 2026–27 now available
+ The Corporate Plan describes our purpose, key performance measures, and priorities for the next 4 years.
+ Date
+@@ -387,12 +395,6 @@
+ New NDIS laws have been passed by Parliament. This means that there are some changes coming to the NDIS to secure it for the long term. Right now, participants can continue using their plans and supports as usual.
+ Date
+ 19 August 2026
+-Category
+-Media release
+-SA man second person charged over alleged $5 million dishonesty plot
+-The AFP has charged an Adelaide man over an alleged multi-million-dollar dishonesty plot against the NDIS.
+-Date
+-17 August 2026
+ Pagination
+ 1
+ 2
+```

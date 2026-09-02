@@ -70,3 +70,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `6f8ad83900d301b9c4dcdf30ebc86447dc67821d013d87e1e8b0ffc50ff51e9e`
+- New SHA-256: `b2112e9c8ce78f088e5749cbab3af866c11bd32e0fae82959832a163866204ee`
+- Visible text lines added: 8
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -79,19 +79,20 @@
+ WWFI - Smoke alarm supports for adults who are deaf or hard of hearing (PDF 126KB)
+ WWFI - Smoke alarm supports for adults who are deaf or hard of hearing (DOCX 63KB)
+ Improved health and wellbeing
+-Gym memberships
+-WWFI - Gym memberships (PDF 126KB)
+-WWFI - Gym memberships (DOCX 63KB)
+ Psychology supports and mental health
+ WWFI - Psychology supports and mental health (PDF 125KB)
+ WWFI - Psychology supports and mental health (DOCX 70KB)
+ Consumables
+ Early childhood continence consumables
+-WWFI - Early childhood continence consumables (PDF 126KB)
+-WWFI - Early childhood continence consumables (DOCX 63KB)
++WWFI - Early childhood continence consumables
++(PDF 110KB)
++WWFI - Early childhood continence consumables
++(DOCX 57KB)
+ Continence consumables
+-WWFI - Continence consumables (PDF 126KB)
+-WWFI - Continence consumables (DOCX 63KB)
++WWFI - Continence consumables
++(PDF 104KB)
++WWFI - Continence consumables
++(DOCX 53KB)
+ Enteral feeding
+ WWFI - Enteral feeding (PDF 126KB)
+ WWFI - Enteral feeding (DOCX 63KB)
+```

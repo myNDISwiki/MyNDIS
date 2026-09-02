@@ -293,3 +293,72 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `df4006850cc4f584ef3595517f6d52476bd16a32ba786b681d8a913ffbdc507e`
+- New SHA-256: `9c398360c22fc3c228b35871ad14d358524faeb4caf6c226ad2906c2f7017de9`
+- Visible text lines added: 9
+- Visible text lines removed: 17
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,32 +12,19 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(18)
++(17)
+ Provider Engagement
+ (7)
+-General information
+-(1)
+-Event State or Territory
+-NSW
+-(1)
++No states available
+ Event date
+ November 2026
+ (1)
+ October 2026
+ (9)
+ September 2026
+-(15)
++(14)
+ Search
+ Search
+-Category
+-Community Engagement
+-General information
+-Wilcannia community visit
+-The NDIS will be visiting Wilcannia. We are here to help answer your questions about the NDIS.
+-Event Date
+-Tuesday, 1 September 2026
+-Event address
+-Wilcannia, NSW 2836
+ Category
+ Provider Engagement
+ Working as an NDIS Provider
+@@ -68,12 +55,17 @@
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+ Wednesday, 16 September 2026
++Category
++Community Engagement
++Understanding the NDIS webinar: NDIS Assistive Technology
++When NDIA talks about assistive technology, we mean equipment, technology, and devices that help you do things you can’t do because of your disability.
++Event Date
++Wednesday, 16 September 2026
+ Pagination
+ 1
+ 2
+ 3
+ 4
+-5
+ ›
+ ››
+ »
+```

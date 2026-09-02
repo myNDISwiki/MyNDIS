@@ -282,3 +282,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  if you want them.
  NDIS laws say we must keep your information on our records, even when you leave the NDIS. You can always
 ```
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `5b682d3fce05ba4ce10a615b4e519e4b1696c6a147b94091cec2cab094dfb898`
+- New SHA-256: `dbd6c5d71d716f6334ceae1e3a3ec81655337b0870097cc9bc8f1d5b9b92d06e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -57,3 +57,132 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `324edbd6568a0881131840d76c40c111f865d0b9d4cc96a2d8fbcd6f225fecb9`
+- New SHA-256: `1e82fe29efdd6bdb4edc53a487f79cc1445e6b9503854df658900bcab9383314`
+- Visible text lines added: 45
+- Visible text lines removed: 21
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,25 +14,36 @@
+ 2 - What the NDIS disability requirements are for
+ 3 - What the NDIS disability requirements are like
+ What the NDIS disability requirements are
++The NDIS disability requirements are the rules you must meet to be eligible for the NDIS.
+ To be eligible:
+-you have a disability caused by a permanent impairment, or have a psychosocial disability caused by a permanent impairment
+-your permanent impairment significantly impacts your life and your ability to do everyday tasks
++your disability is caused by one or more impairments
++your impairment is, or is likely to be, permanent
++your impairment substantially reduces your ability to do everyday tasks
++your impairment affects your ability to work, study or take part in social life
+ you’ll likely need NDIS supports for your lifetime.
+ What the NDIS disability requirements are for
+-We make decisions about who can be an NDIS participant based on these requirements and the evidence you provide about your disability and impairments.
+-The NDIS disability requirements are the same for everyone who applies. They're requirements that come from NDIS laws.
+-Not every person with disability in Australia will qualify for the NDIS. The NDIS is for people with disabilities that meet all the eligibility requirements.
++The NDIS disability requirements help us decide who can become an NDIS participant.
++We make decisions based on these requirements and the evidence you provide about your disability and impairments.
++The NDIS disability requirements are the same for everyone who applies. The requirements come from NDIS laws.
++Not every person with disability in Australia will qualify for the NDIS. The NDIS is for people with disabilities that meet all the
++eligibility requirements
++. To be eligible you'll meet the age, residence and disability requirements.
+ What the NDIS disability requirements are like
+-To be eligible you'll meet the age, residence and disability requirements.
+-You can also meet both the disability and the early intervention requirements at the same time.
+-You'll need to give us evidence from your doctor, specialist or treating professional. This will help us decide if you meet the disability requirements.
++You’ll need to give us evidence from your doctor, specialist or treating professional. This will help us decide if you meet the disability requirements.
++Learn more about
++gathering evidence
++.
++You may meet both the disability and the
++early intervention
++requirements at the same time.
+ Your disability is caused by an impairment
+-To meet the disability requirements, we must have evidence that your disability or psychosocial disability is caused by at least one of the following impairments:
++To meet the disability requirements, we must have evidence that your disability is caused by one or more of the following impairments:
+ intellectual
+ cognitive
+ neurological
+ sensory
+-physical.
++physical
++relating to a psychosocial disability.
+ We consider an impairment a significant change in at least one of the following:
+ your body’s functions
+ your body’s structure
+@@ -40,36 +51,48 @@
+ It doesn't matter what caused your impairment. You could have had it from birth or got it from an injury or a health condition.
+ Your impairment is likely to be permanent
+ We need to see evidence you’ll likely have your impairment for your whole life.
+-It’s okay if you have periods of life where there's a smaller impact on your daily life. We understand sometimes the impact of your impairment can go up and down, and come in episodes.
++It’s okay if you have periods of life where there's a smaller impact on your daily life. We understand sometimes the impact of your impairment can go up and down and come in episodes.
+ There are some situations where a disability or diagnosis is permanent, but your impairment is temporary, is still being treated or there are more treatment options.
+ We usually consider whether your impairment is likely to be permanent after all available and appropriate treatment options have been considered.
+ Your impairment substantially reduces your functional capacity
+-Your permanent impairment needs to substantially reduce your functional capacity or ability to do daily activities.
+-This includes communicating, socialising, learning, moving around, looking after yourself or managing your life.
+-You need a high level of support from others
+-This means you need a high level of support from other people, such as physical assistance, guidance, supervision or prompting.
+-You need assistive technology, equipment or home modifications
+-This means you need assistive technology, equipment or home modifications that are prescribed by your GP, allied health professional or other medical professional.
++Your permanent impairment needs to substantially reduce your
++functional capacity
++or ability to do daily activities.
++This must be in one or more of the following areas:
++communicating
++socialising
++learning
++moving around
++looking after yourself
++managing your life.
++Your permanent impairment must substantially reduce your ability to do everyday activities. This means you need disability-specific supports, such as:
++a high level of support from other people, such as physical assistance, guidance, supervision or prompting
++assistive technology, equipment or home modifications prescribed by a health professional.
+ Your impairment affects your ability to work, study or take part in social life
+-We look at how your permanent impairment affects your ability to do things like:
++We look at how your permanent impairment affects your ability to work, study or socialise.
++We might look at your ability to do things like:
+ find and keep a job, or start your own business
+ study
+ spend and save money
+-play sports
++play sport
+ go to the movies
+ volunteer
+ travel.
+-Your impairment means you’ll need lifetime support from the NDIS
++Your impairment means you’ll need NDIS supports for your lifetime
+ The last thing we look at is whether you’re likely to need support under the NDIS for your whole life.
+ Even if your needs go up and down over your life, we’ll still consider if it is likely you’ll need lifetime support under the NDIS.
+ To work this out, we consider:
+ your life circumstances
+ the nature of your long-term support needs
+ whether your needs could best be met by the NDIS or by community and mainstream supports and services.
++Learn more about
++NDIS supports
++.
+ If you're not sure you meet the disability requirements
+ Get in touch with your
+ local NDIS partner
+-for advice if you meet the age and residence requirements, but are unsure if you meet the disability requirements. They’ll help you to understand if you may be eligible to become an NDIS participant through the disability requirements, the early intervention requirements or both.
++for advice if you meet the age and residence requirements, but are unsure if you meet the disability requirements.
++They’ll help you to understand if you may be eligible to become an NDIS participant through the disability requirements, the early intervention requirements or both.
+ Your NDIS partner can connect you with
+ supports in your community
+ if you don’t meet the eligibility requirements.
+@@ -95,6 +118,7 @@
+ Application process
+ Expand or collapse sub-menu for Application process
+ How to apply
++What is impairment information?
+ What is an access request form
+ Types of assessments
+ Expand or collapse sub-menu for Types of assessments
+```

@@ -162,3 +162,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Participant experiences
  With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
 ```
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `c16ef73fe59ddded7338fee9d185c9c9d764c6e365d629ee7b72ac26793f9f8b`
+- New SHA-256: `9c45abac64f386b48e6835971a8c73700c9392ef5613f923d9f7954323cb0428`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

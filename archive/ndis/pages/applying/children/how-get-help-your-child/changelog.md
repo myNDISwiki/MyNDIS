@@ -66,3 +66,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-02T17:27:21Z — changed
+
+- Previous SHA-256: `0d9478d728b779de07c8e556d78142a8ec27ce0d0c83ed078e6f66f7b0e3505f`
+- New SHA-256: `6f7d167d0d5213bda110705dcf66f39498300b19fce0f514912d84327cd264c9`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -98,6 +98,7 @@
+ Application process
+ Expand or collapse sub-menu for Application process
+ How to apply
++What is impairment information?
+ What is an access request form
+ Types of assessments
+ Expand or collapse sub-menu for Types of assessments
+```
