@@ -75,3 +75,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `29fee2fd31ad49fa27edcd4658ff46c7a9e4f6362cc745416a9730736fc1c71c`
+- New SHA-256: `e602990d25576a94592af5138cb891d12c015a8733c0203e6b8dd3a1c1b38a99`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -25,6 +25,7 @@
+ Suzanne Gearing – Physical Disability Australia (PDA)
+ Meeting Summaries
+ 2026 Meeting Summaries
++4 August 2026 meeting summary
+ 2 June 2026 meeting summary
+ 7 April 2026 meeting summary
+ 4 February 2026 meeting summary
+```

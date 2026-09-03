@@ -352,3 +352,59 @@ The page bytes changed, but no visible main-content wording change was detected.
 -Local Area Coordinator (LAC) partner, Cooma, 2630
 -31 August 2026
 ```
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `cecc6303c079359b72cd97f3573b658809c83ae5a0c92145a643525e382b4b1a`
+- New SHA-256: `33c349f11b456ee6372859f3d2fd95a239e63e00d950b618b29d193a9eaf313b`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++Rural and Remote Advisory Group
++3 September 2026
++Rural and Remote Advisory Group meeting summary August 2026
++3 September 2026
++Guide to assistive technology
++3 September 2026
++What is a remote community connector
++3 September 2026
++National Disability Insurance Scheme (NDIS), Broome, 6725
++3 September 2026
++National Disability Insurance Scheme (NDIS), Tennant Creek, 0862
++3 September 2026
++Booklets and factsheets
++3 September 2026
++Our guidelines
++3 September 2026
++National Disability Insurance Scheme (NDIS), Kalgoorlie, 6430
++3 September 2026
+ Planned system updates 3 September 2026
+ 2 September 2026
+-What is impairment information
+-2 September 2026
+-Application process
+-2 September 2026
+-FOI disclosure log
+-2 September 2026
+-What are the NDIS disability requirements
+-2 September 2026
+-Would we fund it
+-2 September 2026
+-National Disability Insurance Scheme (NDIS), Kalgoorlie, 6430
+-2 September 2026
+-How to prepare evidence for a participant's assistive technology assessment
+-2 September 2026
+-National Disability Insurance Scheme (NDIS), Tennant Creek, 0862
+-2 September 2026
+-Senate Order 13 for Entity Contracts
+-1 September 2026
+```

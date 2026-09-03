@@ -88,3 +88,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `dc559f78dc46bc033d33ed5afc6d7fd76f87b13af4c9f98fc4e87d0071fe100f`
+- New SHA-256: `faf67f56747fc8e886a0b980c7f5ce8690637405a1bb181f18461db85cf207e2`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -81,8 +81,8 @@
+ A replacement support must be related to your disability. It replaces a current support in your plan. It isn’t an extra support. You need to apply for a replacement support. You can only buy this support if we approve it in writing.
+ Our Guideline
+ Download the assistive technology guideline:
+-Assistive technology (PDF 291 KB)
+-Assistive technology (DOCX 104 KB)
++Assistive technology (PDF 291KB)
++Assistive technology (DOCX 104KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

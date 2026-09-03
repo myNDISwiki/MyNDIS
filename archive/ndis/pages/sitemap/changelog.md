@@ -100,3 +100,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Types of assessments
  What is a functional capacity assessment
 ```
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `8f3457190afc88900f696b5da9e65402f23e222f2bb4349f7131ae570d0e8996`
+- New SHA-256: `4460b91c4944ff7610ccdb4ef57701c73fff6c1e81aea148bbee306c6d3fcb71`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

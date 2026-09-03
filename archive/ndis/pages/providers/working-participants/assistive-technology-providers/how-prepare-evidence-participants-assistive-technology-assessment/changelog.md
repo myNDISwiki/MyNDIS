@@ -315,3 +315,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 110KB)
  Hearing devices and technology assessment template
 ```
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `0e99d881aa8f304a0979a28e4b1ef82e8c918e2c2054cb10ce55d5c589befa0d`
+- New SHA-256: `ae03e82259a6f94f8327d8cfdc664dd7f42c943e0cf0c3e08a151073f72c3ab9`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

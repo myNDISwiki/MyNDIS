@@ -112,3 +112,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  WWFI - Enteral feeding (PDF 126KB)
  WWFI - Enteral feeding (DOCX 63KB)
 ```
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `b2112e9c8ce78f088e5749cbab3af866c11bd32e0fae82959832a163866204ee`
+- New SHA-256: `79a5e1c5fd1aab680fddb5cef0f68da0d3ab1f36aca15dc9236a0be9ce031ad5`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -299,3 +299,35 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `f0bc57ba136953cb33c5620925807ecd962317ebdc038828445620c46eafca29`
+- New SHA-256: `4e6edc05a52b7a7477d10b9553fdad653c549f56f449cd3f1e82b6cbfd667856`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(321)
++(322)
+ Notification
+ (41)
+ News State or Territory
+@@ -80,7 +80,7 @@
+ September 2026
+ (1)
+ August 2026
+-(12)
++(13)
+ July 2026
+ (12)
+ June 2026
+```

@@ -138,3 +138,108 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `3fbc0ce17179f18d219b3c88c316145012effc4cd2104d2241d45b2d85128fe5`
+- New SHA-256: `7ac2d14fd029aaf1d4b870052daf2079063af8f91ffdda07bcf28b23eae5ada9`
+- Visible text lines added: 14
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -67,20 +67,11 @@
+ Amanbidji (Mialuni/Kildirk), Baines, Bulla, Daguragu, Kalkarindji, Lajamanu, Lingara, Pigeon Hole (Nitipurru), Timber Creek, Victoria River, Yarralin.
+ Miwatj Health Aboriginal Corporation
+ Phone:
+-0476 483 102
+-or
+ (08) 8939 1900
+ Email:
+ [email protected]
+ Communities serviced
+-Balma, Elcho Island, Gapuwiyak, Nhulunbuy, Yirrkala and homelands.
+-Ngaanyatjarra Health Service
+-Phone:
+-0457 205 279
+-Email:
+-[email protected]
+-Communities serviced
+-Balma, Elcho Island, Gapuwiyak, Nhulunbuy, Yirrkala and homelands.
++Balma, Bunhanura, Elcho Island (Galiwinku), Gapuwiyak (Lake Evella), Gulungurr (Dhoyndji), Gunyangara (Ski Beach), Milingimbi, Nhulunbuy (Gove), Ramingining, Yirrkala, Surrounding Homelands.
+ Sunrise Health Service Aboriginal Corporation
+ Phone:
+ (08) 8971 9500
+@@ -94,7 +85,7 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Tennant Creek and Barkly communities.
++Ali Curung, Alpurrurulam (Lake Nash), Ampilatwatja, Barrow Creek (Jemelke), Canteen Creek (Owairtilla), Elliott, Epenarra (Wutunugurra), Irrultja, Marlinja, Mungkarta (McLaren Creek), Murray Downs (Imangara), Newcastle Waters, Tara (Neutral Junction), Tennant Creek, Urapuntja (Utopia & Arlparra).
+ Thamarrurr Development Corporation
+ Phone:
+ (08) 8978 1305
+@@ -153,7 +144,7 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Napranum, Weipa region.
++Mapoon, Nanum, Napranum (Mission River), Rocky Point, Trunding, Weipa.
+ North and West Remote Health Ltd
+ Phone:
+ (07) 4781 9300
+@@ -188,7 +179,7 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Torres Strait communities.
++Badu Island, Boigu Island, Coconut Island, Erub Island, Horn Island (Horn, Nurupai), Iama Island, Keriri Island, Mabuiag Island, Masig Island, Moa Island, Poruma Island, Prince of Wales Island (Muralag), Saibai Island, Thursday Island (Port Kennedy, Waiben), Ugar Island, Warraber Islet.
+ Yoonthalla Services Woorabinda
+ Phone:
+ (07) 4935 0560
+@@ -206,7 +197,7 @@
+ Amata, Iwantja (Indulkana), Kalka, Kaltjiti (Fregon), Kanpi (Murputja), Mimili, Nyapari (Murputja Homelands), Pipalyatjara, Pukatja (Ernabella), Umuwa, Watarru & Homelands, Yunyarinyi (Kenmore Park).
+ SAWCAN - Tullawon Health Services
+ Phone:
+-0467 507 878
++(08) 8625 6255
+ Email:
+ [email protected]
+ Communities serviced
+@@ -242,9 +233,7 @@
+ Ardyaloon, Balgo, Beagle Bay, Bidyadanga, Bilingurr, Billiluna, Broome, Cable Beach, Camballin, Dampier Peninsula, Derby, Djarindjin, Djugun, Doon Doon (Woolah), Durack, Gibb River Road, Glen Hill (Mandangala), Halls Creek, Imintji, Kalumburu, Kundat Djaru, Kununurra, Kupungarri, Kutjungka, Lagrange, Lombadins, Looma, Minyirr, Mowanjum, Mueller Ranges, Mulan, Nelson Station, Ngallagunda, Pandanus Park, Roebuck, Sturt Creek, Tanami, Warmun, Waterbank, Willare, Wyndham, Yulumbu (Tableland).
+ Marra Worra Worra Aboriginal Corporation
+ Phone:
+-(08) 91915333
+-or
+-0497 769 882
++(08) 9191 5333
+ Email:
+ [email protected]
+ Communities serviced
+@@ -263,13 +252,20 @@
+ [email protected]
+ Communities serviced
+ Badgingarra, Bakers Hill, Beacon, Bencubbin, Beverley, Brookton, Bruce Rock, Buckland, Burlong, Calingiri, Cervantes, Corrigin, Cunderdin, Dalwallinu, Dandaragan, Goomalling, Katrine, Kellerberrin, Koolyanobbing, Koorda, Marvel Loch, Meenaar, Merredin, Moora, Mukinbudin, Narembeen, Nungarin, Quairading, Southern Brook, Southern Cross, Tammin, Trayning, Westonia, Wongan Hills, Wyalkatchem, York, Dowerin.
++Ngaanyatjarra Health Service
++Phone:
++(08) 8955 4700
++Email:
++[email protected]
++Communities serviced
++Blackstone (Papulankutja), Irrunytju (Wingellina), Kiwirrkurra, Mantamaru (Jameson), Tjukurla, Wanarn, Warakurna, Warburton.
+ Paupiyala Tjarutja Aboriginal Corporation
+ Phone:
+ (08) 9037 1100
+ Email:
+ [email protected]
+ Communities serviced
+-Tjuntjuntjara
++Tjuntjuntjara.
+ Puntukurnu Aboriginal Medical Service
+ Phone:
+ (08) 9177 8307
+```

@@ -88,3 +88,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Types of assessments
  Expand or collapse sub-menu for Types of assessments
 ```
+
+## 2026-09-03T17:28:06Z — changed
+
+- Previous SHA-256: `4a694c56c2296498fbc19f15c6eab70c05bb305b861f67e43af35dbfc1b512a6`
+- New SHA-256: `314f95fdad401ef540fe5b28c37572d888511abed077b99349c8f56ab0c0e226`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
