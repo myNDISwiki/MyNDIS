@@ -1,0 +1,5 @@
+timestamp,domain,event,path,sha256_before,sha256_after
+2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/README.md,,0dd82c25eaa40e23bf553e16257b78584201c99cbd23b0fb73baaea368daad51
+2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/README.md,,afe8d0cb847060445e2518c232256a17208c3781ea413b052b6e0b3220698f0c
+2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/reviewing-actuary/README.md,,7c5d5183497b015ca7d4a1b4061617fb21b2b6cfa079338cab7159fb044c8bf2
+2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/scheme-actuary/README.md,,4efa587e5af15616d830f36b91c1d2027b4e07f2d3353384ab3a383f8aaf692c

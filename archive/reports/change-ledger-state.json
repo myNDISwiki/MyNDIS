@@ -1,0 +1,34 @@
+{
+  "archive/gov/.gitkeep": {
+    "domain": ".gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "archive/gov/health/national-autism-strategy-reference-group/README.md": {
+    "domain": "health",
+    "sha256": "45a647bc6f1a6db50ff3911b18e2f306614b528862d7e320c587e6a1b012bff4"
+  },
+  "archive/gov/health/ndis/changelog.md": {
+    "domain": "health",
+    "sha256": "fa9933fafee3327a01541e8bfff6cc62da4b69df499c69f64e81db297fe048b6"
+  },
+  "archive/gov/health/ndis/manifest.json": {
+    "domain": "health",
+    "sha256": "d362705aa7a98eb28cf6592d7458b3fb1e6d4f8d1e1112be6df0c31c43fc5dc0"
+  },
+  "archive/gov/ndia/README.md": {
+    "domain": "ndia",
+    "sha256": "0dd82c25eaa40e23bf553e16257b78584201c99cbd23b0fb73baaea368daad51"
+  },
+  "archive/gov/ndia/independent-advisory-council/README.md": {
+    "domain": "ndia",
+    "sha256": "afe8d0cb847060445e2518c232256a17208c3781ea413b052b6e0b3220698f0c"
+  },
+  "archive/gov/ndia/reviewing-actuary/README.md": {
+    "domain": "ndia",
+    "sha256": "7c5d5183497b015ca7d4a1b4061617fb21b2b6cfa079338cab7159fb044c8bf2"
+  },
+  "archive/gov/ndia/scheme-actuary/README.md": {
+    "domain": "ndia",
+    "sha256": "4efa587e5af15616d830f36b91c1d2027b4e07f2d3353384ab3a383f8aaf692c"
+  }
+}

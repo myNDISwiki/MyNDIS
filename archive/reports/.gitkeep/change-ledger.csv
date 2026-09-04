@@ -1,0 +1,2 @@
+timestamp,domain,event,path,sha256_before,sha256_after
+2026-09-04T09:54:31Z,.gitkeep,NEW,archive/gov/.gitkeep,,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
