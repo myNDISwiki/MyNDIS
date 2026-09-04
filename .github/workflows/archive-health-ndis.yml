@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - "project/health_ndis_tracker.py"
+      - "project/change_ledger.py"
       - ".github/workflows/archive-health-ndis.yml"
   schedule:
     - cron: "17 4 * * *"
@@ -34,10 +35,13 @@ jobs:
           python-version: "3.12"
       - name: Run Health NDIS tracker
         run: python project/health_ndis_tracker.py
+        continue-on-error: true
+      - name: Build archive change ledgers
+        run: python project/change_ledger.py
       - name: Commit Health NDIS archive changes
         shell: bash
         run: |
-          git add archive/gov/health/ndis
+          git add archive/gov/health/ndis archive/reports
           if git diff --cached --quiet; then
             echo "No Health NDIS changes detected."
             exit 0
