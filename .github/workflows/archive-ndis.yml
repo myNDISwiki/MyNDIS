@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: archive-ndis
+  group: archive-writers
   cancel-in-progress: false
 
 jobs:
@@ -44,10 +44,13 @@ jobs:
       - name: Build human-readable change register
         run: python scraper/change_tracker.py
 
+      - name: Rebuild tracking dashboard
+        run: python project/build_dashboard.py
+
       - name: Commit archive changes
         shell: bash
         run: |
-          git add archive/ndis
+          git add archive/ndis archive/reports
           if git diff --cached --quiet; then
             echo "No NDIS website changes detected."
             exit 0
@@ -56,4 +59,5 @@ jobs:
           git config user.name "MyNDIS Archive Bot"
           git config user.email "myndiswiki@users.noreply.github.com"
           git commit -m "Archive NDIS website updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase
           git push

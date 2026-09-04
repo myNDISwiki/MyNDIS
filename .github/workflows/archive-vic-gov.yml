@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: archive-vic-gov
+  group: archive-writers
   cancel-in-progress: false
 
 jobs:

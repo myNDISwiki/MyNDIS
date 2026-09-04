@@ -18,7 +18,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: archive-health-ndis
+  group: archive-writers
   cancel-in-progress: false
 
 jobs:
@@ -52,4 +52,5 @@ jobs:
           git config user.name "MyNDIS Archive Bot"
           git config user.email "myndiswiki@users.noreply.github.com"
           git commit -m "Archive Health NDIS updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase
           git push
