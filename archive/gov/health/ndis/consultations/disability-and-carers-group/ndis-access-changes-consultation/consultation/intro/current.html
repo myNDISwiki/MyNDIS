@@ -1,0 +1,831 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js">
+    <head>
+        
+    
+    <base href="https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/"/>
+    
+
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The site lists consultations that are run by the Department of Health, Disability and Ageing. On this site you can find, share or take part in consultations.">
+        
+        
+        <title>
+            
+    
+        
+        NDIS Access Changes Consultation
+        
+            - Privacy and Collection notice
+        
+    
+
+             - Australian Government Department of Health, Disability and Ageing
+            - Citizen Space
+        </title>
+        
+        <link rel="stylesheet" href="/static_frontend/vendor/lato-2.015/fonts.css">
+        <link type="text/css" href="/static_frontend/vendor/dlb-public-ui/css/bootstrap.css" rel="stylesheet">
+        
+        <link type="text/css" href="https://consultations.health.gov.au/static_frontend/vendor/dlb-public-ui/css/dlb-public-ui-compiled.css" rel="stylesheet">
+        <link type="text/css" href="https://consultations.health.gov.au/static_frontend/css/citizenspace.css" rel="stylesheet">
+
+        
+
+        <!--Font Awesome-->
+        <link type="text/css" href="/static_frontend/vendor/dlb-public-ui/libraries/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+        <!--/Font Awesome-->
+
+        
+        <script type="text/javascript">
+            var tr_auto_embed = true;
+        </script>
+
+        <!--jQuery -->
+        <script type="text/javascript" src="/static_frontend/vendor/dlb-public-ui/libraries/jquery/jquery.min.js"></script>
+        <!--/jQuery -->
+        <script type="text/javascript" src="/static_frontend/js/fluid-resize.js?version=8.18.0"></script>
+        
+        <script type="text/javascript" src="/static_frontend/js/tr-safe-embed.js?version=8.18.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/text-truncate.js?version=8.18.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/tr-pdf.js?version=8.18.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/typeahead/typeahead.bundle.min.js?version=8.18.0"></script>
+        
+        
+        
+
+        <!--
+            Part of the Bootstrap 5 migration involves prefixing Bootstrap JS attributes with bs-
+            This has been done in our codebase, but copy/pasted content such as fact banks may still have old attributes.
+            Shim these attributes to allow these to remain working.
+        -->
+        <script>
+            const bootstrapEventShim = function() {
+                document.querySelectorAll('[data-toggle]').forEach((el) => {
+                    let attrVal = el.dataset.toggle;
+                    el.dataset.bsToggle = attrVal;
+                });
+                document.querySelectorAll('[data-target]').forEach((el) => {
+                    let attrVal = el.dataset.target;
+                    el.dataset.bsTarget = attrVal;
+                });
+            }
+            document.addEventListener("DOMContentLoaded", bootstrapEventShim);
+        </script>
+
+         <!-- Bootstrap JS Components -->
+        <script src="/static_frontend/vendor/dlb-public-ui/libraries/bootstrap-5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+        
+
+        <!-- Page-specific CSS and JS can go here -->
+        
+    
+
+
+
+        
+            <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LXD4QN5RFW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LXD4QN5RFW');
+</script>
+        
+
+        <!-- Remove no-js class if scripts are enabled -->
+        <script>
+            document.documentElement.classList.remove('no-js')
+        </script>
+
+        <!-- Ensure collapsible content is displayed and misleading links are hidden if JS is disabled -->
+        <noscript>
+            <style>
+                .collapse {
+                    display: block;
+                }
+
+                .show-when-no-js {
+                    display:block;
+                }
+
+                .hide-when-no-js {
+                    display:none;
+                }
+            </style>
+        </noscript>
+
+    </head>
+
+    <body
+          data-site-root="https://consultations.health.gov.au">
+        <div id="skip">
+            <a href="https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation/intro/#page-content">Skip to Main Content</a>
+        </div>
+        
+
+<script>
+
+    jQuery(document).ready(function() {
+        
+
+        var options = {};
+        // used to disable the go button when the selected page is the current page
+        var cur_page = jQuery("#preview-navigation-page-select").val()
+
+        jQuery("#preview-navigation-page-select").change(function() {
+            var page = jQuery(this).val();
+            var button = jQuery("#preview-navigation button");
+            if (page != "" && page != cur_page) {
+                button.prop('disabled',false);
+            } else {
+                button.prop('disabled','disabled');
+            }
+        });
+
+        jQuery("#preview-navigation button").click(function(event) {
+            var page = jQuery("#preview-navigation-page-select").val();
+            var consultation_root = jQuery("#preview-navigation").data("consultation-root");
+            var survey_root = jQuery("#preview-navigation").data("survey-root");
+            var cookie_path = jQuery("#preview-navigation").data("cookie-path");
+
+            function set_state(state) {
+                document.cookie="preview_state="+state+";path="+cookie_path+";";
+            }
+
+            set_state("open");
+            if (page === "_hub") {
+                window.location = survey_root;
+            } else if (page == "_overview_open") {
+                window.location = consultation_root;
+            } else if (page == "_overview_closed") {
+                set_state("closed");
+                window.location = consultation_root;
+            } else if (page == "_overview_forthcoming") {
+                set_state("forthcoming");
+                window.location = consultation_root;
+            } else if (page == "_response_submitted") {
+                window.location = survey_root + "confirm_submit_thankyou";
+            } else if (page == "_published_responses") {
+                set_state("closed");
+                window.location = survey_root + "published_select_respondent";
+            } else if (page == "") {
+                // No-op, shouldn't get here (hah..).
+            } else {
+                window.location = survey_root + page;
+            }
+        });
+
+    });
+</script>
+
+        <div id="global-wrapper">
+
+            
+
+            <header id="global-nav" class="navbar navbar-default navbar-expand-md navbar-static-top dss-navbar">
+                <div class="container-fluid">
+                    <div class="row flex-grow-1 py-2 pb-md-0 pt-lg-1">
+                        <div class="mb-md-2 py-lg-1 col-md-8 ">
+                            <div class="navbar-header d-flex justify-content-between">
+                                <div id="global-nav-main-heading">
+                                    
+                                        <a id="global-nav-site-title" href="https://www.health.gov.au/">
+                                            <img src="https://consultations.health.gov.au/os-custom-logos/dohda-logo-inline-white-l.png"
+                                                alt="Department of Health, Disability and Ageing" class="global-nav-logo ms-3 ms-md-0" />
+                                        </a>
+                                    
+                                </div>
+                                <button class="navbar-toggler d-md-none align-self-center"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#global-navbar-collapse"
+                                    aria-expanded="false"
+                                    aria-controls="global-navbar-collapse">
+                                    <span class="fa fa-caret-down"></span>
+                                    <span>Menu</span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="col align-content-center d-flex align-items-center">
+                            <div id="cs-global-search-container-md" class="d-none d-md-block flex-grow-1">
+                                <!-- Javascript puts the search form here for sm viewports -->
+                                <form id="cs-global-search" action="https://consultations.health.gov.au/consultation_finder/" method="GET">
+                                    
+                                    <div role="search">
+                                        
+                                        <label for="cs-global-search-input" class="visually-hidden">Search</label>
+                                        <div class="input-group">
+                                            <input class="form-control" size="27" id="cs-global-search-input" type="text" name="keyword" placeholder="Search"/>
+                                            <button class="btn btn-primary" aria-label="Search" id="cs-global-search-button">
+                                                <span class="fa fa-search"></span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+
+                            
+                        </div>
+                        
+                        <div class="w-100"></div>
+                        <div>
+                            <nav class="collapse navbar-collapse navbar-left px-3 px-md-0"
+                                id="global-navbar-collapse"
+                                aria-label="primary">
+
+                                <div id="global-navbar-collapse-inner" class="py-2">
+
+                                    <div id="cs-global-search-container-xs" class="d-md-none">
+                                        <!-- Javascript puts the search form here for xs viewports -->
+                                    </div>
+                                    
+                                    <ul class="cs-navbar-nav-list">
+                                        <li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/">
+        <span class="cs-navbar-nav-link-text">Home</span>
+    </a>
+</li>
+<li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/consultation_finder/">
+        <span class="cs-navbar-nav-link-text">Find Activities</span>
+    </a>
+</li>
+<li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/we_asked_you_said/">
+        <span class="cs-navbar-nav-link-text">We Asked, You Said, We Did</span>
+    </a>
+</li>
+
+                                    </ul>
+                                    
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <main id="page-content-wrapper">
+                <div id="page-content" tabindex="-1">
+                    
+    
+
+    
+
+    
+    <section>
+
+    
+        <div
+                class="dss-rhino cs-consultation-banner"
+                style="background-image: url('https://consultations.health.gov.au/os-custom-logos/consultation-hub-banner.png')">
+            
+        </div>
+    
+
+    
+
+    
+
+    <div class="dss-rhino dss-rhino-brand-color dss-rhino-padding-bottom-15">
+        <div class="container-fluid dss-text-brand-color">
+            <div class="row">
+                <div>
+                    <h1 id="cs-consultation-title-in-banner">
+                        
+                            NDIS Access Changes Consultation
+                        
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+    
+
+        <section class="dss-rhino dss-rhino dss-rhino-padding-top-5 dss-rhino-padding-bottom-40 page-type-subpage" i18n:context="survey_page">
+            <div class="container-fluid">
+
+                
+<div class="cs-status-message-container">
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+</div>
+
+
+                 <div class="row">
+                    
+                    <div class="col-md-3">
+                        
+                        <div class="cs-survey-sidebar-container">
+                        
+                        
+                            
+                            
+                            
+
+                            
+                            
+                            <p class="cs-survey-sidebar-important-date">
+                                <span>Closes</span> 2 Oct 2026
+                            </p>
+                            
+                            
+
+                            
+                            
+                            <p class="cs-survey-cookie-notice">
+                                <span>This service needs</span> 
+                                <a data-preview="disabled" href="https://consultations.health.gov.au/cookie_policy/">cookies enabled</a>.
+                            </p>
+                            
+                            
+                        
+                        
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-9">
+                        <div class="dss-easy-reading cs-survey-body-container">
+                        
+                        
+                            
+                            <h2>Privacy and Collection notice</h2>
+
+                            <div class="pb-2 clearfix"><p>Please read below the Privacy Notice for this consultation.</p>
+
+<p>Your personal information is protected by law, including the&#160;<i>Privacy Act 1988</i>&#160;and the Australian Privacy Principles (APPs).</p>
+
+<h3>Who is collecting your personal information?</h3>
+
+<p>Your personal information is being collected by the&#160;Department of Health, Disability and Ageing&#160;(the&#160;department/ we).&#160;&#160;</p>
+
+<h3><span><span><span>Who will the department disclose your personal information to? </span></span></span></h3>
+
+<p><span><span><span>We may disclose a limited set of personal and sensitive information to a contracted provider for the purpose of collecting phone submissions and analysing written submissions to inform policy development around NDIS access changes. </span></span></span></p>
+
+<p><span><span><span>For phone submissions, this will include your personal information to record your submission and sensitive information, including whether you identify as a person with disability, are an NDIS participant, come from a Culturally or Linguistically Diverse (CALD) background, live in a regional, rural or remote area of Australia, or identify as Lesbian, Gay, Bisexual, Transgender, Intersex, Queer, Asexual or Aromantic or other groups of sexuality, gender and bodily diverse people (LGBTIQA+). Providing this information is optional.</span></span></span></p>
+
+<p><span><span><span>For written submissions, all consultation and survey responses will be de-identified before disclosure to our contracted provider. </span></span></span></p>
+
+<h3>Why does the department collect your personal information?</h3>
+
+<p>We collect your personal information for the purpose of informing&#160;development of advice to government about robust and consistent NDIS access decision-making processes and standardised evidence requirements for assessing substantially reduced functional capacity.</p>
+
+<p>Your personal information may also be used for other purposes such as informing other projects or research purposes. In doing so, we will apply the Australian Privacy Principles to the handling of any personal information.</p>
+
+<h3>What would happen if the department did not collect your personal information?</h3>
+
+<p>If you do not or are unable to provide your personal information the department will not be able to use it, or the insights you wish to provide, to inform&#160;development of changes to accessing the NDIS.&#160;&#160;</p>
+
+<h3>Access to and correction of your personal information</h3>
+
+<p>The department&#8217;s privacy policy contains information about how you may access and seek correction of your personal information.</p>
+
+<h3>Disclosure of personal information to third parties</h3>
+
+<p>The Department will not share any personal information with third parties.&#160;We&#160;may disclose de-identified submissions&#160;to any organisation contracted to the department to complete this work, the National Disability Insurance Agency and the NDIS Quality and Safeguards Commission.&#160;</p>
+
+<h3>Privacy complaints</h3>
+
+<p>The department&#8217;s privacy policy contains information about how you may complain about a breach of the Australian Privacy Principles or the&#160;<i>Australian Government Agencies Privacy Code&#160;</i>and how the department will deal with complaints.</p>
+
+<h3>Overseas disclosure of your personal information</h3>
+
+<p>We will not disclose your personal views to any overseas recipients.</p>
+
+<h3>Further information</h3>
+
+<p>You can <a href="https://www.health.gov.au/resources/publications/privacy-policy">read the department&#8217;s privacy policy here</a>.&#160;You can obtain a copy of the APP privacy policy by contacting the department using the contact details set out at the end of this notice.&#160;</p>
+
+<h3>Consent</h3>
+
+<p>By providing your sensitive information to us, you consent to the Department of Health, Disability and Ageing collecting a range of your personal information about you for the purposes indicated above.</p>
+
+<p>Personal information that may be collected about you includes whether you identify as a person with disability, are an NDIS participant, come from a Culturally or Linguistically Diverse (CALD) background, live in a regional, rural or remote area of Australia, or identify as Lesbian, Gay, Bisexual, Transgender, Intersex, Queer, Asexual or Aromantic or other groups of sexuality, gender and bodily diverse people (LGBTIQA+). Providing this information is optional.</p>
+
+<p>If you are providing the department with personal information about another individual, unless you are authorised to consent on their behalf, you will need to inform that individual of the contents of this notice, and obtain their consent to the department collecting their personal information.</p>
+
+<h3>Contact details</h3>
+
+<p>If you wish to contact the department about a privacy-related matter, including questions about this notice, please contact the department&#8217;s Privacy Officer by one of the following methods:</p>
+
+<ul>
+	<li><b>Post</b><br>
+	Privacy Officer<br>
+	Department of Health, Disability and Ageing<br>
+	23 Furzer Street<br>
+	WODEN ACT&#160; 2606</li>
+	<li><b>Email</b><br>
+	<a href="mailto:privacy@health.gov.au">privacy@health.gov.au</a></li>
+	<li><b>Telephone</b><br>
+	02 6289 1555</li>
+</ul>
+</div>
+
+                            
+                                <div class="cs-factbank">
+    <h3 class="cs-factbank-header dss-heading-x-small">
+        <a href="#page-factbank"
+        data-bs-toggle="collapse"
+        role="button"
+        class="collapsed hide-when-no-js"
+        aria-label="See our privacy policy"
+        aria-expanded="false"
+        aria-controls="page-factbank">
+            <span>See our privacy policy</span>
+        </a>
+
+        <span class="show-when-no-js">
+            <span>See our privacy policy</span>
+        </span>
+
+    </h3>
+    <div id="page-factbank" class="cs-factbank-content collapse">
+        <div class="cs-factbank-content-inner clearfix"><p><a href="https://www.health.gov.au/resources/publications/privacy-policy">Privacy policy | Australian Government Department of Health, Disability and Ageing</a></p>
+</div>
+    </div>
+</div>
+                            
+
+                            
+
+<div>
+    <form enctype="multipart/form-data" method="post" action="https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation/intro/">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            <input type="hidden" name="__userinfo_cs_version" value="v8.18.0"/>
+
+        
+
+        <div class="cs-questions">
+            
+                
+                
+    <div class="cs-question-container">
+        <div class="cs-question-padding">
+            <fieldset>
+                
+                <legend class="dlb-survey-question dss-heading-x-small dss-heading-bold">
+                    1.
+                    I consent to the Department collecting, using and disclosing personal information including sensitive information that I provide in accordance with the Privacy Notice. </legend>
+
+
+                
+
+                        
+                            
+                                <div class="BooleanSubQuestion-component">
+                                    
+    <div class="cs-boolean-subquestion">
+        
+
+        <span class="cs-checkbox-input-wrapper">
+            <label for="question-2026-06-29-8338420958-booleansubquestion-1782710867-43" class="form-label">
+                <input type="hidden" name="question-2026-06-29-8338420958-booleansubquestion-1782710867-43" value="no" />
+                <input type="checkbox"
+                    data-test-hook="subquestion-boolean"
+                    value="yes" name="question-2026-06-29-8338420958-booleansubquestion-1782710867-43" id="question-2026-06-29-8338420958-booleansubquestion-1782710867-43"/>
+                Yes I consent
+                <span class="cs-label-required">(Required)</span>
+            </label>
+        </span>
+    </div>
+
+                                </div>
+                                <span class="dss-skip-med"></span>
+                            
+                        
+
+                    
+
+            </fieldset>
+        </div>
+    </div>
+
+
+            
+        </div>
+
+        <div class="pt-3 pb-4 cs-page-buttons">
+            <input type="hidden" name="form.submitted" value="1"/>
+            <input type="hidden" name="came_from" value="https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation/intro/"/>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+
+    
+    
+        <!--! continue -->
+        <button class="dss-btn dss-btn-primary float-end mt-md-2 ml-md-2 "
+                name="form.button.next"
+                type="submit"
+                style=""
+                ontouchstart="" formnovalidate>
+            Continue <span class="fa fa-angle-right icon-space-left" aria-hidden="true"></span>
+        </button>
+    
+
+    
+    
+
+    
+    
+
+
+    
+    
+    
+
+
+    
+    
+    
+        <!--! save and return -->
+        <button class="dss-btn mt-md-2 "
+                name="form.button.later"
+                type="submit"
+                style=""
+                ontouchstart=""
+                data-preview="disabled" formnovalidate>
+            Save and come back later<span aria-hidden="true">&hellip;</span>
+        </button>
+    
+
+
+
+
+
+
+        </div>
+        <div style="overflow:auto">
+        </div>
+
+    </form>
+</div>
+
+
+
+                        
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+
+                </div>
+            </main>
+        </div>
+        <footer id="configurable-footer-wrapper">
+            <div class="cs-page-component-group">
+                
+                    <section class="dss-rhino cs-page-component-container dss-rhino-footer" style="">
+    <div class="container-fluid">
+        <div class="cs-page-component cs-page-component-contrast">
+    <div class="row" id="global-footer">
+            <div id="citizen-space-footer-nav" 
+                class="col-12 col-md-8 order-1 order-md-2" 
+                role="navigation"
+                aria-label="miscellaneous">
+                <ul class="list-inline">
+                    
+                        <li id="nav-item-accessibility_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/accessibility_policy/">Accessibility</a></li>
+                    
+                        <li id="nav-item-terms_and_conditions" class="list-inline-item"><a href="https://consultations.health.gov.au/terms_and_conditions/">Terms of Use</a></li>
+                    
+                        <li id="nav-item-cookie_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/cookie_policy/">Cookies</a></li>
+                    
+                        <li id="nav-item-privacy_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/privacy_policy/">Privacy</a></li>
+                    
+                        <li id="nav-item-support" class="list-inline-item"><a href="https://consultations.health.gov.au/support/">Help / feedback</a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 order-2 order-md-1">
+                <span id="citizen-space-footer-logo">
+                <a href="https://www.delib.net/citizen_space">Citizen Space</a>
+                <span>from</span> 
+                <a href="https://www.delib.net">Delib</a>
+                </span>
+            </div>
+    </div>
+
+</div>
+
+        
+    </div>
+</section>
+
+
+                
+                    <section class="dss-rhino cs-page-component-container dss-rhino-footer" style="">
+    <div class="container-fluid">
+        <div class="cs-page-component cs-html-component">
+        <div class="row cs-html-component-one-column">
+            <div>
+                <div class="cs-page-component-contrast ">
+                    
+                    <hr><p>The Department of Health, Disability and Ageing acknowledges the traditional owners of country throughout Australia, and their continuing connection to land, sea and community. We pay our respects to them and their cultures, and to elders both past and present.</p>
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+
+        
+    </div>
+</section>
+
+
+                
+            </div>
+        </footer>
+
+        
+    
+    <script src="/static_frontend/js/quickconsult.js?version=8.18.0" type="text/javascript"></script>
+    <script src="/static/js/textarea_character_limit.js?version=8.18.0" type="text/javascript" ></script>
+ 
+    
+    <script>
+    window.addEventListener('pageshow', (event) => {
+        function hasCurrentRespondent() {
+            // get cookie
+            const value = `; ${document.cookie}`;
+            const parts = value.split(`; consultation_id=`);
+            if (parts.length === 2) {
+                const val = decodeURIComponent(parts.pop().split(';').shift());
+                return val.length > 2  // cookie gets set to the string '""'
+            }
+            return false;
+        }
+        if(!hasCurrentRespondent()) {
+            document.querySelectorAll('form').forEach(f => f.reset());
+        }
+    });
+    </script>
+
+    
+
+        
+        
+
+        <script type="text/javascript">
+            $(function() {
+                // Skip to content workaround for absolute skip links
+                jQuery('#skip a').bind("click", function(event) {
+                    var target = jQuery(this).attr('href').split('#')[1];
+                    jQuery("#"+target+"").focus();
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+        //<!-- js contains some invalid HTML characters
+            $(function() {
+                // Global search
+                var search_form = $("#cs-global-search");
+                var search_form_input = $("#cs-global-search-input");
+
+                // Scroll to search results on submit of global search form
+                search_form.submit(function() {
+                    if (search_form_input.attr('placeholder') == search_form_input.val()) {
+                        search_form_input.val('');
+                    }
+                    sessionStorage.setItem('saved-scrollTop', '500');
+                });
+
+                // Move the global search form into the appropriate container depending on viewport size
+                function move_global_search_form() {
+                    // if global nav (and global search) are turned off, bail
+                    if(!search_form.length) {
+                        return;
+                    }
+
+                    var md_container = $("#cs-global-search-container-md");
+                    var xs_container = $("#cs-global-search-container-xs");
+
+                    // btw we can't test if xs_container is visible because it's hidden inside the burger menu
+
+                    if (md_container.is(":visible")) {
+                        if(!md_container.find("#cs-global-search").length) {
+                            md_container.append(search_form);
+                        }
+                    }
+                    else {
+                        if(!xs_container.find("#cs-global-search").length) {
+                            xs_container.append(search_form);
+                        }
+                    }
+                }
+                move_global_search_form();
+                $(window).resize(move_global_search_form);
+
+                // Function to update the query string
+                function updateQueryStringParameter(uri, key, value) {
+                    var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                    var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                    if (uri.match(re)) {
+                        return uri.replace(re, '$1' + key + "=" + value + '$2');
+                    } else {
+                        return uri + separator + key + "=" + value;
+                    }
+                }
+
+                // Event listener to detect changes in the large viewport language `select`
+                var languageSelect = document.getElementById('language-picker-select');
+                if (languageSelect) {
+                    languageSelect.addEventListener('change', function() {
+                        var form = document.getElementById('global-language-picker');
+                        form.submit();
+                    });
+                }
+
+            });
+
+            // a11y hax. There are some elements generated by the ol libraries that need some extra attributes for a11y.
+            // Putting them here was preferable to overriding masses of ol code.
+            $(window).on("load", function() {
+              var zoomins = document.getElementsByClassName('ol-zoom-in');
+              for (let i=0; i<zoomins.length; i++) {
+                zoomins[i].setAttribute('aria-label', 'Zoom in');
+              }
+              var zoomouts = document.getElementsByClassName('ol-zoom-out');
+              for (let j=0; j<zoomouts.length; j++) {
+                zoomouts[j].setAttribute('aria-label', 'Zoom out');
+              }
+              var attributions = document.getElementsByClassName('ol-attribution');
+              for (let k=0; k<attributions.length; k++) {
+                attributions[k].getElementsByTagName('button')[0].setAttribute('aria-label', 'Attribution');
+              }
+              var recentre = document.getElementsByClassName('cs-zoom-to-extent');
+              for (let m=0; m<recentre.length; m++) {
+                recentre[m].getElementsByTagName('button')[0].setAttribute('aria-label', 'Recentre map');
+              }
+              var search = document.getElementsByClassName('cs-map-postcode-popup');
+              for (let m=0; m<search.length; m++) {
+                search[m].getElementsByTagName('button')[0].setAttribute('aria-label', 'Go to a postcode');
+              }
+            }
+            );
+        //-->
+        </script>
+
+        
+          
+          <script type="text/javascript">    var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-33186073-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();  </script>
+
+
+          
+        
+    </body>
+</html>
+
+

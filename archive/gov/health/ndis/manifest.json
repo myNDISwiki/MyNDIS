@@ -1,11 +1,689 @@
 {
-  "seed": "https://www.health.gov.au/our-work/ndis-legislation-changes",
-  "checked_at": "2026-09-04T09:54:05Z",
+  "seeds": [
+    "https://www.health.gov.au/our-work/ndis-legislation-changes",
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/",
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/",
+    "https://www.health.gov.au/resources/publications/thriving-kids-advisory-group-final-report"
+  ],
+  "checked_at": "2026-09-04T11:16:28Z",
   "status": "partial",
   "fetch_failures": [
-    "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403"
+    "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403"
   ],
-  "items": {},
+  "items": {
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation": {
+      "sha256": "63d03590fbb99210f238ce9c3e316ab24acd09f2b4fee20e314442e5f9d87965",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consult_view": {
+      "sha256": "63d03590fbb99210f238ce9c3e316ab24acd09f2b4fee20e314442e5f9d87965",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/consult_view/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consult_view",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation": {
+      "sha256": "e193d951349a63362a332d52b3d2c8b9a22652e0582af8a7eb3f8759a44e5214",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/consultation/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation/intro": {
+      "sha256": "e193d951349a63362a332d52b3d2c8b9a22652e0582af8a7eb3f8759a44e5214",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/consultation/intro/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consultation/intro",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx": {
+      "sha256": "27f9ee3ad9af90c0bf4bf515deacb0682c13ae209be4ecb2fedb68d777e51f15",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf": {
+      "sha256": "11493bc15408d7b9de093d5c46040fcf33d05c256a86cdb409dc6735e602be79",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx": {
+      "sha256": "81719d25f8849d5d398acd216364621f7d55097b7aca972b6644e5aef2e66ec6",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf": {
+      "sha256": "27fe4259fcd89458042a96460993237eabbbe1901e00785fc3e37b843f6650f1",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-summary---consultation-on-access-changes---word.docx": {
+      "sha256": "209b14b1a87f2c562c44932aa95e06489fd1b8157e831a104ba8cbc22b09cfa0",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-summary---consultation-on-access-changes---word.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-summary---consultation-on-access-changes---word.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf": {
+      "sha256": "85d390df75acae1ef5e4732d9411abb0888cdc553e1d72d5d01d5883ea931dd6",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports": {
+      "sha256": "6256ae74769ec878ed7b61996f925855bcd28403fbfa96ef28b39f741793b5aa",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view": {
+      "sha256": "f4cc74191ac18becf3c65e4f429b7f29c5a6f13b0ff08fcef1142faaf0e12459",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consult_view/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consultation": {
+      "sha256": "d199cde99551bd871e2486436c687103ab7f5c39517fc0483861cbe53d248ca9",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consultation/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consultation",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consultation/intro": {
+      "sha256": "d199cde99551bd871e2486436c687103ab7f5c39517fc0483861cbe53d248ca9",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consultation/intro/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consultation/intro",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.docx": {
+      "sha256": "ca005d452db6f36aea9949c131aa082ac5428d8729b767e016f291938845d43d",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.pdf": {
+      "sha256": "08c92a3ae227552293064a618c9b42c3f99be17e706602bd0bc1b722b00ab8ec",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final-2.docx": {
+      "sha256": "23de3ecf6ccb77126eed3f56d9e71218eee7553752d531c3bf65b24a662a183a",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final-2.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final-2.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final-3.pdf": {
+      "sha256": "4febe0b90d40dda60cc6c5a452c7a25a9403285d34d5fae9db875fda631548fd",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final-3.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final-3.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final.pdf": {
+      "sha256": "e24800bca3b442d66f43bc94c1558c6ff3845b1dc99b696223166933f71015ce",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---new-framework-planning_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-participant-plan-for-new-framework-planning.docx": {
+      "sha256": "c0eb7d3a92a88ec201eec2e49bb5d79ae310f4d7a0fb08a26f4af094fc7b2309",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-participant-plan-for-new-framework-planning.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-participant-plan-for-new-framework-planning.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-participant-plan-for-new-framework-planning.pdf": {
+      "sha256": "6d6d32caff751a734c471776601029deb0dbd078273dded408f0be72f042ed26",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-participant-plan-for-new-framework-planning.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-participant-plan-for-new-framework-planning.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-1.pdf": {
+      "sha256": "91604b595473e874ec82b51861b0596cb9a30255daa078cb31f2238982171dc6",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-2.pdf": {
+      "sha256": "42ca0d0c467f9049a81047dc8cad4da165ed807aa9b2bbad46e1c57ff1135164",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-2.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-2.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.docx": {
+      "sha256": "27581717138dd0231665d8eb45e3d7974796d469a2aa0ff98fbbcc4187ac1259",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.pdf": {
+      "sha256": "91604b595473e874ec82b51861b0596cb9a30255daa078cb31f2238982171dc6",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx": {
+      "sha256": "aca3b072ecaba159e3e66044af3346c12c2f930aec343060ff6dafbf427f39ee",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf": {
+      "sha256": "ccf2e9bf5ac465ddeb24057a5d88e3da5165de5ef4ad43cb2e9acd938de7a027",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final.pdf": {
+      "sha256": "c3837d7b46b2127cfd175afafb100b41897bbaed888a1dc43634e6e9166711f0",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx": {
+      "sha256": "a3c6ea05d6b4ad078c570147423fc2495590459293a6f07e92b5af836ab1350c",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf": {
+      "sha256": "dda003e1a115d82dd9e2cefc6321977d3679b98aee2c463226a40d84e0621553",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final.pdf": {
+      "sha256": "4fe331338ab44ffcbf92fcaa0f3f7e62a63ae7747e0086f261e4c9568018a6c0",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.docx": {
+      "sha256": "eb2c599782a66ab21eb6feb90a474289ddee8cce85580a7a63ed4f89bdbbd386",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.pdf": {
+      "sha256": "d2c99de83bfa806c535e8933d219f8757eff688219561dada39672077a6453e5",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final.pdf": {
+      "sha256": "c9a6de9efda729cf395d2871bbb3b1d8a782b42b5191a0068c5293f6559cc877",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx": {
+      "sha256": "ef3c4a4952583f82950f6d6a5ec6c1785ade94f7c5f0c0049d8c0ceeee64cde4",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf": {
+      "sha256": "fd6dbffba238f800b269276bf25493c9388efe9bdd65e6fb111aad49bec8f32f",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final.pdf": {
+      "sha256": "0bea57fad1bf80413b1de4be0de800d1425c31a78346068e3fa4ec5bcbf63035",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/new-framework-planning---summary-paper---easy-read---words-only.docx": {
+      "sha256": "187ed7496c14ed915bd3fddb11a32759a054f089ded2450c93957a17998cd64c",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/new-framework-planning---summary-paper---easy-read---words-only.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/new-framework-planning---summary-paper---easy-read---words-only.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/new-framework-planning---summary-paper---easy-read.pdf": {
+      "sha256": "db7f5ddfa679705e00d4ff3b9374c8ffaa44ffe22d80b067e656fe61eb7634af",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/new-framework-planning---summary-paper---easy-read.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/new-framework-planning---summary-paper---easy-read.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx": {
+      "sha256": "a28db69b13ab83409fff73181234d30d985513fb52b2902d970288810ff8aaeb",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf": {
+      "sha256": "c17a99c29e2e1459de77f2356ad2da8cc111058e7bcd77503095035ccc3cb564",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports_final.docx": {
+      "sha256": "d73863d4f852ce825a5bdc35656b5df7c2d3303692582ab4eeb660894c68d4d8",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports_final.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports_final.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports_final.pdf": {
+      "sha256": "3a445d8ad887902bbe0f5180b26c0b909f772a164652efb1a129ceaa219a501a",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---ndis-supports_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---new-framework-planning_final.docx": {
+      "sha256": "5f5a695a914458e087c1bc771da29518ece6f620f151e1653fa4a7bce1bd8cf1",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---new-framework-planning_final.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---new-framework-planning_final.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---new-framework-planning_final.pdf": {
+      "sha256": "bf35d082bf901ca9acb52f8d97b3940e7a28c8c88df46738fcc4e035a1e3d022",
+      "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---new-framework-planning_final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/user_uploads/summary-paper---new-framework-planning_final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation": {
+      "sha256": "76281b22f12f6d4a616c277c7e2a0abf0bec0a13da4b3be2963209f57d0a6e99",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view": {
+      "sha256": "990bd24d5f69a9ef9acbf45315c66e28b10d51c59eeba33e6da9492e7de95fe7",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consult_view/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf": {
+      "sha256": "504b43154590b3912e1425b42f40a7a0ee950302085b82d4aa4490db7b5a842a",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx": {
+      "sha256": "6af78bdebdc9c6e0bc49e1e0b9a83218fb588ba2d1fc841d9eea64d53330e88b",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx": {
+      "sha256": "d6007655a026ed175dc1cee7a3ff2fdd99932b5846b9804a4b4c54d228053221",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf": {
+      "sha256": "d480643c16998361487518d76b44460190a65a0bf5f0d5284096250c4b4fc885",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---notice-of-impairments.docx": {
+      "sha256": "a186cc0ae92570471dd8dda7cd8487de9cc00b92e168b3ec176339453c55ed6b",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---notice-of-impairments.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---notice-of-impairments.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---notice-of-impairments.pdf": {
+      "sha256": "196ef07a2912d1d6d49cdf8c47e6a5c05c8a8103aa06f42b213527440c139b94",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---notice-of-impairments.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---notice-of-impairments.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---stated-supports-1.docx": {
+      "sha256": "42798a2fcbe12049e02defbda7e25993b8ceb99d0ba30484991ad990d5afd7e3",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---stated-supports-1.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---stated-supports-1.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---stated-supports-1.pdf": {
+      "sha256": "9ee3c4fb2b5c078ec17f074f38b0a55d8918d6215b57efafed526b7c0467a0e3",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---stated-supports-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---stated-supports-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-1.pdf": {
+      "sha256": "63703a617a0bab4f661ef13ba409b2209614e1c9330135ac484e0335b5570e47",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx": {
+      "sha256": "c88ad4fa827aa35d3b9a2aab4b32e6918a1847c139ecceca9a9ec2bbd6816c89",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf": {
+      "sha256": "cd96e0ef6a2af96e2ab4c87a14c6d7e9aa6b6a422cdd4827d1e88ceccda112a7",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf": {
+      "sha256": "4c9562aabf2b153ade85fafd86a6ed9d5cc4b7231c83fb1349e8399c252499ae",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx": {
+      "sha256": "6217c1aa3b5fb9864e02a7240654defcdd9dd5bcecf401b50edaf0abb9c0bfc0",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx": {
+      "sha256": "de26633d506dd6c875969fa973acf5baca37d1e7a7b7dde56d2aeca1d71d2a0c",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf": {
+      "sha256": "8bf65c3ed43c66471f88cb3e4facfe42764a5253512b830efcbf4b9aefbd6462",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf": {
+      "sha256": "e0e95f4efd55cf5e875c20be5a45d581d8cde81282e745f4dc2793a627617eaa",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx": {
+      "sha256": "9bdd79825a92236580ded279a024f3b9a6f507a559ad576edb23a22ec36f16b2",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-3.-building-a-plan.docx": {
+      "sha256": "3ef1c8e835098a943163ba5d1a0fc6eaf9e4c97206555ef0f15f76865ba81081",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-3.-building-a-plan.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-3.-building-a-plan.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-3.-building-a-plan.pdf": {
+      "sha256": "f284bd5eefdd68c1460ad05f6872a95f1ded5ff51e24273abc9e56935e40b737",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-3.-building-a-plan.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-3.-building-a-plan.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-4.-using-a-plan.docx": {
+      "sha256": "957c45b1c64c7129864c9f0c4b22362ab42e8b1d1d532c72a1962cfb210e9c4a",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-4.-using-a-plan.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-4.-using-a-plan.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-4.-using-a-plan.pdf": {
+      "sha256": "b7b35d6ab7c03f26c8b1fc64d1d98fe406e9fa984dac723d3a624ca83a089f17",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-4.-using-a-plan.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/fact-sheet---step-4.-using-a-plan.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx": {
+      "sha256": "a53584daeaf91574a0b93297d1b2dd49ae5c60ef071a3a6b3d6a33ad33a23cc2",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf": {
+      "sha256": "137a33c799f851e93914dcb76bfa4aa27e6eaddcc9ce961e47c05d13e5aeef60",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx": {
+      "sha256": "50292aa48d8ecdebe1bad699dfcbe9445214cb3b2714fc145e79646b3e90d922",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf": {
+      "sha256": "be15e0b81508f4b087132d9becbf4d86fd5da21651836f96a4418804bbe04ea8",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx": {
+      "sha256": "37b7d3c2fce0869af3df362d1de44728f363f7e4fe63b8ff57e1253b0ff6b5c8",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf": {
+      "sha256": "fa73d35637d6f9ead4cd145f80fbb395329cc6c993cc51fbb67977f259ccf4a1",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx": {
+      "sha256": "9a74e3518f5de65de5dc62c00afe8083f39638969e00f7008fb3aa3e21636fdc",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf": {
+      "sha256": "8675aa7926a9d405e8e7724d1f1676db616c903f51ed59086213b7f4c5b7b86e",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx": {
+      "sha256": "f550870e0665f51c1324162389a6bbbc9f0e815ca557ffe07f7c43555b36f940",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    }
+  },
   "removed_since_previous_run": [],
   "note": "Canonical sources are health.gov.au. retrieval_method identifies direct vs fallback captures. On partial runs, prior entries are preserved rather than treated as removals."
 }

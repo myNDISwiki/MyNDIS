@@ -1,0 +1,1039 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js">
+    <head>
+        
+    <base href="https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/"/>
+
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The site lists consultations that are run by the Department of Health, Disability and Ageing. On this site you can find, share or take part in consultations.">
+        
+        
+    
+
+        <title>
+            
+    New Framework Planning and NDIS Supports Consultation
+
+             - Australian Government Department of Health, Disability and Ageing
+            - Citizen Space
+        </title>
+        
+        <link rel="stylesheet" href="/static_frontend/vendor/lato-2.015/fonts.css">
+        <link type="text/css" href="/static_frontend/vendor/dlb-public-ui/css/bootstrap.css" rel="stylesheet">
+        
+        <link type="text/css" href="https://consultations.health.gov.au/static_frontend/vendor/dlb-public-ui/css/dlb-public-ui-compiled.css" rel="stylesheet">
+        <link type="text/css" href="https://consultations.health.gov.au/static_frontend/css/citizenspace.css" rel="stylesheet">
+
+        
+
+        <!--Font Awesome-->
+        <link type="text/css" href="/static_frontend/vendor/dlb-public-ui/libraries/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+        <!--/Font Awesome-->
+
+        
+        <script type="text/javascript">
+            var tr_auto_embed = true;
+        </script>
+
+        <!--jQuery -->
+        <script type="text/javascript" src="/static_frontend/vendor/dlb-public-ui/libraries/jquery/jquery.min.js"></script>
+        <!--/jQuery -->
+        <script type="text/javascript" src="/static_frontend/js/fluid-resize.js?version=8.18.0"></script>
+        
+        <script type="text/javascript" src="/static_frontend/js/tr-safe-embed.js?version=8.18.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/text-truncate.js?version=8.18.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/tr-pdf.js?version=8.18.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/typeahead/typeahead.bundle.min.js?version=8.18.0"></script>
+        
+        
+        
+
+        <!--
+            Part of the Bootstrap 5 migration involves prefixing Bootstrap JS attributes with bs-
+            This has been done in our codebase, but copy/pasted content such as fact banks may still have old attributes.
+            Shim these attributes to allow these to remain working.
+        -->
+        <script>
+            const bootstrapEventShim = function() {
+                document.querySelectorAll('[data-toggle]').forEach((el) => {
+                    let attrVal = el.dataset.toggle;
+                    el.dataset.bsToggle = attrVal;
+                });
+                document.querySelectorAll('[data-target]').forEach((el) => {
+                    let attrVal = el.dataset.target;
+                    el.dataset.bsTarget = attrVal;
+                });
+            }
+            document.addEventListener("DOMContentLoaded", bootstrapEventShim);
+        </script>
+
+         <!-- Bootstrap JS Components -->
+        <script src="/static_frontend/vendor/dlb-public-ui/libraries/bootstrap-5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+        
+
+        <!-- Page-specific CSS and JS can go here -->
+        
+
+        
+            <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LXD4QN5RFW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LXD4QN5RFW');
+</script>
+        
+
+        <!-- Remove no-js class if scripts are enabled -->
+        <script>
+            document.documentElement.classList.remove('no-js')
+        </script>
+
+        <!-- Ensure collapsible content is displayed and misleading links are hidden if JS is disabled -->
+        <noscript>
+            <style>
+                .collapse {
+                    display: block;
+                }
+
+                .show-when-no-js {
+                    display:block;
+                }
+
+                .hide-when-no-js {
+                    display:none;
+                }
+            </style>
+        </noscript>
+
+    </head>
+
+    <body
+          data-site-root="https://consultations.health.gov.au">
+        <div id="skip">
+            <a href="https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view/#page-content">Skip to Main Content</a>
+        </div>
+        
+
+<script>
+
+    jQuery(document).ready(function() {
+        
+
+        var options = {};
+        // used to disable the go button when the selected page is the current page
+        var cur_page = jQuery("#preview-navigation-page-select").val()
+
+        jQuery("#preview-navigation-page-select").change(function() {
+            var page = jQuery(this).val();
+            var button = jQuery("#preview-navigation button");
+            if (page != "" && page != cur_page) {
+                button.prop('disabled',false);
+            } else {
+                button.prop('disabled','disabled');
+            }
+        });
+
+        jQuery("#preview-navigation button").click(function(event) {
+            var page = jQuery("#preview-navigation-page-select").val();
+            var consultation_root = jQuery("#preview-navigation").data("consultation-root");
+            var survey_root = jQuery("#preview-navigation").data("survey-root");
+            var cookie_path = jQuery("#preview-navigation").data("cookie-path");
+
+            function set_state(state) {
+                document.cookie="preview_state="+state+";path="+cookie_path+";";
+            }
+
+            set_state("open");
+            if (page === "_hub") {
+                window.location = survey_root;
+            } else if (page == "_overview_open") {
+                window.location = consultation_root;
+            } else if (page == "_overview_closed") {
+                set_state("closed");
+                window.location = consultation_root;
+            } else if (page == "_overview_forthcoming") {
+                set_state("forthcoming");
+                window.location = consultation_root;
+            } else if (page == "_response_submitted") {
+                window.location = survey_root + "confirm_submit_thankyou";
+            } else if (page == "_published_responses") {
+                set_state("closed");
+                window.location = survey_root + "published_select_respondent";
+            } else if (page == "") {
+                // No-op, shouldn't get here (hah..).
+            } else {
+                window.location = survey_root + page;
+            }
+        });
+
+    });
+</script>
+
+        <div id="global-wrapper">
+
+            
+
+            <header id="global-nav" class="navbar navbar-default navbar-expand-md navbar-static-top dss-navbar">
+                <div class="container-fluid">
+                    <div class="row flex-grow-1 py-2 pb-md-0 pt-lg-1">
+                        <div class="mb-md-2 py-lg-1 col-md-8 ">
+                            <div class="navbar-header d-flex justify-content-between">
+                                <div id="global-nav-main-heading">
+                                    
+                                        <a id="global-nav-site-title" href="https://www.health.gov.au/">
+                                            <img src="https://consultations.health.gov.au/os-custom-logos/dohda-logo-inline-white-l.png"
+                                                alt="Department of Health, Disability and Ageing" class="global-nav-logo ms-3 ms-md-0" />
+                                        </a>
+                                    
+                                </div>
+                                <button class="navbar-toggler d-md-none align-self-center"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#global-navbar-collapse"
+                                    aria-expanded="false"
+                                    aria-controls="global-navbar-collapse">
+                                    <span class="fa fa-caret-down"></span>
+                                    <span>Menu</span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="col align-content-center d-flex align-items-center">
+                            <div id="cs-global-search-container-md" class="d-none d-md-block flex-grow-1">
+                                <!-- Javascript puts the search form here for sm viewports -->
+                                <form id="cs-global-search" action="https://consultations.health.gov.au/consultation_finder/" method="GET">
+                                    
+                                    <div role="search">
+                                        
+                                        <label for="cs-global-search-input" class="visually-hidden">Search</label>
+                                        <div class="input-group">
+                                            <input class="form-control" size="27" id="cs-global-search-input" type="text" name="keyword" placeholder="Search"/>
+                                            <button class="btn btn-primary" aria-label="Search" id="cs-global-search-button">
+                                                <span class="fa fa-search"></span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+
+                            
+                        </div>
+                        
+                        <div class="w-100"></div>
+                        <div>
+                            <nav class="collapse navbar-collapse navbar-left px-3 px-md-0"
+                                id="global-navbar-collapse"
+                                aria-label="primary">
+
+                                <div id="global-navbar-collapse-inner" class="py-2">
+
+                                    <div id="cs-global-search-container-xs" class="d-md-none">
+                                        <!-- Javascript puts the search form here for xs viewports -->
+                                    </div>
+                                    
+                                    <ul class="cs-navbar-nav-list">
+                                        <li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/">
+        <span class="cs-navbar-nav-link-text">Home</span>
+    </a>
+</li>
+<li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/consultation_finder/">
+        <span class="cs-navbar-nav-link-text">Find Activities</span>
+    </a>
+</li>
+<li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/we_asked_you_said/">
+        <span class="cs-navbar-nav-link-text">We Asked, You Said, We Did</span>
+    </a>
+</li>
+
+                                    </ul>
+                                    
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <main id="page-content-wrapper">
+                <div id="page-content" tabindex="-1">
+                    
+
+    
+        <section>
+
+    
+
+    
+        <div class="dss-rhino cs-consultation-banner"
+                style="background-image: url('https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/os-custom-logos/citizen-speacer-header---securing-the-ndis-for-future-generations--1---002-.png')">
+            
+            
+        </div>
+    
+
+    
+
+    <div class="dss-rhino dss-rhino-brand-color dss-rhino-padding-bottom-15">
+        <div class="container-fluid dss-text-brand-color">
+            <div class="row">
+                <div>
+                    <h1 id="cs-consultation-title-in-banner">
+                        
+                            New Framework Planning and NDIS Supports Consultation
+                        
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+    
+
+    
+        <div class="container-fluid">
+        
+<div class="cs-status-message-container">
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+</div>
+
+        </div>
+    
+
+    
+        
+    
+
+    
+    <section class="" >
+        <div class="dss-rhino dss-rhino dss-rhino-padding-top-5 dss-rhino-padding-bottom-40 ">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-8 order-2 order-md-1">
+                        <div class="dss-easy-reading cs-constrain-overview-column-for-readability">
+                            <div id="overview" class="clearfix">
+    <h2>Overview</h2>
+    <p>The Department of Health, Disability and Ageing (the department) wants your feedback on <strong>new framework planning</strong> and <strong>NDIS supports</strong>.</p>
+
+<p paraeid="{aa15c648-40b3-4b24-a3b9-44f3d2a90936}{208}" paraid="689472986">In the 2026-27 Budget the Australian Government announced changes to protect the National Disability Insurance Scheme (NDIS) for people with permanent and significant disability now and into the future. On&#160;14 May 2026&#160;the NDIS Amendment (Securing the NDIS for Future Generations) Bill was introduced to Parliament.&#160;&#160;</p>
+
+<p paraeid="{aa15c648-40b3-4b24-a3b9-44f3d2a90936}{214}" paraid="2016433961">The Government is committed to consulting with the community on a range of measures, including <strong>new framework planning</strong> and <strong>NDIS supports</strong>.</p>
+
+<h2 paraeid="{aa15c648-40b3-4b24-a3b9-44f3d2a90936}{214}" paraid="2016433961">What this consultation is about</h2>
+
+<p paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{131}" paraid="1691831606">This public consultation focuses on four new NDIS rules for <strong>new framework planning</strong>. These rules are about:&#160;</p>
+
+<ul>
+	<li paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{143}" paraid="604495305">how a participant&#8217;s disability support needs will be assessed&#160;&#160;</li>
+	<li paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{149}" paraid="1557411851">how reasonable and necessary budgets will be developed&#160;&#160;</li>
+	<li paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{155}" paraid="1417074569">how a participant can use their plan&#160;</li>
+	<li paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{161}" paraid="1849130734">how a new framework plan can be changed</li>
+</ul>
+
+<p paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{161}" paraid="1849130734">This consultation also seeks feedback on updates to the <strong>NDIS Supports Transitional Rule</strong>.</p>
+
+<p paraeid="{e7fa34e9-8fb4-4f1f-abb0-e3522df1cce6}{161}" paraid="1849130734">We have provided resources with different levels of detail, so you can choose which level of detail is right for you.</p>
+
+<div><div class="cs-factbank ">
+    <h4 class="cs-factbank-header dss-heading-x-small">
+        <a class="collapsed hide-when-no-js" data-bs-toggle="collapse" href="#factbank-f26d1e5c3dfc473182533f360d31a211" role="button">
+        <span>Consultation resources</span>
+        </a>
+        <span class="show-when-no-js"><span>Consultation resources</span></span>
+    </h4>
+
+    <div class="cs-factbank-content collapse" id="factbank-f26d1e5c3dfc473182533f360d31a211" aria-live="polite">
+        <div class="cs-factbank-content-inner">
+            
+<h2>Consultation papers</h2>
+
+<p>Choose a consultation paper if you want all the details, including background information,&#160;policy context, detailed explanations and consultation questions.</p>
+
+<p><a href="user_uploads/consultation-paper---new-framework-planning_final-3.pdf">New Framework Planning - Consultation paper (PDF)</a></p>
+
+<p><a href="user_uploads/consultation-paper---new-framework-planning_final-2.docx">New Framework Planning - Consultation paper (Word)</a></p>
+
+<p><a href="user_uploads/consultation-paper---ndis-supports_final.pdf">NDIS supports - Consultation paper (PDF)</a></p>
+
+<p><a href="user_uploads/consultation-paper---ndis-supports_final.docx">NDIS supports - Consultation paper (Word)</a></p>
+
+<h2>Consultation summaries</h2>
+
+<p><!--{C}%3C!%2D%2D%7BC%7D%253C!%252D%252D%257BC%257D%25253C!%25252D%25252D%25257BC%25257D%2525253C!%2525252D%2525252D%2525257BC%2525257D%252525253C!%252525252D%252525252D%25252525253Cmeta%252525252520content%25252525253D%252525252522text%25252525252Fhtml%25252525253B%252525252520charset%25252525253Dus-ascii%252525252522%252525252520http-equiv%25252525253D%252525252522Content-Type%252525252522%252525252520%25252525252F%25252525253E%252525252D%252525252D%252525253E%2525252D%2525252D%2525253E%25252D%25252D%25253E%252D%252D%253E%2D%2D%3E-->
+<style type="text/css">a {
+    text-decoration: none;
+    color: #464feb;
+}
+tr th, tr td {
+    border: 1px solid #e6e6e6;
+}
+tr th {
+    background-color: #f5f5f5;
+}
+</style>
+</p>
+
+<p>Choose the consultation summary paper if you want a quick understanding of the key issues, proposed changes and consultation questions without reading the full level of detail.</p>
+
+<p><a href="user_uploads/summary-paper---new-framework-planning_final.pdf">New Framework Planning - Consultation Summary (PDF)</a></p>
+
+<p><a href="user_uploads/summary-paper---new-framework-planning_final.docx">New Framework Planning - Consultation Summary (Word)</a></p>
+
+<p><a href="user_uploads/summary-paper---ndis-supports_final.pdf">NDIS supports - Consultation Summary (PDF)</a></p>
+
+<p><a href="user_uploads/summary-paper---ndis-supports_final.docx">NDIS supports - Consultation Summary (Word)</a></p>
+
+<h2>Factsheets</h2>
+
+<p><!--{C}%3C!%2D%2D%7BC%7D%253C!%252D%252D%257BC%257D%25253C!%25252D%25252D%25257BC%25257D%2525253C!%2525252D%2525252D%2525257BC%2525257D%252525253C!%252525252D%252525252D%25252525253Cmeta%252525252520content%25252525253D%252525252522text%25252525252Fhtml%25252525253B%252525252520charset%25252525253Dus-ascii%252525252522%252525252520http-equiv%25252525253D%252525252522Content-Type%252525252522%252525252520%25252525252F%25252525253E%252525252D%252525252D%252525253E%2525252D%2525252D%2525253E%25252D%25252D%25253E%252D%252D%253E%2D%2D%3E-->
+<style type="text/css">a {
+    text-decoration: none;
+    color: #464feb;
+}
+tr th, tr td {
+    border: 1px solid #e6e6e6;
+}
+tr th {
+    background-color: #f5f5f5;
+}
+</style>
+</p>
+
+<p>Choose a fact sheet if you want a quick snapshot of a specific topic, that highlights the most important information.</p>
+
+<h3>New Framework Planning factsheets</h3>
+
+<p><a href="user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.pdf">Support Needs Assessment - factsheet (PDF)</a></p>
+
+<p><a href="user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.docx">Support Needs Assessment - factsheet (Word)</a></p>
+
+<p><a href="user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf">Working out a budget - factsheet (PDF)</a></p>
+
+<p><a href="user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx">Working out a budget - factsheet (Word)</a></p>
+
+<p><a href="user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf">Plan variations and reassessments - factsheet (PDF)</a></p>
+
+<p><a href="user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx">Plan variations and reassessments - factsheet (Word)</a></p>
+
+<h3>NDIS supports factsheet</h3>
+
+<p><a href="user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf">NDIS supports - factsheet (PDF)</a></p>
+
+<p><a href="user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx">NDIS supports - factsheet (Word)</a></p>
+
+<h2>Explainer videos</h2>
+
+<p>What's changing and what it means for you - explainer video</p>
+
+<div class="tr-embed" data-embed="JTNDaWZyYW1lJTIwd2lkdGglM0QlMjI1NjAlMjIlMjBoZWlnaHQlM0QlMjIzMTUlMjIlMjBzcmMlM0QlMjJodHRwcyUzQS8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2JNUV93bUZRemhjJTNGc2klM0RBZmhNQjNFV0FuS2RCWjF1JTIyJTIwdGl0bGUlM0QlMjJZb3VUdWJlJTIwdmlkZW8lMjBwbGF5ZXIlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBhbGxvdyUzRCUyMmFjY2VsZXJvbWV0ZXIlM0IlMjBhdXRvcGxheSUzQiUyMGNsaXBib2FyZC13cml0ZSUzQiUyMGVuY3J5cHRlZC1tZWRpYSUzQiUyMGd5cm9zY29wZSUzQiUyMHBpY3R1cmUtaW4tcGljdHVyZSUzQiUyMHdlYi1zaGFyZSUyMiUyMHJlZmVycmVycG9saWN5JTNEJTIyc3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQy9pZnJhbWUlM0U=" data-embed-provider="JTIwQXVzdHJhbGlhbiUyMERlcHQlMjBvZiUyMEhlYWx0aCUyQyUyMERpc2FiaWxpdHklMjBhbmQlMjBBZ2Vpbmc=" data-embed-useful-url="aHR0cHMlM0EvL3d3dy5oZWFsdGguZ292LmF1Lw==" data-embed-why="VGhlJTIwQXVzdHJhbGlhbiUyMGdvdmVybm1lbnQlMjBpcyUyMGltcHJvdmluZyUyMGhvdyUyMHBsYW5uaW5nJTIwd29ya3MlMjBmb3IlMjBORElTJTIwcGFydGljaXBhbnRzLiUyMFdlJTIwY2FsbCUyMHRoaXMlMjBuZXclMjBmcmFtZXdvcmslMjBwbGFubmluZy4lMjBJbiUyMHRoaXMlMjB2aWRlbyUyQyUyMHdlJTIwd2lsbCUyMHRhbGslMjBhYm91dCUyMHRoaXMlMjBuZXclMjB3YXklMjBvZiUyMHBsYW5uaW5nJTJDJTIwd2hhdCUyN3MlMjBjaGFuZ2luZyUyQyUyMHdoYXQlMjBpdCUyMGNvdWxkJTIwbWVhbiUyMGZvciUyMHlvdSUyQyUyMGFuZCUyMGhvdyUyMHlvdXIlMjBmZWVkYmFjayUyMGNhbiUyMGhlbHAlMjBzaGFwZSUyMHdoYXQlMjBoYXBwZW5zJTIwbmV4dC4="></div>
+
+<p>&#160;</p>
+
+<p>Support Needs Assessment - explainer video</p>
+
+<div class="tr-embed" data-embed="JTNDaWZyYW1lJTIwd2lkdGglM0QlMjI1NjAlMjIlMjBoZWlnaHQlM0QlMjIzMTUlMjIlMjBzcmMlM0QlMjJodHRwcyUzQS8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL0pEemVyenVxSXhNJTNGc2klM0Q4VUxEc3hJNnJkUU9ScmNkJTIyJTIwdGl0bGUlM0QlMjJZb3VUdWJlJTIwdmlkZW8lMjBwbGF5ZXIlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBhbGxvdyUzRCUyMmFjY2VsZXJvbWV0ZXIlM0IlMjBhdXRvcGxheSUzQiUyMGNsaXBib2FyZC13cml0ZSUzQiUyMGVuY3J5cHRlZC1tZWRpYSUzQiUyMGd5cm9zY29wZSUzQiUyMHBpY3R1cmUtaW4tcGljdHVyZSUzQiUyMHdlYi1zaGFyZSUyMiUyMHJlZmVycmVycG9saWN5JTNEJTIyc3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQy9pZnJhbWUlM0U=" data-embed-provider="QXVzdHJhbGlhbiUyMERlcHQlMjBvZiUyMEhlYWx0aCUyQyUyMERpc2FiaWxpdHklMjBhbmQlMjBBZ2Vpbmc=" data-embed-useful-url="aHR0cHMlM0EvL3d3dy5oZWFsdGguZ292LmF1Lw==" data-embed-why="VGhpcyUyMHZpZGVvJTIwZXhwbGFpbnMlMjBuZXclMjBmcmFtZXdvcmslMjBwbGFubmluZyUyMGFuZCUyMHRoZSUyMG5ldyUyMGFzc2Vzc21lbnQlMjBwcm9jZXNzLiUyMFRoaXMlMjBwcm9jZXNzJTIwd2lsbCUyMGZvY3VzJTIwb24lMjB5b3UlMkMlMjB5b3VyJTIwbmVlZHMlMjBhbmQlMjB3aGF0JTIwbWF0dGVycyUyMHRvJTIweW91LiUyMFRoZXNlJTIwY2hhbmdlcyUyMHdpbGwlMjBzdGFydCUyMGZyb20lMjBBcHJpbCUyMDIwMjcuJTIwQSUyMHN1cHBvcnQlMjBuZWVkcyUyMGFzc2Vzc21lbnQlMjBoZWxwcyUyMHRoZSUyME5ESUElMjB1bmRlcnN0YW5kJTIwdGhlJTIwZGlzYWJpbGl0eSUyMHN1cHBvcnRzJTIweW91JTIwbmVlZC4="></div>
+
+<p>&#160;</p>
+
+<p>Working out a budget - explainer video</p>
+
+<div class="tr-embed" data-embed="JTNDaWZyYW1lJTIwd2lkdGglM0QlMjI1NjAlMjIlMjBoZWlnaHQlM0QlMjIzMTUlMjIlMjBzcmMlM0QlMjJodHRwcyUzQS8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2pndDh5VEJFMExRJTNGc2klM0RVQVNNSlB3VzBES194V1h5JTIyJTIwdGl0bGUlM0QlMjJZb3VUdWJlJTIwdmlkZW8lMjBwbGF5ZXIlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBhbGxvdyUzRCUyMmFjY2VsZXJvbWV0ZXIlM0IlMjBhdXRvcGxheSUzQiUyMGNsaXBib2FyZC13cml0ZSUzQiUyMGVuY3J5cHRlZC1tZWRpYSUzQiUyMGd5cm9zY29wZSUzQiUyMHBpY3R1cmUtaW4tcGljdHVyZSUzQiUyMHdlYi1zaGFyZSUyMiUyMHJlZmVycmVycG9saWN5JTNEJTIyc3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQy9pZnJhbWUlM0U=" data-embed-provider="QXVzdHJhbGlhbiUyMERlcHQlMjBvZiUyMEhlYWx0aCUyQyUyMERpc2FiaWxpdHklMjBhbmQlMjBBZ2Vpbmc=" data-embed-useful-url="aHR0cHMlM0EvL3d3dy5oZWFsdGguZ292LmF1Lw==" data-embed-why="VGhpcyUyMHZpZGVvJTIwZXhwbGFpbnMlMjBob3clMjBuZXclMjBmcmFtZXdvcmslMjBwbGFubmluZyUyMHdpbGwlMjBoZWxwJTIwdGhlJTIwTkRJQSUyMHdvcmslMjBvdXQlMjB5b3VyJTIwYnVkZ2V0JTIwaW4lMjBhJTIwZmFpcmVyJTJDJTIwY2xlYXJlciUyMGFuZCUyMG1vcmUlMjBjb25zaXN0ZW50JTIwd2F5LiUyMFRoZXNlJTIwY2hhbmdlcyUyMHdpbGwlMjBzdGFydCUyMGZyb20lMjBBcHJpbCUyMDIwMjcuJTIwWW91ciUyMGJ1ZGdldCUyMGlzJTIwdGhlJTIwZnVuZGluZyUyMGF2YWlsYWJsZSUyMHRvJTIwc3BlbmQlMjBvbiUyMHRoZSUyMGRpc2FiaWxpdHklMjBzdXBwb3J0cyUyMHlvdSUyMG5lZWQu"></div>
+
+<h2>Draft NDIA resources</h2>
+
+<p><a href="user_uploads/draft-participant-plan-for-new-framework-planning.pdf">Draft NDIS plan</a><a href="user_uploads/draft-participant-plan-for-new-framework-planning.pdf">&#160;(PDF)</a></p>
+
+<p><a href="user_uploads/draft-participant-plan-for-new-framework-planning.docx">Draft NDIS plan (Word)</a></p>
+
+<p><a href="user_uploads/draft-support-needs-assessment-report-for-new-framework-planning-2.pdf">Draft support needs assessment report (PDF)</a></p>
+
+<p><a href="user_uploads/draft-support-needs-assessment-report-for-new-framework-planning.docx">Draft support needs assessment report (Word)</a></p>
+
+<ul>
+</ul>
+
+        </div>
+    </div>
+</div>
+</div>
+
+<div><div class="cs-factbank ">
+    <h4 class="cs-factbank-header dss-heading-x-small">
+        <a class="collapsed hide-when-no-js" data-bs-toggle="collapse" href="#factbank-dc7de57e0f6e408ba5dbe56c5d5930c4" role="button">
+        <span>Easy read</span>
+        </a>
+        <span class="show-when-no-js"><span>Easy read</span></span>
+    </h4>
+
+    <div class="cs-factbank-content collapse" id="factbank-dc7de57e0f6e408ba5dbe56c5d5930c4" aria-live="polite">
+        <div class="cs-factbank-content-inner">
+            
+<p>Choose an <strong>Easy Read</strong> summary if you want the main points of the consultation paper explained using simple words, short sentences and pictures.</p>
+
+<p><a href="user_uploads/new-framework-planning---summary-paper---easy-read.pdf">Easy read - New framework planning (PDF)</a></p>
+
+<p><a href="user_uploads/new-framework-planning---summary-paper---easy-read---words-only.docx">Easy read - New framework planning (Words only)</a></p>
+
+<p><a href="user_uploads/summary-paper---ndis-supports---easy-read_final.pdf">Easy read - NDIS Supports (PDF)</a></p>
+
+<p><a href="user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx">Easy read - NDIS Supports (Word)</a></p>
+<style type="text/css">a {
+    text-decoration: none;
+    color: #464feb;
+}
+tr th, tr td {
+    border: 1px solid #e6e6e6;
+}
+tr th {
+    background-color: #f5f5f5;
+}
+</style>
+<style type="text/css">a {
+    text-decoration: none;
+    color: #464feb;
+}
+tr th, tr td {
+    border: 1px solid #e6e6e6;
+}
+tr th {
+    background-color: #f5f5f5;
+}
+</style>
+
+        </div>
+    </div>
+</div>
+</div>
+
+<h3>Auslan&#160;</h3>
+
+<p>Choose an <strong>Auslan video</strong> if you prefer to access the summary of the consultation paper in Australian Sign Language (Auslan). A transcript is also available.</p>
+
+<h4>New Framework Planning - Auslan Consultation summary</h4>
+
+<div class="tr-embed" data-embed="JTNDaWZyYW1lJTIwd2lkdGglM0QlMjI1NjAlMjIlMjBoZWlnaHQlM0QlMjIzMTUlMjIlMjBzcmMlM0QlMjJodHRwcyUzQS8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL1ROSFVoUFloZFpNJTNGc2klM0Q2NkVtdVpaLVJuZllqNWU1JTIyJTIwdGl0bGUlM0QlMjJZb3VUdWJlJTIwdmlkZW8lMjBwbGF5ZXIlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBhbGxvdyUzRCUyMmFjY2VsZXJvbWV0ZXIlM0IlMjBhdXRvcGxheSUzQiUyMGNsaXBib2FyZC13cml0ZSUzQiUyMGVuY3J5cHRlZC1tZWRpYSUzQiUyMGd5cm9zY29wZSUzQiUyMHBpY3R1cmUtaW4tcGljdHVyZSUzQiUyMHdlYi1zaGFyZSUyMiUyMHJlZmVycmVycG9saWN5JTNEJTIyc3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQy9pZnJhbWUlM0U=" data-embed-provider="QXVzdHJhbGlhbiUyMERlcHQlMjBvZiUyMEhlYWx0aCUyQyUyMERpc2FiaWxpdHklMjBhbmQlMjBBZ2Vpbmc=" data-embed-useful-url="aHR0cHMlM0EvL3d3dy5oZWFsdGguZ292LmF1Lw==" data-embed-why="QW4lMjBBdXNsYW4lMjB0cmFuc2xhdGlvbiUyMG9mJTIwdGhlJTIwY29uc3VsdGF0aW9uJTIwc3VtbWFyeSUyMHBhcGVyJTIwZm9yJTIwbmV3JTIwZnJhbWV3b3JrJTIwcGxhbm5pbmc="></div>
+
+<p>&#160;</p>
+
+<h4>NDIS supports - Auslan Consultation summary</h4>
+
+<div class="tr-embed" data-embed="JTNDaWZyYW1lJTIwd2lkdGglM0QlMjI1NjAlMjIlMjBoZWlnaHQlM0QlMjIzMTUlMjIlMjBzcmMlM0QlMjJodHRwcyUzQS8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL014aGVfVmJYakRvJTNGc2klM0R5alR2a3E1bTRNSWdwcmdnJTIyJTIwdGl0bGUlM0QlMjJZb3VUdWJlJTIwdmlkZW8lMjBwbGF5ZXIlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBhbGxvdyUzRCUyMmFjY2VsZXJvbWV0ZXIlM0IlMjBhdXRvcGxheSUzQiUyMGNsaXBib2FyZC13cml0ZSUzQiUyMGVuY3J5cHRlZC1tZWRpYSUzQiUyMGd5cm9zY29wZSUzQiUyMHBpY3R1cmUtaW4tcGljdHVyZSUzQiUyMHdlYi1zaGFyZSUyMiUyMHJlZmVycmVycG9saWN5JTNEJTIyc3RyaWN0LW9yaWdpbi13aGVuLWNyb3NzLW9yaWdpbiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQy9pZnJhbWUlM0U=" data-embed-provider="QXVzdHJhbGlhbiUyMERlcHQlMjBvZiUyMEhlYWx0aCUyQyUyMERpc2FiaWxpdHklMjBhbmQlMjBBZ2Vpbmc=" data-embed-useful-url="aHR0cHMlM0EvL3d3dy5oZWFsdGguZ292LmF1Lw==" data-embed-why="QW4lMjBBdXNsYW4lMjB0cmFuc2xhdGlvbiUyMG9mJTIwdGhlJTIwY29uc3VsdGF0aW9uJTIwc3VtbWFyeSUyMHBhcGVyJTIwZm9yJTIwTkRJUyUyMHN1cHBvcnRz"></div>
+
+<h3 paraeid="{aa15c648-40b3-4b24-a3b9-44f3d2a90936}{234}" paraid="1886854350">We want to hear from:</h3>
+
+<ul>
+	<li paraeid="{aa15c648-40b3-4b24-a3b9-44f3d2a90936}{240}" paraid="251309285">people with disability, their families, carers and kin</li>
+	<li paraeid="{aa15c648-40b3-4b24-a3b9-44f3d2a90936}{246}" paraid="1490651865">disability representative organisations and advocates</li>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{1}" paraid="405761216">disability service providers</li>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{7}" paraid="1132791511">health professionals and disability support workers.</li>
+</ul>
+
+<p paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{15}" paraid="1082214277">Your feedback will help us understand your views.</p>
+
+<h3>Next steps&#160;</h3>
+
+<p paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{134}" paraid="709340583">The exposure drafts of&#160;all eight new framework planning rules&#160;will be available for information and further consultation&#160;later&#160;this&#160;year.&#160;Exposure drafts are draft versions of the&#160;new NDIS&#160;rules. They will show the proposed wording before the rules are finalised and&#160;demonstrate&#160;how feedback has informed these rules.&#160;&#160;&#160;</p>
+
+<h3 aria-level="2" paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{196}" paraid="470454519" role="heading">How to participate</h3>
+
+<p paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{202}" paraid="1501259371">You can get involved by reading about the proposed changes and:</p>
+
+<ul>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{208}" paraid="1987834454">uploading a written submission</li>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{208}" paraid="1987834454">answering the consultation questions online</li>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{208}" paraid="1987834454">submitting a video response (including Auslan)</li>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{208}" paraid="1987834454">requesting a phone call with us</li>
+	<li paraeid="{2a5fa7ce-74d8-43e1-bc3e-6cff5201a504}{220}" paraid="2122035993">emailing us directly: <a aria-label="Link NDISConsultations@health.com.au" href="mailto:NDISConsultations@health.com.au" id="menur93" rel="noreferrer noopener" target="_blank" title="mailto:ndisconsultations@health.com.au">NDISConsultations@health</a><a href="mailto:NDISConsultations@health.gov.au">.gov.au</a></li>
+</ul>
+
+</div>
+                            
+                            
+                            
+    <div class="cs-consultation-cta" style="margin-top: 40px">
+        
+            
+            
+    <h2 data-test-hook="cta-heading" class="cs-consultation-cta-heading">
+        Have your say on New Framework Planning and NDIS supports
+    </h2>
+
+<div class="cs-consultation-cta-link-container">
+    <a href="https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consultation/" aria-label="Provide feedback or upload a submission">
+        
+        <span data-test-hook="cta-text" class="cs-consultation-cta-link-text">Provide feedback or upload a <span class="cs-consultation-cta-tail">submission<span class="cs-consultation-cta-link-icon"><span class="fa fa-angle-right"></span></span></span>
+        </span>
+    </a>
+</div>
+        
+    </div>
+
+                            
+                        </div>
+                    </div>
+                    <div class="col-md-4 order-1 order-md-2">
+                        
+    
+        
+        <div class="cs-consultation-sidebar-container"
+     id="consultation_overview_sidebar">
+     <div class="cs-consultation-dates-container">
+        <div class="cs-consultation-primary-dates-container">
+            <div>
+                <p class="cs-consultation-sidebar-primary-date">
+                  <span>Closes</span> 14 Oct 2026
+                </p>
+
+                <p class="cs-consultation-sidebar-secondary-date">
+                    <span>Opened</span> 19 Aug 2026
+                </p>
+            </div>
+            
+            
+        </div>
+        <div class="cs-consultation-sidebar-tertiary-dates-container">
+            
+            
+        </div>
+    </div>
+    <div class="cs-consultation-contact-details dss-force-links-to-wrap"
+    >
+        <h2 class="cs-consultation-contact-details-heading">Contact</h2>
+        
+            <p id="contact_name">NDIS Consultations</p>
+        
+        
+        
+        
+            <p id="contact_phone">1800 020 103</p>
+        
+        
+            <p id="contact_email"><a href="mailto:NDISConsultations@health.gov.au">NDISConsultations@health.gov.au</a></p>
+        
+    </div>
+</div>
+
+    
+
+    
+
+
+<style>
+/* General purpose sidebar section with a border */
+.cs-consultation-sidebar-block {
+    font-size: 14px;
+    border-bottom: solid 1px #ddd;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.cs-consultation-sidebar-block h2 {
+    font-size: 24px;
+}
+
+/* a button that toggles a sidebar section */
+.cs-consultation-sidebar-section-toggle {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+	text-align: left;
+	color: inherit;
+}
+.cs-consultation-sidebar-section-toggle[aria-expanded=true]:after {
+    content: '\f106';
+    font: normal normal normal 30px/1 FontAwesome;
+}
+.cs-consultation-sidebar-section-toggle.collapsed:after {
+    content: '\f107';
+    font: normal normal normal 30px/1 FontAwesome;
+}
+</style>
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    
+        
+    
+
+    
+        
+        <section class="cs-overview-secondary-info-container">
+            <div class="dss-rhino dss-rhino-greige-darker dss-rhino-padding-top-15 dss-rhino-padding-bottom-40">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div>
+                            
+                            
+    <div id="audiences">
+        <h2><small style="font-weight:200; color:black;">Audiences</small></h2>
+        <ul class="list-inline" style="font-weight:200;">
+            
+                <li class="list-inline-item">Anyone from any background</li>
+            
+        </ul>
+    </div>
+
+                            
+    <div id="interests">
+        <h2><small style="font-weight:200; color:black;">Interests</small></h2>
+        <ul class="list-inline" style="font-weight:200;">
+            
+                <li class="list-inline-item"><small>Aboriginal and Torres Strait Islander health</small></li>
+            
+                <li class="list-inline-item"><small>Administration</small></li>
+            
+                <li class="list-inline-item"><small>Aged Care</small></li>
+            
+                <li class="list-inline-item"><small>Alcohol</small></li>
+            
+                <li class="list-inline-item"><small>Cancer</small></li>
+            
+                <li class="list-inline-item"><small>Capability</small></li>
+            
+                <li class="list-inline-item"><small>Children&#39;s health</small></li>
+            
+                <li class="list-inline-item"><small>Chronic disease</small></li>
+            
+                <li class="list-inline-item"><small>Communicable diseases</small></li>
+            
+                <li class="list-inline-item"><small>Dementia</small></li>
+            
+                <li class="list-inline-item"><small>Dental health</small></li>
+            
+                <li class="list-inline-item"><small>Disability community</small></li>
+            
+                <li class="list-inline-item"><small>Disability Workforce Action Plan 2016-18</small></li>
+            
+                <li class="list-inline-item"><small>Drugs and substance abuse</small></li>
+            
+                <li class="list-inline-item"><small>e-Health</small></li>
+            
+                <li class="list-inline-item"><small>Environmental health</small></li>
+            
+                <li class="list-inline-item"><small>Food standards</small></li>
+            
+                <li class="list-inline-item"><small>Grants and procurement</small></li>
+            
+                <li class="list-inline-item"><small>Health and Medical Research</small></li>
+            
+                <li class="list-inline-item"><small>Health insurance</small></li>
+            
+                <li class="list-inline-item"><small>Health technology</small></li>
+            
+                <li class="list-inline-item"><small>Hearing</small></li>
+            
+                <li class="list-inline-item"><small>Home Care</small></li>
+            
+                <li class="list-inline-item"><small>Hospitals</small></li>
+            
+                <li class="list-inline-item"><small>Human health</small></li>
+            
+                <li class="list-inline-item"><small>Immunisation</small></li>
+            
+                <li class="list-inline-item"><small>Information Technology</small></li>
+            
+                <li class="list-inline-item"><small>Learning and development</small></li>
+            
+                <li class="list-inline-item"><small>Legislation</small></li>
+            
+                <li class="list-inline-item"><small>Management review</small></li>
+            
+                <li class="list-inline-item"><small>Medicare</small></li>
+            
+                <li class="list-inline-item"><small>Mental health</small></li>
+            
+                <li class="list-inline-item"><small>Non-prescription medicines</small></li>
+            
+                <li class="list-inline-item"><small>Organ and tissue donation </small></li>
+            
+                <li class="list-inline-item"><small>Pharmaceutical benefits</small></li>
+            
+                <li class="list-inline-item"><small>Policy Development</small></li>
+            
+                <li class="list-inline-item"><small>Prescription drugs</small></li>
+            
+                <li class="list-inline-item"><small>Preventative health</small></li>
+            
+                <li class="list-inline-item"><small>Regulatory policy</small></li>
+            
+                <li class="list-inline-item"><small>Residential Aged Care</small></li>
+            
+                <li class="list-inline-item"><small>Rural health services</small></li>
+            
+                <li class="list-inline-item"><small>Short-Term Restorative Care</small></li>
+            
+                <li class="list-inline-item"><small>Staff audit</small></li>
+            
+                <li class="list-inline-item"><small>Staff election</small></li>
+            
+                <li class="list-inline-item"><small>Strategic Policy</small></li>
+            
+                <li class="list-inline-item"><small>Tobacco</small></li>
+            
+                <li class="list-inline-item"><small>Women&#39;s health</small></li>
+            
+        </ul>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+    
+
+    
+        
+            <div id="social_media_buttons">
+                <div class="dss-rhino dss-rhino-white dss-rhino-padding-top-25 dss-rhino-padding-bottom-25">
+                    <div class="container-fluid">
+                        <div class="d-flex justify-content-end align-items-center">
+                            
+
+    
+    <h2 class="my-0 me-3">Share</h2>
+    
+
+    
+    <a href="http://twitter.com/share?url=https%3A%2F%2Fconsultations.health.gov.au%2Fdisability-and-carers-group%2Fnfp-ndis-supports%2Fconsult_view%2F&text=Have+a+look+at+this+consultation+from+%23citizenspace%3A"
+    class="dss-force-no-underline"
+    title="Share on Twitter"
+    target="_blank">
+        <span class="fa fa-twitter-square me-3" style="font-size: 3em; color: #00aced;"></span>
+        <span class="visually-hidden">Share on Twitter</span>
+    </a>
+
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fconsultations.health.gov.au%2Fdisability-and-carers-group%2Fnfp-ndis-supports%2Fconsult_view%2F"
+    class="dss-force-no-underline"
+    title="Share on Facebook"
+    target="_blank">
+        <span class="fa fa-facebook-square" style="font-size: 3em; color: #3b5998"></span>
+        <span class="visually-hidden">Share on Facebook</span>
+    </a>
+    
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    
+
+
+
+                </div>
+            </main>
+        </div>
+        <footer id="configurable-footer-wrapper">
+            <div class="cs-page-component-group">
+                
+                    <section class="dss-rhino cs-page-component-container dss-rhino-footer" style="">
+    <div class="container-fluid">
+        <div class="cs-page-component cs-page-component-contrast">
+    <div class="row" id="global-footer">
+            <div id="citizen-space-footer-nav" 
+                class="col-12 col-md-8 order-1 order-md-2" 
+                role="navigation"
+                aria-label="miscellaneous">
+                <ul class="list-inline">
+                    
+                        <li id="nav-item-accessibility_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/accessibility_policy/">Accessibility</a></li>
+                    
+                        <li id="nav-item-terms_and_conditions" class="list-inline-item"><a href="https://consultations.health.gov.au/terms_and_conditions/">Terms of Use</a></li>
+                    
+                        <li id="nav-item-cookie_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/cookie_policy/">Cookies</a></li>
+                    
+                        <li id="nav-item-privacy_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/privacy_policy/">Privacy</a></li>
+                    
+                        <li id="nav-item-support" class="list-inline-item"><a href="https://consultations.health.gov.au/support/">Help / feedback</a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 order-2 order-md-1">
+                <span id="citizen-space-footer-logo">
+                <a href="https://www.delib.net/citizen_space">Citizen Space</a>
+                <span>from</span> 
+                <a href="https://www.delib.net">Delib</a>
+                </span>
+            </div>
+    </div>
+
+</div>
+
+        
+    </div>
+</section>
+
+
+                
+                    <section class="dss-rhino cs-page-component-container dss-rhino-footer" style="">
+    <div class="container-fluid">
+        <div class="cs-page-component cs-html-component">
+        <div class="row cs-html-component-one-column">
+            <div>
+                <div class="cs-page-component-contrast ">
+                    
+                    <hr><p>The Department of Health, Disability and Ageing acknowledges the traditional owners of country throughout Australia, and their continuing connection to land, sea and community. We pay our respects to them and their cultures, and to elders both past and present.</p>
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+
+        
+    </div>
+</section>
+
+
+                
+            </div>
+        </footer>
+
+        
+        
+        
+
+        <script type="text/javascript">
+            $(function() {
+                // Skip to content workaround for absolute skip links
+                jQuery('#skip a').bind("click", function(event) {
+                    var target = jQuery(this).attr('href').split('#')[1];
+                    jQuery("#"+target+"").focus();
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+        //<!-- js contains some invalid HTML characters
+            $(function() {
+                // Global search
+                var search_form = $("#cs-global-search");
+                var search_form_input = $("#cs-global-search-input");
+
+                // Scroll to search results on submit of global search form
+                search_form.submit(function() {
+                    if (search_form_input.attr('placeholder') == search_form_input.val()) {
+                        search_form_input.val('');
+                    }
+                    sessionStorage.setItem('saved-scrollTop', '500');
+                });
+
+                // Move the global search form into the appropriate container depending on viewport size
+                function move_global_search_form() {
+                    // if global nav (and global search) are turned off, bail
+                    if(!search_form.length) {
+                        return;
+                    }
+
+                    var md_container = $("#cs-global-search-container-md");
+                    var xs_container = $("#cs-global-search-container-xs");
+
+                    // btw we can't test if xs_container is visible because it's hidden inside the burger menu
+
+                    if (md_container.is(":visible")) {
+                        if(!md_container.find("#cs-global-search").length) {
+                            md_container.append(search_form);
+                        }
+                    }
+                    else {
+                        if(!xs_container.find("#cs-global-search").length) {
+                            xs_container.append(search_form);
+                        }
+                    }
+                }
+                move_global_search_form();
+                $(window).resize(move_global_search_form);
+
+                // Function to update the query string
+                function updateQueryStringParameter(uri, key, value) {
+                    var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                    var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                    if (uri.match(re)) {
+                        return uri.replace(re, '$1' + key + "=" + value + '$2');
+                    } else {
+                        return uri + separator + key + "=" + value;
+                    }
+                }
+
+                // Event listener to detect changes in the large viewport language `select`
+                var languageSelect = document.getElementById('language-picker-select');
+                if (languageSelect) {
+                    languageSelect.addEventListener('change', function() {
+                        var form = document.getElementById('global-language-picker');
+                        form.submit();
+                    });
+                }
+
+            });
+
+            // a11y hax. There are some elements generated by the ol libraries that need some extra attributes for a11y.
+            // Putting them here was preferable to overriding masses of ol code.
+            $(window).on("load", function() {
+              var zoomins = document.getElementsByClassName('ol-zoom-in');
+              for (let i=0; i<zoomins.length; i++) {
+                zoomins[i].setAttribute('aria-label', 'Zoom in');
+              }
+              var zoomouts = document.getElementsByClassName('ol-zoom-out');
+              for (let j=0; j<zoomouts.length; j++) {
+                zoomouts[j].setAttribute('aria-label', 'Zoom out');
+              }
+              var attributions = document.getElementsByClassName('ol-attribution');
+              for (let k=0; k<attributions.length; k++) {
+                attributions[k].getElementsByTagName('button')[0].setAttribute('aria-label', 'Attribution');
+              }
+              var recentre = document.getElementsByClassName('cs-zoom-to-extent');
+              for (let m=0; m<recentre.length; m++) {
+                recentre[m].getElementsByTagName('button')[0].setAttribute('aria-label', 'Recentre map');
+              }
+              var search = document.getElementsByClassName('cs-map-postcode-popup');
+              for (let m=0; m<search.length; m++) {
+                search[m].getElementsByTagName('button')[0].setAttribute('aria-label', 'Go to a postcode');
+              }
+            }
+            );
+        //-->
+        </script>
+
+        
+          
+          <script type="text/javascript">    var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-33186073-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();  </script>
+
+
+          
+        
+    </body>
+</html>
+
+
