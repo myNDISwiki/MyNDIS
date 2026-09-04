@@ -300,3 +300,55 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-04T17:25:34Z — changed
+
+- Previous SHA-256: `aceceb3a0cb586ef5faa21a72eda7bf177ce36785f0b095d9e5344d037cd9293`
+- New SHA-256: `ae69a29c8af01d86d8ce68a9c7f9398182c4445bc0b7cae860eb59d00d5d5373`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -34,13 +34,13 @@
+ local office
+ in person.
+ Leaving the NDIS form
+-Download the leaving the NDIS form
++Download the leaving the NDIS form:
+ Leaving the NDIS
+ (DOCX 73KB)
+ Leaving the NDIS
+-(PDF 534KB).
++(PDF 534KB)
+ You can return the form by:
+-submitting in to our
++submitting it to our
+ service hub
+ mailing it to NDIA, GPO Box 700, Canberra ACT 2601
+ delivering it in person to your
+@@ -52,7 +52,7 @@
+ You have a minimum 90-day cooling off period when you tell us you’re leaving the NDIS. This means we can cancel your request to leave the NDIS if you change your mind within 90 days.
+ You can still use your plan during the cooling off period.
+ You and your nominee, if you have one, will get a letter when your plan stops that confirms you’ve left the NDIS.
+-Tip: If you're receiving aged care supports
++Tip: If you're receiving aged care supports.
+ The cooling off period doesn’t apply if you’re leaving the NDIS because you’re receiving aged care supports for the first time after turning 65.
+ Your eligibility has changed
+ Sometimes a change to your situation can mean you’re no longer
+@@ -125,9 +125,9 @@
+ to become a participant again if your situation changes after you leave.
+ Our Guideline
+ Download the leaving the NDIS guideline:
+-Leaving the NDIS guideline
++Leaving the NDIS
+ (PDF 310KB)
+-Leaving the NDIS guideline
++Leaving the NDIS
+ (DOCX 112KB)
+ Main navigation sidebar
+ For participants
+```

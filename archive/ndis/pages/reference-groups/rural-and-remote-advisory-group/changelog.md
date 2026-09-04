@@ -97,3 +97,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  7 April 2026 meeting summary
  4 February 2026 meeting summary
 ```
+
+## 2026-09-04T17:25:34Z — changed
+
+- Previous SHA-256: `e602990d25576a94592af5138cb891d12c015a8733c0203e6b8dd3a1c1b38a99`
+- New SHA-256: `4fcb2410a253f39fad8d13c828411453da7c5f70ef0a87abba900ff7f9ad5f6d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -331,3 +331,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  (12)
  June 2026
 ```
+
+## 2026-09-04T17:25:34Z — changed
+
+- Previous SHA-256: `4e6edc05a52b7a7477d10b9553fdad653c549f56f449cd3f1e82b6cbfd667856`
+- New SHA-256: `0a72eb5e3d7540fc20d6f4bb5020b560cf9a44e80e45d1d897a728f12f028701`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

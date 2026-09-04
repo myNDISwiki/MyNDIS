@@ -147,3 +147,252 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-04T17:25:34Z — changed
+
+- Previous SHA-256: `c4b1f1396bb72ba2760d64dbfe95e982414d9e46896dd72c751ab28275c2dd5a`
+- New SHA-256: `e2307f2210e7ed484e779dc6facf88d4cd79aa93caf95ddbceb890fc4c3a5c64`
+- Visible text lines added: 58
+- Visible text lines removed: 48
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,7 +12,7 @@
+ Protecting your personal information after a data breach
+ How can I make a complaint about privacy at the NDIA?
+ Privacy Impact Assessment Register
+-Common questions about privacy
++Video
+ On this page:
+ 1 - Privacy explained
+ 2 - NDIA privacy policy
+@@ -20,7 +20,7 @@
+ 4 - Protecting your personal information after a data breach
+ 5 - How can I make a complaint about privacy at the NDIA?
+ 6 - Privacy Impact Assessment Register
+-7 - Common questions about privacy
++7 - Video
+ Privacy explained
+ Privacy means things we know about you and what we do with what we know. There are laws to protect your personal information.
+ Personal information could be about:
+@@ -28,28 +28,30 @@
+ where you live
+ your date of birth
+ your health or disability information.
+-We will keep your information private and will not tell people about it unless we have to.
++We’ll keep your information private and won’t tell people about it unless we have to.
+ What information we keep
+-We keep personal information about different people. For example people who use the NDIS, our staff and disability service providers.
++We keep personal information about different people. For example, people who use the NDIS, our staff and disability service providers.
+ The personal information we keep is your name, your bank account, information about your disability, what supports you get.
+-We will not tell anyone about your personal information.
++We won't tell anyone about your personal information.
+ How we get personal information
+-We get personal information from you or someone who helps you with the NDIS. For example a carer, disability service providers, or other government departments.
++We get personal information from you or someone who helps you with the NDIS. For example, a carer, disability service providers, or other government departments.
+ You can give
+ consent
+ for other people to give us your information. Consent means you say yes.
+-You do not have to give us all your personal information. If you do not consent we might not give you an NDIS plan or supports you need.
++You don't have to give us all your personal information. If you don't consent we might not give you an NDIS plan or supports you need.
+ We might ask you for your information by phone, by email, in person.
+-If you are not sure the person you speak to is from the NDIS you can:
++If you aren't sure the person you speak to is from the NDIS you can:
+ ask them to say your NDIS reference number
+ call the NDIS and ask for the person.
+-If you think you spoke to someone who is not from the NDIS:
+-do not tell them your personal information
++If you think you spoke to someone who isn't from the NDIS:
++don't tell them your personal information
+ email
+ [email protected]
+-call 1800 800 110.
++call
++1800 800 110
++.
+ How we use personal information
+-We use personal information to help us give you services, manage the NDIS, and contact you.
++We use personal information to help us give you services, manage the NDIS and contact you.
+ We might need to tell other people about you because they help with your NDIS plan or give you supports you need.
+ When you get an NDIS plan you consent for us to tell service providers about you.
+ How we keep personal information safe
+@@ -64,30 +66,33 @@
+ what website pages people look at
+ what documents people look at online
+ what people search for online.
+-You can see the personal information we have about you on the myplace or my NDIS portal or app.
++You can see the personal information we have about you on your
++participant portal
++or the my
++NDIS app
++.
+ You can tell us if the personal information we have about you is wrong.
+ We can tell other service providers about changes to your personal information for you.
+ NDIA privacy policy
+-The National Disability Insurance Agency (NDIA) privacy policy sets out in detail how the NDIA handles your personal information, including:
++The NDIA privacy policy sets out in detail how we handle your personal information, including:
+ when we collect information about you
+ how we use your personal information
+ who your personal information may be shared with
+ your choices about the way that we use your information.
+ The NDIA privacy policy is relevant to individuals who interact with, or are considering interacting with, the NDIA or the NDIS.
+-You can download the NDIA privacy policy below:
+-You can read the NDIA Privacy Policy in full below:
+-Privacy Policy (PDF 296KB)
+-Privacy Policy (DOCX 350KB)
+-You can also view it in easy read.
+-Privacy Policy Easy Read (PDF 328KB)
+-Privacy Policy Easy Read (DOCX 207KB)
++Download the NDIA privacy policy :
++Privacy policy (PDF 296KB)
++Privacy policy (DOCX 350KB)
++Download the NDIA privacy policy in easy read:
++Privacy policy (PDF 328KB)
++Privacy policy (DOCX 207KB)
+ Privacy collection notices
+-In addition to the Privacy Policy, a Privacy Collection Notice may be provided by the NDIA that contains important information about a specific collection of personal information, such as when you download the my NDIS app.
+-Our Privacy Collection Notices are available here:
+-participant portals and app
++In addition to the privacy policy, we may provide a Privacy Collection Notice that contains important information about a specific collection of personal information, such as when you download the my NDIS app.
++You can download our privacy collection notices in the participant and
+ provider portals
++and in the my NDIS app.
+ Protecting your personal information after a data breach
+-The NDIA takes the protection of individuals’ data and information security extremely seriously. We have systems and processes in place to protect participants’ and other stakeholders’ information.
++We take the protection of individuals’ data and information security extremely seriously. We have systems and processes in place to protect participants’ and other stakeholders’ information.
+ You can be a target of identity theft and fraud if your personal information is exposed in a data breach.
+ A data breach is when personal information is accessed, disclosed or used without authorisation. Identity theft and fraud can have serious implications. This can include financial loss and emotional harm.
+ Previous large data breaches
+@@ -100,27 +105,28 @@
+ Stay alert to increased
+ scam activity
+ , particularly email and SMS or telephone phishing scams. These scams look like they come from an organisation you know but are fake.
+-Do not click on any suspicious links or provide your passwords or any personal information. Always refuse any unprompted request from an individual to access your computer even if they say they are from a credible organisation.
++Do not click on any suspicious links or provide your passwords or any personal information. Always refuse any unprompted request from an individual to access your computer even if they say they're from a credible organisation.
+ Change your online account passwords. Always use strong passwords. The
+ Australian Cyber Security Centre
+ has guides on good password practices.
+ Enable multi-factor authentication for your accounts where possible. This means using extra checks to prove your identity.
+ Install up-to-date anti-virus software on any devices you use to access your online accounts.
+ Monitor your bank account transactions and check your credit report to see if it has any unauthorised loans or applications.
+-For information on protecting your myGov, Centrelink, Medicare and Child Support accounts, visit the
++Learn more about protecting your myGov, Centrelink, Medicare and Child Support accounts on the
+ Services Australia
+ website.
+ How the NDIA protects your personal information after a data breach
+ When a data breach happens, we take extra steps to protect your personal information and NDIS account.
+ These steps include:
+-We will try to identify if you are affected by the data breach so that we can take appropriate actions.
+-If you are affected, we may contact you with information about protecting yourself and supports available to you.
++We'll try to identify if you're affected by the data breach so that we can take appropriate actions.
++If you're affected, we may contact you with information about protecting yourself and supports available to you.
+ We actively monitor your accounts for irregular activity.
+ If we identify unauthorised activity on your account, we’ll review it and take appropriate actions.
+ We may take extra steps to verify your identity when you contact us. This is to make sure we are speaking with the right person.
+ How can I make a complaint about privacy at the NDIA?
+ To make a complaint, you can get in touch by:
+-calling us on 1800 800 110
++calling us on
++1800 800 110
+ emailing
+ [email protected]
+ submitting your complaint through our
+@@ -129,7 +135,7 @@
+ in person.
+ Privacy Impact Assessment Register
+ The Privacy (Australian Government Agencies – Governance) Australian Privacy Principles Code 2017 (Cth) (the Code) requires the NDIA to conduct a Privacy Impact Assessment (PIA) for all projects that involve personal information.
+-This Register lists PIAs completed since the Code came into effect on 1 July 2018.
++This register lists PIAs completed since the Code came into effect on 1 July 2018.
+ Reference list
+ Reference
+ Date
+@@ -197,18 +203,12 @@
+ 50392
+ August 2024
+ Microsoft Viva Insights Pilot
+-57326
+-August 2024
+-Blended Payments Initiative
+ 48938
+ October 2024
+ CDoF Data Platform
+ 52474
+ October 2024
+ Simply Stakeholders (Darzin Software)
+-52472
+-October 2024
+-Darzin/Simply Stakeholders
+ 53178
+ December 2024
+ Posit Benchwork
+@@ -229,28 +229,22 @@
+ Form.io data form builder
+ 50265
+ June 2025
+-Data sharing arrangement with Department of Home Affairs
++Data Sharing Agreement between the NDIA and the Department of Home Affairs
+ 63510
+ June 2025
+ Log Landing Zone
+-50371
+-June 2025
+-PMA Illegitimacy Assessment Initiative
+-51366
+-July 2025
+-CDofF - CIAM Release 2
+ 53121
+ July 2025
+ Purview eDiscovery
+ 51362
+ August 2025
+ NDIA Application Programming Interface (API) Gateway – Release 1
+-51366
+-August 2025
+-CDoF – CIAM Release 3
+ 57326
+ August 2025
+ Blended Payments Initiative
++51366
++November 2025
++CDoF – CIAM Releases 1-4
+ 62781
+ November 2025
+ CDoF 11 – eInvoice
+@@ -260,16 +254,32 @@
+ 7453
+ December 2025
+ Data Sharing Agreement between Services Australia and the NDIA for identity checking and related purposes
++66739
++December 2025
++Data Sharing Agreement between NDIA and the Australian Skills Quality Authority (ASQA)
+ 70200
+ January 2026
+ Managed File Transfer – Go Anywhere
+ 71401
+ March 2026
+ Talent Database
++70874
++April 2026
++CDoF 10 Measures
++59743
++May 2026
++Data Sharing Agreement between NDIA and Department of Health, Disability and Ageing
++71417
++June 2026
++Geographical Information System
++62251
++June 2026
++Data Sharing Agreement between NDIA and the Australian Financial Crimes Exchange
+ For further information, please email
+ [email protected]
+ .
+-Last updated: April 2026
++Last updated: September 2026
++Video
+ Common questions about privacy
+ Learn about the answers to common questions about our privacy policy in this video.
+ Transcript for '
+```
