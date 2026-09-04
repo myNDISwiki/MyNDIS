@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-09-04T17:51:02Z",
+  "id": "ndia-reviewing-actuary",
+  "sha256": "5f7a7ddc8998e1bdebc01e6e3ea354789e9cbce242705d1faa9632b495daa06c",
+  "snapshot_note": "SHA-256 is calculated before credential redaction.",
+  "snapshot_redactions": [],
+  "title": "National Disability Insurance Scheme Reviewing Actuary",
+  "url": "https://www.ndis.gov.au/about-us/governance/scheme-actuary"
+}

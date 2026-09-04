@@ -3,3 +3,15 @@ timestamp,domain,event,path,sha256_before,sha256_after
 2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/README.md,,afe8d0cb847060445e2518c232256a17208c3781ea413b052b6e0b3220698f0c
 2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/reviewing-actuary/README.md,,7c5d5183497b015ca7d4a1b4061617fb21b2b6cfa079338cab7159fb044c8bf2
 2026-09-04T09:54:31Z,ndia,NEW,archive/gov/ndia/scheme-actuary/README.md,,4efa587e5af15616d830f36b91c1d2027b4e07f2d3353384ab3a383f8aaf692c
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/changelog.md,,5e284a01645d8be71468d3af00423f468a68c0d8c426d0f68712e708637e1051
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/current.html,,186586a8ef9fea028b287263eb0c857706c84573092af0d6f43d5c35efdfda61
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/metadata.json,,6e67fcfe742f445751fd6719ede84cf11590834c7b3de734ab7b9325cd27a86f
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/site/changelog.md,,fc7722963cb20139721bd29f5654c2ba18752ed9d8497be6ddfe19716e9d2aa7
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/site/current.html,,aeacd5dc5825cfa771d78dffc1297672c923b606b5cbad8cc6db6988c3c47b42
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/independent-advisory-council/site/metadata.json,,6a8ede4d24a8638fdb666a40be6790132bf9701a887ff749ce008d6e823523e4
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/reviewing-actuary/changelog.md,,58a3da9bf78390a172151ddb0e69f814cf3f4312035bb284fe60a56a3b2df04d
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/reviewing-actuary/current.html,,5f7a7ddc8998e1bdebc01e6e3ea354789e9cbce242705d1faa9632b495daa06c
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/reviewing-actuary/metadata.json,,b801db556ec2127ece2a4f69806470b4dee4f5411bd8e866df02d0c463c6d6fb
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/scheme-actuary/changelog.md,,fd0a3961d27ead64490b71da737f33569d6d5c5679cacda0b8c9685e011081f9
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/scheme-actuary/current.html,,5f7a7ddc8998e1bdebc01e6e3ea354789e9cbce242705d1faa9632b495daa06c
+2026-09-04T17:53:24Z,ndia,NEW,archive/gov/ndia/scheme-actuary/metadata.json,,425862f224564cc755290458b52bf13b2e500973962a6c848862f79d24b41769

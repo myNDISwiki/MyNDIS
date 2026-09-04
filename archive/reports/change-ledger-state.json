@@ -3,6 +3,30 @@
     "domain": ".gitkeep",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
+  "archive/gov/aph/bills/r7487/changelog.md": {
+    "domain": "aph",
+    "sha256": "8e0f3a128597c62fa588ceec52d71518f01a7b9928a827be5814b9d786aa941b"
+  },
+  "archive/gov/aph/bills/r7487/current.html": {
+    "domain": "aph",
+    "sha256": "f579c484cd613c5ab767588ba241ee2935fcead612340c57d5bfc02c5ca2ba9d"
+  },
+  "archive/gov/aph/bills/r7487/metadata.json": {
+    "domain": "aph",
+    "sha256": "96c8504a2e6a43102c4092833fda8395ce70b168a66fe8a3bdf00a2f6c30851b"
+  },
+  "archive/gov/engage-ndis/reforms-information/changelog.md": {
+    "domain": "engage-ndis",
+    "sha256": "2d204fb1f96366310795c6a5034eab1bff92176b55f4c618cde1ef66b7c2cc91"
+  },
+  "archive/gov/engage-ndis/reforms-information/current.html": {
+    "domain": "engage-ndis",
+    "sha256": "5c937443f84257f122af0d7c9084fee8f07aab58f729cf90834bfab337b5d04a"
+  },
+  "archive/gov/engage-ndis/reforms-information/metadata.json": {
+    "domain": "engage-ndis",
+    "sha256": "f8d9a685d5951934cc2721c17df32dee3f398789778daf0b8845013631856c66"
+  },
   "archive/gov/health/national-autism-strategy-reference-group/README.md": {
     "domain": "health",
     "sha256": "45a647bc6f1a6db50ff3911b18e2f306614b528862d7e320c587e6a1b012bff4"
@@ -331,13 +355,61 @@
     "domain": "ndia",
     "sha256": "afe8d0cb847060445e2518c232256a17208c3781ea413b052b6e0b3220698f0c"
   },
+  "archive/gov/ndia/independent-advisory-council/changelog.md": {
+    "domain": "ndia",
+    "sha256": "5e284a01645d8be71468d3af00423f468a68c0d8c426d0f68712e708637e1051"
+  },
+  "archive/gov/ndia/independent-advisory-council/current.html": {
+    "domain": "ndia",
+    "sha256": "186586a8ef9fea028b287263eb0c857706c84573092af0d6f43d5c35efdfda61"
+  },
+  "archive/gov/ndia/independent-advisory-council/metadata.json": {
+    "domain": "ndia",
+    "sha256": "6e67fcfe742f445751fd6719ede84cf11590834c7b3de734ab7b9325cd27a86f"
+  },
+  "archive/gov/ndia/independent-advisory-council/site/changelog.md": {
+    "domain": "ndia",
+    "sha256": "fc7722963cb20139721bd29f5654c2ba18752ed9d8497be6ddfe19716e9d2aa7"
+  },
+  "archive/gov/ndia/independent-advisory-council/site/current.html": {
+    "domain": "ndia",
+    "sha256": "aeacd5dc5825cfa771d78dffc1297672c923b606b5cbad8cc6db6988c3c47b42"
+  },
+  "archive/gov/ndia/independent-advisory-council/site/metadata.json": {
+    "domain": "ndia",
+    "sha256": "6a8ede4d24a8638fdb666a40be6790132bf9701a887ff749ce008d6e823523e4"
+  },
   "archive/gov/ndia/reviewing-actuary/README.md": {
     "domain": "ndia",
     "sha256": "7c5d5183497b015ca7d4a1b4061617fb21b2b6cfa079338cab7159fb044c8bf2"
   },
+  "archive/gov/ndia/reviewing-actuary/changelog.md": {
+    "domain": "ndia",
+    "sha256": "58a3da9bf78390a172151ddb0e69f814cf3f4312035bb284fe60a56a3b2df04d"
+  },
+  "archive/gov/ndia/reviewing-actuary/current.html": {
+    "domain": "ndia",
+    "sha256": "5f7a7ddc8998e1bdebc01e6e3ea354789e9cbce242705d1faa9632b495daa06c"
+  },
+  "archive/gov/ndia/reviewing-actuary/metadata.json": {
+    "domain": "ndia",
+    "sha256": "b801db556ec2127ece2a4f69806470b4dee4f5411bd8e866df02d0c463c6d6fb"
+  },
   "archive/gov/ndia/scheme-actuary/README.md": {
     "domain": "ndia",
     "sha256": "4efa587e5af15616d830f36b91c1d2027b4e07f2d3353384ab3a383f8aaf692c"
+  },
+  "archive/gov/ndia/scheme-actuary/changelog.md": {
+    "domain": "ndia",
+    "sha256": "fd0a3961d27ead64490b71da737f33569d6d5c5679cacda0b8c9685e011081f9"
+  },
+  "archive/gov/ndia/scheme-actuary/current.html": {
+    "domain": "ndia",
+    "sha256": "5f7a7ddc8998e1bdebc01e6e3ea354789e9cbce242705d1faa9632b495daa06c"
+  },
+  "archive/gov/ndia/scheme-actuary/metadata.json": {
+    "domain": "ndia",
+    "sha256": "425862f224564cc755290458b52bf13b2e500973962a6c848862f79d24b41769"
   },
   "archive/gov/vic-gov/pages/STEM-in-early-childhood/current.html": {
     "domain": "vic-gov",
