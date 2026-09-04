@@ -1,0 +1,11 @@
+{
+  "seed": "https://www.health.gov.au/our-work/ndis-legislation-changes",
+  "checked_at": "2026-09-04T09:32:09Z",
+  "status": "partial",
+  "fetch_failures": [
+    "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403"
+  ],
+  "items": {},
+  "removed_since_previous_run": [],
+  "note": "Canonical sources are health.gov.au. retrieval_method identifies direct vs fallback captures. On partial runs, prior entries are preserved rather than treated as removals."
+}
