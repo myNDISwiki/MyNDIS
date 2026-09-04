@@ -30,6 +30,7 @@ ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
 SEEDS = (
     "https://www.health.gov.au/our-work/ndis-legislation-changes",
     "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/",
+    "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/",
 )
 HOSTS = {"www.health.gov.au", "consultations.health.gov.au"}
 MAX_PAGES = 500

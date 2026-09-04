@@ -2,6 +2,14 @@ name: Archive government webpages
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "project/gov_tracker.py"
+      - "project/gov-sources.json"
+      - "project/change_ledger.py"
+      - "project/build_dashboard.py"
+      - ".github/workflows/archive-gov.yml"
   schedule:
     - cron: "43 3 * * *"
       timezone: "Australia/Melbourne"
