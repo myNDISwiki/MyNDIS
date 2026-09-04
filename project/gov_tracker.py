@@ -57,6 +57,20 @@ def sha256(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def safe_snapshot(data: bytes) -> tuple[bytes, list[str]]:
+    """Remove embedded credentials that GitHub correctly refuses to archive."""
+    text = data.decode("utf-8", errors="replace")
+    redactions: list[str] = []
+    cleaned, count = re.subn(
+        r"\b(?:pk|sk)\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+\b",
+        "[REDACTED-MAPBOX-TOKEN]",
+        text,
+    )
+    if count:
+        redactions.append(f"mapbox_access_token:{count}")
+    return cleaned.encode("utf-8"), redactions
+
+
 def visible_lines(data: bytes) -> list[str]:
     parser = VisibleTextParser()
     parser.feed(data.decode("utf-8", errors="replace"))
@@ -156,6 +170,7 @@ def process_source(source: dict, checked_at: str) -> bool:
     print(f"Fetching {source_id}: {url}")
     data = fetch(url)
     digest = sha256(data)
+    snapshot_data, redactions = safe_snapshot(data)
 
     metadata = load_json(metadata_path, {})
     old_hash = str(metadata.get("sha256", ""))
@@ -174,9 +189,9 @@ def process_source(source: dict, checked_at: str) -> bool:
         old_hash=old_hash,
         new_hash=digest,
         old_data=old_data,
-        new_data=data,
+        new_data=snapshot_data,
     )
-    snapshot_path.write_bytes(data)
+    snapshot_path.write_bytes(snapshot_data)
     write_json(
         metadata_path,
         {
@@ -185,6 +200,8 @@ def process_source(source: dict, checked_at: str) -> bool:
             "url": url,
             "checked_at": checked_at,
             "sha256": digest,
+            "snapshot_redactions": redactions,
+            "snapshot_note": "SHA-256 is calculated before credential redaction.",
         },
     )
     print(f"UPDATED {source_id}")
