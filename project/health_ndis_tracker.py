@@ -6,6 +6,10 @@ Azure runners are currently receiving zero-byte timeouts from Health's edge, so
 when direct retrieval fails it falls back to Jina Reader. Canonical Health.gov.au
 URLs remain the source identifiers. Metadata records which retrieval path was
 used so proxy-derived captures are never mistaken for direct raw HTML.
+
+A failed fetch must never discard successful captures from the same run. If one
+or more URLs fail, their previous manifest entries are preserved and the run is
+recorded as partial rather than exiting before GitHub can commit new material.
 """
 from __future__ import annotations
 
@@ -165,6 +169,10 @@ def main() -> int:
             data, ctype, method = fetch(url)
         except (RuntimeError, OSError) as e:
             failures.append(f"{url}: {e}")
+            # Preserve the last known archive entry for this URL. A transient
+            # network failure is not evidence that the source was removed.
+            if url in old_items:
+                items[url] = old_items[url]
             continue
 
         dest = local_path(url, ctype, method)
@@ -191,23 +199,33 @@ def main() -> int:
             if linked not in seen:
                 queue.append(linked)
 
-    removed = sorted(set(old_items) - set(items))
+    # If any fetch failed, discovery may also have been incomplete. Carry
+    # forward prior entries instead of falsely recording them as removed.
+    if failures:
+        for url, prior in old_items.items():
+            items.setdefault(url, prior)
+
+    removed = [] if failures else sorted(set(old_items) - set(items))
     added = sorted(set(items) - set(old_items))
-    changed = sorted(u for u in items.keys() & old_items.keys() if items[u]["sha256"] != old_items[u].get("sha256"))
+    changed = sorted(u for u in items.keys() & old_items.keys() if items[u].get("sha256") != old_items[u].get("sha256"))
 
     manifest = {
         "seed": SEED,
         "checked_at": checked,
+        "status": "partial" if failures else "complete",
+        "fetch_failures": failures,
         "items": dict(sorted(items.items())),
         "removed_since_previous_run": removed,
-        "note": "Canonical sources are health.gov.au. retrieval_method identifies direct vs fallback captures.",
+        "note": "Canonical sources are health.gov.au. retrieval_method identifies direct vs fallback captures. On partial runs, prior entries are preserved rather than treated as removals.",
     }
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", "utf-8")
 
     log = ARCHIVE / "changelog.md"
-    if added or changed or removed or not log.exists():
+    if added or changed or removed or failures or not log.exists():
         with log.open("a", encoding="utf-8") as f:
             f.write(f"\n## {checked}\n\n")
+            if failures:
+                f.write(f"Status: **partial** — {len(failures)} fetch failure(s). Successful captures from this run were retained.\n\n")
             for label, urls in (("Added", added), ("Changed", changed), ("Removed", removed)):
                 if urls:
                     f.write(f"### {label}\n\n")
@@ -215,13 +233,17 @@ def main() -> int:
                         method = items.get(u, old_items.get(u, {})).get("retrieval_method", "unknown")
                         f.write(f"- {u} — `{method}`\n")
                     f.write("\n")
+            if failures:
+                f.write("### Fetch failures\n\n")
+                for failure in failures:
+                    f.write(f"- {failure}\n")
+                f.write("\n")
 
-    print(f"Health NDIS tracker: {len(items)} archived; {len(added)} added; {len(changed)} changed; {len(removed)} removed")
+    print(f"Health NDIS tracker: {len(items)} retained; {len(added)} added; {len(changed)} changed; {len(removed)} removed; {len(failures)} fetch failures")
     if failures:
-        print("Fetch failures:", file=sys.stderr)
+        print("Fetch failures (run preserved as partial):", file=sys.stderr)
         for x in failures:
             print("- " + x, file=sys.stderr)
-        return 1
     return 0
 
 
