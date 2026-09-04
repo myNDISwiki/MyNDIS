@@ -27,8 +27,11 @@ from urllib.parse import urljoin, urlparse, urldefrag
 
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
-SEED = "https://www.health.gov.au/our-work/ndis-legislation-changes"
-HOST = "www.health.gov.au"
+SEEDS = (
+    "https://www.health.gov.au/our-work/ndis-legislation-changes",
+    "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/",
+)
+HOSTS = {"www.health.gov.au", "consultations.health.gov.au"}
 MAX_PAGES = 500
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -37,7 +40,7 @@ UA = (
 )
 NDIS_RE = re.compile(r"\b(ndis|national disability insurance scheme)\b", re.I)
 MD_LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^)\s]+)\)")
-RAW_URL_RE = re.compile(r"https?://www\.health\.gov\.au/[^\s)>]+")
+RAW_URL_RE = re.compile(r"https?://(?:www|consultations)\.health\.gov\.au/[^\s)>]+")
 
 
 class Links(HTMLParser):
@@ -108,7 +111,7 @@ def clean(url: str) -> str:
 
 def relevant(url: str, text: str = "") -> bool:
     p = urlparse(url)
-    if p.scheme not in {"http", "https"} or p.netloc != HOST:
+    if p.scheme not in {"http", "https"} or p.netloc not in HOSTS:
         return False
     if p.path.startswith("/our-work/ndis-legislation-changes"):
         return True
@@ -118,6 +121,8 @@ def relevant(url: str, text: str = "") -> bool:
 def local_path(url: str, content_type: str, method: str) -> Path:
     p = urlparse(url)
     path = p.path.strip("/") or "index"
+    if p.netloc == "consultations.health.gov.au":
+        path = "consultations/" + path
     suffix = Path(path).suffix.lower()
     if method != "direct":
         return ARCHIVE / path.rstrip("/") / "current.md"
@@ -155,7 +160,7 @@ def main() -> int:
     old = json.loads(manifest_path.read_text("utf-8")) if manifest_path.exists() else {"items": {}}
     old_items = old.get("items", {})
     items: dict[str, dict] = {}
-    queue = deque([SEED])
+    queue = deque(SEEDS)
     seen: set[str] = set()
     failures: list[str] = []
     checked = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -210,7 +215,7 @@ def main() -> int:
     changed = sorted(u for u in items.keys() & old_items.keys() if items[u].get("sha256") != old_items[u].get("sha256"))
 
     manifest = {
-        "seed": SEED,
+        "seeds": list(SEEDS),
         "checked_at": checked,
         "status": "partial" if failures else "complete",
         "fetch_failures": failures,

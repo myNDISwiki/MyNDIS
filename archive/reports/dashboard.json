@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-09-04T10:33:06Z",
+  "domains": [
+    {
+      "id": "ndis",
+      "name": "NDIS website",
+      "status": "active",
+      "last_checked": null,
+      "tracked_pages": 0,
+      "registry": "../ndis/manifest.json",
+      "latest": "../ndis/changes/",
+      "changes": {
+        "NEW": 0,
+        "MODIFIED": 0,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "health",
+      "name": "Health.gov.au NDIS material",
+      "status": "partial",
+      "last_checked": "2026-09-04T09:54:05Z",
+      "tracked_pages": 0,
+      "registry": "../gov/health/ndis/manifest.json",
+      "latest": "health/latest-changes.md",
+      "changes": {
+        "NEW": 3,
+        "MODIFIED": 0,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "vic-gov",
+      "name": "Victorian Government reforms",
+      "status": "not run",
+      "last_checked": null,
+      "tracked_pages": 0,
+      "registry": "vic-gov/page-registry.csv",
+      "latest": "vic-gov/latest-changes.md",
+      "changes": {
+        "NEW": 0,
+        "MODIFIED": 0,
+        "REMOVED": 0
+      }
+    }
+  ]
+}

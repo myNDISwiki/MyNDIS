@@ -1,0 +1,49 @@
+name: Archive Victorian NDIS reform pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "project/vic_gov_tracker.py"
+      - "project/build_dashboard.py"
+      - ".github/workflows/archive-vic-gov.yml"
+  schedule:
+    - cron: "23 */6 * * *"
+      timezone: "Australia/Melbourne"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-vic-gov
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Discover and archive relevant Victorian Government pages
+        run: python project/vic_gov_tracker.py
+      - name: Rebuild tracking dashboard
+        run: python project/build_dashboard.py
+      - name: Commit archive, registry, ledger, statistics and dashboard data
+        shell: bash
+        run: |
+          git add archive/gov/vic-gov archive/reports
+          if git diff --cached --quiet; then
+            echo "No Victorian Government changes detected."
+            exit 0
+          fi
+          git config user.name "MyNDIS Archive Bot"
+          git config user.email "myndiswiki@users.noreply.github.com"
+          git commit -m "Archive Victorian NDIS reform updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase
+          git push

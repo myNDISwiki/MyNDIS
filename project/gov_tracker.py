@@ -210,10 +210,9 @@ def main() -> int:
 
     print(f"Government tracker complete: {changed} source(s) changed")
     if failures:
-        print("Failures:", file=sys.stderr)
+        print("Partial run; successful captures are retained:", file=sys.stderr)
         for failure in failures:
             print(f"- {failure}", file=sys.stderr)
-        return 1
     return 0
 
 

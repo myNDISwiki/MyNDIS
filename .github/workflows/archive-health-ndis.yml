@@ -8,6 +8,7 @@ on:
     paths:
       - "project/health_ndis_tracker.py"
       - "project/change_ledger.py"
+      - "project/build_dashboard.py"
       - ".github/workflows/archive-health-ndis.yml"
   schedule:
     - cron: "17 4 * * *"
@@ -38,6 +39,8 @@ jobs:
         continue-on-error: true
       - name: Build archive change ledgers
         run: python project/change_ledger.py
+      - name: Rebuild tracking dashboard
+        run: python project/build_dashboard.py
       - name: Commit Health NDIS archive changes
         shell: bash
         run: |

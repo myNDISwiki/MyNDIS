@@ -32,10 +32,16 @@ jobs:
       - name: Run government webpage tracker
         run: python project/gov_tracker.py
 
+      - name: Build archive change ledgers
+        run: python project/change_ledger.py
+
+      - name: Rebuild tracking dashboard
+        run: python project/build_dashboard.py
+
       - name: Commit government archive changes
         shell: bash
         run: |
-          git add archive/gov
+          git add archive/gov archive/reports
           if git diff --cached --quiet; then
             echo "No government webpage changes detected."
             exit 0
@@ -44,4 +50,5 @@ jobs:
           git config user.name "MyNDIS Archive Bot"
           git config user.email "myndiswiki@users.noreply.github.com"
           git commit -m "Archive government webpage updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase
           git push
