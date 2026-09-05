@@ -1,10 +1,9 @@
 # Victorian Government latest changes
 
-Checked: 2026-09-05T02:30:39Z
+Checked: 2026-09-05T08:30:23Z
 
 ## MODIFIED
 
-- https://www.vic.gov.au/early-childhood-provisionally-registered-teacher-prt-grants-program
 - https://www.vic.gov.au/early-childhood-update-december-2024/applications-open-building-blocks-capacity-building-grants
 - https://www.vic.gov.au/early-childhood-update-december-2024/applications-open-toy-library-grants-program
 - https://www.vic.gov.au/early-childhood-update-december-2024/check-out-new-pre-prep-calculator
