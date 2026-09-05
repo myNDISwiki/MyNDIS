@@ -8,3 +8,12 @@ Git history preserves each raw HTML snapshot. This file records visible-text cha
 
 - SHA-256: `f579c484cd613c5ab767588ba241ee2935fcead612340c57d5bfc02c5ca2ba9d`
 - Full page saved as `current.html`.
+
+## 2026-09-05T17:49:39Z — changed
+
+- Previous SHA-256: `f579c484cd613c5ab767588ba241ee2935fcead612340c57d5bfc02c5ca2ba9d`
+- New SHA-256: `5a170b708f4296a2493711765594ff51285781189425d80133494f79a8787614`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+Page bytes changed, but no visible-text change was detected.

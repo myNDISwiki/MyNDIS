@@ -1,5 +1,6 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-09-05T14:28:54Z
+## MODIFIED
 
-No page changes detected in this run.
+- `archive/gov/vic-gov/pages/early-childhood-provisionally-registered-teacher-prt-grants-program/current.html`
+

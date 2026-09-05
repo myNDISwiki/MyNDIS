@@ -2,3 +2,6 @@ timestamp,domain,event,path,sha256_before,sha256_after
 2026-09-04T17:53:24Z,aph,NEW,archive/gov/aph/bills/r7487/changelog.md,,8e0f3a128597c62fa588ceec52d71518f01a7b9928a827be5814b9d786aa941b
 2026-09-04T17:53:24Z,aph,NEW,archive/gov/aph/bills/r7487/current.html,,f579c484cd613c5ab767588ba241ee2935fcead612340c57d5bfc02c5ca2ba9d
 2026-09-04T17:53:24Z,aph,NEW,archive/gov/aph/bills/r7487/metadata.json,,96c8504a2e6a43102c4092833fda8395ce70b168a66fe8a3bdf00a2f6c30851b
+2026-09-05T17:51:59Z,aph,MODIFIED,archive/gov/aph/bills/r7487/changelog.md,8e0f3a128597c62fa588ceec52d71518f01a7b9928a827be5814b9d786aa941b,5396cf636f9c69c1d9ae11d73b904a1aa1e8c862b92380faaba4f56b38fc0345
+2026-09-05T17:51:59Z,aph,MODIFIED,archive/gov/aph/bills/r7487/current.html,f579c484cd613c5ab767588ba241ee2935fcead612340c57d5bfc02c5ca2ba9d,5a170b708f4296a2493711765594ff51285781189425d80133494f79a8787614
+2026-09-05T17:51:59Z,aph,MODIFIED,archive/gov/aph/bills/r7487/metadata.json,96c8504a2e6a43102c4092833fda8395ce70b168a66fe8a3bdf00a2f6c30851b,475b7d80556f6ec5d959e1c0246086f6fd15b8b5bb76b82c71398e2ff58af518
