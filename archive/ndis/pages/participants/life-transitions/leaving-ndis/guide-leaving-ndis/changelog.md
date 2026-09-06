@@ -352,3 +352,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Main navigation sidebar
  For participants
 ```
+
+## 2026-09-06T17:25:43Z — changed
+
+- Previous SHA-256: `ae69a29c8af01d86d8ce68a9c7f9398182c4445bc0b7cae860eb59d00d5d5373`
+- New SHA-256: `ed1f86c00e4a6ba45a0921fda2ecbb544f7aaafad88481e584defe7baef6cb43`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
