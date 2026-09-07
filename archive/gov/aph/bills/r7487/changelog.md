@@ -26,3 +26,24 @@ Page bytes changed, but no visible-text change was detected.
 - Visible text lines removed: 0
 
 Page bytes changed, but no visible-text change was detected.
+
+## 2026-09-07T17:51:26Z — changed
+
+- Previous SHA-256: `0b055d02f7d5f2792ea493c6899c2a24651d6f103b189ab81519272648c6e308`
+- New SHA-256: `02a722913b464b3bea707d39206312e6ee6e2611ee7deeef292b3043f84f8419`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+```diff
+--- before
++++ after
+@@ -63,7 +63,7 @@
+ Originating house
+ House of Representatives
+ Status
+-Assent
++Act
+ Parliament no
+ 48
+ Track
+```

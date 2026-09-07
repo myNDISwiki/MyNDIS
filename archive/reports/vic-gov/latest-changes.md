@@ -1,8 +1,3 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-09-07T14:32:51Z
-
-## MODIFIED
-
-- https://www.vic.gov.au/early-childhood-services-review-child-safety-practices
-
+No changes detected in this run.

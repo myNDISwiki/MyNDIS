@@ -50,3 +50,24 @@ Git history preserves each raw HTML snapshot. This file records visible-text cha
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-09-07T17:51:26Z — changed
+
+- Previous SHA-256: `b035ec378b35aaa692a052a5daabde3e003ea3f508309493923f6b1aa6018945`
+- New SHA-256: `48608a386d95b0e22e7b23f307ca0deaeef521be7cd930350abcffba34483167`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Independent Advisory Council
+-05/09/2026, 03:51
++07/09/2026, 05:19
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+```
