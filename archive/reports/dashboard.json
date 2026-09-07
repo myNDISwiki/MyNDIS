@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:49:40Z",
+  "generated_at": "2026-09-07T08:53:35Z",
   "domains": [
     {
       "id": "ndis",
@@ -33,13 +33,13 @@
       "id": "vic-gov",
       "name": "Victorian Government reforms",
       "status": "complete",
-      "last_checked": "2026-09-07T02:31:49Z",
+      "last_checked": "2026-09-07T08:34:56Z",
       "tracked_pages": 250,
       "registry": "vic-gov/page-registry.csv",
       "latest": "vic-gov/latest-changes.md",
       "changes": {
         "NEW": 0,
-        "MODIFIED": 0,
+        "MODIFIED": 1,
         "REMOVED": 0
       }
     }
