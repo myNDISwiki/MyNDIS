@@ -365,3 +365,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `0a37f9df8377c873bbdaa88e0d122fc0683851acf3a8bd4af3deca3a1562fc69`
+- New SHA-256: `916be42c9c2843406bbe2a4c76eb23370a4d5c981e794233e5ca9b74818ca1fb`
+- Visible text lines added: 0
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -84,8 +84,6 @@
+ (DOCX 92KB)
+ Assistance animal assessment template
+ (DOCX 80KB)
+-Dog guide assessment template for a first time handler
+-(PDF  268KB)
+ Dog guide assessment template for a first time handler
+ (DOCX 106KB)
+ Dog guide assessment template for an experienced handler
+```

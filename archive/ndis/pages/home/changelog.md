@@ -198,3 +198,42 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `5f7a7ddc8998e1bdebc01e6e3ea354789e9cbce242705d1faa9632b495daa06c`
+- New SHA-256: `7eede60112d5b9e3cef95d59554d883104ed67f47b0d1d544b542cd9bbdca04d`
+- Visible text lines added: 5
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++Provider news
++NDIS reform: Have your say on NDIS support coordination and connection service
++Date
++7 September 2026
++Category
+ News
+ Corporate Plan 2026–27 now available
+ Date
+@@ -39,12 +44,6 @@
+ Media release
+ News
+ Victorian man arrested following alleged $700K NDIS fraud
+-Date
+-27 August 2026
+-Category
+-Changes to the NDIS
+-News
+-Changes to plan reassessments
+ Date
+ 27 August 2026
+ Read more news
+```

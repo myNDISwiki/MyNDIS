@@ -894,3 +894,56 @@ The page bytes changed, but no visible main-content wording change was detected.
  Learn about the answers to common questions about our privacy policy in this video.
  Transcript for '
 ```
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `d03be4a3d81c4460e304e6efab340dd7dc704c84e1dfd2093f73be793b529c1f`
+- New SHA-256: `ecaf572e83cdab130dfc11dbc6280bd6786aafefe4e21519b366671d87587284`
+- Visible text lines added: 5
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -68,8 +68,8 @@
+ what people search for online.
+ You can see the personal information we have about you on your
+ participant portal
+-or the my
+-NDIS app
++or the
++my NDIS app
+ .
+ You can tell us if the personal information we have about you is wrong.
+ We can tell other service providers about changes to your personal information for you.
+@@ -80,14 +80,14 @@
+ who your personal information may be shared with
+ your choices about the way that we use your information.
+ The NDIA privacy policy is relevant to individuals who interact with, or are considering interacting with, the NDIA or the NDIS.
+-Download the NDIA privacy policy :
++Download the NDIA privacy policy:
+ Privacy policy (PDF 296KB)
+ Privacy policy (DOCX 350KB)
+-Download the NDIA privacy policy in easy read:
++Download the NDIA privacy policy in Easy Read:
+ Privacy policy (PDF 328KB)
+ Privacy policy (DOCX 207KB)
+ Privacy collection notices
+-In addition to the privacy policy, we may provide a Privacy Collection Notice that contains important information about a specific collection of personal information, such as when you download the my NDIS app.
++In addition to the privacy policy, we may provide a privacy collection notice that contains important information about a specific collection of personal information, such as when you download the my NDIS app.
+ You can download our privacy collection notices in the participant and
+ provider portals
+ and in the my NDIS app.
+@@ -269,9 +269,6 @@
+ 59743
+ May 2026
+ Data Sharing Agreement between NDIA and Department of Health, Disability and Ageing
+-71417
+-June 2026
+-Geographical Information System
+ 62251
+ June 2026
+ Data Sharing Agreement between NDIA and the Australian Financial Crimes Exchange
+```

@@ -426,3 +426,59 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `f867a0598a0e69ecb6b41b9a57d2a45166d752b54974015db000350689578f80`
+- New SHA-256: `8ccfaf40386a4e5a23f7be2b71d0a495cdd34c23617a497d3ac5a5018ad6cd60`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++How to report on employment outcomes
++7 September 2026
++Our guidelines
++7 September 2026
++NDIS reform: Have your say on NDIS support coordination and connection service
++7 September 2026
++How to prepare evidence for a participant's assistive technology assessment
++7 September 2026
++Privacy
++7 September 2026
++Local Area Coordinator (LAC) partner, Gympie, 4570
++7 September 2026
++Guide to leaving the NDIS
++4 September 2026
++National Disability Insurance Scheme (NDIS), Colac, 3250
++4 September 2026
++What is impairment information
++4 September 2026
+ Rural and Remote Advisory Group
+ 3 September 2026
+-Rural and Remote Advisory Group meeting summary August 2026
+-3 September 2026
+-Guide to assistive technology
+-3 September 2026
+-What is a remote community connector
+-3 September 2026
+-National Disability Insurance Scheme (NDIS), Broome, 6725
+-3 September 2026
+-National Disability Insurance Scheme (NDIS), Tennant Creek, 0862
+-3 September 2026
+-Booklets and factsheets
+-3 September 2026
+-Our guidelines
+-3 September 2026
+-National Disability Insurance Scheme (NDIS), Kalgoorlie, 6430
+-3 September 2026
+-Planned system updates 3 September 2026
+-2 September 2026
+```

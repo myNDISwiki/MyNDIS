@@ -389,3 +389,56 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `5ecb18efbc5a9afb32ec7867f8a80c57027e8571600e5793ea3b90d70ef1bb18`
+- New SHA-256: `59420c5d43bae7a5b0bed9a14de90c37dd7982b5be541a471cb74c46667801d0`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,7 +14,7 @@
+ Community Engagement
+ (17)
+ Provider Engagement
+-(7)
++(6)
+ No states available
+ Event date
+ November 2026
+@@ -22,15 +22,9 @@
+ October 2026
+ (9)
+ September 2026
+-(14)
++(13)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Working as an NDIS Provider
+-The National Disability Insurance Agency (NDIA) invites all new NDIS providers who have started delivering supports to NDIS participants to attend an information session on Working as a NDIS Provider.
+-Event Date
+-Friday, 4 September 2026
+ Category
+ Provider Engagement
+ Getting Paid as an NDIS Provider
+@@ -61,6 +55,12 @@
+ When NDIA talks about assistive technology, we mean equipment, technology, and devices that help you do things you can’t do because of your disability.
+ Event Date
+ Wednesday, 16 September 2026
++Category
++Provider Engagement
++SDA Enrolments Webinar
++Are you a Specialist Disability Accommodation (SDA) provider looking to improve the way you operate? Join us for a webinar covering the key things you need to know about working as an SDA provider.
++Event Date
++Thursday, 17 September 2026
+ Pagination
+ 1
+ 2
+```

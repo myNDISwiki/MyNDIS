@@ -349,3 +349,79 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `2d3ccf985fcfcb8c6144d8040a597476ca9b6a64a14b706889253915b80f8faa`
+- New SHA-256: `ffbbd6aed2d01ca8727d328d634c128d0119f042728204e6d4e9cff5d42b13a2`
+- Visible text lines added: 10
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -46,7 +46,7 @@
+ Fraud and compliance
+ (29)
+ Provider news
+-(2)
++(3)
+ Media release
+ (57)
+ Media release from the Minister
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(322)
++(321)
+ Notification
+ (41)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(1)
++(2)
+ August 2026
+ (13)
+ July 2026
+@@ -158,7 +158,7 @@
+ June 2023
+ (10)
+ May 2023
+-(13)
++(12)
+ April 2023
+ (13)
+ March 2023
+@@ -358,6 +358,12 @@
+ Search
+ Search
+ Category
++Provider news
++NDIS reform: Have your say on NDIS support coordination and connection service
++This message is shared on behalf of the Department of Health, Disability and Ageing. The Australian Government is making changes to help secure the future of the NDIS.
++Date
++7 September 2026
++Category
+ News
+ Planned system updates 3 September 2026
+ Planned system updates 3 September 2026
+@@ -389,12 +395,6 @@
+ From 24 August, the National Contact Centre will be changing its operating hours.
+ Date
+ 24 August 2026
+-Category
+-Changes to the NDIS
+-New NDIS laws pass
+-New NDIS laws have been passed by Parliament. This means that there are some changes coming to the NDIS to secure it for the long term. Right now, participants can continue using their plans and supports as usual.
+-Date
+-19 August 2026
+ Pagination
+ 1
+ 2
+```

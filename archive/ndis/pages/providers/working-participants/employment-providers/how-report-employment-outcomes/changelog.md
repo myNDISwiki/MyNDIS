@@ -174,3 +174,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-07T17:27:23Z — changed
+
+- Previous SHA-256: `04567437e04dd23c48d5c457fe72f4525ba5d45246386d51bba687d4ce89d33c`
+- New SHA-256: `73165f5eb8d6a3a64de8fad0cb67dc72aeeee69332d7b31b89574f7948e2e2c2`
+- Visible text lines added: 4
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -57,8 +57,10 @@
+ Step 4: Complete the provider reporting tool
+ You need to submit the data using the provider reporting tool. The tool includes instructions for use, a section to record participant data and a section for providers to validate the data is true and correct.
+ You can download the provider reporting tool below. This will be downloaded as an excel spreadsheet.
+-Download the Provider reporting tool and instructions xlsx file
+-- XLSX 310.41KB
++Provider reporting tool and instructions xlsx file
++- (XLSX 311KB)
++Provider instruction to transfer quarterly reporting tool data
++(DOCX 494KB)
+ Information to be included
+ The following information must be included in the reporting tool:
+ participant information
+```
