@@ -1,8 +1,5 @@
 # Victorian Government latest changes
 
-Checked: 2026-09-08T02:32:28Z
+Checked: 2026-09-08T08:34:21Z
 
-## MODIFIED
-
-- https://www.vic.gov.au/early-childhood-educator
-
+No page changes detected in this run.
