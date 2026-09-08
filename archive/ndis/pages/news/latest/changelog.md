@@ -425,3 +425,89 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `ffbbd6aed2d01ca8727d328d634c128d0119f042728204e6d4e9cff5d42b13a2`
+- New SHA-256: `60520a9fa309ec61370a157ed0a6822885b2c05b5708e4d4201992bd24ab2e36`
+- Visible text lines added: 12
+- Visible text lines removed: 11
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,7 +48,7 @@
+ Provider news
+ (3)
+ Media release
+-(57)
++(58)
+ Media release from the Minister
+ (91)
+ News - housing
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(321)
++(322)
+ Notification
+ (41)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(2)
++(3)
+ August 2026
+ (13)
+ July 2026
+@@ -172,7 +172,7 @@
+ November 2022
+ (14)
+ October 2022
+-(14)
++(13)
+ September 2022
+ (7)
+ August 2022
+@@ -216,7 +216,7 @@
+ January 2021
+ (2)
+ December 2020
+-(10)
++(9)
+ November 2020
+ (13)
+ October 2020
+@@ -358,6 +358,13 @@
+ Search
+ Search
+ Category
++Media release
++News
++Final man jailed over NSW fraud syndicate
++A Chester Hill man, 37, was sentenced by the Paramatta District Court yesterday (7 September, 2026) to four years’ imprisonment for his role in a multimillion-dollar fraud against the NDIS and Australian Taxation Office (ATO).
++Date
++8 September 2026
++Category
+ Provider news
+ NDIS reform: Have your say on NDIS support coordination and connection service
+ This message is shared on behalf of the Department of Health, Disability and Ageing. The Australian Government is making changes to help secure the future of the NDIS.
+@@ -389,12 +396,6 @@
+ New NDIS laws are now in effect.
+ Date
+ 27 August 2026
+-Category
+-News
+-New operating hours for the National Contact Centre
+-From 24 August, the National Contact Centre will be changing its operating hours.
+-Date
+-24 August 2026
+ Pagination
+ 1
+ 2
+```

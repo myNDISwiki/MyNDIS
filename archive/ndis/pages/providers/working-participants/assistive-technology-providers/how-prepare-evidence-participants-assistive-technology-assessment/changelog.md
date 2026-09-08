@@ -388,3 +388,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 106KB)
  Dog guide assessment template for an experienced handler
 ```
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `916be42c9c2843406bbe2a4c76eb23370a4d5c981e794233e5ca9b74818ca1fb`
+- New SHA-256: `02d7d052d32fcd224661573231a673364b81dc7b6d157855a938f2acfbc41e34`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

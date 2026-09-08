@@ -947,3 +947,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  June 2026
  Data Sharing Agreement between NDIA and the Australian Financial Crimes Exchange
 ```
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `ecaf572e83cdab130dfc11dbc6280bd6786aafefe4e21519b366671d87587284`
+- New SHA-256: `e6faf418957dfe7ac556c7ff3b3d2f6a45eca0e29196c14a35921f5d3b55444b`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

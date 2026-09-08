@@ -201,3 +201,28 @@ The page bytes changed, but no visible main-content wording change was detected.
  The following information must be included in the reporting tool:
  participant information
 ```
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `73165f5eb8d6a3a64de8fad0cb67dc72aeeee69332d7b31b89574f7948e2e2c2`
+- New SHA-256: `f28d9cd83d7c8b11df09c147695be2fa24134d8b513b150bde1f6efeecbf42ca`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,8 +56,8 @@
+ When the 7th falls on Saturday, Sunday or a public holiday, reports are due the following business day.
+ Step 4: Complete the provider reporting tool
+ You need to submit the data using the provider reporting tool. The tool includes instructions for use, a section to record participant data and a section for providers to validate the data is true and correct.
+-You can download the provider reporting tool below. This will be downloaded as an excel spreadsheet.
+-Provider reporting tool and instructions xlsx file
++Download the provider reporting tool and supporting instructions below:
++Provider reporting tool and instructions released August 2026
+ - (XLSX 311KB)
+ Provider instruction to transfer quarterly reporting tool data
+ (DOCX 494KB)
+```

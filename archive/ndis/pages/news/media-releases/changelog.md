@@ -144,3 +144,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `83fda39286ad37c671566c2f6c5f28159c2fcde9c34fb060e5d986a528c788b2`
+- New SHA-256: `531e1ec8e439499568766d26c8813b6550dd6798663fcde694d872fb78252a14`
+- Visible text lines added: 9
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -19,6 +19,8 @@
+ News
+ Media Release State or Territory
+ NT
++(1)
++September 2026
+ (1)
+ August 2026
+ (2)
+@@ -105,6 +107,13 @@
+ Category
+ Media release
+ News
++Final man jailed over NSW fraud syndicate
++A Chester Hill man, 37, was sentenced by the Paramatta District Court yesterday (7 September, 2026) to four years’ imprisonment for his role in a multimillion-dollar fraud against the NDIS and Australian Taxation Office (ATO).
++Date
++8 September 2026
++Category
++Media release
++News
+ Victorian man arrested following alleged $700K NDIS fraud
+ A Victorian man has been arrested after he allegedly defrauded the NDIS of around $700,000 over a two-year period.
+ Date
+@@ -136,13 +145,6 @@
+ A jail term imposed today sends a clear warning to any person who sets out to defraud the National Disability Insurance Scheme – you will be caught and punished.
+ Date
+ 3 July 2026
+-Category
+-Media release
+-Media release from the Minister
+-Majority of convicted NDIS criminals thrown behind bars
+-The Fraud Fusion Taskforce has sent 17 convicted NDIS criminals to jail for more than 60 years, since its establishment by the Australian Government.
+-Date
+-30 June 2026
+ Pagination
+ 1
+ 2
+```

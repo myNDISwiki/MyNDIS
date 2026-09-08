@@ -120,3 +120,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `b9ec0df9a36475e44fb5474b8f8d3b03902f2ebdeeded0e9232f9dc994c301d4`
+- New SHA-256: `b024b510a245c939250da1502148b32866876a50d7b88e6bdd7502ebe5f2066c`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -28,7 +28,7 @@
+ It helps understand the amount of SDA-eligible participants that have access to funding, and participants who are currently in SDA.
+ The data also breaks down the number of participants who are SDA-eligible, but not using their funding.
+ How specialist disability accommodation (SDA) demand data works
+-The SDA demand date is available at
++The SDA demand data is available at
+ SDA data
+ .
+ The data can be shown by state or territory. It can also be viewed by
+```

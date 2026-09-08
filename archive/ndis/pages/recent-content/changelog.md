@@ -482,3 +482,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 -Planned system updates 3 September 2026
 -2 September 2026
 ```
+
+## 2026-09-08T17:29:06Z — changed
+
+- Previous SHA-256: `8ccfaf40386a4e5a23f7be2b71d0a495cdd34c23617a497d3ac5a5018ad6cd60`
+- New SHA-256: `0121e3bba4ad03d3b5331e7600b272747580ca6d1da80a827a558bc379c71eb0`
+- Visible text lines added: 7
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,8 +5,14 @@
+ Save page as PDF
+ Page title
+ Updated
++Find specialist disability accommodation (SDA)
++8 September 2026
++What is specialist disability accommodation (SDA) demand data
++8 September 2026
+ How to report on employment outcomes
+-7 September 2026
++8 September 2026
++Final man jailed over NSW fraud syndicate
++8 September 2026
+ Our guidelines
+ 7 September 2026
+ NDIS reform: Have your say on NDIS support coordination and connection service
+@@ -19,9 +25,3 @@
+ 7 September 2026
+ Guide to leaving the NDIS
+ 4 September 2026
+-National Disability Insurance Scheme (NDIS), Colac, 3250
+-4 September 2026
+-What is impairment information
+-4 September 2026
+-Rural and Remote Advisory Group
+-3 September 2026
+```
