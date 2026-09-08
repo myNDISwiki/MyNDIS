@@ -526,3 +526,4 @@ timestamp,event,url,sha256_before,sha256_after
 2026-09-07T08:34:56Z,MODIFIED,https://www.vic.gov.au/early-childhood-services-review-child-safety-practices,3e9652629779b14ea2b457dce3c232e0a485572f697af6364ca2a9961e675f5e,9a1cdb8f0ffb09dd81ef9cae86614b2e0300135f8b975e7dddebfa2c08226c1b
 2026-09-07T14:32:51Z,MODIFIED,https://www.vic.gov.au/early-childhood-services-review-child-safety-practices,9a1cdb8f0ffb09dd81ef9cae86614b2e0300135f8b975e7dddebfa2c08226c1b,3e9652629779b14ea2b457dce3c232e0a485572f697af6364ca2a9961e675f5e
 2026-09-08T02:32:28Z,MODIFIED,https://www.vic.gov.au/early-childhood-educator,65b63251a6d1750d0cbe96e8b89fef1a7cd73ca8dd303ab8c297968e86072384,b0ca341c747b102833f8cb7787d0315f91ae937de8c3396f5392cc625f7961bb
+2026-09-08T17:53:19Z,vic-gov,MODIFIED,archive/gov/vic-gov/pages/early-childhood-educator/current.html,65b63251a6d1750d0cbe96e8b89fef1a7cd73ca8dd303ab8c297968e86072384,b0ca341c747b102833f8cb7787d0315f91ae937de8c3396f5392cc625f7961bb

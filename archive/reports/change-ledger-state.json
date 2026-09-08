@@ -5,27 +5,27 @@
   },
   "archive/gov/aph/bills/r7487/changelog.md": {
     "domain": "aph",
-    "sha256": "bd8a220bb283c2913bc245c9a8ea2b777c7e6828b2810ba27bfccb5f31fbadf4"
+    "sha256": "3919240255991a97f0e3bcf6445481989ed13f4595d9ec2a169f13add54aad88"
   },
   "archive/gov/aph/bills/r7487/current.html": {
     "domain": "aph",
-    "sha256": "02a722913b464b3bea707d39206312e6ee6e2611ee7deeef292b3043f84f8419"
+    "sha256": "309f622ce2fa06630f88b2172a343d334b6c45f40c9a2a0d89f1c0122050ecad"
   },
   "archive/gov/aph/bills/r7487/metadata.json": {
     "domain": "aph",
-    "sha256": "bda135b773e2523f359e0cf8a318e6e5922b7ebd737649e778b295c7ec3992b8"
+    "sha256": "3cae8926adb0f6e21c64e2b72c103986c2e51fcbfe237319a2c889beea3ac2f0"
   },
   "archive/gov/engage-ndis/reforms-information/changelog.md": {
     "domain": "engage-ndis",
-    "sha256": "190883dd6860935154d910af9565db1d2d783449db3bbbb3ba51e72dca120587"
+    "sha256": "38d653012989037dc6eedfdb542429317d56af8284bab918839262351aa7a65c"
   },
   "archive/gov/engage-ndis/reforms-information/current.html": {
     "domain": "engage-ndis",
-    "sha256": "84031d1ce1b38b50833b61d6e9a0e64b5f10e3f072ad367972dafd03db7204b7"
+    "sha256": "44d7a18d06b6d907f6db3b9f913465a3f34270ac64df01236be941ea9d8ff0d0"
   },
   "archive/gov/engage-ndis/reforms-information/metadata.json": {
     "domain": "engage-ndis",
-    "sha256": "d8f61b6d9a560057ff7d76100713bbde7baa5c23eb20789df408a015fdb860fe"
+    "sha256": "007bf17e8bb8c72048dbc8c6cfaea6dd2bed7e9694e218cf8e15802a77642cc7"
   },
   "archive/gov/health/national-autism-strategy-reference-group/README.md": {
     "domain": "health",
@@ -357,15 +357,15 @@
   },
   "archive/gov/ndia/independent-advisory-council/changelog.md": {
     "domain": "ndia",
-    "sha256": "2dc28461c2775744e07f9282f82a4a43b8680d0c4074344d42a887aa92ab73a7"
+    "sha256": "0e2fc173bddc2ec5d6b5c94dd3e80ba86b28e7ef62bc0cc4c648c5f894fde72b"
   },
   "archive/gov/ndia/independent-advisory-council/current.html": {
     "domain": "ndia",
-    "sha256": "48608a386d95b0e22e7b23f307ca0deaeef521be7cd930350abcffba34483167"
+    "sha256": "5a7a261b3625c03c52c3e993f74541a24072cf033789a303fb847e088c1081e4"
   },
   "archive/gov/ndia/independent-advisory-council/metadata.json": {
     "domain": "ndia",
-    "sha256": "86bcb4e7ebd04b8ddb0d13912a9d57017f8a60a431b57de7686a515e1d2c5b1f"
+    "sha256": "48b27ba260a6790a395838251a6b2bb3743fa528cf869030cb6c1cc122f9bb85"
   },
   "archive/gov/ndia/independent-advisory-council/site/changelog.md": {
     "domain": "ndia",
@@ -385,15 +385,15 @@
   },
   "archive/gov/ndia/reviewing-actuary/changelog.md": {
     "domain": "ndia",
-    "sha256": "122414adc1a341a7fffb7b4c677d9c8e018f5a504448475108093fe77e7b1b85"
+    "sha256": "adc377f9304b899bf118121427734afa472d1bdbc33cdf181360c961e2662c52"
   },
   "archive/gov/ndia/reviewing-actuary/current.html": {
     "domain": "ndia",
-    "sha256": "7eede60112d5b9e3cef95d59554d883104ed67f47b0d1d544b542cd9bbdca04d"
+    "sha256": "a8567f9c8891cf6d853ce7b52c95b3a19971f2303c8dbf781750055d680daa00"
   },
   "archive/gov/ndia/reviewing-actuary/metadata.json": {
     "domain": "ndia",
-    "sha256": "a601ff85e80ee14149db3225e5a652d1e130e6e9318d5eb1960ea5193cd236de"
+    "sha256": "2123300a5b5a255da948c2a9a56fa5eee31776e43078e1ad44994546fb1f61d6"
   },
   "archive/gov/ndia/scheme-actuary/README.md": {
     "domain": "ndia",
@@ -401,15 +401,15 @@
   },
   "archive/gov/ndia/scheme-actuary/changelog.md": {
     "domain": "ndia",
-    "sha256": "60fd9b2c13bf86d240470480e7595f1993294d2ca1f97e4235c053e551302440"
+    "sha256": "d07ae2a87c8147b89bbfde7949382675c1bd8b0c0cf8a3b616ada1f678aa8629"
   },
   "archive/gov/ndia/scheme-actuary/current.html": {
     "domain": "ndia",
-    "sha256": "7eede60112d5b9e3cef95d59554d883104ed67f47b0d1d544b542cd9bbdca04d"
+    "sha256": "a8567f9c8891cf6d853ce7b52c95b3a19971f2303c8dbf781750055d680daa00"
   },
   "archive/gov/ndia/scheme-actuary/metadata.json": {
     "domain": "ndia",
-    "sha256": "9c8ea87c3fef8a4ee0de187a54b437f0b2ad7e0f9918d08639457571c6deb9fe"
+    "sha256": "efe847a128117ceb055d8bf2d40210b04f5d6c2f13fd943e7867941116212178"
   },
   "archive/gov/vic-gov/pages/STEM-in-early-childhood/current.html": {
     "domain": "vic-gov",
@@ -649,7 +649,7 @@
   },
   "archive/gov/vic-gov/pages/early-childhood-educator/current.html": {
     "domain": "vic-gov",
-    "sha256": "65b63251a6d1750d0cbe96e8b89fef1a7cd73ca8dd303ab8c297968e86072384"
+    "sha256": "b0ca341c747b102833f8cb7787d0315f91ae937de8c3396f5392cc625f7961bb"
   },
   "archive/gov/vic-gov/pages/early-childhood-induction-toolkit/current.html": {
     "domain": "vic-gov",

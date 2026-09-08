@@ -72,3 +72,50 @@ Page bytes changed, but no visible-text change was detected.
  27 August 2026
  Read more news
 ```
+
+## 2026-09-08T17:50:57Z — changed
+
+- Previous SHA-256: `7eede60112d5b9e3cef95d59554d883104ed67f47b0d1d544b542cd9bbdca04d`
+- New SHA-256: `a8567f9c8891cf6d853ce7b52c95b3a19971f2303c8dbf781750055d680daa00`
+- Visible text lines added: 7
+- Visible text lines removed: 7
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-07/09/2026, 05:16
++08/09/2026, 04:13
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -123,6 +123,12 @@
+ Learn more
+ Latest news
+ Category
++Media release
++News
++Final man jailed over NSW fraud syndicate
++Date
++8 September 2026
++Category
+ Provider news
+ NDIS reform: Have your say on NDIS support coordination and connection service
+ Date
+@@ -132,12 +138,6 @@
+ Corporate Plan 2026–27 now available
+ Date
+ 31 August 2026
+-Category
+-Media release
+-News
+-Victorian man arrested following alleged $700K NDIS fraud
+-Date
+-27 August 2026
+ Read more news
+ Participant experiences
+ With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
+```
