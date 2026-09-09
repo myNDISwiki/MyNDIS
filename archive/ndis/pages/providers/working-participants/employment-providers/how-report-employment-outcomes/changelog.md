@@ -226,3 +226,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Provider instruction to transfer quarterly reporting tool data
  (DOCX 494KB)
 ```
+
+## 2026-09-09T17:27:44Z — changed
+
+- Previous SHA-256: `f28d9cd83d7c8b11df09c147695be2fa24134d8b513b150bde1f6efeecbf42ca`
+- New SHA-256: `b1f0072d550c22183209a84dbbc9ac4f887d63e66bd63a6e3b59fae5202b3ca6`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

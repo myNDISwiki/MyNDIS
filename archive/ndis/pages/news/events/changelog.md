@@ -451,3 +451,56 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-09T17:27:44Z — changed
+
+- Previous SHA-256: `426a82df6290cdb45b6c105d48a48bb2823505c1473bcc0e1e9307d94e0f448e`
+- New SHA-256: `aa493eda04c5cf0118f32c450511e7c413315b3fbf6a1a65967e9d520e71d5a0`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,23 +14,17 @@
+ Community Engagement
+ (17)
+ Provider Engagement
+-(6)
++(4)
+ No states available
+ Event date
+ November 2026
+ (1)
+ October 2026
+-(9)
++(7)
+ September 2026
+ (13)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Getting Paid as an NDIS Provider
+-The National Disability Insurance Agency (NDIA) invites providers to an information session about the NDIA claims and payment processes.
+-Event Date
+-Tuesday, 8 September 2026
+ Category
+ Community Engagement
+ Understanding the NDIS webinar: Supporting an NDIS Participant to make decisions
+@@ -61,6 +55,12 @@
+ Are you a Specialist Disability Accommodation (SDA) provider looking to improve the way you operate? Join us for a webinar covering the key things you need to know about working as an SDA provider.
+ Event Date
+ Thursday, 17 September 2026
++Category
++Provider Engagement
++Working as an NDIS Provider
++The National Disability Insurance Agency (NDIA) invites all new NDIS providers who have started delivering supports to NDIS participants to attend an information session on Working as a NDIS Provider.
++Event Date
++Friday, 18 September 2026
+ Pagination
+ 1
+ 2
+```

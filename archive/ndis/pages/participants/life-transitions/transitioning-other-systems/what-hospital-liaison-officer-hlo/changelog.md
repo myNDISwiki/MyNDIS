@@ -124,3 +124,38 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-09T17:27:44Z — changed
+
+- Previous SHA-256: `acd1a3113009f9b1166e28fff9a4a358973ff22b2440e774a1e32302b860cd20`
+- New SHA-256: `599b7e90ead477b64834ec914179fba585ea555499ba6a2cc59559d408a7117a`
+- Visible text lines added: 5
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -19,15 +19,16 @@
+ What a hospital liaison officer (HLO) is for
+ They can help you when you’re in hospital
+ Our HLOs can work with you and your health team during your hospital stay if you’re a participant or if you might be eligible for the NDIS.
+-A HLO can work with you if
+-changes are need to your plan
+-because of your hospital stay. They can also help you apply for
++A HLO can work with your hospital staff to gather evidence if
++changes are needed to your plan
++because of your hospital stay. They can also help the hospital to apply for
+ home and living supports
+ or
+ home modifications
+ if needed before you go home.
+ They can help you when you leave hospital
+-HLOs work with hospital staff to help you and to understand what support you may need when you leave hospital.
++HLOs work with hospital staff to help you and to understand what new or different NDIS supports you may need when you leave hospital.
++HLOs are a part of a wider specialist team who work together with the hospital staff so you can leave hospital as soon as you are medically ready.
+ They also make sure:
+ we get the right information to plan for when you leave hospital
+ communication between us and the hospital is as fast as possible.
+```
