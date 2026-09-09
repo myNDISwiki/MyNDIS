@@ -5,7 +5,7 @@
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/",
     "https://www.health.gov.au/resources/publications/thriving-kids-advisory-group-final-report"
   ],
-  "checked_at": "2026-09-09T18:28:23Z",
+  "checked_at": "2026-09-09T21:36:46Z",
   "status": "partial",
   "fetch_failures": [
     "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403\ncurl: (22) The requested URL returned error: 403",
@@ -148,7 +148,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports": {
-      "sha256": "6fcac1c075d9104973fa966307c7c073f8dceb8bef87e3ceb726e31aa5c4c7ce",
+      "sha256": "390546ce6aa22db365f38dc63443722e673574554e94dc90363efda8ea32c5c0",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports",
@@ -156,7 +156,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view": {
-      "sha256": "4bd1b8596acf6150acb23f4f412f392330e6b0e257459ff9516666f253f470d2",
+      "sha256": "e05630509ea511798ba5bb55a26e441dd857c5f33576b6041c0d4d7b11fa1cac",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view",
@@ -428,7 +428,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation": {
-      "sha256": "52bc917ef2a17d1279d96db9482fd76b36819e2d9a72084a5a8272549c3e3ddf",
+      "sha256": "d59629d863343d2003905bde9cd2a8d3b2dc4f91091a5643799e838d37d56a35",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation",
@@ -436,7 +436,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view": {
-      "sha256": "af1fd13556dae6389fcbc11ef9b81099d26f442e3132ce37665f0de2ae5554a8",
+      "sha256": "e7ed9976c791831b954a2586f984d642505907fb0a99614ee09d30575f1ebbed",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view",
