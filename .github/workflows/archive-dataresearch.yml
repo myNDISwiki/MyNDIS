@@ -1,0 +1,52 @@
+name: Archive NDIS data and research
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scraper/dataresearch.py'
+      - '.github/workflows/archive-dataresearch.yml'
+  schedule:
+    - cron: '11 5 * * *'
+      timezone: 'Australia/Melbourne'
+permissions:
+  contents: write
+concurrency:
+  group: archive-writers
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Sync with current main
+        run: git pull --ff-only origin main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Capture public pages and files
+        id: capture
+        continue-on-error: true
+        run: python scraper/dataresearch.py
+      - name: Rebuild tracking dashboard
+        if: always()
+        run: python project/build_dashboard.py
+      - name: Preserve captures and run reports
+        if: always()
+        run: |
+          git add archive/dataresearch archive/reports
+          if ! git diff --cached --quiet; then
+            git config user.name 'MyNDIS Archive Bot'
+            git config user.email 'myndiswiki@users.noreply.github.com'
+            git commit -m "Archive NDIS data and research $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git pull --rebase origin main
+            git push
+          fi
+      - name: Report incomplete capture
+        if: always() && steps.capture.outcome != 'success'
+        run: |
+          echo '::error::Capture was incomplete. Successful downloads and the gap report were retained; inspect archive/dataresearch/latest-run.json.'
+          exit 1
