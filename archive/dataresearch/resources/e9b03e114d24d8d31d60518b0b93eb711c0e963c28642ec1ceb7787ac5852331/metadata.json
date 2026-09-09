@@ -1,0 +1,22 @@
+{
+  "bytes": 39085,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/e9b03e114d24d8d31d60518b0b93eb711c0e963c28642ec1ceb7787ac5852331",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3736/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"TS - Community participation as your life changes.docx\"",
+    "ETag": "\"1691362981:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 23:03:00 GMT"
+  },
+  "sha256": "d5276cac8939c0a5bb06403ed3f30ab9b50bbc9724e2ef41d515ea437f45eb43",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3736/download"
+}

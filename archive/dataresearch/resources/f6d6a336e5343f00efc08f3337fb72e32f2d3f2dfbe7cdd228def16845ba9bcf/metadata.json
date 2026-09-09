@@ -1,0 +1,22 @@
+{
+  "bytes": 1132123,
+  "content_type": "application/pdf",
+  "directory": "resources/f6d6a336e5343f00efc08f3337fb72e32f2d3f2dfbe7cdd228def16845ba9bcf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2793/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Neurodegenerative Participants Deep Dive PDF.pdf\"",
+    "ETag": "\"1635836136:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:35 GMT"
+  },
+  "sha256": "60e2cb1d4aadd72d2a34730d1bcf86261e445c954cbabb7d3cfb95305bdc2ce5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2793/download?attachment="
+}

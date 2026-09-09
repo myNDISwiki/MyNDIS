@@ -1,0 +1,22 @@
+{
+  "bytes": 254555,
+  "content_type": "application/pdf",
+  "directory": "resources/c53ff954c51ce8c2763c82cf625ce4b367bd581caef40244bb399a85d837ed37",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2894/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Socio-economic report PDF.pdf\"",
+    "ETag": "\"1635836146:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:45 GMT"
+  },
+  "sha256": "a96acd037b974a2423c8bdad3f55107124c40af2c0f693667cee1ae670aff785",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2894/download?attachment="
+}

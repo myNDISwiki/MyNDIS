@@ -1,0 +1,22 @@
+{
+  "bytes": 922719,
+  "content_type": "application/pdf",
+  "directory": "resources/54d3e663db9f97677502a59e6cd929fcd4505b403294d5dd7541cfb3d8c79d7d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1766/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_The NDIS Market Detailed Dashboard_TAS North_0.pdf\"",
+    "ETag": "\"1635836086:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:45 GMT"
+  },
+  "sha256": "fbe68cc7e3a1101c326792a503bd12b1a35b4189d38118da3ccebbc3599ed0f4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1766/download?attachment="
+}

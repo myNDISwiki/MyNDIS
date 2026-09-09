@@ -1,0 +1,22 @@
+{
+  "bytes": 87434,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9330c44ab315e63e7107691fb0626e8c02546f33ba178706ab2e44fa529b05cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4336/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SIL participants data rules.docx\"",
+    "ETag": "\"1786683961:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 05:06:00 GMT"
+  },
+  "sha256": "33c48db40b331366a7c732addf1188b44aa79aecdb557562d5a3004a65f848e7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4336/download?attachment="
+}

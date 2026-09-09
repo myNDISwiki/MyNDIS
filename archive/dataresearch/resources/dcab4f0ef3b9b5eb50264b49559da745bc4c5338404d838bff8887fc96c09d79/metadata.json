@@ -1,0 +1,22 @@
+{
+  "bytes": 3164816,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/dcab4f0ef3b9b5eb50264b49559da745bc4c5338404d838bff8887fc96c09d79",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4030/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement F New South Wales 2023-24 Q4.xlsx\"",
+    "ETag": "\"1723600814:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 14 Aug 2024 02:00:13 GMT"
+  },
+  "sha256": "14e7fe1aad7b35681de4c6508e96ed55649bd5c01cc103406a90eddb25f9b397",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4030/download?attachment="
+}

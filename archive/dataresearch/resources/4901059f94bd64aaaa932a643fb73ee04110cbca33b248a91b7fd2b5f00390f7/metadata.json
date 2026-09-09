@@ -1,0 +1,22 @@
+{
+  "bytes": 389881,
+  "content_type": "application/pdf",
+  "directory": "resources/4901059f94bd64aaaa932a643fb73ee04110cbca33b248a91b7fd2b5f00390f7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3139/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Loddon.pdf\"",
+    "ETag": "\"1637283881:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:04:40 GMT"
+  },
+  "sha256": "a480bd0afdb3acd5f0f03cacdbf5dcbc5b989ecd7f0d1adaa16431915772ad35",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3139/download?attachment="
+}

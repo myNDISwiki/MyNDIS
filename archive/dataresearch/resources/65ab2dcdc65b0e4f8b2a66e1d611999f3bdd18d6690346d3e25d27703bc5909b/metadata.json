@@ -1,0 +1,22 @@
+{
+  "bytes": 2396404,
+  "content_type": "application/pdf",
+  "directory": "resources/65ab2dcdc65b0e4f8b2a66e1d611999f3bdd18d6690346d3e25d27703bc5909b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3827/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Psychosocial dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602563:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:42:42 GMT"
+  },
+  "sha256": "5d94b58890132e5a3d993192268b945aa682127e4193e6f2db96c3237b71faaf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3827/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27946,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/7fd2e0f36d69102b06187560c42b80bb844893884d40892fe2ac869f8b75b81e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3085/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Caboolture Strathpine_data.xlsx\"",
+    "ETag": "\"1637200935:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:02:14 GMT"
+  },
+  "sha256": "3e4ffbcb71f7375246fad45bf15ffb8b3d6c7afb9ef83999160db69e2e488cc1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3085/download?attachment="
+}

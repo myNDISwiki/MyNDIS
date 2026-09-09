@@ -1,0 +1,22 @@
+{
+  "bytes": 6369797,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b9eca81682743b47ffe3e5d9c6838ff44a66c566d486c77fc158c4a2b2161e2d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3515/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard QLD by LGA .xlsx\"",
+    "ETag": "\"1669852029:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 30 Nov 2022 23:47:08 GMT"
+  },
+  "sha256": "f644bcb0af30ef805f05fd72ed730c099834dfbc045646f9a21158276aec78fb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3515/download?attachment="
+}

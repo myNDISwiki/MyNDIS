@@ -1,0 +1,22 @@
+{
+  "bytes": 407027,
+  "content_type": "application/pdf",
+  "directory": "resources/dfcfea1c7da2d1aca2311dd98010868ae75d9100526c1455917507a776d73350",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3016/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Central Coast.pdf\"",
+    "ETag": "\"1637191688:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:28:07 GMT"
+  },
+  "sha256": "2d17730a638c1b3964efe5a18ea16c2a2d1719b2d4591670bc872834380314c3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3016/download?attachment="
+}

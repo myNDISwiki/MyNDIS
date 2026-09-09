@@ -1,0 +1,22 @@
+{
+  "bytes": 1238186,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5f5fcc6f04cd424950507b1a0ac5a0b0a13ea68d0aac5ccdfc5fc15495aa2c3e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3517/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIA Outcomes Dashboard QLD by service district.xlsx\"",
+    "ETag": "\"1669852302:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 30 Nov 2022 23:51:41 GMT"
+  },
+  "sha256": "894fccbd1916f6a403f65e78321cab3e870da7815f6384d44518d561aa621663",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3517/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 165682,
+  "content_type": "application/pdf",
+  "directory": "resources/7bc80436cd440fa41ce42fbaaab6795d7a3cf39f1a19d01571f402a06765156b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4215/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics January 2025_0.pdf\"",
+    "ETag": "\"1739505179:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Feb 2025 03:52:58 GMT"
+  },
+  "sha256": "b7fc93b78e48ec4a1287eebdfdf7f38f20af2c79e23c60f1db9789984579814c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4215/download?attachment="
+}

@@ -1,0 +1,21 @@
+{
+  "bytes": 1203,
+  "content_type": "image/svg+xml",
+  "directory": "resources/41eddd53d3607f19ea1ea25ff9e6ecdcb2c7a0b6719c361349bda2606db292a3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-participant-data.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-4b3\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:44 GMT"
+  },
+  "sha256": "7c917e10e4b8232622a6868814dea0325545432415ddb2ddc54ade5da24108b6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-participant-data.svg"
+}

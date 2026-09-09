@@ -1,0 +1,22 @@
+{
+  "bytes": 75137,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/ad5d5f7cab35e1d4c8dfd5c2ba026afaececea5111a945e7f3378453576d41d5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4235/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participants by CED data.csv\"",
+    "ETag": "\"1786683377:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:56:16 GMT"
+  },
+  "sha256": "0d49c8ef99217e1e8ebc8dcaf2520bee4423a4b86a5126050012bef2f6c9075c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4235/download?attachment="
+}

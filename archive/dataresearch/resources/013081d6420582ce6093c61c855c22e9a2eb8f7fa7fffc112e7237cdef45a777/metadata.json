@@ -1,0 +1,22 @@
+{
+  "bytes": 61164,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/013081d6420582ce6093c61c855c22e9a2eb8f7fa7fffc112e7237cdef45a777",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3544/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"1. Disability Dashboard Transcript For Autism.docx\"",
+    "ETag": "\"1671582968:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 00:36:07 GMT"
+  },
+  "sha256": "e52219b12dfd01fd9e537fb16a4289c9e1f193a93b7b17bae9a0bd78085a5872",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3544/download?attachment="
+}

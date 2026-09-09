@@ -1,0 +1,22 @@
+{
+  "bytes": 628066,
+  "content_type": "application/pdf",
+  "directory": "resources/6724bf3325d782493978ad84cfa18ca3abfb8cb0e42bd0be3261e291c1977afb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2526/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2020 baseline Ch 3 PDF.pdf\"",
+    "ETag": "\"1635836131:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:30 GMT"
+  },
+  "sha256": "c5120cad23e5af27b1f67719f48762f99e059e8eb6fe11b688082a4c1fb95ab0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2526/download?attachment="
+}

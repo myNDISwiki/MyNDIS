@@ -1,0 +1,22 @@
+{
+  "bytes": 128302,
+  "content_type": "application/pdf",
+  "directory": "resources/308e11423f72da0b1d84eed9f6e9185bb0679b4195d259fc4a257ed51581028c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4535/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Plain Language Summary Examining the links between disability support risk and release from custody Summary .pdf\"",
+    "ETag": "\"1779417488:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 22 May 2026 02:38:07 GMT"
+  },
+  "sha256": "c622c2a30ed1a3262affb28399f54fc1b7428ff2d4ff4fdda1548181880d03cf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4535/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 12131,
+  "content_type": "application/pdf",
+  "directory": "resources/1fe33ec1e70ccf30fed79b1e879aca97b29d5e434b805e59382a79e93d77387e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3967",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Participant Outcomes 30 June 2019.pdf\""
+  },
+  "sha256": "1e845328f0e559555ecf3a76b573905e766f578be786ebd73cb96f1e6cb9acba",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3967"
+}

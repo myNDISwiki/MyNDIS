@@ -1,0 +1,22 @@
+{
+  "bytes": 27942,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ebe01d3b46b5dd6c88589a932b12c68079c13887a9a82b9ea813117d69024a09",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3056/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Darwin Urban_data.xlsx\"",
+    "ETag": "\"1637198559:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:22:38 GMT"
+  },
+  "sha256": "cb7278723a3b79ccde3e297d0a1a7456997af044b8e0e979f07a0ed00b88f924",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3056/download?attachment="
+}

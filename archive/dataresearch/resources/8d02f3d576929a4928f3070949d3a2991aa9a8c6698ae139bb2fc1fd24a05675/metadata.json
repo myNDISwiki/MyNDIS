@@ -1,0 +1,22 @@
+{
+  "bytes": 334034,
+  "content_type": "application/pdf",
+  "directory": "resources/8d02f3d576929a4928f3070949d3a2991aa9a8c6698ae139bb2fc1fd24a05675",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3169/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Goldfields-Esperance.pdf\"",
+    "ETag": "\"1637286097:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:41:36 GMT"
+  },
+  "sha256": "af2b80b33ff26f6504ab548cb57deea6ac4bf8a2489c0f10ff7ee78098aed8e5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3169/download?attachment="
+}

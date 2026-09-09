@@ -1,0 +1,22 @@
+{
+  "bytes": 935320,
+  "content_type": "application/pdf",
+  "directory": "resources/f4a721162722de32ed9bd558cf595ce1cdf92ab6d0a9b695d980c5a5c4cab910",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2695/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_TAS South West.pdf\"",
+    "ETag": "\"1635836127:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:26 GMT"
+  },
+  "sha256": "2471c3bcb1240176f1ada430afbbf76b630d941d11565be16ccdf967bf3a86c2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2695/download?attachment="
+}

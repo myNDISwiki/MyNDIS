@@ -1,0 +1,22 @@
+{
+  "bytes": 153798,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/bfe024ca278a507570afe5daed6ae8e5b0f2e4e69b0c82e64e22f7c0369242a3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2579/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Nepean Blue Mountains_data.xlsx\"",
+    "ETag": "\"1635836135:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:34 GMT"
+  },
+  "sha256": "8cf8a4f086a2bbca48d16178af5894da7386cb6687dee8ddb88484662070ecfb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2579/download?attachment="
+}

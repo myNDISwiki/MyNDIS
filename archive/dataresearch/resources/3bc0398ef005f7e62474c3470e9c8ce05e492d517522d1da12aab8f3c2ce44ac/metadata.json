@@ -1,0 +1,22 @@
+{
+  "bytes": 83310,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/3bc0398ef005f7e62474c3470e9c8ce05e492d517522d1da12aab8f3c2ce44ac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1956/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB SD to LGA mapping data rules DOCX.docx\"",
+    "ETag": "\"1635836097:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:56 GMT"
+  },
+  "sha256": "2323e7378527bafa9f46a458289f15fc22de451bd4b6a134e9a4af67625c4a3a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1956/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 38456,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/36c83458fcafe6f7a0dc678e7d98a58070aae4cf4823644aaf03d944ba09af74",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3991/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement Q Utilisation 2023-24 Q3.xlsx\"",
+    "ETag": "\"1715565947:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 13 May 2024 02:05:46 GMT"
+  },
+  "sha256": "785c8bf2c002cabd1b5e5abe11219acb23ede00ce53e559a1ddad4af9483bbbf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3991/download?attachment="
+}

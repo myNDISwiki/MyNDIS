@@ -1,0 +1,22 @@
+{
+  "bytes": 78091,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/aae353b8005f4e019b6e66370d5d9703fa26e10300d9ada74d0aa447cfd2ee2d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3201/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Families Carers Outcomes Summary transcript DOCX.docx\"",
+    "ETag": "\"1638420306:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 02 Dec 2021 04:45:05 GMT"
+  },
+  "sha256": "e15b8ea9b08a232c1695c463d57d885133cf794aced3c49b9e7e152af4409713",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3201/download?attachment="
+}

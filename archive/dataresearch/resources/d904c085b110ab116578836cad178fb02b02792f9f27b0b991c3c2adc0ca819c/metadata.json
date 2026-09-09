@@ -1,0 +1,22 @@
+{
+  "bytes": 89039,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d904c085b110ab116578836cad178fb02b02792f9f27b0b991c3c2adc0ca819c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4375/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Global developmental delay data to 30 June 2025.xlsx\"",
+    "ETag": "\"1755831720:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 22 Aug 2025 03:01:59 GMT"
+  },
+  "sha256": "9681075633c511f9709384eeec17f45f2f0c86bceab0e1cf20676edde75c2e16",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4375/download?attachment="
+}

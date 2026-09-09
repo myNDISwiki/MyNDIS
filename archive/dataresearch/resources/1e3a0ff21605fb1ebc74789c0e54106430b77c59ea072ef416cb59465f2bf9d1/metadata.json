@@ -1,0 +1,22 @@
+{
+  "bytes": 365979,
+  "content_type": "application/pdf",
+  "directory": "resources/1e3a0ff21605fb1ebc74789c0e54106430b77c59ea072ef416cb59465f2bf9d1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3071/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Maryborough.pdf\"",
+    "ETag": "\"1637200728:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:58:47 GMT"
+  },
+  "sha256": "0117278ce604928af9d6cbbc5d46cfa2b29883a5f46403998115c98f232ddee6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3071/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 572782,
+  "content_type": "application/pdf",
+  "directory": "resources/09639c043e45c730a496724e93103cfcb375deab39bb0bfd94bd8e5b3404cc87",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2771/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB COVID-19 Outcomes June 2020 PDF.pdf\"",
+    "ETag": "\"1635836133:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:32 GMT"
+  },
+  "sha256": "71a22124521ca99a1bece2d6e37a8a6872e0f0e58cbccd4865b7f5e8048950f0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2771/download?attachment="
+}

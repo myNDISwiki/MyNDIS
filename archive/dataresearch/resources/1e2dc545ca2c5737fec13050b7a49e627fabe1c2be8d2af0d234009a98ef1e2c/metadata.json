@@ -1,0 +1,22 @@
+{
+  "bytes": 145235,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1e2dc545ca2c5737fec13050b7a49e627fabe1c2be8d2af0d234009a98ef1e2c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2722/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Goldfields-Esperance_data.xlsx\"",
+    "ETag": "\"1635836134:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:33 GMT"
+  },
+  "sha256": "a4c489fd993f72faaed1b2c3ea398d2b26e4539f7ee785a035bfd9087975da73",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2722/download?attachment="
+}

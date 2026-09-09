@@ -1,0 +1,22 @@
+{
+  "bytes": 13966,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/912bbdf74fb73c01c3fc371145001a8d2375dc173f6c2ae381ab1166c0a73a03",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1619/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=ts_data_and_insights_explainer_docx.docx",
+    "ETag": "\"1635836077:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:36 GMT"
+  },
+  "sha256": "0d679a7902b3fc653c2cb237b81898347951c26a48ad8b977747bc00a8afa8dd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1619/download"
+}

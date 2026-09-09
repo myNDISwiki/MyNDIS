@@ -1,0 +1,22 @@
+{
+  "bytes": 1118824,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/4bf66d7f968c1a6f049ecf92a43c33804a21787604ca5a7a992dae35c76003aa",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4248/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA Enrolled dwellings and NDIS demand data.xlsx\"",
+    "ETag": "\"1786683820:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 05:03:39 GMT"
+  },
+  "sha256": "e15d4957b896395d2ae3200965fa196d36f3f240cc6227f32cdf1fd201a31219",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4248/download?attachment="
+}

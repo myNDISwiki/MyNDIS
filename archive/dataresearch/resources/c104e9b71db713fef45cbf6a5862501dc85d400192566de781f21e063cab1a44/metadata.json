@@ -1,0 +1,22 @@
+{
+  "bytes": 329183,
+  "content_type": "application/pdf",
+  "directory": "resources/c104e9b71db713fef45cbf6a5862501dc85d400192566de781f21e063cab1a44",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3170/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Great Southern.pdf\"",
+    "ETag": "\"1637286112:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:41:51 GMT"
+  },
+  "sha256": "233961850f691948ddbfc025322ef9a9fcaec5f2611f2fb15ab56381022e2ef0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3170/download?attachment="
+}

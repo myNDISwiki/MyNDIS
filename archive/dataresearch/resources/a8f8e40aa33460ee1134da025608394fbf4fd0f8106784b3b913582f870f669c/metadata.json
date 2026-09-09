@@ -1,0 +1,22 @@
+{
+  "bytes": 7005271,
+  "content_type": "application/pdf",
+  "directory": "resources/a8f8e40aa33460ee1134da025608394fbf4fd0f8106784b3b913582f870f669c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3950/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Employment outcomes for families and carers of NDIS participants as at 31 December 2022 _ full report (6.8 MB PDF).pdf\"; filename*=utf-8''PB%20Employment%20outcomes%20for%20families%20and%20carers%20of%20NDIS%20participants%20as%20at%2031%20December%202022%20%E2%80%93%20full%20report%20%286.8%20MB%20PDF%29.pdf",
+    "ETag": "\"1710975777:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 20 Mar 2024 23:02:56 GMT"
+  },
+  "sha256": "d3725a3b441366a5ae161d075d747833c6ee2fc3e1a0aa7c907323ee6622cccf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3950/download?attachment="
+}

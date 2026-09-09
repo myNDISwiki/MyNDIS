@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ec4d3d37c5419fd90b8f52f05c7ecb639842f9d62c80333c42ef2f36226e4a29",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3187/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Great Southern_data.xlsx\"",
+    "ETag": "\"1637286380:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:46:19 GMT"
+  },
+  "sha256": "81f914d288595898147bf2dd8af5e5aeb58a010e1599c69ae34610542a9f9104",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3187/download?attachment="
+}

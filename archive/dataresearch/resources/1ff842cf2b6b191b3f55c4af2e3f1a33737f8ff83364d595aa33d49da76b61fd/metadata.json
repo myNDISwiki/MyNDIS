@@ -1,0 +1,22 @@
+{
+  "bytes": 838258,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/1ff842cf2b6b191b3f55c4af2e3f1a33737f8ff83364d595aa33d49da76b61fd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3691/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB External Research Request Long Version  (1).docx\"",
+    "ETag": "\"1690944453:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:47:32 GMT"
+  },
+  "sha256": "cca78074409800ff63c1a38c0a45bebe3619830252aeb03ef85b0bf0cce71998",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3691/download?attachment="
+}

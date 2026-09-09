@@ -1,0 +1,22 @@
+{
+  "bytes": 199095,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/a9992bb203898c893d82dcb6e18b20bac181dc48ab7bc269d3faf3b1ceb2ab87",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4340/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB The effect of psychological interventions for mood in people living with multiple sclerosis DOCX.docx\"",
+    "ETag": "\"1750638241:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 23 Jun 2025 00:24:00 GMT"
+  },
+  "sha256": "c055fc05eced8f28d095f976316a948c90868d8d6b332c2e05118f4b3d8f9a9f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4340/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 226884,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/200a9460b53d6c5e066adbd5c374dd4f766e9ff4be31238fad82520e545404ed",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4405/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=Supplement-I-Western-Australia-2025-26-Q1.xlsx",
+    "ETag": "\"1763094083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Nov 2025 04:21:22 GMT"
+  },
+  "sha256": "79eb4c606737cc68774efab84b6b9dcaa50424f8a65bec262bb6ab483531519f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4405/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 4487,
+  "content_type": "application/pdf",
+  "directory": "resources/7fa3ae48e282047f8227684979bb1a3bbc2eb05e1f8219c9d92bd801c57267f9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4057",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Independent Expert Review IER evaluation report.pdf\""
+  },
+  "sha256": "67569ab6207fc4f231d5f41fb1fe5e6dc96d93979c125f92fe4b7bcf538dec5f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4057"
+}

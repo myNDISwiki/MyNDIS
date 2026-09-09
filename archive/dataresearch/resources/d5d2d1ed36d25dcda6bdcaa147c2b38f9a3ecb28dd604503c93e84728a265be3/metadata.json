@@ -1,0 +1,22 @@
+{
+  "bytes": 402038,
+  "content_type": "application/pdf",
+  "directory": "resources/d5d2d1ed36d25dcda6bdcaa147c2b38f9a3ecb28dd604503c93e84728a265be3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3022/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Nepean Blue Mountains.pdf\"",
+    "ETag": "\"1637191830:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:30:29 GMT"
+  },
+  "sha256": "7eb1a82ae8adf826ebd35a8d9666552de8636cd2ff5171b8e8c02a153621f507",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3022/download?attachment="
+}

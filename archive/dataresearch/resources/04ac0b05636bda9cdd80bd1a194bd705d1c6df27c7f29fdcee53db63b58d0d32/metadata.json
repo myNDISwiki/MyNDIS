@@ -1,0 +1,21 @@
+{
+  "bytes": 5395,
+  "content_type": "image/svg+xml",
+  "directory": "resources/04ac0b05636bda9cdd80bd1a194bd705d1c6df27c7f29fdcee53db63b58d0d32",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-setting-goals.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6180e0f5-1513\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:49 GMT"
+  },
+  "sha256": "6b082f5b84a98a177232a722a23dfd4d9968bddd3b7676faca70258571010b89",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-setting-goals.svg"
+}

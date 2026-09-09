@@ -1,0 +1,22 @@
+{
+  "bytes": 150710,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/30fdd5dd38b97746138254600b7b195ebf22684fe71e9d39df9aa28e4d2196f3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3385/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Darwin Urban_data.xlsx\"",
+    "ETag": "\"1648080787:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 24 Mar 2022 00:13:06 GMT"
+  },
+  "sha256": "55270b077108c7986e0a336a283557e6e4737d4893118172c313d7dd8d83bec6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3385/download?attachment="
+}

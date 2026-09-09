@@ -1,0 +1,22 @@
+{
+  "bytes": 5452943,
+  "content_type": "application/pdf",
+  "directory": "resources/ea4642f11b5723ffc644648a67f5b443f55c78d5be454588c961881cdcfd1f64",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4107/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Report to disability ministers for Q1 2024-25 Supplement.pdf\"",
+    "ETag": "\"1731286322:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 11 Nov 2024 00:52:01 GMT"
+  },
+  "sha256": "a94067f442d620151ec9e7dff43552e8ca50449a1c067ddabf9ad5b809b83727",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4107/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1000185,
+  "content_type": "application/pdf",
+  "directory": "resources/27f49d27f927dba855f531ef5801c8f0e5e057ef8592f587742e446f24b575f2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2874/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Southern Melbourne.pdf\"",
+    "ETag": "\"1635836140:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:39 GMT"
+  },
+  "sha256": "83447c6a578c018e89e2828219b220083dcf9b34417945b4c981e9a455b350f1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2874/download?attachment="
+}

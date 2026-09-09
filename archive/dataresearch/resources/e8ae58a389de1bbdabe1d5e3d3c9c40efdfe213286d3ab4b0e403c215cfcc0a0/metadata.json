@@ -1,0 +1,22 @@
+{
+  "bytes": 2163403,
+  "content_type": "application/pdf",
+  "directory": "resources/e8ae58a389de1bbdabe1d5e3d3c9c40efdfe213286d3ab4b0e403c215cfcc0a0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3540/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS195_Aquired Brain Injury Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS195_Aquired%20Brain%20Injury%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671582161:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 00:22:40 GMT"
+  },
+  "sha256": "a5f58731a76ba38d8bc97bfa7b81c83b6d5cd4ff2fa2ecc72f7a2b2a4e98c71d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3540/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 97127,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/5d7c63e86b9cf617f2f3709e31017404506a319afb5fa89185d2a482026a9b58",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4258/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Culturally and linguistically diverse participants data rules.docx\"",
+    "ETag": "\"1786682364:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:39:23 GMT"
+  },
+  "sha256": "91cd8aaff53a11b7404f7f351efede26b77f796761e8bf10f06370773ccf63e9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4258/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 13052,
+  "content_type": "application/pdf",
+  "directory": "resources/f686577d52b43cf70c2e2f601f481e9092f51480429feb8dde66761ec204c88c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4003",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Spinal Cord Injury.pdf\""
+  },
+  "sha256": "3489cc07cfc8e62116df5942ffa828b8008a0722e509e2128bec9b0acc1c5e67",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4003"
+}

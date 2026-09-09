@@ -1,0 +1,22 @@
+{
+  "bytes": 4242282,
+  "content_type": "application/zip",
+  "directory": "resources/1eba6f0aef6d1db1c87f619dc680616824a49cd3f8a8dfecd70d21209718f4ec",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3361/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Data WA.zip\"",
+    "ETag": "\"1648077135:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 23:12:14 GMT"
+  },
+  "sha256": "cca9cb6b9dffae4482cf61a68076c83e1cb9eb969f57d20b288e59638b4615e8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3361/download?attachment="
+}

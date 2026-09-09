@@ -1,0 +1,22 @@
+{
+  "bytes": 1479353,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/0a9084a2dc06a19ed1997f1ac72c6342900b913cab472ef7380f9400694679b6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3887/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Evidence Review _ Interventions for children with Neuromuscular disorders_0.docx\"; filename*=utf-8''Evidence%20Review%20%E2%80%93%20Interventions%20for%20children%20with%20Neuromuscular%20disorders_0.docx",
+    "ETag": "\"1701659664:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 04 Dec 2023 03:14:23 GMT"
+  },
+  "sha256": "16cff96516ebc4ec0be63431a4650038d43d2bad8db834c930034d9a10d4aa38",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3887/download?attachment="
+}

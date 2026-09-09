@@ -1,0 +1,20 @@
+{
+  "bytes": 20771,
+  "content_type": "application/pdf",
+  "directory": "resources/7177b9939eb76bd6679eabbd1a73af25adbf22e7323c54786c7532f3f13682e9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4076",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Family and Carer Outcomes 30 June 2023.pdf\""
+  },
+  "sha256": "89015aeb3a6506565feae5b0483b30a00440a8e80f3676999b70d58359a0a31a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4076"
+}

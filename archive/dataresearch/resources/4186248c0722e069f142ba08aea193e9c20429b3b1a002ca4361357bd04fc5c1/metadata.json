@@ -1,0 +1,22 @@
+{
+  "bytes": 3765481,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/4186248c0722e069f142ba08aea193e9c20429b3b1a002ca4361357bd04fc5c1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3933/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement H Queensland 2023-24 Q2 (2).xlsx\"",
+    "ETag": "\"1708315260:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 19 Feb 2024 04:00:59 GMT"
+  },
+  "sha256": "c8b6914db3092930bebe11d59afc2ef60ab06d4f18379bda80d348e669afe840",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3933/download?attachment="
+}

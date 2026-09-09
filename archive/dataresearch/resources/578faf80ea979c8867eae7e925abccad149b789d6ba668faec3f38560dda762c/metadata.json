@@ -1,0 +1,22 @@
+{
+  "bytes": 92725,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/578faf80ea979c8867eae7e925abccad149b789d6ba668faec3f38560dda762c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4010/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Other Neurological data to 31 March 2024.xlsx\"",
+    "ETag": "\"1716768479:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 27 May 2024 00:07:58 GMT"
+  },
+  "sha256": "38eabc24d07ea10690f3bf09e6a4626a9af7aa6e6a654e63d22b6336c31f18aa",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4010/download?attachment="
+}

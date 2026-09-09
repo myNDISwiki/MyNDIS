@@ -1,0 +1,20 @@
+{
+  "bytes": 33400,
+  "content_type": "application/pdf",
+  "directory": "resources/57e344bcf8f23deafdfd646e3c0942b86a2a033831320f0a2763af815e4b7926",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4022",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Behavioural interventions.pdf\""
+  },
+  "sha256": "a653caa359542dc0a604e73a402369253ce666d5dab2325ca40fd334590b775d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4022"
+}

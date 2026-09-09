@@ -1,0 +1,20 @@
+{
+  "bytes": 8565,
+  "content_type": "application/pdf",
+  "directory": "resources/f950464e7e89822f1091999880c973d007c5f24f4bc9619b572f7cb0c5be061d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3968",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Family and Carer Outcomes 30 June 2019.pdf\""
+  },
+  "sha256": "c2a8577036225a5f2e1ebfdd9655e2200c5ddb1bf06bad469aa7ea51f3617990",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3968"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 5961626,
+  "content_type": "application/pdf",
+  "directory": "resources/5cc94b2b83ece9ff47f8c0f6b16c271ca4897d58fb10365ff1125c4c8bae5dd1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4343/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB ER NDIS supports, funding amounts and periods - Summary Report .pdf\"",
+    "ETag": "\"1750640438:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 23 Jun 2025 01:00:37 GMT"
+  },
+  "sha256": "105ee26fcdee7d5a65d92b366ff4ba41aa427eb99b1118e50509d1f2e806a2b9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4343/download?attachment="
+}

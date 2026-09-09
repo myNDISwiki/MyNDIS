@@ -1,0 +1,22 @@
+{
+  "bytes": 122071,
+  "content_type": "application/pdf",
+  "directory": "resources/25baa3ec33003c78780cdf0e35c9cbe5c489fc5218da93a784be056d7d534793",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4318/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics April 2025.pdf\"",
+    "ETag": "\"1747269022:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 15 May 2025 00:30:21 GMT"
+  },
+  "sha256": "61fbc2258f5d636fb806cd392c7a6f90f18f9d87f30cf44aae3147270c765f57",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4318/download?attachment="
+}

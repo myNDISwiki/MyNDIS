@@ -1,0 +1,22 @@
+{
+  "bytes": 926222,
+  "content_type": "application/pdf",
+  "directory": "resources/d727ec31e678be85568bdf06fbe869f37212476740114af7ec6bd480ea33ad92",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1727/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_The NDIS Market Detailed Dashboard_Mid North Coast_0.pdf\"",
+    "ETag": "\"1635836086:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:45 GMT"
+  },
+  "sha256": "3f066a56c3a4bce994944d79e8ef37cdc81f06110ea1ceb560479ab75853430e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1727/download?attachment="
+}

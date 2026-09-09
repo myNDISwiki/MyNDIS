@@ -1,0 +1,22 @@
+{
+  "bytes": 97560,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/4636c9c9cb243dfce4b9dd10b304ca999394c40b1a0167a1520e133f1fdf8852",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4276/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Longitudinal outcomes data rules.docx\"",
+    "ETag": "\"1786682712:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:45:11 GMT"
+  },
+  "sha256": "df6915b822ac6c86701d3710aca8c920c22effc223b4999375857abb75c52a0e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4276/download?attachment="
+}

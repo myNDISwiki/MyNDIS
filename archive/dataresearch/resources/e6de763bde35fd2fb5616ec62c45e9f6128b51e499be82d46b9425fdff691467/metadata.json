@@ -1,0 +1,22 @@
+{
+  "bytes": 43794,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/e6de763bde35fd2fb5616ec62c45e9f6128b51e499be82d46b9425fdff691467",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3807/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Hearing transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601521:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:25:20 GMT"
+  },
+  "sha256": "b15629f24f42bbcfedaa6415b6a3590f9181cdb12f78e8eb18f2d991be4d82e0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3807/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 91648,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2d18a33d50e0673178a48cd31e15a8624f6ba5f78bb6f0746d45c024bfba02c9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3840/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Other neurological data to 30 June 2023.xlsx\"",
+    "ETag": "\"1695765375:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 26 Sep 2023 21:56:14 GMT"
+  },
+  "sha256": "85bf752e189d3aef4849e501f0884439e665a605f1e2b6574792af30cb4b6ff1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3840/download?attachment="
+}

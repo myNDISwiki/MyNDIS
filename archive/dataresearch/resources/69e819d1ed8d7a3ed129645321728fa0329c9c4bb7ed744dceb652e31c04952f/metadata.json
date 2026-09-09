@@ -1,0 +1,22 @@
+{
+  "bytes": 11565617,
+  "content_type": "application/pdf",
+  "directory": "resources/69e819d1ed8d7a3ed129645321728fa0329c9c4bb7ed744dceb652e31c04952f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3953/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS231_Participant Outcomes Employment - Full report__ACC.pdf\"; filename*=utf-8''NDIS231_Participant%20Outcomes%20Employment%20-%20Full%20report_%C6%92ACC.pdf",
+    "ETag": "\"1710976124:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 20 Mar 2024 23:08:43 GMT"
+  },
+  "sha256": "046ff3784cb38e1da5bf5d0a676aa1696a7401d10b0859aa90b175302503fddb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3953/download?attachment="
+}

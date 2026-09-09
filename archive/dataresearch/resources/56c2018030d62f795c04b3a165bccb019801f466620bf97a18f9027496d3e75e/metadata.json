@@ -1,0 +1,22 @@
+{
+  "bytes": 27951,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/56c2018030d62f795c04b3a165bccb019801f466620bf97a18f9027496d3e75e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3113/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Barossa, Light and Lower North_data.xlsx\"",
+    "ETag": "\"1637276358:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:59:17 GMT"
+  },
+  "sha256": "06710f5492ec2f8cc1a22132ccf3cc2f678c8e14391db6a487492f4326d8d2e3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3113/download?attachment="
+}

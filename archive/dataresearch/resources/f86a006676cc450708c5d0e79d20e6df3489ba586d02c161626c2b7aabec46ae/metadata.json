@@ -1,0 +1,22 @@
+{
+  "bytes": 925573,
+  "content_type": "application/pdf",
+  "directory": "resources/f86a006676cc450708c5d0e79d20e6df3489ba586d02c161626c2b7aabec46ae",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2312/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_North Sydney.pdf\"",
+    "ETag": "\"1635836116:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:15 GMT"
+  },
+  "sha256": "822c8d6e36cd655b502c138efbf7adc73c54fbd6161903e27a7cab31968d2f38",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2312/download?attachment="
+}

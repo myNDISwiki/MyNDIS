@@ -1,0 +1,22 @@
+{
+  "bytes": 929636,
+  "content_type": "application/pdf",
+  "directory": "resources/3b5dcde7314d190b0e3e2868c83e717aae5fe15ceeb4d5cbab592fcf73c03336",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1986/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_North East Metro.pdf\"",
+    "ETag": "\"1635836101:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:00 GMT"
+  },
+  "sha256": "3df706dceec369412b3e297c81c6448e32c224016359c6a8e2dd1bae352fe2b6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1986/download?attachment="
+}

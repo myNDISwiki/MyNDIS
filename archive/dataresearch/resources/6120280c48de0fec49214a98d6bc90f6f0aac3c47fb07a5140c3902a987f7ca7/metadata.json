@@ -1,0 +1,22 @@
+{
+  "bytes": 1094988,
+  "content_type": "application/pdf",
+  "directory": "resources/6120280c48de0fec49214a98d6bc90f6f0aac3c47fb07a5140c3902a987f7ca7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2814/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Employment Outcomes Summary PDF.pdf\"",
+    "ETag": "\"1635836137:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:36 GMT"
+  },
+  "sha256": "b59a446c2d14f76d2d37f45f89af23257f3279ea6737fa36b42fb6acb955a725",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2814/download?attachment="
+}

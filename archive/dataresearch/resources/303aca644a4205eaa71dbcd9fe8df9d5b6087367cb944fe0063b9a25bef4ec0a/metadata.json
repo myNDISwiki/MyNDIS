@@ -1,0 +1,22 @@
+{
+  "bytes": 27944,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/303aca644a4205eaa71dbcd9fe8df9d5b6087367cb944fe0063b9a25bef4ec0a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3107/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Murray and Mallee_data.xlsx\"",
+    "ETag": "\"1637275386:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:43:05 GMT"
+  },
+  "sha256": "2a0e0a68dfbfe9fe971c5bc8e9ba1de3a1779a4dab99b601aea4e93d1b169aea",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3107/download?attachment="
+}

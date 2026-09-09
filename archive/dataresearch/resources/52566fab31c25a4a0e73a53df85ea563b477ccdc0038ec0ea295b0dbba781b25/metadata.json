@@ -1,0 +1,22 @@
+{
+  "bytes": 27941,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/52566fab31c25a4a0e73a53df85ea563b477ccdc0038ec0ea295b0dbba781b25",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3059/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Barkly_data.xlsx",
+    "ETag": "\"1637198599:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:23:18 GMT"
+  },
+  "sha256": "c889441900746641b66f56009dca360aa515d3d8bac01cb15c6315ae3bce625d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3059/download?attachment="
+}

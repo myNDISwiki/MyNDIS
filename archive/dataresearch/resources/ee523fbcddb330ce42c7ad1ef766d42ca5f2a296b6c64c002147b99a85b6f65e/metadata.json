@@ -1,0 +1,22 @@
+{
+  "bytes": 7066471,
+  "content_type": "application/pdf",
+  "directory": "resources/ee523fbcddb330ce42c7ad1ef766d42ca5f2a296b6c64c002147b99a85b6f65e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3767/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB ER - Supporting home and living choices (1).pdf\"",
+    "ETag": "\"1692661868:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 21 Aug 2023 23:51:07 GMT"
+  },
+  "sha256": "0aa7e68d9fc26cd140cf3cd715a5aba63cde55f1e3cdedc87425b308b7e70dd3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3767/download?attachment="
+}

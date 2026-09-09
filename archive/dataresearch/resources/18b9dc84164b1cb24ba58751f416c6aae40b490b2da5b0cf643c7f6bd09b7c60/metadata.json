@@ -1,0 +1,20 @@
+{
+  "bytes": 12603,
+  "content_type": "application/pdf",
+  "directory": "resources/18b9dc84164b1cb24ba58751f416c6aae40b490b2da5b0cf643c7f6bd09b7c60",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3996",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Developmental Delay.pdf\""
+  },
+  "sha256": "ff5107e92fb0ecf09e2c3135d00628591f9734439570fb9b3332596251e23d3d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3996"
+}

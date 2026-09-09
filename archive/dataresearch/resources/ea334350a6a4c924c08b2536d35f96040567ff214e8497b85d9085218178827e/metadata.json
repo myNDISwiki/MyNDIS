@@ -1,0 +1,22 @@
+{
+  "bytes": 2533820,
+  "content_type": "application/pdf",
+  "directory": "resources/ea334350a6a4c924c08b2536d35f96040567ff214e8497b85d9085218178827e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1692/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIA Insights Forum - Outcomes presentation revised 201909.pdf\"",
+    "ETag": "\"1635836090:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:49 GMT"
+  },
+  "sha256": "0592b816de6a4b6b074b01500bc0eab328b7944c2961f380bcf50f025c668ebe",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1692/download?attachment="
+}

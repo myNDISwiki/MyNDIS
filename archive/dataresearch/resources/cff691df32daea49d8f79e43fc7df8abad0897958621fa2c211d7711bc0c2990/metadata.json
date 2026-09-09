@@ -1,0 +1,22 @@
+{
+  "bytes": 147583,
+  "content_type": "application/pdf",
+  "directory": "resources/cff691df32daea49d8f79e43fc7df8abad0897958621fa2c211d7711bc0c2990",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4365/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics July 2025.pdf\"",
+    "ETag": "\"1755125009:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 13 Aug 2025 22:43:28 GMT"
+  },
+  "sha256": "e985dab2608a4158cecb3677e3162f64a9abdcba58ceb920765bff6f874d10a8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4365/download?attachment="
+}

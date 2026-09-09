@@ -1,0 +1,22 @@
+{
+  "bytes": 365942,
+  "content_type": "application/pdf",
+  "directory": "resources/d7cc4c5bd23d17117529b4d32b148229415ed08efc652fe83a5c80eed5974ae2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3067/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Cairns.pdf\"",
+    "ETag": "\"1637200669:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:57:48 GMT"
+  },
+  "sha256": "487d6e1d2ff72e1a6ab62705eef1928364dee39fb215bd57d6e714394f2a50b5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3067/download?attachment="
+}

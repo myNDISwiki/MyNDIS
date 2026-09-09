@@ -1,0 +1,22 @@
+{
+  "bytes": 709605,
+  "content_type": "application/pdf",
+  "directory": "resources/eb000390627553d85ae8f737e9038968e22fb5f6b6d7db459c4129d01625c87b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2126/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB People with an intellectual disability in the NDIS 31 December 2019 PDF.pdf\"",
+    "ETag": "\"1635836105:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:04 GMT"
+  },
+  "sha256": "d24a080d638fd73ae8a6bc470e63bd52eed582b6046d454dc6d2854c3a6622d9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2126/download?attachment="
+}

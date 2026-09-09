@@ -1,0 +1,22 @@
+{
+  "bytes": 591508,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a92b01f010041789411cc8f356f1f06da77108e0ffe1ca7d882d23258b922928",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3513/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard NT by service district .xlsx\"",
+    "ETag": "\"1669851775:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 30 Nov 2022 23:42:54 GMT"
+  },
+  "sha256": "f3ef5444ee5d7576ad28fe01a5ef8311db44cdbaa76c348aa758bf803acbdefb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3513/download?attachment="
+}

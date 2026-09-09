@@ -1,0 +1,22 @@
+{
+  "bytes": 860428,
+  "content_type": "application/pdf",
+  "directory": "resources/158527ca53fea91d2db6819a64535a073130527f27954075f1963984ed035593",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4016/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS241_Health and Wellbeing Report SUMMARY__+1ACC.pdf\"; filename*=utf-8''NDIS241_Health%20and%20Wellbeing%20Report%20SUMMARY_%C6%92%2B1ACC.pdf",
+    "ETag": "\"1721688108:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 22 Jul 2024 22:41:47 GMT"
+  },
+  "sha256": "1402ef426b305cf0120c9cd7aaceb0670675fb1a1e3380aef81c3f0f5470f5ea",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4016/download?attachment="
+}

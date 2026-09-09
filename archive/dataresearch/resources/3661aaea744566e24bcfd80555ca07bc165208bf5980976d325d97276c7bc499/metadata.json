@@ -1,0 +1,20 @@
+{
+  "bytes": 12113,
+  "content_type": "application/pdf",
+  "directory": "resources/3661aaea744566e24bcfd80555ca07bc165208bf5980976d325d97276c7bc499",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3993",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Acquired Brain Injury.pdf\""
+  },
+  "sha256": "f020409ebb237015362a15ab5519678eb89513cfadf25315c695f4be9689e911",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3993"
+}

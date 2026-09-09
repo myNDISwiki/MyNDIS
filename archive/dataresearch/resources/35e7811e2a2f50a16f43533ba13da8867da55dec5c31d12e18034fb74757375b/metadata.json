@@ -1,0 +1,22 @@
+{
+  "bytes": 87528,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/35e7811e2a2f50a16f43533ba13da8867da55dec5c31d12e18034fb74757375b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4457/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Hearing impairment data to 30 September 2025.xlsx\"",
+    "ETag": "\"1763357368:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 17 Nov 2025 05:29:27 GMT"
+  },
+  "sha256": "be86730f06aa25f6ad8e287339de07e4a24b901c3a587a0b963bdbdb60ff679e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4457/download?attachment="
+}

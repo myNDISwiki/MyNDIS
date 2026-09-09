@@ -1,0 +1,22 @@
+{
+  "bytes": 8414278,
+  "content_type": "application/pdf",
+  "directory": "resources/05dbe225039b04d21d8f32ca7bdafe68c6beb88e98f6caa01dd7d2c86cd63358",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2896/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Longitudinal trends report PDF.pdf\"",
+    "ETag": "\"1635836146:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:45 GMT"
+  },
+  "sha256": "555c25cf1f334d5d543e1b4da246d3d4a3f5033f00db47e1c6ea006439841d93",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2896/download?attachment="
+}

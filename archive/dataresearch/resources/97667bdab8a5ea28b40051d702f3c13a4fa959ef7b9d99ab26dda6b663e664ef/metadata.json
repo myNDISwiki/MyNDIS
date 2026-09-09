@@ -1,0 +1,22 @@
+{
+  "bytes": 151913,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/97667bdab8a5ea28b40051d702f3c13a4fa959ef7b9d99ab26dda6b663e664ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2689/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Southern Adelaide_data.xlsx\"",
+    "ETag": "\"1635836136:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:35 GMT"
+  },
+  "sha256": "22008103bc3b43ac5c1d779d30188a6a2390a6685bb391e23ad405b6feb369c9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2689/download?attachment="
+}

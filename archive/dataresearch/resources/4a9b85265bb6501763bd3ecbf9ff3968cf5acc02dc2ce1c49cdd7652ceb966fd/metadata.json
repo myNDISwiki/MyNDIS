@@ -1,0 +1,22 @@
+{
+  "bytes": 38349,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/4a9b85265bb6501763bd3ecbf9ff3968cf5acc02dc2ce1c49cdd7652ceb966fd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3733/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"TS - Supports that can help you connect in the community.docx\"",
+    "ETag": "\"1691362313:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 22:51:52 GMT"
+  },
+  "sha256": "77ec9a6dc6ce43d05d98eac7ff9c4469c8ec122bf44d3872000b8959f8b8545d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3733/download"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 224408,
+  "content_type": "application/pdf",
+  "directory": "resources/4e79dd73cd7c9e3f35c75f1aa59ecea61aff865776c9fcdb5c246749a4b55aa0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3677/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"OM Tools Summary.pdf\"",
+    "ETag": "\"1690944015:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:40:14 GMT"
+  },
+  "sha256": "194685488a862c65cf5245d6dd0f30f07a6e90f95e1eb9c1147329376b009f0d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3677/download?attachment="
+}

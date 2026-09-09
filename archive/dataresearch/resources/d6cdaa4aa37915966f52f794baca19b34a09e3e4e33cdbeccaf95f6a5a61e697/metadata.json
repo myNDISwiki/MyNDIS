@@ -1,0 +1,20 @@
+{
+  "bytes": 12557,
+  "content_type": "application/pdf",
+  "directory": "resources/d6cdaa4aa37915966f52f794baca19b34a09e3e4e33cdbeccaf95f6a5a61e697",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4005",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Visual impairment.pdf\""
+  },
+  "sha256": "77547cc8273ccaea6e86cb7467043bd4d6534dcb3049e5dc8ae734bcddebfa14",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4005"
+}

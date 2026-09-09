@@ -1,0 +1,22 @@
+{
+  "bytes": 917083,
+  "content_type": "application/pdf",
+  "directory": "resources/599e186487e3fd20b4a774b03d98a73ab7ec79b50b6286a86d13e925b7c76016",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1969/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Far West.pdf\"",
+    "ETag": "\"1635836100:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:59 GMT"
+  },
+  "sha256": "d36a3e2bf274dbc7fc685fe478e2b6df581e57739ddbf030e4278eefd5bcb595",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1969/download?attachment="
+}

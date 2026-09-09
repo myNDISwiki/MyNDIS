@@ -1,0 +1,22 @@
+{
+  "bytes": 926541,
+  "content_type": "application/pdf",
+  "directory": "resources/3669f489f30fefc5f17164f420ac6d6b992d020756822b00c237559ca26d9de1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2465/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_South West.pdf\"",
+    "ETag": "\"1635836117:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:16 GMT"
+  },
+  "sha256": "8b27284e747b4fc1bd13e3e4a01fc294c4e4134735701863b8925bafa5987d1a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2465/download?attachment="
+}

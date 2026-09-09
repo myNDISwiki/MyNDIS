@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5a6f130d93c73a56f7ecaae1e148a009e5ee39c5b813b90d245979c999493776",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3053/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Unincorporated NT_data.xlsx\"",
+    "ETag": "\"1637198443:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:20:42 GMT"
+  },
+  "sha256": "7472784008a03d3d0e59c0f90773379f974189aeda93f8e70636bdef6261326e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3053/download?attachment="
+}

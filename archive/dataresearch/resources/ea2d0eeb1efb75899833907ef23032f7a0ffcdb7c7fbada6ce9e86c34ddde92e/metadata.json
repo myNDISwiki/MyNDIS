@@ -1,0 +1,22 @@
+{
+  "bytes": 2068200,
+  "content_type": "application/pdf",
+  "directory": "resources/ea2d0eeb1efb75899833907ef23032f7a0ffcdb7c7fbada6ce9e86c34ddde92e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3567/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS187_Psychosocial Dashboard_Sep22__1.pdf\"; filename*=utf-8''NDIS187_Psychosocial%20Dashboard_Sep22_%C6%921.pdf",
+    "ETag": "\"1671589300:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 02:21:39 GMT"
+  },
+  "sha256": "252087718ef484bdb93617d1f72487fd13b95190460bed00b7cefabb7d662ef2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3567/download?attachment="
+}

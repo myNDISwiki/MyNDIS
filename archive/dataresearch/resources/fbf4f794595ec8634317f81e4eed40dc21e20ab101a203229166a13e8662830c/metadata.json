@@ -1,0 +1,22 @@
+{
+  "bytes": 27943,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/fbf4f794595ec8634317f81e4eed40dc21e20ab101a203229166a13e8662830c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3042/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Southern NSW_data.xlsx\"",
+    "ETag": "\"1637192332:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:38:51 GMT"
+  },
+  "sha256": "2790969ea31562d9489ea401cc655f392213634195cc9b90a0fc569fda4373ae",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3042/download?attachment="
+}

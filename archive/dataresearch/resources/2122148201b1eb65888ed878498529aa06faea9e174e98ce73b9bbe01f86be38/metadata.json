@@ -1,0 +1,22 @@
+{
+  "bytes": 1439050,
+  "content_type": "application/pdf",
+  "directory": "resources/2122148201b1eb65888ed878498529aa06faea9e174e98ce73b9bbe01f86be38",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3704/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Getting out into the world summary (plain language) PDF.pdf\"",
+    "ETag": "\"1690944844:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:54:03 GMT"
+  },
+  "sha256": "f0dd53304e2cafb8078a61c1d3648faaa506188eb840c02d5cbe17c4ac2fbd94",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3704/download?attachment="
+}

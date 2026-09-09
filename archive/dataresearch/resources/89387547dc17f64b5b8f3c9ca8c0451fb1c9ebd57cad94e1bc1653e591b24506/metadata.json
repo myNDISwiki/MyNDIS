@@ -1,0 +1,22 @@
+{
+  "bytes": 152417,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/89387547dc17f64b5b8f3c9ca8c0451fb1c9ebd57cad94e1bc1653e591b24506",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2077/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Townsville_data.xlsx\"",
+    "ETag": "\"1635836103:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:02 GMT"
+  },
+  "sha256": "43b5c5a89b2c2ae01825fb09ae92fb8585bdd69fdf93f10f4a714c4c30e41812",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2077/download?attachment="
+}

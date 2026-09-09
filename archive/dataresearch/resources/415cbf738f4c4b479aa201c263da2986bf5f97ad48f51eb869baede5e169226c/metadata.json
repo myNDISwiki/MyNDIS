@@ -1,0 +1,22 @@
+{
+  "bytes": 61749,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/415cbf738f4c4b479aa201c263da2986bf5f97ad48f51eb869baede5e169226c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3574/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"12. Disability Dashboard Transcript For Stroke.docx\"",
+    "ETag": "\"1671596734:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 04:25:33 GMT"
+  },
+  "sha256": "2c858eced127b7be33ec79c075e39aab50770ce98c95b1449a17f5f8278a57a4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3574/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 1668,
+  "content_type": "application/pdf",
+  "directory": "resources/51caca99b5eca36a163c74b4e66fbba8c6f3c4802de04a704b83b23d3a894bc7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3243",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Explore data.pdf\""
+  },
+  "sha256": "b64fd0077bb1354f502b6cad4ac1a45c4408dac96ac780b403a902ee9c6828fb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3243"
+}

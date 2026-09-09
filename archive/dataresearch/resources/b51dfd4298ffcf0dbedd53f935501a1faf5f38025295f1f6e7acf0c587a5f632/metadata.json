@@ -1,0 +1,22 @@
+{
+  "bytes": 10579603,
+  "content_type": "application/zip",
+  "directory": "resources/b51dfd4298ffcf0dbedd53f935501a1faf5f38025295f1f6e7acf0c587a5f632",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3360/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Detailed Dashboard WA.zip\"",
+    "ETag": "\"1648076689:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 23:04:48 GMT"
+  },
+  "sha256": "25c36dbe97b4b9e17749eb8ac9aca98a707d14e5da2aec949c688d200ef45f70",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3360/download?attachment="
+}

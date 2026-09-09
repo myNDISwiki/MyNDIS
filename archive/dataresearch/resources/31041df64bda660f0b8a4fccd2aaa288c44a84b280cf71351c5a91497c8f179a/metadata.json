@@ -1,0 +1,22 @@
+{
+  "bytes": 2399097,
+  "content_type": "application/pdf",
+  "directory": "resources/31041df64bda660f0b8a4fccd2aaa288c44a84b280cf71351c5a91497c8f179a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3952/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS237_Participant Employment Deep Dive - Summary report_ACC_0.pdf\"; filename*=utf-8''NDIS237_Participant%20Employment%20Deep%20Dive%20-%20Summary%20report%C6%92ACC_0.pdf",
+    "ETag": "\"1710975921:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 20 Mar 2024 23:05:20 GMT"
+  },
+  "sha256": "c990904f8ec8e89ecc926f94fe4bc113b9481b8e7431c5349a6d655c041a8ffe",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3952/download?attachment="
+}

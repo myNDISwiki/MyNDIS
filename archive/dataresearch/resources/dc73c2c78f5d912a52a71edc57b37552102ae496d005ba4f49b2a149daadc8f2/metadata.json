@@ -1,0 +1,22 @@
+{
+  "bytes": 331289,
+  "content_type": "application/pdf",
+  "directory": "resources/dc73c2c78f5d912a52a71edc57b37552102ae496d005ba4f49b2a149daadc8f2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3047/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Central Australia.pdf\"",
+    "ETag": "\"1637198142:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:15:41 GMT"
+  },
+  "sha256": "ab1ba62f683f4b436aa5fa403ae12cdd64e5d09257658d1207eca51835e9534e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3047/download?attachment="
+}

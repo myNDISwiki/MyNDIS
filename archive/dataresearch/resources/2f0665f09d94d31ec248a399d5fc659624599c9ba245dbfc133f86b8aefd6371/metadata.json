@@ -1,0 +1,21 @@
+{
+  "bytes": 42212,
+  "content_type": "application/javascript",
+  "directory": "resources/2f0665f09d94d31ec248a399d5fc659624599c9ba245dbfc133f86b8aefd6371",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/js/js_jcnQ3ju0Zgd-ZhMoEKENDUWT75AtKmbSlp4f7oHyetQ.js?delta=2&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6a95324d-a4e4\"",
+    "Last-Modified": "Mon, 31 Aug 2026 07:50:37 GMT"
+  },
+  "sha256": "6026cc8ce55ce0eb3567342988412584d7781e3288dd9b44e0864f94c6f58d45",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/js/js_jcnQ3ju0Zgd-ZhMoEKENDUWT75AtKmbSlp4f7oHyetQ.js?delta=2&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis"
+}

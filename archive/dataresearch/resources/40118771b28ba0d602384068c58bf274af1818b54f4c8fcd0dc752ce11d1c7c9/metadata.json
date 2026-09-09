@@ -1,0 +1,22 @@
+{
+  "bytes": 370701,
+  "content_type": "application/pdf",
+  "directory": "resources/40118771b28ba0d602384068c58bf274af1818b54f4c8fcd0dc752ce11d1c7c9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3070/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Maroochydore.pdf\"",
+    "ETag": "\"1637200706:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:58:25 GMT"
+  },
+  "sha256": "72a95b58918c88f0cbd9593f1869286acc3d652d67b1977f07ece410e4e91b45",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3070/download?attachment="
+}

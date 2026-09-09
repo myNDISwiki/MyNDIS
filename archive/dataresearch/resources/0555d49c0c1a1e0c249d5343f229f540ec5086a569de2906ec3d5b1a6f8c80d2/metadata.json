@@ -1,0 +1,22 @@
+{
+  "bytes": 27943,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/0555d49c0c1a1e0c249d5343f229f540ec5086a569de2906ec3d5b1a6f8c80d2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3105/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Southern Adelaide_data.xlsx\"",
+    "ETag": "\"1637275311:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:41:50 GMT"
+  },
+  "sha256": "e3386fe1e00a21b443c4ab4dcbe096becdb2f8bcaec8055a8d84fa4ed38f0653",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3105/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 12530,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/bff8b9b506101c67ed3df89c6d0cc0eb804ad701252517b9cece463e11af2c62",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3729/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=ts_keeping_a_job_docx_0.docx",
+    "ETag": "\"1691360944:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 22:29:03 GMT"
+  },
+  "sha256": "859257e3c24f0c763fdbd29a7ec1e903222269f3dbe8e91d5dce37eb60052a41",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3729/download"
+}

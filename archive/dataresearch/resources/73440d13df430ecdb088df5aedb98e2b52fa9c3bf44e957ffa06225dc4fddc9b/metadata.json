@@ -1,0 +1,22 @@
+{
+  "bytes": 38117,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/73440d13df430ecdb088df5aedb98e2b52fa9c3bf44e957ffa06225dc4fddc9b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3731/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"What community participation means.docx\"",
+    "ETag": "\"1691361736:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 22:42:15 GMT"
+  },
+  "sha256": "68210a2531df22734c47ebd4d1dfbb341aa1bd7cf0e445bd550068436598baa6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3731/download"
+}

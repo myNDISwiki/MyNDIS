@@ -1,0 +1,22 @@
+{
+  "bytes": 3355031,
+  "content_type": "application/pdf",
+  "directory": "resources/727d81799056ffc996f14320ca955967da3f08a33a7655c2566a8df6365dd844",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3971/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Benefits of assistive dogs or pets for people on the autism spectrum.pdf\"",
+    "ETag": "\"1712794816:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 11 Apr 2024 00:20:15 GMT"
+  },
+  "sha256": "3c21b7b6f28f675708265fddf0e6200ba11c9215e73a593c1b698836fe1f09cb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3971/download?attachment="
+}

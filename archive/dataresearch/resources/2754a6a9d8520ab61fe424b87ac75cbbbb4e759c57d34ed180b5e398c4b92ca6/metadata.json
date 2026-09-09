@@ -1,0 +1,22 @@
+{
+  "bytes": 87883,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2754a6a9d8520ab61fe424b87ac75cbbbb4e759c57d34ed180b5e398c4b92ca6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4334/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Stroke data to 31 March 2025.xlsx\"",
+    "ETag": "\"1747711837:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 20 May 2025 03:30:36 GMT"
+  },
+  "sha256": "fb0a486ff1100857a75cf985bd62fb6c61c90f7d2542b77dfbff826b0b666fed",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4334/download?attachment="
+}

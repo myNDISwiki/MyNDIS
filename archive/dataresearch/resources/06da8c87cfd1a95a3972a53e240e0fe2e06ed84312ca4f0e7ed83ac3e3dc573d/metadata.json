@@ -1,0 +1,22 @@
+{
+  "bytes": 26795,
+  "content_type": "application/zip",
+  "directory": "resources/06da8c87cfd1a95a3972a53e240e0fe2e06ed84312ca4f0e7ed83ac3e3dc573d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2252/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Family and Carer Outcomes 30 June 2019 Appendix B ZIP.zip\"",
+    "ETag": "\"1635836107:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:06 GMT"
+  },
+  "sha256": "b17f572b40d55b3358f44566f91017cbfce0c6beeaba4fa70462e3295446eb7f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2252/download?attachment="
+}

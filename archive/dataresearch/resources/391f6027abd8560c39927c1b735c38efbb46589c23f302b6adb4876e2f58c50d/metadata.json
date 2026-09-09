@@ -1,0 +1,22 @@
+{
+  "bytes": 4843996,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/391f6027abd8560c39927c1b735c38efbb46589c23f302b6adb4876e2f58c50d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3708/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Achieving a sense of purpose report summary DOCX.docx\"",
+    "ETag": "\"1690944967:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:56:06 GMT"
+  },
+  "sha256": "e5334539f0423b9bcc49b64f49fb1d6cdf33b73757dc66ed0a250059bb288925",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3708/download?attachment="
+}

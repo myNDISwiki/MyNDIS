@@ -1,0 +1,22 @@
+{
+  "bytes": 2236637,
+  "content_type": "application/pdf",
+  "directory": "resources/2acb108d0e50b4920472c64048845d45e60c85ebd622f7b94f44018c4757f3d9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3576/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS198_Visual Impairment Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS198_Visual%20Impairment%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671596977:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 04:29:36 GMT"
+  },
+  "sha256": "5516092865cf09409c4b2a230443ffb8978886fab275164bbf8a04b9361df963",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3576/download?attachment="
+}

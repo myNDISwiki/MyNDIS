@@ -1,0 +1,22 @@
+{
+  "bytes": 27943,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/fe8af499b1e066d544eb5b14eb66b7fa6480d64fa5314120b379334c70fea7cb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3111/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Eyre and Western_data.xlsx\"",
+    "ETag": "\"1637276318:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:58:37 GMT"
+  },
+  "sha256": "b0add67433a6de475ffda18389f50d9e25b02424028367544134a8023384f8c7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3111/download?attachment="
+}

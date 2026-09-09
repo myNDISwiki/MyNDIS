@@ -1,0 +1,22 @@
+{
+  "bytes": 496456,
+  "content_type": "application/pdf",
+  "directory": "resources/0f6d54694657caaea86c201e0d6c52169c6b26b98709aaf7989131f1b6922878",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2120/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Analysis of participants by gender PDF.pdf\"",
+    "ETag": "\"1635836105:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:04 GMT"
+  },
+  "sha256": "2c40b52da94db91847f8f2c25bffd5096d0e83d44ff65afb3b2f65954e1624ab",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2120/download?attachment="
+}

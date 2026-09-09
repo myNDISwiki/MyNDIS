@@ -1,0 +1,22 @@
+{
+  "bytes": 7180434,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/6919d178ad772b32f37f200c699a11a4538b1dd536043b2bc6fc7aa0bba6fcbc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4484/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participant numbers and plan budgets data December 2025.csv\"",
+    "ETag": "\"1770698699:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 10 Feb 2026 04:44:58 GMT"
+  },
+  "sha256": "2ce100485b6c4da963a9708a23e69066f622f26dd546c9fa6a1bb086b2e4a94b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4484/download?attachment="
+}

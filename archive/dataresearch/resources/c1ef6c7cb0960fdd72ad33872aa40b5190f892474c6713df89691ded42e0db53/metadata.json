@@ -1,0 +1,22 @@
+{
+  "bytes": 25922,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/c1ef6c7cb0960fdd72ad33872aa40b5190f892474c6713df89691ded42e0db53",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2745/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_02_The NDIS Market Summary Dashboard_sil - transcript.docx\"",
+    "ETag": "\"1635836122:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:21 GMT"
+  },
+  "sha256": "2d868767d0ff8b377b9441617b2fb1b719e8d233e0c14c22436d1e1d06d8ef7f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2745/download?attachment="
+}

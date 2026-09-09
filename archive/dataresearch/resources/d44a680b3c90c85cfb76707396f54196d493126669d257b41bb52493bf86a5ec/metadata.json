@@ -1,0 +1,22 @@
+{
+  "bytes": 1386964,
+  "content_type": "application/pdf",
+  "directory": "resources/d44a680b3c90c85cfb76707396f54196d493126669d257b41bb52493bf86a5ec",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3666/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"8. Capital Asset Pricing Model Technical Report.pdf\"",
+    "ETag": "\"1686876262:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:44:21 GMT"
+  },
+  "sha256": "a00e2d781afc72f047604c3f3b0712e187cdfd1bbf382bcae4c9910429f27000",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3666/download?attachment="
+}

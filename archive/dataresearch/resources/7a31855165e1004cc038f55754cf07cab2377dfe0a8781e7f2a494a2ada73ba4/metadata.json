@@ -1,0 +1,21 @@
+{
+  "bytes": 13655,
+  "content_type": "image/png",
+  "directory": "resources/7a31855165e1004cc038f55754cf07cab2377dfe0a8781e7f2a494a2ada73ba4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-07/ndis_icons_light_graph-computer.png?itok=Hzq2vwQI",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"64befa50-3557\"",
+    "Last-Modified": "Mon, 24 Jul 2023 22:25:20 GMT"
+  },
+  "sha256": "bc28f385dca2df9ff68a0f1ea1cb8e503e2533ca72a4f4a16f2223e0f1dc2f7e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-07/ndis_icons_light_graph-computer.png?itok=Hzq2vwQI"
+}

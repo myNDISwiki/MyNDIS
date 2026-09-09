@@ -1,0 +1,22 @@
+{
+  "bytes": 149541,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ff2e4c51071b969f37ec1bb40ce72e072d73bc6a2a9382f6826ad05bd5827f62",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3311/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Bundaberg_data.xlsx\"",
+    "ETag": "\"1647998688:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 01:24:47 GMT"
+  },
+  "sha256": "39dc7e08d6d9912d9da6810b5bd62479d38dc98525b6d6781751a2c534df40c9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3311/download?attachment="
+}

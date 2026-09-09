@@ -1,0 +1,20 @@
+{
+  "bytes": 19556,
+  "content_type": "application/pdf",
+  "directory": "resources/03e45e2656d336c939ac86fe2f875c816e76d99050f47d6cbc4e6044ff06a413",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3981",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Participant family and carer outcomes  Vic.pdf\""
+  },
+  "sha256": "6acf5a16095762d10c0187981a28004516ef609ac6e40ab9b39d4e4397808728",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3981"
+}

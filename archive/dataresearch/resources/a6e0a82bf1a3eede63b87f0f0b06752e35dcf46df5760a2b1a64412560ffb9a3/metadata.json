@@ -1,0 +1,22 @@
+{
+  "bytes": 67712,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a6e0a82bf1a3eede63b87f0f0b06752e35dcf46df5760a2b1a64412560ffb9a3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3869/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Hearing data to 30 September 2023.xlsx\"",
+    "ETag": "\"1699932036:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 14 Nov 2023 03:20:35 GMT"
+  },
+  "sha256": "65a1a7357f1536fc37da80b2ce74656c42bb33796513741f3070d3d1f49349e4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3869/download?attachment="
+}

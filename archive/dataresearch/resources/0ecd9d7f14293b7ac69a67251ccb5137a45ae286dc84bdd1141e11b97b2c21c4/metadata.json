@@ -1,0 +1,22 @@
+{
+  "bytes": 5781005,
+  "content_type": "application/pdf",
+  "directory": "resources/0ecd9d7f14293b7ac69a67251ccb5137a45ae286dc84bdd1141e11b97b2c21c4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1942/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Summary Presentation NDIS075_UPDATEOct19_P1.pdf\"",
+    "ETag": "\"1635836092:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:51 GMT"
+  },
+  "sha256": "a31545257d03fa8bdf947cb29a3263ca6188a5c52f82dae5695b992f4d946b06",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1942/download?attachment="
+}

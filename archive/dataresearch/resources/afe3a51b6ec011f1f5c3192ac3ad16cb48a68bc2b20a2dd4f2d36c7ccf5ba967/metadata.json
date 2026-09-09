@@ -1,0 +1,22 @@
+{
+  "bytes": 925999,
+  "content_type": "application/pdf",
+  "directory": "resources/afe3a51b6ec011f1f5c3192ac3ad16cb48a68bc2b20a2dd4f2d36c7ccf5ba967",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2038/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Outer East Melbourne.pdf\"",
+    "ETag": "\"1635836102:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:01 GMT"
+  },
+  "sha256": "3ef0decdbd59886c11361232b579ebabd537f7b950f91d03ea5305139afacec5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2038/download?attachment="
+}

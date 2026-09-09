@@ -1,0 +1,22 @@
+{
+  "bytes": 377759,
+  "content_type": "application/pdf",
+  "directory": "resources/f209a1cca12eff9f15fecf8450eec03ce9788d37786a34b0c20de3f81958e708",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3697/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Participant engagement in the development of a self management policy_0.pdf\"",
+    "ETag": "\"1690944651:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:50:50 GMT"
+  },
+  "sha256": "d5bc3696244fede749be44d785a3520d892d143f973a8059e74bd58201da1cb2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3697/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 6895733,
+  "content_type": "application/pdf",
+  "directory": "resources/13790aca2ac731de74fb37e9da4c1a91226075354d14bec684309c9bdf3c7bd5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4523/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Easy Read s10s33 evaluation report PDF.pdf\"",
+    "ETag": "\"1776127954:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 14 Apr 2026 00:52:33 GMT"
+  },
+  "sha256": "8771a946d29608caaaf58f4b8c98b64321fce86c276a086544e7771691a2a4b9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4523/download?attachment="
+}

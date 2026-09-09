@@ -1,0 +1,21 @@
+{
+  "bytes": 14461,
+  "content_type": "image/png",
+  "directory": "resources/3308e8977be9fb11f8f540b3f1c36a307ac62ad3aaa0a64daff07eae77ae4b36",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-08/ndis_icons_light_people-2_people-speech_bubble_0.png?itok=dI-Dl81y",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"64ed1235-387d\"",
+    "Last-Modified": "Mon, 28 Aug 2023 21:31:33 GMT"
+  },
+  "sha256": "a51f86b1ebe7fa2e27993113fcff7feee4dead73812547ba598e1e68be0495ad",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-08/ndis_icons_light_people-2_people-speech_bubble_0.png?itok=dI-Dl81y"
+}

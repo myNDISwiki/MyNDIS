@@ -1,0 +1,22 @@
+{
+  "bytes": 2847072,
+  "content_type": "application/pdf",
+  "directory": "resources/31a88ff6aa3c2d28dc1f144106380d9030bd58c7f28b404ad157a95688b76958",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2796/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Sensory Disability Deep Dive PDF.pdf\"",
+    "ETag": "\"1635836136:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:35 GMT"
+  },
+  "sha256": "53dc548c9204a73986f9666af0c5390a34925a504efb9c9e982396fbca837ab1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2796/download?attachment="
+}

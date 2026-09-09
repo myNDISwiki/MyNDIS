@@ -1,0 +1,22 @@
+{
+  "bytes": 1559663,
+  "content_type": "application/pdf",
+  "directory": "resources/fb15405a6a7383dc2b29e35b7907290de5eac62fef42e9d8d9e5dba5abf7d226",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3418/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_LGA_The NDIS Market Summary Dashboard.pdf\"",
+    "ETag": "\"1648511153:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 28 Mar 2022 23:45:52 GMT"
+  },
+  "sha256": "cba4f42194188254f6a076ec214ff6ef1a043cb061efeb29808f27fb2e9f0ee5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3418/download?attachment="
+}

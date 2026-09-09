@@ -1,0 +1,22 @@
+{
+  "bytes": 46835,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/6392883be29b8cccac306c0b40edec6f14cb6fe3cd703cde30f19f65914033f3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2124/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"People with disability and their NDIS Goals 31 December 2019 - transcript DOCX.docx\"",
+    "ETag": "\"1635836106:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:05 GMT"
+  },
+  "sha256": "a5a23e321dbc0ed10540f6ad3289500002ce0292d554e9a315973363dd8a84f1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2124/download?attachment="
+}

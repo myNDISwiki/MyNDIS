@@ -1,0 +1,29 @@
+{
+  "bytes": 184094,
+  "content_type": "text/css",
+  "directory": "resources/7ae79c9a1f6ab4b981de34fb2de6b58ca72836c61aa8019e9a91187c82f91842",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tkmajf=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/arrows-down.svg",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/arrows-left.svg",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/arrows-right.svg",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/arrows-up.svg",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-map-waves.svg",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-participant-data.svg",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-provider-data.svg"
+  ],
+  "response_headers": {
+    "ETag": "\"69efd14c-2cf1e\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:44 GMT"
+  },
+  "sha256": "59c30068ec01d63ef762af5371fbdb0cfe88f0c5872ba4aa96622cf1ab37696c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tkmajf="
+}

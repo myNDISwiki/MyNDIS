@@ -1,0 +1,22 @@
+{
+  "bytes": 96837,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/b90d5e693c5489c6c9b02cecd9a88e4bfb84cce21cdbce7ff1d753528f99c85c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4260/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participant numbers and plan budgets data rules_0.docx\"",
+    "ETag": "\"1786685440:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 05:30:39 GMT"
+  },
+  "sha256": "f2bc85b19b827ac2a549cfeb1b893505d1f9cbaa4b750139198f0d49e5cd9b5d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4260/download?attachment="
+}

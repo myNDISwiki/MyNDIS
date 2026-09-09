@@ -1,0 +1,22 @@
+{
+  "bytes": 924433,
+  "content_type": "application/pdf",
+  "directory": "resources/411ee18c5350852fa982707470831d2f41df2be0f7c10b3caf8f4541b271f9df",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2358/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Maroochydore.pdf\"",
+    "ETag": "\"1635836116:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:15 GMT"
+  },
+  "sha256": "ebaf6d3e5dd4cdf9ddfa449b3f2b2210094ffe9509d18252a2ba0e0a80fc1528",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2358/download?attachment="
+}

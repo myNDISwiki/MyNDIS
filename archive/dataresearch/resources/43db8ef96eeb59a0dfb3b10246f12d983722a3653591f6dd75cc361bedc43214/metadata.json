@@ -1,0 +1,22 @@
+{
+  "bytes": 1566229,
+  "content_type": "application/pdf",
+  "directory": "resources/43db8ef96eeb59a0dfb3b10246f12d983722a3653591f6dd75cc361bedc43214",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3665/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"7. Ownership Costs Technical Report.pdf\"",
+    "ETag": "\"1686876234:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:43:53 GMT"
+  },
+  "sha256": "27d9d8ff3189563edcffa68fe01fecd62d93922d9375a53cf7356d88468ab9e8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3665/download?attachment="
+}

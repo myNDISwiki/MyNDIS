@@ -1,0 +1,22 @@
+{
+  "bytes": 919909,
+  "content_type": "application/pdf",
+  "directory": "resources/5bb93bf0261599d83d6f6896a436dc3a6f5f5510946c76f64a2d5555195fe9ea",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2427/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Loddon.pdf\"",
+    "ETag": "\"1635836115:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:14 GMT"
+  },
+  "sha256": "43aa42118f1c9374082747c59a455554cd5a11081de2c6f931c39492fcaee1b9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2427/download?attachment="
+}

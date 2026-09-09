@@ -1,0 +1,22 @@
+{
+  "bytes": 27946,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/08610bc152eed422996fd188c19c59f9422380943c804971b63e2c804e6c38ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3186/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Kimberley Pilbara_data.xlsx\"",
+    "ETag": "\"1637286364:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:46:03 GMT"
+  },
+  "sha256": "0110afbc6d7215515ee5aa111d23f20e68537433eba848bfe51a6705492759b8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3186/download?attachment="
+}

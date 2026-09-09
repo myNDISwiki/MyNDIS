@@ -1,0 +1,22 @@
+{
+  "bytes": 79778,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/950a2c5c81baea2dbc83e405154481d6c0c4e042338c12626aa3a18c9abc0eac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3214/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Young Adults in the NDIS_Transcript DOCX.docx\"",
+    "ETag": "\"1639966776:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 20 Dec 2021 02:19:35 GMT"
+  },
+  "sha256": "8fddd4a1c88c19d75e196bbfa11edba235fe08801853f4c5a7ce13a4126b4b9d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3214/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1981276,
+  "content_type": "application/pdf",
+  "directory": "resources/4941e4b8090e1698aeb1d89a2a5737544e04571c284ba32977578f6433f20f94",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3564/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS199_Multiple Sclerosis Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS199_Multiple%20Sclerosis%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671588644:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 02:10:43 GMT"
+  },
+  "sha256": "57385773d1999974fd1386710f04f6bb29995982816e051169c8b5416201d203",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3564/download?attachment="
+}

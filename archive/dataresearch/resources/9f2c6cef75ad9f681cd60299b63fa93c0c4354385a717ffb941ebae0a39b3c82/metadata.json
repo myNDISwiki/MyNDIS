@@ -1,0 +1,22 @@
+{
+  "bytes": 14450,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9f2c6cef75ad9f681cd60299b63fa93c0c4354385a717ffb941ebae0a39b3c82",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1630/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=ts_ndia_insight_forums_docx.docx",
+    "ETag": "\"1635836078:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:37 GMT"
+  },
+  "sha256": "57aedc0e64cb3467da0b792f18400a7d1eeec2b51ddba358d5a99e8a35a7f073",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1630/download"
+}

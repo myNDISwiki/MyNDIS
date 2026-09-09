@@ -1,0 +1,22 @@
+{
+  "bytes": 924220,
+  "content_type": "application/pdf",
+  "directory": "resources/cd5d3d7e179405644228af2100f7b623da2d93728a28178ee3eb8a4ffca0f414",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2002/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Ipswich.pdf\"",
+    "ETag": "\"1635836100:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:59 GMT"
+  },
+  "sha256": "1775df50bf40a687fb652de2544e2188fc62766d5d136117354e35372be66a4a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2002/download?attachment="
+}

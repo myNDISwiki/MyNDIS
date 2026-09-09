@@ -1,0 +1,22 @@
+{
+  "bytes": 152252,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/97a1fba1782c22256eca5e78fe69360bfd52536004d1d6bd7a2e488b789c927e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2726/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_North East Metro_data.xlsx\"",
+    "ETag": "\"1635836135:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:34 GMT"
+  },
+  "sha256": "816dd129959c23d4bdcbe4c8a98ced72e36c49ca1feb713ad4c7ca9249d00b0d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2726/download?attachment="
+}

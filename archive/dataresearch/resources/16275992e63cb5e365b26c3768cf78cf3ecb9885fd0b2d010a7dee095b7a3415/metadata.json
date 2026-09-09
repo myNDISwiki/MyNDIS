@@ -1,0 +1,22 @@
+{
+  "bytes": 383975,
+  "content_type": "application/pdf",
+  "directory": "resources/16275992e63cb5e365b26c3768cf78cf3ecb9885fd0b2d010a7dee095b7a3415",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3073/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Rockhampton.pdf\"",
+    "ETag": "\"1637200751:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:59:10 GMT"
+  },
+  "sha256": "61050dd6b8c45d34c880ccaac698c4cbc6a2f508fb8370983c451135eeb0f18a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3073/download?attachment="
+}

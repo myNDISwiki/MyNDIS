@@ -1,0 +1,21 @@
+{
+  "bytes": 15823,
+  "content_type": "image/png",
+  "directory": "resources/b8f8dd29247ac4d71612531342c43a387bd28cee5e4efc6dab0bb1f9d8b1eddd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-07/ndis_icons_light_people-2_adults_1_child_0.png?itok=THDGjfWp",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"64bf08f4-3dcf\"",
+    "Last-Modified": "Mon, 24 Jul 2023 23:27:48 GMT"
+  },
+  "sha256": "d96b6f2c062f6d55cc20c7b5a63585c84660667cf89e3a0c8d66311b170fc51f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-07/ndis_icons_light_people-2_adults_1_child_0.png?itok=THDGjfWp"
+}

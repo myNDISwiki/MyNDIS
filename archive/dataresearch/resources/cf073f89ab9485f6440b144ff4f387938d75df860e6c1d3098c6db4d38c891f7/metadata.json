@@ -1,0 +1,22 @@
+{
+  "bytes": 2592782,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/cf073f89ab9485f6440b144ff4f387938d75df860e6c1d3098c6db4d38c891f7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4148/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB AFSR 2022-23 - ER - Text-only 15dec (1).docx\"",
+    "ETag": "\"1733891551:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 04:32:30 GMT"
+  },
+  "sha256": "71f8ad5bef097d20a6ed13f45c6c2a6d1ec36d28bb6fa1016123cd27ed1eff4c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4148/download?attachment="
+}

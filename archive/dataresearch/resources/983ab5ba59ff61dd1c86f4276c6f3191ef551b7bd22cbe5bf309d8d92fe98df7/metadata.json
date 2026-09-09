@@ -1,0 +1,22 @@
+{
+  "bytes": 92875,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/983ab5ba59ff61dd1c86f4276c6f3191ef551b7bd22cbe5bf309d8d92fe98df7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4008/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Intellectual Disability to 31 March 2024.xlsx\"",
+    "ETag": "\"1716768420:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 27 May 2024 00:06:59 GMT"
+  },
+  "sha256": "6172c5085f2a5e41cf5b69bd01311d0e9c4578613c02bedb63dc820a538f4b0e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4008/download?attachment="
+}

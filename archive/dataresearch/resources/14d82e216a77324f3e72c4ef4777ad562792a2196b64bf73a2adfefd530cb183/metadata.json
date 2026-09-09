@@ -1,0 +1,22 @@
+{
+  "bytes": 366743,
+  "content_type": "application/pdf",
+  "directory": "resources/14d82e216a77324f3e72c4ef4777ad562792a2196b64bf73a2adfefd530cb183",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3091/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Adelaide Hills.pdf\"",
+    "ETag": "\"1637275053:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:37:32 GMT"
+  },
+  "sha256": "bb71cadff6c35d7a5443819b103708eedffd22a560e356249c0e6faa02c2edff",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3091/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 599013,
+  "content_type": "application/pdf",
+  "directory": "resources/99b4337cdeb6b0bd06f5823982f3fa65dd5c9c36e5e8fdc1aede554cf68f4464",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3699/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIS Research for the development of a self-management policy - Summary report.pdf\"",
+    "ETag": "\"1690944708:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:51:47 GMT"
+  },
+  "sha256": "449cf9f0504645f55dad6fdcea1bd18e34cfe9f47514e42b7884431af86a7d6a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3699/download?attachment="
+}

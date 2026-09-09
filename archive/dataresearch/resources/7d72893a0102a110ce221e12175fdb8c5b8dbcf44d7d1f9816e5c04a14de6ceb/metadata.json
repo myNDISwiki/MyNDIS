@@ -1,0 +1,22 @@
+{
+  "bytes": 1051247,
+  "content_type": "application/pdf",
+  "directory": "resources/7d72893a0102a110ce221e12175fdb8c5b8dbcf44d7d1f9816e5c04a14de6ceb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2503/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2020 summary report PDF.pdf\"",
+    "ETag": "\"1635836132:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:31 GMT"
+  },
+  "sha256": "a40faa062568b0e4df1ac7b7d3698bfae1cea5706f12800c0724695eb3c2440e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2503/download?attachment="
+}

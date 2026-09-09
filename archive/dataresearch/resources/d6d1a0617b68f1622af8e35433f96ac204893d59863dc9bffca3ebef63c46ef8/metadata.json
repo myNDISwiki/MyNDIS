@@ -1,0 +1,22 @@
+{
+  "bytes": 839509,
+  "content_type": "application/pdf",
+  "directory": "resources/d6d1a0617b68f1622af8e35433f96ac204893d59863dc9bffca3ebef63c46ef8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4150/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Insurance principles manual PDF (13) (2).pdf\"",
+    "ETag": "\"1733891633:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 04:33:52 GMT"
+  },
+  "sha256": "ef8ad9bc11eff3d1154c79495b794ab5593da95a7e40229f8ffa5553089032fb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4150/download?attachment="
+}

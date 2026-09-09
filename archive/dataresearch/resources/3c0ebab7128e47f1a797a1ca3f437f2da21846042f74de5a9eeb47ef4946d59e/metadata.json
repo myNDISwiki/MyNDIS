@@ -1,0 +1,22 @@
+{
+  "bytes": 12928205,
+  "content_type": "application/pdf",
+  "directory": "resources/3c0ebab7128e47f1a797a1ca3f437f2da21846042f74de5a9eeb47ef4946d59e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4017/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS240_Health and Wellbeing Report__+1ACC.pdf\"; filename*=utf-8''NDIS240_Health%20and%20Wellbeing%20Report_%C6%92%2B1ACC.pdf",
+    "ETag": "\"1721688085:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 22 Jul 2024 22:41:24 GMT"
+  },
+  "sha256": "b9fa05d26497c0a600db18218959624f9991aac9c0ba068788fca0940fd58e9e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4017/download?attachment="
+}

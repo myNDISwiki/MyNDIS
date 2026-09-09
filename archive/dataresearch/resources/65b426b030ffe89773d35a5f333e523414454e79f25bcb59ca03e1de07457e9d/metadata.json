@@ -1,0 +1,22 @@
+{
+  "bytes": 7342743,
+  "content_type": "application/pdf",
+  "directory": "resources/65b426b030ffe89773d35a5f333e523414454e79f25bcb59ca03e1de07457e9d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4154/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS 2022-23 AFSR 8 Dec 2023 - Upd 16 Jan 2024 - Accessible (1).pdf\"",
+    "ETag": "\"1733891867:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 04:37:46 GMT"
+  },
+  "sha256": "2a2281bcbb7f8d2819f126bdfadc23e38eb797d173ffac86fad124eafe46cd02",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4154/download?attachment="
+}

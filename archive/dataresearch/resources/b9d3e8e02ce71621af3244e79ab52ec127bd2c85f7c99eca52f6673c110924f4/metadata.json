@@ -1,0 +1,22 @@
+{
+  "bytes": 88422,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b9d3e8e02ce71621af3244e79ab52ec127bd2c85f7c99eca52f6673c110924f4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4461/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Psychosocial disability data to 30 September 2025.xlsx\"",
+    "ETag": "\"1763357499:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 17 Nov 2025 05:31:38 GMT"
+  },
+  "sha256": "7773daf51adf742430e5c7467974605ff469be016af809676153e53e5399731c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4461/download?attachment="
+}

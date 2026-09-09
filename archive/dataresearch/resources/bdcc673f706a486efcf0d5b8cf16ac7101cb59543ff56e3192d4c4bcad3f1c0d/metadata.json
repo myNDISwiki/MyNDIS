@@ -1,0 +1,22 @@
+{
+  "bytes": 935029,
+  "content_type": "application/pdf",
+  "directory": "resources/bdcc673f706a486efcf0d5b8cf16ac7101cb59543ff56e3192d4c4bcad3f1c0d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2594/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Inner East Melbourne.pdf\"",
+    "ETag": "\"1635836125:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:24 GMT"
+  },
+  "sha256": "ca6c0a8f52deb29a47d0c963bff4f0468ddd5f2522e7deba74c029f66b332c77",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2594/download?attachment="
+}

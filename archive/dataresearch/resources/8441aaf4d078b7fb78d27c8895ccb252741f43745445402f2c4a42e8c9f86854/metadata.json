@@ -1,0 +1,22 @@
+{
+  "bytes": 1480275,
+  "content_type": "application/pdf",
+  "directory": "resources/8441aaf4d078b7fb78d27c8895ccb252741f43745445402f2c4a42e8c9f86854",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3660/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2. Land Cost Technical Report.pdf\"",
+    "ETag": "\"1686875916:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:38:35 GMT"
+  },
+  "sha256": "b019953d6a651cf8952a6b315b00a3a7714855378f2ba1ecfad9e8d400322e46",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3660/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 3183622,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/33c53141f62d5a84f4d2a7237e51d1cc7d527532ce31ebd30782c41195099095",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4113/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement I Western Australia 2024-25 Q1.xlsx\"",
+    "ETag": "\"1731286684:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 11 Nov 2024 00:58:03 GMT"
+  },
+  "sha256": "f24f5dd05057eee358dcefc3b57132915379dc3f7d0335ef2c68ce0d78634401",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4113/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 2198678,
+  "content_type": "application/pdf",
+  "directory": "resources/0085a19a4f88b51ce88750d6ac971dedd963d2c7955449104d3788d0ca7082c8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3552/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS197_Down Syndrome Dashboard_Sep22_ACC__1 (1).pdf\"; filename*=utf-8''NDIS197_Down%20Syndrome%20Dashboard_Sep22_ACC_%C6%921%20%281%29.pdf",
+    "ETag": "\"1671584460:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 01:00:59 GMT"
+  },
+  "sha256": "4b7922277753d78183d45b01408a80e6e8cf93ad98c071c26532162c78d7e9e0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3552/download?attachment="
+}

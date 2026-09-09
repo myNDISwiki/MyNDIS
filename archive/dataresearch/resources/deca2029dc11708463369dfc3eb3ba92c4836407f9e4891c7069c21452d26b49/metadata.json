@@ -1,0 +1,22 @@
+{
+  "bytes": 123170,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/deca2029dc11708463369dfc3eb3ba92c4836407f9e4891c7069c21452d26b49",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3539/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS national outcomes dashboard summary to 30 June 2022.xlsx\"",
+    "ETag": "\"1669939916:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 02 Dec 2022 00:11:55 GMT"
+  },
+  "sha256": "ef9ba16d8ab6c3f9960b056632b593b3f304bb88a8a185f7ecc4ac9778e1e988",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3539/download?attachment="
+}

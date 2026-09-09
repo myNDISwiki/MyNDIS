@@ -1,0 +1,22 @@
+{
+  "bytes": 831463,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/3da5883d1dafb7d3745c3e7ca839f4d446048d463fb1afb041713c22c6123e9b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3719/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Community Summary 1 - Narrative review DOCX (1).docx\"",
+    "ETag": "\"1690945271:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 03:01:10 GMT"
+  },
+  "sha256": "ed2ba9d028899f96f1fc4316de16f5eec8a5d793b651b8944c10e4f348e977c9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3719/download?attachment="
+}

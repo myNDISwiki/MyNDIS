@@ -1,0 +1,22 @@
+{
+  "bytes": 255212,
+  "content_type": "application/pdf",
+  "directory": "resources/8793052eac8f29c0ec219d11aa3218475039b50ed880a44799080f17422d41ec",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3402/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 Guide to the NDIS Dashboards PDF.pdf\"",
+    "ETag": "\"1648083480:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 24 Mar 2022 00:57:59 GMT"
+  },
+  "sha256": "789c24e6b9e4518dd8c78b0567057dd117ef1a0d805a6b506d286b056336945c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3402/download?attachment="
+}

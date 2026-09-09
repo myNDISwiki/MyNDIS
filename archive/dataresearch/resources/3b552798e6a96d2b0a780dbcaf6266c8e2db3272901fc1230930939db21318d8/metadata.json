@@ -1,0 +1,22 @@
+{
+  "bytes": 88204,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/3b552798e6a96d2b0a780dbcaf6266c8e2db3272901fc1230930939db21318d8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4129/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Acquired brain injury data to 30 September 2024.xlsx\"",
+    "ETag": "\"1731899752:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 18 Nov 2024 03:15:51 GMT"
+  },
+  "sha256": "8849046b9bd3aba5393b1459e58d842b0947441917643dc53ef2c4d3fe2534d2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4129/download?attachment="
+}

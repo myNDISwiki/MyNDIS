@@ -1,0 +1,22 @@
+{
+  "bytes": 849615,
+  "content_type": "application/pdf",
+  "directory": "resources/ce45762027a7e9fd286dfd75f98e292c02285298095b7356216c738536baf098",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3685/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Cognitive Remediation Evidence Snapshot - November 2022 (1).pdf\"",
+    "ETag": "\"1690944255:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:44:14 GMT"
+  },
+  "sha256": "6adeb0978f4c8bfbbce5c8b00b5c541dec7470364e47e60cb0c8b0757ce1d688",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3685/download?attachment="
+}

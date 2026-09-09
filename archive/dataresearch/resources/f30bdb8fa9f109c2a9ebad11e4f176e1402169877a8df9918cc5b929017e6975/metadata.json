@@ -1,0 +1,22 @@
+{
+  "bytes": 2570417,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/f30bdb8fa9f109c2a9ebad11e4f176e1402169877a8df9918cc5b929017e6975",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1967/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Provider Sentiment and Satisfaction Survey Report DOCX.docx\"",
+    "ETag": "\"1635836121:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:20 GMT"
+  },
+  "sha256": "862b4c4089bff8be3ca8a74c1b35e4f429f8587fb363d7eebc4a290d520b2dd7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1967/download?attachment="
+}

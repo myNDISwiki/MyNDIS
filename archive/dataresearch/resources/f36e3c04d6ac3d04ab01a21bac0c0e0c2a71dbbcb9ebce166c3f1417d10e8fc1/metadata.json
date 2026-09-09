@@ -1,0 +1,22 @@
+{
+  "bytes": 917387,
+  "content_type": "application/pdf",
+  "directory": "resources/f36e3c04d6ac3d04ab01a21bac0c0e0c2a71dbbcb9ebce166c3f1417d10e8fc1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2460/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Midwest-Gascoyne.pdf\"",
+    "ETag": "\"1635836116:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:15 GMT"
+  },
+  "sha256": "c2ea076d2dc9ca5050c4eadec8870348e979175692f234df647045cad9acc174",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2460/download?attachment="
+}

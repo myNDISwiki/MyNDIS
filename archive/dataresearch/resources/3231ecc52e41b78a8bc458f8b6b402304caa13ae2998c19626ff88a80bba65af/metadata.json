@@ -1,0 +1,22 @@
+{
+  "bytes": 145934,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/3231ecc52e41b78a8bc458f8b6b402304caa13ae2998c19626ff88a80bba65af",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2081/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Eyre and Western_data.xlsx\"",
+    "ETag": "\"1635836099:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:58 GMT"
+  },
+  "sha256": "000dfa3198b7ce9d8b4fa5f61436bae25c62e017ee32d2cf3b59758afa5ea0f0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2081/download?attachment="
+}

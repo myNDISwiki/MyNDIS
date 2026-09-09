@@ -1,0 +1,22 @@
+{
+  "bytes": 37944,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/91045e9b22ee23052ca2bea13c438047a899b757a89f46e22ab42c1629acbf87",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3600/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"APB ppendix Q Supplement 2022-23 Q2.xlsx\"",
+    "ETag": "\"1683264541:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 05 May 2023 05:29:00 GMT"
+  },
+  "sha256": "e721798976cb31b42f145b339bb16a2e816ace7d924c064915ee13d22521a6b8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3600/download?attachment="
+}

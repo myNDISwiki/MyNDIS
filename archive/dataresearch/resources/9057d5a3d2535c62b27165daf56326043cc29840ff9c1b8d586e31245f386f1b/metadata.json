@@ -1,0 +1,22 @@
+{
+  "bytes": 48112,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9057d5a3d2535c62b27165daf56326043cc29840ff9c1b8d586e31245f386f1b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3811/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Other physical transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601623:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:27:02 GMT"
+  },
+  "sha256": "9fb8b67a02d24fbb2b5045c43a1aedcf8f20b481a95a25c20c8634cf949e9328",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3811/download?attachment="
+}

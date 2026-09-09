@@ -1,0 +1,20 @@
+{
+  "bytes": 13012,
+  "content_type": "application/pdf",
+  "directory": "resources/d154a0795e1b7b7a2bd050534f60f32860413cc47a3096a838a79f19b4cbb2a1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4032",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Using capacity building supports to help make individualised living a reality.pdf\""
+  },
+  "sha256": "058edeedc6cee7e087034f434290b13ab3da36c39b39e9bc2a5c1469ae8ac5a9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4032"
+}

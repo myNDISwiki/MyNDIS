@@ -1,0 +1,20 @@
+{
+  "bytes": 7072,
+  "content_type": "application/pdf",
+  "directory": "resources/4fa83b48f93c98da5c5e856030f01a27b6942cf6568549e044776de4205e065b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3925",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Datasets.pdf\""
+  },
+  "sha256": "1839a5bd5d8ce82c9caed7b3f22f5476817374cf83cc29ecee260b32852b184f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3925"
+}

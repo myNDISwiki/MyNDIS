@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/07e063347333449fbd5f95f35d875bbe85554ac85d55692e4c1dd1f9bdc5b50a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3088/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Beenleigh_data.xlsx",
+    "ETag": "\"1637200982:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:03:01 GMT"
+  },
+  "sha256": "e29577babbf4b20297faa4d509aaafaab25ab7d4a5350084260ad69d3e8b3c25",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3088/download?attachment="
+}

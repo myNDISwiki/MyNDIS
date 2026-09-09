@@ -1,0 +1,21 @@
+{
+  "bytes": 6633,
+  "content_type": "image/svg+xml",
+  "directory": "resources/2c518e9719bcc5063b054ba8b9aaaf1af38d5d4bd5a5fb971eace5c00704be96",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-ecei.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6180e0f4-19e9\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:48 GMT"
+  },
+  "sha256": "fad9cb1f43a926aa60a3fd2e9e53d9a62c67f074bf58b92a317f6418621aead7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-ecei.svg"
+}

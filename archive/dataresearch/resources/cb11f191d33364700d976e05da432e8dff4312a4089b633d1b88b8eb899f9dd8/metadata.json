@@ -1,0 +1,22 @@
+{
+  "bytes": 355435,
+  "content_type": "application/pdf",
+  "directory": "resources/cb11f191d33364700d976e05da432e8dff4312a4089b633d1b88b8eb899f9dd8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3140/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Mallee.pdf\"",
+    "ETag": "\"1637283897:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:04:56 GMT"
+  },
+  "sha256": "cc286ecf580f20742e49495ef4bbf03b0d41c2bc91b599b36e53dce706485c38",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3140/download?attachment="
+}

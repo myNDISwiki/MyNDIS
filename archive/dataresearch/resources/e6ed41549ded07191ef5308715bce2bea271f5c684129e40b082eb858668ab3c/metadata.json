@@ -1,0 +1,22 @@
+{
+  "bytes": 366359,
+  "content_type": "application/pdf",
+  "directory": "resources/e6ed41549ded07191ef5308715bce2bea271f5c684129e40b082eb858668ab3c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3097/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Limestone Coast.pdf\"",
+    "ETag": "\"1637275172:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:39:31 GMT"
+  },
+  "sha256": "12a93d9227e59139b7941a31da9117b1ed4bc12b62e3426d1107d5ff4f1ca876",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3097/download?attachment="
+}

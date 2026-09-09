@@ -1,0 +1,22 @@
+{
+  "bytes": 39760,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/4cf6671f5817a2598b12dbe566f6519ddb7291cfba82f9ac950eb2fb5c105a89",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3650/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Psychosocial disability data to 31 March 2023.xlsx\"",
+    "ETag": "\"1685319371:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 29 May 2023 00:16:10 GMT"
+  },
+  "sha256": "cfd2a2fa95bc57d8ef9bc8a7ad27abe09ac987ab7d1268a5facd21b5999d9ca9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3650/download?attachment="
+}

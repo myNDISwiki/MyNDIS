@@ -1,0 +1,22 @@
+{
+  "bytes": 1290843,
+  "content_type": "application/pdf",
+  "directory": "resources/53272661201019748b6b423d1d51b55ac6bcb8d0328ea7c90351188153282dd3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2246/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2019 Appendices A to C PDF.pdf\"",
+    "ETag": "\"1635836108:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:07 GMT"
+  },
+  "sha256": "f4036e0dbe2ea3312df77147d01973d2b67fe2e067285301e7fcfdeb0c15bbe2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2246/download?attachment="
+}

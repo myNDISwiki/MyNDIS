@@ -1,0 +1,22 @@
+{
+  "bytes": 4914317,
+  "content_type": "application/pdf",
+  "directory": "resources/b3cfd20d41425dad6898ab93e3f22d19800559f74cee49106deab02cf429cad1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4503/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Quarterly report to disability ministers Q2 2025-26 Supplement.pdf\"",
+    "ETag": "\"1773369782:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 13 Mar 2026 02:43:01 GMT"
+  },
+  "sha256": "343ba9e40c2e677ddc58cfdeb56a719bfc2384e633fc62ca9abe8580e82af829",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4503/download?attachment="
+}

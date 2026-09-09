@@ -1,0 +1,22 @@
+{
+  "bytes": 148382,
+  "content_type": "application/pdf",
+  "directory": "resources/1e52abb02d5aac6b8c9ebc73d2a01d6b8e1bb45b05fb8cb29e8d3541100571bf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4482/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary December 2025_0.pdf\"",
+    "ETag": "\"1768360104:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 14 Jan 2026 03:08:23 GMT"
+  },
+  "sha256": "f9a76c9805fbd188897e958f273101e7e9d55c0f1d31f9b61526c186af02a876",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4482/download?attachment="
+}

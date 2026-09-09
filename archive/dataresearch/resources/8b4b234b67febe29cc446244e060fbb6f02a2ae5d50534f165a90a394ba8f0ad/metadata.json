@@ -1,0 +1,21 @@
+{
+  "bytes": 11991,
+  "content_type": "image/png",
+  "directory": "resources/8b4b234b67febe29cc446244e060fbb6f02a2ae5d50534f165a90a394ba8f0ad",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-08/NDIS%20icons_light_Graph-Flowchart.png?itok=b0ZMxmJr",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"64ed1235-2ed7\"",
+    "Last-Modified": "Mon, 28 Aug 2023 21:31:33 GMT"
+  },
+  "sha256": "783390059402af5e1559f6c561a01119d2fc6b796c6efcfb4610fe068d9d9149",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-08/NDIS%20icons_light_Graph-Flowchart.png?itok=b0ZMxmJr"
+}

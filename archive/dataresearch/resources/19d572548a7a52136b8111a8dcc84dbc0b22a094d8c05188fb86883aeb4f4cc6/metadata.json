@@ -1,0 +1,22 @@
+{
+  "bytes": 3019076,
+  "content_type": "application/zip",
+  "directory": "resources/19d572548a7a52136b8111a8dcc84dbc0b22a094d8c05188fb86883aeb4f4cc6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3393/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Detailed Dashboards TAS.zip\"",
+    "ETag": "\"1648082502:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 24 Mar 2022 00:41:41 GMT"
+  },
+  "sha256": "596616262d891c18f07931cdf938e075def1214ed4dee640486104cd2f6d9963",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3393/download?attachment="
+}

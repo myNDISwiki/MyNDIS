@@ -1,0 +1,22 @@
+{
+  "bytes": 396768,
+  "content_type": "application/pdf",
+  "directory": "resources/0459c93cf1045cfd0f2e8f1849fcc467514821522d584382220f1686ad9a33a3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3131/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Barwon.pdf\"",
+    "ETag": "\"1637282993:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 00:49:52 GMT"
+  },
+  "sha256": "212f361ce0ec744a7ad0368c1447712c51f01ea6b7308b18b333711dbcecafbb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3131/download?attachment="
+}

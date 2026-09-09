@@ -1,0 +1,22 @@
+{
+  "bytes": 148496,
+  "content_type": "application/pdf",
+  "directory": "resources/8af3d942476aff4a91f109cddbc5b7cd737e5b8fbd869d0da4e3343e88ead0dc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4414/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics October 2025.pdf\"",
+    "ETag": "\"1763329346:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 16 Nov 2025 21:42:25 GMT"
+  },
+  "sha256": "bcf298134bbb4e3b51ab00b266628f6d3f81a7d71b21689994fafb20eb8085ff",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4414/download?attachment="
+}

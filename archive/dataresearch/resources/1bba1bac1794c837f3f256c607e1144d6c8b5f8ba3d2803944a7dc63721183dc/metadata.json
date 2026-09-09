@@ -1,0 +1,22 @@
+{
+  "bytes": 13620759,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/1bba1bac1794c837f3f256c607e1144d6c8b5f8ba3d2803944a7dc63721183dc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4478/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Payments data December 2024.csv\"",
+    "ETag": "\"1766363538:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 22 Dec 2025 00:32:17 GMT"
+  },
+  "sha256": "681a6fb18517fa4aef77db697257edb31f38bab5c4c3f7718ac8d32f5d8e4165",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4478/download?attachment="
+}

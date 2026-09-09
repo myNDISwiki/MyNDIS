@@ -1,0 +1,22 @@
+{
+  "bytes": 378458,
+  "content_type": "application/pdf",
+  "directory": "resources/de91ac6990082f5f9b174eb8afd6e0f7cb4588ed00503db2b43d2ff6739ec567",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3064/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Brisbane.pdf\"",
+    "ETag": "\"1637200631:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:57:10 GMT"
+  },
+  "sha256": "2a1bc141a12211eb3b88377415f39ac62e8b59fa5ab81621ca62245e1f3a4710",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3064/download?attachment="
+}

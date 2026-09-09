@@ -1,0 +1,22 @@
+{
+  "bytes": 319088,
+  "content_type": "application/pdf",
+  "directory": "resources/494db47e1854b4efb29b543f291d67f26d3133cf94a2734520cb29fb4fdc08b6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3048/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Darwin Remote.pdf\"",
+    "ETag": "\"1637198368:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:19:27 GMT"
+  },
+  "sha256": "315d62e2c20e5faef009103fceb8c8f1449c75da18f7bf4bed90e0c6217462a0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3048/download?attachment="
+}

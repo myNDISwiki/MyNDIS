@@ -1,0 +1,22 @@
+{
+  "bytes": 876776,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/79eeb13fea08a32065cf73c60137846f760385821fa32c73b8f143e47495c31a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3580/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS AFSR Summary 31 Dec 2020_FINAL_20210702.docx\"",
+    "ETag": "\"1671660129:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 22:02:08 GMT"
+  },
+  "sha256": "446c0547da278a92ce4d2c4deae42a910def7be6e2256d567107ae98515eabd1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3580/download?attachment="
+}

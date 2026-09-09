@@ -1,0 +1,22 @@
+{
+  "bytes": 1049071,
+  "content_type": "application/pdf",
+  "directory": "resources/c44ce21b97ac55e3372f05b6e68e58d66abcb77d0a967ccf4540d875d4e107ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1564/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Outcomes ASD PDF.pdf\"",
+    "ETag": "\"1635836107:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:06 GMT"
+  },
+  "sha256": "636aeb607c853295c11092c4aec24760957c7853574f742e36a9b02794bf03ba",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1564/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27937,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5ff7fe207be4029c5eadf9f05afa79f32393c65f182efc13e8bbc41d12b38de5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3084/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Cairns_data.xlsx",
+    "ETag": "\"1637200922:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:02:01 GMT"
+  },
+  "sha256": "642d3986f8006e5dd11312274dd33b1701aac5ec96bfbc74452090fd40accc2b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3084/download?attachment="
+}

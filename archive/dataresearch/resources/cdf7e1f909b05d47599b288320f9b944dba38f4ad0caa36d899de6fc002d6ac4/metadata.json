@@ -1,0 +1,22 @@
+{
+  "bytes": 1941814,
+  "content_type": "application/pdf",
+  "directory": "resources/cdf7e1f909b05d47599b288320f9b944dba38f4ad0caa36d899de6fc002d6ac4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3821/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Global developmental delay dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602307:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:38:26 GMT"
+  },
+  "sha256": "91397b82863e7505a3f4eb6abe1fc77e7575226eb29eb4c486884ba33c234b56",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3821/download?attachment="
+}

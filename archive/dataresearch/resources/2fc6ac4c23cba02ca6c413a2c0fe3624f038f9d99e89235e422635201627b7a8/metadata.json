@@ -1,0 +1,22 @@
+{
+  "bytes": 13713,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/2fc6ac4c23cba02ca6c413a2c0fe3624f038f9d99e89235e422635201627b7a8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1876/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes Appendix A_2 SF.csv\"",
+    "ETag": "\"1635836091:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:50 GMT"
+  },
+  "sha256": "51fef7143f91e3ef5a5780ed3b9f8216c373f7139b6346f802044ccca30c3fea",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1876/download?attachment="
+}

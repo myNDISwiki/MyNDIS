@@ -1,0 +1,22 @@
+{
+  "bytes": 520983,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/c520239f4f6e68ee95ef3f68307bda54fc3bb9a7f6afee0f7f1e3009f8d37e75",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4192/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS participant outcomes executive summary report to 30 June 2024 transcript.docx\"",
+    "ETag": "\"1733970215:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Dec 2024 02:23:34 GMT"
+  },
+  "sha256": "bf3b3e12beb0654d605a37d32f2dbfd2496b47035fbceaeab346981329434d78",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4192/download?attachment="
+}

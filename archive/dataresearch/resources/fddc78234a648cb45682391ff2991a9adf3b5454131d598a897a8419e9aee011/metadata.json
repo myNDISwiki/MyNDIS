@@ -1,0 +1,22 @@
+{
+  "bytes": 862908,
+  "content_type": "application/pdf",
+  "directory": "resources/fddc78234a648cb45682391ff2991a9adf3b5454131d598a897a8419e9aee011",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3662/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"4. Sprinkler Cost Technical Report.pdf\"",
+    "ETag": "\"1686876075:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:41:14 GMT"
+  },
+  "sha256": "5a8197a63b9fdb75d63b786f91c34833cf29cf71b4b63d4e8dad13a88667e95f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3662/download?attachment="
+}

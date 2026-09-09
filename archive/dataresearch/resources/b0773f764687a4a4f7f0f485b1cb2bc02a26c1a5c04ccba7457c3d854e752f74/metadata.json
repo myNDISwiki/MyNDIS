@@ -1,0 +1,22 @@
+{
+  "bytes": 304587,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/b0773f764687a4a4f7f0f485b1cb2bc02a26c1a5c04ccba7457c3d854e752f74",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3792/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Webinar Q+A Employment Research .docx\"",
+    "ETag": "\"1694398730:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 11 Sep 2023 02:18:49 GMT"
+  },
+  "sha256": "74b25d366f0847dcb4cc011cde4bd8b0a25dfb761d2d5b9031121c7b6ab00790",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3792/download?attachment="
+}

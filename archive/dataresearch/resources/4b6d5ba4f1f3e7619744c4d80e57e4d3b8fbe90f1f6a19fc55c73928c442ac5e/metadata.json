@@ -1,0 +1,22 @@
+{
+  "bytes": 286943,
+  "content_type": "application/pdf",
+  "directory": "resources/4b6d5ba4f1f3e7619744c4d80e57e4d3b8fbe90f1f6a19fc55c73928c442ac5e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3481/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2016-17 Peer Review.pdf\"",
+    "ETag": "\"1667367731:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Nov 2022 05:42:10 GMT"
+  },
+  "sha256": "187b25ded0d90e3b8fc4a208a7ee6af002d5a37c9f2022c4a32381cf21ec0a8e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3481/download?attachment="
+}

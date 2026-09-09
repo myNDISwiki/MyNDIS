@@ -1,0 +1,22 @@
+{
+  "bytes": 2098737,
+  "content_type": "application/pdf",
+  "directory": "resources/9aabddf1ed66ba2476175b74c07441eb0459ff5d74cc0a398012998b23685dcb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3573/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS200_Stroke Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS200_Stroke%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671596661:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 04:24:20 GMT"
+  },
+  "sha256": "0054ed61b3a0221a53af50dffc67192c8550b63665077f7ba006000b6a98f4f2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3573/download?attachment="
+}

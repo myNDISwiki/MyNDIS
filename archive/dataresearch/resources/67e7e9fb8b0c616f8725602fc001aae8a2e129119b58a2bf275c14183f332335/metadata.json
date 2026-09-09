@@ -1,0 +1,22 @@
+{
+  "bytes": 382774,
+  "content_type": "application/pdf",
+  "directory": "resources/67e7e9fb8b0c616f8725602fc001aae8a2e129119b58a2bf275c14183f332335",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3093/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Eastern Adelaide.pdf\"",
+    "ETag": "\"1637275091:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:38:10 GMT"
+  },
+  "sha256": "012575c886f14f8940126e7c7855a625b7e24949f18e2689b0853919017ff5eb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3093/download?attachment="
+}

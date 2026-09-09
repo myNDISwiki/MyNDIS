@@ -1,0 +1,22 @@
+{
+  "bytes": 1576058,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/21c819921f3cad655ef073d572055b3dfe9c6e46e23cf6942d73abb26c4f1ed3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4112/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement H Queensland 2024-25 Q1.xlsx\"",
+    "ETag": "\"1731286647:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 11 Nov 2024 00:57:26 GMT"
+  },
+  "sha256": "c387349de6e3996bb2c220e672d7ffde90c92996f03c2dd5538cda973635055a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4112/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 52733,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/ff0837cb53f587dc85f3877180fda6f9d076904ed84a7a4deb974789aff33242",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4122/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"From ADEs to open employment summary.docx\"",
+    "ETag": "\"1731555857:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 14 Nov 2024 03:44:16 GMT"
+  },
+  "sha256": "e3d650f0f032d5af7d96de95c1b90a94432297a9e90d0a655cae59200beec1d6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4122/download?attachment="
+}

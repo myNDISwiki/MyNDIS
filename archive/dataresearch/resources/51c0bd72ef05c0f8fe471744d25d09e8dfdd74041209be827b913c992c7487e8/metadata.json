@@ -1,0 +1,22 @@
+{
+  "bytes": 329132,
+  "content_type": "application/pdf",
+  "directory": "resources/51c0bd72ef05c0f8fe471744d25d09e8dfdd74041209be827b913c992c7487e8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3172/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Midwest Gascoyne.pdf\"",
+    "ETag": "\"1637286144:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:42:23 GMT"
+  },
+  "sha256": "b1ae1835cb3907fe2db9e6412d3d4a95595c1b6e4c504f5674623a440e73cf64",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3172/download?attachment="
+}

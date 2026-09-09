@@ -1,0 +1,20 @@
+{
+  "bytes": 3815,
+  "content_type": "application/pdf",
+  "directory": "resources/9e1c5c7b23b38139cc686eebb30f4613cb5691cadffda07203527b556d53cfa0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3970",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"COVID19 impact on participant and familycarer outcomes 30 June 2020.pdf\""
+  },
+  "sha256": "0a741ca257b14e5548e349854672e0535d8c43fb6667822b34513bae4bf2df07",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3970"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 175711,
+  "content_type": "application/pdf",
+  "directory": "resources/9d6de8556b50317ed0e90dd6df8099082fd4602bb7499821f513cbb4aa52c35f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3963/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Community Research report 3 .pdf\"",
+    "ETag": "\"1712113838:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 03 Apr 2024 03:10:37 GMT"
+  },
+  "sha256": "95e76bcc5363159a67879b8cea5789ab75ee9221c27621d3960a4b93ae6a553b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3963/download?attachment="
+}

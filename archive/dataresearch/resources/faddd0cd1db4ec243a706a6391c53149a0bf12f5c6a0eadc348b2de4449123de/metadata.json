@@ -1,0 +1,22 @@
+{
+  "bytes": 151981,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/faddd0cd1db4ec243a706a6391c53149a0bf12f5c6a0eadc348b2de4449123de",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2327/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Murrumbidgee_data.xlsx\"",
+    "ETag": "\"1635836116:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:15 GMT"
+  },
+  "sha256": "7e09ec04fd593e3289cff242ad8f8e42380d55b0ecddb9b0abbdf73ad6924421",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2327/download?attachment="
+}

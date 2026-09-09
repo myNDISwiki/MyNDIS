@@ -1,0 +1,22 @@
+{
+  "bytes": 367763,
+  "content_type": "application/pdf",
+  "directory": "resources/28bc41ada0dbe41e11f0e7a9f130369ac49cbd764f4fb2abc7f6692e81eca820",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3102/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Yorke and Mid North.pdf\"",
+    "ETag": "\"1637275250:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:40:49 GMT"
+  },
+  "sha256": "ea83564f1bf499759a71cddb970bff3184374838eea51e85419d05692821cf86",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3102/download?attachment="
+}

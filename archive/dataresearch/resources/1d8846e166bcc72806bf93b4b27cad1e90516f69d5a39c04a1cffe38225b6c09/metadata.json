@@ -1,0 +1,22 @@
+{
+  "bytes": 46909,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/1d8846e166bcc72806bf93b4b27cad1e90516f69d5a39c04a1cffe38225b6c09",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3808/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Intellectual disability transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601543:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:25:42 GMT"
+  },
+  "sha256": "b1fadb3b29d8f3ed2607e2b42479d49f260a10ee2f3c543cbd0c7edb5bcd3aa3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3808/download?attachment="
+}

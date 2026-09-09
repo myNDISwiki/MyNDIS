@@ -1,0 +1,22 @@
+{
+  "bytes": 150937,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ad6d2853d327a2a49ddd8761281c3b0729ca9b718ad54723d6bd1e5ab7058f33",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2326/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Mid North Coast_data.xlsx\"",
+    "ETag": "\"1635836116:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:15 GMT"
+  },
+  "sha256": "5379e877aa8074fdc92b18fea5a72450d8e05becabcd27f660f8d4eb97e45306",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2326/download?attachment="
+}

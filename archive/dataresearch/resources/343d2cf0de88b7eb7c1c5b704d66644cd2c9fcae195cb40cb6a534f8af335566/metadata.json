@@ -1,0 +1,22 @@
+{
+  "bytes": 1142167,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/343d2cf0de88b7eb7c1c5b704d66644cd2c9fcae195cb40cb6a534f8af335566",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4468/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIS June 2024 FSR Peer Review.docx\"",
+    "ETag": "\"1764543945:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 30 Nov 2025 23:05:44 GMT"
+  },
+  "sha256": "13f5e6ed730f07785b9b397ad7af9c6c49c3c8c06ae78a218b7aaad553a1a23f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4468/download?attachment="
+}

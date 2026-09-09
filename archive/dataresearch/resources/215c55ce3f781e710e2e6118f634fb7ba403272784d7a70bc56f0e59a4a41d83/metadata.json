@@ -1,0 +1,22 @@
+{
+  "bytes": 146930,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/215c55ce3f781e710e2e6118f634fb7ba403272784d7a70bc56f0e59a4a41d83",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2085/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Murray and Mallee_data.xlsx\"",
+    "ETag": "\"1635836101:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:00 GMT"
+  },
+  "sha256": "c7a2de151cdf2c8dd1f3dd686c65011bafbaaebc1c2822ff9c8fe5cea45d1b19",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2085/download?attachment="
+}

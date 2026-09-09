@@ -1,0 +1,22 @@
+{
+  "bytes": 922160,
+  "content_type": "application/pdf",
+  "directory": "resources/51ca5c545b2a634320b9a3fadd91242e7d0093ba01f0ff59e7af15202e595126",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2011/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Barossa, Light and Lower North.pdf\"",
+    "ETag": "\"1635836098:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:57 GMT"
+  },
+  "sha256": "63b4cb59c8cd4436ae50eb92992b01b0b09da2cf46fdb6babc6df43035737bb4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2011/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 3393,
+  "content_type": "application/pdf",
+  "directory": "resources/5fa0632f64f8ffe49c7fe0c61a5bc54946ae0c5be8452ee6f960e414bbc320b7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4062",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Gender.pdf\""
+  },
+  "sha256": "7ea6b18e70d5526e59e0dd6d321b09332528d5da4be9c10f628148d660ce5ffa",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4062"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 189767,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/287e4831016570bec9a7553fbba96872a9f2fd602afd99f03a50ba82bea61e68",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3889/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Terms and conditions for the provision of aggregated or summary data for the purposes of research (DOCX 185KB).docx\"",
+    "ETag": "\"1701748543:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 05 Dec 2023 03:55:42 GMT"
+  },
+  "sha256": "32b5d480d7d7a12d4de1430e63c6812baadbdb232675feeeaaeb5ad10d3fb6e5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3889/download?attachment="
+}

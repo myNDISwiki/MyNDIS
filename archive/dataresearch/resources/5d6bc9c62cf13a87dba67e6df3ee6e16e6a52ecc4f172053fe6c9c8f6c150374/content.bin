@@ -1,0 +1,185 @@
+Service district,Phase in date, Active participants with approved plans ,Active providers,Participants per provider,Provider concentration,"Provider 
+growth",Provider shrinkage, Total plan budgets ($m) , Average plan budget ($) , Total payments ($m) ,Average payments ($),Utilisation,Outcomes indicator on choice and control,Has the NDIS helped with choice and control?
+,,  ,,,,,,  ,  ,  ,,,,
+New South Wales,,  ,,,,,,  ,  ,  ,,,,
+Central Coast,1/07/2016,"7,570",717,10.6,52%,6%,18%,172.8,"22,833",117.5,"15,515",68%,60%,77%
+Far West,1/07/2017,589,95,6.2,79%,11%,16%,18.8,"31,951",10.7,"18,092",57%,52%,78%
+Hunter New England,1/07/2013,"22,451","1,321",17,29%,8%,20%,562.1,"25,035",363.2,"16,177",65%,64%,73%
+Illawarra Shoalhaven,1/07/2017,"7,795",528,14.8,51%,12%,21%,225.1,"28,877",152.8,"19,600",68%,62%,73%
+Mid North Coast,1/07/2017,"5,510",304,18.1,72%,11%,20%,158,"28,684",105.7,"19,192",67%,61%,78%
+Murrumbidgee,1/07/2017,"5,859",397,14.8,56%,11%,22%,145,"24,756",94.1,"16,054",65%,56%,73%
+Nepean Blue Mountains,1/07/2015,"7,751",881,8.8,39%,11%,24%,189.4,"24,437",123,"15,870",65%,61%,72%
+North Sydney,1/07/2016,"8,922",844,10.6,48%,10%,18%,257.3,"28,840",176.2,"19,750",68%,53%,74%
+Northern NSW,1/07/2017,"6,337",362,17.5,60%,11%,22%,185.9,"29,330",130,"20,508",70%,55%,75%
+South Eastern Sydney,1/07/2017,"8,728",931,9.4,47%,12%,20%,239.9,"27,486",171.4,"19,636",71%,49%,74%
+South Western Sydney,1/07/2016,"18,053","1,684",10.7,26%,15%,16%,461.1,"25,541",346,"19,167",75%,47%,64%
+Southern NSW,1/07/2016,"3,850",335,11.5,59%,9%,26%,96.5,"25,059",62.1,"16,128",64%,61%,79%
+Sydney,1/07/2017,"7,304","1,082",6.8,44%,13%,22%,212.9,"29,154",150.2,"20,557",71%,50%,75%
+Western NSW,1/07/2017,"5,345",463,11.5,51%,8%,26%,144,"26,943",81.6,"15,271",57%,55%,66%
+Western Sydney,1/07/2016,"14,989","1,531",9.8,31%,14%,16%,384.4,"25,645",278,"18,550",72%,52%,70%
+New South Wales average,,"8,737",765,11.4,50%,11%,21%,230.2,"26,971",157.5,"18,005",67%,56%,73%
+New South Wales total,,"131,062","4,198",31.2,27%,10%,19%,"3,453.70","26,352","2,362.60","18,027",68%,55%,72%
+,,  ,,,,,,  ,  ,  ,,,,
+Victoria,,  ,,,,,,  ,  ,  ,,,,
+Barwon,1/07/2013,"8,506",589,14.4,67%,8%,31%,213.1,"25,048",134.6,"15,821",63%,67%,68%
+Bayside Peninsula,1/04/2018,"13,568",798,17,66%,10%,20%,408.5,"30,109",254.7,"18,774",62%,58%,72%
+Brimbank Melton,1/10/2018,"7,160",670,10.7,51%,13%,15%,175.2,"24,468",109.7,"15,315",63%,51%,66%
+Central Highlands,1/01/2017,"4,575",440,10.4,66%,5%,19%,100.1,"21,878",60.7,"13,272",61%,59%,70%
+Goulburn,1/01/2019,"3,496",329,10.6,67%,7%,26%,84.6,"24,207",48.1,"13,771",57%,59%,72%
+Hume Moreland,1/03/2018,"7,910",920,8.6,42%,11%,19%,196.3,"24,810",130.6,"16,516",67%,58%,69%
+Inner East Melbourne,1/11/2017,"8,112",748,10.8,63%,8%,21%,240.4,"29,634",151.1,"18,628",63%,52%,73%
+Inner Gippsland,1/10/2017,"4,498",291,15.5,72%,13%,13%,116.4,"25,872",70.7,"15,720",61%,65%,74%
+Loddon,1/05/2017,"6,169",486,12.7,51%,11%,21%,133.5,"21,633",80.5,"13,052",60%,60%,69%
+Mallee,1/01/2019,"1,887",116,16.3,85%,11%,24%,50.5,"26,765",27.5,"14,561",54%,58%,70%
+North East Melbourne,1/07/2016,"10,944","1,027",10.7,41%,10%,20%,273.8,"25,015",173.1,"15,819",63%,58%,70%
+Outer East Melbourne,1/11/2017,"8,483",588,14.4,67%,12%,22%,236.8,"27,914",146.8,"17,300",62%,55%,68%
+Outer Gippsland,1/01/2019,"2,024",150,13.5,80%,9%,16%,57.7,"28,494",33.5,"16,544",58%,63%,71%
+Ovens Murray,1/10/2017,"3,013",266,11.3,64%,12%,19%,67.8,"22,515",41.3,"13,692",61%,56%,72%
+Southern Melbourne,1/09/2018,"10,677",740,14.4,61%,12%,25%,283.7,"26,571",182.5,"17,093",64%,51%,69%
+Western District,1/10/2017,"3,311",211,15.7,80%,8%,18%,75.8,"22,881",45.2,"13,666",60%,57%,74%
+Western Melbourne,1/10/2018,"10,285",875,11.8,51%,14%,22%,267.6,"26,017",164.7,"16,015",62%,53%,66%
+Victoria average,,"6,742",544,12.4,63%,10%,21%,175.4,"25,519",109.1,"15,621",61%,58%,70%
+Victoria total,,"114,623","2,781",41.2,47%,9%,23%,"2,981.80","26,014","1,855.50","16,188",62%,57%,70%
+,,  ,,,,,,  ,  ,  ,,,,
+Queensland,,  ,,,,,,  ,  ,  ,,,,
+Beenleigh,1/07/2018,"8,442",826,10.2,44%,12%,20%,244,"28,900",168,"19,898",69%,54%,82%
+Brisbane,1/07/2018,"15,548","1,190",13.1,40%,12%,21%,493.6,"31,746",337.1,"21,678",68%,56%,80%
+Bundaberg,1/10/2017,"2,522",214,11.8,76%,13%,20%,65.3,"25,901",44.2,"17,541",68%,57%,80%
+Caboolture/Strathpine,1/01/2019,"8,732",769,11.4,47%,9%,24%,263.8,"30,215",172.3,"19,734",65%,54%,75%
+Cairns,1/07/2018,"4,020",290,13.9,65%,13%,18%,131.5,"32,703",84.2,"20,934",64%,58%,75%
+Ipswich,1/07/2017,"6,897",877,7.9,39%,9%,18%,178.4,"25,860",114.1,"16,549",64%,60%,75%
+Mackay,1/11/2016,"2,872",232,12.4,62%,9%,27%,73.3,"25,531",47.9,"16,677",65%,62%,77%
+Maroochydore,1/01/2019,"7,328",574,12.8,55%,9%,21%,230.6,"31,462",157.2,"21,445",68%,57%,84%
+Maryborough,1/07/2018,"3,478",328,10.6,72%,12%,24%,108.8,"31,291",70.8,"20,358",65%,57%,80%
+Robina,1/07/2018,"8,529",645,13.2,48%,10%,21%,226.3,"26,528",159.2,"18,664",70%,54%,77%
+Rockhampton,1/01/2018,"4,667",342,13.6,61%,9%,20%,116.3,"24,921",66.9,"14,334",58%,61%,78%
+Toowoomba,1/01/2017,"5,393",539,10,48%,7%,25%,153.4,"28,435",98.5,"18,270",64%,65%,80%
+Townsville,1/04/2016,"5,239",424,12.4,49%,5%,22%,144.6,"27,603",93.4,"17,822",65%,62%,76%
+Queensland average,,"6,436",558,11.8,54%,10%,22%,186.9,"28,546",124.1,"18,762",66%,58%,78%
+Queensland total,,"83,667","2,755",30.4,34%,8%,25%,"2,429.80","29,041","1,613.70","19,287",66%,57%,79%
+,,  ,,,,,,  ,  ,  ,,,,
+South Australia*,,  ,,,,,,  ,  ,  ,,,,
+Adelaide Hills,1/07/2013,"1,432",145,9.9,75%,12%,17%,30.8,"21,539",19.4,"13,536",63%,59%,64%
+"Barossa, Light and Lower North",1/07/2013,"1,846",230,8,65%,9%,23%,38.8,"20,993",24.9,"13,473",64%,62%,70%
+Eastern Adelaide,1/07/2013,"3,139",332,9.5,64%,9%,28%,86.7,"27,608",55,"17,523",63%,65%,75%
+Eyre and Western,1/07/2013,"1,191",105,11.3,87%,3%,16%,36.4,"30,561",18.2,"15,291",50%,65%,64%
+Far North (SA),1/07/2013,480,75,6.4,88%,22%,22%,14.1,"29,341",6.6,"13,695",47%,50%,49%
+Fleurieu and Kangaroo Island,1/07/2013,"1,010",122,8.3,82%,18%,15%,28.2,"27,873",17.9,"17,726",64%,66%,77%
+Limestone Coast,1/07/2013,"1,242",114,10.9,84%,8%,16%,29.6,"23,812",16,"12,868",54%,66%,61%
+Murray and Mallee,1/07/2013,"1,553",172,9,72%,6%,18%,35.9,"23,146",18.8,"12,110",52%,67%,75%
+Northern Adelaide,1/07/2013,"12,494",609,20.5,57%,8%,23%,281,"22,494",180.8,"14,470",64%,62%,69%
+Southern Adelaide,1/07/2013,"7,950",454,17.5,67%,10%,27%,202.4,"25,456",126.3,"15,886",62%,63%,68%
+Western Adelaide,1/07/2013,"3,321",377,8.8,62%,7%,24%,90.7,"27,322",59.4,"17,893",65%,62%,73%
+Yorke and Mid North,1/07/2013,"1,529",162,9.4,72%,9%,26%,37.8,"24,690",21.6,"14,128",57%,64%,71%
+South Australia average,,"3,099",241,10.8,73%,10%,21%,76,"25,403",47.1,"14,883",59%,63%,68%
+South Australia total,,"37,187",949,39.2,54%,7%,26%,912.3,"24,533",564.8,"15,189",62%,63%,70%
+,,  ,,,,,,  ,  ,  ,,,,
+Tasmania*,,  ,,,,,,  ,  ,  ,,,,
+TAS North,1/07/2013,"2,708",213,12.7,70%,15%,22%,76,"28,071",47.7,"17,620",63%,62%,67%
+TAS North West,1/07/2013,"2,201",240,9.2,60%,16%,20%,55,"24,980",33.9,"15,421",62%,63%,76%
+TAS South East,1/07/2013,"2,066",249,8.3,52%,12%,18%,48.8,"23,643",30.9,"14,962",63%,53%,67%
+TAS South West,1/07/2013,"2,384",262,9.1,50%,12%,22%,65,"27,277",41.6,"17,467",64%,65%,72%
+Tasmania average,,"2,340",241,9.8,58%,14%,21%,61.2,"25,993",38.6,"16,368",63%,60%,70%
+Tasmania total,,"9,359",520,18,48%,11%,23%,244.9,"26,165",154.2,"16,477",63%,61%,71%
+,,  ,,,,,,  ,  ,  ,,,,
+Australian Capital Territory,,  ,,,,,,  ,  ,  ,,,,
+ACT,1/07/2014,"7,918",421,18.8,69%,11%,25%,188.5,"23,806",128,"16,168",68%,67%,76%
+Australian Capital Territory average,,"7,918",421,18.8,69%,11%,25%,188.5,"23,806",128,"16,168",68%,67%,76%
+Australian Capital Territory total,,"7,918",421,18.8,69%,11%,25%,188.5,"23,806",128,"16,168",68%,67%,76%
+,,  ,,,,,,  ,  ,  ,,,,
+Northern Territory,,  ,,,,,,  ,  ,  ,,,,
+Barkly,1/07/2014,148,45,3.3,75%,12%,29%,4.5,"30,152",2.2,"15,071",50%,75%,67%
+Central Australia,1/07/2017,538,100,5.4,74%,14%,16%,32.1,"59,593",19.7,"36,561",61%,46%,68%
+Darwin Remote,1/07/2017,366,65,5.6,79%,19%,23%,16.7,"45,640",7.7,"20,962",46%,38%,37%
+Darwin Urban,1/01/2017,"2,105",188,11.2,68%,9%,18%,75.7,"35,948",48,"22,801",63%,53%,75%
+East Arnhem,1/01/2017,187,42,4.5,87%,12%,18%,11.2,"60,019",5.2,"27,948",47%,47%,37%
+Katherine,1/07/2017,164,62,2.6,75%,4%,25%,8,"48,954",4.6,"28,127",57%,39%,83%
+Northern Territory average,,585,84,5.4,77%,12%,21%,24.7,"46,718",14.6,"25,245",54%,50%,61%
+Northern Territory total,,"3,599",282,12.8,55%,7%,18%,152.3,"42,313",89.7,"24,934",59%,48%,64%
+,,  ,,,,,,  ,  ,  ,,,,
+Western Australia,,  ,,,,,,  ,  ,  ,,,,
+Central North Metro,1/07/2019,"3,979",505,7.9,46%,17%,14%,135.4,"34,035",87.3,"21,950",64%,48%,71%
+Central South Metro,1/07/2018,"4,647",510,9.1,42%,15%,15%,127.6,"27,458",83.5,"17,966",65%,60%,77%
+Goldfields-Esperance,1/10/2018,580,82,7.1,87%,21%,25%,18.4,"31,640",9.6,"16,629",53%,49%,51%
+Great Southern,1/07/2019,867,95,9.1,86%,16%,8%,24.8,"28,648",14.6,"16,809",59%,54%,68%
+Kimberley-Pilbara,1/10/2018,"1,170",143,8.2,75%,15%,22%,40.2,"34,326",18.4,"15,739",46%,56%,62%
+Midwest-Gascoyne,1/07/2019,790,80,9.9,89%,17%,11%,19.1,"24,200",9.9,"12,521",52%,54%,59%
+North East Metro,1/07/2014,"5,706",608,9.4,38%,13%,17%,150.1,"26,305",98.2,"17,207",65%,60%,73%
+North Metro,1/10/2018,"4,797",499,9.6,45%,14%,18%,130.5,"27,209",81.2,"16,935",62%,52%,70%
+South East Metro,1/07/2019,"3,849",538,7.2,39%,19%,11%,110.3,"28,657",70.6,"18,335",64%,54%,79%
+South Metro,1/07/2018,"5,693",595,9.6,35%,16%,21%,146.5,"25,727",94.9,"16,674",65%,62%,76%
+South West,1/09/2018,"3,146",275,11.4,71%,20%,15%,81.5,"25,890",54.1,"17,211",66%,59%,70%
+Wheat Belt,1/01/2017,916,194,4.7,63%,21%,17%,22.3,"24,368",11.1,"12,138",50%,49%,61%
+Western Australia average,,"3,012",344,8.6,60%,17%,16%,83.9,"28,205",52.8,"16,676",59%,55%,68%
+Western Australia total,,"36,140","1,121",32.2,38%,16%,14%,"1,006.60","27,854",633.5,"17,530",63%,56%,73%
+,,  ,,,,,,  ,  ,  ,,,,
+Missing,, -   ,0,,,,, -   ,  , -   ,,,,
+,,  ,,,,,,  ,  ,  ,,,,
+National average,,"5,293",461,10.9,61%,12%,20%,142.1,"28,261",92.5,"17,392",62%,57%,71%
+National total,,"423,653","9,491",44.6,27%,9%,22%,"11,373.20","26,846","7,403.70","17,476",65%,57%,73%
+,,  ,,,,,,  ,  ,  ,,,,
+"* For these states, only certain age groups phased into the Scheme on 1 July 2013 (i.e. participants from birth to 14 years old in South Australia and participants aged 15 to 24 years old in Tasmania).",,  ,,,,,,  ,  ,  ,,,,
+,,  ,,,,,,  ,  ,  ,,,,
+,,  ,,,,,,  ,  ,  ,,,,
+,,  ,,,,,,  ,  ,  ,,,,
+,, National ,,,,,,  ,  ,  ,,,,
+,,  ,,,,,,  ,  ,  ,,,,
+Support category,, Active participants with approved plans ,Active providers,Participants per provider,Provider concentration,"Provider 
+growth",Provider shrinkage, Total plan budgets ($m) , Average plan budget ($) , Total payments ($m) ,Average payments ($),Utilisation,Outcomes indicator on choice and control,Has the NDIS helped with choice and control?
+,,  ,,,,,,  ,  ,  ,,,,
+Core,,  ,,,,,,  ,  ,  ,,,,
+Consumables,,"315,858","1,880",168,34%,5%,21%,318.2,"1,007",186.7,591,59%,58%,74%
+Daily Activities,,"234,680","4,824",48.6,35%,14%,19%,"4,252.20","18,119","3,203.30","13,650",75%,56%,75%
+Community,,"257,334","2,875",89.5,22%,15%,12%,"2,534.00","9,847","1,518.80","5,902",60%,54%,74%
+Transport,,"162,722",937,173.7,31%,10%,7%,319.2,"1,962",316.7,"1,946",99%,53%,75%
+Core total,,"375,684","5,942",63.2,30%,13%,16%,"7,423.70","19,760","5,225.40","13,909",70%,57%,73%
+,,  ,,,,,,  ,  ,  ,,,,
+Capacity Building,,  ,,,,,,  ,  ,  ,,,,
+Choice and Control,,"209,885","1,060",198,40%,6%,6%,150.4,716,142,676,94%,56%,73%
+Daily Activities,,"412,592","5,735",71.9,28%,7%,24%,"2,386.80","5,785","1,291.50","3,130",54%,57%,73%
+Employment,,"23,712",739,32.1,27%,5%,32%,166.2,"7,011",88.1,"3,715",53%,45%,72%
+Health and Wellbeing,,"24,002",938,25.6,33%,2%,10%,39.1,"1,629",17,709,44%,61%,79%
+Home Living,,"2,377",114,20.9,48%,20%,20%,2.4,"1,008",0.4,161,16%,60%,65%
+Lifelong Learning,,131,15,8.7,91%,0%,0%,0.2,"1,857",0.1,424,23%,29%,71%
+Relationships,,"31,110",994,31.3,25%,14%,17%,144.3,"4,637",62.3,"2,003",43%,23%,66%
+Social and Civic,,"54,022","1,391",38.8,24%,14%,19%,146.4,"2,711",50.5,935,34%,49%,69%
+Support Coordination,,"163,468","2,359",69.3,12%,9%,13%,367.4,"2,247",242.7,"1,485",66%,53%,72%
+Capacity Building total,,"418,471","6,868",60.9,24%,8%,21%,"3,403.20","8,133","1,894.60","4,527",56%,57%,73%
+,,  ,,,,,,  ,  ,  ,,,,
+Capital,,  ,,,,,,  ,  ,  ,,,,
+Assistive Technology,,"88,706","1,732",51.2,27%,6%,43%,476.6,"5,373",238.6,"2,690",50%,68%,78%
+Home Modifications,,"14,499",615,23.6,23%,10%,46%,67.3,"4,643",42.6,"2,940",63%,71%,79%
+Capital total,,"91,107","1,920",47.5,24%,8%,43%,543.9,"5,970",281.2,"3,087",52%,68%,78%
+,,  ,,,,,,  ,  ,  ,,,,
+Missing,,965,0,0,0%,0%,0%,2.4,"2,496",2.4,"2,496",100%,67%,32%
+,,  ,,,,,,  ,  ,  ,,,,
+All support categories,,"423,653","9,491",44.6,27%,9%,22%,"11,373.20","26,846","7,403.70","17,476",65%,57%,73%
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Indicator definitions,  ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+Active participants with approved plans, Number of active participants who have an approved plan and reside in the service district / have supports relating to the support category in their plan ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+Active providers," Number of providers that received payments for supports provided to participants within the service district / support category, over the exposure period ",,,,,,,,,,,,,
+Participants per provider, Ratio between the number of active participants and the number of active providers ,,,,,,,,,,,,,
+Provider concentration, Proportion of provider payments over the exposure period that were paid to the top 10 providers ,,,,,,,,,,,,,
+Provider growth, Proportion of providers for which payments have grown by more than 100% compared to the previous exposure period. Only providers that received more than $10k in payments in both exposure periods have been considered ,,,,,,,,,,,,,
+Provider shrinkage, Proportion of providers for which payments have shrunk by more than 25% compared to the previous exposure period. Only providers that received more than $10k in payments in both exposure periods have been considered ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+Total plan budgets, Value of supports committed in participant plans for the exposure period ,,,,,,,,,,,,,
+Payments," Value of all payments over the exposure period, including payments to providers, payments to participants, and off-system payments (in-kind and Younger People In Residential Aged Care (YPIRAC)) ",,,,,,,,,,,,,
+Utilisation, Ratio between payments and total plan budgets ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+Outcomes indicator on choice and control, Proportion of participants who reported in their most recent outcomes survey that they choose who supports them ,,,,,,,,,,,,,
+Has the NDIS helped with choice and control?, Proportion of participants who reported in their most recent outcomes survey that the NDIS has helped with choice and control ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+The green dots indicate the top 10% of service districts / support categories when ranked by performance against benchmark for the given metric – in other words – performing relatively well under the metric under consideration,,,,,,,,,,,,,,
+The red dots indicate the bottom 10% of service districts / support categories when ranked by performance against benchmark for the given metric – in other words – performing relatively poorly under the metric under consideration,,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+"Note: For some metrics – ‘good’ performance is considered a higher score under the metric. For example, high utilisation rates are considered a sign of a functioning market where participants have access to the supports they need.",,,,,,,,,,,,,,
+"         For other metrics, a ‘good’ performance is considered a lower score under the metric. For example, a low provider concentration is considered a sign of a competitive market.",,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,
+,  ,,,,,,,,,,,,,

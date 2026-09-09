@@ -1,0 +1,22 @@
+{
+  "bytes": 471872,
+  "content_type": "application/pdf",
+  "directory": "resources/b0ccb3f9d67688248bf75cd637da5e5d246226b2a6c0c185f34427bfb4de9bb2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3970/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Lived experiences of assistance dogs for people with autism and their families.pdf\"",
+    "ETag": "\"1712794779:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 11 Apr 2024 00:19:38 GMT"
+  },
+  "sha256": "17933844f15394536f7cd724af4f7a74926d835db99915ba99939665fc50f50e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3970/download?attachment="
+}

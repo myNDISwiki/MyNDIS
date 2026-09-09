@@ -1,0 +1,22 @@
+{
+  "bytes": 79313,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/294463f15bae2fd659538113dad6ff566ab90ddd7190427b641edd659a409e71",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1563/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Employment outcomes Transcript DOCX.docx\"",
+    "ETag": "\"1635836082:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:41 GMT"
+  },
+  "sha256": "c63e2fb022d3befb0bc0bf221410a720111ba9d76f546ecefa3c36f1fbd9003f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1563/download?attachment="
+}

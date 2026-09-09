@@ -1,0 +1,21 @@
+{
+  "bytes": 9726,
+  "content_type": "image/png",
+  "directory": "resources/43fbd3d15cfa96b646c1c40cee1d1a47a923981759ec30bdb839384c69dd8221",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-08/NDIS%20icons_light_Office-Desk.png?itok=tr0FTYU-",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"674d372f-25fe\"",
+    "Last-Modified": "Mon, 02 Dec 2024 04:27:27 GMT"
+  },
+  "sha256": "dff11d04f5f57990a5c0b40fd2414f4c63c1b59400d4d5cb620f6b00637c71ad",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-08/NDIS%20icons_light_Office-Desk.png?itok=tr0FTYU-"
+}

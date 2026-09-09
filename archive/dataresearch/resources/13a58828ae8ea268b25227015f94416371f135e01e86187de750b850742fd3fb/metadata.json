@@ -1,0 +1,22 @@
+{
+  "bytes": 4091640,
+  "content_type": "application/pdf",
+  "directory": "resources/13a58828ae8ea268b25227015f94416371f135e01e86187de750b850742fd3fb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2529/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2020 longitudinal Executive Summary PDF.pdf\"",
+    "ETag": "\"1635836132:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:31 GMT"
+  },
+  "sha256": "824d4492e5c02cdf12f97db85240180ea3eae57402f7c2906e480d1160cdf606",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2529/download?attachment="
+}

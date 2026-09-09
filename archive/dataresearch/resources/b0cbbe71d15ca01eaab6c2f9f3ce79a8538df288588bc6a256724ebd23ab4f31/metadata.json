@@ -1,0 +1,20 @@
+{
+  "bytes": 4136,
+  "content_type": "application/pdf",
+  "directory": "resources/b0cbbe71d15ca01eaab6c2f9f3ce79a8538df288588bc6a256724ebd23ab4f31",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3973",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Health and wellbeing of NDIS participants and their families and carers.pdf\""
+  },
+  "sha256": "e922b27b23c7eb09c9a823d943f3e877abd7abd964a8b92b304fafa32f43d67b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3973"
+}

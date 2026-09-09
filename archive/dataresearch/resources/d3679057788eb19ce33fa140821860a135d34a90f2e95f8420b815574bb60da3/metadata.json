@@ -1,0 +1,22 @@
+{
+  "bytes": 2202386,
+  "content_type": "application/pdf",
+  "directory": "resources/d3679057788eb19ce33fa140821860a135d34a90f2e95f8420b815574bb60da3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3546/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS194_Cerebral Palsy Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS194_Cerebral%20Palsy%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671583502:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 00:45:01 GMT"
+  },
+  "sha256": "449e8d815861f6b3eda0fdc0d943bc2d1f38e85128c5cd2aac371efe05b77fc8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3546/download?attachment="
+}

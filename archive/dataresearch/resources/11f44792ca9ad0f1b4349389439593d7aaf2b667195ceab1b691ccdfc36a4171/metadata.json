@@ -1,0 +1,22 @@
+{
+  "bytes": 116163,
+  "content_type": "application/pdf",
+  "directory": "resources/11f44792ca9ad0f1b4349389439593d7aaf2b667195ceab1b691ccdfc36a4171",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1542/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 15 15 and over Has NDIS helped.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "05c564d7083fcd2d9d24f8e5967346098d6e70155cd14f77eb63f1236a8b38e1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1542/download?attachment="
+}

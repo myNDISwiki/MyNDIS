@@ -1,0 +1,22 @@
+{
+  "bytes": 68543,
+  "content_type": "application/pdf",
+  "directory": "resources/05c2654744dcc440a15d02900c230e6f764a6a023991442023ec26f4b8b035f2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1550/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes Ch 1 PDF.pdf\"",
+    "ETag": "\"1635836082:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:41 GMT"
+  },
+  "sha256": "1ad31a5a3097c5435f0cd486621af2bc3731081c08e092f20d55bd63e139a41e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1550/download?attachment="
+}

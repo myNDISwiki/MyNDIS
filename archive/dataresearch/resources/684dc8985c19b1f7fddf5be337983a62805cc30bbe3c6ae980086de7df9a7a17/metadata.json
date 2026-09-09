@@ -1,0 +1,22 @@
+{
+  "bytes": 87920,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/684dc8985c19b1f7fddf5be337983a62805cc30bbe3c6ae980086de7df9a7a17",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4465/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Other physical disabilities data to 30 September 2025.xlsx\"",
+    "ETag": "\"1763357650:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 17 Nov 2025 05:34:09 GMT"
+  },
+  "sha256": "5a6c230001d994cf3e90f1bb484db60498b228e5494cb2eec074f451d8e1092e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4465/download?attachment="
+}

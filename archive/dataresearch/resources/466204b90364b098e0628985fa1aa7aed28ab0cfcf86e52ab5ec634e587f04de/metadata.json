@@ -1,0 +1,22 @@
+{
+  "bytes": 53525,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/466204b90364b098e0628985fa1aa7aed28ab0cfcf86e52ab5ec634e587f04de",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4227/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"First Nations participants.csv\"",
+    "ETag": "\"1786682161:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:36:00 GMT"
+  },
+  "sha256": "7bd0a14b49efe5a2e4e7a30c047a6f3a64f428f5ee4d103dac3e21ff015ca52d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4227/download?attachment="
+}

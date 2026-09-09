@@ -1,0 +1,22 @@
+{
+  "bytes": 27941,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2fce6b74d195c050e90812ddf467b84d40dea4d82dac694474437c291c3202e5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3184/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Wheatbelt_data.xlsx",
+    "ETag": "\"1637286333:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:45:32 GMT"
+  },
+  "sha256": "68949b7c1f7ebbaa649fbb1fa3d08b8966a0727c143f7ab0f9ae27f190ec8aeb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3184/download?attachment="
+}

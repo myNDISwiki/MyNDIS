@@ -1,0 +1,22 @@
+{
+  "bytes": 997296,
+  "content_type": "application/pdf",
+  "directory": "resources/3a4c807704e9a37d35239e056b566f38033c5e85e79b77fafa6489eb7cd63a5a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2941/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Eastern Adelaide.pdf\"",
+    "ETag": "\"1635836143:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:42 GMT"
+  },
+  "sha256": "05d38b28a9d9b03c344ed4283dba5a664408173c16a4f54d5486af5e88a47e0a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2941/download?attachment="
+}

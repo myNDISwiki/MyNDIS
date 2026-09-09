@@ -1,0 +1,22 @@
+{
+  "bytes": 124101,
+  "content_type": "application/pdf",
+  "directory": "resources/5d9d1160ed922ff22c346533018e0c9bb617f5d7b732cc834c90e6904103429c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4298/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB SDA data project stakeholder consultation summary.pdf\"",
+    "ETag": "\"1744785658:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 16 Apr 2025 06:40:57 GMT"
+  },
+  "sha256": "a02828636c445939107265aa22e62da2d20bd40364ed591c84dc2ad42f6e89a4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4298/download?attachment="
+}

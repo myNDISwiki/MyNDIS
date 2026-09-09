@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/f3984ad19e54f0abb453da39ecc7bebc5126f5813338a0bcf30aaa7a6be4af13",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3031/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Central Coast_data.xlsx\"",
+    "ETag": "\"1637192139:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:35:38 GMT"
+  },
+  "sha256": "f2a74dd4d3fa4944c2c8b8041382ca7c0a28043102c732a7e9514c1b9bdf80e3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3031/download?attachment="
+}

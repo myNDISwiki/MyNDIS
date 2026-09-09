@@ -1,0 +1,22 @@
+{
+  "bytes": 781575,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/0a61b2526373962d9fc60fda71539b6e571ec1e3de6220da170d58a120cabaa8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4151/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIS 2022-23 AFSR Peer Review 8 Dec 2023 (2).docx\"",
+    "ETag": "\"1733891722:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 04:35:21 GMT"
+  },
+  "sha256": "4ea332613c05cf613286c3897be8447f4aff2da0e3eca7aa7041f2c5858e6063",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4151/download?attachment="
+}

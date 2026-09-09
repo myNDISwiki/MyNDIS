@@ -1,0 +1,22 @@
+{
+  "bytes": 996172,
+  "content_type": "application/pdf",
+  "directory": "resources/185fe89c490aa23570c381382d3c07b9f930616dd63352615e1701b5e00eae15",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2944/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Fleurieu and Kangaroo Island.pdf\"",
+    "ETag": "\"1635836143:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:42 GMT"
+  },
+  "sha256": "c1aee61c9e977c39f80ab22ae2a29b754537a7e6dce4fc8091011836af1fb6f5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2944/download?attachment="
+}

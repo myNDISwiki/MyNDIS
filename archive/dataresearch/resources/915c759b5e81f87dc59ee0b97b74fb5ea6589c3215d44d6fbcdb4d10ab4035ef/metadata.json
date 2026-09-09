@@ -1,0 +1,22 @@
+{
+  "bytes": 187063,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/915c759b5e81f87dc59ee0b97b74fb5ea6589c3215d44d6fbcdb4d10ab4035ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2798/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Sensory disability report Data Tables XLSX.xlsx\"",
+    "ETag": "\"1635836136:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:35 GMT"
+  },
+  "sha256": "fab62844dec6c93542bd52725c09f1e24924071e93c4af080c2c6f89f78c7e2a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2798/download?attachment="
+}

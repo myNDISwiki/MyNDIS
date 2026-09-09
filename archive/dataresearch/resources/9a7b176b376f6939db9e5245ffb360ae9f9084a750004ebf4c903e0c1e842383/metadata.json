@@ -1,0 +1,20 @@
+{
+  "bytes": 3398,
+  "content_type": "application/pdf",
+  "directory": "resources/9a7b176b376f6939db9e5245ffb360ae9f9084a750004ebf4c903e0c1e842383",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4060",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"First Nations.pdf\""
+  },
+  "sha256": "e827f59c7b04677992afb8ac11bee1340610595b697e38bff162b85bd311d19f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4060"
+}

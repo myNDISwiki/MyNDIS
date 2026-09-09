@@ -1,0 +1,22 @@
+{
+  "bytes": 176391,
+  "content_type": "application/zip",
+  "directory": "resources/53ee9fce4f7a8d27005e9c2972adf2aeac8cb2e7276c7fc76a131ebffc4e09df",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2515/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participant Outcomes 30 June 2020 Appendix G ZIP.zip\"",
+    "ETag": "\"1635836133:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:32 GMT"
+  },
+  "sha256": "c2efb7e0f54bcb1049fa018b89b0f5996e9dfc484dd8272e31fcfe39bd7671d4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2515/download?attachment="
+}

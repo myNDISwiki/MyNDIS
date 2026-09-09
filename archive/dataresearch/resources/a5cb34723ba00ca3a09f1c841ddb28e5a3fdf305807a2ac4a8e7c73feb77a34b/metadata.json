@@ -1,0 +1,20 @@
+{
+  "bytes": 12416,
+  "content_type": "application/pdf",
+  "directory": "resources/a5cb34723ba00ca3a09f1c841ddb28e5a3fdf305807a2ac4a8e7c73feb77a34b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4079",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Home and Living Demonstration Project Evaluation.pdf\""
+  },
+  "sha256": "48347cddebf70f4678946755b20822123ba00965ac10be4d6992ed758c5ae73b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4079"
+}

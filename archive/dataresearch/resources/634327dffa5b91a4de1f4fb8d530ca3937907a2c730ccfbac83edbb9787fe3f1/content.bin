@@ -1,0 +1,167 @@
+Domain,Question,Answer,DomainAndQuestion,Baseline_percent,Review_percent,responses,Questionnaire
+Domain 1: Daily living,"My child is developing functional, learning and coping skills that are appropriate to his/her ability and circumstances",Not very well,d1q1,69%,70%,9545,SF
+Domain 1: Daily living,"My child is developing functional, learning and coping skills that are appropriate to his/her ability and circumstances",Pretty well,d1q1,28%,28%,9545,SF
+Domain 1: Daily living,"My child is developing functional, learning and coping skills that are appropriate to his/her ability and circumstances",Very well,d1q1,3%,3%,9545,SF
+Domain 1: Daily living,Most of the time my child manages his/her emotions,Not very well,d1q2,75%,77%,9551,SF
+Domain 1: Daily living,Most of the time my child manages his/her emotions,Pretty well,d1q2,23%,20%,9551,SF
+Domain 1: Daily living,Most of the time my child manages his/her emotions,Very well,d1q2,3%,2%,9551,SF
+Domain 1: Daily living,Most of the time my child manages the demands of his/her world,Very well,d1q3,3%,4%,386,LF
+Domain 1: Daily living,Most of the time my child manages the demands of his/her world,Pretty well,d1q3,44%,54%,386,LF
+Domain 1: Daily living,Most of the time my child manages the demands of his/her world,Not very well,d1q3,53%,42%,386,LF
+Domain 1: Daily living,"Most of the time my child is able to do tasks at home, at school and in the community that a child of the same age would be expected to be able to do",Not very well,d1q4,80%,82%,9468,SF
+Domain 1: Daily living,"Most of the time my child is able to do tasks at home, at school and in the community that a child of the same age would be expected to be able to do",Pretty well,d1q4,18%,16%,9468,SF
+Domain 1: Daily living,"Most of the time my child is able to do tasks at home, at school and in the community that a child of the same age would be expected to be able to do",Very well,d1q4,2%,2%,9468,SF
+Domain 1: Daily living,My child is becoming more independent,Yes,d1q5,44%,46%,9606,SF
+Domain 1: Daily living,My child is becoming more independent,No,d1q5,56%,54%,9606,SF
+Domain 1: Daily living,Encouragement to become more independent comes from,Family,d1q6,97%,97%,183,LF
+Domain 1: Daily living,Encouragement to become more independent comes from,Friends,d1q6,44%,44%,183,LF
+Domain 1: Daily living,Encouragement to become more independent comes from,School,d1q6,82%,82%,183,LF
+Domain 1: Daily living,Encouragement to become more independent comes from,Disability service,d1q6,20%,20%,183,LF
+Domain 1: Daily living,Encouragement to become more independent comes from,Mainstream community activities,d1q6,26%,26%,183,LF
+Domain 1: Daily living,My child spends time away from us (his parents) other than at school,Yes,d1q7,31%,33%,9601,SF
+Domain 1: Daily living,My child spends time away from us (his parents) other than at school,No,d1q7,69%,67%,9601,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",Extended family,d1q8,67%,68%,2261,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",Family friends,d1q8,24%,24%,2261,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",Childs friends,d1q8,27%,29%,2261,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",In group activities with local peers,d1q8,27%,31%,2261,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",In activities with other children with disability,d1q8,17%,22%,2261,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",In a respite house,d1q8,14%,14%,2261,SF
+Domain 1: Daily living,"When our child spends time away from us, he/she spends time with",Other,d1q8,18%,20%,2261,SF
+Domain 1: Daily living,My child spends time with friends without an adult present,Frequently,d1q9,2%,1%,9487,SF
+Domain 1: Daily living,My child spends time with friends without an adult present,Occasionally,d1q9,10%,10%,9487,SF
+Domain 1: Daily living,My child spends time with friends without an adult present,On one occasion,d1q9,3%,3%,9487,SF
+Domain 1: Daily living,My child spends time with friends without an adult present,Never,d1q9,85%,85%,9487,SF
+Domain 1: Daily living,My child has a genuine say in decisions about him/her,"Yes, most decisions",d1q10,10%,9%,9490,SF
+Domain 1: Daily living,My child has a genuine say in decisions about him/her,Some decisions,d1q10,54%,56%,9490,SF
+Domain 1: Daily living,My child has a genuine say in decisions about him/her,No,d1q10,36%,35%,9490,SF
+Domain 2: Lifelong learning,My child attends school,Yes,d2q1,92%,97%,9604,SF
+Domain 2: Lifelong learning,My child attends school,No,d2q1,8%,3%,9604,SF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Kindergarten or equivalent,d2q2,11%,4%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 1,d2q2,14%,6%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 2,d2q2,12%,14%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 3,d2q2,10%,11%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 4,d2q2,14%,12%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 5,d2q2,11%,13%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 6,d2q2,14%,12%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 7,d2q2,12%,13%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 8,d2q2,2%,14%,370,LF
+Domain 2: Lifelong learning,My child's current (or most recently completed) school year is:,Year 9,d2q2,0%,3%,370,LF
+Domain 2: Lifelong learning,My child is enrolled in,A mainstream class,d2q3,54%,52%,8774,SF
+Domain 2: Lifelong learning,My child is enrolled in,A support class,d2q3,23%,24%,8774,SF
+Domain 2: Lifelong learning,My child is enrolled in,A special school,d2q3,22%,23%,8774,SF
+Domain 2: Lifelong learning,My child is enrolled in,A school/class for gifted/talented children,d2q3,0%,0%,8774,SF
+Domain 2: Lifelong learning,My child is enrolled in,Home schooling,d2q3,0%,1%,8774,SF
+Domain 2: Lifelong learning,My child's school is my school of first choice,No,d2q4,11%,9%,371,LF
+Domain 2: Lifelong learning,My child's school is my school of first choice,It was the only choice,d2q4,25%,22%,371,LF
+Domain 2: Lifelong learning,My child's school is my school of first choice,"Yes, first choice amongst more than one option",d2q4,64%,69%,371,LF
+Domain 2: Lifelong learning,Have you had pressure to place your child in a particular class or school?,Yes,d2q5,18%,19%,371,LF
+Domain 2: Lifelong learning,Have you had pressure to place your child in a particular class or school?,No,d2q5,82%,81%,371,LF
+Domain 2: Lifelong learning,Do you know your child's goals at school?,Yes,d2q6,69%,80%,370,LF
+Domain 2: Lifelong learning,Do you know your child's goals at school?,No,d2q6,31%,20%,370,LF
+Domain 2: Lifelong learning,Do you think that your child's education is matched to those goals?,Almost always,d2q7,30%,35%,218,LF
+Domain 2: Lifelong learning,Do you think that your child's education is matched to those goals?,Usually,d2q7,34%,33%,218,LF
+Domain 2: Lifelong learning,Do you think that your child's education is matched to those goals?,Sometimes,d2q7,23%,22%,218,LF
+Domain 2: Lifelong learning,Do you think that your child's education is matched to those goals?,Not usually,d2q7,9%,7%,218,LF
+Domain 2: Lifelong learning,Do you think that your child's education is matched to those goals?,Almost never,d2q7,4%,2%,218,LF
+Domain 2: Lifelong learning,I think that my child is learning at school,Almost always,d2q8,27%,28%,371,LF
+Domain 2: Lifelong learning,I think that my child is learning at school,Usually,d2q8,34%,36%,371,LF
+Domain 2: Lifelong learning,I think that my child is learning at school,Sometimes,d2q8,32%,27%,371,LF
+Domain 2: Lifelong learning,I think that my child is learning at school,Not usually,d2q8,3%,7%,371,LF
+Domain 2: Lifelong learning,I think that my child is learning at school,Almost never,d2q8,4%,3%,371,LF
+Domain 2: Lifelong learning,I think my child is genuinely included at school?,Almost always,d2q9,42%,39%,371,LF
+Domain 2: Lifelong learning,I think my child is genuinely included at school?,Usually,d2q9,31%,32%,371,LF
+Domain 2: Lifelong learning,I think my child is genuinely included at school?,Sometimes,d2q9,19%,22%,371,LF
+Domain 2: Lifelong learning,I think my child is genuinely included at school?,Not usually,d2q9,5%,5%,371,LF
+Domain 2: Lifelong learning,I think my child is genuinely included at school?,Almost never,d2q9,3%,2%,371,LF
+Domain 2: Lifelong learning,I think that my child is happy at school,Almost always,d2q10,38%,32%,370,LF
+Domain 2: Lifelong learning,I think that my child is happy at school,Usually,d2q10,29%,35%,370,LF
+Domain 2: Lifelong learning,I think that my child is happy at school,Sometimes,d2q10,21%,20%,370,LF
+Domain 2: Lifelong learning,I think that my child is happy at school,Not usually,d2q10,8%,7%,370,LF
+Domain 2: Lifelong learning,I think that my child is happy at school,Almost never,d2q10,5%,5%,370,LF
+Domain 2: Lifelong learning,Has your child ever sat a NAPLAN test?,Yes,d2q11,41%,44%,370,LF
+Domain 2: Lifelong learning,Has your child ever sat a NAPLAN test?,"No, I didn't want him/her to",d2q11,2%,9%,370,LF
+Domain 2: Lifelong learning,Has your child ever sat a NAPLAN test?,"No, he/she hasn't been in a NAPLAN test year",d2q11,27%,25%,370,LF
+Domain 2: Lifelong learning,Has your child ever sat a NAPLAN test?,"No, he/she was absent on the day(s)",d2q11,0%,1%,370,LF
+Domain 2: Lifelong learning,Has your child ever sat a NAPLAN test?,"No, the school didn't want him/her to",d2q11,2%,4%,370,LF
+Domain 2: Lifelong learning,Has your child ever sat a NAPLAN test?,"No, they are exempt",d2q11,27%,19%,370,LF
+Domain 2: Lifelong learning,Has your child been involved in the following co-curricular activities at school?,In school plays/ concerts,d2q12,52%,50%,371,LF
+Domain 2: Lifelong learning,Has your child been involved in the following co-curricular activities at school?,In school clubs,d2q12,15%,21%,371,LF
+Domain 2: Lifelong learning,Has your child been involved in the following co-curricular activities at school?,In sporting teams,d2q12,26%,29%,371,LF
+Domain 2: Lifelong learning,Has your child been involved in the following co-curricular activities at school?,As a prefect,d2q12,2%,2%,371,LF
+Domain 2: Lifelong learning,Has your child been involved in the following co-curricular activities at school?,As a member of the student representative council,d2q12,6%,5%,371,LF
+Domain 2: Lifelong learning,Has your child been involved in the following co-curricular activities at school?,As a buddy or mentor to other students,d2q12,19%,19%,371,LF
+Domain 2: Lifelong learning,Has your child ever been suspended from school?,Yes,d2q13,19%,21%,371,LF
+Domain 2: Lifelong learning,Has your child ever been suspended from school?,No,d2q13,81%,79%,371,LF
+Domain 2: Lifelong learning,I am satisfied that my child's school listens to me in relation to my child's education,Very satisfied,d2q14,35%,35%,367,LF
+Domain 2: Lifelong learning,I am satisfied that my child's school listens to me in relation to my child's education,Satisfied,d2q14,37%,36%,367,LF
+Domain 2: Lifelong learning,I am satisfied that my child's school listens to me in relation to my child's education,Neutral,d2q14,16%,15%,367,LF
+Domain 2: Lifelong learning,I am satisfied that my child's school listens to me in relation to my child's education,Dissatisfied,d2q14,8%,7%,367,LF
+Domain 2: Lifelong learning,I am satisfied that my child's school listens to me in relation to my child's education,Very dissatisfied,d2q14,4%,8%,367,LF
+Domain 3: Relationships,My child gets along well with his/her brother(s)/sister(s),Yes,d3q1,68%,66%,9515,SF
+Domain 3: Relationships,My child gets along well with his/her brother(s)/sister(s),No,d3q1,21%,24%,9515,SF
+Domain 3: Relationships,My child gets along well with his/her brother(s)/sister(s),No brothers or sisters,d3q1,10%,10%,9515,SF
+Domain 3: Relationships,My child can make friends with people outside the family,Yes,d3q2,20%,18%,9515,SF
+Domain 3: Relationships,My child can make friends with people outside the family,With some people,d3q2,42%,44%,9515,SF
+Domain 3: Relationships,My child can make friends with people outside the family,No,d3q2,38%,38%,9515,SF
+Domain 3: Relationships,There is enough time each week for all members of my family to get their needs met,Yes,d3q3,28%,25%,9593,SF
+Domain 3: Relationships,There is enough time each week for all members of my family to get their needs met,No,d3q3,72%,75%,9593,SF
+Domain 3: Relationships,My child fits well into the everyday life of the family,Often,d3q4,44%,40%,9481,SF
+Domain 3: Relationships,My child fits well into the everyday life of the family,Sometimes,d3q4,45%,49%,9481,SF
+Domain 3: Relationships,My child fits well into the everyday life of the family,Never,d3q4,11%,11%,9481,SF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,I am not worried,d3q5,36%,38%,385,LF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,I am a little worried,d3q5,35%,31%,385,LF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,I am very worried,d3q5,21%,22%,385,LF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,No siblings,d3q5,9%,9%,385,LF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",Siblings,d3q6,14%,15%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",Extended family,d3q6,40%,40%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",Friends,d3q6,8%,8%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",He/she is able to stay alone,d3q6,2%,3%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",Privately recruited babysitter,d3q6,5%,5%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",NDIS individualised support,d3q6,1%,7%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",Respite centre,d3q6,6%,7%,9616,SF
+Domain 3: Relationships,"When you need to go out, which of the following options do you use to look after your child?",We never go out without our child,d3q6,48%,51%,9616,SF
+Domain 3: Relationships,Are you happy with that arrangement?,Yes,d3q7,46%,48%,9605,SF
+Domain 3: Relationships,Are you happy with that arrangement?,No,d3q7,54%,52%,9605,SF
+Domain 3: Relationships,My child has friends that he/she enjoys spending time with,Yes,d3q8,46%,48%,9603,SF
+Domain 3: Relationships,My child has friends that he/she enjoys spending time with,No,d3q8,54%,52%,9603,SF
+Domain 3: Relationships,The friends are,At school,d3q9,86%,89%,3948,SF
+Domain 3: Relationships,The friends are,Outside school,d3q9,49%,53%,3948,SF
+Domain 3: Relationships,The friends are,Online,d3q9,4%,5%,3948,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Parents provide care,d4q1,77%,84%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Mainstream school holiday program,d4q1,10%,10%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,School holiday program for children with disability,d4q1,9%,11%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,NDIS funded support,d4q1,1%,9%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Grandparents,d4q1,21%,24%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Other family,d4q1,10%,11%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Friends,d4q1,4%,4%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Able to stay by themselves,d4q1,1%,1%,9616,SF
+"Domain 4: Social, community and civic participation",During school holidays I use the following holiday care,Other,d4q1,7%,1%,9616,SF
+"Domain 4: Social, community and civic participation",Finding vacation care that welcomes my child is,Difficult,d4q2,22%,22%,343,LF
+"Domain 4: Social, community and civic participation",Finding vacation care that welcomes my child is,Easy,d4q2,43%,36%,343,LF
+"Domain 4: Social, community and civic participation",Finding vacation care that welcomes my child is,Impossible,d4q2,15%,24%,343,LF
+"Domain 4: Social, community and civic participation",Finding vacation care that welcomes my child is,Not that easy,d4q2,20%,18%,343,LF
+"Domain 4: Social, community and civic participation",My child is happy with this choice/ these choices,Most of the time,d4q3,58%,58%,9254,SF
+"Domain 4: Social, community and civic participation",My child is happy with this choice/ these choices,Some of the time,d4q3,31%,32%,9254,SF
+"Domain 4: Social, community and civic participation",My child is happy with this choice/ these choices,Rarely,d4q3,7%,7%,9254,SF
+"Domain 4: Social, community and civic participation",My child is happy with this choice/ these choices,Never,d4q3,4%,4%,9254,SF
+"Domain 4: Social, community and civic participation",After school and on the weekend my child,Gets together with friends,d4q4,16%,16%,9616,SF
+"Domain 4: Social, community and civic participation",After school and on the weekend my child,"Is involved in mainstream sport, clubs, or other group activities",d4q4,26%,27%,9616,SF
+"Domain 4: Social, community and civic participation",After school and on the weekend my child,"Is involved in sport, clubs, or other group activities with children with disability",d4q4,9%,11%,9616,SF
+"Domain 4: Social, community and civic participation",After school and on the weekend my child,None of the above,d4q4,57%,57%,9616,SF
+"Domain 4: Social, community and civic participation","In these activities, I feel my child is:",Welcomed,d4q5,40%,39%,3335,SF
+"Domain 4: Social, community and civic participation","In these activities, I feel my child is:",Actively included,d4q5,37%,37%,3335,SF
+"Domain 4: Social, community and civic participation","In these activities, I feel my child is:",Mostly an observer,d4q5,7%,7%,3335,SF
+"Domain 4: Social, community and civic participation","In these activities, I feel my child is:",Tolerated,d4q5,7%,9%,3335,SF
+"Domain 4: Social, community and civic participation","In these activities, I feel my child is:",Made to feel unwelcome,d4q5,1%,1%,3335,SF
+"Domain 4: Social, community and civic participation","In these activities, I feel my child is:",Is present but not really a part of the group,d4q5,7%,7%,3335,SF
+"Domain 4: Social, community and civic participation",In these activities I think that people ask my child to do tasks appropriate to his/her skills,Yes,d4q6,88%,89%,166,LF
+"Domain 4: Social, community and civic participation",In these activities I think that people ask my child to do tasks appropriate to his/her skills,No,d4q6,12%,11%,166,LF
+"Domain 4: Social, community and civic participation",I would like my child to have more opportunity to be involved in activities with other children,Yes,d4q7,80%,88%,9603,SF
+"Domain 4: Social, community and civic participation",I would like my child to have more opportunity to be involved in activities with other children,No,d4q7,20%,12%,9603,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,My child's disability (e.g. ability to communicate),d4q8,83%,89%,7519,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,Other children are not welcoming,d4q8,29%,36%,7519,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,Other families are not welcoming,d4q8,17%,21%,7519,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,I am too busy,d4q8,22%,25%,7519,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,Transport,d4q8,21%,25%,7519,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,Cost,d4q8,37%,42%,7519,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being more involved with other children are,Other,d4q8,19%,18%,7519,SF

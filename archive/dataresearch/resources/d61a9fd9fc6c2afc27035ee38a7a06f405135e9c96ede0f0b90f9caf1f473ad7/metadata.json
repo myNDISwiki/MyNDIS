@@ -1,0 +1,22 @@
+{
+  "bytes": 27941,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d61a9fd9fc6c2afc27035ee38a7a06f405135e9c96ede0f0b90f9caf1f473ad7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3161/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Central Highlands_data.xlsx\"",
+    "ETag": "\"1637284221:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:10:20 GMT"
+  },
+  "sha256": "fa3168403fe28bf80f5d710098dc1ce4ac89a6a89a36328b137839b41f0b16b9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3161/download?attachment="
+}

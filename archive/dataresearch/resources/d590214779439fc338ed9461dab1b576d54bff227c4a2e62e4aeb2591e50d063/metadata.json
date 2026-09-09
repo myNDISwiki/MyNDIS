@@ -1,0 +1,22 @@
+{
+  "bytes": 31174,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d590214779439fc338ed9461dab1b576d54bff227c4a2e62e4aeb2591e50d063",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3575/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Stroke data to 30 September 2022 .xlsx\"",
+    "ETag": "\"1695862140:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 28 Sep 2023 00:48:59 GMT"
+  },
+  "sha256": "68a1c6f073171d713bb23c79510868bc9d5f2277f6bc056c36260d4e4f84c983",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3575/download?attachment="
+}

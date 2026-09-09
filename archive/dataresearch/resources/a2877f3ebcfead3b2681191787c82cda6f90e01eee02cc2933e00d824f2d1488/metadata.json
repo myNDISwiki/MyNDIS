@@ -1,0 +1,22 @@
+{
+  "bytes": 95620,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/a2877f3ebcfead3b2681191787c82cda6f90e01eee02cc2933e00d824f2d1488",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4271/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Projected participants numbers data rules.docx\"",
+    "ETag": "\"1771191908:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 15 Feb 2026 21:45:07 GMT"
+  },
+  "sha256": "e5c38e3df1828af7ed5dbde49621902dec00a21da33509b02b3a8602b16356c1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4271/download?attachment="
+}

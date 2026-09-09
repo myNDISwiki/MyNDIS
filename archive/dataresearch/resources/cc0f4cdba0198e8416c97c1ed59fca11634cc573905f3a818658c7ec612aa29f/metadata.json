@@ -1,0 +1,22 @@
+{
+  "bytes": 343647,
+  "content_type": "application/pdf",
+  "directory": "resources/cc0f4cdba0198e8416c97c1ed59fca11634cc573905f3a818658c7ec612aa29f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3171/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Kimberley Pilbara.pdf\"",
+    "ETag": "\"1637286127:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:42:06 GMT"
+  },
+  "sha256": "142af293ca71ee22de7fe791d1a618567a44e51f6f343f90efebedebbe8c8341",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3171/download?attachment="
+}

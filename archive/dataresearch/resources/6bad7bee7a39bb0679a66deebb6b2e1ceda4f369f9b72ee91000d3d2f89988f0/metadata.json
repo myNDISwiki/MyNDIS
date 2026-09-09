@@ -1,0 +1,22 @@
+{
+  "bytes": 143828,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/6bad7bee7a39bb0679a66deebb6b2e1ceda4f369f9b72ee91000d3d2f89988f0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2350/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Katherine_data.xlsx\"",
+    "ETag": "\"1635836115:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:14 GMT"
+  },
+  "sha256": "9a8bd07abc45f6051aa87851a8afac6f5056497de211352d57cb1834251e3c70",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2350/download?attachment="
+}

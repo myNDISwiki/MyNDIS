@@ -1,0 +1,22 @@
+{
+  "bytes": 1680333,
+  "content_type": "application/pdf",
+  "directory": "resources/9af4871481d4028b47e54ece29d094e1074e26e4b90d96d804c83b99a9d0e491",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3474/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2014-15 AFSR.pdf\"",
+    "ETag": "\"1667365479:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Nov 2022 05:04:38 GMT"
+  },
+  "sha256": "2dd9c1cb8bd4c28b9fb064237cd26bd6f25feaef0c841c34c8b739c25ff5bafb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3474/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1247215,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/6816b2e280a680a4f2a82f0c4bcd08b1b513ca5cb1272b4c9d073cd8d7ccff54",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4018/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Thin Market Trials Evaluation final report DOCX.docx\"",
+    "ETag": "\"1723434975:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 12 Aug 2024 03:56:14 GMT"
+  },
+  "sha256": "3283ac2a43fd5001ff27e460bf874fa376fc8c0f639776b6915cb81b1b6c8ef0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4018/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 67976,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/8cf8f575eba07c4e797add729071711810323c78762fd94747ab7a6d92419639",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4223/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Baseline Outcomes data.csv\"",
+    "ETag": "\"1786682583:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:43:02 GMT"
+  },
+  "sha256": "02ac858b88009d081d1c33c22a2cb632c92109b73819d135e36c389b3a2d2be1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4223/download?attachment="
+}

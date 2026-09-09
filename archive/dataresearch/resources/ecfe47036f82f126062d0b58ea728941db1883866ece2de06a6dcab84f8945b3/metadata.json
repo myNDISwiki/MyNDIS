@@ -1,0 +1,22 @@
+{
+  "bytes": 924488,
+  "content_type": "application/pdf",
+  "directory": "resources/ecfe47036f82f126062d0b58ea728941db1883866ece2de06a6dcab84f8945b3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1759/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_The NDIS Market Detailed Dashboard_Western Adelaide_0.pdf\"",
+    "ETag": "\"1635836087:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:46 GMT"
+  },
+  "sha256": "45b220dc534d2f9331ccdd73bec17f812cf39d3e009bba0e0b72f9580f7c0faa",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1759/download?attachment="
+}

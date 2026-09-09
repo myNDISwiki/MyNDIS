@@ -1,0 +1,22 @@
+{
+  "bytes": 61978,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/0f0419f9d26aeae1a90b0ebad038398d5d93e137810068e79a3c90ceaf2c523e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3559/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"5. Disability Dashboard Transcript For Hearing Impairment.docx\"",
+    "ETag": "\"1671585503:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 01:18:22 GMT"
+  },
+  "sha256": "1bc184a1d5dd543a565fe2ccc8f85cbc7ea3b0e362eb8e2294a60de601c788fb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3559/download?attachment="
+}

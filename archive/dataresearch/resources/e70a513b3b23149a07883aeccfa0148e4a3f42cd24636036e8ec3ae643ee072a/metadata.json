@@ -1,0 +1,20 @@
+{
+  "bytes": 12548,
+  "content_type": "application/pdf",
+  "directory": "resources/e70a513b3b23149a07883aeccfa0148e4a3f42cd24636036e8ec3ae643ee072a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4002",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Psychosocial.pdf\""
+  },
+  "sha256": "be26d86f64337e323bdc73ddf37c2687f7b9571723dad257c21e247f8daf7fb2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4002"
+}

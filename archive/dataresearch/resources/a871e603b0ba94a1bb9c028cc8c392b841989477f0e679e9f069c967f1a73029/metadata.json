@@ -1,0 +1,22 @@
+{
+  "bytes": 47012,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a871e603b0ba94a1bb9c028cc8c392b841989477f0e679e9f069c967f1a73029",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3396/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Data ACT.xlsx\"",
+    "ETag": "\"1648082839:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 24 Mar 2022 00:47:18 GMT"
+  },
+  "sha256": "1013c7f0564957505c447ee26404e7ce4b8874244fc40e6d725f94990e6fa420",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3396/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 33586,
+  "content_type": "application/pdf",
+  "directory": "resources/fc8311aabb378bd3b28d40e8b7d79dfef2acfc5fdaf59da09a203b066a05909a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4026",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Sensorybased interventions.pdf\""
+  },
+  "sha256": "6a2d81bdc1bf37c8f3cde24f1a38a743360746505abe339eb55818f90c291ea7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4026"
+}

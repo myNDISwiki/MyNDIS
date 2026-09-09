@@ -1,0 +1,22 @@
+{
+  "bytes": 13498614,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/d5cf8cf7bb9c35cb2341f0dc27171fa8436ba9b0389dfe3b27965cc7666bf9cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4477/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Payments data March 2025.csv\"",
+    "ETag": "\"1766363503:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 22 Dec 2025 00:31:42 GMT"
+  },
+  "sha256": "a45c43a8584c665f67b0451949a2c0f8654d6977442e20791733e9ab1624b114",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4477/download?attachment="
+}

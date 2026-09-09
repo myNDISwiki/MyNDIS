@@ -1,0 +1,22 @@
+{
+  "bytes": 209272,
+  "content_type": "application/pdf",
+  "directory": "resources/b7103f442641dc5beafcc9193e5ae975538c19c687b662cfdcbf749f75750e5c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2259/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2019 Chapter 3 PDF.pdf\"",
+    "ETag": "\"1635836109:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:08 GMT"
+  },
+  "sha256": "1d9a22aca4d785eee0ee4ae6a769a4c6480807e4bb050c3f66d308e00fe050cf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2259/download?attachment="
+}

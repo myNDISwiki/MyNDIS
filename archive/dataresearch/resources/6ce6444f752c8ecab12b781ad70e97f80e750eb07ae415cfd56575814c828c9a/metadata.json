@@ -1,0 +1,22 @@
+{
+  "bytes": 27941,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/6ce6444f752c8ecab12b781ad70e97f80e750eb07ae415cfd56575814c828c9a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3043/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Sydney_data.xlsx",
+    "ETag": "\"1637192349:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:39:08 GMT"
+  },
+  "sha256": "8e6ba0fac06c4d19d099f4507ca0d3aae45a9be2fa2a6f10b6d71787e1a58b53",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3043/download?attachment="
+}

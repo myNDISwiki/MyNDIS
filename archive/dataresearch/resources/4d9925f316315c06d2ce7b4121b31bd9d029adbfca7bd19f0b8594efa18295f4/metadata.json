@@ -1,0 +1,22 @@
+{
+  "bytes": 27939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/4d9925f316315c06d2ce7b4121b31bd9d029adbfca7bd19f0b8594efa18295f4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3086/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Bundaberg_data.xlsx",
+    "ETag": "\"1637200951:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:02:30 GMT"
+  },
+  "sha256": "bc2bab431e02dee52a1ddf421f4e9b1f06bbf40c1c5ff9e1ff533b10c88993b4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3086/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1395120,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/5e4ce73af5e4d94982d2bd7341a6211901065d0e429ecea32f42b5c4b29ea146",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4229/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Longitudinal Outcomes data.csv\"",
+    "ETag": "\"1786682668:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:44:27 GMT"
+  },
+  "sha256": "1218998cae0bd24937859700d0cff537f80ff5f232d301c639f041ef1be39adb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4229/download?attachment="
+}

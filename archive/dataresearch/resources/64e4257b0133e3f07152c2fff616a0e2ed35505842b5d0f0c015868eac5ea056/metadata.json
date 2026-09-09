@@ -1,0 +1,22 @@
+{
+  "bytes": 46908,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/64e4257b0133e3f07152c2fff616a0e2ed35505842b5d0f0c015868eac5ea056",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3810/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Other neurological transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601596:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:26:35 GMT"
+  },
+  "sha256": "c9548d051446c24dc55e2b0facfbc2744ef72ec3cf895ac0c90afdbe4a729e75",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3810/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/7bd18aedfdc7ebfab2a56a43ac59d1f5c35a2614fdf05df97c93cee234005615",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3083/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Ipswich_data.xlsx",
+    "ETag": "\"1637200911:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:01:50 GMT"
+  },
+  "sha256": "42a76153c80a7eb014dce39b22c9b25e6b8461ae12a9d0b9595ed1802e1d8c8d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3083/download?attachment="
+}

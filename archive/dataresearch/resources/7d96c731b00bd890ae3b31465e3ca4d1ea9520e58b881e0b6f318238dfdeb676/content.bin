@@ -1,0 +1,339 @@
+Domain,Question,Answer,DomainAndQuestion,Baseline_percent,Review_percent,responses,Questionnaire
+Domain 1: Choice and control,Do you choose who supports you?,Yes I choose,d1q1,52%,52%,19975,SF
+Domain 1: Choice and control,Do you choose who supports you?,Sometimes I have a say,d1q1,26%,26%,19975,SF
+Domain 1: Choice and control,Do you choose who supports you?,"No, someone else chooses",d1q1,22%,21%,19975,SF
+Domain 1: Choice and control,Do you choose what you do each day?,Yes I choose,d1q2,62%,62%,20005,SF
+Domain 1: Choice and control,Do you choose what you do each day?,Sometimes I have a say,d1q2,28%,28%,20005,SF
+Domain 1: Choice and control,Do you choose what you do each day?,"No, someone else chooses",d1q2,10%,10%,20005,SF
+Domain 1: Choice and control,Do you choose how you spend your free time?,"No, someone else chooses",d1q3,5%,5%,212,LF
+Domain 1: Choice and control,Do you choose how you spend your free time?,Sometimes I have a say,d1q3,8%,17%,212,LF
+Domain 1: Choice and control,Do you choose how you spend your free time?,Yes I choose,d1q3,88%,78%,212,LF
+Domain 1: Choice and control,Did you choose where you live?,I had a bit of a say,d1q4,11%,14%,212,LF
+Domain 1: Choice and control,Did you choose where you live?,"No, I didn't",d1q4,16%,16%,212,LF
+Domain 1: Choice and control,Did you choose where you live?,Yes I chose,d1q4,73%,70%,212,LF
+Domain 1: Choice and control,Did you choose whom you live with?,I had a bit of a say,d1q5,5%,7%,212,LF
+Domain 1: Choice and control,Did you choose whom you live with?,"No, I didn't",d1q5,13%,12%,212,LF
+Domain 1: Choice and control,Did you choose whom you live with?,Yes I chose,d1q5,82%,81%,212,LF
+Domain 1: Choice and control,Who makes most decisions in your life?,I do,d1q6,55%,54%,19986,SF
+Domain 1: Choice and control,Who makes most decisions in your life?,My family,d1q6,32%,34%,19986,SF
+Domain 1: Choice and control,Who makes most decisions in your life?,My friends,d1q6,0%,0%,19986,SF
+Domain 1: Choice and control,Who makes most decisions in your life?,My service providers,d1q6,7%,7%,19986,SF
+Domain 1: Choice and control,Who makes most decisions in your life?,Others (please specify),d1q6,6%,6%,19986,SF
+Domain 1: Choice and control,Do you have someone who supports you to make decisions?,Yes,d1q7,82%,75%,212,LF
+Domain 1: Choice and control,Do you have someone who supports you to make decisions?,"No, I don't need anyone",d1q7,12%,24%,212,LF
+Domain 1: Choice and control,Do you have someone who supports you to make decisions?,"No, and I would like someone",d1q7,7%,1%,212,LF
+Domain 1: Choice and control,"Do you feel able to advocate (stand up) for yourself? That is, do you feel able to speak up if you have issues or problems with accessing supports?",Yes,d1q8,50%,48%,20169,SF
+Domain 1: Choice and control,"Do you feel able to advocate (stand up) for yourself? That is, do you feel able to speak up if you have issues or problems with accessing supports?",No,d1q8,50%,52%,20169,SF
+Domain 1: Choice and control,"Have you ever participated in a self-advocacy group meeting, conference, or event?",Yes,d1q9,13%,12%,19237,SF
+Domain 1: Choice and control,"Have you ever participated in a self-advocacy group meeting, conference, or event?","No, I had the opportunity but chose not to participate",d1q9,16%,16%,19237,SF
+Domain 1: Choice and control,"Have you ever participated in a self-advocacy group meeting, conference, or event?","No, I have not had the opportunity to participate",d1q9,72%,72%,19237,SF
+Domain 1: Choice and control,Do you want more choice and control in your life?,Yes,d1q10,66%,75%,20165,SF
+Domain 1: Choice and control,Do you want more choice and control in your life?,No,d1q10,34%,25%,20165,SF
+Domain 3: Relationships,Do you have someone outside your home to call on for practical assistance?,"No, I don't have anyone",d3q1,22%,12%,212,LF
+Domain 3: Relationships,Do you have someone outside your home to call on for practical assistance?,"Yes, I have someone",d3q1,78%,88%,212,LF
+Domain 3: Relationships,Do you have someone outside your home to call when you need help? (choose all that apply),"Yes, paid staff",d3q1,29%,33%,20201,SF
+Domain 3: Relationships,Do you have someone outside your home to call when you need help? (choose all that apply),"Yes, family",d3q1,68%,70%,20201,SF
+Domain 3: Relationships,Do you have someone outside your home to call when you need help? (choose all that apply),"Yes, friends",d3q1,24%,26%,20201,SF
+Domain 3: Relationships,Do you have someone outside your home to call when you need help? (choose all that apply),No,d3q1,13%,14%,20201,SF
+Domain 3: Relationships,Do you have someone outside your home to call on for emotional assistance?,Yes,d3q2,82%,79%,212,LF
+Domain 3: Relationships,Do you have someone outside your home to call on for emotional assistance?,No,d3q2,18%,21%,212,LF
+Domain 3: Relationships,Do you have someone to call on in a crisis (e.g. if you are sick)?,Yes,d3q3,85%,88%,212,LF
+Domain 3: Relationships,Do you have someone to call on in a crisis (e.g. if you are sick)?,No,d3q3,15%,12%,212,LF
+Domain 3: Relationships,When did you last see your family who do not live with you?,I don't have family not living with me,d3q4,3%,3%,211,LF
+Domain 3: Relationships,When did you last see your family who do not live with you?,In the last 24 hours,d3q4,26%,26%,211,LF
+Domain 3: Relationships,When did you last see your family who do not live with you?,In the last 3 months,d3q4,5%,6%,211,LF
+Domain 3: Relationships,When did you last see your family who do not live with you?,In the last month,d3q4,17%,17%,211,LF
+Domain 3: Relationships,When did you last see your family who do not live with you?,In the last week,d3q4,37%,36%,211,LF
+Domain 3: Relationships,When did you last see your family who do not live with you?,More than 3 months ago,d3q4,12%,13%,211,LF
+Domain 3: Relationships,"In the last 3 months, have you been in contact by other means?",Phone,d3q5,82%,74%,199,LF
+Domain 3: Relationships,"In the last 3 months, have you been in contact by other means?",Email internet (e.g. Facebook),d3q5,29%,33%,199,LF
+Domain 3: Relationships,"In the last 3 months, have you been in contact by other means?",Other,d3q5,17%,32%,199,LF
+Domain 3: Relationships,Are you happy with how often you see your family?,Yes,d3q6,63%,61%,19401,SF
+Domain 3: Relationships,Are you happy with how often you see your family?,"No, I would like to see them more",d3q6,35%,37%,19401,SF
+Domain 3: Relationships,Are you happy with how often you see your family?,"No, I would like to see them less",d3q6,3%,2%,19401,SF
+Domain 3: Relationships,Do you provide care for others?,Yes,d3q7,13%,14%,20173,SF
+Domain 3: Relationships,Do you provide care for others?,No,d3q7,87%,86%,20173,SF
+Domain 3: Relationships,Do you need help to continue caring for someone else?,"Yes, and I receive enough assistance",d3q8,15%,15%,2183,SF
+Domain 3: Relationships,Do you need help to continue caring for someone else?,Yes but I don't receive enough assistance,d3q8,32%,35%,2183,SF
+Domain 3: Relationships,Do you need help to continue caring for someone else?,"Yes, but I don't receive any assistance",d3q8,25%,23%,2183,SF
+Domain 3: Relationships,Do you need help to continue caring for someone else?,No,d3q8,28%,26%,2183,SF
+Domain 3: Relationships,Do you have friends other than family or paid staff?,"Yes, people with disability",d3q9,47%,49%,20201,SF
+Domain 3: Relationships,Do you have friends other than family or paid staff?,"Yes, people without disability",d3q9,48%,50%,20201,SF
+Domain 3: Relationships,Do you have friends other than family or paid staff?,No,d3q9,25%,26%,20201,SF
+Domain 3: Relationships,When did you last see your friends who do not live with you?,I don't have friends not living with me,d3q10,19%,19%,211,LF
+Domain 3: Relationships,When did you last see your friends who do not live with you?,In the last 24 hours,d3q10,25%,15%,211,LF
+Domain 3: Relationships,When did you last see your friends who do not live with you?,In the last 3 months,d3q10,4%,5%,211,LF
+Domain 3: Relationships,When did you last see your friends who do not live with you?,In the last month,d3q10,14%,17%,211,LF
+Domain 3: Relationships,When did you last see your friends who do not live with you?,In the last week,d3q10,29%,39%,211,LF
+Domain 3: Relationships,When did you last see your friends who do not live with you?,More than 3 months ago,d3q10,9%,5%,211,LF
+Domain 3: Relationships,Are you happy with how often you see friends?,Yes,d3q12,50%,48%,18223,SF
+Domain 3: Relationships,Are you happy with how often you see friends?,"No, I would like to see them more",d3q12,48%,50%,18223,SF
+Domain 3: Relationships,Are you happy with how often you see friends?,"No, I would like to see them less",d3q12,1%,1%,18223,SF
+Domain 3: Relationships,Do you feel lonely?,Sometimes,d3q13,39%,36%,212,LF
+Domain 3: Relationships,Do you feel lonely?,"No, not often",d3q13,34%,39%,212,LF
+Domain 3: Relationships,Do you feel lonely?,"Yes, I often feel lonely",d3q13,26%,25%,212,LF
+Domain 4: Home,Thinking about where you currently live in relation to your disability support needs: Are you happy with the home you live in?,Yes,d4q1,79%,77%,19944,SF
+Domain 4: Home,Thinking about where you currently live in relation to your disability support needs: Are you happy with the home you live in?,"No, I want to choose my home",d4q1,7%,7%,19944,SF
+Domain 4: Home,Thinking about where you currently live in relation to your disability support needs: Are you happy with the home you live in?,"No, because of factors related to my support needs (e.g. access, equipment, support)",d4q1,8%,10%,19944,SF
+Domain 4: Home,Thinking about where you currently live in relation to your disability support needs: Are you happy with the home you live in?,"No, for another reason (please specify)",d4q1,7%,6%,19944,SF
+Domain 4: Home,Will you want to live here in 5 years time?,Yes,d4q2,83%,83%,14306,SF
+Domain 4: Home,Will you want to live here in 5 years time?,"No, I want to choose my home",d4q2,8%,8%,14306,SF
+Domain 4: Home,Will you want to live here in 5 years time?,"No, because of factors related to my support needs (e.g. access, equipment, support)",d4q2,3%,3%,14306,SF
+Domain 4: Home,Will you want to live here in 5 years time?,"No, for another reason (please specify)",d4q2,6%,6%,14306,SF
+Domain 4: Home,What stops you from living in a home that you would choose?,Lack of support,d4q3,29%,29%,5312,SF
+Domain 4: Home,What stops you from living in a home that you would choose?,Lack of affordable housing,d4q3,29%,30%,5312,SF
+Domain 4: Home,What stops you from living in a home that you would choose?,Lack of choice,d4q3,12%,13%,5312,SF
+Domain 4: Home,What stops you from living in a home that you would choose?,Other (please specify),d4q3,30%,29%,5312,SF
+Domain 4: Home,How safe or unsafe do you feel in your home?,Very safe,d4q4,37%,34%,19818,SF
+Domain 4: Home,How safe or unsafe do you feel in your home?,Safe,d4q4,41%,43%,19818,SF
+Domain 4: Home,How safe or unsafe do you feel in your home?,Neither safe nor unsafe,d4q4,11%,11%,19818,SF
+Domain 4: Home,How safe or unsafe do you feel in your home?,Unsafe,d4q4,8%,10%,19818,SF
+Domain 4: Home,How safe or unsafe do you feel in your home?,Very unsafe,d4q4,2%,2%,19818,SF
+Domain 5: Health and wellbeing,"Overall, do you think that your health is excellent, very good, good, fair or poor?",Excellent,d5q1,4%,3%,19936,SF
+Domain 5: Health and wellbeing,"Overall, do you think that your health is excellent, very good, good, fair or poor?",Very Good,d5q1,14%,12%,19936,SF
+Domain 5: Health and wellbeing,"Overall, do you think that your health is excellent, very good, good, fair or poor?",Good,d5q1,34%,34%,19936,SF
+Domain 5: Health and wellbeing,"Overall, do you think that your health is excellent, very good, good, fair or poor?",Fair,d5q1,30%,32%,19936,SF
+Domain 5: Health and wellbeing,"Overall, do you think that your health is excellent, very good, good, fair or poor?",Poor,d5q1,18%,19%,19936,SF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Delighted,d5q2,5%,3%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Pleased,d5q2,12%,17%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Mostly satisfied,d5q2,20%,27%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Mixed,d5q2,37%,33%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Mostly dissatisfied,d5q2,2%,2%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Terrible,d5q2,5%,4%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Unhappy,d5q2,9%,8%,212,LF
+Domain 5: Health and wellbeing,Thinking about my life in general now and in the future I feel,Don't know,d5q2,9%,5%,212,LF
+Domain 5: Health and wellbeing,Have you had a health check-up in the last 12 months?,Yes,d5q3,84%,90%,212,LF
+Domain 5: Health and wellbeing,Have you had a health check-up in the last 12 months?,No,d5q3,14%,9%,212,LF
+Domain 5: Health and wellbeing,Have you had a health check-up in the last 12 months?,Not sure,d5q3,1%,1%,212,LF
+Domain 5: Health and wellbeing,Do you have a doctor that you see on a regular basis?,Yes,d5q4,88%,92%,20170,SF
+Domain 5: Health and wellbeing,Do you have a doctor that you see on a regular basis?,No,d5q4,12%,8%,20170,SF
+Domain 5: Health and wellbeing,Have you seen a dentist in the last 12 months?,Yes,d5q5,46%,47%,212,LF
+Domain 5: Health and wellbeing,Have you seen a dentist in the last 12 months?,No,d5q5,52%,51%,212,LF
+Domain 5: Health and wellbeing,Have you seen a dentist in the last 12 months?,Not sure,d5q5,2%,1%,212,LF
+Domain 5: Health and wellbeing,Have you had a flu vaccination in the last 12 months?,Yes,d5q6,50%,50%,212,LF
+Domain 5: Health and wellbeing,Have you had a flu vaccination in the last 12 months?,No,d5q6,46%,48%,212,LF
+Domain 5: Health and wellbeing,Have you had a flu vaccination in the last 12 months?,Not sure,d5q6,4%,2%,212,LF
+Domain 5: Health and wellbeing,Have you been offered education and support for sexual health?,Yes,d5q7,26%,16%,212,LF
+Domain 5: Health and wellbeing,Have you been offered education and support for sexual health?,No,d5q7,63%,75%,212,LF
+Domain 5: Health and wellbeing,Have you been offered education and support for sexual health?,Not sure,d5q7,10%,9%,212,LF
+Domain 5: Health and wellbeing,If you are a woman over 18 have you had a pap test screening in the last 12 months?,Yes,d5q8,44%,39%,101,LF
+Domain 5: Health and wellbeing,If you are a woman over 18 have you had a pap test screening in the last 12 months?,No,d5q8,52%,55%,101,LF
+Domain 5: Health and wellbeing,If you are a woman over 18 have you had a pap test screening in the last 12 months?,Not sure,d5q8,4%,6%,101,LF
+Domain 5: Health and wellbeing,If you are a woman over 40 have you had a mammogram in the last 12 months,Yes,d5q9,43%,43%,81,LF
+Domain 5: Health and wellbeing,If you are a woman over 40 have you had a mammogram in the last 12 months,No,d5q9,51%,52%,81,LF
+Domain 5: Health and wellbeing,If you are a woman over 40 have you had a mammogram in the last 12 months,Not sure,d5q9,6%,5%,81,LF
+Domain 5: Health and wellbeing,If you are a man over 50 have you had a PSA test?,Yes,d5q10,52%,50%,42,LF
+Domain 5: Health and wellbeing,If you are a man over 50 have you had a PSA test?,No,d5q10,29%,36%,42,LF
+Domain 5: Health and wellbeing,If you are a man over 50 have you had a PSA test?,Not sure,d5q10,19%,14%,42,LF
+Domain 5: Health and wellbeing,Have you had difficulty in getting health services?,"Yes, because of the attitudes and/or expertise of health professionals",d5q11,6%,5%,19818,SF
+Domain 5: Health and wellbeing,Have you had difficulty in getting health services?,"Yes, because of access issues",d5q11,9%,9%,19818,SF
+Domain 5: Health and wellbeing,Have you had difficulty in getting health services?,"Yes, because I don't have support",d5q11,6%,6%,19818,SF
+Domain 5: Health and wellbeing,Have you had difficulty in getting health services?,"Yes, because I don't have transport",d5q11,5%,5%,19818,SF
+Domain 5: Health and wellbeing,Have you had difficulty in getting health services?,"Yes, because I cant afford it",d5q11,5%,4%,19818,SF
+Domain 5: Health and wellbeing,Have you had difficulty in getting health services?,No,d5q11,69%,71%,19818,SF
+Domain 5: Health and wellbeing,Are you satisfied with the treatment and care you receive from health services?,Yes,d5q12,87%,92%,212,LF
+Domain 5: Health and wellbeing,Are you satisfied with the treatment and care you receive from health services?,No,d5q12,13%,8%,212,LF
+Domain 5: Health and wellbeing,Have you been subjected to restrictive practices over the past 12 months (e.g. isolation physical restraint)?,Yes,d5q13,9%,5%,211,LF
+Domain 5: Health and wellbeing,Have you been subjected to restrictive practices over the past 12 months (e.g. isolation physical restraint)?,No,d5q13,91%,95%,211,LF
+Domain 5: Health and wellbeing,How many times have you been to the hospital in the last 12 months?,0,d5q14,60%,63%,19536,SF
+Domain 5: Health and wellbeing,How many times have you been to the hospital in the last 12 months?,1,d5q14,18%,16%,19536,SF
+Domain 5: Health and wellbeing,How many times have you been to the hospital in the last 12 months?,2,d5q14,9%,8%,19536,SF
+Domain 5: Health and wellbeing,How many times have you been to the hospital in the last 12 months?,3-5,d5q14,8%,7%,19536,SF
+Domain 5: Health and wellbeing,How many times have you been to the hospital in the last 12 months?,6+,d5q14,5%,5%,19536,SF
+Domain 5: Health and wellbeing,How often do you drink alcohol?,Daily,d5q15,6%,7%,212,LF
+Domain 5: Health and wellbeing,How often do you drink alcohol?,I don't drink at all,d5q15,52%,50%,212,LF
+Domain 5: Health and wellbeing,How often do you drink alcohol?,Monthly but not weekly,d5q15,15%,14%,212,LF
+Domain 5: Health and wellbeing,How often do you drink alcohol?,Weekly but not daily,d5q15,19%,17%,212,LF
+Domain 5: Health and wellbeing,How often do you drink alcohol?,Yearly but not monthly,d5q15,8%,12%,212,LF
+Domain 5: Health and wellbeing,When you do drink alcohol on average how many drinks do you have?,3-4 standard drinks,d5q16,20%,22%,89,LF
+Domain 5: Health and wellbeing,When you do drink alcohol on average how many drinks do you have?,5-6 standard drinks,d5q16,15%,9%,89,LF
+Domain 5: Health and wellbeing,When you do drink alcohol on average how many drinks do you have?,7 or more standard drinks,d5q16,2%,1%,89,LF
+Domain 5: Health and wellbeing,When you do drink alcohol on average how many drinks do you have?,Up to 2 standard drinks,d5q16,63%,67%,89,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Daily,d5q17,29%,36%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),3-5 times per week,d5q17,17%,21%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Twice per week,d5q17,9%,10%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Weekly,d5q17,11%,7%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Fortnightly,d5q17,2%,3%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Monthly,d5q17,1%,1%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Every couple of months,d5q17,1%,0%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),Annually,d5q17,0%,1%,211,LF
+Domain 5: Health and wellbeing,How often do you exercise for fitness recreation or sport or walk continuously to get from place to place (Exercising/Walking should be for at least 10 minutes),I don't exercise at all,d5q17,30%,19%,211,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),Daily,d5q18,9%,6%,126,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),3-5 times per week,d5q18,17%,18%,126,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),Twice per week,d5q18,6%,9%,126,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),Weekly,d5q18,8%,12%,126,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),Fortnightly,d5q18,2%,2%,126,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),Monthly,d5q18,1%,1%,126,LF
+Domain 5: Health and wellbeing,How often do you undertake moderate and vigorous exercise such as running cycling tennis etc? (Moderate or vigorous exercise should be for at least 10 minutes),I don't undertake moderate or vigorous exercise at all,d5q18,57%,53%,126,LF
+Domain 5: Health and wellbeing,Do you feel safe getting out and about in your community?,Yes,d5q19,49%,49%,20166,SF
+Domain 5: Health and wellbeing,Do you feel safe getting out and about in your community?,No,d5q19,51%,51%,20166,SF
+Domain 5: Health and wellbeing,On average how many servings of fruit do you have each day?,0,d5q20,15%,0%,181,LF
+Domain 5: Health and wellbeing,On average how many servings of fruit do you have each day?,1,d5q20,29%,38%,181,LF
+Domain 5: Health and wellbeing,On average how many servings of fruit do you have each day?,2,d5q20,36%,35%,181,LF
+Domain 5: Health and wellbeing,On average how many servings of fruit do you have each day?,3,d5q20,14%,20%,181,LF
+Domain 5: Health and wellbeing,On average how many servings of fruit do you have each day?,4,d5q20,6%,4%,181,LF
+Domain 5: Health and wellbeing,On average how many servings of fruit do you have each day?,5+,d5q20,1%,3%,181,LF
+Domain 5: Health and wellbeing,On average how many servings of vegetables do you have each day?,0,d5q21,7%,0%,204,LF
+Domain 5: Health and wellbeing,On average how many servings of vegetables do you have each day?,1,d5q21,25%,21%,204,LF
+Domain 5: Health and wellbeing,On average how many servings of vegetables do you have each day?,2,d5q21,24%,23%,204,LF
+Domain 5: Health and wellbeing,On average how many servings of vegetables do you have each day?,3,d5q21,23%,26%,204,LF
+Domain 5: Health and wellbeing,On average how many servings of vegetables do you have each day?,4,d5q21,16%,19%,204,LF
+Domain 5: Health and wellbeing,On average how many servings of vegetables do you have each day?,5+,d5q21,6%,12%,204,LF
+Domain 5: Health and wellbeing,Do you smoke?,Yes,d5q22,27%,25%,212,LF
+Domain 5: Health and wellbeing,Do you smoke?,"No, I used to but I gave up",d5q22,14%,24%,212,LF
+Domain 5: Health and wellbeing,Do you smoke?,"No, I've never smoked",d5q22,59%,51%,212,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel nervous?,All of the time,d5q23,8%,8%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel nervous?,Most of the time,d5q23,15%,15%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel nervous?,Some of the time,d5q23,31%,29%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel nervous?,A little of the time,d5q23,20%,23%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel nervous?,None of the time,d5q23,26%,25%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel hopeless?,All of the time,d5q24,6%,5%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel hopeless?,Most of the time,d5q24,9%,10%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel hopeless?,Some of the time,d5q24,30%,27%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel hopeless?,A little of the time,d5q24,15%,17%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel hopeless?,None of the time,d5q24,40%,40%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel restless or fidgety?,All of the time,d5q25,11%,11%,208,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel restless or fidgety?,Most of the time,d5q25,13%,16%,208,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel restless or fidgety?,Some of the time,d5q25,30%,25%,208,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel restless or fidgety?,A little of the time,d5q25,14%,18%,208,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel restless or fidgety?,None of the time,d5q25,32%,30%,208,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel so depressed that nothing could cheer you up?,All of the time,d5q26,6%,3%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel so depressed that nothing could cheer you up?,Most of the time,d5q26,7%,9%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel so depressed that nothing could cheer you up?,Some of the time,d5q26,16%,23%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel so depressed that nothing could cheer you up?,A little of the time,d5q26,20%,19%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel so depressed that nothing could cheer you up?,None of the time,d5q26,51%,46%,206,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel everything was an effort?,All of the time,d5q27,12%,11%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel everything was an effort?,Most of the time,d5q27,16%,17%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel everything was an effort?,Some of the time,d5q27,24%,26%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel everything was an effort?,A little of the time,d5q27,17%,20%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel everything was an effort?,None of the time,d5q27,32%,25%,205,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel worthless?,All of the time,d5q28,7%,4%,202,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel worthless?,Most of the time,d5q28,8%,6%,202,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel worthless?,Some of the time,d5q28,19%,23%,202,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel worthless?,A little of the time,d5q28,14%,17%,202,LF
+Domain 5: Health and wellbeing,During the past 30 days about how often did you feel worthless?,None of the time,d5q28,52%,49%,202,LF
+Domain 6: Lifelong learning,Do you get opportunities to learn new things?,Yes,d6q1,46%,49%,19789,SF
+Domain 6: Lifelong learning,Do you get opportunities to learn new things?,No but I would like to learn new things,d6q1,37%,35%,19789,SF
+Domain 6: Lifelong learning,Do you get opportunities to learn new things?,No and that's OK,d6q1,17%,16%,19789,SF
+Domain 6: Lifelong learning,"Do you currently participate in education, training or skill development?",Yes,d6q2,14%,16%,20167,SF
+Domain 6: Lifelong learning,"Do you currently participate in education, training or skill development?",No,d6q2,86%,84%,20167,SF
+Domain 6: Lifelong learning,Where do you do this?,Disability education facility,d6q3,31%,31%,2014,SF
+Domain 6: Lifelong learning,Where do you do this?,TAFE,d6q3,12%,12%,2014,SF
+Domain 6: Lifelong learning,Where do you do this?,Community college or school,d6q3,4%,3%,2014,SF
+Domain 6: Lifelong learning,Where do you do this?,University,d6q3,8%,7%,2014,SF
+Domain 6: Lifelong learning,Where do you do this?,Other,d6q3,45%,46%,2014,SF
+Domain 6: Lifelong learning,Are you in a class for students with disability?,Yes,d6q4,52%,53%,2023,SF
+Domain 6: Lifelong learning,Are you in a class for students with disability?,No,d6q4,48%,47%,2023,SF
+Domain 6: Lifelong learning,Is it what you want?,Yes,d6q5,70%,74%,2022,SF
+Domain 6: Lifelong learning,Is it what you want?,No,d6q5,30%,26%,2022,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?","Yes, I lacked support",d6q6,16%,15%,19472,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?","Yes, course requirements prevented me from participating",d6q6,2%,2%,19472,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?","Yes, travel prevented me from getting there",d6q6,2%,2%,19472,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?","Yes, the cost of courses prevented me from participating",d6q6,3%,3%,19472,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?","Yes, there was no suitable course",d6q6,3%,3%,19472,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?","Yes, other (please specify)",d6q6,7%,7%,19472,SF
+Domain 6: Lifelong learning,"In the last 12 months, is there any course or training that you wanted to do but couldn't?",No,d6q6,67%,67%,19472,SF
+Domain 7: Work,How many jobs have you had in the past 12 months?,None,d7q1,67%,67%,212,LF
+Domain 7: Work,How many jobs have you had in the past 12 months?,1,d7q1,29%,29%,212,LF
+Domain 7: Work,How many jobs have you had in the past 12 months?,2,d7q1,1%,3%,212,LF
+Domain 7: Work,How many jobs have you had in the past 12 months?,3,d7q1,0%,0%,212,LF
+Domain 7: Work,How many jobs have you had in the past 12 months?,4 or more,d7q1,2%,0%,212,LF
+Domain 7: Work,Have you had any casual work in the past year?,Yes,d7q2,13%,17%,212,LF
+Domain 7: Work,Have you had any casual work in the past year?,No,d7q2,87%,83%,212,LF
+Domain 7: Work,Are you currently working in an unpaid job?,Yes,d7q3,6%,7%,20175,SF
+Domain 7: Work,Are you currently working in an unpaid job?,No,d7q3,94%,93%,20175,SF
+Domain 7: Work,Are you currently working in a paid job?,Yes,d7q4,27%,26%,19094,SF
+Domain 7: Work,Are you currently working in a paid job?,"No, but I would like one",d7q4,22%,21%,19094,SF
+Domain 7: Work,Are you currently working in a paid job?,No and I don't want one,d7q4,52%,53%,19094,SF
+Domain 7: Work,How long have you been in this job?,1-2 years,d7q5,10%,8%,50,LF
+Domain 7: Work,How long have you been in this job?,Less than 3 months,d7q5,4%,2%,50,LF
+Domain 7: Work,How long have you been in this job?,More than 2 years,d7q5,76%,82%,50,LF
+Domain 7: Work,How long have you been in this job?,More than 3 and less than 6 months,d7q5,4%,2%,50,LF
+Domain 7: Work,How long have you been in this job?,More than 6 months and less than one year,d7q5,6%,6%,50,LF
+Domain 7: Work,What type of employment is it?,Australian Disability Enterprise,d7q6,26%,14%,50,LF
+Domain 7: Work,What type of employment is it?,"Open employment market at less than minimum wage, i.e. Supported Wage System",d7q6,10%,16%,50,LF
+Domain 7: Work,What type of employment is it?,Open employment market with full award wages,d7q6,54%,56%,50,LF
+Domain 7: Work,What type of employment is it?,Other,d7q6,0%,8%,50,LF
+Domain 7: Work,What type of employment is it?,Self-employed,d7q6,10%,6%,50,LF
+Domain 7: Work,Is your current job suitable for you?,Yes,d7q8,94%,86%,50,LF
+Domain 7: Work,Is your current job suitable for you?,No,d7q8,6%,14%,50,LF
+Domain 7: Work,Do you get the support you need to do your job?,Yes,d7q9,78%,94%,50,LF
+Domain 7: Work,Do you get the support you need to do your job?,No,d7q9,22%,6%,50,LF
+Domain 7: Work,What is the main reason you do not currently have a paid job?,I can't find a job,d7q10,15%,4%,26,LF
+Domain 7: Work,What is the main reason you do not currently have a paid job?,I don't have support in a job,d7q10,31%,27%,26,LF
+Domain 7: Work,What is the main reason you do not currently have a paid job?,Other,d7q10,42%,58%,26,LF
+Domain 7: Work,What is the main reason you do not currently have a paid job?,Travel is difficult for me,d7q10,12%,12%,26,LF
+Domain 7: Work,Are you being assisted to get a job?,Yes,d7q11,12%,35%,26,LF
+Domain 7: Work,Are you being assisted to get a job?,No,d7q11,88%,65%,26,LF
+Domain 7: Work,What assistance do you think would help you get a job?,Educating employers,d7q12,4%,8%,26,LF
+Domain 7: Work,What assistance do you think would help you get a job?,Getting more support,d7q12,35%,23%,26,LF
+Domain 7: Work,What assistance do you think would help you get a job?,Getting work experience,d7q12,8%,19%,26,LF
+Domain 7: Work,What assistance do you think would help you get a job?,Having a mentor,d7q12,12%,12%,26,LF
+Domain 7: Work,What assistance do you think would help you get a job?,Help with travel and transport,d7q12,8%,4%,26,LF
+Domain 7: Work,What assistance do you think would help you get a job?,Other,d7q12,35%,35%,26,LF
+Domain 7: Work,How many jobs have you applied for in the past 3 months,None,d7q13,77%,92%,26,LF
+Domain 7: Work,How many jobs have you applied for in the past 3 months,1 to 2,d7q13,12%,4%,26,LF
+Domain 7: Work,How many jobs have you applied for in the past 3 months,3 to 5,d7q13,0%,4%,26,LF
+Domain 7: Work,How many jobs have you applied for in the past 3 months,More than 5,d7q13,12%,0%,26,LF
+Domain 7: Work,Have you started planning for retirement?,Yes,d7q15,22%,26%,211,LF
+Domain 7: Work,Have you started planning for retirement?,No,d7q15,78%,74%,211,LF
+Domain 7: Work,How would you describe your involvement in planning for retirement?,I make all the decisions,d7q16,45%,48%,29,LF
+Domain 7: Work,How would you describe your involvement in planning for retirement?,I make the important decisions with the help of others,d7q16,41%,48%,29,LF
+Domain 7: Work,How would you describe your involvement in planning for retirement?,Others make decisions,d7q16,7%,0%,29,LF
+Domain 7: Work,How would you describe your involvement in planning for retirement?,Others make decisions and ask my opinion,d7q16,7%,3%,29,LF
+"Domain 8: Social, community and civic participation",Do you currently have interests (e.g. hobbies favorite things to do)?,Yes,d8q1,78%,84%,212,LF
+"Domain 8: Social, community and civic participation",Do you currently have interests (e.g. hobbies favorite things to do)?,No,d8q1,22%,16%,212,LF
+"Domain 8: Social, community and civic participation",Do you spend your free time doing activities that interest you?,Yes,d8q2,69%,74%,20169,SF
+"Domain 8: Social, community and civic participation",Do you spend your free time doing activities that interest you?,No,d8q2,31%,26%,20169,SF
+"Domain 8: Social, community and civic participation",Do you have the opportunity to try new things and have new experiences?,Yes,d8q3,55%,70%,212,LF
+"Domain 8: Social, community and civic participation",Do you have the opportunity to try new things and have new experiences?,No,d8q3,45%,30%,212,LF
+"Domain 8: Social, community and civic participation","In the last 12 months, is there anything that you wanted to do but couldn't?",Yes,d8q4,60%,65%,20168,SF
+"Domain 8: Social, community and civic participation","In the last 12 months, is there anything that you wanted to do but couldn't?",No,d8q4,40%,35%,20168,SF
+"Domain 8: Social, community and civic participation",Are you currently a volunteer?,Yes,d8q5,13%,14%,19351,SF
+"Domain 8: Social, community and civic participation",Are you currently a volunteer?,"No, but I would like to",d8q5,23%,23%,19351,SF
+"Domain 8: Social, community and civic participation",Are you currently a volunteer?,"No, it doesn't interest me",d8q5,64%,63%,19351,SF
+"Domain 8: Social, community and civic participation",Has anyone asked if you wanted to be a volunteer?,Yes,d8q6,24%,18%,159,LF
+"Domain 8: Social, community and civic participation",Has anyone asked if you wanted to be a volunteer?,No,d8q6,76%,82%,159,LF
+"Domain 8: Social, community and civic participation","Have you been actively involved in a community, cultural or religious group in the last 12 months?","Yes, a general community group",d8q8,25%,27%,19462,SF
+"Domain 8: Social, community and civic participation","Have you been actively involved in a community, cultural or religious group in the last 12 months?","Yes, a group for people with a disability",d8q8,11%,15%,19462,SF
+"Domain 8: Social, community and civic participation","Have you been actively involved in a community, cultural or religious group in the last 12 months?","No, but I would like to be",d8q8,23%,24%,19462,SF
+"Domain 8: Social, community and civic participation","Have you been actively involved in a community, cultural or religious group in the last 12 months?",No and I don't want to be,d8q8,41%,34%,19462,SF
+"Domain 8: Social, community and civic participation",How do you feel about your membership of the group?,I don’t feel like I belong.,d8q9,2%,0%,51,LF
+"Domain 8: Social, community and civic participation",How do you feel about your membership of the group?,I feel like I belong to the group,d8q9,98%,96%,51,LF
+"Domain 8: Social, community and civic participation",How do you feel about your membership of the group?,I would like to feel a greater connection,d8q9,0%,4%,51,LF
+"Domain 8: Social, community and civic participation",Do you know people in your community?,Yes,d8q10,60%,65%,20167,SF
+"Domain 8: Social, community and civic participation",Do you know people in your community?,No,d8q10,40%,35%,20167,SF
+"Domain 8: Social, community and civic participation",Have you had any negative experiences in your community in the past 12 months,Yes,d8q11,29%,28%,212,LF
+"Domain 8: Social, community and civic participation",Have you had any negative experiences in your community in the past 12 months,No,d8q11,71%,72%,212,LF
+"Domain 8: Social, community and civic participation",How safe or unsafe do you feel walking alone in your local area after dark?,I never go out alone,d8q12,50%,47%,212,LF
+"Domain 8: Social, community and civic participation",How safe or unsafe do you feel walking alone in your local area after dark?,Neither safe nor unsafe,d8q12,5%,7%,212,LF
+"Domain 8: Social, community and civic participation",How safe or unsafe do you feel walking alone in your local area after dark?,Safe,d8q12,18%,24%,212,LF
+"Domain 8: Social, community and civic participation",How safe or unsafe do you feel walking alone in your local area after dark?,Unsafe,d8q12,9%,8%,212,LF
+"Domain 8: Social, community and civic participation",How safe or unsafe do you feel walking alone in your local area after dark?,Very safe,d8q12,12%,7%,212,LF
+"Domain 8: Social, community and civic participation",How safe or unsafe do you feel walking alone in your local area after dark?,Very unsafe,d8q12,6%,8%,212,LF
+"Domain 8: Social, community and civic participation",Were you eligible to vote at the last federal election?,Yes,d8q13,85%,90%,212,LF
+"Domain 8: Social, community and civic participation",Were you eligible to vote at the last federal election?,No,d8q13,15%,10%,212,LF
+"Domain 8: Social, community and civic participation",Did you vote at the last federal election?,Yes,d8q14,97%,97%,175,LF
+"Domain 8: Social, community and civic participation",Did you vote at the last federal election?,"No, exempt",d8q14,2%,2%,175,LF
+"Domain 8: Social, community and civic participation",Did you vote at the last federal election?,"No, not enrolled",d8q14,0%,1%,175,LF
+"Domain 8: Social, community and civic participation",Did you vote at the last federal election?,"No, not interested",d8q14,2%,1%,175,LF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say within the general community on issues that are important to you?,All of the time,d8q15,13%,15%,211,LF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say within the general community on issues that are important to you?,Most of the time,d8q15,12%,18%,211,LF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say within the general community on issues that are important to you?,Some of the time,d8q15,17%,19%,211,LF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say within the general community on issues that are important to you?,A little of the time,d8q15,17%,14%,211,LF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say within the general community on issues that are important to you?,None of the time,d8q15,42%,34%,211,LF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say with the services that provide support for you?,All of the time,d8q16,22%,22%,19396,SF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say with the services that provide support for you?,Most of the time,d8q16,27%,28%,19396,SF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say with the services that provide support for you?,Some of the time,d8q16,26%,28%,19396,SF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say with the services that provide support for you?,A little of the time,d8q16,13%,13%,19396,SF
+"Domain 8: Social, community and civic participation",How often do you feel you are able to have a say with the services that provide support for you?,None of the time,d8q16,12%,10%,19396,SF
+"Domain 8: Social, community and civic participation",What type of leisure activities have you taken part in over the last 12 months?,Physical activities for sport exercise or recreation,d8q17,38%,52%,212,LF
+"Domain 8: Social, community and civic participation",What type of leisure activities have you taken part in over the last 12 months?,Going to movies concerts or other performances,d8q17,48%,55%,212,LF
+"Domain 8: Social, community and civic participation",What type of leisure activities have you taken part in over the last 12 months?,Going to museums art galleries or libraries,d8q17,32%,35%,212,LF
+"Domain 8: Social, community and civic participation",What type of leisure activities have you taken part in over the last 12 months?,Going to the zoo aquarium parks or gardens,d8q17,36%,41%,212,LF
+"Domain 8: Social, community and civic participation",What type of leisure activities have you taken part in over the last 12 months?,Getting together with friends,d8q17,60%,63%,212,LF
+"Domain 8: Social, community and civic participation",What type of leisure activities have you taken part in over the last 12 months?,Other,d8q17,23%,18%,212,LF
+"Domain 8: Social, community and civic participation",Are they enjoyable?,Yes,d8q18,88%,96%,144,LF
+"Domain 8: Social, community and civic participation",Are they enjoyable?,No,d8q18,12%,4%,144,LF
+"Domain 8: Social, community and civic participation",Do they enable you to spend time with people that you like?,Yes,d8q19,85%,93%,199,LF
+"Domain 8: Social, community and civic participation",Do they enable you to spend time with people that you like?,No,d8q19,15%,7%,199,LF

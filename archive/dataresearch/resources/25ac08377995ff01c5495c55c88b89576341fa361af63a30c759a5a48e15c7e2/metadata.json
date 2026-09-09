@@ -1,0 +1,22 @@
+{
+  "bytes": 998262,
+  "content_type": "application/pdf",
+  "directory": "resources/25ac08377995ff01c5495c55c88b89576341fa361af63a30c759a5a48e15c7e2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2865/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Hume Moreland.pdf\"",
+    "ETag": "\"1635836139:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:38 GMT"
+  },
+  "sha256": "882cadbc0af73632bc21278e31a89dee8dfce0648238ecba0ebad9fd44f666d7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2865/download?attachment="
+}

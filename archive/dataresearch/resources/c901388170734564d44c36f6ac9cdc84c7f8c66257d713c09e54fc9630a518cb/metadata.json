@@ -1,0 +1,22 @@
+{
+  "bytes": 27939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/c901388170734564d44c36f6ac9cdc84c7f8c66257d713c09e54fc9630a518cb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3179/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_South East Metro_data.xlsx\"",
+    "ETag": "\"1637286255:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:44:14 GMT"
+  },
+  "sha256": "13fad550cb2362132eef96751b55d33362373b31b8816815c745fba9ab4a3e01",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3179/download?attachment="
+}

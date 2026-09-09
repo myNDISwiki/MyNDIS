@@ -1,0 +1,22 @@
+{
+  "bytes": 84331,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/ae9c23254e122f4395ef1ba82bdadad6aad1d0bf1b471613ee684ac77bda6f6d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1943/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"TS Participant Outcomes Summary Presentation 300618.docx\"",
+    "ETag": "\"1635836092:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:51 GMT"
+  },
+  "sha256": "40bcf0e0bee14557d5a2f0306e7c409cc458ce134ad9ad55b528dc84e4707086",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1943/download?attachment="
+}

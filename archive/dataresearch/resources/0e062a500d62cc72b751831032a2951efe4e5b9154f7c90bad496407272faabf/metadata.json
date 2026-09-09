@@ -1,0 +1,22 @@
+{
+  "bytes": 532341,
+  "content_type": "application/zip",
+  "directory": "resources/0e062a500d62cc72b751831032a2951efe4e5b9154f7c90bad496407272faabf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3127/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 LGA Outcomes Detailed Dashboards TAS XLSX.zip\"",
+    "ETag": "\"1637279882:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 23:58:01 GMT"
+  },
+  "sha256": "1fec7145ec8d4ae696eb29777398ec3a40c32b3debf4825d876e773a87ff699f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3127/download?attachment="
+}

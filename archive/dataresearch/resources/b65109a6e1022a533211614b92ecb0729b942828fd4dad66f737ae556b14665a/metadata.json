@@ -1,0 +1,22 @@
+{
+  "bytes": 2200760,
+  "content_type": "application/pdf",
+  "directory": "resources/b65109a6e1022a533211614b92ecb0729b942828fd4dad66f737ae556b14665a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3824/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Multiple sclerosis dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602493:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:41:32 GMT"
+  },
+  "sha256": "656b2c68ec1bb1fdf43e5624be82c57be72da6f517255d7ae2b884fa4dfeabcf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3824/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1752019,
+  "content_type": "application/pdf",
+  "directory": "resources/5c83e0428006c2097a4b5b9ddc55b8c25eb3250479c970a1edd2e1b1dae991a4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1629/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PS insights markets nsw PDF.pdf\"",
+    "ETag": "\"1635836084:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:43 GMT"
+  },
+  "sha256": "6d1d5dad80dc9b41454ba4f0f9d360935eacd73d6243512ebeff4a0af9d5159c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1629/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 401046,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ef64c03a0ea667e3aaea7d4849e2accbbcb989bd1c04380c9d37557dc2e4cbfb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4185/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard TAS by Service District Accessible to 30 June 2024.xlsx\"",
+    "ETag": "\"1733964157:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Dec 2024 00:42:36 GMT"
+  },
+  "sha256": "932fada5afc74aa73215140000e667193c87d3f681483dbddb16067996e36afb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4185/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 219189,
+  "content_type": "application/pdf",
+  "directory": "resources/69ba00f8506fe703096984825873a5d49efe7a7d24a5ba693d9320a6e5b08956",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1528/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 2 Development Implementation PDF.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "6a8eca5e8a1fdbc6a7103fc0634afe27d127d5ba0fdedca0cd8dc4a9061610a6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1528/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 174908,
+  "content_type": "application/pdf",
+  "directory": "resources/0d3b969e916cf0420cf9c78c9b68836d52c5d14c35f154af44c23c0f2f402231",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1541/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 14 15 and over Social.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "376c9fc1e330224f2d6144ea8f49176c0631ed1db1f884349e9cc501fe595f88",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1541/download?attachment="
+}

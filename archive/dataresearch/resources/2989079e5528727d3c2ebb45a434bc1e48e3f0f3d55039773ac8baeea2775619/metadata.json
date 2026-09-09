@@ -1,0 +1,22 @@
+{
+  "bytes": 4311823,
+  "content_type": "application/pdf",
+  "directory": "resources/2989079e5528727d3c2ebb45a434bc1e48e3f0f3d55039773ac8baeea2775619",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3768/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Getting out into the world (full report) PDF (1).pdf\"",
+    "ETag": "\"1692664384:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Aug 2023 00:33:03 GMT"
+  },
+  "sha256": "6c876bd5d380cb440bd8d7416e1a980bf6e71097321d46ab73b8eba9f0c33a0a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3768/download?attachment="
+}

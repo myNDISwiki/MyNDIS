@@ -1,0 +1,22 @@
+{
+  "bytes": 15597646,
+  "content_type": "application/pdf",
+  "directory": "resources/a8a7e5419efe2464a9becbac0011033c5c37d778988ae14872043edb9fc13e59",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3790/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"1a - SDA Reference Designs - KAA 4 - Part 1.pdf\"",
+    "ETag": "\"1693543819:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 01 Sep 2023 04:50:18 GMT"
+  },
+  "sha256": "7599297bfd65b0c803a1d710b96ff0ddb57388650fbd3424989bbc91b99b6949",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3790/download?attachment="
+}

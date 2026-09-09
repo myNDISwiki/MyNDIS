@@ -1,0 +1,22 @@
+{
+  "bytes": 2389204,
+  "content_type": "application/pdf",
+  "directory": "resources/bd05907e15e1403710b7cabe5a7d2cd7e61913b6a4291d0a717922b0c9b86114",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4320/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA Report 2024-25 PDF.pdf\"",
+    "ETag": "\"1747709952:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 20 May 2025 02:59:11 GMT"
+  },
+  "sha256": "33f78b099d4106d5d23fcd5656ae1669fc561995394e0eb10bd8b72f74e666dc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4320/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 44563,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/8264fa2cb6d6e3da03d583e3e6710be26032c7885485332ec0e2be7a2002bf10",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3814/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Stroke transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601686:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:28:05 GMT"
+  },
+  "sha256": "1bf21e6b0de028a5e46b9e5be7f6d5afa0ad3e3a6dd1e1b3063a52a0b52cfb03",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3814/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 90181,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/9617592f66dd0875a70e940a799fb0f087572a1d230db4f1d4a6c5facd4c1e2f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3834/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Developmental delay data to 30 June 2023.xlsx\"",
+    "ETag": "\"1695765151:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 26 Sep 2023 21:52:30 GMT"
+  },
+  "sha256": "6e9b85ea13fd1ea3f0c3dadd166beedd32fe9d3d5e2932d0ff3f577f2dd00225",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3834/download?attachment="
+}

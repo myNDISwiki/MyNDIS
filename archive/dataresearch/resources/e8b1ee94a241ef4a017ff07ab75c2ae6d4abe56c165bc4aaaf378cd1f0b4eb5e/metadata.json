@@ -1,0 +1,22 @@
+{
+  "bytes": 42538,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/e8b1ee94a241ef4a017ff07ab75c2ae6d4abe56c165bc4aaaf378cd1f0b4eb5e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3607/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Developmental delay data to 31 December 2022 (XLSX).xlsx\"",
+    "ETag": "\"1676867977:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 20 Feb 2023 04:39:36 GMT"
+  },
+  "sha256": "9237b91fb8f3f8c8fd8828d8f2faeb43010e8f3d88ae39f0e54e46926b1f37f2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3607/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 920893,
+  "content_type": "application/pdf",
+  "directory": "resources/28611d27371d10eadfb29f53e752504531bad3946a44f286308110e0d30a65d5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2379/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Adelaide Hills.pdf\"",
+    "ETag": "\"1635836113:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:12 GMT"
+  },
+  "sha256": "bf98a39ce9eaeb61bff3831ccd4929d8ebdddb26db2180b541e7636035193c57",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2379/download?attachment="
+}

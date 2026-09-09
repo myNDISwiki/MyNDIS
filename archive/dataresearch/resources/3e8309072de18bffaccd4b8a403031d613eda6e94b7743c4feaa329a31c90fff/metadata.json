@@ -1,0 +1,22 @@
+{
+  "bytes": 1537895,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/3e8309072de18bffaccd4b8a403031d613eda6e94b7743c4feaa329a31c90fff",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4352/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement L Australian Capital Territory 2024-25 Q4.xlsx\"",
+    "ETag": "\"1754869751:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 10 Aug 2025 23:49:10 GMT"
+  },
+  "sha256": "593a9aff240a07eb8e784dc9152e28e87ae4b0ae6d78d94e58688921a1c16547",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4352/download?attachment="
+}

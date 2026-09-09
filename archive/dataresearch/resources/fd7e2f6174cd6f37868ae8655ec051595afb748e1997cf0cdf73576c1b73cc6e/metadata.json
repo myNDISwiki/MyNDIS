@@ -1,0 +1,22 @@
+{
+  "bytes": 207177,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/fd7e2f6174cd6f37868ae8655ec051595afb748e1997cf0cdf73576c1b73cc6e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4562/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement G Victoria 2025-26 Q4_0.xlsx\"",
+    "ETag": "\"1786498285:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 12 Aug 2026 01:31:24 GMT"
+  },
+  "sha256": "032a4278d1fd56ccb3b9ff994cc7a5a5f15dc36ae8bee45d423b7abf8d6690b1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4562/download?attachment="
+}

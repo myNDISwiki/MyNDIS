@@ -1,0 +1,22 @@
+{
+  "bytes": 87990,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/269a517fd19788fa6704d1535b21adb915022f02dc15fd1e00abc9da6c13f6e7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4460/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Other neurological disabilities data to 30 September 2025.xlsx\"",
+    "ETag": "\"1763357475:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 17 Nov 2025 05:31:14 GMT"
+  },
+  "sha256": "813248ee6a1ae89496c2a9758f6d7c68be757cae449a2f95642d2587aaa68f0c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4460/download?attachment="
+}

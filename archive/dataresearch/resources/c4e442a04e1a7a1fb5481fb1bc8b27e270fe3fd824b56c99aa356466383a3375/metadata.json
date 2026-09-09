@@ -1,0 +1,22 @@
+{
+  "bytes": 7561653,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/c4e442a04e1a7a1fb5481fb1bc8b27e270fe3fd824b56c99aa356466383a3375",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4158/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard WA by LGA Accessible to 30 June 2024.xlsx\"",
+    "ETag": "\"1733961186:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 23:53:05 GMT"
+  },
+  "sha256": "7344ad75c947ee9eb328fac6c8f27c6096a51f045ae0a767b20196503bbaf8c5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4158/download?attachment="
+}

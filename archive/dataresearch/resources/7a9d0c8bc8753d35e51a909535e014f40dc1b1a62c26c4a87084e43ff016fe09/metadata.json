@@ -1,0 +1,22 @@
+{
+  "bytes": 1811998,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/7a9d0c8bc8753d35e51a909535e014f40dc1b1a62c26c4a87084e43ff016fe09",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3899/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement D States and Territory comparison 2023-24 Q2.xlsx\"",
+    "ETag": "\"1708901989:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 25 Feb 2024 22:59:48 GMT"
+  },
+  "sha256": "67121424d931f213039633e16509adbc11f01c8f71d43bcbff4b7a7617781dbd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3899/download?attachment="
+}

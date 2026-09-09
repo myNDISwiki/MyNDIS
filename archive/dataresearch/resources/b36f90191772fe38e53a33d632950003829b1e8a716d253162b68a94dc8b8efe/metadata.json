@@ -1,0 +1,22 @@
+{
+  "bytes": 290121,
+  "content_type": "application/pdf",
+  "directory": "resources/b36f90191772fe38e53a33d632950003829b1e8a716d253162b68a94dc8b8efe",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3046/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Barkly.pdf\"",
+    "ETag": "\"1637198119:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:15:18 GMT"
+  },
+  "sha256": "109c11de566616893e10a71438e356ba06671fb4518f0bb0dfbbc314bb1603e3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3046/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 876658,
+  "content_type": "application/pdf",
+  "directory": "resources/6bc848d2fcce14e2156d285d690c41dacb27ff9926d1658d1554d0b2fd77b35a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1945/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Aboriginal and Torres Strait Islander participants PDF.pdf\"",
+    "ETag": "\"1635836120:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:19 GMT"
+  },
+  "sha256": "07ba901f1497c0283c5e52dafc59b122e6e955bf02d6bc13f1107ab73d500a22",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1945/download?attachment="
+}

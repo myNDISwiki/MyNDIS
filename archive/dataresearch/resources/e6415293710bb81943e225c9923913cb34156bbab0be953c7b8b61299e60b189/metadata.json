@@ -1,0 +1,22 @@
+{
+  "bytes": 376476,
+  "content_type": "application/pdf",
+  "directory": "resources/e6415293710bb81943e225c9923913cb34156bbab0be953c7b8b61299e60b189",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3147/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Western Melbourne.pdf\"",
+    "ETag": "\"1637284008:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:06:47 GMT"
+  },
+  "sha256": "28d23e4200464b0ce5eee16b0a9132d995fc38cae40cb824d6596a149d3c2dab",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3147/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 397684,
+  "content_type": "application/pdf",
+  "directory": "resources/fa80621e7860fd2dc6776815514248fe452b5b1a0a4b395fed6cb73c129806a4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3075/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Townsville.pdf\"",
+    "ETag": "\"1637200774:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:59:33 GMT"
+  },
+  "sha256": "84bf0dcdad083c747881bb92594c2e3762f3452352be8d55c2971818ed741a58",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3075/download?attachment="
+}

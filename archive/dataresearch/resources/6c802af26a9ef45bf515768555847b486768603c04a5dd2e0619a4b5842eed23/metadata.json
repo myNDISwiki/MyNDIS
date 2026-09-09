@@ -1,0 +1,22 @@
+{
+  "bytes": 321676,
+  "content_type": "application/pdf",
+  "directory": "resources/6c802af26a9ef45bf515768555847b486768603c04a5dd2e0619a4b5842eed23",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3773/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Information about Cyber Security Requirements.pdf\"",
+    "ETag": "\"1692921926:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 25 Aug 2023 00:05:25 GMT"
+  },
+  "sha256": "4d784a3f87af8f44ff47704bddb428a41c93c666bea1b5b462935326d169c724",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3773/download?attachment="
+}

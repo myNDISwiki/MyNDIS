@@ -1,0 +1,20 @@
+{
+  "bytes": 10545,
+  "content_type": "application/pdf",
+  "directory": "resources/a894bead69ae5ebc82ec70c2f4e235f6a4e8b039e83a2c05d31cded35ce8bafc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3302",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Previous participant outcomes reports.pdf\""
+  },
+  "sha256": "647f17a801e662dfba96c8e4e99163e240afd30f41074bb8f2cd73926ab04e26",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3302"
+}

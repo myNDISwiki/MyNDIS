@@ -1,0 +1,22 @@
+{
+  "bytes": 12611,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/00b1b27908ffb7b380b5f4512e264650b89f32f3b4bf6a33c1e207939aac4d6f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3728/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=ts_getting_a_job_docx_0.docx",
+    "ETag": "\"1691360661:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 22:24:20 GMT"
+  },
+  "sha256": "cccd7fa7ed7b0e6ac16b0a627b16d4793b8e6c805eca304705cc5792a2f2590b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3728/download"
+}

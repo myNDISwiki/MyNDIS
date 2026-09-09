@@ -1,0 +1,22 @@
+{
+  "bytes": 88284,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d4217889ec8d140a06272bf4192f4dd8f3b11ebb144e146ac22493bed24e5443",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4325/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Down syndrome data to 31 March 2025.xlsx\"",
+    "ETag": "\"1747711585:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 20 May 2025 03:26:24 GMT"
+  },
+  "sha256": "087183b3822a6a951720601fd0eb55f9990ed4ac961ce5f8f0b75470b07dde65",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4325/download?attachment="
+}

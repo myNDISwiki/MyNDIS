@@ -1,0 +1,22 @@
+{
+  "bytes": 163719,
+  "content_type": "application/pdf",
+  "directory": "resources/f28c5e74c6c6e7cbe6f56093d8a4429b2f041126e12fb9da34043d167cc09587",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4294/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics February 2025.pdf\"",
+    "ETag": "\"1742124642:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 16 Mar 2025 11:30:41 GMT"
+  },
+  "sha256": "12dcdb90030ae24901210dcd3032395414fb8b74fa473244810bbc85b379bac3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4294/download?attachment="
+}

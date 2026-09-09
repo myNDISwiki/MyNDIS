@@ -1,0 +1,22 @@
+{
+  "bytes": 927051,
+  "content_type": "application/pdf",
+  "directory": "resources/883e2d501b28ccb66d9c738526c183e4362983e206aa6f5afc3b57000b601bf7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2314/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_South Eastern Sydney.pdf\"",
+    "ETag": "\"1635836117:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:16 GMT"
+  },
+  "sha256": "4e6798c43a414a2cf2f271ea6d8f453785c1aa3a1c6fff4d9c87dc89b2d3ab71",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2314/download?attachment="
+}

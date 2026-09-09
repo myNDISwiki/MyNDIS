@@ -1,0 +1,22 @@
+{
+  "bytes": 708016,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/83031ba73521968b2792eb249806664c51ec189278b6365f39a41ffa1d55464e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3779/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS A narrative review of self-directed disability budget management (1).docx\"",
+    "ETag": "\"1692929879:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 25 Aug 2023 02:17:58 GMT"
+  },
+  "sha256": "2365fc701df6c0ae4bc9f9a070134b936d3881c616ba7f310a67c4b771adf95a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3779/download?attachment="
+}

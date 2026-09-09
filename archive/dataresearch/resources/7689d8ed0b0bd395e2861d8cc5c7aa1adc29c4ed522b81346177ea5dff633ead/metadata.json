@@ -1,0 +1,22 @@
+{
+  "bytes": 75229,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/7689d8ed0b0bd395e2861d8cc5c7aa1adc29c4ed522b81346177ea5dff633ead",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4269/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SIL participants data.csv\"",
+    "ETag": "\"1786683922:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 05:05:21 GMT"
+  },
+  "sha256": "3a5acbc495147ce933833bdb0c10194562c23035607e22f9c20a36d90e6f7cd8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4269/download?attachment="
+}

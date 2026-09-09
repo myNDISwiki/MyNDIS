@@ -1,0 +1,22 @@
+{
+  "bytes": 833666,
+  "content_type": "application/pdf",
+  "directory": "resources/0d09f1b231b9455954551d5f7617a457f25e16c4a75a572e52ad12a549992298",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2273/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes 30 June 2019 Executive Summary PDF.pdf\"",
+    "ETag": "\"1635836107:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:06 GMT"
+  },
+  "sha256": "88c7f6209ab14be79170276de60bb1b20ae3b9dc86e630e00a31bef016f8ac49",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2273/download?attachment="
+}

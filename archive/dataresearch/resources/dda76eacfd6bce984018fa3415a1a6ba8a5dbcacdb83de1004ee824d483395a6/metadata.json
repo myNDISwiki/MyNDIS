@@ -1,0 +1,22 @@
+{
+  "bytes": 1004904,
+  "content_type": "application/pdf",
+  "directory": "resources/dda76eacfd6bce984018fa3415a1a6ba8a5dbcacdb83de1004ee824d483395a6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3258/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Barwon.pdf\"",
+    "ETag": "\"1647986952:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Mar 2022 22:09:11 GMT"
+  },
+  "sha256": "6ce7b83a9ee2ef813331bf3bc2c815d52140f5ba041bc1f9fc17898995ff4330",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3258/download?attachment="
+}

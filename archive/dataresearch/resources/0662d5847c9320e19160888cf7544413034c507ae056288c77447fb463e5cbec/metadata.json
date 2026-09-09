@@ -1,0 +1,22 @@
+{
+  "bytes": 398470,
+  "content_type": "application/pdf",
+  "directory": "resources/0662d5847c9320e19160888cf7544413034c507ae056288c77447fb463e5cbec",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3195/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 LGA Outcomes Detailed Dashboards ACT PDF.pdf\"",
+    "ETag": "\"1637715686:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 24 Nov 2021 01:01:25 GMT"
+  },
+  "sha256": "27d0649160cc41b169f7374f9168c48d803945729baec060a45a7de7ae8307b2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3195/download?attachment="
+}

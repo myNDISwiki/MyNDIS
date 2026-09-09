@@ -1,0 +1,22 @@
+{
+  "bytes": 5043043,
+  "content_type": "application/pdf",
+  "directory": "resources/0d4d6887fdb75b46b40b749908dad39be62e1e09cb8d3d6189ba7fbe16753d35",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4399/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=QR-Q1-2025-26-QRDM-supplement_0.pdf",
+    "ETag": "\"1765853500:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 16 Dec 2025 02:51:39 GMT"
+  },
+  "sha256": "08094ce74bb83bd53854de0ad83ff042671703f468f48918978533c8fff99af0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4399/download?attachment="
+}

@@ -1,0 +1,21 @@
+{
+  "bytes": 5444,
+  "content_type": "application/vnd.ms-fontobject",
+  "directory": "resources/e3c48e85147db1f090d7d830b0b7bd5ac4c7b121ad756f9b90d1ca0e2957c5ba",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.eot",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-1544:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:43 GMT"
+  },
+  "sha256": "6417dda417358914f1423525ce1c1cff973152a6e9bbe58bacda99944cf83071",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.eot"
+}

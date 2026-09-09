@@ -1,0 +1,22 @@
+{
+  "bytes": 385730,
+  "content_type": "application/pdf",
+  "directory": "resources/1db5d11a7a4cd0b6bfe63afb1eac07087afd1a8d464d4e7bdfcf2fe7b298a729",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3020/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Mid North Coast.pdf\"",
+    "ETag": "\"1637191797:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:29:56 GMT"
+  },
+  "sha256": "28bd727c1c268d126e66d7085587797673a83d2d91ea9be0b12fff63a184d601",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3020/download?attachment="
+}

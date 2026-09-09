@@ -1,0 +1,20 @@
+{
+  "bytes": 5871,
+  "content_type": "application/pdf",
+  "directory": "resources/3d5fc321aaddb377392aedeb231e414c6f63b3c595839088e9cd90f1cebfb386",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4035",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Employment research.pdf\""
+  },
+  "sha256": "09c5254dfb82e04799c9ca15425f954b060d3d58a85192b630e39fbc3424a29f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4035"
+}

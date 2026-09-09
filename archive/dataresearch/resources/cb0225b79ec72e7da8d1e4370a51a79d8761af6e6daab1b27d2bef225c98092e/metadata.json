@@ -1,0 +1,22 @@
+{
+  "bytes": 956198,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/cb0225b79ec72e7da8d1e4370a51a79d8761af6e6daab1b27d2bef225c98092e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3682/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Community Summary 2 - Umbrella review DOCX.docx\"",
+    "ETag": "\"1690944183:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:43:02 GMT"
+  },
+  "sha256": "a00db36fc60c1ada684aee6b01f54fee22ade02d1ea7777af75899d9263bd19c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3682/download?attachment="
+}

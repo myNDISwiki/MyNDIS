@@ -1,0 +1,22 @@
+{
+  "bytes": 88331,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1012bb2726dc8954d8ddf55396275a97ce4f938e68d823e8e4277071cef2d8b8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4287/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Down syndrome data to 31 December 2024.xlsx\"",
+    "ETag": "\"1739938150:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 19 Feb 2025 04:09:09 GMT"
+  },
+  "sha256": "86a1a0510c3cbd389c0f10427d0f2e820dfc57e45d074a1278dd56c0dda06eb7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4287/download?attachment="
+}

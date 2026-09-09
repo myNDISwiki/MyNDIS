@@ -1,0 +1,20 @@
+{
+  "bytes": 4229,
+  "content_type": "application/pdf",
+  "directory": "resources/0f4637d1743d1fe1c29f45259ef45b90201a2383ebc9a1866b6ee5e6d9ae287a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4018",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Evidence review Interventions for children with Neuromuscular Disorders NMD.pdf\""
+  },
+  "sha256": "22a5e8e54e77379b5d19e0a32a819e73001c361524faa1e95e5ee0c125dd577d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4018"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27950,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/6b96f40488d08010f30954a7b2f9a4e6c2fb448abe805bab015b1bd569f66d47",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3078/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Rockhampton_data.xlsx",
+    "ETag": "\"1637200838:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:00:37 GMT"
+  },
+  "sha256": "99bde07aafb905cccc861053e9db4755321ee618ccd641414ff8955d90cb49d1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3078/download?attachment="
+}

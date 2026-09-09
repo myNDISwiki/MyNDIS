@@ -1,0 +1,22 @@
+{
+  "bytes": 153172,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d435467a68dae42b01e322fe9559811968e9c9e7cc02901c676b5b786f0490ac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3249/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Northern NSW_data.xlsx\"",
+    "ETag": "\"1647926508:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Mar 2022 05:21:47 GMT"
+  },
+  "sha256": "54cf2b7c2a02bc70e2a30d1b52eac3f3c6ce47f7d5f84cd60834797e19621aaf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3249/download?attachment="
+}

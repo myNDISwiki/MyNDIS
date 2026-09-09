@@ -1,0 +1,22 @@
+{
+  "bytes": 101755,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/37ad3455c50145871f9714ccd3d5d57a17b22487c6b23ca24c19315fd9ec5817",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4569/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement O Participants by service district 2025-26 Q4_0.xlsx\"",
+    "ETag": "\"1786498499:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 12 Aug 2026 01:34:58 GMT"
+  },
+  "sha256": "4ae621f62070c3f0d5b5b6b3fca5c76565c55a066ec155f9a16ff8968b05827d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4569/download?attachment="
+}

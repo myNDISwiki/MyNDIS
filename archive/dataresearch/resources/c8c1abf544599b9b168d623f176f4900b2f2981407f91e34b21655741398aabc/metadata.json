@@ -1,0 +1,22 @@
+{
+  "bytes": 2274538,
+  "content_type": "application/pdf",
+  "directory": "resources/c8c1abf544599b9b168d623f176f4900b2f2981407f91e34b21655741398aabc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3828/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Spinal cord injury dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602589:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:43:08 GMT"
+  },
+  "sha256": "4a5013e8881b49f996efc42f89e97fd7bae4e8422746e2422c0d49bd06699ebe",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3828/download?attachment="
+}

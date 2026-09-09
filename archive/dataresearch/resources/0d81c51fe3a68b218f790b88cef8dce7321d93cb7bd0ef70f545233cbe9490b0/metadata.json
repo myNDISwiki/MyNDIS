@@ -1,0 +1,22 @@
+{
+  "bytes": 93939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/0d81c51fe3a68b218f790b88cef8dce7321d93cb7bd0ef70f545233cbe9490b0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3918/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Autism data to 31 December 2023_0.xlsx\"",
+    "ETag": "\"1708903381:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 25 Feb 2024 23:23:00 GMT"
+  },
+  "sha256": "04740e549ddf807b29d3690aace5db01bb273b35197a779fef0e1e802f495c0e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3918/download?attachment="
+}

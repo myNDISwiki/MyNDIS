@@ -1,0 +1,22 @@
+{
+  "bytes": 42089,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/955c41ad27ebe3ae43e772043ed16e6ec34ffa282ee2610bbd998169b1624ecb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3809/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Multiple sclerosis transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601573:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:26:12 GMT"
+  },
+  "sha256": "34ed045ea83851e6b89a2de8cb3505d7b1524c39082658144a359f8c63264955",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3809/download?attachment="
+}

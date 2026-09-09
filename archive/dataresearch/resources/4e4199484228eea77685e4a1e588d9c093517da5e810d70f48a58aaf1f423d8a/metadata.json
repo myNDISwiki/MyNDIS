@@ -1,0 +1,22 @@
+{
+  "bytes": 1127465,
+  "content_type": "application/pdf",
+  "directory": "resources/4e4199484228eea77685e4a1e588d9c093517da5e810d70f48a58aaf1f423d8a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3661/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"3. Geographic Variation in Construction Costs Technical Report.pdf\"",
+    "ETag": "\"1686876050:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:40:49 GMT"
+  },
+  "sha256": "1739f155b15163407f24392f5a9a80e95066267451fa9906e4e9258c6aafc012",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3661/download?attachment="
+}

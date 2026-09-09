@@ -1,0 +1,22 @@
+{
+  "bytes": 2293952,
+  "content_type": "application/pdf",
+  "directory": "resources/30788d620bec4cda0ce75891db7f87c98544e170565f776f04b42a42d961938c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3489/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIS AFSR 2020-21 PDF_0.pdf\"",
+    "ETag": "\"1667531709:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 04 Nov 2022 03:15:08 GMT"
+  },
+  "sha256": "da797924cab63876110a3317a02ea8f17f441fae17dd7e3f0549bf1487a4070a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3489/download?attachment="
+}

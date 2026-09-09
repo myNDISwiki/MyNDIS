@@ -1,0 +1,22 @@
+{
+  "bytes": 9615251,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/1b5859cd55f3901ad7c40990923849ce24625d4094121296e1d41c45ad26eb1a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4367/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Utilisation of Plan budgets data June 2025.csv\"",
+    "ETag": "\"1762398821:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 06 Nov 2025 03:13:40 GMT"
+  },
+  "sha256": "a0b7334c148d02760f4abe03949a27876a85e288eaa4eb56bca9f6ca7bc64902",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4367/download?attachment="
+}

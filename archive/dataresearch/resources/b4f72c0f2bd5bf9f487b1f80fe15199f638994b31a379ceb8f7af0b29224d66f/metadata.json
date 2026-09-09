@@ -1,0 +1,22 @@
+{
+  "bytes": 2189625,
+  "content_type": "application/pdf",
+  "directory": "resources/b4f72c0f2bd5bf9f487b1f80fe15199f638994b31a379ceb8f7af0b29224d66f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1625/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PS insights markets vic PDF.pdf\"",
+    "ETag": "\"1635836084:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:43 GMT"
+  },
+  "sha256": "35f40f5220f7e2d5ddaa793de11a177ba12a7c1cc93097cbe4b87e4901998002",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1625/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 48314,
+  "content_type": "application/pdf",
+  "directory": "resources/24cebeb39daa32e5ff4eabdfa23495caecdc9613f4b073c00364d10205d26871",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1527/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 1 Introduction PDF.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "f2d9598d088e2ddd48d7a37ae0a8bb37d76da2b90288bce0575dbed4d5019112",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1527/download?attachment="
+}

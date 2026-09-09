@@ -1,0 +1,22 @@
+{
+  "bytes": 246561,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1bca84ae4e7b46b66c5c7efee53022028c977f62c4b08af835ba30bcebaff4e0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4558/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement D State and Territory comparison 2025-26 Q4_0.xlsx\"",
+    "ETag": "\"1786497823:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 12 Aug 2026 01:23:42 GMT"
+  },
+  "sha256": "9aad423063243abbd7a7ef945a172221fc630200e9970468fb41644182381316",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4558/download?attachment="
+}

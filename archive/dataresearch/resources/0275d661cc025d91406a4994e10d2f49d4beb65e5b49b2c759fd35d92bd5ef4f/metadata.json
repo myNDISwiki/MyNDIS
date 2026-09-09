@@ -1,0 +1,22 @@
+{
+  "bytes": 1936870,
+  "content_type": "application/pdf",
+  "directory": "resources/0275d661cc025d91406a4994e10d2f49d4beb65e5b49b2c759fd35d92bd5ef4f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4019/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Thin Market Trials Evaluation final report PDF.pdf\"",
+    "ETag": "\"1723435005:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 12 Aug 2024 03:56:44 GMT"
+  },
+  "sha256": "64cb565315d971cd334efe207e403a7017b0ea2cfbf2eecccf71a6b111688a08",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4019/download?attachment="
+}

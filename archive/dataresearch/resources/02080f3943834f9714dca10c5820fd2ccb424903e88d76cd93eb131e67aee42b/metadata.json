@@ -1,0 +1,22 @@
+{
+  "bytes": 4381280,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/02080f3943834f9714dca10c5820fd2ccb424903e88d76cd93eb131e67aee42b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4216/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Active providers as at 31 December 2024.csv\"",
+    "ETag": "\"1739825395:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 17 Feb 2025 20:49:54 GMT"
+  },
+  "sha256": "97e96db9e11818c25ddf458e98754eac08199dcd001594f1a566f3bb7eca14c3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4216/download?attachment="
+}

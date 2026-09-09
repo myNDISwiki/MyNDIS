@@ -1,0 +1,22 @@
+{
+  "bytes": 31120,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b60db099530ee5e8f9599a3ef378f4c670ab31ffd6666b2783514c85ac1ae828",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3572/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Spinal cord injury data to 30 September 2022 .xlsx\"",
+    "ETag": "\"1695861988:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 28 Sep 2023 00:46:27 GMT"
+  },
+  "sha256": "c9e4f99550e983c53bd236a49d7f64719b87b6c78e8284baba3734d49ac60042",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3572/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 228705,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/bd5f5765035765d350fb126be470671322c2b8f0a2a4661b06505c6076b66bb6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4306/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement K Tasmania 2024-25 Q3.xlsx\"",
+    "ETag": "\"1747203243:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 14 May 2025 06:14:02 GMT"
+  },
+  "sha256": "41e802f83902f732eba84cfdac9c1ac75f71439d4fb4d8ed99d5bad1292c610f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4306/download?attachment="
+}

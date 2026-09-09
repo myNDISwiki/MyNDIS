@@ -1,0 +1,22 @@
+{
+  "bytes": 4766302,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2dead2cd7bd5b4e0242cb5adae9b35d38bc3e79c4962d32ab88adb20b41ae0cb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4085/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard VIC by LGA Accessible.xlsx\"",
+    "ETag": "\"1726120644:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Sep 2024 05:57:23 GMT"
+  },
+  "sha256": "89e93e7070fbc0eeb9539528029281c96e316baa7e61a838494cda653b89da0e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4085/download?attachment="
+}

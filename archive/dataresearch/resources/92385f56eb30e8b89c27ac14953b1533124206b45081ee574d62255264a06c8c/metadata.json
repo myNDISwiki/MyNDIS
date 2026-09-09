@@ -1,0 +1,22 @@
+{
+  "bytes": 932514,
+  "content_type": "application/pdf",
+  "directory": "resources/92385f56eb30e8b89c27ac14953b1533124206b45081ee574d62255264a06c8c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2592/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Goulburn.pdf\"",
+    "ETag": "\"1635836124:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:23 GMT"
+  },
+  "sha256": "ee7fa8a30d2e31e9366aa32d406e126ab6e879c5da0560f5f246852bf2a64a69",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2592/download?attachment="
+}

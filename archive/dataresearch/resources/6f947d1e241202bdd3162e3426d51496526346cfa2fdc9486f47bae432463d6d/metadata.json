@@ -1,0 +1,22 @@
+{
+  "bytes": 86431,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/6f947d1e241202bdd3162e3426d51496526346cfa2fdc9486f47bae432463d6d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4268/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA participants data rules.docx\"",
+    "ETag": "\"1787531488:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 24 Aug 2026 00:31:27 GMT"
+  },
+  "sha256": "572ae66623a7f18f3f84f72f6b1b2409045eac47e2673df29f75dfebb7e69743",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4268/download?attachment="
+}

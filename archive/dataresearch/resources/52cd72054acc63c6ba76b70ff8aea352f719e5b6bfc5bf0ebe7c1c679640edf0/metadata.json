@@ -1,0 +1,22 @@
+{
+  "bytes": 753664,
+  "content_type": "application/vnd.ms-excel",
+  "directory": "resources/52cd72054acc63c6ba76b70ff8aea352f719e5b6bfc5bf0ebe7c1c679640edf0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1795/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906 - The NDIS Market - data.xls\"",
+    "ETag": "\"1635836084:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:43 GMT"
+  },
+  "sha256": "d01e6c9b3a5291a0b26100d4e1bbd074b093ab8a2dfecb439b8f9c549fd1cd10",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1795/download?attachment="
+}

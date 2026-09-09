@@ -1,0 +1,22 @@
+{
+  "bytes": 3661396,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ef56fa0f515434951d05f2ba0481da9376febb0d98d529b7df473519f86db3ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3936/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement I Western Australia 2023-24 Q2_0.xlsx\"",
+    "ETag": "\"1708315521:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 19 Feb 2024 04:05:20 GMT"
+  },
+  "sha256": "f1b950e5569f896536d335382f32b98798ad01ba242cbb0fab531148ddfdd2ab",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3936/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 21195,
+  "content_type": "application/pdf",
+  "directory": "resources/ff4a6b954606e21ea4541df585c7067f9a3a6b6346467c74f5f21c6be87d4f81",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4006",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Previous participant group reports.pdf\""
+  },
+  "sha256": "6222ea514344cf697457a2ec8f8cd0e81a5bef836ceb742dcd739324c71b21a8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4006"
+}

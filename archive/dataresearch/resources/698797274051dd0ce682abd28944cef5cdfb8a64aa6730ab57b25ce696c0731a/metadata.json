@@ -1,0 +1,22 @@
+{
+  "bytes": 7532071,
+  "content_type": "application/pdf",
+  "directory": "resources/698797274051dd0ce682abd28944cef5cdfb8a64aa6730ab57b25ce696c0731a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3654/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB ER Participant Outcomes Report .pdf\"",
+    "ETag": "\"1685507971:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 31 May 2023 04:39:30 GMT"
+  },
+  "sha256": "10aef2f405ab867d9289256e8ad00f569e4d33ad4983da84d6f3bf1a9aa3ac6d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3654/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 928922,
+  "content_type": "application/pdf",
+  "directory": "resources/c1c1664a94d097204d31de326d55580299c8951ecc8c3e8c8436f76afa98b4e9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2354/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Caboolture Strathpine.pdf\"",
+    "ETag": "\"1635836113:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:12 GMT"
+  },
+  "sha256": "7d323a400d357793a7d5745c34659788e1824e9a91478c81ee0b4554073d6be9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2354/download?attachment="
+}

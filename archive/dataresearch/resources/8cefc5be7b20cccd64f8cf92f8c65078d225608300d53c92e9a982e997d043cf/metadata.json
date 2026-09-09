@@ -1,0 +1,22 @@
+{
+  "bytes": 7084569,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/8cefc5be7b20cccd64f8cf92f8c65078d225608300d53c92e9a982e997d043cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4573/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participant numbers and plan budgets data June 2026.csv\"",
+    "ETag": "\"1786594820:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 13 Aug 2026 04:20:19 GMT"
+  },
+  "sha256": "460eb3e7d73a4caf4c1b627ccca0532d4768f92f230b7a979173f4aaf4267c2f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4573/download?attachment="
+}

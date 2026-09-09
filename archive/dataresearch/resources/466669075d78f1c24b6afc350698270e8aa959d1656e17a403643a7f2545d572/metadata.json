@@ -1,0 +1,22 @@
+{
+  "bytes": 370697,
+  "content_type": "application/pdf",
+  "directory": "resources/466669075d78f1c24b6afc350698270e8aa959d1656e17a403643a7f2545d572",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3006/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Guide to the NDIA Market Dashboards PDF.pdf\"",
+    "ETag": "\"1635836145:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:44 GMT"
+  },
+  "sha256": "5aa53f298935cb9d6321fc756e19b1fe5637aaf3f09f1d42b6a3160462f056b4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3006/download?attachment="
+}

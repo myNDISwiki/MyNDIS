@@ -1,0 +1,22 @@
+{
+  "bytes": 2370480,
+  "content_type": "application/pdf",
+  "directory": "resources/c18dfb2140735a950c07f0121c4832d463811650466448964d09bc80d0ac3510",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3830/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Visual impairment dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602634:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:43:53 GMT"
+  },
+  "sha256": "d8b2728d22c2c764f7e2a0e5930683035c19507cc6a0dabc877187f448059d51",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3830/download?attachment="
+}

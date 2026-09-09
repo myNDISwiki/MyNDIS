@@ -1,0 +1,20 @@
+{
+  "bytes": 14911,
+  "content_type": "application/pdf",
+  "directory": "resources/779f0198fad1c347b39ae284cf48539f458f43014db17d290b4da0947de148e5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4051",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Exploring participant experiences Achieving a sense of purpose.pdf\""
+  },
+  "sha256": "ee661ce5cd1ec3638ac59ff6f4eaca62ebc85da87f8b75986aa7b3cea958d48c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4051"
+}

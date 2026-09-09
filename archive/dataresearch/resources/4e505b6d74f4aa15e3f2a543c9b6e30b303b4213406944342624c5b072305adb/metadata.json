@@ -1,0 +1,22 @@
+{
+  "bytes": 318988,
+  "content_type": "application/pdf",
+  "directory": "resources/4e505b6d74f4aa15e3f2a543c9b6e30b303b4213406944342624c5b072305adb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3493/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS AFSR 2020-21 Reviewing Actuary PDF.pdf\"",
+    "ETag": "\"1667532099:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 04 Nov 2022 03:21:38 GMT"
+  },
+  "sha256": "0649c960d19db28e8b72dedd61061ab8dc348232048a3724d46a6157da4ef5de",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3493/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27944,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/89a14d638ad79289fd5d60412f130cd112467942f9c7d1a93c2af9a55caeab7c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3124/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_TAS North West_data.xlsx\"",
+    "ETag": "\"1637279357:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 23:49:16 GMT"
+  },
+  "sha256": "5e603f5d7dd9d25de991a7a42b28d340c8178cee1a85d9db0dba81ec137b1537",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3124/download?attachment="
+}

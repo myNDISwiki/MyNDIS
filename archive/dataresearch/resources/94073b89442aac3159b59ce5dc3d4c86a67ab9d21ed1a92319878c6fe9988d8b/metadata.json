@@ -1,0 +1,22 @@
+{
+  "bytes": 542692,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/94073b89442aac3159b59ce5dc3d4c86a67ab9d21ed1a92319878c6fe9988d8b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4344/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIS supports, funding amounts and periods - Summary Report .docx\"",
+    "ETag": "\"1750640462:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 23 Jun 2025 01:01:01 GMT"
+  },
+  "sha256": "88247bcd1cc764f23cc948ec8aa52893d66a74f0276dbbda9776db0d9020cf45",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4344/download?attachment="
+}

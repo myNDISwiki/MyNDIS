@@ -1,0 +1,22 @@
+{
+  "bytes": 1003058,
+  "content_type": "application/pdf",
+  "directory": "resources/17031eec953dee824e704070434d3163aac9b1dbc77e167d074c810a348821e7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3359/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Wheat Belt.pdf\"",
+    "ETag": "\"1648076253:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 22:57:32 GMT"
+  },
+  "sha256": "c0047fd726f9889fcd3d510c84417bbbe6b4c1ae35088e83be40cd45f12df1c9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3359/download?attachment="
+}

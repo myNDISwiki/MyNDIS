@@ -1,0 +1,22 @@
+{
+  "bytes": 383328,
+  "content_type": "application/pdf",
+  "directory": "resources/525e0d92a9a55c92dc37e60b77e2990c1f863a3382554d9fa1b840170822492c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3072/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Robina.pdf\"",
+    "ETag": "\"1637200741:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:59:00 GMT"
+  },
+  "sha256": "14c010b33c8e43613fd67109b2d9a54dfc49cb1baa1d47c0744db3322b031879",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3072/download?attachment="
+}

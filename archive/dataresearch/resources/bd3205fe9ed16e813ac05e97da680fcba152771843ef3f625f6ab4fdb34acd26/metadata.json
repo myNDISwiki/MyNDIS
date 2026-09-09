@@ -1,0 +1,22 @@
+{
+  "bytes": 83686,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/bd3205fe9ed16e813ac05e97da680fcba152771843ef3f625f6ab4fdb34acd26",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2759/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB 202012 - The NDIS Market transcript.docx\"",
+    "ETag": "\"1635836127:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:26 GMT"
+  },
+  "sha256": "6d889a95fbeb05abdcab2a4025c9d6db00ba32f387ff213c70018360ee7973c7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2759/download?attachment="
+}

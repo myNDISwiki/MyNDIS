@@ -1,0 +1,20 @@
+{
+  "bytes": 2951,
+  "content_type": "application/pdf",
+  "directory": "resources/9ca947b3b45ec7fd4a40873180b357c4e5e0f39e94e7adc4a346ff67759fe47f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3924",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Data disclaimer.pdf\""
+  },
+  "sha256": "84f024368eb771fbb4d5f5b2780e965afc45e8e36101367484f6e1f819b42ef0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3924"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/9d73aa10c53fb93846f4d01a4011b59a4bf58698581e2396f63ff96d7da088ac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3104/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Western Adelaide_data.xlsx\"",
+    "ETag": "\"1637275293:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:41:32 GMT"
+  },
+  "sha256": "c3a95e4ae24c6e6fc3429b166339e5d1047da3e713f98640131bda9c21e19093",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3104/download?attachment="
+}

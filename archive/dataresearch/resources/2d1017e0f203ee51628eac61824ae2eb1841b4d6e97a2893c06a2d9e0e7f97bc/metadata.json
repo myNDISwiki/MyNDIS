@@ -1,0 +1,22 @@
+{
+  "bytes": 479330,
+  "content_type": "application/pdf",
+  "directory": "resources/2d1017e0f203ee51628eac61824ae2eb1841b4d6e97a2893c06a2d9e0e7f97bc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1800/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PS insights forums outcomes Text PDF.pdf\"",
+    "ETag": "\"1635836092:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:51 GMT"
+  },
+  "sha256": "f9b92a844a62d9422e910063fe5a7eba50ea3dddcc3c50ff4b2c95660004c2c1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1800/download?attachment="
+}

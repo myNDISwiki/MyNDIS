@@ -1,0 +1,20 @@
+{
+  "bytes": 8819,
+  "content_type": "application/pdf",
+  "directory": "resources/88edda0e7caf2ba9a3bca548c72c533f22ae05e99c3204b0dd0e5ecf4670295e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4010",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Payments datasets.pdf\""
+  },
+  "sha256": "84879d86be872ee1e7732b242c89a71f57d4d431113c2eb843fc3a2ad245ff34",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4010"
+}

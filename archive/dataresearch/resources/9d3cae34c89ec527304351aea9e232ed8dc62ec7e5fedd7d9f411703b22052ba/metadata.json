@@ -1,0 +1,22 @@
+{
+  "bytes": 383165,
+  "content_type": "application/pdf",
+  "directory": "resources/9d3cae34c89ec527304351aea9e232ed8dc62ec7e5fedd7d9f411703b22052ba",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3144/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Ovens Murray.pdf\"",
+    "ETag": "\"1637283960:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:05:59 GMT"
+  },
+  "sha256": "a11a167037fdb36f75527fffe66fad7583a8ec76d7d8cdc707aee9772c60d392",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3144/download?attachment="
+}

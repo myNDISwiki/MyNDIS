@@ -1,0 +1,22 @@
+{
+  "bytes": 390762,
+  "content_type": "application/pdf",
+  "directory": "resources/5834b43a2252e71b4e5c5c748452d10652c03c8c11a8f2351984628bfe3d3de2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3028/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Sydney.pdf\"",
+    "ETag": "\"1637192001:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:33:20 GMT"
+  },
+  "sha256": "701d816f6f963e0ab2055c16b878a2816c4bf429f4b1e1488a0aec3f17faf1ec",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3028/download?attachment="
+}

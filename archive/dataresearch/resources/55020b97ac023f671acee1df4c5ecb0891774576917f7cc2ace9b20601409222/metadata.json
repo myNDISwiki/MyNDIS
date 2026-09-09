@@ -1,0 +1,22 @@
+{
+  "bytes": 29172,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/55020b97ac023f671acee1df4c5ecb0891774576917f7cc2ace9b20601409222",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3008/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_01_The NDIS Market Insights Dashboard _ transcript.docx\"; filename*=utf-8''202106_01_The%20NDIS%20Market%20Insights%20Dashboard%20%E2%80%93%20transcript.docx",
+    "ETag": "\"1635836142:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:41 GMT"
+  },
+  "sha256": "a61a8f7eb34d6a7fc60c7411c7391e37da1b618d99d4398e6d43b40674302c90",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3008/download?attachment="
+}

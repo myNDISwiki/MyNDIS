@@ -1,0 +1,22 @@
+{
+  "bytes": 320804,
+  "content_type": "application/pdf",
+  "directory": "resources/3685ef9b6bdddb9219ef8d2f31cb197fe46f34247cf058cffa84141d9b28b4d7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3095/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Far North (SA).pdf\"",
+    "ETag": "\"1637275129:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:38:48 GMT"
+  },
+  "sha256": "c4f32f3786409d75991a9b4357725f332ebe66e552b82718327aa02c2b40517f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3095/download?attachment="
+}

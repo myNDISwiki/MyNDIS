@@ -1,0 +1,22 @@
+{
+  "bytes": 925544,
+  "content_type": "application/pdf",
+  "directory": "resources/69f235eddf7dc15d26317e5cb30d855424daf677e892510686be5ed74406f5db",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2422/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Central Highlands.pdf\"",
+    "ETag": "\"1635836114:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:13 GMT"
+  },
+  "sha256": "7451a48b936933a4930f7cdd1a0d27751edb282c178e904f23b9956b11d91211",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2422/download?attachment="
+}

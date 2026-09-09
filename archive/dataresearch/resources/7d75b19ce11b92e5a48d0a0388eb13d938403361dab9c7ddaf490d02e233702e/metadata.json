@@ -1,0 +1,22 @@
+{
+  "bytes": 7983082,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/7d75b19ce11b92e5a48d0a0388eb13d938403361dab9c7ddaf490d02e233702e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4316/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Plan Management types data March 2025.csv\"",
+    "ETag": "\"1747180247:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 13 May 2025 23:50:46 GMT"
+  },
+  "sha256": "5cdea41f19f2767200bdce2723d4edd1bfb09ff046518c3ff9a57816a56089c8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4316/download?attachment="
+}

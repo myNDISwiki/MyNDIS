@@ -1,0 +1,22 @@
+{
+  "bytes": 97403,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/d99229c75b931a0d4b346d6cfe4adaf51fc0ef2ecacb24f8f28f0fb18716864c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4270/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Utilisation plan budgets data rules.docx\"",
+    "ETag": "\"1786681416:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:23:35 GMT"
+  },
+  "sha256": "e109bc814901445dbafd32727c7521b8c664d3a6a84771877f918265d9ba4558",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4270/download?attachment="
+}

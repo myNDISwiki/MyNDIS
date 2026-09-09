@@ -1,0 +1,22 @@
+{
+  "bytes": 908247,
+  "content_type": "application/pdf",
+  "directory": "resources/dc1ac91df080064de740d1563d511b7bd43992f9b47942db0b64dc000f06ca95",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3659/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"1b - Detailed Cost Estimate Report - MBM - 18 May 2023.pdf\"",
+    "ETag": "\"1686875687:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:34:46 GMT"
+  },
+  "sha256": "1dbc67be1d081eebbeb0cc08145272b70634d08ce926ff66be058b7c002d6a6e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3659/download?attachment="
+}

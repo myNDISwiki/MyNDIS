@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2dce302038172306a8a6dceae8b6c4870b85c8ca3179677e35c676547442b821",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3035/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Mid North Coast_data.xlsx\"",
+    "ETag": "\"1637192219:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:36:58 GMT"
+  },
+  "sha256": "d92abd32e57085cd8260ebace9cbca7f8b33f1e0aa12d585ba897589dfeaabfa",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3035/download?attachment="
+}

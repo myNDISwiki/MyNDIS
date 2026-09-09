@@ -1,0 +1,22 @@
+{
+  "bytes": 2277409,
+  "content_type": "application/pdf",
+  "directory": "resources/a7a3c5dd3f84f059fe10075927aaeda7ce1c0421cb02afb84895b9d4d5275a6d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3543/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS185_Autism Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS185_Autism%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671582750:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 00:32:29 GMT"
+  },
+  "sha256": "0b219e2cf525828c991e3a55194f894f95fdd2411706d7393af59f239c43bd18",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3543/download?attachment="
+}

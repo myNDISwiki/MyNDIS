@@ -1,0 +1,22 @@
+{
+  "bytes": 358353,
+  "content_type": "application/pdf",
+  "directory": "resources/1ad58309f0341a5f48830afc431252a91d584a713d5f8254a41c019f2264e1e1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3174/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard North Metro.pdf\"",
+    "ETag": "\"1637286173:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:42:52 GMT"
+  },
+  "sha256": "74eb576ba38415bd5d02fd18d9496873cc176753e11548e8415182afd248902e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3174/download?attachment="
+}

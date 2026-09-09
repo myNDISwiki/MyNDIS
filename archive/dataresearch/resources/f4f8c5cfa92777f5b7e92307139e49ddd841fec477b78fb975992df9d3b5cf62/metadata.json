@@ -1,0 +1,22 @@
+{
+  "bytes": 63044,
+  "content_type": "application/pdf",
+  "directory": "resources/f4f8c5cfa92777f5b7e92307139e49ddd841fec477b78fb975992df9d3b5cf62",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1536/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 10 school to 14 Has NDIS helped.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "7e411067880557db453a453a1258bb39aaf760a344ee3635ae266a41891a2dbd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1536/download?attachment="
+}

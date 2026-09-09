@@ -1,0 +1,22 @@
+{
+  "bytes": 4589087,
+  "content_type": "application/pdf",
+  "directory": "resources/1dbea74028e01555ca80f58c6678ab176a1d0f2fc6f25f05491d7721ab855788",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2544/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes 30 June 2020 longitudinal Ch 2 PDF.pdf\"",
+    "ETag": "\"1635836129:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:28 GMT"
+  },
+  "sha256": "cbbda5740b32aa8697a81e6c919aeb7f0d2694a287e497f65a3eee63dfff9fea",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2544/download?attachment="
+}

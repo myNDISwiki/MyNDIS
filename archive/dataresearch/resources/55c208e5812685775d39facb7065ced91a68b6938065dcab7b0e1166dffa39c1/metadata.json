@@ -1,0 +1,22 @@
+{
+  "bytes": 101457,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/55c208e5812685775d39facb7065ced91a68b6938065dcab7b0e1166dffa39c1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3989/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement O 2023-24 Q3 Participants by service district.xlsx\"",
+    "ETag": "\"1715565897:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 13 May 2024 02:04:56 GMT"
+  },
+  "sha256": "b6fcc67ea2c98791e01b64808b63e3ea83a51ea9214854a9558c7b679dd52134",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3989/download?attachment="
+}

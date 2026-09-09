@@ -1,0 +1,22 @@
+{
+  "bytes": 12832202,
+  "content_type": "application/pdf",
+  "directory": "resources/7080cdb573b9a79c6d93d89f5fa375c045d3843105f4df30a6b83a9db2cef67d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2511/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes 20 June 2020 Appendix D PDF.pdf\"",
+    "ETag": "\"1635836128:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:27 GMT"
+  },
+  "sha256": "052140f525b0798950d9fc1a8bc152e4a75273ddf57972e0c994c4d9755c5c46",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2511/download?attachment="
+}

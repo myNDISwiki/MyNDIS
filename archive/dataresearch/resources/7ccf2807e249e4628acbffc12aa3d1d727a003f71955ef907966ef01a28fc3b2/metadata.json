@@ -1,0 +1,22 @@
+{
+  "bytes": 3065559,
+  "content_type": "application/zip",
+  "directory": "resources/7ccf2807e249e4628acbffc12aa3d1d727a003f71955ef907966ef01a28fc3b2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3335/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Data SA.zip\"",
+    "ETag": "\"1648006106:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 03:28:25 GMT"
+  },
+  "sha256": "3874e50f47a0fc36f56c4c30d7c1870712113aca3e9ff4b6b1f33802c879020d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3335/download?attachment="
+}

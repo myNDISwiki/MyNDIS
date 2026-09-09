@@ -1,0 +1,22 @@
+{
+  "bytes": 1275154,
+  "content_type": "application/pdf",
+  "directory": "resources/585b09e9fe6500a9baec215f7f7ad774b651502333d06a829b3d126b82bd767e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4483/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=AFSR-15-16-peer-review.pdf",
+    "ETag": "\"1769128596:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 23 Jan 2026 00:36:35 GMT"
+  },
+  "sha256": "511cc38dcfda70f04aded76277ba25ca4eeb3ccc64694f8ee1b6328d23999f55",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4483/download?attachment="
+}

@@ -1,0 +1,1285 @@
+﻿RprtDt,StateCd,SrvcDstrctDesc,SDAStatus,SDA_participants_masked
+30Jun2026,ACT,ACT,SDA eligible - not yet using,140
+30Jun2026,ACT,ACT,SDA in use,214
+30Jun2026,NSW,Central Coast,SDA eligible - not yet using,144
+30Jun2026,NSW,Central Coast,SDA in use,297
+30Jun2026,NSW,Far West,SDA eligible - not yet using,11
+30Jun2026,NSW,Far West,SDA in use,<11
+30Jun2026,NSW,Hunter New England,SDA eligible - not yet using,371
+30Jun2026,NSW,Hunter New England,SDA in use,738
+30Jun2026,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,180
+30Jun2026,NSW,Illawarra Shoalhaven,SDA in use,316
+30Jun2026,NSW,Mid North Coast,SDA eligible - not yet using,120
+30Jun2026,NSW,Mid North Coast,SDA in use,121
+30Jun2026,NSW,Murrumbidgee,SDA eligible - not yet using,133
+30Jun2026,NSW,Murrumbidgee,SDA in use,253
+30Jun2026,NSW,Nepean Blue Mountains,SDA eligible - not yet using,147
+30Jun2026,NSW,Nepean Blue Mountains,SDA in use,404
+30Jun2026,NSW,North Sydney,SDA eligible - not yet using,242
+30Jun2026,NSW,North Sydney,SDA in use,640
+30Jun2026,NSW,Northern NSW,SDA eligible - not yet using,153
+30Jun2026,NSW,Northern NSW,SDA in use,188
+30Jun2026,NSW,South Eastern Sydney,SDA eligible - not yet using,225
+30Jun2026,NSW,South Eastern Sydney,SDA in use,408
+30Jun2026,NSW,South Western Sydney,SDA eligible - not yet using,484
+30Jun2026,NSW,South Western Sydney,SDA in use,533
+30Jun2026,NSW,Southern NSW,SDA eligible - not yet using,58
+30Jun2026,NSW,Southern NSW,SDA in use,104
+30Jun2026,NSW,Sydney,SDA eligible - not yet using,121
+30Jun2026,NSW,Sydney,SDA in use,128
+30Jun2026,NSW,Western NSW,SDA eligible - not yet using,143
+30Jun2026,NSW,Western NSW,SDA in use,274
+30Jun2026,NSW,Western Sydney,SDA eligible - not yet using,365
+30Jun2026,NSW,Western Sydney,SDA in use,791
+30Jun2026,NT,Barkly,SDA eligible - not yet using,<11
+30Jun2026,NT,Central Australia,SDA eligible - not yet using,65
+30Jun2026,NT,Central Australia,SDA in use,13
+30Jun2026,NT,Darwin Remote,SDA eligible - not yet using,<11
+30Jun2026,NT,Darwin Urban,SDA eligible - not yet using,93
+30Jun2026,NT,Darwin Urban,SDA in use,88
+30Jun2026,NT,East Arnhem,SDA eligible - not yet using,<11
+30Jun2026,NT,Katherine,SDA eligible - not yet using,16
+30Jun2026,NT,Katherine,SDA in use,13
+30Jun2026,NT,NT - Other,SDA eligible - not yet using,<11
+30Jun2026,NT,NT - Other,SDA in use,<11
+30Jun2026,QLD,Beenleigh,SDA eligible - not yet using,168
+30Jun2026,QLD,Beenleigh,SDA in use,353
+30Jun2026,QLD,Brisbane,SDA eligible - not yet using,367
+30Jun2026,QLD,Brisbane,SDA in use,531
+30Jun2026,QLD,Bundaberg,SDA eligible - not yet using,39
+30Jun2026,QLD,Bundaberg,SDA in use,91
+30Jun2026,QLD,Caboolture/Strathpine,SDA eligible - not yet using,168
+30Jun2026,QLD,Caboolture/Strathpine,SDA in use,347
+30Jun2026,QLD,Cairns,SDA eligible - not yet using,97
+30Jun2026,QLD,Cairns,SDA in use,137
+30Jun2026,QLD,Ipswich,SDA eligible - not yet using,159
+30Jun2026,QLD,Ipswich,SDA in use,224
+30Jun2026,QLD,Mackay,SDA eligible - not yet using,26
+30Jun2026,QLD,Mackay,SDA in use,77
+30Jun2026,QLD,Maroochydore,SDA eligible - not yet using,143
+30Jun2026,QLD,Maroochydore,SDA in use,214
+30Jun2026,QLD,Maryborough,SDA eligible - not yet using,49
+30Jun2026,QLD,Maryborough,SDA in use,122
+30Jun2026,QLD,Robina,SDA eligible - not yet using,188
+30Jun2026,QLD,Robina,SDA in use,317
+30Jun2026,QLD,Rockhampton,SDA eligible - not yet using,87
+30Jun2026,QLD,Rockhampton,SDA in use,95
+30Jun2026,QLD,Toowoomba,SDA eligible - not yet using,124
+30Jun2026,QLD,Toowoomba,SDA in use,205
+30Jun2026,QLD,Townsville,SDA eligible - not yet using,95
+30Jun2026,QLD,Townsville,SDA in use,143
+30Jun2026,SA,Adelaide Hills,SDA eligible - not yet using,22
+30Jun2026,SA,Adelaide Hills,SDA in use,39
+30Jun2026,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,24
+30Jun2026,SA,"Barossa, Light and Lower North",SDA in use,29
+30Jun2026,SA,Eastern Adelaide,SDA eligible - not yet using,83
+30Jun2026,SA,Eastern Adelaide,SDA in use,196
+30Jun2026,SA,Eyre and Western,SDA eligible - not yet using,24
+30Jun2026,SA,Eyre and Western,SDA in use,<11
+30Jun2026,SA,Far North (SA),SDA eligible - not yet using,12
+30Jun2026,SA,Far North (SA),SDA in use,<11
+30Jun2026,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,29
+30Jun2026,SA,Fleurieu and Kangaroo Island,SDA in use,32
+30Jun2026,SA,Limestone Coast,SDA eligible - not yet using,32
+30Jun2026,SA,Limestone Coast,SDA in use,34
+30Jun2026,SA,Murray and Mallee,SDA eligible - not yet using,26
+30Jun2026,SA,Murray and Mallee,SDA in use,53
+30Jun2026,SA,Northern Adelaide,SDA eligible - not yet using,297
+30Jun2026,SA,Northern Adelaide,SDA in use,641
+30Jun2026,SA,SA - Other,SDA eligible - not yet using,<11
+30Jun2026,SA,Southern Adelaide,SDA eligible - not yet using,236
+30Jun2026,SA,Southern Adelaide,SDA in use,468
+30Jun2026,SA,Western Adelaide,SDA eligible - not yet using,81
+30Jun2026,SA,Western Adelaide,SDA in use,140
+30Jun2026,SA,Yorke and Mid North,SDA eligible - not yet using,21
+30Jun2026,SA,Yorke and Mid North,SDA in use,21
+30Jun2026,TAS,TAS North,SDA eligible - not yet using,91
+30Jun2026,TAS,TAS North,SDA in use,66
+30Jun2026,TAS,TAS North West,SDA eligible - not yet using,84
+30Jun2026,TAS,TAS North West,SDA in use,39
+30Jun2026,TAS,TAS South East,SDA eligible - not yet using,78
+30Jun2026,TAS,TAS South East,SDA in use,32
+30Jun2026,TAS,TAS South West,SDA eligible - not yet using,116
+30Jun2026,TAS,TAS South West,SDA in use,<11
+30Jun2026,VIC,Barwon,SDA eligible - not yet using,88
+30Jun2026,VIC,Barwon,SDA in use,423
+30Jun2026,VIC,Bayside Peninsula,SDA eligible - not yet using,213
+30Jun2026,VIC,Bayside Peninsula,SDA in use,741
+30Jun2026,VIC,Brimbank Melton,SDA eligible - not yet using,86
+30Jun2026,VIC,Brimbank Melton,SDA in use,317
+30Jun2026,VIC,Central Highlands,SDA eligible - not yet using,67
+30Jun2026,VIC,Central Highlands,SDA in use,334
+30Jun2026,VIC,Goulburn,SDA eligible - not yet using,72
+30Jun2026,VIC,Goulburn,SDA in use,113
+30Jun2026,VIC,Hume Moreland,SDA eligible - not yet using,106
+30Jun2026,VIC,Hume Moreland,SDA in use,239
+30Jun2026,VIC,Inner East Melbourne,SDA eligible - not yet using,155
+30Jun2026,VIC,Inner East Melbourne,SDA in use,601
+30Jun2026,VIC,Inner Gippsland,SDA eligible - not yet using,61
+30Jun2026,VIC,Inner Gippsland,SDA in use,140
+30Jun2026,VIC,Loddon,SDA eligible - not yet using,95
+30Jun2026,VIC,Loddon,SDA in use,206
+30Jun2026,VIC,Mallee,SDA eligible - not yet using,23
+30Jun2026,VIC,Mallee,SDA in use,85
+30Jun2026,VIC,North East Melbourne,SDA eligible - not yet using,189
+30Jun2026,VIC,North East Melbourne,SDA in use,660
+30Jun2026,VIC,Outer East Melbourne,SDA eligible - not yet using,138
+30Jun2026,VIC,Outer East Melbourne,SDA in use,410
+30Jun2026,VIC,Outer Gippsland,SDA eligible - not yet using,38
+30Jun2026,VIC,Outer Gippsland,SDA in use,57
+30Jun2026,VIC,Ovens Murray,SDA eligible - not yet using,42
+30Jun2026,VIC,Ovens Murray,SDA in use,121
+30Jun2026,VIC,Southern Melbourne,SDA eligible - not yet using,201
+30Jun2026,VIC,Southern Melbourne,SDA in use,472
+30Jun2026,VIC,Western District,SDA eligible - not yet using,59
+30Jun2026,VIC,Western District,SDA in use,231
+30Jun2026,VIC,Western Melbourne,SDA eligible - not yet using,158
+30Jun2026,VIC,Western Melbourne,SDA in use,426
+30Jun2026,WA,Central North Metro,SDA eligible - not yet using,169
+30Jun2026,WA,Central North Metro,SDA in use,98
+30Jun2026,WA,Central South Metro,SDA eligible - not yet using,98
+30Jun2026,WA,Central South Metro,SDA in use,109
+30Jun2026,WA,Goldfields-Esperance,SDA eligible - not yet using,32
+30Jun2026,WA,Great Southern,SDA eligible - not yet using,29
+30Jun2026,WA,Great Southern,SDA in use,<11
+30Jun2026,WA,Kimberley-Pilbara,SDA eligible - not yet using,37
+30Jun2026,WA,Kimberley-Pilbara,SDA in use,<11
+30Jun2026,WA,Midwest-Gascoyne,SDA eligible - not yet using,13
+30Jun2026,WA,Midwest-Gascoyne,SDA in use,21
+30Jun2026,WA,North East Metro,SDA eligible - not yet using,202
+30Jun2026,WA,North East Metro,SDA in use,140
+30Jun2026,WA,North Metro,SDA eligible - not yet using,114
+30Jun2026,WA,North Metro,SDA in use,130
+30Jun2026,WA,South East Metro,SDA eligible - not yet using,165
+30Jun2026,WA,South East Metro,SDA in use,183
+30Jun2026,WA,South Metro,SDA eligible - not yet using,105
+30Jun2026,WA,South Metro,SDA in use,139
+30Jun2026,WA,South West,SDA eligible - not yet using,53
+30Jun2026,WA,South West,SDA in use,31
+30Jun2026,WA,Wheat Belt,SDA eligible - not yet using,<11
+30Jun2026,WA,Wheat Belt,SDA in use,<11
+31Mar2026,ACT,ACT,SDA eligible - not yet using,140
+31Mar2026,ACT,ACT,SDA in use,212
+31Mar2026,NSW,Central Coast,SDA eligible - not yet using,154
+31Mar2026,NSW,Central Coast,SDA in use,282
+31Mar2026,NSW,Far West,SDA eligible - not yet using,12
+31Mar2026,NSW,Far West,SDA in use,<11
+31Mar2026,NSW,Hunter New England,SDA eligible - not yet using,384
+31Mar2026,NSW,Hunter New England,SDA in use,723
+31Mar2026,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,190
+31Mar2026,NSW,Illawarra Shoalhaven,SDA in use,310
+31Mar2026,NSW,Mid North Coast,SDA eligible - not yet using,121
+31Mar2026,NSW,Mid North Coast,SDA in use,120
+31Mar2026,NSW,Murrumbidgee,SDA eligible - not yet using,137
+31Mar2026,NSW,Murrumbidgee,SDA in use,248
+31Mar2026,NSW,Nepean Blue Mountains,SDA eligible - not yet using,153
+31Mar2026,NSW,Nepean Blue Mountains,SDA in use,407
+31Mar2026,NSW,North Sydney,SDA eligible - not yet using,251
+31Mar2026,NSW,North Sydney,SDA in use,633
+31Mar2026,NSW,Northern NSW,SDA eligible - not yet using,152
+31Mar2026,NSW,Northern NSW,SDA in use,188
+31Mar2026,NSW,South Eastern Sydney,SDA eligible - not yet using,233
+31Mar2026,NSW,South Eastern Sydney,SDA in use,408
+31Mar2026,NSW,South Western Sydney,SDA eligible - not yet using,500
+31Mar2026,NSW,South Western Sydney,SDA in use,521
+31Mar2026,NSW,Southern NSW,SDA eligible - not yet using,59
+31Mar2026,NSW,Southern NSW,SDA in use,107
+31Mar2026,NSW,Sydney,SDA eligible - not yet using,130
+31Mar2026,NSW,Sydney,SDA in use,125
+31Mar2026,NSW,Western NSW,SDA eligible - not yet using,141
+31Mar2026,NSW,Western NSW,SDA in use,277
+31Mar2026,NSW,Western Sydney,SDA eligible - not yet using,374
+31Mar2026,NSW,Western Sydney,SDA in use,778
+31Mar2026,NT,Barkly,SDA eligible - not yet using,<11
+31Mar2026,NT,Central Australia,SDA eligible - not yet using,69
+31Mar2026,NT,Central Australia,SDA in use,11
+31Mar2026,NT,Darwin Remote,SDA eligible - not yet using,<11
+31Mar2026,NT,Darwin Urban,SDA eligible - not yet using,100
+31Mar2026,NT,Darwin Urban,SDA in use,83
+31Mar2026,NT,East Arnhem,SDA eligible - not yet using,<11
+31Mar2026,NT,East Arnhem,SDA in use,<11
+31Mar2026,NT,Katherine,SDA eligible - not yet using,16
+31Mar2026,NT,Katherine,SDA in use,13
+31Mar2026,NT,NT - Other,SDA eligible - not yet using,<11
+31Mar2026,NT,NT - Other,SDA in use,<11
+31Mar2026,QLD,Beenleigh,SDA eligible - not yet using,168
+31Mar2026,QLD,Beenleigh,SDA in use,352
+31Mar2026,QLD,Brisbane,SDA eligible - not yet using,385
+31Mar2026,QLD,Brisbane,SDA in use,500
+31Mar2026,QLD,Bundaberg,SDA eligible - not yet using,42
+31Mar2026,QLD,Bundaberg,SDA in use,87
+31Mar2026,QLD,Caboolture/Strathpine,SDA eligible - not yet using,184
+31Mar2026,QLD,Caboolture/Strathpine,SDA in use,338
+31Mar2026,QLD,Cairns,SDA eligible - not yet using,99
+31Mar2026,QLD,Cairns,SDA in use,133
+31Mar2026,QLD,Ipswich,SDA eligible - not yet using,165
+31Mar2026,QLD,Ipswich,SDA in use,222
+31Mar2026,QLD,Mackay,SDA eligible - not yet using,30
+31Mar2026,QLD,Mackay,SDA in use,74
+31Mar2026,QLD,Maroochydore,SDA eligible - not yet using,143
+31Mar2026,QLD,Maroochydore,SDA in use,206
+31Mar2026,QLD,Maryborough,SDA eligible - not yet using,49
+31Mar2026,QLD,Maryborough,SDA in use,116
+31Mar2026,QLD,Robina,SDA eligible - not yet using,194
+31Mar2026,QLD,Robina,SDA in use,298
+31Mar2026,QLD,Rockhampton,SDA eligible - not yet using,91
+31Mar2026,QLD,Rockhampton,SDA in use,95
+31Mar2026,QLD,Toowoomba,SDA eligible - not yet using,134
+31Mar2026,QLD,Toowoomba,SDA in use,206
+31Mar2026,QLD,Townsville,SDA eligible - not yet using,97
+31Mar2026,QLD,Townsville,SDA in use,138
+31Mar2026,SA,Adelaide Hills,SDA eligible - not yet using,21
+31Mar2026,SA,Adelaide Hills,SDA in use,36
+31Mar2026,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,23
+31Mar2026,SA,"Barossa, Light and Lower North",SDA in use,29
+31Mar2026,SA,Eastern Adelaide,SDA eligible - not yet using,89
+31Mar2026,SA,Eastern Adelaide,SDA in use,190
+31Mar2026,SA,Eyre and Western,SDA eligible - not yet using,24
+31Mar2026,SA,Eyre and Western,SDA in use,<11
+31Mar2026,SA,Far North (SA),SDA eligible - not yet using,12
+31Mar2026,SA,Far North (SA),SDA in use,<11
+31Mar2026,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,31
+31Mar2026,SA,Fleurieu and Kangaroo Island,SDA in use,30
+31Mar2026,SA,Limestone Coast,SDA eligible - not yet using,32
+31Mar2026,SA,Limestone Coast,SDA in use,34
+31Mar2026,SA,Murray and Mallee,SDA eligible - not yet using,30
+31Mar2026,SA,Murray and Mallee,SDA in use,52
+31Mar2026,SA,Northern Adelaide,SDA eligible - not yet using,298
+31Mar2026,SA,Northern Adelaide,SDA in use,629
+31Mar2026,SA,SA - Other,SDA eligible - not yet using,<11
+31Mar2026,SA,Southern Adelaide,SDA eligible - not yet using,258
+31Mar2026,SA,Southern Adelaide,SDA in use,446
+31Mar2026,SA,Western Adelaide,SDA eligible - not yet using,81
+31Mar2026,SA,Western Adelaide,SDA in use,133
+31Mar2026,SA,Yorke and Mid North,SDA eligible - not yet using,19
+31Mar2026,SA,Yorke and Mid North,SDA in use,20
+31Mar2026,TAS,TAS North,SDA eligible - not yet using,97
+31Mar2026,TAS,TAS North,SDA in use,62
+31Mar2026,TAS,TAS North West,SDA eligible - not yet using,91
+31Mar2026,TAS,TAS North West,SDA in use,33
+31Mar2026,TAS,TAS South East,SDA eligible - not yet using,81
+31Mar2026,TAS,TAS South East,SDA in use,27
+31Mar2026,TAS,TAS South West,SDA eligible - not yet using,115
+31Mar2026,TAS,TAS South West,SDA in use,<11
+31Mar2026,VIC,Barwon,SDA eligible - not yet using,95
+31Mar2026,VIC,Barwon,SDA in use,414
+31Mar2026,VIC,Bayside Peninsula,SDA eligible - not yet using,226
+31Mar2026,VIC,Bayside Peninsula,SDA in use,735
+31Mar2026,VIC,Brimbank Melton,SDA eligible - not yet using,91
+31Mar2026,VIC,Brimbank Melton,SDA in use,301
+31Mar2026,VIC,Central Highlands,SDA eligible - not yet using,68
+31Mar2026,VIC,Central Highlands,SDA in use,330
+31Mar2026,VIC,Goulburn,SDA eligible - not yet using,73
+31Mar2026,VIC,Goulburn,SDA in use,112
+31Mar2026,VIC,Hume Moreland,SDA eligible - not yet using,109
+31Mar2026,VIC,Hume Moreland,SDA in use,235
+31Mar2026,VIC,Inner East Melbourne,SDA eligible - not yet using,158
+31Mar2026,VIC,Inner East Melbourne,SDA in use,605
+31Mar2026,VIC,Inner Gippsland,SDA eligible - not yet using,63
+31Mar2026,VIC,Inner Gippsland,SDA in use,137
+31Mar2026,VIC,Loddon,SDA eligible - not yet using,100
+31Mar2026,VIC,Loddon,SDA in use,198
+31Mar2026,VIC,Mallee,SDA eligible - not yet using,23
+31Mar2026,VIC,Mallee,SDA in use,86
+31Mar2026,VIC,North East Melbourne,SDA eligible - not yet using,198
+31Mar2026,VIC,North East Melbourne,SDA in use,653
+31Mar2026,VIC,Outer East Melbourne,SDA eligible - not yet using,149
+31Mar2026,VIC,Outer East Melbourne,SDA in use,402
+31Mar2026,VIC,Outer Gippsland,SDA eligible - not yet using,39
+31Mar2026,VIC,Outer Gippsland,SDA in use,56
+31Mar2026,VIC,Ovens Murray,SDA eligible - not yet using,44
+31Mar2026,VIC,Ovens Murray,SDA in use,117
+31Mar2026,VIC,Southern Melbourne,SDA eligible - not yet using,206
+31Mar2026,VIC,Southern Melbourne,SDA in use,458
+31Mar2026,VIC,Western District,SDA eligible - not yet using,63
+31Mar2026,VIC,Western District,SDA in use,231
+31Mar2026,VIC,Western Melbourne,SDA eligible - not yet using,169
+31Mar2026,VIC,Western Melbourne,SDA in use,419
+31Mar2026,WA,Central North Metro,SDA eligible - not yet using,174
+31Mar2026,WA,Central North Metro,SDA in use,92
+31Mar2026,WA,Central South Metro,SDA eligible - not yet using,103
+31Mar2026,WA,Central South Metro,SDA in use,101
+31Mar2026,WA,Goldfields-Esperance,SDA eligible - not yet using,32
+31Mar2026,WA,Great Southern,SDA eligible - not yet using,31
+31Mar2026,WA,Great Southern,SDA in use,<11
+31Mar2026,WA,Kimberley-Pilbara,SDA eligible - not yet using,36
+31Mar2026,WA,Kimberley-Pilbara,SDA in use,<11
+31Mar2026,WA,Midwest-Gascoyne,SDA eligible - not yet using,13
+31Mar2026,WA,Midwest-Gascoyne,SDA in use,20
+31Mar2026,WA,North East Metro,SDA eligible - not yet using,217
+31Mar2026,WA,North East Metro,SDA in use,128
+31Mar2026,WA,North Metro,SDA eligible - not yet using,117
+31Mar2026,WA,North Metro,SDA in use,122
+31Mar2026,WA,South East Metro,SDA eligible - not yet using,174
+31Mar2026,WA,South East Metro,SDA in use,174
+31Mar2026,WA,South Metro,SDA eligible - not yet using,117
+31Mar2026,WA,South Metro,SDA in use,131
+31Mar2026,WA,South West,SDA eligible - not yet using,55
+31Mar2026,WA,South West,SDA in use,29
+31Mar2026,WA,Wheat Belt,SDA eligible - not yet using,<11
+31Mar2026,WA,Wheat Belt,SDA in use,<11
+31Dec2025,ACT,ACT,SDA eligible - not yet using,139
+31Dec2025,ACT,ACT,SDA in use,210
+31Dec2025,NSW,Central Coast,SDA eligible - not yet using,158
+31Dec2025,NSW,Central Coast,SDA in use,278
+31Dec2025,NSW,Far West,SDA eligible - not yet using,15
+31Dec2025,NSW,Far West,SDA in use,11
+31Dec2025,NSW,Hunter New England,SDA eligible - not yet using,389
+31Dec2025,NSW,Hunter New England,SDA in use,720
+31Dec2025,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,196
+31Dec2025,NSW,Illawarra Shoalhaven,SDA in use,306
+31Dec2025,NSW,Mid North Coast,SDA eligible - not yet using,116
+31Dec2025,NSW,Mid North Coast,SDA in use,120
+31Dec2025,NSW,Murrumbidgee,SDA eligible - not yet using,136
+31Dec2025,NSW,Murrumbidgee,SDA in use,249
+31Dec2025,NSW,Nepean Blue Mountains,SDA eligible - not yet using,144
+31Dec2025,NSW,Nepean Blue Mountains,SDA in use,401
+31Dec2025,NSW,North Sydney,SDA eligible - not yet using,256
+31Dec2025,NSW,North Sydney,SDA in use,634
+31Dec2025,NSW,Northern NSW,SDA eligible - not yet using,151
+31Dec2025,NSW,Northern NSW,SDA in use,191
+31Dec2025,NSW,South Eastern Sydney,SDA eligible - not yet using,221
+31Dec2025,NSW,South Eastern Sydney,SDA in use,406
+31Dec2025,NSW,South Western Sydney,SDA eligible - not yet using,512
+31Dec2025,NSW,South Western Sydney,SDA in use,511
+31Dec2025,NSW,Southern NSW,SDA eligible - not yet using,59
+31Dec2025,NSW,Southern NSW,SDA in use,110
+31Dec2025,NSW,Sydney,SDA eligible - not yet using,137
+31Dec2025,NSW,Sydney,SDA in use,122
+31Dec2025,NSW,Western NSW,SDA eligible - not yet using,145
+31Dec2025,NSW,Western NSW,SDA in use,280
+31Dec2025,NSW,Western Sydney,SDA eligible - not yet using,377
+31Dec2025,NSW,Western Sydney,SDA in use,773
+31Dec2025,NT,Barkly,SDA eligible - not yet using,<11
+31Dec2025,NT,Central Australia,SDA eligible - not yet using,68
+31Dec2025,NT,Central Australia,SDA in use,<11
+31Dec2025,NT,Darwin Remote,SDA eligible - not yet using,<11
+31Dec2025,NT,Darwin Urban,SDA eligible - not yet using,105
+31Dec2025,NT,Darwin Urban,SDA in use,74
+31Dec2025,NT,East Arnhem,SDA eligible - not yet using,<11
+31Dec2025,NT,East Arnhem,SDA in use,<11
+31Dec2025,NT,Katherine,SDA eligible - not yet using,15
+31Dec2025,NT,Katherine,SDA in use,14
+31Dec2025,NT,NT - Other,SDA eligible - not yet using,<11
+31Dec2025,NT,NT - Other,SDA in use,<11
+31Dec2025,QLD,Beenleigh,SDA eligible - not yet using,176
+31Dec2025,QLD,Beenleigh,SDA in use,343
+31Dec2025,QLD,Brisbane,SDA eligible - not yet using,390
+31Dec2025,QLD,Brisbane,SDA in use,486
+31Dec2025,QLD,Bundaberg,SDA eligible - not yet using,43
+31Dec2025,QLD,Bundaberg,SDA in use,85
+31Dec2025,QLD,Caboolture/Strathpine,SDA eligible - not yet using,175
+31Dec2025,QLD,Caboolture/Strathpine,SDA in use,334
+31Dec2025,QLD,Cairns,SDA eligible - not yet using,104
+31Dec2025,QLD,Cairns,SDA in use,124
+31Dec2025,QLD,Ipswich,SDA eligible - not yet using,169
+31Dec2025,QLD,Ipswich,SDA in use,216
+31Dec2025,QLD,Mackay,SDA eligible - not yet using,32
+31Dec2025,QLD,Mackay,SDA in use,69
+31Dec2025,QLD,Maroochydore,SDA eligible - not yet using,142
+31Dec2025,QLD,Maroochydore,SDA in use,199
+31Dec2025,QLD,Maryborough,SDA eligible - not yet using,50
+31Dec2025,QLD,Maryborough,SDA in use,118
+31Dec2025,QLD,Robina,SDA eligible - not yet using,188
+31Dec2025,QLD,Robina,SDA in use,283
+31Dec2025,QLD,Rockhampton,SDA eligible - not yet using,94
+31Dec2025,QLD,Rockhampton,SDA in use,92
+31Dec2025,QLD,Toowoomba,SDA eligible - not yet using,146
+31Dec2025,QLD,Toowoomba,SDA in use,200
+31Dec2025,QLD,Townsville,SDA eligible - not yet using,103
+31Dec2025,QLD,Townsville,SDA in use,129
+31Dec2025,SA,Adelaide Hills,SDA eligible - not yet using,21
+31Dec2025,SA,Adelaide Hills,SDA in use,35
+31Dec2025,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,24
+31Dec2025,SA,"Barossa, Light and Lower North",SDA in use,31
+31Dec2025,SA,Eastern Adelaide,SDA eligible - not yet using,88
+31Dec2025,SA,Eastern Adelaide,SDA in use,188
+31Dec2025,SA,Eyre and Western,SDA eligible - not yet using,24
+31Dec2025,SA,Eyre and Western,SDA in use,<11
+31Dec2025,SA,Far North (SA),SDA eligible - not yet using,13
+31Dec2025,SA,Far North (SA),SDA in use,<11
+31Dec2025,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,28
+31Dec2025,SA,Fleurieu and Kangaroo Island,SDA in use,29
+31Dec2025,SA,Limestone Coast,SDA eligible - not yet using,32
+31Dec2025,SA,Limestone Coast,SDA in use,33
+31Dec2025,SA,Murray and Mallee,SDA eligible - not yet using,32
+31Dec2025,SA,Murray and Mallee,SDA in use,49
+31Dec2025,SA,Northern Adelaide,SDA eligible - not yet using,308
+31Dec2025,SA,Northern Adelaide,SDA in use,617
+31Dec2025,SA,SA - Other,SDA eligible - not yet using,<11
+31Dec2025,SA,Southern Adelaide,SDA eligible - not yet using,271
+31Dec2025,SA,Southern Adelaide,SDA in use,430
+31Dec2025,SA,Western Adelaide,SDA eligible - not yet using,86
+31Dec2025,SA,Western Adelaide,SDA in use,121
+31Dec2025,SA,Yorke and Mid North,SDA eligible - not yet using,22
+31Dec2025,SA,Yorke and Mid North,SDA in use,19
+31Dec2025,TAS,TAS North,SDA eligible - not yet using,101
+31Dec2025,TAS,TAS North,SDA in use,52
+31Dec2025,TAS,TAS North West,SDA eligible - not yet using,94
+31Dec2025,TAS,TAS North West,SDA in use,32
+31Dec2025,TAS,TAS South East,SDA eligible - not yet using,79
+31Dec2025,TAS,TAS South East,SDA in use,18
+31Dec2025,TAS,TAS South West,SDA eligible - not yet using,114
+31Dec2025,TAS,TAS South West,SDA in use,11
+31Dec2025,VIC,Barwon,SDA eligible - not yet using,100
+31Dec2025,VIC,Barwon,SDA in use,400
+31Dec2025,VIC,Bayside Peninsula,SDA eligible - not yet using,236
+31Dec2025,VIC,Bayside Peninsula,SDA in use,724
+31Dec2025,VIC,Brimbank Melton,SDA eligible - not yet using,103
+31Dec2025,VIC,Brimbank Melton,SDA in use,287
+31Dec2025,VIC,Central Highlands,SDA eligible - not yet using,66
+31Dec2025,VIC,Central Highlands,SDA in use,329
+31Dec2025,VIC,Goulburn,SDA eligible - not yet using,73
+31Dec2025,VIC,Goulburn,SDA in use,111
+31Dec2025,VIC,Hume Moreland,SDA eligible - not yet using,120
+31Dec2025,VIC,Hume Moreland,SDA in use,226
+31Dec2025,VIC,Inner East Melbourne,SDA eligible - not yet using,165
+31Dec2025,VIC,Inner East Melbourne,SDA in use,613
+31Dec2025,VIC,Inner Gippsland,SDA eligible - not yet using,68
+31Dec2025,VIC,Inner Gippsland,SDA in use,136
+31Dec2025,VIC,Loddon,SDA eligible - not yet using,103
+31Dec2025,VIC,Loddon,SDA in use,194
+31Dec2025,VIC,Mallee,SDA eligible - not yet using,23
+31Dec2025,VIC,Mallee,SDA in use,85
+31Dec2025,VIC,North East Melbourne,SDA eligible - not yet using,188
+31Dec2025,VIC,North East Melbourne,SDA in use,651
+31Dec2025,VIC,Outer East Melbourne,SDA eligible - not yet using,163
+31Dec2025,VIC,Outer East Melbourne,SDA in use,389
+31Dec2025,VIC,Outer Gippsland,SDA eligible - not yet using,36
+31Dec2025,VIC,Outer Gippsland,SDA in use,59
+31Dec2025,VIC,Ovens Murray,SDA eligible - not yet using,45
+31Dec2025,VIC,Ovens Murray,SDA in use,119
+31Dec2025,VIC,Southern Melbourne,SDA eligible - not yet using,213
+31Dec2025,VIC,Southern Melbourne,SDA in use,435
+31Dec2025,VIC,Western District,SDA eligible - not yet using,69
+31Dec2025,VIC,Western District,SDA in use,231
+31Dec2025,VIC,Western Melbourne,SDA eligible - not yet using,176
+31Dec2025,VIC,Western Melbourne,SDA in use,404
+31Dec2025,WA,Central North Metro,SDA eligible - not yet using,182
+31Dec2025,WA,Central North Metro,SDA in use,87
+31Dec2025,WA,Central South Metro,SDA eligible - not yet using,110
+31Dec2025,WA,Central South Metro,SDA in use,92
+31Dec2025,WA,Goldfields-Esperance,SDA eligible - not yet using,28
+31Dec2025,WA,Great Southern,SDA eligible - not yet using,30
+31Dec2025,WA,Great Southern,SDA in use,<11
+31Dec2025,WA,Kimberley-Pilbara,SDA eligible - not yet using,38
+31Dec2025,WA,Kimberley-Pilbara,SDA in use,<11
+31Dec2025,WA,Midwest-Gascoyne,SDA eligible - not yet using,13
+31Dec2025,WA,Midwest-Gascoyne,SDA in use,19
+31Dec2025,WA,North East Metro,SDA eligible - not yet using,223
+31Dec2025,WA,North East Metro,SDA in use,119
+31Dec2025,WA,North Metro,SDA eligible - not yet using,123
+31Dec2025,WA,North Metro,SDA in use,112
+31Dec2025,WA,South East Metro,SDA eligible - not yet using,179
+31Dec2025,WA,South East Metro,SDA in use,168
+31Dec2025,WA,South Metro,SDA eligible - not yet using,127
+31Dec2025,WA,South Metro,SDA in use,118
+31Dec2025,WA,South West,SDA eligible - not yet using,58
+31Dec2025,WA,South West,SDA in use,30
+31Dec2025,WA,Wheat Belt,SDA eligible - not yet using,<11
+31Dec2025,WA,Wheat Belt,SDA in use,<11
+30Sep2025,ACT,ACT,SDA eligible - not yet using,143
+30Sep2025,ACT,ACT,SDA in use,201
+30Sep2025,NSW,Central Coast,SDA eligible - not yet using,164
+30Sep2025,NSW,Central Coast,SDA in use,275
+30Sep2025,NSW,Far West,SDA eligible - not yet using,14
+30Sep2025,NSW,Far West,SDA in use,11
+30Sep2025,NSW,Hunter New England,SDA eligible - not yet using,406
+30Sep2025,NSW,Hunter New England,SDA in use,697
+30Sep2025,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,197
+30Sep2025,NSW,Illawarra Shoalhaven,SDA in use,297
+30Sep2025,NSW,Mid North Coast,SDA eligible - not yet using,115
+30Sep2025,NSW,Mid North Coast,SDA in use,117
+30Sep2025,NSW,Murrumbidgee,SDA eligible - not yet using,124
+30Sep2025,NSW,Murrumbidgee,SDA in use,250
+30Sep2025,NSW,NSW - Other,SDA in use,<11
+30Sep2025,NSW,Nepean Blue Mountains,SDA eligible - not yet using,166
+30Sep2025,NSW,Nepean Blue Mountains,SDA in use,382
+30Sep2025,NSW,North Sydney,SDA eligible - not yet using,246
+30Sep2025,NSW,North Sydney,SDA in use,638
+30Sep2025,NSW,Northern NSW,SDA eligible - not yet using,145
+30Sep2025,NSW,Northern NSW,SDA in use,189
+30Sep2025,NSW,South Eastern Sydney,SDA eligible - not yet using,222
+30Sep2025,NSW,South Eastern Sydney,SDA in use,401
+30Sep2025,NSW,South Western Sydney,SDA eligible - not yet using,516
+30Sep2025,NSW,South Western Sydney,SDA in use,485
+30Sep2025,NSW,Southern NSW,SDA eligible - not yet using,59
+30Sep2025,NSW,Southern NSW,SDA in use,109
+30Sep2025,NSW,Sydney,SDA eligible - not yet using,132
+30Sep2025,NSW,Sydney,SDA in use,123
+30Sep2025,NSW,Western NSW,SDA eligible - not yet using,142
+30Sep2025,NSW,Western NSW,SDA in use,282
+30Sep2025,NSW,Western Sydney,SDA eligible - not yet using,364
+30Sep2025,NSW,Western Sydney,SDA in use,759
+30Sep2025,NT,Barkly,SDA eligible - not yet using,<11
+30Sep2025,NT,Central Australia,SDA eligible - not yet using,68
+30Sep2025,NT,Central Australia,SDA in use,12
+30Sep2025,NT,Darwin Remote,SDA eligible - not yet using,<11
+30Sep2025,NT,Darwin Urban,SDA eligible - not yet using,105
+30Sep2025,NT,Darwin Urban,SDA in use,72
+30Sep2025,NT,East Arnhem,SDA eligible - not yet using,<11
+30Sep2025,NT,East Arnhem,SDA in use,<11
+30Sep2025,NT,Katherine,SDA eligible - not yet using,15
+30Sep2025,NT,Katherine,SDA in use,15
+30Sep2025,NT,NT - Other,SDA eligible - not yet using,<11
+30Sep2025,NT,NT - Other,SDA in use,<11
+30Sep2025,QLD,Beenleigh,SDA eligible - not yet using,190
+30Sep2025,QLD,Beenleigh,SDA in use,327
+30Sep2025,QLD,Brisbane,SDA eligible - not yet using,388
+30Sep2025,QLD,Brisbane,SDA in use,488
+30Sep2025,QLD,Bundaberg,SDA eligible - not yet using,42
+30Sep2025,QLD,Bundaberg,SDA in use,83
+30Sep2025,QLD,Caboolture/Strathpine,SDA eligible - not yet using,175
+30Sep2025,QLD,Caboolture/Strathpine,SDA in use,318
+30Sep2025,QLD,Cairns,SDA eligible - not yet using,101
+30Sep2025,QLD,Cairns,SDA in use,122
+30Sep2025,QLD,Ipswich,SDA eligible - not yet using,178
+30Sep2025,QLD,Ipswich,SDA in use,205
+30Sep2025,QLD,Mackay,SDA eligible - not yet using,34
+30Sep2025,QLD,Mackay,SDA in use,62
+30Sep2025,QLD,Maroochydore,SDA eligible - not yet using,144
+30Sep2025,QLD,Maroochydore,SDA in use,192
+30Sep2025,QLD,Maryborough,SDA eligible - not yet using,56
+30Sep2025,QLD,Maryborough,SDA in use,112
+30Sep2025,QLD,Robina,SDA eligible - not yet using,187
+30Sep2025,QLD,Robina,SDA in use,278
+30Sep2025,QLD,Rockhampton,SDA eligible - not yet using,97
+30Sep2025,QLD,Rockhampton,SDA in use,86
+30Sep2025,QLD,Toowoomba,SDA eligible - not yet using,160
+30Sep2025,QLD,Toowoomba,SDA in use,185
+30Sep2025,QLD,Townsville,SDA eligible - not yet using,105
+30Sep2025,QLD,Townsville,SDA in use,127
+30Sep2025,SA,Adelaide Hills,SDA eligible - not yet using,19
+30Sep2025,SA,Adelaide Hills,SDA in use,37
+30Sep2025,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,27
+30Sep2025,SA,"Barossa, Light and Lower North",SDA in use,30
+30Sep2025,SA,Eastern Adelaide,SDA eligible - not yet using,85
+30Sep2025,SA,Eastern Adelaide,SDA in use,188
+30Sep2025,SA,Eyre and Western,SDA eligible - not yet using,25
+30Sep2025,SA,Eyre and Western,SDA in use,<11
+30Sep2025,SA,Far North (SA),SDA eligible - not yet using,13
+30Sep2025,SA,Far North (SA),SDA in use,<11
+30Sep2025,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,28
+30Sep2025,SA,Fleurieu and Kangaroo Island,SDA in use,26
+30Sep2025,SA,Limestone Coast,SDA eligible - not yet using,31
+30Sep2025,SA,Limestone Coast,SDA in use,33
+30Sep2025,SA,Murray and Mallee,SDA eligible - not yet using,32
+30Sep2025,SA,Murray and Mallee,SDA in use,46
+30Sep2025,SA,Northern Adelaide,SDA eligible - not yet using,331
+30Sep2025,SA,Northern Adelaide,SDA in use,581
+30Sep2025,SA,SA - Other,SDA eligible - not yet using,<11
+30Sep2025,SA,Southern Adelaide,SDA eligible - not yet using,266
+30Sep2025,SA,Southern Adelaide,SDA in use,423
+30Sep2025,SA,Western Adelaide,SDA eligible - not yet using,87
+30Sep2025,SA,Western Adelaide,SDA in use,125
+30Sep2025,SA,Yorke and Mid North,SDA eligible - not yet using,23
+30Sep2025,SA,Yorke and Mid North,SDA in use,19
+30Sep2025,TAS,TAS - Other,SDA eligible - not yet using,<11
+30Sep2025,TAS,TAS North,SDA eligible - not yet using,99
+30Sep2025,TAS,TAS North,SDA in use,53
+30Sep2025,TAS,TAS North West,SDA eligible - not yet using,98
+30Sep2025,TAS,TAS North West,SDA in use,30
+30Sep2025,TAS,TAS South East,SDA eligible - not yet using,75
+30Sep2025,TAS,TAS South East,SDA in use,17
+30Sep2025,TAS,TAS South West,SDA eligible - not yet using,120
+30Sep2025,TAS,TAS South West,SDA in use,<11
+30Sep2025,VIC,Barwon,SDA eligible - not yet using,106
+30Sep2025,VIC,Barwon,SDA in use,392
+30Sep2025,VIC,Bayside Peninsula,SDA eligible - not yet using,251
+30Sep2025,VIC,Bayside Peninsula,SDA in use,696
+30Sep2025,VIC,Brimbank Melton,SDA eligible - not yet using,106
+30Sep2025,VIC,Brimbank Melton,SDA in use,266
+30Sep2025,VIC,Central Highlands,SDA eligible - not yet using,73
+30Sep2025,VIC,Central Highlands,SDA in use,318
+30Sep2025,VIC,Goulburn,SDA eligible - not yet using,73
+30Sep2025,VIC,Goulburn,SDA in use,116
+30Sep2025,VIC,Hume Moreland,SDA eligible - not yet using,118
+30Sep2025,VIC,Hume Moreland,SDA in use,213
+30Sep2025,VIC,Inner East Melbourne,SDA eligible - not yet using,171
+30Sep2025,VIC,Inner East Melbourne,SDA in use,624
+30Sep2025,VIC,Inner Gippsland,SDA eligible - not yet using,72
+30Sep2025,VIC,Inner Gippsland,SDA in use,134
+30Sep2025,VIC,Loddon,SDA eligible - not yet using,100
+30Sep2025,VIC,Loddon,SDA in use,195
+30Sep2025,VIC,Mallee,SDA eligible - not yet using,25
+30Sep2025,VIC,Mallee,SDA in use,82
+30Sep2025,VIC,North East Melbourne,SDA eligible - not yet using,195
+30Sep2025,VIC,North East Melbourne,SDA in use,645
+30Sep2025,VIC,Outer East Melbourne,SDA eligible - not yet using,157
+30Sep2025,VIC,Outer East Melbourne,SDA in use,391
+30Sep2025,VIC,Outer Gippsland,SDA eligible - not yet using,35
+30Sep2025,VIC,Outer Gippsland,SDA in use,59
+30Sep2025,VIC,Ovens Murray,SDA eligible - not yet using,45
+30Sep2025,VIC,Ovens Murray,SDA in use,119
+30Sep2025,VIC,Southern Melbourne,SDA eligible - not yet using,220
+30Sep2025,VIC,Southern Melbourne,SDA in use,411
+30Sep2025,VIC,VIC - Other,SDA eligible - not yet using,<11
+30Sep2025,VIC,Western District,SDA eligible - not yet using,71
+30Sep2025,VIC,Western District,SDA in use,227
+30Sep2025,VIC,Western Melbourne,SDA eligible - not yet using,183
+30Sep2025,VIC,Western Melbourne,SDA in use,405
+30Sep2025,WA,Central North Metro,SDA eligible - not yet using,199
+30Sep2025,WA,Central North Metro,SDA in use,71
+30Sep2025,WA,Central South Metro,SDA eligible - not yet using,118
+30Sep2025,WA,Central South Metro,SDA in use,87
+30Sep2025,WA,Goldfields-Esperance,SDA eligible - not yet using,29
+30Sep2025,WA,Great Southern,SDA eligible - not yet using,29
+30Sep2025,WA,Great Southern,SDA in use,<11
+30Sep2025,WA,Kimberley-Pilbara,SDA eligible - not yet using,38
+30Sep2025,WA,Midwest-Gascoyne,SDA eligible - not yet using,12
+30Sep2025,WA,Midwest-Gascoyne,SDA in use,19
+30Sep2025,WA,North East Metro,SDA eligible - not yet using,233
+30Sep2025,WA,North East Metro,SDA in use,112
+30Sep2025,WA,North Metro,SDA eligible - not yet using,124
+30Sep2025,WA,North Metro,SDA in use,105
+30Sep2025,WA,South East Metro,SDA eligible - not yet using,190
+30Sep2025,WA,South East Metro,SDA in use,159
+30Sep2025,WA,South Metro,SDA eligible - not yet using,128
+30Sep2025,WA,South Metro,SDA in use,109
+30Sep2025,WA,South West,SDA eligible - not yet using,70
+30Sep2025,WA,South West,SDA in use,22
+30Sep2025,WA,Wheat Belt,SDA eligible - not yet using,<11
+30Sep2025,WA,Wheat Belt,SDA in use,<11
+30Jun2025,ACT,ACT,SDA eligible - not yet using,144
+30Jun2025,ACT,ACT,SDA in use,201
+30Jun2025,Mis,Other,SDA eligible - not yet using,<11
+30Jun2025,Mis,Other,SDA in use,<11
+30Jun2025,NSW,Central Coast,SDA eligible - not yet using,167
+30Jun2025,NSW,Central Coast,SDA in use,268
+30Jun2025,NSW,Far West,SDA eligible - not yet using,15
+30Jun2025,NSW,Far West,SDA in use,<11
+30Jun2025,NSW,Hunter New England,SDA eligible - not yet using,416
+30Jun2025,NSW,Hunter New England,SDA in use,679
+30Jun2025,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,197
+30Jun2025,NSW,Illawarra Shoalhaven,SDA in use,297
+30Jun2025,NSW,Mid North Coast,SDA eligible - not yet using,113
+30Jun2025,NSW,Mid North Coast,SDA in use,116
+30Jun2025,NSW,Murrumbidgee,SDA eligible - not yet using,113
+30Jun2025,NSW,Murrumbidgee,SDA in use,248
+30Jun2025,NSW,NSW - Other,SDA in use,<11
+30Jun2025,NSW,Nepean Blue Mountains,SDA eligible - not yet using,167
+30Jun2025,NSW,Nepean Blue Mountains,SDA in use,375
+30Jun2025,NSW,North Sydney,SDA eligible - not yet using,238
+30Jun2025,NSW,North Sydney,SDA in use,644
+30Jun2025,NSW,Northern NSW,SDA eligible - not yet using,137
+30Jun2025,NSW,Northern NSW,SDA in use,190
+30Jun2025,NSW,South Eastern Sydney,SDA eligible - not yet using,219
+30Jun2025,NSW,South Eastern Sydney,SDA in use,407
+30Jun2025,NSW,South Western Sydney,SDA eligible - not yet using,517
+30Jun2025,NSW,South Western Sydney,SDA in use,470
+30Jun2025,NSW,Southern NSW,SDA eligible - not yet using,60
+30Jun2025,NSW,Southern NSW,SDA in use,111
+30Jun2025,NSW,Sydney,SDA eligible - not yet using,127
+30Jun2025,NSW,Sydney,SDA in use,121
+30Jun2025,NSW,Western NSW,SDA eligible - not yet using,141
+30Jun2025,NSW,Western NSW,SDA in use,272
+30Jun2025,NSW,Western Sydney,SDA eligible - not yet using,365
+30Jun2025,NSW,Western Sydney,SDA in use,750
+30Jun2025,NT,Barkly,SDA eligible - not yet using,<11
+30Jun2025,NT,Central Australia,SDA eligible - not yet using,63
+30Jun2025,NT,Central Australia,SDA in use,11
+30Jun2025,NT,Darwin Remote,SDA eligible - not yet using,<11
+30Jun2025,NT,Darwin Urban,SDA eligible - not yet using,107
+30Jun2025,NT,Darwin Urban,SDA in use,72
+30Jun2025,NT,East Arnhem,SDA eligible - not yet using,<11
+30Jun2025,NT,East Arnhem,SDA in use,<11
+30Jun2025,NT,Katherine,SDA eligible - not yet using,17
+30Jun2025,NT,Katherine,SDA in use,14
+30Jun2025,NT,NT - Other,SDA eligible - not yet using,<11
+30Jun2025,NT,NT - Other,SDA in use,<11
+30Jun2025,QLD,Beenleigh,SDA eligible - not yet using,187
+30Jun2025,QLD,Beenleigh,SDA in use,323
+30Jun2025,QLD,Brisbane,SDA eligible - not yet using,406
+30Jun2025,QLD,Brisbane,SDA in use,457
+30Jun2025,QLD,Bundaberg,SDA eligible - not yet using,34
+30Jun2025,QLD,Bundaberg,SDA in use,83
+30Jun2025,QLD,Caboolture/Strathpine,SDA eligible - not yet using,175
+30Jun2025,QLD,Caboolture/Strathpine,SDA in use,313
+30Jun2025,QLD,Cairns,SDA eligible - not yet using,92
+30Jun2025,QLD,Cairns,SDA in use,118
+30Jun2025,QLD,Ipswich,SDA eligible - not yet using,169
+30Jun2025,QLD,Ipswich,SDA in use,205
+30Jun2025,QLD,Mackay,SDA eligible - not yet using,39
+30Jun2025,QLD,Mackay,SDA in use,58
+30Jun2025,QLD,Maroochydore,SDA eligible - not yet using,139
+30Jun2025,QLD,Maroochydore,SDA in use,187
+30Jun2025,QLD,Maryborough,SDA eligible - not yet using,59
+30Jun2025,QLD,Maryborough,SDA in use,109
+30Jun2025,QLD,Robina,SDA eligible - not yet using,198
+30Jun2025,QLD,Robina,SDA in use,265
+30Jun2025,QLD,Rockhampton,SDA eligible - not yet using,98
+30Jun2025,QLD,Rockhampton,SDA in use,86
+30Jun2025,QLD,Toowoomba,SDA eligible - not yet using,164
+30Jun2025,QLD,Toowoomba,SDA in use,173
+30Jun2025,QLD,Townsville,SDA eligible - not yet using,100
+30Jun2025,QLD,Townsville,SDA in use,125
+30Jun2025,SA,Adelaide Hills,SDA eligible - not yet using,22
+30Jun2025,SA,Adelaide Hills,SDA in use,34
+30Jun2025,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,30
+30Jun2025,SA,"Barossa, Light and Lower North",SDA in use,30
+30Jun2025,SA,Eastern Adelaide,SDA eligible - not yet using,85
+30Jun2025,SA,Eastern Adelaide,SDA in use,187
+30Jun2025,SA,Eyre and Western,SDA eligible - not yet using,25
+30Jun2025,SA,Eyre and Western,SDA in use,<11
+30Jun2025,SA,Far North (SA),SDA eligible - not yet using,14
+30Jun2025,SA,Far North (SA),SDA in use,<11
+30Jun2025,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,28
+30Jun2025,SA,Fleurieu and Kangaroo Island,SDA in use,26
+30Jun2025,SA,Limestone Coast,SDA eligible - not yet using,33
+30Jun2025,SA,Limestone Coast,SDA in use,34
+30Jun2025,SA,Murray and Mallee,SDA eligible - not yet using,32
+30Jun2025,SA,Murray and Mallee,SDA in use,45
+30Jun2025,SA,Northern Adelaide,SDA eligible - not yet using,344
+30Jun2025,SA,Northern Adelaide,SDA in use,553
+30Jun2025,SA,SA - Other,SDA eligible - not yet using,<11
+30Jun2025,SA,Southern Adelaide,SDA eligible - not yet using,258
+30Jun2025,SA,Southern Adelaide,SDA in use,421
+30Jun2025,SA,Western Adelaide,SDA eligible - not yet using,82
+30Jun2025,SA,Western Adelaide,SDA in use,129
+30Jun2025,SA,Yorke and Mid North,SDA eligible - not yet using,25
+30Jun2025,SA,Yorke and Mid North,SDA in use,17
+30Jun2025,TAS,TAS North,SDA eligible - not yet using,96
+30Jun2025,TAS,TAS North,SDA in use,54
+30Jun2025,TAS,TAS North West,SDA eligible - not yet using,99
+30Jun2025,TAS,TAS North West,SDA in use,32
+30Jun2025,TAS,TAS South East,SDA eligible - not yet using,78
+30Jun2025,TAS,TAS South East,SDA in use,12
+30Jun2025,TAS,TAS South West,SDA eligible - not yet using,129
+30Jun2025,TAS,TAS South West,SDA in use,<11
+30Jun2025,VIC,Barwon,SDA eligible - not yet using,117
+30Jun2025,VIC,Barwon,SDA in use,383
+30Jun2025,VIC,Bayside Peninsula,SDA eligible - not yet using,265
+30Jun2025,VIC,Bayside Peninsula,SDA in use,690
+30Jun2025,VIC,Brimbank Melton,SDA eligible - not yet using,109
+30Jun2025,VIC,Brimbank Melton,SDA in use,260
+30Jun2025,VIC,Central Highlands,SDA eligible - not yet using,80
+30Jun2025,VIC,Central Highlands,SDA in use,306
+30Jun2025,VIC,Goulburn,SDA eligible - not yet using,72
+30Jun2025,VIC,Goulburn,SDA in use,111
+30Jun2025,VIC,Hume Moreland,SDA eligible - not yet using,126
+30Jun2025,VIC,Hume Moreland,SDA in use,206
+30Jun2025,VIC,Inner East Melbourne,SDA eligible - not yet using,180
+30Jun2025,VIC,Inner East Melbourne,SDA in use,618
+30Jun2025,VIC,Inner Gippsland,SDA eligible - not yet using,74
+30Jun2025,VIC,Inner Gippsland,SDA in use,132
+30Jun2025,VIC,Loddon,SDA eligible - not yet using,109
+30Jun2025,VIC,Loddon,SDA in use,191
+30Jun2025,VIC,Mallee,SDA eligible - not yet using,28
+30Jun2025,VIC,Mallee,SDA in use,80
+30Jun2025,VIC,North East Melbourne,SDA eligible - not yet using,203
+30Jun2025,VIC,North East Melbourne,SDA in use,632
+30Jun2025,VIC,Outer East Melbourne,SDA eligible - not yet using,162
+30Jun2025,VIC,Outer East Melbourne,SDA in use,386
+30Jun2025,VIC,Outer Gippsland,SDA eligible - not yet using,37
+30Jun2025,VIC,Outer Gippsland,SDA in use,63
+30Jun2025,VIC,Ovens Murray,SDA eligible - not yet using,44
+30Jun2025,VIC,Ovens Murray,SDA in use,119
+30Jun2025,VIC,Southern Melbourne,SDA eligible - not yet using,220
+30Jun2025,VIC,Southern Melbourne,SDA in use,392
+30Jun2025,VIC,VIC - Other,SDA eligible - not yet using,<11
+30Jun2025,VIC,Western District,SDA eligible - not yet using,72
+30Jun2025,VIC,Western District,SDA in use,229
+30Jun2025,VIC,Western Melbourne,SDA eligible - not yet using,179
+30Jun2025,VIC,Western Melbourne,SDA in use,395
+30Jun2025,WA,Central North Metro,SDA eligible - not yet using,208
+30Jun2025,WA,Central North Metro,SDA in use,58
+30Jun2025,WA,Central South Metro,SDA eligible - not yet using,123
+30Jun2025,WA,Central South Metro,SDA in use,78
+30Jun2025,WA,Goldfields-Esperance,SDA eligible - not yet using,30
+30Jun2025,WA,Great Southern,SDA eligible - not yet using,30
+30Jun2025,WA,Great Southern,SDA in use,<11
+30Jun2025,WA,Kimberley-Pilbara,SDA eligible - not yet using,33
+30Jun2025,WA,Midwest-Gascoyne,SDA eligible - not yet using,11
+30Jun2025,WA,Midwest-Gascoyne,SDA in use,19
+30Jun2025,WA,North East Metro,SDA eligible - not yet using,245
+30Jun2025,WA,North East Metro,SDA in use,108
+30Jun2025,WA,North Metro,SDA eligible - not yet using,127
+30Jun2025,WA,North Metro,SDA in use,94
+30Jun2025,WA,South East Metro,SDA eligible - not yet using,194
+30Jun2025,WA,South East Metro,SDA in use,142
+30Jun2025,WA,South Metro,SDA eligible - not yet using,135
+30Jun2025,WA,South Metro,SDA in use,103
+30Jun2025,WA,South West,SDA eligible - not yet using,71
+30Jun2025,WA,South West,SDA in use,15
+30Jun2025,WA,Wheat Belt,SDA eligible - not yet using,<11
+30Jun2025,WA,Wheat Belt,SDA in use,<11
+31Mar2025,ACT,ACT,SDA eligible - not yet using,138
+31Mar2025,ACT,ACT,SDA in use,200
+31Mar2025,NSW,Central Coast,SDA eligible - not yet using,158
+31Mar2025,NSW,Central Coast,SDA in use,270
+31Mar2025,NSW,Far West,SDA eligible - not yet using,15
+31Mar2025,NSW,Far West,SDA in use,<11
+31Mar2025,NSW,Hunter New England,SDA eligible - not yet using,406
+31Mar2025,NSW,Hunter New England,SDA in use,686
+31Mar2025,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,195
+31Mar2025,NSW,Illawarra Shoalhaven,SDA in use,297
+31Mar2025,NSW,Mid North Coast,SDA eligible - not yet using,114
+31Mar2025,NSW,Mid North Coast,SDA in use,111
+31Mar2025,NSW,Murrumbidgee,SDA eligible - not yet using,109
+31Mar2025,NSW,Murrumbidgee,SDA in use,248
+31Mar2025,NSW,NSW - Other,SDA in use,<11
+31Mar2025,NSW,Nepean Blue Mountains,SDA eligible - not yet using,158
+31Mar2025,NSW,Nepean Blue Mountains,SDA in use,376
+31Mar2025,NSW,North Sydney,SDA eligible - not yet using,246
+31Mar2025,NSW,North Sydney,SDA in use,650
+31Mar2025,NSW,Northern NSW,SDA eligible - not yet using,129
+31Mar2025,NSW,Northern NSW,SDA in use,192
+31Mar2025,NSW,South Eastern Sydney,SDA eligible - not yet using,218
+31Mar2025,NSW,South Eastern Sydney,SDA in use,415
+31Mar2025,NSW,South Western Sydney,SDA eligible - not yet using,490
+31Mar2025,NSW,South Western Sydney,SDA in use,477
+31Mar2025,NSW,Southern NSW,SDA eligible - not yet using,59
+31Mar2025,NSW,Southern NSW,SDA in use,113
+31Mar2025,NSW,Sydney,SDA eligible - not yet using,125
+31Mar2025,NSW,Sydney,SDA in use,123
+31Mar2025,NSW,Western NSW,SDA eligible - not yet using,130
+31Mar2025,NSW,Western NSW,SDA in use,278
+31Mar2025,NSW,Western Sydney,SDA eligible - not yet using,351
+31Mar2025,NSW,Western Sydney,SDA in use,742
+31Mar2025,NT,Barkly,SDA eligible - not yet using,<11
+31Mar2025,NT,Central Australia,SDA eligible - not yet using,72
+31Mar2025,NT,Central Australia,SDA in use,<11
+31Mar2025,NT,Darwin Remote,SDA eligible - not yet using,<11
+31Mar2025,NT,Darwin Urban,SDA eligible - not yet using,104
+31Mar2025,NT,Darwin Urban,SDA in use,70
+31Mar2025,NT,East Arnhem,SDA eligible - not yet using,<11
+31Mar2025,NT,East Arnhem,SDA in use,<11
+31Mar2025,NT,Katherine,SDA eligible - not yet using,16
+31Mar2025,NT,Katherine,SDA in use,14
+31Mar2025,NT,NT - Other,SDA eligible - not yet using,<11
+31Mar2025,NT,NT - Other,SDA in use,<11
+31Mar2025,QLD,Beenleigh,SDA eligible - not yet using,181
+31Mar2025,QLD,Beenleigh,SDA in use,321
+31Mar2025,QLD,Brisbane,SDA eligible - not yet using,408
+31Mar2025,QLD,Brisbane,SDA in use,450
+31Mar2025,QLD,Bundaberg,SDA eligible - not yet using,31
+31Mar2025,QLD,Bundaberg,SDA in use,83
+31Mar2025,QLD,Caboolture/Strathpine,SDA eligible - not yet using,165
+31Mar2025,QLD,Caboolture/Strathpine,SDA in use,312
+31Mar2025,QLD,Cairns,SDA eligible - not yet using,91
+31Mar2025,QLD,Cairns,SDA in use,111
+31Mar2025,QLD,Ipswich,SDA eligible - not yet using,170
+31Mar2025,QLD,Ipswich,SDA in use,192
+31Mar2025,QLD,Mackay,SDA eligible - not yet using,38
+31Mar2025,QLD,Mackay,SDA in use,50
+31Mar2025,QLD,Maroochydore,SDA eligible - not yet using,134
+31Mar2025,QLD,Maroochydore,SDA in use,182
+31Mar2025,QLD,Maryborough,SDA eligible - not yet using,57
+31Mar2025,QLD,Maryborough,SDA in use,110
+31Mar2025,QLD,Robina,SDA eligible - not yet using,194
+31Mar2025,QLD,Robina,SDA in use,258
+31Mar2025,QLD,Rockhampton,SDA eligible - not yet using,95
+31Mar2025,QLD,Rockhampton,SDA in use,86
+31Mar2025,QLD,Toowoomba,SDA eligible - not yet using,146
+31Mar2025,QLD,Toowoomba,SDA in use,180
+31Mar2025,QLD,Townsville,SDA eligible - not yet using,95
+31Mar2025,QLD,Townsville,SDA in use,129
+31Mar2025,SA,Adelaide Hills,SDA eligible - not yet using,21
+31Mar2025,SA,Adelaide Hills,SDA in use,34
+31Mar2025,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,31
+31Mar2025,SA,"Barossa, Light and Lower North",SDA in use,27
+31Mar2025,SA,Eastern Adelaide,SDA eligible - not yet using,81
+31Mar2025,SA,Eastern Adelaide,SDA in use,187
+31Mar2025,SA,Eyre and Western,SDA eligible - not yet using,22
+31Mar2025,SA,Eyre and Western,SDA in use,11
+31Mar2025,SA,Far North (SA),SDA eligible - not yet using,13
+31Mar2025,SA,Far North (SA),SDA in use,<11
+31Mar2025,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,28
+31Mar2025,SA,Fleurieu and Kangaroo Island,SDA in use,25
+31Mar2025,SA,Limestone Coast,SDA eligible - not yet using,29
+31Mar2025,SA,Limestone Coast,SDA in use,34
+31Mar2025,SA,Murray and Mallee,SDA eligible - not yet using,27
+31Mar2025,SA,Murray and Mallee,SDA in use,49
+31Mar2025,SA,Northern Adelaide,SDA eligible - not yet using,326
+31Mar2025,SA,Northern Adelaide,SDA in use,545
+31Mar2025,SA,SA - Other,SDA eligible - not yet using,<11
+31Mar2025,SA,Southern Adelaide,SDA eligible - not yet using,272
+31Mar2025,SA,Southern Adelaide,SDA in use,410
+31Mar2025,SA,Western Adelaide,SDA eligible - not yet using,80
+31Mar2025,SA,Western Adelaide,SDA in use,131
+31Mar2025,SA,Yorke and Mid North,SDA eligible - not yet using,25
+31Mar2025,SA,Yorke and Mid North,SDA in use,16
+31Mar2025,TAS,TAS North,SDA eligible - not yet using,92
+31Mar2025,TAS,TAS North,SDA in use,58
+31Mar2025,TAS,TAS North West,SDA eligible - not yet using,97
+31Mar2025,TAS,TAS North West,SDA in use,32
+31Mar2025,TAS,TAS South East,SDA eligible - not yet using,81
+31Mar2025,TAS,TAS South East,SDA in use,<11
+31Mar2025,TAS,TAS South West,SDA eligible - not yet using,131
+31Mar2025,TAS,TAS South West,SDA in use,<11
+31Mar2025,VIC,Barwon,SDA eligible - not yet using,107
+31Mar2025,VIC,Barwon,SDA in use,388
+31Mar2025,VIC,Bayside Peninsula,SDA eligible - not yet using,251
+31Mar2025,VIC,Bayside Peninsula,SDA in use,701
+31Mar2025,VIC,Brimbank Melton,SDA eligible - not yet using,110
+31Mar2025,VIC,Brimbank Melton,SDA in use,245
+31Mar2025,VIC,Central Highlands,SDA eligible - not yet using,79
+31Mar2025,VIC,Central Highlands,SDA in use,302
+31Mar2025,VIC,Goulburn,SDA eligible - not yet using,65
+31Mar2025,VIC,Goulburn,SDA in use,115
+31Mar2025,VIC,Hume Moreland,SDA eligible - not yet using,121
+31Mar2025,VIC,Hume Moreland,SDA in use,202
+31Mar2025,VIC,Inner East Melbourne,SDA eligible - not yet using,170
+31Mar2025,VIC,Inner East Melbourne,SDA in use,623
+31Mar2025,VIC,Inner Gippsland,SDA eligible - not yet using,77
+31Mar2025,VIC,Inner Gippsland,SDA in use,127
+31Mar2025,VIC,Loddon,SDA eligible - not yet using,110
+31Mar2025,VIC,Loddon,SDA in use,191
+31Mar2025,VIC,Mallee,SDA eligible - not yet using,28
+31Mar2025,VIC,Mallee,SDA in use,80
+31Mar2025,VIC,North East Melbourne,SDA eligible - not yet using,190
+31Mar2025,VIC,North East Melbourne,SDA in use,634
+31Mar2025,VIC,Outer East Melbourne,SDA eligible - not yet using,153
+31Mar2025,VIC,Outer East Melbourne,SDA in use,387
+31Mar2025,VIC,Outer Gippsland,SDA eligible - not yet using,36
+31Mar2025,VIC,Outer Gippsland,SDA in use,63
+31Mar2025,VIC,Ovens Murray,SDA eligible - not yet using,43
+31Mar2025,VIC,Ovens Murray,SDA in use,116
+31Mar2025,VIC,Southern Melbourne,SDA eligible - not yet using,212
+31Mar2025,VIC,Southern Melbourne,SDA in use,388
+31Mar2025,VIC,VIC - Other,SDA eligible - not yet using,<11
+31Mar2025,VIC,Western District,SDA eligible - not yet using,69
+31Mar2025,VIC,Western District,SDA in use,227
+31Mar2025,VIC,Western Melbourne,SDA eligible - not yet using,177
+31Mar2025,VIC,Western Melbourne,SDA in use,405
+31Mar2025,WA,Central North Metro,SDA eligible - not yet using,217
+31Mar2025,WA,Central North Metro,SDA in use,56
+31Mar2025,WA,Central South Metro,SDA eligible - not yet using,134
+31Mar2025,WA,Central South Metro,SDA in use,75
+31Mar2025,WA,Goldfields-Esperance,SDA eligible - not yet using,29
+31Mar2025,WA,Great Southern,SDA eligible - not yet using,30
+31Mar2025,WA,Great Southern,SDA in use,<11
+31Mar2025,WA,Kimberley-Pilbara,SDA eligible - not yet using,33
+31Mar2025,WA,Midwest-Gascoyne,SDA eligible - not yet using,13
+31Mar2025,WA,Midwest-Gascoyne,SDA in use,19
+31Mar2025,WA,North East Metro,SDA eligible - not yet using,240
+31Mar2025,WA,North East Metro,SDA in use,103
+31Mar2025,WA,North Metro,SDA eligible - not yet using,128
+31Mar2025,WA,North Metro,SDA in use,86
+31Mar2025,WA,South East Metro,SDA eligible - not yet using,207
+31Mar2025,WA,South East Metro,SDA in use,131
+31Mar2025,WA,South Metro,SDA eligible - not yet using,140
+31Mar2025,WA,South Metro,SDA in use,87
+31Mar2025,WA,South West,SDA eligible - not yet using,72
+31Mar2025,WA,South West,SDA in use,17
+31Mar2025,WA,Wheat Belt,SDA eligible - not yet using,<11
+31Mar2025,WA,Wheat Belt,SDA in use,<11
+31Dec2024,ACT,ACT,SDA eligible - not yet using,136
+31Dec2024,ACT,ACT,SDA in use,198
+31Dec2024,NSW,Central Coast,SDA eligible - not yet using,162
+31Dec2024,NSW,Central Coast,SDA in use,265
+31Dec2024,NSW,Far West,SDA eligible - not yet using,14
+31Dec2024,NSW,Far West,SDA in use,<11
+31Dec2024,NSW,Hunter New England,SDA eligible - not yet using,397
+31Dec2024,NSW,Hunter New England,SDA in use,684
+31Dec2024,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,196
+31Dec2024,NSW,Illawarra Shoalhaven,SDA in use,289
+31Dec2024,NSW,Mid North Coast,SDA eligible - not yet using,115
+31Dec2024,NSW,Mid North Coast,SDA in use,111
+31Dec2024,NSW,Murrumbidgee,SDA eligible - not yet using,116
+31Dec2024,NSW,Murrumbidgee,SDA in use,244
+31Dec2024,NSW,NSW - Other,SDA eligible - not yet using,<11
+31Dec2024,NSW,Nepean Blue Mountains,SDA eligible - not yet using,155
+31Dec2024,NSW,Nepean Blue Mountains,SDA in use,379
+31Dec2024,NSW,North Sydney,SDA eligible - not yet using,247
+31Dec2024,NSW,North Sydney,SDA in use,647
+31Dec2024,NSW,Northern NSW,SDA eligible - not yet using,128
+31Dec2024,NSW,Northern NSW,SDA in use,190
+31Dec2024,NSW,South Eastern Sydney,SDA eligible - not yet using,219
+31Dec2024,NSW,South Eastern Sydney,SDA in use,408
+31Dec2024,NSW,South Western Sydney,SDA eligible - not yet using,503
+31Dec2024,NSW,South Western Sydney,SDA in use,449
+31Dec2024,NSW,Southern NSW,SDA eligible - not yet using,57
+31Dec2024,NSW,Southern NSW,SDA in use,115
+31Dec2024,NSW,Sydney,SDA eligible - not yet using,121
+31Dec2024,NSW,Sydney,SDA in use,121
+31Dec2024,NSW,Western NSW,SDA eligible - not yet using,126
+31Dec2024,NSW,Western NSW,SDA in use,275
+31Dec2024,NSW,Western Sydney,SDA eligible - not yet using,343
+31Dec2024,NSW,Western Sydney,SDA in use,737
+31Dec2024,NT,Barkly,SDA eligible - not yet using,<11
+31Dec2024,NT,Central Australia,SDA eligible - not yet using,72
+31Dec2024,NT,Central Australia,SDA in use,<11
+31Dec2024,NT,Darwin Remote,SDA eligible - not yet using,<11
+31Dec2024,NT,Darwin Urban,SDA eligible - not yet using,113
+31Dec2024,NT,Darwin Urban,SDA in use,62
+31Dec2024,NT,East Arnhem,SDA eligible - not yet using,<11
+31Dec2024,NT,Katherine,SDA eligible - not yet using,17
+31Dec2024,NT,Katherine,SDA in use,14
+31Dec2024,NT,NT - Other,SDA eligible - not yet using,<11
+31Dec2024,NT,NT - Other,SDA in use,<11
+31Dec2024,QLD,Beenleigh,SDA eligible - not yet using,184
+31Dec2024,QLD,Beenleigh,SDA in use,302
+31Dec2024,QLD,Brisbane,SDA eligible - not yet using,424
+31Dec2024,QLD,Brisbane,SDA in use,428
+31Dec2024,QLD,Bundaberg,SDA eligible - not yet using,32
+31Dec2024,QLD,Bundaberg,SDA in use,83
+31Dec2024,QLD,Caboolture/Strathpine,SDA eligible - not yet using,159
+31Dec2024,QLD,Caboolture/Strathpine,SDA in use,312
+31Dec2024,QLD,Cairns,SDA eligible - not yet using,93
+31Dec2024,QLD,Cairns,SDA in use,105
+31Dec2024,QLD,Ipswich,SDA eligible - not yet using,170
+31Dec2024,QLD,Ipswich,SDA in use,187
+31Dec2024,QLD,Mackay,SDA eligible - not yet using,37
+31Dec2024,QLD,Mackay,SDA in use,44
+31Dec2024,QLD,Maroochydore,SDA eligible - not yet using,134
+31Dec2024,QLD,Maroochydore,SDA in use,179
+31Dec2024,QLD,Maryborough,SDA eligible - not yet using,60
+31Dec2024,QLD,Maryborough,SDA in use,105
+31Dec2024,QLD,Robina,SDA eligible - not yet using,189
+31Dec2024,QLD,Robina,SDA in use,245
+31Dec2024,QLD,Rockhampton,SDA eligible - not yet using,94
+31Dec2024,QLD,Rockhampton,SDA in use,84
+31Dec2024,QLD,Toowoomba,SDA eligible - not yet using,153
+31Dec2024,QLD,Toowoomba,SDA in use,171
+31Dec2024,QLD,Townsville,SDA eligible - not yet using,103
+31Dec2024,QLD,Townsville,SDA in use,118
+31Dec2024,SA,Adelaide Hills,SDA eligible - not yet using,21
+31Dec2024,SA,Adelaide Hills,SDA in use,33
+31Dec2024,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,32
+31Dec2024,SA,"Barossa, Light and Lower North",SDA in use,26
+31Dec2024,SA,Eastern Adelaide,SDA eligible - not yet using,92
+31Dec2024,SA,Eastern Adelaide,SDA in use,176
+31Dec2024,SA,Eyre and Western,SDA eligible - not yet using,24
+31Dec2024,SA,Eyre and Western,SDA in use,11
+31Dec2024,SA,Far North (SA),SDA eligible - not yet using,13
+31Dec2024,SA,Far North (SA),SDA in use,<11
+31Dec2024,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,25
+31Dec2024,SA,Fleurieu and Kangaroo Island,SDA in use,25
+31Dec2024,SA,Limestone Coast,SDA eligible - not yet using,27
+31Dec2024,SA,Limestone Coast,SDA in use,35
+31Dec2024,SA,Murray and Mallee,SDA eligible - not yet using,28
+31Dec2024,SA,Murray and Mallee,SDA in use,47
+31Dec2024,SA,Northern Adelaide,SDA eligible - not yet using,327
+31Dec2024,SA,Northern Adelaide,SDA in use,525
+31Dec2024,SA,SA - Other,SDA eligible - not yet using,<11
+31Dec2024,SA,Southern Adelaide,SDA eligible - not yet using,279
+31Dec2024,SA,Southern Adelaide,SDA in use,397
+31Dec2024,SA,Western Adelaide,SDA eligible - not yet using,84
+31Dec2024,SA,Western Adelaide,SDA in use,132
+31Dec2024,SA,Yorke and Mid North,SDA eligible - not yet using,26
+31Dec2024,SA,Yorke and Mid North,SDA in use,16
+31Dec2024,TAS,TAS North,SDA eligible - not yet using,95
+31Dec2024,TAS,TAS North,SDA in use,55
+31Dec2024,TAS,TAS North West,SDA eligible - not yet using,99
+31Dec2024,TAS,TAS North West,SDA in use,31
+31Dec2024,TAS,TAS South East,SDA eligible - not yet using,84
+31Dec2024,TAS,TAS South East,SDA in use,<11
+31Dec2024,TAS,TAS South West,SDA eligible - not yet using,132
+31Dec2024,TAS,TAS South West,SDA in use,<11
+31Dec2024,VIC,Barwon,SDA eligible - not yet using,112
+31Dec2024,VIC,Barwon,SDA in use,378
+31Dec2024,VIC,Bayside Peninsula,SDA eligible - not yet using,270
+31Dec2024,VIC,Bayside Peninsula,SDA in use,699
+31Dec2024,VIC,Brimbank Melton,SDA eligible - not yet using,117
+31Dec2024,VIC,Brimbank Melton,SDA in use,233
+31Dec2024,VIC,Central Highlands,SDA eligible - not yet using,77
+31Dec2024,VIC,Central Highlands,SDA in use,298
+31Dec2024,VIC,Goulburn,SDA eligible - not yet using,65
+31Dec2024,VIC,Goulburn,SDA in use,108
+31Dec2024,VIC,Hume Moreland,SDA eligible - not yet using,117
+31Dec2024,VIC,Hume Moreland,SDA in use,190
+31Dec2024,VIC,Inner East Melbourne,SDA eligible - not yet using,162
+31Dec2024,VIC,Inner East Melbourne,SDA in use,619
+31Dec2024,VIC,Inner Gippsland,SDA eligible - not yet using,77
+31Dec2024,VIC,Inner Gippsland,SDA in use,127
+31Dec2024,VIC,Loddon,SDA eligible - not yet using,112
+31Dec2024,VIC,Loddon,SDA in use,190
+31Dec2024,VIC,Mallee,SDA eligible - not yet using,31
+31Dec2024,VIC,Mallee,SDA in use,77
+31Dec2024,VIC,North East Melbourne,SDA eligible - not yet using,205
+31Dec2024,VIC,North East Melbourne,SDA in use,640
+31Dec2024,VIC,Outer East Melbourne,SDA eligible - not yet using,155
+31Dec2024,VIC,Outer East Melbourne,SDA in use,386
+31Dec2024,VIC,Outer Gippsland,SDA eligible - not yet using,39
+31Dec2024,VIC,Outer Gippsland,SDA in use,63
+31Dec2024,VIC,Ovens Murray,SDA eligible - not yet using,39
+31Dec2024,VIC,Ovens Murray,SDA in use,116
+31Dec2024,VIC,Southern Melbourne,SDA eligible - not yet using,228
+31Dec2024,VIC,Southern Melbourne,SDA in use,348
+31Dec2024,VIC,VIC - Other,SDA eligible - not yet using,<11
+31Dec2024,VIC,Western District,SDA eligible - not yet using,71
+31Dec2024,VIC,Western District,SDA in use,223
+31Dec2024,VIC,Western Melbourne,SDA eligible - not yet using,176
+31Dec2024,VIC,Western Melbourne,SDA in use,395
+31Dec2024,WA,Central North Metro,SDA eligible - not yet using,217
+31Dec2024,WA,Central North Metro,SDA in use,52
+31Dec2024,WA,Central South Metro,SDA eligible - not yet using,137
+31Dec2024,WA,Central South Metro,SDA in use,61
+31Dec2024,WA,Goldfields-Esperance,SDA eligible - not yet using,31
+31Dec2024,WA,Great Southern,SDA eligible - not yet using,30
+31Dec2024,WA,Great Southern,SDA in use,<11
+31Dec2024,WA,Kimberley-Pilbara,SDA eligible - not yet using,34
+31Dec2024,WA,Midwest-Gascoyne,SDA eligible - not yet using,14
+31Dec2024,WA,Midwest-Gascoyne,SDA in use,16
+31Dec2024,WA,North East Metro,SDA eligible - not yet using,243
+31Dec2024,WA,North East Metro,SDA in use,89
+31Dec2024,WA,North Metro,SDA eligible - not yet using,138
+31Dec2024,WA,North Metro,SDA in use,79
+31Dec2024,WA,South East Metro,SDA eligible - not yet using,233
+31Dec2024,WA,South East Metro,SDA in use,107
+31Dec2024,WA,South Metro,SDA eligible - not yet using,150
+31Dec2024,WA,South Metro,SDA in use,78
+31Dec2024,WA,South West,SDA eligible - not yet using,73
+31Dec2024,WA,South West,SDA in use,15
+31Dec2024,WA,Wheat Belt,SDA eligible - not yet using,<11
+31Dec2024,WA,Wheat Belt,SDA in use,<11
+30Sep2024,ACT,ACT,SDA eligible - not yet using,133
+30Sep2024,ACT,ACT,SDA in use,200
+30Sep2024,NSW,Central Coast,SDA eligible - not yet using,164
+30Sep2024,NSW,Central Coast,SDA in use,259
+30Sep2024,NSW,Far West,SDA eligible - not yet using,13
+30Sep2024,NSW,Far West,SDA in use,<11
+30Sep2024,NSW,Hunter New England,SDA eligible - not yet using,388
+30Sep2024,NSW,Hunter New England,SDA in use,678
+30Sep2024,NSW,Illawarra Shoalhaven,SDA eligible - not yet using,179
+30Sep2024,NSW,Illawarra Shoalhaven,SDA in use,295
+30Sep2024,NSW,Mid North Coast,SDA eligible - not yet using,110
+30Sep2024,NSW,Mid North Coast,SDA in use,111
+30Sep2024,NSW,Murrumbidgee,SDA eligible - not yet using,112
+30Sep2024,NSW,Murrumbidgee,SDA in use,241
+30Sep2024,NSW,Nepean Blue Mountains,SDA eligible - not yet using,150
+30Sep2024,NSW,Nepean Blue Mountains,SDA in use,369
+30Sep2024,NSW,North Sydney,SDA eligible - not yet using,255
+30Sep2024,NSW,North Sydney,SDA in use,640
+30Sep2024,NSW,Northern NSW,SDA eligible - not yet using,128
+30Sep2024,NSW,Northern NSW,SDA in use,191
+30Sep2024,NSW,South Eastern Sydney,SDA eligible - not yet using,218
+30Sep2024,NSW,South Eastern Sydney,SDA in use,404
+30Sep2024,NSW,South Western Sydney,SDA eligible - not yet using,485
+30Sep2024,NSW,South Western Sydney,SDA in use,445
+30Sep2024,NSW,Southern NSW,SDA eligible - not yet using,54
+30Sep2024,NSW,Southern NSW,SDA in use,118
+30Sep2024,NSW,Sydney,SDA eligible - not yet using,118
+30Sep2024,NSW,Sydney,SDA in use,117
+30Sep2024,NSW,Western NSW,SDA eligible - not yet using,131
+30Sep2024,NSW,Western NSW,SDA in use,269
+30Sep2024,NSW,Western Sydney,SDA eligible - not yet using,347
+30Sep2024,NSW,Western Sydney,SDA in use,740
+30Sep2024,NT,Barkly,SDA eligible - not yet using,<11
+30Sep2024,NT,Central Australia,SDA eligible - not yet using,69
+30Sep2024,NT,Central Australia,SDA in use,<11
+30Sep2024,NT,Darwin Remote,SDA eligible - not yet using,<11
+30Sep2024,NT,Darwin Urban,SDA eligible - not yet using,111
+30Sep2024,NT,Darwin Urban,SDA in use,59
+30Sep2024,NT,East Arnhem,SDA eligible - not yet using,<11
+30Sep2024,NT,Katherine,SDA eligible - not yet using,17
+30Sep2024,NT,Katherine,SDA in use,11
+30Sep2024,NT,NT - Other,SDA eligible - not yet using,<11
+30Sep2024,NT,NT - Other,SDA in use,<11
+30Sep2024,QLD,Beenleigh,SDA eligible - not yet using,179
+30Sep2024,QLD,Beenleigh,SDA in use,289
+30Sep2024,QLD,Brisbane,SDA eligible - not yet using,423
+30Sep2024,QLD,Brisbane,SDA in use,405
+30Sep2024,QLD,Bundaberg,SDA eligible - not yet using,41
+30Sep2024,QLD,Bundaberg,SDA in use,76
+30Sep2024,QLD,Caboolture/Strathpine,SDA eligible - not yet using,158
+30Sep2024,QLD,Caboolture/Strathpine,SDA in use,297
+30Sep2024,QLD,Cairns,SDA eligible - not yet using,84
+30Sep2024,QLD,Cairns,SDA in use,96
+30Sep2024,QLD,Ipswich,SDA eligible - not yet using,175
+30Sep2024,QLD,Ipswich,SDA in use,182
+30Sep2024,QLD,Mackay,SDA eligible - not yet using,46
+30Sep2024,QLD,Mackay,SDA in use,37
+30Sep2024,QLD,Maroochydore,SDA eligible - not yet using,140
+30Sep2024,QLD,Maroochydore,SDA in use,171
+30Sep2024,QLD,Maryborough,SDA eligible - not yet using,69
+30Sep2024,QLD,Maryborough,SDA in use,96
+30Sep2024,QLD,Robina,SDA eligible - not yet using,194
+30Sep2024,QLD,Robina,SDA in use,236
+30Sep2024,QLD,Rockhampton,SDA eligible - not yet using,96
+30Sep2024,QLD,Rockhampton,SDA in use,80
+30Sep2024,QLD,Toowoomba,SDA eligible - not yet using,159
+30Sep2024,QLD,Toowoomba,SDA in use,151
+30Sep2024,QLD,Townsville,SDA eligible - not yet using,100
+30Sep2024,QLD,Townsville,SDA in use,109
+30Sep2024,SA,Adelaide Hills,SDA eligible - not yet using,20
+30Sep2024,SA,Adelaide Hills,SDA in use,32
+30Sep2024,SA,"Barossa, Light and Lower North",SDA eligible - not yet using,34
+30Sep2024,SA,"Barossa, Light and Lower North",SDA in use,25
+30Sep2024,SA,Eastern Adelaide,SDA eligible - not yet using,88
+30Sep2024,SA,Eastern Adelaide,SDA in use,174
+30Sep2024,SA,Eyre and Western,SDA eligible - not yet using,26
+30Sep2024,SA,Eyre and Western,SDA in use,<11
+30Sep2024,SA,Far North (SA),SDA eligible - not yet using,12
+30Sep2024,SA,Far North (SA),SDA in use,<11
+30Sep2024,SA,Fleurieu and Kangaroo Island,SDA eligible - not yet using,26
+30Sep2024,SA,Fleurieu and Kangaroo Island,SDA in use,25
+30Sep2024,SA,Limestone Coast,SDA eligible - not yet using,30
+30Sep2024,SA,Limestone Coast,SDA in use,34
+30Sep2024,SA,Murray and Mallee,SDA eligible - not yet using,27
+30Sep2024,SA,Murray and Mallee,SDA in use,45
+30Sep2024,SA,Northern Adelaide,SDA eligible - not yet using,339
+30Sep2024,SA,Northern Adelaide,SDA in use,506
+30Sep2024,SA,SA - Other,SDA eligible - not yet using,<11
+30Sep2024,SA,Southern Adelaide,SDA eligible - not yet using,282
+30Sep2024,SA,Southern Adelaide,SDA in use,401
+30Sep2024,SA,Western Adelaide,SDA eligible - not yet using,77
+30Sep2024,SA,Western Adelaide,SDA in use,132
+30Sep2024,SA,Yorke and Mid North,SDA eligible - not yet using,26
+30Sep2024,SA,Yorke and Mid North,SDA in use,17
+30Sep2024,TAS,TAS North,SDA eligible - not yet using,93
+30Sep2024,TAS,TAS North,SDA in use,53
+30Sep2024,TAS,TAS North West,SDA eligible - not yet using,99
+30Sep2024,TAS,TAS North West,SDA in use,32
+30Sep2024,TAS,TAS South East,SDA eligible - not yet using,88
+30Sep2024,TAS,TAS South East,SDA in use,<11
+30Sep2024,TAS,TAS South West,SDA eligible - not yet using,135
+30Sep2024,TAS,TAS South West,SDA in use,<11
+30Sep2024,VIC,Barwon,SDA eligible - not yet using,120
+30Sep2024,VIC,Barwon,SDA in use,358
+30Sep2024,VIC,Bayside Peninsula,SDA eligible - not yet using,255
+30Sep2024,VIC,Bayside Peninsula,SDA in use,690
+30Sep2024,VIC,Brimbank Melton,SDA eligible - not yet using,114
+30Sep2024,VIC,Brimbank Melton,SDA in use,226
+30Sep2024,VIC,Central Highlands,SDA eligible - not yet using,68
+30Sep2024,VIC,Central Highlands,SDA in use,294
+30Sep2024,VIC,Goulburn,SDA eligible - not yet using,67
+30Sep2024,VIC,Goulburn,SDA in use,101
+30Sep2024,VIC,Hume Moreland,SDA eligible - not yet using,115
+30Sep2024,VIC,Hume Moreland,SDA in use,185
+30Sep2024,VIC,Inner East Melbourne,SDA eligible - not yet using,162
+30Sep2024,VIC,Inner East Melbourne,SDA in use,620
+30Sep2024,VIC,Inner Gippsland,SDA eligible - not yet using,75
+30Sep2024,VIC,Inner Gippsland,SDA in use,121
+30Sep2024,VIC,Loddon,SDA eligible - not yet using,103
+30Sep2024,VIC,Loddon,SDA in use,191
+30Sep2024,VIC,Mallee,SDA eligible - not yet using,28
+30Sep2024,VIC,Mallee,SDA in use,78
+30Sep2024,VIC,North East Melbourne,SDA eligible - not yet using,214
+30Sep2024,VIC,North East Melbourne,SDA in use,627
+30Sep2024,VIC,Outer East Melbourne,SDA eligible - not yet using,156
+30Sep2024,VIC,Outer East Melbourne,SDA in use,384
+30Sep2024,VIC,Outer Gippsland,SDA eligible - not yet using,40
+30Sep2024,VIC,Outer Gippsland,SDA in use,63
+30Sep2024,VIC,Ovens Murray,SDA eligible - not yet using,37
+30Sep2024,VIC,Ovens Murray,SDA in use,116
+30Sep2024,VIC,Southern Melbourne,SDA eligible - not yet using,238
+30Sep2024,VIC,Southern Melbourne,SDA in use,319
+30Sep2024,VIC,VIC - Other,SDA eligible - not yet using,<11
+30Sep2024,VIC,Western District,SDA eligible - not yet using,69
+30Sep2024,VIC,Western District,SDA in use,226
+30Sep2024,VIC,Western Melbourne,SDA eligible - not yet using,189
+30Sep2024,VIC,Western Melbourne,SDA in use,383
+30Sep2024,WA,Central North Metro,SDA eligible - not yet using,235
+30Sep2024,WA,Central North Metro,SDA in use,45
+30Sep2024,WA,Central South Metro,SDA eligible - not yet using,148
+30Sep2024,WA,Central South Metro,SDA in use,49
+30Sep2024,WA,Goldfields-Esperance,SDA eligible - not yet using,28
+30Sep2024,WA,Great Southern,SDA eligible - not yet using,30
+30Sep2024,WA,Great Southern,SDA in use,<11
+30Sep2024,WA,Kimberley-Pilbara,SDA eligible - not yet using,32
+30Sep2024,WA,Midwest-Gascoyne,SDA eligible - not yet using,14
+30Sep2024,WA,Midwest-Gascoyne,SDA in use,15
+30Sep2024,WA,North East Metro,SDA eligible - not yet using,255
+30Sep2024,WA,North East Metro,SDA in use,82
+30Sep2024,WA,North Metro,SDA eligible - not yet using,147
+30Sep2024,WA,North Metro,SDA in use,63
+30Sep2024,WA,South East Metro,SDA eligible - not yet using,244
+30Sep2024,WA,South East Metro,SDA in use,89
+30Sep2024,WA,South Metro,SDA eligible - not yet using,163
+30Sep2024,WA,South Metro,SDA in use,59
+30Sep2024,WA,South West,SDA eligible - not yet using,72
+30Sep2024,WA,South West,SDA in use,12
+30Sep2024,WA,Wheat Belt,SDA eligible - not yet using,<11
+30Sep2024,WA,Wheat Belt,SDA in use,<11

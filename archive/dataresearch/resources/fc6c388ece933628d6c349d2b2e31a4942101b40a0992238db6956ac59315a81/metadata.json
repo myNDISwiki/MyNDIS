@@ -1,0 +1,20 @@
+{
+  "bytes": 11486,
+  "content_type": "application/pdf",
+  "directory": "resources/fc6c388ece933628d6c349d2b2e31a4942101b40a0992238db6956ac59315a81",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4058",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Evaluation of NDIA thin market trials.pdf\""
+  },
+  "sha256": "63bcf7fbff15e5fccf63de253acbcf1ed79c378cc31cfd5bb9b3cd94fe190e5a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4058"
+}

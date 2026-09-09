@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/dffdcb2109fdde59a7260c98f1bb7ac9f46bd51a53a008df8e333b955592bafb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3151/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Ovens Murray_data.xlsx\"",
+    "ETag": "\"1637284073:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:07:52 GMT"
+  },
+  "sha256": "c171120569491a1a0e6b372dafee3bec6295863808729d4aeb703fbf9f8b1961",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3151/download?attachment="
+}

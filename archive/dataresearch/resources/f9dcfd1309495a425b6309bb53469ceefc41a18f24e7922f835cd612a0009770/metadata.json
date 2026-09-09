@@ -1,0 +1,22 @@
+{
+  "bytes": 915372,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/f9dcfd1309495a425b6309bb53469ceefc41a18f24e7922f835cd612a0009770",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3693/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB External Research Request Policy DOCX.docx\"",
+    "ETag": "\"1752107484:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 10 Jul 2025 00:31:23 GMT"
+  },
+  "sha256": "0c10da4ae1e59b51b89620247667ccb7690a502fcd145b31507d2f1ce52be36a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3693/download?attachment="
+}

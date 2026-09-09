@@ -1,0 +1,22 @@
+{
+  "bytes": 385758,
+  "content_type": "application/pdf",
+  "directory": "resources/c1af483a69e25efb3248c78b57d057033acd2d78dc1233abd329558a3f572358",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3132/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Bayside Peninsula.pdf\"",
+    "ETag": "\"1637283755:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:02:34 GMT"
+  },
+  "sha256": "feed2798a9884b8c82e7081d279b996c567be32ca52eec6533cae1493bf2606e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3132/download?attachment="
+}

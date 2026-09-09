@@ -1,0 +1,21 @@
+{
+  "bytes": 8693,
+  "content_type": "image/svg+xml",
+  "directory": "resources/247d70dcccaad70183ffe61edd0354b83d41363f5ffbeba7bc8dd32ecbdfc757",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-doctor.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6180e0f4-21f5\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:48 GMT"
+  },
+  "sha256": "5a4abe635e5057ae54be67e13eaf711b237e045825a534035e8e8ad12f5f6ed7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-doctor.svg"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2c33b983d92d47e4be9dda057e5eccabbe5980c3687379457ddb555a11ec39d8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3181/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_South West_data.xlsx\"",
+    "ETag": "\"1637286273:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:44:32 GMT"
+  },
+  "sha256": "94bf140b279ed8f543f9288cc55b577803a171a4fd6bb1720a912b8f60c2e0b1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3181/download?attachment="
+}

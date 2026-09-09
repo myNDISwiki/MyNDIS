@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/6573a3141be103531581e1f51840e5b9804974b490ff8bdb7839953061ae1c6f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3081/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Maroochydore_data.xlsx",
+    "ETag": "\"1637200888:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:01:27 GMT"
+  },
+  "sha256": "91abbb01a0ddf2b47c480b2f71dd4f41f5af40ec1d170d0220d9f2878401f722",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3081/download?attachment="
+}

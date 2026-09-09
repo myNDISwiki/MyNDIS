@@ -1,0 +1,22 @@
+{
+  "bytes": 111550,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/4ad8477c7624bef229bbc8b50a238708d594605f82d45010be5e8a6a27f92e13",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4243/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participants by SA4 data.csv\"",
+    "ETag": "\"1786683173:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:52:52 GMT"
+  },
+  "sha256": "9a0f4538fd3075342cbeaa5317d254f83654a75eebde3d231839697a6fe347b6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4243/download?attachment="
+}

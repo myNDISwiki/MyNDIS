@@ -1,0 +1,22 @@
+{
+  "bytes": 27950,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/229744447ac83ddbeed4b29fd686536d28a668fe1e3f1d45dd51371bb930b266",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3158/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Inner East Melbourne_data.xlsx\"",
+    "ETag": "\"1637284162:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:09:21 GMT"
+  },
+  "sha256": "b5046da28032fce466eab6abb047509cb956e0ce31555aeb6b9330bdd0e3d44e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3158/download?attachment="
+}

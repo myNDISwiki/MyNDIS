@@ -1,0 +1,21 @@
+{
+  "bytes": 2936,
+  "content_type": "image/svg+xml",
+  "directory": "resources/24d4b51f9f63e9caa290910d3201ccc135155e2daed200f80509d81878144586",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-map-waves.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-b78\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:44 GMT"
+  },
+  "sha256": "e02688744f296db7cc05f8071a5f79f34aa08e90f5d7a250fa09720a9b6e6f44",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/datavis-map-waves.svg"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 63500,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/84f1f0c9cddd0759f551257ff5fe1616cd01c9080fe46fd7005a8c3704ebffd3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3562/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2. Disability Dashboard Transcript For Intellectual Disability.docx\"",
+    "ETag": "\"1671586134:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 01:28:53 GMT"
+  },
+  "sha256": "90a91365e1bad626a69ce1cbba57c7c714c76988cb18a67a6987a702f6f3e7d0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3562/download?attachment="
+}

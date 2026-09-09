@@ -1,0 +1,22 @@
+{
+  "bytes": 342791,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ac67a28ee7bb6722c0274e27f896e92e388a0926e268f27ed6bbc7b560bb7fe9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2484/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participants across remoteness classifications - Data Tables XLSX.xlsx\"",
+    "ETag": "\"1635836120:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:19 GMT"
+  },
+  "sha256": "9e1cb11ee1aa2a58a8447204c70eff113f5287435af5e53cb948faa73f77c311",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2484/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 399801,
+  "content_type": "application/pdf",
+  "directory": "resources/5daa430656b044f1ee12d03913bb57c2b7d14230e2cf3ad2c16033d869d733c9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3019/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Illawarra Shoalhaven.pdf\"",
+    "ETag": "\"1637191781:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:29:40 GMT"
+  },
+  "sha256": "eebb49e284b68fe2855cbed99e8e8d566eefc077cf1ed4b7f8ee235d4a555710",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3019/download?attachment="
+}

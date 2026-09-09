@@ -1,0 +1,22 @@
+{
+  "bytes": 27942,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/6c93d3d71f18ed6228d45f88a072c098eec7c3f987deea50cce90cb35d40bfaf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3114/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Adelaide Hills_data.xlsx\"",
+    "ETag": "\"1637276381:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:59:40 GMT"
+  },
+  "sha256": "0fdc5faa56a9d3824390125fae146a610836f6a09f760e02b54d7da14ba17bbe",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3114/download?attachment="
+}

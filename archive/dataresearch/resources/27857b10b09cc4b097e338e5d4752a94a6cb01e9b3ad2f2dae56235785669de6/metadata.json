@@ -1,0 +1,22 @@
+{
+  "bytes": 52779,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/27857b10b09cc4b097e338e5d4752a94a6cb01e9b3ad2f2dae56235785669de6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4389/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIA Response to the review of Art and Music - ER - Text only.docx\"",
+    "ETag": "\"1757387824:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 09 Sep 2025 03:17:03 GMT"
+  },
+  "sha256": "ba6b898c6536817ee60f42ca83ba1fb5354c90a802e73682369c0099f4adaaeb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4389/download?attachment="
+}

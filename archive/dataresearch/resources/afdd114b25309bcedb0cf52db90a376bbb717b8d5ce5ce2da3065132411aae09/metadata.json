@@ -1,0 +1,22 @@
+{
+  "bytes": 1006143,
+  "content_type": "application/pdf",
+  "directory": "resources/afdd114b25309bcedb0cf52db90a376bbb717b8d5ce5ce2da3065132411aae09",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3274/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Western Melbourne.pdf\"",
+    "ETag": "\"1647991308:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Mar 2022 23:21:47 GMT"
+  },
+  "sha256": "98443827da59db5541808526d38c71c4b879dca4311f4a16fd70e38a00098514",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3274/download?attachment="
+}

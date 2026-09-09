@@ -1,0 +1,22 @@
+{
+  "bytes": 62080,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/b81c117cc0893a5d01c4a466b3fce3191c7351a04af38bb7121564bd698543e8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3688/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Research Requests Summary Log DOCX.docx\"",
+    "ETag": "\"1731027751:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 08 Nov 2024 01:02:30 GMT"
+  },
+  "sha256": "942fd20dd5dcdeb7cdc5ff9009568dd635ff4e3e6f9e683be752aa5c24acd2f4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3688/download?attachment="
+}

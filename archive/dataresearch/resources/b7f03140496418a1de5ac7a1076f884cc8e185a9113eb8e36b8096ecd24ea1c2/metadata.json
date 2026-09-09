@@ -1,0 +1,22 @@
+{
+  "bytes": 1773579,
+  "content_type": "application/pdf",
+  "directory": "resources/b7f03140496418a1de5ac7a1076f884cc8e185a9113eb8e36b8096ecd24ea1c2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3555/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS196_Global Developmental Delay Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS196_Global%20Developmental%20Delay%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671584825:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 01:07:04 GMT"
+  },
+  "sha256": "74437836e631a76f4b0041bcab25c6edf81d0b98e9b3bb1c09d5b21d93e71f43",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3555/download?attachment="
+}

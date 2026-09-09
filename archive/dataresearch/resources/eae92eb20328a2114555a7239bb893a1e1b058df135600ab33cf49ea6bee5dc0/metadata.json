@@ -1,0 +1,22 @@
+{
+  "bytes": 1177648,
+  "content_type": "application/pdf",
+  "directory": "resources/eae92eb20328a2114555a7239bb893a1e1b058df135600ab33cf49ea6bee5dc0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1680/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Public Data Sharing Policy PDF.pdf\"",
+    "ETag": "\"1635836119:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:18 GMT"
+  },
+  "sha256": "f72c865973489db740c476433722b92d91f8a39b222f7c3ecef3d3478b0dafcc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1680/download?attachment="
+}

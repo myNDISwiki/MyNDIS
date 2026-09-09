@@ -1,0 +1,22 @@
+{
+  "bytes": 27951,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/47d2d7fd2f70a28a67c1af202fd60bdc4f8b8cff0e95117c57c849b37605b7f6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3040/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_South Eastern Sydney_data.xlsx\"",
+    "ETag": "\"1637192302:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:38:21 GMT"
+  },
+  "sha256": "7e71fc3a0ee57024a3c7e62612fcefd4fdd99e71d5e2605c4a4eeb1b55c04a47",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3040/download?attachment="
+}

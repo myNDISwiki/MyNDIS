@@ -1,0 +1,22 @@
+{
+  "bytes": 30898,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/f5ca0decff5322eaf44ee7d0aa79d5df349e836cb0f9731b601747fe9f4b1764",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3569/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Psychosocial disability data to 30 September 2022 .xlsx\"",
+    "ETag": "\"1695861789:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 28 Sep 2023 00:43:08 GMT"
+  },
+  "sha256": "617830c6caff21d445360a34345ccd214fde45f15b3e0f8af13174d58d02c350",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3569/download?attachment="
+}

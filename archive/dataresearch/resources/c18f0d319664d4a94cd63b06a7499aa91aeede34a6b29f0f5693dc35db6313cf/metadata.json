@@ -1,0 +1,22 @@
+{
+  "bytes": 27944,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/c18f0d319664d4a94cd63b06a7499aa91aeede34a6b29f0f5693dc35db6313cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3110/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Far North (SA)_data.xlsx\"",
+    "ETag": "\"1637275444:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:44:03 GMT"
+  },
+  "sha256": "4ebc245b17856aa84975354906e717917a2862879263ce27b3a5c026a441b9e3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3110/download?attachment="
+}

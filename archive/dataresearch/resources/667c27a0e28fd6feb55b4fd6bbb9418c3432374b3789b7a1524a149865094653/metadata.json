@@ -1,0 +1,22 @@
+{
+  "bytes": 854679,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/667c27a0e28fd6feb55b4fd6bbb9418c3432374b3789b7a1524a149865094653",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3706/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB COVID survey Part 1 Report DOCX_0.docx\"",
+    "ETag": "\"1690944921:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:55:20 GMT"
+  },
+  "sha256": "691da1786ac886e01ede21fb41f3fb5d292106e233fea4b2c38285c165c10875",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3706/download?attachment="
+}

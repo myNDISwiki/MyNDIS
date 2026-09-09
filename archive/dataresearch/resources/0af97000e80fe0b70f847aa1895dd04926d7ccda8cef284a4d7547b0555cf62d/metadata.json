@@ -1,0 +1,20 @@
+{
+  "bytes": 5701,
+  "content_type": "application/pdf",
+  "directory": "resources/0af97000e80fe0b70f847aa1895dd04926d7ccda8cef284a4d7547b0555cf62d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3242",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Insights forums.pdf\""
+  },
+  "sha256": "298d4c0973471edec3deeb55ab328d7dc56af087aaf0873d9070898139560092",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3242"
+}

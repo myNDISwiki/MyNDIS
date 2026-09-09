@@ -1,0 +1,22 @@
+{
+  "bytes": 924292,
+  "content_type": "application/pdf",
+  "directory": "resources/61b8dd7cfced0905a3cb0ecd960720bfdb64ce11af689d196032334e2510c4b3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1745/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_The NDIS Market Detailed Dashboard_Robina_0.pdf\"",
+    "ETag": "\"1635836086:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:45 GMT"
+  },
+  "sha256": "83a9be4c8079519a7a7a42eca72ebaec7a403a98595671111596ab89aa37006d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1745/download?attachment="
+}

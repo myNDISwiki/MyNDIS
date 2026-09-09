@@ -1,0 +1,22 @@
+{
+  "bytes": 304896,
+  "content_type": "application/pdf",
+  "directory": "resources/c2e66fd82402aac7edb033197d6405c0e989e3bdf58e65f7e484dc9abbab6265",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3051/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Katherine.pdf\"",
+    "ETag": "\"1637198410:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:20:09 GMT"
+  },
+  "sha256": "d9e0212b40a74e4bdc98580fe88179f3875dcd5c81fb88bcf9d07d3a2771f414",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3051/download?attachment="
+}

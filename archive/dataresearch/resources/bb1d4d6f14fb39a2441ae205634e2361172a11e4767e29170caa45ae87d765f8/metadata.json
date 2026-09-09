@@ -1,0 +1,20 @@
+{
+  "bytes": 14295,
+  "content_type": "application/pdf",
+  "directory": "resources/bb1d4d6f14fb39a2441ae205634e2361172a11e4767e29170caa45ae87d765f8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4072",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"The Inklings WA pilot program.pdf\""
+  },
+  "sha256": "e7fdb09f86cfbc6fe6177483f95461aac3c43407c20e450afe8e6ef426c50cca",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4072"
+}

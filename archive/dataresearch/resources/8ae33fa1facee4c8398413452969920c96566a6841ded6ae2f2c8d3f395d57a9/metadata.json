@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/8ae33fa1facee4c8398413452969920c96566a6841ded6ae2f2c8d3f395d57a9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3150/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Southern Melbourne_data.xlsx\"",
+    "ETag": "\"1637284061:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:07:40 GMT"
+  },
+  "sha256": "02f837b0fd24db484d29ad15d27f957e8a6f1446e50d66577ac20f28a2948d03",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3150/download?attachment="
+}

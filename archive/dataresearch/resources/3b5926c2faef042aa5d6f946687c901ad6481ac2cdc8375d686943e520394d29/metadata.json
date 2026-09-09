@@ -1,0 +1,22 @@
+{
+  "bytes": 113373,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/3b5926c2faef042aa5d6f946687c901ad6481ac2cdc8375d686943e520394d29",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4539/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Gender data to 31 March 2026.xlsx\"",
+    "ETag": "\"1781070165:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 10 Jun 2026 05:42:44 GMT"
+  },
+  "sha256": "6dd4fe504e105f74e84704171300f463b33d7ba401c36b893807d2626509f515",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4539/download?attachment="
+}

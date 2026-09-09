@@ -1,0 +1,20 @@
+{
+  "bytes": 9305,
+  "content_type": "application/pdf",
+  "directory": "resources/d0c5fe57e1de77c6605efacb0f3390c95367a94e4a307ca9ec28d284870ed764",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3980",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Participant family and carer outcomes  Tas and ACT.pdf\""
+  },
+  "sha256": "b16476d0460f3a3bfe41e5c745aa21d519957e7b010f001cf6b468aa59271294",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3980"
+}

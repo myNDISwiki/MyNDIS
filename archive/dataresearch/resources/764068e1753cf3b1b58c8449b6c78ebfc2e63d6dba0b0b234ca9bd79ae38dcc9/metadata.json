@@ -1,0 +1,22 @@
+{
+  "bytes": 2601,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/764068e1753cf3b1b58c8449b6c78ebfc2e63d6dba0b0b234ca9bd79ae38dcc9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1923/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Appendix D_5.csv\"",
+    "ETag": "\"1635836091:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:50 GMT"
+  },
+  "sha256": "5febe958bf69ea2799428aff842cf934e19e9ed476b965e7c3c4deaf19f1141f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1923/download?attachment="
+}

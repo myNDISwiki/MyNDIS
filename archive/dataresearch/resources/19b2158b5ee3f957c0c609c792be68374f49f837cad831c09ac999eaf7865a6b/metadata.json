@@ -1,0 +1,22 @@
+{
+  "bytes": 16251233,
+  "content_type": "application/zip",
+  "directory": "resources/19b2158b5ee3f957c0c609c792be68374f49f837cad831c09ac999eaf7865a6b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3257/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Detailed Dashboards NSW.zip\"",
+    "ETag": "\"1647927089:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Mar 2022 05:31:28 GMT"
+  },
+  "sha256": "a179215e1a3aea5464d8fe90fe6950f93b2c7ac78fd1fd9fb12fb378838a1c76",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3257/download?attachment="
+}

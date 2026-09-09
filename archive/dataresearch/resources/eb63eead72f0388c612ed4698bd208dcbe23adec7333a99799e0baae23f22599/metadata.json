@@ -1,0 +1,22 @@
+{
+  "bytes": 407476,
+  "content_type": "application/pdf",
+  "directory": "resources/eb63eead72f0388c612ed4698bd208dcbe23adec7333a99799e0baae23f22599",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3018/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Hunter New England.pdf\"",
+    "ETag": "\"1637191763:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:29:22 GMT"
+  },
+  "sha256": "baeee3697f5281086ee6d3a5111bd7f8af5a75156072cdb1a8f720e8db31e709",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3018/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 140055,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1e9c03d8485c9fff69fa66038bd1c0e3a37e12b4cad4f315ae8b8bba2f64b227",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2975/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_East Arnhem_data.xlsx\"",
+    "ETag": "\"1635836143:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:42 GMT"
+  },
+  "sha256": "c79d8165c29bdafc4f6f31d6ad4453d14a3b30c881dc34efb5b54434f2a0e14e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2975/download?attachment="
+}

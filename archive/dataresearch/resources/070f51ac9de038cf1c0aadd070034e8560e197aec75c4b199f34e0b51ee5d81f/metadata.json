@@ -1,0 +1,22 @@
+{
+  "bytes": 529334,
+  "content_type": "application/pdf",
+  "directory": "resources/070f51ac9de038cf1c0aadd070034e8560e197aec75c4b199f34e0b51ee5d81f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1535/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 9 school to 14 School.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "a70600b38d530d8d42c38ed3e5e5baebc3094ad492f3f677b683eb455c514e16",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1535/download?attachment="
+}

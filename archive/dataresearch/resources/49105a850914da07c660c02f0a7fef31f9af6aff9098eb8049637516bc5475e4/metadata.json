@@ -1,0 +1,22 @@
+{
+  "bytes": 390991,
+  "content_type": "application/pdf",
+  "directory": "resources/49105a850914da07c660c02f0a7fef31f9af6aff9098eb8049637516bc5475e4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3701/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB SCCP evidence review - summary (plain language) PDF.pdf\"",
+    "ETag": "\"1690944758:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:52:37 GMT"
+  },
+  "sha256": "1470ad1744d11ebb20737a5a95a5109275e84e2ba9c4f797b59e546eca9f6b81",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3701/download?attachment="
+}

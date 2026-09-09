@@ -1,0 +1,21 @@
+{
+  "bytes": 2929,
+  "content_type": "image/svg+xml",
+  "directory": "resources/4a5b429a54bf03e08ea5ec105d0243ee0c1d6c4bbbf01165992ae2056a6c4d5e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/arrows-up.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-b71\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:44 GMT"
+  },
+  "sha256": "e172d380f02772557d0c55a0e80dc60c19f2887b4c986e98fb265ccf854bee86",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/arrows-up.svg"
+}

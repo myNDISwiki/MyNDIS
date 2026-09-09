@@ -1,0 +1,7 @@
+# Resource history
+
+Source: https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/behavioural-interventions
+
+## 2026-09-09T19:20:17Z — new
+
+SHA-256: `b0c8ba9a17519c9ff0dbc50e583d948433fba24d5824ed4c56636a09fc3d7eb8`

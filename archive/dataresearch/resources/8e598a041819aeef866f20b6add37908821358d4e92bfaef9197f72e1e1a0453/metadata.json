@@ -1,0 +1,22 @@
+{
+  "bytes": 14367046,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/8e598a041819aeef866f20b6add37908821358d4e92bfaef9197f72e1e1a0453",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4532/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Payments data March 2026.csv\"",
+    "ETag": "\"1778730825:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 14 May 2026 03:53:44 GMT"
+  },
+  "sha256": "7cdcddd321794cf48f332a694075ab719d43e42e616dacc19e8c0f18f1d6547c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4532/download?attachment="
+}

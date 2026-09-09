@@ -1,0 +1,22 @@
+{
+  "bytes": 920792,
+  "content_type": "application/pdf",
+  "directory": "resources/ad523a4280b45d4d54003b63b8bcf8b64d0bc5b5a324214e8819517b127c0b11",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1992/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Central Australia.pdf\"",
+    "ETag": "\"1635836099:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:58 GMT"
+  },
+  "sha256": "b3af9f38620a6637473fa576aaa0aa53ca5b252ecfe8fbaacd66b7f07cdbfd2f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1992/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 149850,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/fd33e87fc15ae7e8ddb327d8139a610e7254535d59a82d135d4354e786250281",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2437/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Western District_data.xlsx\"",
+    "ETag": "\"1635836118:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:17 GMT"
+  },
+  "sha256": "dcc9d60ac49293d05a7e314dffac1cd2d640ffbf5f11cb9f7f9de4e1a76ce9c5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2437/download?attachment="
+}

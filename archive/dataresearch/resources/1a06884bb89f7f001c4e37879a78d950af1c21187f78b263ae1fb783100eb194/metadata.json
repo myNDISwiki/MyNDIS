@@ -1,0 +1,22 @@
+{
+  "bytes": 6682117,
+  "content_type": "application/zip",
+  "directory": "resources/1a06884bb89f7f001c4e37879a78d950af1c21187f78b263ae1fb783100eb194",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3307/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Detailed Dashboards QLD.zip\"",
+    "ETag": "\"1647998383:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 01:19:42 GMT"
+  },
+  "sha256": "8ac7ffd2abe680acb0a6dc8b691ff4049bc43ac5c4876a5e4b3d971a41f378ec",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3307/download?attachment="
+}

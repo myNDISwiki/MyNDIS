@@ -1,0 +1,22 @@
+{
+  "bytes": 10014887,
+  "content_type": "application/pdf",
+  "directory": "resources/51158d3af299a767b583dc845dc44d62d1e2fee7567581ff0c0239f5096f426d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3892/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Annual Financial Sustainability Report 2021-22 (3).pdf\"",
+    "ETag": "\"1701923833:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 07 Dec 2023 04:37:12 GMT"
+  },
+  "sha256": "369277ab3c1d32e15f843bb987232fe6f5301619ce4714e1b7a6c764fe127dad",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3892/download?attachment="
+}

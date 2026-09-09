@@ -1,0 +1,21 @@
+{
+  "bytes": 2376,
+  "content_type": "font/woff2",
+  "directory": "resources/c250f83e613397d25679b27fba26c40f960bfe289e10bc6c4c25699308ed72ac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.woff2",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-948:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:43 GMT"
+  },
+  "sha256": "c27f86350c85a87da686b510caaccde96761b3b914a1e05c04e0158557be47e7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.woff2"
+}

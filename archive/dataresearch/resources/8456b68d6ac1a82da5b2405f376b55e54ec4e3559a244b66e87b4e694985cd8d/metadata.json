@@ -1,0 +1,22 @@
+{
+  "bytes": 1441270,
+  "content_type": "application/pdf",
+  "directory": "resources/8456b68d6ac1a82da5b2405f376b55e54ec4e3559a244b66e87b4e694985cd8d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3198/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Summary PDF.pdf\"",
+    "ETag": "\"1638420089:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 02 Dec 2021 04:41:28 GMT"
+  },
+  "sha256": "0ff4683db68db203d1aea5c88550a51740b83c57160521baaf70583a9540c928",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3198/download?attachment="
+}

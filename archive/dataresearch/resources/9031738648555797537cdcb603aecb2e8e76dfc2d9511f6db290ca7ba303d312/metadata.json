@@ -1,0 +1,22 @@
+{
+  "bytes": 146666,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/9031738648555797537cdcb603aecb2e8e76dfc2d9511f6db290ca7ba303d312",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2994/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Great Southern_data.xlsx\"",
+    "ETag": "\"1635836143:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:42 GMT"
+  },
+  "sha256": "5590a6b04cd1eaf5803d8e95ffe63c63683dd4ba4ce14232b174783e754d0e48",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2994/download?attachment="
+}

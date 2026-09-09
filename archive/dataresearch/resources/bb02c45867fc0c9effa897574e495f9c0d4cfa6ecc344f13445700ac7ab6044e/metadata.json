@@ -1,0 +1,22 @@
+{
+  "bytes": 2425072,
+  "content_type": "application/pdf",
+  "directory": "resources/bb02c45867fc0c9effa897574e495f9c0d4cfa6ecc344f13445700ac7ab6044e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3825/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Other Neurological dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602515:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:41:54 GMT"
+  },
+  "sha256": "4dac78fbd43a84c8b38ce978855ab788664c5274ebaa9524b8281695c27d215d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3825/download?attachment="
+}

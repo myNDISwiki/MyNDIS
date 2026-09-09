@@ -1,0 +1,22 @@
+{
+  "bytes": 120110,
+  "content_type": "application/pdf",
+  "directory": "resources/09b521909af2156dae942a45706a7f7ecca620ee12b1b59492e9ad0da08c7054",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4520/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary February 2026_0.pdf\"",
+    "ETag": "\"1773355121:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Mar 2026 22:38:40 GMT"
+  },
+  "sha256": "5cf98bc1f82082e63cbaf772854a2d7855ebc09028762b1ebc72afeac016efdb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4520/download?attachment="
+}

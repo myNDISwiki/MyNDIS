@@ -1,0 +1,22 @@
+{
+  "bytes": 151894,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ad5e11fe402ea696916798679e0ca799d40799aee89c63dbe720291372724aab",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2660/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Robina_data.xlsx\"",
+    "ETag": "\"1635836135:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:34 GMT"
+  },
+  "sha256": "2fbb57f720fb9dcf13becbec42f6fe9345d18dfd3152c9060d56a9e1338dff0a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2660/download?attachment="
+}

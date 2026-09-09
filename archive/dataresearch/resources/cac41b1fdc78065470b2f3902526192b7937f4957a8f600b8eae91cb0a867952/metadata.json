@@ -1,0 +1,22 @@
+{
+  "bytes": 2381097,
+  "content_type": "application/pdf",
+  "directory": "resources/cac41b1fdc78065470b2f3902526192b7937f4957a8f600b8eae91cb0a867952",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3822/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Hearing dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602333:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:38:52 GMT"
+  },
+  "sha256": "c55470e845194ebe6863de67a14d4d142e81098f2dd0b81ebe0de639e7d4145c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3822/download?attachment="
+}

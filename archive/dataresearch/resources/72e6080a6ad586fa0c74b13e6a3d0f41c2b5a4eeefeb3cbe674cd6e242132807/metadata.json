@@ -1,0 +1,22 @@
+{
+  "bytes": 151002,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/72e6080a6ad586fa0c74b13e6a3d0f41c2b5a4eeefeb3cbe674cd6e242132807",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3290/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Ovens Murray_data.xlsx\"",
+    "ETag": "\"1647995024:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 00:23:43 GMT"
+  },
+  "sha256": "18e4883b1b4a3a8dcd76dbdf6462959cda090a1c5435889b74870fc046c8d344",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3290/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 93788,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/13366f139632cfda6ba07ff1c4d3a08251f6b01b90f73ded26581bf8885d4974",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3926/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Other Physical data to 31 December 2023_1.xlsx\"",
+    "ETag": "\"1708905918:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 26 Feb 2024 00:05:17 GMT"
+  },
+  "sha256": "abe4982f6e62229039631d6f2e0c43d8abf439aac8480bcb3c4db202a705de83",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3926/download?attachment="
+}

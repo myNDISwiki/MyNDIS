@@ -1,0 +1,22 @@
+{
+  "bytes": 91345,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/80de03f41ae5bfe491eecf4911bd68ecc56f321d1ebe7c962ae8a20ecd64f96b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4507/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Spinal cord injury data to 31 December 2025.xlsx\"",
+    "ETag": "\"1770869866:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Feb 2026 04:17:45 GMT"
+  },
+  "sha256": "b17004b898323391d5962e9fd60185b57083532444b368381c8091d21da8b545",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4507/download?attachment="
+}

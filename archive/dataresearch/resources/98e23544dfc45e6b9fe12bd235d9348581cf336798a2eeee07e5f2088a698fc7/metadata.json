@@ -1,0 +1,22 @@
+{
+  "bytes": 18363,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/98e23544dfc45e6b9fe12bd235d9348581cf336798a2eeee07e5f2088a698fc7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2143/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912 02 The NDIS Market Summary Dashboard all - data CSV.csv\"",
+    "ETag": "\"1635836098:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:57 GMT"
+  },
+  "sha256": "d2b4d2c772573108357da4371c51c8ec8b7775fc2611c7eceac6656748946d8d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2143/download?attachment="
+}

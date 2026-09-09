@@ -1,0 +1,22 @@
+{
+  "bytes": 72377,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/8baff1b4ec4620b13264fb5462dde7c37c0a8a4f811175a4a4a27d2111ef2141",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3403/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 _ Guide to the NDIS Market Dashboards - slide transcript.docx\"; filename*=utf-8''202112%20%E2%80%93%20Guide%20to%20the%20NDIS%20Market%20Dashboards%20-%20slide%20transcript.docx",
+    "ETag": "\"1648083549:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 24 Mar 2022 00:59:08 GMT"
+  },
+  "sha256": "758e5d76597a765dff56e01777d7c030a64c7815bcf1e97ccea5b84ad82293fc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3403/download?attachment="
+}

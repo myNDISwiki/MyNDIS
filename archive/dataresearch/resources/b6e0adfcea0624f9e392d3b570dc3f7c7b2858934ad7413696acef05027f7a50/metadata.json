@@ -1,0 +1,22 @@
+{
+  "bytes": 1005803,
+  "content_type": "application/pdf",
+  "directory": "resources/b6e0adfcea0624f9e392d3b570dc3f7c7b2858934ad7413696acef05027f7a50",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3305/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Toowoomba.pdf\"",
+    "ETag": "\"1647996284:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 00:44:43 GMT"
+  },
+  "sha256": "a1ab19443c31e6edc52939b97ba1d6ace93a29a7ec47e30660b818025900022f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3305/download?attachment="
+}

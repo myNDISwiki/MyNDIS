@@ -1,0 +1,22 @@
+{
+  "bytes": 58253,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/8f0badb34613766aef987c5625b62deba3843d70d852c06912aaaa9c4b490e49",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3890/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"ER Annual Financial Sustainability Reports 2021-22.docx\"",
+    "ETag": "\"1701923758:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 07 Dec 2023 04:35:57 GMT"
+  },
+  "sha256": "02094cc905bc2367eb967733f5918b2842e0288787f1163e9819d26d333254c8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3890/download?attachment="
+}

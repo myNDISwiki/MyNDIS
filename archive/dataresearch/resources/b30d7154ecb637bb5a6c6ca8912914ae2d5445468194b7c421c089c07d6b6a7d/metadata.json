@@ -1,0 +1,22 @@
+{
+  "bytes": 27942,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b30d7154ecb637bb5a6c6ca8912914ae2d5445468194b7c421c089c07d6b6a7d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3057/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Darwin Remote_data.xlsx\"",
+    "ETag": "\"1637198573:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:22:52 GMT"
+  },
+  "sha256": "05cfda8d0b4e55edb7454606bb0e08818c5e95fb4e9f6aa364d4e54369659d91",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3057/download?attachment="
+}

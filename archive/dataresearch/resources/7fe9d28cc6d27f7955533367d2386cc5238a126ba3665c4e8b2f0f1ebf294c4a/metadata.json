@@ -1,0 +1,22 @@
+{
+  "bytes": 64693,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/7fe9d28cc6d27f7955533367d2386cc5238a126ba3665c4e8b2f0f1ebf294c4a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3657/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB ER Families and Carers Outcomes Report .docx\"",
+    "ETag": "\"1685508441:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 31 May 2023 04:47:20 GMT"
+  },
+  "sha256": "27c1e370c5c2e3f715a3e03b9b700a400e9800f718ce51956a2cc16603cdea21",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3657/download?attachment="
+}

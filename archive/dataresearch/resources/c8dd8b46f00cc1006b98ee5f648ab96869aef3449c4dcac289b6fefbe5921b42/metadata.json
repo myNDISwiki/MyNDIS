@@ -1,0 +1,22 @@
+{
+  "bytes": 1178935,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/c8dd8b46f00cc1006b98ee5f648ab96869aef3449c4dcac289b6fefbe5921b42",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3599/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Appendix P Supplement 2022-23 Q2.xlsx\"",
+    "ETag": "\"1683264387:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 05 May 2023 05:26:26 GMT"
+  },
+  "sha256": "3d33c7206ab7179fceab6b75bbbbbb12c850fa3fe719d16a2a4151129d872176",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3599/download?attachment="
+}

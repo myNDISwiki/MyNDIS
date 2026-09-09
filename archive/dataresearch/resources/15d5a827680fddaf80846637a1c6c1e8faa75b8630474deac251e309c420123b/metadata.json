@@ -1,0 +1,22 @@
+{
+  "bytes": 3401358,
+  "content_type": "application/pdf",
+  "directory": "resources/15d5a827680fddaf80846637a1c6c1e8faa75b8630474deac251e309c420123b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4386/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Art and Music Therapy report ER.pdf\"",
+    "ETag": "\"1757397769:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 09 Sep 2025 06:02:48 GMT"
+  },
+  "sha256": "e0894f0a3140bed045d836e14fbf5684300a3cc2bbe334930a3bb87dd3f4ebc4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4386/download?attachment="
+}

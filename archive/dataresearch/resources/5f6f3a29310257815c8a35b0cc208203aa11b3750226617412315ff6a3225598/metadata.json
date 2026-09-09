@@ -1,0 +1,22 @@
+{
+  "bytes": 88563,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5f6f3a29310257815c8a35b0cc208203aa11b3750226617412315ff6a3225598",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4290/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Autism data to 31 December 2024.xlsx\"",
+    "ETag": "\"1739938297:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 19 Feb 2025 04:11:36 GMT"
+  },
+  "sha256": "d220d808414ea4301970c06c150e47f2c508e077c9f2f9db4d9073ce8ab25f2b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4290/download?attachment="
+}

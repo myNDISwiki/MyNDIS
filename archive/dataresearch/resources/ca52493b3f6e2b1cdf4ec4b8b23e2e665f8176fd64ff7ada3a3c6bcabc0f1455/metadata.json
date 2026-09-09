@@ -1,0 +1,22 @@
+{
+  "bytes": 369809,
+  "content_type": "application/pdf",
+  "directory": "resources/ca52493b3f6e2b1cdf4ec4b8b23e2e665f8176fd64ff7ada3a3c6bcabc0f1455",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3133/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Brimbank Melton.pdf\"",
+    "ETag": "\"1637283769:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:02:48 GMT"
+  },
+  "sha256": "e7d3784e6a585e40944816a969208ad1089153a6d67e71c81df1f120cc34f99f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3133/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 3676255,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1b28dda862d51440e2b874321a956296817f934aecf12ea3cfc60e54163508f9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3935/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement J South Australia 2023-24 Q2_0.xlsx\"",
+    "ETag": "\"1708315461:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 19 Feb 2024 04:04:20 GMT"
+  },
+  "sha256": "6d19b0bbb066e843401c9b4ad9cb932f8e9df20af24d4d3a6d1a692d3d8c8a9b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3935/download?attachment="
+}

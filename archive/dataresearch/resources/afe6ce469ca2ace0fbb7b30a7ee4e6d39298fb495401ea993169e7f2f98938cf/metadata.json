@@ -1,0 +1,22 @@
+{
+  "bytes": 683227,
+  "content_type": "application/pdf",
+  "directory": "resources/afe6ce469ca2ace0fbb7b30a7ee4e6d39298fb495401ea993169e7f2f98938cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1946/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Culturally and Linguistically Diverse participants PDF.pdf\"",
+    "ETag": "\"1635836120:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:19 GMT"
+  },
+  "sha256": "276f5da8c0899058b57a2783cb9b30744deaa4f6a723cc9e0dfce232605fed12",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1946/download?attachment="
+}

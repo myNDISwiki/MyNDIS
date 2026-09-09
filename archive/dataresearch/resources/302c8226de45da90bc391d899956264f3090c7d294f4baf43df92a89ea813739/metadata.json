@@ -1,0 +1,22 @@
+{
+  "bytes": 86409,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/302c8226de45da90bc391d899956264f3090c7d294f4baf43df92a89ea813739",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4538/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"First Nations data to 31 March 2026.xlsx\"",
+    "ETag": "\"1781070091:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 10 Jun 2026 05:41:30 GMT"
+  },
+  "sha256": "299e11db73ddcd9e69c50962926e8cd79c0ccf7d6bd60e8e3815732a1b1234bb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4538/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 154654,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a86290420cdb68e859d111d889ee9a5ea2c866813644ce00419ea6943649b7ea",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3310/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Brisbane_data.xlsx\"",
+    "ETag": "\"1647998674:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 01:24:33 GMT"
+  },
+  "sha256": "c986a9d3f72f47a738481e06e2cbfc9179a4434b9f51d38b81a16541451e8242",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3310/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 413245,
+  "content_type": "application/pdf",
+  "directory": "resources/2388b56af03a39db8024ec40527ea5a6a5d36b5c8b4b00a7d5237ca61f3cfc96",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4295/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Evidence Summary _ Art and music therapy.pdf\"",
+    "ETag": "\"1742512560:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 20 Mar 2025 23:15:59 GMT"
+  },
+  "sha256": "654faddbc6e49a0e5d462beaffe961e735847550142434b8c266ad4dae086bf4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4295/download?attachment="
+}

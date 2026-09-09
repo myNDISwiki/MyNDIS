@@ -1,0 +1,22 @@
+{
+  "bytes": 3987,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/5c2f9bd1870cfbc471aa00b5a6c2f827301534ed0eeddf9722a41925ec770e2f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1950/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB CALD Participants_MAR22_CSV.csv\"",
+    "ETag": "\"1653960645:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 31 May 2022 01:30:44 GMT"
+  },
+  "sha256": "f31031fcdf3917ca3c13daa397f100a21fce7c6afddc27d7cce891081a903edf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1950/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 58382,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/a6c945bac9b8ab8c3d553be2721042d5803ce536ec7e81f93ecaa571346a9c51",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3565/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"11. Disability Dashboard Transcript For multiple sclerosis.docx\"",
+    "ETag": "\"1671589051:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 02:17:30 GMT"
+  },
+  "sha256": "55801b39e6e6eaeb66f7c2b165e9ba542f8f02959a8df91fe7421f8b42033024",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3565/download?attachment="
+}

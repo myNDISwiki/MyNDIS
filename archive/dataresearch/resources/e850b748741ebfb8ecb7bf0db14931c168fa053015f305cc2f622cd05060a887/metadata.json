@@ -1,0 +1,20 @@
+{
+  "bytes": 12671,
+  "content_type": "application/pdf",
+  "directory": "resources/e850b748741ebfb8ecb7bf0db14931c168fa053015f305cc2f622cd05060a887",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4000",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Intellectual Disability.pdf\""
+  },
+  "sha256": "57f7acdc2bf4b71b33ab76c317451c07f635af08c1bd13c42fe42434655575d3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4000"
+}

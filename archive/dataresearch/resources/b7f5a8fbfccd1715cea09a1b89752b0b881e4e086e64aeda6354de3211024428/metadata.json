@@ -1,0 +1,20 @@
+{
+  "bytes": 16163,
+  "content_type": "application/pdf",
+  "directory": "resources/b7f5a8fbfccd1715cea09a1b89752b0b881e4e086e64aeda6354de3211024428",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3974",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Other analyses.pdf\""
+  },
+  "sha256": "e17830acefd5bd1eed00a8ddf6ef1a4b46000b74869102e27cb7363dc34754c6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3974"
+}

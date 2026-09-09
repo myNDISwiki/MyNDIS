@@ -1,0 +1,22 @@
+{
+  "bytes": 840181,
+  "content_type": "application/pdf",
+  "directory": "resources/a2d1132ff1bdffcb211db2e210960d4c8e88c0b68778a8964e697892f061d10b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3487/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2019-20 Peer Review.pdf\"",
+    "ETag": "\"1667367988:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Nov 2022 05:46:27 GMT"
+  },
+  "sha256": "a89b807e5a7747fb22d2edd44c6ef0f302f17855f29d729bdc38b8b4466eccb8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3487/download?attachment="
+}

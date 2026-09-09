@@ -1,0 +1,22 @@
+{
+  "bytes": 311430,
+  "content_type": "application/pdf",
+  "directory": "resources/364f0356ac37451d3c506a907c8355dabea51a9c5ebafc3c7e4b2ae46347e669",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3050/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard East Arnhem.pdf\"",
+    "ETag": "\"1637198399:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:19:58 GMT"
+  },
+  "sha256": "d3ee616395f733004edc30143c7bc0d61a3188717b7807b3889c41239db42510",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3050/download?attachment="
+}

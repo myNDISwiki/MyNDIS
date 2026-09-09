@@ -1,0 +1,22 @@
+{
+  "bytes": 926787,
+  "content_type": "application/pdf",
+  "directory": "resources/d3c16fc011c9a40cab95f50db9f63cc1b50e122c79ecbf3c581b94b0a82af790",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2361/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Rockhampton.pdf\"",
+    "ETag": "\"1635836117:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:16 GMT"
+  },
+  "sha256": "0034974786b48bafe261385b2a52b909659496b53da6aac22450921dd915644f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2361/download?attachment="
+}

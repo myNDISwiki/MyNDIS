@@ -1,0 +1,20 @@
+{
+  "bytes": 289537,
+  "content_type": "text/javascript; charset=utf-8",
+  "directory": "resources/5652d9f15d2bb83b782bdfc67ce9d3590da218952d81917bb9ceae29ba6fc502",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10343260715123811.js",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Last-Modified": "Wed, 03 Mar 2010 07:01:40 GMT"
+  },
+  "sha256": "7778cf311e2126c68c9c19efab6b51fb95a386570b7964bdced168af515e6328",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10343260715123811.js"
+}

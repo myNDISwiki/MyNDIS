@@ -1,0 +1,22 @@
+{
+  "bytes": 16448442,
+  "content_type": "application/zip",
+  "directory": "resources/1514c97119eda95096727cfa5bd288c82c686d326c3601c0c579ee21fc27d4a6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3130/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 LGA Outcomes Detailed Dashboards NSW_A-K PDF.zip\"; filename*=utf-8''202106%20LGA%20Outcomes%20Detailed%20Dashboards%20NSW%C2%A0A-K%20PDF.zip",
+    "ETag": "\"1637281740:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 00:28:59 GMT"
+  },
+  "sha256": "9e47bd60dc11bef47498fac1e978820d8b1eb9e765cdaee256008dc21ce1c1ab",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3130/download?attachment="
+}

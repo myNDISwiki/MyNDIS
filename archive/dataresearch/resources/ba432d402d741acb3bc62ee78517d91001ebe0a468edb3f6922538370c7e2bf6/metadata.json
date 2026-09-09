@@ -1,0 +1,22 @@
+{
+  "bytes": 20252528,
+  "content_type": "application/pdf",
+  "directory": "resources/ba432d402d741acb3bc62ee78517d91001ebe0a468edb3f6922538370c7e2bf6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2518/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2020  Appendix H - Part B PDF.pdf\"",
+    "ETag": "\"1635836131:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:30 GMT"
+  },
+  "sha256": "1fea122ee05624faff068570c561efaf009b130fc77261c67ab783237949fc10",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2518/download?attachment="
+}

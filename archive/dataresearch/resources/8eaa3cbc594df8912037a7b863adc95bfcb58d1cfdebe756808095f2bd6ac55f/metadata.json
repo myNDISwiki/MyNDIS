@@ -1,0 +1,22 @@
+{
+  "bytes": 2411029,
+  "content_type": "application/pdf",
+  "directory": "resources/8eaa3cbc594df8912037a7b863adc95bfcb58d1cfdebe756808095f2bd6ac55f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3818/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Cerebral palsy dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602235:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:37:14 GMT"
+  },
+  "sha256": "ad59f95efae58fd1c7096018093179df9378c27dc183a35ff0ca2900b861bdd6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3818/download?attachment="
+}

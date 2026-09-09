@@ -1,0 +1,22 @@
+{
+  "bytes": 1629163,
+  "content_type": "application/pdf",
+  "directory": "resources/6872877715c63bd2cc63c10699f4a78ebbcb7e92ae7b18335806a8fa648e5e31",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3888/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NMD report  FA  Accessible (3) (2).pdf\"",
+    "ETag": "\"1701659910:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 04 Dec 2023 03:18:29 GMT"
+  },
+  "sha256": "02db9f228782b5c87f144d2a0af45cfa2c8a028e9840d5e01ab32112a1bc16ba",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3888/download?attachment="
+}

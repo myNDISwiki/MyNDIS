@@ -1,0 +1,22 @@
+{
+  "bytes": 310852,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/335e6cf737d663b129208c16277c901e89adf1d9b08bee1378383e34cb9ad4de",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3967/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Investigating the benefits of assistance dogs or pet dogs for people with autism.docx\"",
+    "ETag": "\"1712794668:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 11 Apr 2024 00:17:47 GMT"
+  },
+  "sha256": "364263613957451ca07b8b3d9c99a565d24e8f807bd42b7ad0ef9c1851757820",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3967/download?attachment="
+}

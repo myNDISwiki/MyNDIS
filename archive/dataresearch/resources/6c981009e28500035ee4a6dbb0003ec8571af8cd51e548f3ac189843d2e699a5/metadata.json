@@ -1,0 +1,20 @@
+{
+  "bytes": 4051,
+  "content_type": "application/pdf",
+  "directory": "resources/6c981009e28500035ee4a6dbb0003ec8571af8cd51e548f3ac189843d2e699a5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4052",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Evidence snapshot on the effects of psychological interventions for mood in people living with multiple sclerosis.pdf\""
+  },
+  "sha256": "6d39298f5cb94430fcdf7caa5a5e76b54c9bea8f133c9f5057503aaf78fc72cb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4052"
+}

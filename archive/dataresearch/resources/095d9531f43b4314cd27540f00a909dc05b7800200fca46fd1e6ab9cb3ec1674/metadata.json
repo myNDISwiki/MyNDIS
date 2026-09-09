@@ -1,0 +1,22 @@
+{
+  "bytes": 2172678,
+  "content_type": "application/pdf",
+  "directory": "resources/095d9531f43b4314cd27540f00a909dc05b7800200fca46fd1e6ab9cb3ec1674",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3558/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS191_Hearing Impairment Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS191_Hearing%20Impairment%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671585351:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 01:15:50 GMT"
+  },
+  "sha256": "1b8fd1b9e5cce473cf857f0ed62bd16b1f603009295ece95e96b6d88a3e280cd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3558/download?attachment="
+}

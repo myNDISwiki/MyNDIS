@@ -1,0 +1,22 @@
+{
+  "bytes": 40446,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/ca4fd920ce1568ab627b0476d7cd13c29d7dc40e5f89795740749d58918cb828",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3804/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Development delay transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601446:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:24:05 GMT"
+  },
+  "sha256": "dab6605aeceaa02e8f62bf645b6eea8724c55e24bdb557d22fe97564014448a0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3804/download?attachment="
+}

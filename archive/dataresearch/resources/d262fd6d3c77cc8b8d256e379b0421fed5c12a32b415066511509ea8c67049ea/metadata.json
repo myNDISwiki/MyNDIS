@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d262fd6d3c77cc8b8d256e379b0421fed5c12a32b415066511509ea8c67049ea",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3190/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Central North Metro_data.xlsx\"",
+    "ETag": "\"1637286429:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:47:08 GMT"
+  },
+  "sha256": "476ad154c47899b41dfc7b10a8d5df69df057d64475ac14df1bd1b173bf86f61",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3190/download?attachment="
+}

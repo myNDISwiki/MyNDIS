@@ -1,0 +1,22 @@
+{
+  "bytes": 2737045,
+  "content_type": "application/zip",
+  "directory": "resources/8f61347f29a9e3680ea83e297c8b920750adeb17d7c1b2679ad31b2074785ce1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3308/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Data QLD.zip\"",
+    "ETag": "\"1647998511:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 01:21:50 GMT"
+  },
+  "sha256": "233a08a3b1e9d44bcfcb64875b8ad8a3a32061cc4158a2f4e3a075531bbe206a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3308/download?attachment="
+}

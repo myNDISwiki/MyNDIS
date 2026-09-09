@@ -1,0 +1,22 @@
+{
+  "bytes": 378845,
+  "content_type": "application/pdf",
+  "directory": "resources/7f8d3ca4dfa43c8e96f76ddd4d1ac29d0cc9e5263d6416514fbdbea567cd5c26",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3145/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Southern Melbourne.pdf\"",
+    "ETag": "\"1637283978:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:06:17 GMT"
+  },
+  "sha256": "0b0f5d363e58ff1919f6ffb486a35ffcb4f457490c8c6ec96a20fb9d038da397",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3145/download?attachment="
+}

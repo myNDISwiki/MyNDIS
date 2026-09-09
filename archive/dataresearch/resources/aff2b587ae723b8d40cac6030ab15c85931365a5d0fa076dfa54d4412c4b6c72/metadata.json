@@ -1,0 +1,22 @@
+{
+  "bytes": 1374839,
+  "content_type": "application/pdf",
+  "directory": "resources/aff2b587ae723b8d40cac6030ab15c85931365a5d0fa076dfa54d4412c4b6c72",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3789/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB SCCP evidence review - interventions PDF (1).pdf\"",
+    "ETag": "\"1693258673:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 28 Aug 2023 21:37:52 GMT"
+  },
+  "sha256": "334604910147ed9d0c569f2a5de57e427a8b9046c0a32354ec3908aaacc98e14",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3789/download?attachment="
+}

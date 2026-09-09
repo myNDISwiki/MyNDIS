@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ba5342eb5f1736a27ac9bd3a8b9c9097920753aa849b6effe99d7092f9b9c1ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3080/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Maryborough_data.xlsx",
+    "ETag": "\"1637200876:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:01:15 GMT"
+  },
+  "sha256": "1f918ec2eca20766f01f9b5b8bfac806e1d91d73e6e6575fed6bfe807c719f94",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3080/download?attachment="
+}

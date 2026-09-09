@@ -1,0 +1,22 @@
+{
+  "bytes": 2420056,
+  "content_type": "application/pdf",
+  "directory": "resources/bde25e141c3e194db2df9c28727002bfd1cb74201a2794b8ffc06ab1b032b732",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3829/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Stroke dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602614:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:43:33 GMT"
+  },
+  "sha256": "2c504c985a8b2e532caac2d17fea16ac2b162b09b503359d39605a60fb8714d5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3829/download?attachment="
+}

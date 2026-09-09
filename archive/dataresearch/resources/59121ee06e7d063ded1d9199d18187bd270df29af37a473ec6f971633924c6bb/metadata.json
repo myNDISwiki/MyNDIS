@@ -1,0 +1,22 @@
+{
+  "bytes": 915045,
+  "content_type": "application/pdf",
+  "directory": "resources/59121ee06e7d063ded1d9199d18187bd270df29af37a473ec6f971633924c6bb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1993/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Darwin Remote.pdf\"",
+    "ETag": "\"1635836099:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:58 GMT"
+  },
+  "sha256": "1f5116227b0d980fce0a1e82702d918eba954e13601054476698430bacb367d3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1993/download?attachment="
+}

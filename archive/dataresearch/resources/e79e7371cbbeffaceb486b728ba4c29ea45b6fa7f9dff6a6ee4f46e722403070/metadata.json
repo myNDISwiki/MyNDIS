@@ -1,0 +1,22 @@
+{
+  "bytes": 998045,
+  "content_type": "application/pdf",
+  "directory": "resources/e79e7371cbbeffaceb486b728ba4c29ea45b6fa7f9dff6a6ee4f46e722403070",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2828/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Central Coast.pdf\"",
+    "ETag": "\"1635836139:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:38 GMT"
+  },
+  "sha256": "e0e87945e201dd90a884a213b92648ddb6e3701fdd8c4d2e50ded898aa0afde5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2828/download?attachment="
+}

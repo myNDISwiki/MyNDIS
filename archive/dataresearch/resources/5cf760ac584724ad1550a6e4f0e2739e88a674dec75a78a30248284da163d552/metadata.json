@@ -1,0 +1,22 @@
+{
+  "bytes": 1259927,
+  "content_type": "application/pdf",
+  "directory": "resources/5cf760ac584724ad1550a6e4f0e2739e88a674dec75a78a30248284da163d552",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3015/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family-Carers Employment Outcomes Report Summary PDF.pdf\"",
+    "ETag": "\"1635836146:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:45 GMT"
+  },
+  "sha256": "b8693302039f9760d67a3920820efef421bc5fc72d9ce8e9dec6db788d1eb795",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3015/download?attachment="
+}

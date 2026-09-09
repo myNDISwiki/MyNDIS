@@ -1,0 +1,22 @@
+{
+  "bytes": 934843,
+  "content_type": "application/pdf",
+  "directory": "resources/f7005b2c5d323c1f41b36ca87629cb222ca7d8ce86d37422d20ec52871c320ce",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2644/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Mackay.pdf\"",
+    "ETag": "\"1635836125:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:24 GMT"
+  },
+  "sha256": "c2d17679d06952de9ad11f551491ce4ca6001cbc5a0ddff57a7e9a96bd9c0e72",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2644/download?attachment="
+}

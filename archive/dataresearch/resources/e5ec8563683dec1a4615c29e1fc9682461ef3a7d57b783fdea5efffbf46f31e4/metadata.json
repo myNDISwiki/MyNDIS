@@ -1,0 +1,22 @@
+{
+  "bytes": 9743119,
+  "content_type": "application/pdf",
+  "directory": "resources/e5ec8563683dec1a4615c29e1fc9682461ef3a7d57b783fdea5efffbf46f31e4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4149/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB AFSR 2022-23 - ER - Accessible (2).pdf\"",
+    "ETag": "\"1733891595:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 04:33:14 GMT"
+  },
+  "sha256": "f254f4f65d04226141d089bbf22e4fa7eabc721e911eeeb0d30228a5300634c6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4149/download?attachment="
+}

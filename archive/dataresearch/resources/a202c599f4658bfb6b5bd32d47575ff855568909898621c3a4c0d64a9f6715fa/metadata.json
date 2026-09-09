@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a202c599f4658bfb6b5bd32d47575ff855568909898621c3a4c0d64a9f6715fa",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3077/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Toowoomba_data.xlsx",
+    "ETag": "\"1637200826:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:00:25 GMT"
+  },
+  "sha256": "31b0a4a6dcb13d3f032bbf8e55a4b1ab79dcf129c435d329c8ed339ec9f07dee",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3077/download?attachment="
+}

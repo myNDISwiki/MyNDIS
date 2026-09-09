@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a0726a514e749872cb0b007a77af7e4baed8a77f250c802155a9008367724fbe",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3076/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Townsville_data.xlsx",
+    "ETag": "\"1637200799:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:59:58 GMT"
+  },
+  "sha256": "495ca91e72797552250dbb24aa28dff771adc6fd491d8d400bcba6cd55d07897",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3076/download?attachment="
+}

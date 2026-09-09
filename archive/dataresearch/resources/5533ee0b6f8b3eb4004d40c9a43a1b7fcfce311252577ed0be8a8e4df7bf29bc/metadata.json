@@ -1,0 +1,22 @@
+{
+  "bytes": 38349,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/5533ee0b6f8b3eb4004d40c9a43a1b7fcfce311252577ed0be8a8e4df7bf29bc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3732/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"How you can participate socially and in the community.docx\"",
+    "ETag": "\"1691361929:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 22:45:28 GMT"
+  },
+  "sha256": "77ec9a6dc6ce43d05d98eac7ff9c4469c8ec122bf44d3872000b8959f8b8545d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3732/download"
+}

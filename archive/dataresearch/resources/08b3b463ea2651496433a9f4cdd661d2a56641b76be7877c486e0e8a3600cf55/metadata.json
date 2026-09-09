@@ -1,0 +1,22 @@
+{
+  "bytes": 7108899,
+  "content_type": "application/pdf",
+  "directory": "resources/08b3b463ea2651496433a9f4cdd661d2a56641b76be7877c486e0e8a3600cf55",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4471/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Annual Financial Sustainability Report 2023-24.pdf\"",
+    "ETag": "\"1764544022:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 30 Nov 2025 23:07:01 GMT"
+  },
+  "sha256": "17267515531ee1ed3f9ea6888d66b686a7269ab1ce1d4d246298cd402307fcfc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4471/download?attachment="
+}

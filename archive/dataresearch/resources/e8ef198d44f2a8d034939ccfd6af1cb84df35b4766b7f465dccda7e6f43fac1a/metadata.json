@@ -1,0 +1,22 @@
+{
+  "bytes": 145820,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/e8ef198d44f2a8d034939ccfd6af1cb84df35b4766b7f465dccda7e6f43fac1a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2107/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Outer Gippsland_data.xlsx\"",
+    "ETag": "\"1635836102:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:01 GMT"
+  },
+  "sha256": "9ba1064e36a3d5e61a031a1ee6a9dc9c438ea1b57d81fa4cd43972fb2da929a4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2107/download?attachment="
+}

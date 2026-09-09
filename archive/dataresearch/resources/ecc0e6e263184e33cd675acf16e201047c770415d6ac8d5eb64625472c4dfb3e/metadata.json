@@ -1,0 +1,22 @@
+{
+  "bytes": 1570905,
+  "content_type": "application/pdf",
+  "directory": "resources/ecc0e6e263184e33cd675acf16e201047c770415d6ac8d5eb64625472c4dfb3e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3486/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2018-19 AFSR.pdf\"",
+    "ETag": "\"1667367948:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Nov 2022 05:45:47 GMT"
+  },
+  "sha256": "2124976847db292c31cb51bcf4c0483f3fe60efe86a4d388a29e33e2a618baf2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3486/download?attachment="
+}

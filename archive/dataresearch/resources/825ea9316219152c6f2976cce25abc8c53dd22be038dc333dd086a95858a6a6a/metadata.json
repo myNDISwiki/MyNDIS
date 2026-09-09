@@ -1,0 +1,22 @@
+{
+  "bytes": 62425,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/825ea9316219152c6f2976cce25abc8c53dd22be038dc333dd086a95858a6a6a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3541/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"7. Disability Dashboard Transcript For Acquired Brain Injury.docx\"",
+    "ETag": "\"1671582363:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 00:26:02 GMT"
+  },
+  "sha256": "621ab028b7144b3a903fb9f0a291b5211131f25dfc915a6e1ba7bc0b5f18716d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3541/download?attachment="
+}

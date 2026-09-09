@@ -1,0 +1,20 @@
+{
+  "bytes": 10405,
+  "content_type": "application/pdf",
+  "directory": "resources/243cb5b3e4db9b55d4f25480720f98633d348a9d85e0e7016649f8bd016f741a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3339",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Previous family and carer outcomes reports.pdf\""
+  },
+  "sha256": "3dc9bd49932e11b1d6828548536e8b77726c21f120d2a4726b4a6a0aa09b1c77",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3339"
+}

@@ -1,0 +1,21 @@
+{
+  "bytes": 982540,
+  "content_type": "application/javascript",
+  "directory": "resources/00615a92a2d774124a369ec94fdc99f8b935946894031eac8be5ff23e7c6f1ca",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/react_extract/public_market_data/build/static/js/main.8b6996e5.js",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6a793a44-efe0c\"",
+    "Last-Modified": "Mon, 10 Aug 2026 02:41:08 GMT"
+  },
+  "sha256": "eebaa5c1117b37f87e1b653fdf9fbe235ec9b203c19d62bff58da501c35c696a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/react_extract/public_market_data/build/static/js/main.8b6996e5.js"
+}

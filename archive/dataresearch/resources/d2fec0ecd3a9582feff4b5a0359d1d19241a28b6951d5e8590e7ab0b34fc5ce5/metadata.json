@@ -1,0 +1,22 @@
+{
+  "bytes": 27942,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d2fec0ecd3a9582feff4b5a0359d1d19241a28b6951d5e8590e7ab0b34fc5ce5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3036/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Murrumbidgee_data.xlsx",
+    "ETag": "\"1637192232:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:37:11 GMT"
+  },
+  "sha256": "70e75211f5f19f7057b5b94c878d0a51cba0165b74e8d1a210f899e3a11452e2",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3036/download?attachment="
+}

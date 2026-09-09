@@ -1,0 +1,22 @@
+{
+  "bytes": 27942,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/e4ac1a1884866286003b1d2e5ad48496cab39a98ed348ec963f4d1fce46116ea",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3082/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Mackay_data.xlsx",
+    "ETag": "\"1637200900:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:01:39 GMT"
+  },
+  "sha256": "a672eddf3627c081fd355ae2a8393abd7436842a85e5f17264bf191f4f767c14",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3082/download?attachment="
+}

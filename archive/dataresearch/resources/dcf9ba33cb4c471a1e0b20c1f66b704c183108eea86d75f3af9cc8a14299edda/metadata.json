@@ -1,0 +1,22 @@
+{
+  "bytes": 991554,
+  "content_type": "application/pdf",
+  "directory": "resources/dcf9ba33cb4c471a1e0b20c1f66b704c183108eea86d75f3af9cc8a14299edda",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2943/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Far North (SA).pdf\"",
+    "ETag": "\"1635836143:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:42 GMT"
+  },
+  "sha256": "12000842ea22d55330d17f7080504df96573507e98fceaa0b7d29bd1d66db417",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2943/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 147262,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/50d0e1dbbb81b15e981fd5c442b00064f8d8c2228c77e54a2aa3152ae9866671",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2391/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Yorke and Mid North_data.xlsx\"",
+    "ETag": "\"1635836119:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:18 GMT"
+  },
+  "sha256": "95bfe8b6d0fb3431d90b33647bd67e78d937d3f70de43dec7bfee3282ba7d51c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2391/download?attachment="
+}

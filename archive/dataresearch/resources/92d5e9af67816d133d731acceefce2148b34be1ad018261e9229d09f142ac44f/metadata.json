@@ -1,0 +1,22 @@
+{
+  "bytes": 1153849,
+  "content_type": "application/pdf",
+  "directory": "resources/92d5e9af67816d133d731acceefce2148b34be1ad018261e9229d09f142ac44f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3894/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Annual Financial Sustainability Report 2020-21, Independent actuary peer review report PDF.pdf\"",
+    "ETag": "\"1701924029:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 07 Dec 2023 04:40:28 GMT"
+  },
+  "sha256": "538f3f03a1eb23b7149a726bd5b17bc1eb90428371cf99291163984149092f31",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3894/download?attachment="
+}

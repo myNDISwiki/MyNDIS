@@ -1,0 +1,22 @@
+{
+  "bytes": 510033,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/40c6d011ae7682f474ba382539971cdfecffef04f88bb8b63f7bdd4ab1de46a0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4522/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"s10s33 progress report DOC.docx\"",
+    "ETag": "\"1776127867:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 14 Apr 2026 00:51:06 GMT"
+  },
+  "sha256": "55fe457dc19fb58dd626a7602635e1e1536501950e69328eaeb481249a6f1409",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4522/download?attachment="
+}

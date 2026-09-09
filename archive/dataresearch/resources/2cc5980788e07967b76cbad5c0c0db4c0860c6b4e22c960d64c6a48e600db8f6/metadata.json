@@ -1,0 +1,22 @@
+{
+  "bytes": 242556,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2cc5980788e07967b76cbad5c0c0db4c0860c6b4e22c960d64c6a48e600db8f6",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4207/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement J South Australia 2024-25 Q2.xlsx\"",
+    "ETag": "\"1741921015:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Mar 2025 02:56:54 GMT"
+  },
+  "sha256": "648c70108ba3a0e56fb93ebef3774fbc51f42c2c1724627b607ecbbce826a3f7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4207/download?attachment="
+}

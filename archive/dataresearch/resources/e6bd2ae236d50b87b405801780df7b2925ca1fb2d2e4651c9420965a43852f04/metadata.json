@@ -1,0 +1,22 @@
+{
+  "bytes": 92014,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/e6bd2ae236d50b87b405801780df7b2925ca1fb2d2e4651c9420965a43852f04",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4131/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Cerebral palsy data to 30 September 2024.xlsx\"",
+    "ETag": "\"1731899897:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 18 Nov 2024 03:18:16 GMT"
+  },
+  "sha256": "4cb89cffef5124103ca675680b37de95333d99cad570ff656c0dfb3ea0f9599e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4131/download?attachment="
+}

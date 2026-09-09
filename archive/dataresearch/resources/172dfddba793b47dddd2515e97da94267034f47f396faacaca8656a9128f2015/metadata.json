@@ -1,0 +1,22 @@
+{
+  "bytes": 47159,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/172dfddba793b47dddd2515e97da94267034f47f396faacaca8656a9128f2015",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3815/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Visual impairment transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601709:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:28:28 GMT"
+  },
+  "sha256": "8d7532476d3c64db6ebdb6353a1dcae58207bb2e30297b9eeb3822e933bf1649",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3815/download?attachment="
+}

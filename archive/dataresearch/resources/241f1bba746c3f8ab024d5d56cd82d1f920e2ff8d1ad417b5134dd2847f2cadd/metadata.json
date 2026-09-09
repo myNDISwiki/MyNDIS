@@ -1,0 +1,22 @@
+{
+  "bytes": 152752,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/241f1bba746c3f8ab024d5d56cd82d1f920e2ff8d1ad417b5134dd2847f2cadd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2855/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Sydney_data.xlsx\"",
+    "ETag": "\"1635836141:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:40 GMT"
+  },
+  "sha256": "cdb8a8cca270fda18ed44d570ee816e2f2405552af816c6f52dd56e64aa63496",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2855/download?attachment="
+}

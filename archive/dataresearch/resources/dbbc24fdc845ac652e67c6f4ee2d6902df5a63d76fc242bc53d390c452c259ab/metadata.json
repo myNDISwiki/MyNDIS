@@ -1,0 +1,20 @@
+{
+  "bytes": 12572,
+  "content_type": "application/pdf",
+  "directory": "resources/dbbc24fdc845ac652e67c6f4ee2d6902df5a63d76fc242bc53d390c452c259ab",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4001",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Multiple Sclerosis.pdf\""
+  },
+  "sha256": "094c3d8bacd6ef1328e332f2cfb210c41d855ee3ac7f012ff5a7c261af4c47c5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4001"
+}

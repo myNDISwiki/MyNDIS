@@ -1,0 +1,22 @@
+{
+  "bytes": 36539,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ae98d330da05f7a1dfe688e70c9184389588b476da9ba2cb5d068e9da194705d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4412/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=Supplement-Q-Utilisation-2025-26-Q1.xlsx",
+    "ETag": "\"1763094726:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Nov 2025 04:32:05 GMT"
+  },
+  "sha256": "30a09b49515a5a2c96dbaa6ee2db7caa681cece7c00a1650eb6eac514855e375",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4412/download?attachment="
+}

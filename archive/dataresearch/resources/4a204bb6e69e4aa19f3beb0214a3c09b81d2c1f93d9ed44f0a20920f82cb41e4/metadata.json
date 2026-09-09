@@ -1,0 +1,22 @@
+{
+  "bytes": 371997,
+  "content_type": "application/pdf",
+  "directory": "resources/4a204bb6e69e4aa19f3beb0214a3c09b81d2c1f93d9ed44f0a20920f82cb41e4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3066/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Caboolture Strathpine.pdf\"",
+    "ETag": "\"1637200655:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:57:34 GMT"
+  },
+  "sha256": "4eeae45375b84885e6574a2b98b31aaa85c90a6a776f4a5d91f26c47c3214e9c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3066/download?attachment="
+}

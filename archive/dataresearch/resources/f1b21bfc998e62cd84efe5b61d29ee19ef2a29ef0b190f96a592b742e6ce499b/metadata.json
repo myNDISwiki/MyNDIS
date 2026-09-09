@@ -1,0 +1,22 @@
+{
+  "bytes": 4411365,
+  "content_type": "application/pdf",
+  "directory": "resources/f1b21bfc998e62cd84efe5b61d29ee19ef2a29ef0b190f96a592b742e6ce499b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3742/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Report to disability ministers for Q4 of Y10 Supplement.pdf\"",
+    "ETag": "\"1692062048:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 15 Aug 2023 01:14:07 GMT"
+  },
+  "sha256": "8daf9fa0ca2b15d65ebc1564476f8dc3f8a5a7e91c3332e843b835af4b1ddd5b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3742/download?attachment="
+}

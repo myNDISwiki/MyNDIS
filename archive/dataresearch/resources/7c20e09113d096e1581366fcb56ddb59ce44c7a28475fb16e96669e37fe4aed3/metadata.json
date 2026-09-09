@@ -1,0 +1,22 @@
+{
+  "bytes": 87534,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/7c20e09113d096e1581366fcb56ddb59ce44c7a28475fb16e96669e37fe4aed3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4464/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Visual impairment data to 30 September 2025.xlsx\"",
+    "ETag": "\"1763357571:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 17 Nov 2025 05:32:50 GMT"
+  },
+  "sha256": "10bbb2a5905998876f6151513d534cc83a277fca4be63051d559ef47a8a14c7d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4464/download?attachment="
+}

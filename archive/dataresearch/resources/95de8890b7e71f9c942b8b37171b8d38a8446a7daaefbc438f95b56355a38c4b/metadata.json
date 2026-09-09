@@ -1,0 +1,22 @@
+{
+  "bytes": 44001,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/95de8890b7e71f9c942b8b37171b8d38a8446a7daaefbc438f95b56355a38c4b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3803/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Cerebral palsy transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601420:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:23:39 GMT"
+  },
+  "sha256": "d559b1881a671bb3a7b0e0e47a9722add68c3000eec2a90a1328b9d146f8da68",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3803/download?attachment="
+}

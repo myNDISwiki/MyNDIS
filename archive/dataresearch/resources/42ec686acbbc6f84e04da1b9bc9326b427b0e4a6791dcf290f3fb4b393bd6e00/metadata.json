@@ -1,0 +1,22 @@
+{
+  "bytes": 493130,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/42ec686acbbc6f84e04da1b9bc9326b427b0e4a6791dcf290f3fb4b393bd6e00",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1679/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Public Data Sharing Policy DOCX.docx\"",
+    "ETag": "\"1635836119:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:18 GMT"
+  },
+  "sha256": "8d3083012e7649567e353d153ac199d26e891ce651504f38d41f2cdf09afcc78",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1679/download?attachment="
+}

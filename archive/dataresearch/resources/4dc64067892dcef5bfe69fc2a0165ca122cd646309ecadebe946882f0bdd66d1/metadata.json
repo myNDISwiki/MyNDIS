@@ -1,0 +1,22 @@
+{
+  "bytes": 8300073,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/4dc64067892dcef5bfe69fc2a0165ca122cd646309ecadebe946882f0bdd66d1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4098/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS family and carer outcomes summary report to 30 June 2023 transcript.docx\"",
+    "ETag": "\"1726179807:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Sep 2024 22:23:26 GMT"
+  },
+  "sha256": "97f071f5f45145acc08d2c0405850fdb1b11f4602c4bf8339faee6cc11eafeb6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4098/download?attachment="
+}

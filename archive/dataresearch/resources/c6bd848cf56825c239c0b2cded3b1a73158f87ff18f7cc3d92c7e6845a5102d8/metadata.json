@@ -1,0 +1,22 @@
+{
+  "bytes": 401440,
+  "content_type": "application/pdf",
+  "directory": "resources/c6bd848cf56825c239c0b2cded3b1a73158f87ff18f7cc3d92c7e6845a5102d8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3074/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Toowoomba.pdf\"",
+    "ETag": "\"1637200763:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:59:22 GMT"
+  },
+  "sha256": "4f65b9c129e2dddbcea889d0d036109dbbc74a2936641f9ae5ba64214a5bbaa0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3074/download?attachment="
+}

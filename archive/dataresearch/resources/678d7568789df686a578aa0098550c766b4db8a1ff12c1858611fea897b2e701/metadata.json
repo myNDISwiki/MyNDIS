@@ -1,0 +1,22 @@
+{
+  "bytes": 933139,
+  "content_type": "application/pdf",
+  "directory": "resources/678d7568789df686a578aa0098550c766b4db8a1ff12c1858611fea897b2e701",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2646/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Maryborough.pdf\"",
+    "ETag": "\"1635836125:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:24 GMT"
+  },
+  "sha256": "4be47bc8f1930678201c149ddea37849d502134e6bf2e2c13d11f9a55fef8523",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2646/download?attachment="
+}

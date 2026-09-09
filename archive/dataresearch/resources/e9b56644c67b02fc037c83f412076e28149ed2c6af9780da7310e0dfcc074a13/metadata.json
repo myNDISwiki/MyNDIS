@@ -1,0 +1,22 @@
+{
+  "bytes": 396669,
+  "content_type": "application/pdf",
+  "directory": "resources/e9b56644c67b02fc037c83f412076e28149ed2c6af9780da7310e0dfcc074a13",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3100/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Southern Adelaide.pdf\"",
+    "ETag": "\"1637275217:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:40:16 GMT"
+  },
+  "sha256": "52ab8cb9e483592221b9b81dc8b989299c16487cec46d41019cdbf713d3ce6cd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3100/download?attachment="
+}

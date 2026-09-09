@@ -1,0 +1,22 @@
+{
+  "bytes": 349070,
+  "content_type": "application/pdf",
+  "directory": "resources/075658acca1262885a12c81445a3081505570c6d7a5d7016544d22cf639d9b00",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3094/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Eyre and Western.pdf\"",
+    "ETag": "\"1637275112:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:38:31 GMT"
+  },
+  "sha256": "c7518f8f628dd2ad21cf4d03498ac9116030c058e55ebfd22406157bc88efc72",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3094/download?attachment="
+}

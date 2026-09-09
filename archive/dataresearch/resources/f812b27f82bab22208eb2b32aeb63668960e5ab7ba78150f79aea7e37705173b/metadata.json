@@ -1,0 +1,20 @@
+{
+  "bytes": 44365,
+  "content_type": "application/pdf",
+  "directory": "resources/f812b27f82bab22208eb2b32aeb63668960e5ab7ba78150f79aea7e37705173b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4012",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Participant datasets.pdf\""
+  },
+  "sha256": "3182a51cb2204a68d1e9bef2d8a92b5f2b3f94f853885e226cd86d9d38482005",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4012"
+}

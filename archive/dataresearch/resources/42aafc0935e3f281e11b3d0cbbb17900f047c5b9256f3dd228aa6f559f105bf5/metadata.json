@@ -1,0 +1,22 @@
+{
+  "bytes": 2430974,
+  "content_type": "application/pdf",
+  "directory": "resources/42aafc0935e3f281e11b3d0cbbb17900f047c5b9256f3dd228aa6f559f105bf5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3823/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Intellectual disability dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602367:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:39:26 GMT"
+  },
+  "sha256": "b711cb6652898749d4d54bdff1a5fa659e6cb34bb19d85625ea0eee89231f38e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3823/download?attachment="
+}

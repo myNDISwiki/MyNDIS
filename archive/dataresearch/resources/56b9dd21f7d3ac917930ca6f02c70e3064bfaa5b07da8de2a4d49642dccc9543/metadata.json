@@ -1,0 +1,22 @@
+{
+  "bytes": 28901,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/56b9dd21f7d3ac917930ca6f02c70e3064bfaa5b07da8de2a4d49642dccc9543",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2121/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Analysis of participants by gender - transcript DOCX.docx\"",
+    "ETag": "\"1635836104:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:03 GMT"
+  },
+  "sha256": "23c332c3105cd52941dd076ebca409d51539dab8b19aa77f9b452dfbe5726414",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2121/download?attachment="
+}

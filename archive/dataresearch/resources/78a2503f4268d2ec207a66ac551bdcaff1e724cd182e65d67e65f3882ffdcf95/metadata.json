@@ -1,0 +1,22 @@
+{
+  "bytes": 3994651,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/78a2503f4268d2ec207a66ac551bdcaff1e724cd182e65d67e65f3882ffdcf95",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3932/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement E National 2023-24 Q2 (2).xlsx\"",
+    "ETag": "\"1708315180:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 19 Feb 2024 03:59:39 GMT"
+  },
+  "sha256": "6f1c341a5c5fb49b4550a9b6e4fdc584889de443be51634055e77c766a34c57b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3932/download?attachment="
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 10154,
+  "content_type": "application/pdf",
+  "directory": "resources/4adab62cbd1ba850c2017d5f01b35e2af0de58de3ebb459740db081acf07c245",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4054",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Other Physical.pdf\""
+  },
+  "sha256": "7e923475d5bfef0f903bbcaaee4cc54bf740646344d426dee8baa3b065cb4f12",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4054"
+}

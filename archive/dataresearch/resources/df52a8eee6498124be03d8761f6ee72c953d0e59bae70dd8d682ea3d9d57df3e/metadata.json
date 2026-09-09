@@ -1,0 +1,22 @@
+{
+  "bytes": 365919,
+  "content_type": "application/pdf",
+  "directory": "resources/df52a8eee6498124be03d8761f6ee72c953d0e59bae70dd8d682ea3d9d57df3e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3135/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Goulburn.pdf\"",
+    "ETag": "\"1637283804:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:03:23 GMT"
+  },
+  "sha256": "690d3a55b2c99a5e92c203ea5426c62e0657e02c2ab5b85366f52b4b2e3c8f20",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3135/download?attachment="
+}

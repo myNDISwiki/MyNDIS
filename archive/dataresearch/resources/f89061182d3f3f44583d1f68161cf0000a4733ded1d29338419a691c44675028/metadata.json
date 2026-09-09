@@ -1,0 +1,22 @@
+{
+  "bytes": 152424,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/f89061182d3f3f44583d1f68161cf0000a4733ded1d29338419a691c44675028",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2651/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202012_The NDIS Market Detailed Dashboard_Beenleigh_data.xlsx\"",
+    "ETag": "\"1635836134:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:33 GMT"
+  },
+  "sha256": "f6d55c3132521f70cc50b568e4c39e19381256d82cfbeb5a8841a77237826641",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2651/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 3736027,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/3fae03cfd53ae2060bd2fd3819930bf629027646183b9cf6a332fb51339fad76",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3901/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement F New South Wales 2023-24 Q2_0.xlsx\"",
+    "ETag": "\"1708478895:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Feb 2024 01:28:14 GMT"
+  },
+  "sha256": "06e42254c656343e614e0b01b225494740a6253ea14020e893c907503741af49",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3901/download?attachment="
+}

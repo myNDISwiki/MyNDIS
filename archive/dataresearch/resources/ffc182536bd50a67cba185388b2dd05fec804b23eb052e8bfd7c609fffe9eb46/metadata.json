@@ -1,0 +1,20 @@
+{
+  "bytes": 6985,
+  "content_type": "application/pdf",
+  "directory": "resources/ffc182536bd50a67cba185388b2dd05fec804b23eb052e8bfd7c609fffe9eb46",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4042",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Evidence that helps us improve the NDIS.pdf\""
+  },
+  "sha256": "68effe35171494aeb48a294b63aa460f87a00a3b4d1b4566bde6eb38b4bee162",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4042"
+}

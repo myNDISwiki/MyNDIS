@@ -1,0 +1,22 @@
+{
+  "bytes": 74421,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/04479b7c48abf2cad7073f37482cbde3949b9a35dec89d4cb95a79ea50c8a8fb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2481/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Young people in the NDIS 30 June 2020 - transcript DOCX.docx\"",
+    "ETag": "\"1635836120:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:19 GMT"
+  },
+  "sha256": "a5c88fd21997103f4eae23a4a3c370c6201e824db8f6e0c3b7ab729db1387f93",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2481/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 59842,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/fe7a72e355a60e4aa5acd29f185e533b43c53b398cc94303047a2f814bf321e0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1681/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"TS 2018-19 Q4 Psychosocial Disability Report DOCX_0.docx\"",
+    "ETag": "\"1635836089:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:48 GMT"
+  },
+  "sha256": "9dc3814c2d4443bd8cc4a7186562be1202b471e0d641f0d103268e2deea40c0c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1681/download?attachment="
+}

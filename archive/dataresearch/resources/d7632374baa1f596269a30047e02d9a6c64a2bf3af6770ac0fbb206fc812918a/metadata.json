@@ -1,0 +1,22 @@
+{
+  "bytes": 1062215,
+  "content_type": "application/pdf",
+  "directory": "resources/d7632374baa1f596269a30047e02d9a6c64a2bf3af6770ac0fbb206fc812918a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3664/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"6. Vacancy Rates Technical Report.pdf\"",
+    "ETag": "\"1686876116:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 16 Jun 2023 00:41:55 GMT"
+  },
+  "sha256": "c2c3960977760aa238f419f7becc95d81ba15f66a325080fc941af3d04d164fd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3664/download?attachment="
+}

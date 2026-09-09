@@ -1,0 +1,22 @@
+{
+  "bytes": 150189,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/96caaf9e98f78c76e2ecb529e1a467b45f21c0219a3c87c2d1cbb7f0ffbadc1d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3399/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_TAS South East_data.xlsx\"",
+    "ETag": "\"1648082921:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 24 Mar 2022 00:48:40 GMT"
+  },
+  "sha256": "0e3a7c76880e5d9ddcaa20f363994ba1a55cee1fa5a69e2833415adef9188705",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3399/download?attachment="
+}

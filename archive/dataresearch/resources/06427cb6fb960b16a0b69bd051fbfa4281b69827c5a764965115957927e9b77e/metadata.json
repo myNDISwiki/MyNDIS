@@ -1,0 +1,22 @@
+{
+  "bytes": 3621391,
+  "content_type": "application/zip",
+  "directory": "resources/06427cb6fb960b16a0b69bd051fbfa4281b69827c5a764965115957927e9b77e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3276/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Data VIC.zip\"",
+    "ETag": "\"1647992546:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Mar 2022 23:42:25 GMT"
+  },
+  "sha256": "221ac06ec883b1f1121019d8612d64435d5aa6c93e8cc87173c54279aba34f2d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3276/download?attachment="
+}

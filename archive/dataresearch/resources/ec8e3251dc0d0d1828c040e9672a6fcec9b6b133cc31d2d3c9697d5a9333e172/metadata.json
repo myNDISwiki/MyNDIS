@@ -1,0 +1,22 @@
+{
+  "bytes": 2164309,
+  "content_type": "application/pdf",
+  "directory": "resources/ec8e3251dc0d0d1828c040e9672a6fcec9b6b133cc31d2d3c9697d5a9333e172",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3570/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS201_Spinal Cord Injury Dashboard_Sep22__1.pdf\"; filename*=utf-8''NDIS201_Spinal%20Cord%20Injury%20Dashboard_Sep22_%C6%921.pdf",
+    "ETag": "\"1671596025:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 04:13:44 GMT"
+  },
+  "sha256": "8cfb3c29035e25acc5b43c24f9596571116ecdb5a1d0286dfda048f82fcc27a5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3570/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 57299,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/493701f41f1f4cca73cd4d5b8b8273a6248d1d45325a77a96ce070803c3d4740",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3492/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB ER Annual Financial Sustainability Report DOCX.docx\"",
+    "ETag": "\"1667531967:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 04 Nov 2022 03:19:26 GMT"
+  },
+  "sha256": "64dea954537b5aaf97f64b7abd711725eab389d1d6af6a611f78c5d4dc121b40",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3492/download?attachment="
+}

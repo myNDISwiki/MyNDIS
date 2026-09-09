@@ -1,0 +1,22 @@
+{
+  "bytes": 803159,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9ef1ad5806adf9141e8299c3945f08e42af256fd40d80d96932b8e32a5b75435",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3713/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB CSIRO NDIA AI Enabled AT Framework - November 2022 (1).docx\"",
+    "ETag": "\"1690945118:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:58:37 GMT"
+  },
+  "sha256": "662395e854179017ebe32188343a829458cd581b107a0e71dbed28bdeed1fcab",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3713/download?attachment="
+}

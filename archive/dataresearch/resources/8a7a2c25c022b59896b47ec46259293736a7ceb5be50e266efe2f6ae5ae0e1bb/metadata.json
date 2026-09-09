@@ -1,0 +1,22 @@
+{
+  "bytes": 27935,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/8a7a2c25c022b59896b47ec46259293736a7ceb5be50e266efe2f6ae5ae0e1bb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3180/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_South Metro_data.xlsx\"",
+    "ETag": "\"1637286264:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:44:23 GMT"
+  },
+  "sha256": "9385590bf071363b3bd48122ca4cb112a64ff852fa584607bfdc3d596bbc5cef",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3180/download?attachment="
+}

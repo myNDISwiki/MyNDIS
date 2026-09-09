@@ -1,0 +1,22 @@
+{
+  "bytes": 27937,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/aa0d2d31523361d2af42bea8b4391382d863c165a8844de61cbed5798ff84bac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3079/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Robina_data.xlsx",
+    "ETag": "\"1637200863:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:01:02 GMT"
+  },
+  "sha256": "aeaa4be86383fa4e0e400f23fbede7c45d20f50c4774002931e750d059b7ba2a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3079/download?attachment="
+}

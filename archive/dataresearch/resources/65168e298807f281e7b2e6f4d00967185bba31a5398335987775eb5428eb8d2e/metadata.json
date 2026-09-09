@@ -1,0 +1,22 @@
+{
+  "bytes": 97808,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/65168e298807f281e7b2e6f4d00967185bba31a5398335987775eb5428eb8d2e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1949/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Aboriginal and Torres Strait Islander participants data tables CSV.xlsx\"",
+    "ETag": "\"1635836096:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:55 GMT"
+  },
+  "sha256": "36d0f1a588cd8e9aa88c2c0089047dac79a3bdfaed2b46882d1d7749eac9caa5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1949/download?attachment="
+}

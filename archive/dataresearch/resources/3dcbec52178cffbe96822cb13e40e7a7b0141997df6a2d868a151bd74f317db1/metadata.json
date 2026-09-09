@@ -1,0 +1,22 @@
+{
+  "bytes": 4143223,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/3dcbec52178cffbe96822cb13e40e7a7b0141997df6a2d868a151bd74f317db1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3982/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement G Victoria 2023-24 Q3.xlsx\"",
+    "ETag": "\"1719530747:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 27 Jun 2024 23:25:46 GMT"
+  },
+  "sha256": "14cd4c803df228621c8eea7bf8324f7eaba00881159fd436468c582b9b0347dc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3982/download?attachment="
+}

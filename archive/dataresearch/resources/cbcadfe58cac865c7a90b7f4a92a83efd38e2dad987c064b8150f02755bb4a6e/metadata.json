@@ -1,0 +1,22 @@
+{
+  "bytes": 27942,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/cbcadfe58cac865c7a90b7f4a92a83efd38e2dad987c064b8150f02755bb4a6e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3058/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Central Australia_data.xlsx\"",
+    "ETag": "\"1637198585:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:23:04 GMT"
+  },
+  "sha256": "934afdea7368668dba934345d08d0a8ed982c4ab0a86397a234c3550d8e6ed89",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3058/download?attachment="
+}

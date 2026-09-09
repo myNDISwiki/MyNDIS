@@ -1,0 +1,22 @@
+{
+  "bytes": 372293,
+  "content_type": "application/pdf",
+  "directory": "resources/66b6d895605a5ad70051d6107a8f8ae593ec2721d29ed72fb9b0fc2c8f3633ae",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3092/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Barossa, Light and Lower North.pdf\"",
+    "ETag": "\"1637275076:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:37:55 GMT"
+  },
+  "sha256": "f5e647357761089651bb36523c059415f273a21711fdada0fac072882dbfe7bd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3092/download?attachment="
+}

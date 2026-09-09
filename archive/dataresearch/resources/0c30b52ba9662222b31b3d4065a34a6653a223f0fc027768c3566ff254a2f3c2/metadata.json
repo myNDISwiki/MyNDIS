@@ -1,0 +1,22 @@
+{
+  "bytes": 1696154,
+  "content_type": "application/pdf",
+  "directory": "resources/0c30b52ba9662222b31b3d4065a34a6653a223f0fc027768c3566ff254a2f3c2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3549/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS190_Developmental Delay Dashboard_Sep22_ACC__1.pdf\"; filename*=utf-8''NDIS190_Developmental%20Delay%20Dashboard_Sep22_ACC_%C6%921.pdf",
+    "ETag": "\"1671583958:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 00:52:37 GMT"
+  },
+  "sha256": "3ed90eeff94c5b6ad96ca32927e2a395ca07657541e5d8a9b284412c2f3c942c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3549/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 23397,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/925e441853213febd5bd5ce795fb3b99d95b1a9080e90bffdbfdd6448597f707",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3218/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Service District to LGA 2021 CSV.csv\"",
+    "ETag": "\"1654828760:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 10 Jun 2022 02:39:19 GMT"
+  },
+  "sha256": "30a2b43c5e73369cbdc601771dd0b81d821bc5957d50d1637c7b43b368aa388e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3218/download?attachment="
+}

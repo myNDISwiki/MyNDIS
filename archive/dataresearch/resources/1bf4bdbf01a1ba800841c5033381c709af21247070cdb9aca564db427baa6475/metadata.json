@@ -1,0 +1,22 @@
+{
+  "bytes": 151670,
+  "content_type": "application/pdf",
+  "directory": "resources/1bf4bdbf01a1ba800841c5033381c709af21247070cdb9aca564db427baa6475",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4297/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Summary of Statistics March 2025.pdf\"",
+    "ETag": "\"1744672361:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 14 Apr 2025 23:12:40 GMT"
+  },
+  "sha256": "221e94b416ca164256075cbda82b2f5f8d833871ff9887a048f4bf28f9363754",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4297/download?attachment="
+}

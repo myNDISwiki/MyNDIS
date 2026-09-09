@@ -1,0 +1,22 @@
+{
+  "bytes": 1363284,
+  "content_type": "application/pdf",
+  "directory": "resources/cf5b2e117c7e3ce36bcc02c2cf4d850b800953095cae46dc77563a6ed7237f19",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3885/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Independent Expert Review trial evaluation report.pdf\"",
+    "ETag": "\"1701647585:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 03 Dec 2023 23:53:04 GMT"
+  },
+  "sha256": "64bbd8d0f3c8e5bfc68d7412ff315a6120ab53756659fa8e641c8f4a063b9f53",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3885/download?attachment="
+}

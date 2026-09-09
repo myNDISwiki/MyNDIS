@@ -1,0 +1,22 @@
+{
+  "bytes": 4620532,
+  "content_type": "application/pdf",
+  "directory": "resources/6dded5f187b001a202b17cfe5d11081e5199dce5feea4c3a0729ca695a3c787f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2531/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2020 longitudinal Ch 2 PDF.pdf\"",
+    "ETag": "\"1635836131:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:30 GMT"
+  },
+  "sha256": "03693bb33d245e54d4dde92056103aa61318128a46c13f7873baeb568d97c880",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2531/download?attachment="
+}

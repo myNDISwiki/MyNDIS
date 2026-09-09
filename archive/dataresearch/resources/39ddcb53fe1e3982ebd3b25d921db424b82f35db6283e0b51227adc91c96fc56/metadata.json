@@ -1,0 +1,22 @@
+{
+  "bytes": 4120133,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/39ddcb53fe1e3982ebd3b25d921db424b82f35db6283e0b51227adc91c96fc56",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3857/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement G 2023-24 Q1.xlsx\"",
+    "ETag": "\"1699830013:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 12 Nov 2023 23:00:12 GMT"
+  },
+  "sha256": "4e8d3b58b74c3fe6481361370ce9b090fa3484e57f2cbd67be4bbd8cfa5f98ed",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3857/download?attachment="
+}

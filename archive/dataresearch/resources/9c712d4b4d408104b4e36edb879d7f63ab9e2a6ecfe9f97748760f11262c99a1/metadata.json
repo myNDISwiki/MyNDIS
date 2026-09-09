@@ -1,0 +1,22 @@
+{
+  "bytes": 12482,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9c712d4b4d408104b4e36edb879d7f63ab9e2a6ecfe9f97748760f11262c99a1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3737/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"ts_school_leaver_docx (1).docx\"",
+    "ETag": "\"1691375164:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 07 Aug 2023 02:26:03 GMT"
+  },
+  "sha256": "53b4d248de4566e1564350a9857c12291dba26ba1d58db54172efb2dd93fcfaa",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3737/download"
+}

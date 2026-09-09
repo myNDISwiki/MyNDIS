@@ -1,0 +1,22 @@
+{
+  "bytes": 1849798,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/72bde885b9f71abe286815653c154d71b2edcdaf5a1401754ec6ec8371056393",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4155/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard WA by Service District to 30 June 2024.xlsx\"",
+    "ETag": "\"1733960929:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Dec 2024 23:48:48 GMT"
+  },
+  "sha256": "947c533324430c817d09325fee68572ac8c491c8e082b46e8822e2ac7540c63a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4155/download?attachment="
+}

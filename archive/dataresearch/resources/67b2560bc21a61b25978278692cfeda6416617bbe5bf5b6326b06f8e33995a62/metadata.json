@@ -1,0 +1,22 @@
+{
+  "bytes": 161678,
+  "content_type": "application/pdf",
+  "directory": "resources/67b2560bc21a61b25978278692cfeda6416617bbe5bf5b6326b06f8e33995a62",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4197/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics December 2024.pdf\"",
+    "ETag": "\"1736899512:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 15 Jan 2025 00:05:11 GMT"
+  },
+  "sha256": "e84239ffe762a8c08c96c70849898d953adf3009bf38e551d81e0cd81bf8f42b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4197/download?attachment="
+}

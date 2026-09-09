@@ -1,0 +1,20 @@
+{
+  "bytes": 17766,
+  "content_type": "application/pdf",
+  "directory": "resources/b59f19e46bad158af1156e7e670ef30cf059ca5dca12c9847ee4447b75690577",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3976",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Participant family and carer outcomes  NSW.pdf\""
+  },
+  "sha256": "88c40094f5379679fa579198495eccf0a6d81b14a314c44b0aab4d434d656202",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3976"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27951,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a0090e19d50216743724479a3f326e35d96d4a6c119ef02a0f0ae83987c05748",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3109/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Fleurieu and Kangaroo Island_data.xlsx\"",
+    "ETag": "\"1637275421:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:43:40 GMT"
+  },
+  "sha256": "24eb5ea8a31324594fb4d4f963ee6694aa32ec66d3c616d3adfbb66298c1971c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3109/download?attachment="
+}

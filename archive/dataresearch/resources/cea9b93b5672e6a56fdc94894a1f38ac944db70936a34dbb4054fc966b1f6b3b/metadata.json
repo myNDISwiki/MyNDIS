@@ -1,0 +1,22 @@
+{
+  "bytes": 86567,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/cea9b93b5672e6a56fdc94894a1f38ac944db70936a34dbb4054fc966b1f6b3b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2169/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participant goals data rules.docx\"",
+    "ETag": "\"1723763582:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 15 Aug 2024 23:13:01 GMT"
+  },
+  "sha256": "1e52aab16ef240f4d6e5ff4acc7a301d556d8069a3ae58a707e0c465f558ee28",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2169/download?attachment="
+}

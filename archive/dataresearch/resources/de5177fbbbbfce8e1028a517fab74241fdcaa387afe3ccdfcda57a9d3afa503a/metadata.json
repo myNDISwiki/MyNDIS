@@ -1,0 +1,22 @@
+{
+  "bytes": 39867,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/de5177fbbbbfce8e1028a517fab74241fdcaa387afe3ccdfcda57a9d3afa503a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3417/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_Unincorp. Other Territories_data.xlsx\"",
+    "ETag": "\"1648439195:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 28 Mar 2022 03:46:34 GMT"
+  },
+  "sha256": "72fbe1e5c28aa1bc21ecbf2ccba1cf6b689f2d2f9d600e538dd57754f11991c7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3417/download?attachment="
+}

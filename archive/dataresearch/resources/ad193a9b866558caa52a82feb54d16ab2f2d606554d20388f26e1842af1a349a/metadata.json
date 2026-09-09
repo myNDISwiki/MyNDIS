@@ -1,0 +1,22 @@
+{
+  "bytes": 2205230,
+  "content_type": "application/pdf",
+  "directory": "resources/ad193a9b866558caa52a82feb54d16ab2f2d606554d20388f26e1842af1a349a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3470/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Quarterly Report Addendum .pdf\"",
+    "ETag": "\"1663633257:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 20 Sep 2022 00:20:56 GMT"
+  },
+  "sha256": "cdaec30f768a18807e4f93ae2f79c0e626c8256e936869612ad3cbc6d8129dea",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3470/download?attachment="
+}

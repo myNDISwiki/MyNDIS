@@ -1,0 +1,22 @@
+{
+  "bytes": 27946,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5534694fb4761901ddf2b05e7f7d0e28f40916cf8522d257004185c2e5449722",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3159/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Hume Moreland_data.xlsx\"",
+    "ETag": "\"1637284174:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:09:33 GMT"
+  },
+  "sha256": "c624df9e811aa55f91a79674e62d134d12bdb78fc0a9305095e07cc06d4e0ef1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3159/download?attachment="
+}

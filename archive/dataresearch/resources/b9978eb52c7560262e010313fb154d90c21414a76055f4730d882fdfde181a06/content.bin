@@ -1,0 +1,137 @@
+Domain,Question,Answer,AnsGroup,DomainAndQuestion,Baseline_percent,Review_percent,responses,Questionnaire
+Domain 1: Daily living,Most of the time my child manages his/her emotions?,Very well,,d1q1,8%,9%,64,LF
+Domain 1: Daily living,Most of the time my child manages his/her emotions?,Pretty well,,d1q1,44%,47%,64,LF
+Domain 1: Daily living,Most of the time my child manages his/her emotions?,Not very well,,d1q1,48%,44%,64,LF
+Domain 1: Daily living,Most of the time my child manages the demands of his/her world?,Very well,,d1q2,19%,11%,64,LF
+Domain 1: Daily living,Most of the time my child manages the demands of his/her world?,Pretty well,,d1q2,48%,53%,64,LF
+Domain 1: Daily living,Most of the time my child manages the demands of his/her world?,Not very well,,d1q2,33%,36%,64,LF
+Domain 1: Daily living,Most of the time my child is able to do everyday task at home/in the park/at childcare,Very well,,d1q3,14%,25%,63,LF
+Domain 1: Daily living,Most of the time my child is able to do everyday task at home/in the park/at childcare,Pretty well,,d1q3,51%,33%,63,LF
+Domain 1: Daily living,Most of the time my child is able to do everyday task at home/in the park/at childcare,Not very well,,d1q3,35%,41%,63,LF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Gross motor skills (e.g. crawling, standing, walking, catching a ball)",,d1q4,59%,61%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Fine motor skills (e.g. drawing, stacking blocks, pincer grasp)",,d1q4,70%,77%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,Self-care (e.g. washing or eating),,d1q4,71%,77%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Eating/ Feeding (e.g. chewing, swallowing, transitioning to table foods)",,d1q4,52%,54%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Social interaction (e.g. playing with peers, interacting with others, separating from parents, beha",,d1q4,83%,87%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Language/Communication (e.g. following directions, speaking, expressing themselves, participating in conversations)",,d1q4,93%,95%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Cognitive development (e.g. understanding concepts, problem solving)",,d1q4,71%,75%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,"Sensory processing (e.g. concentration, responses to changes in routine or certain textures, dislikes bath or grooming activities)",,d1q4,72%,77%,2879,SF
+Domain 1: Daily living,Do you have any concerns about your child's development in the following areas?,Other,,d1q4,20%,21%,2879,SF
+Domain 2: Choice and control,My child is able to tell me what he/she wants,"Yes, without assistance",,d2q1,12%,15%,2828,SF
+Domain 2: Choice and control,My child is able to tell me what he/she wants,"Yes, with assistance",,d2q1,58%,65%,2828,SF
+Domain 2: Choice and control,My child is able to tell me what he/she wants,No,,d2q1,30%,20%,2828,SF
+Domain 2: Choice and control,Once my child decides to do something he/she takes action (or indicates the need for assistance to take action),"Yes, with assistance",,d2q2,53%,61%,64,LF
+Domain 2: Choice and control,Once my child decides to do something he/she takes action (or indicates the need for assistance to take action),"Yes, without assistance",,d2q2,34%,27%,64,LF
+Domain 2: Choice and control,Once my child decides to do something he/she takes action (or indicates the need for assistance to take action),No,,d2q2,13%,13%,64,LF
+Domain 3: Relationships,My child gets along with his/her brother(s)/sister(s),Yes,,d3q1,66%,69%,2845,SF
+Domain 3: Relationships,My child gets along with his/her brother(s)/sister(s),No,,d3q1,14%,13%,2845,SF
+Domain 3: Relationships,My child gets along with his/her brother(s)/sister(s),No brothers or sisters,,d3q1,20%,18%,2845,SF
+Domain 3: Relationships,My child can make friends with people outside the family,Yes,,d3q2,20%,21%,2846,SF
+Domain 3: Relationships,My child can make friends with people outside the family,With some people,,d3q2,42%,46%,2846,SF
+Domain 3: Relationships,My child can make friends with people outside the family,No,,d3q2,38%,33%,2846,SF
+Domain 3: Relationships,My child joins me when I complete tasks at home,Often,,d3q3,25%,27%,2835,SF
+Domain 3: Relationships,My child joins me when I complete tasks at home,Sometimes,,d3q3,49%,51%,2835,SF
+Domain 3: Relationships,My child joins me when I complete tasks at home,Never,,d3q3,26%,23%,2835,SF
+Domain 3: Relationships,"My child joins me when I complete tasks outside the home (e.g. shopping, sport)",Often,,d3q4,37%,36%,2810,SF
+Domain 3: Relationships,"My child joins me when I complete tasks outside the home (e.g. shopping, sport)",Sometimes,,d3q4,44%,47%,2810,SF
+Domain 3: Relationships,"My child joins me when I complete tasks outside the home (e.g. shopping, sport)",Never,,d3q4,19%,17%,2810,SF
+Domain 3: Relationships,There is enough time each week for all members of my family to get their needs met,Yes,,d3q5,70%,48%,64,LF
+Domain 3: Relationships,There is enough time each week for all members of my family to get their needs met,No,,d3q5,30%,52%,64,LF
+Domain 3: Relationships,My child fits in with the everyday life of the family,Yes,,d3q6,67%,73%,2862,SF
+Domain 3: Relationships,My child fits in with the everyday life of the family,No,,d3q6,33%,27%,2862,SF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,I am not worried,,d3q7,53%,47%,64,LF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,I am a little worried,,d3q7,28%,27%,64,LF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,I am very worried,,d3q7,3%,9%,64,LF
+Domain 3: Relationships,I am worried about the effect of having a sibling with disability on my other children now and in the future,No siblings,,d3q7,16%,17%,64,LF
+"Domain 4: Social, community and civic participation",Do you use any form of childcare?,Yes,,d4q1,58%,67%,64,LF
+"Domain 4: Social, community and civic participation",Do you use any form of childcare?,No,,d4q1,42%,33%,64,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding good quality child care?,A lot,,d4q2,17%,24%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding good quality child care?,A moderate amount,,d4q2,7%,0%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding good quality child care?,A little,,d4q2,28%,24%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding good quality child care?,None,,d4q2,48%,52%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding the right person to take care of your child?,A lot,,d4q3,21%,24%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding the right person to take care of your child?,A moderate amount,,d4q3,3%,7%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding the right person to take care of your child?,A little,,d4q3,31%,28%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding the right person to take care of your child?,None,,d4q3,45%,41%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding child care at short notice?,A lot,,d4q4,21%,24%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding child care at short notice?,A moderate amount,,d4q4,7%,14%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding child care at short notice?,A little,,d4q4,17%,24%,29,LF
+"Domain 4: Social, community and civic participation",How much difficulty did you have in finding child care at short notice?,None,,d4q4,55%,38%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,A friend or neighbour (caring for the child either at your home or in their home; paid or unpaid),Use while we are at work,d4q5,7%,0%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,A friend or neighbour (caring for the child either at your home or in their home; paid or unpaid),Use while we are not at work,d4q5,3%,14%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,A relative who doesn't live with you (paid or unpaid),Use while we are at work,d4q5,14%,34%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,A relative who doesn't live with you (paid or unpaid),Use while we are not at work,d4q5,10%,17%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,A relative who lives with you (paid or unpaid),Use while we are at work,d4q5,14%,17%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,A relative who lives with you (paid or unpaid),Use while we are not at work,d4q5,21%,10%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,"Family Day Care, Long Day Care, any other care at a Child Care Centre",Use while we are at work,d4q5,69%,55%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,"Family Day Care, Long Day Care, any other care at a Child Care Centre",Use while we are not at work,d4q5,38%,28%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,Someone paid to care for your child in their home (nanny/baby sitter),Use while we are at work,d4q5,3%,7%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,Someone paid to care for your child in their home (nanny/baby sitter),Use while we are not at work,d4q5,3%,10%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,Someone paid to come to your home (nanny/baby-sitter),Use while we are at work,d4q5,10%,10%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,Someone paid to come to your home (nanny/baby-sitter),Use while we are not at work,d4q5,7%,10%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,The child goes to your (or your partner?s) work,Use while we are at work,d4q5,3%,21%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,The child goes to your (or your partner?s) work,Use while we are not at work,d4q5,0%,3%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,The child's brother or sister,Use while we are at work,d4q5,7%,21%,29,LF
+"Domain 4: Social, community and civic participation",Please specify which of the following types of childcare you use,The child's brother or sister,Use while we are not at work,d4q5,0%,17%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: children are welcoming,Yes,,d4q6,90%,86%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: children are welcoming,No,,d4q6,3%,3%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: children are welcoming,Not applicable (eg doesn't use a form of child care with other children),,d4q6,7%,10%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: other families are welcoming,Yes,,d4q7,83%,83%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: other families are welcoming,No,,d4q7,7%,0%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: other families are welcoming,Not applicable (eg doesn't use a form of child care with other children),,d4q7,10%,17%,29,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: my child is asked to do tasks appropriate to his/her skill and goals,Yes,,d4q8,89%,100%,27,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: my child is asked to do tasks appropriate to his/her skill and goals,No,,d4q8,11%,0%,27,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: they are assisted by my child's early intervention service to know how to support my child,Yes,,d4q9,57%,57%,28,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: they are assisted by my child's early intervention service to know how to support my child,No,,d4q9,21%,29%,28,LF
+"Domain 4: Social, community and civic participation",At the child care my child uses: they are assisted by my child's early intervention service to know how to support my child,Not applicable,,d4q9,21%,14%,28,LF
+"Domain 4: Social, community and civic participation",The child care involves me in planning for my child,Yes,,d4q10,63%,70%,27,LF
+"Domain 4: Social, community and civic participation",The child care involves me in planning for my child,No,,d4q10,37%,30%,27,LF
+"Domain 4: Social, community and civic participation",The child care supports me to assist my child,Yes,,d4q11,74%,78%,27,LF
+"Domain 4: Social, community and civic participation",The child care supports me to assist my child,No,,d4q11,26%,22%,27,LF
+"Domain 4: Social, community and civic participation",The child care helps me to plan for the future,Yes,,d4q12,56%,63%,27,LF
+"Domain 4: Social, community and civic participation",The child care helps me to plan for the future,No,,d4q12,44%,37%,27,LF
+"Domain 4: Social, community and civic participation",The child care respects my cultural heritage,Yes,,d4q13,54%,79%,28,LF
+"Domain 4: Social, community and civic participation",The child care respects my cultural heritage,No,,d4q13,4%,0%,28,LF
+"Domain 4: Social, community and civic participation",The child care respects my cultural heritage,Not applicable,,d4q13,43%,21%,28,LF
+"Domain 4: Social, community and civic participation",My child has friends that he/she enjoys playing with,Yes,,d4q14,47%,57%,2870,SF
+"Domain 4: Social, community and civic participation",My child has friends that he/she enjoys playing with,No,,d4q14,53%,43%,2870,SF
+"Domain 4: Social, community and civic participation",These friends are at (choose all that apply),Preschool,,d4q15,46%,57%,1235,SF
+"Domain 4: Social, community and civic participation",These friends are at (choose all that apply),Playgroup,,d4q15,18%,15%,1235,SF
+"Domain 4: Social, community and civic participation",These friends are at (choose all that apply),Social or family gatherings (e.g. children of friends or extended family),,d4q15,58%,63%,1235,SF
+"Domain 4: Social, community and civic participation",These friends are at (choose all that apply),Other community activities,,d4q15,8%,12%,1235,SF
+"Domain 4: Social, community and civic participation",These friends are at (choose all that apply),"Other, please specify",,d4q15,16%,19%,1235,SF
+"Domain 4: Social, community and civic participation","My child participates in age appropriate community, cultural or religious activities",A few times a week,,d4q16,15%,15%,2766,SF
+"Domain 4: Social, community and civic participation","My child participates in age appropriate community, cultural or religious activities",About once a week,,d4q16,25%,28%,2766,SF
+"Domain 4: Social, community and civic participation","My child participates in age appropriate community, cultural or religious activities",Once every two weeks,,d4q16,4%,3%,2766,SF
+"Domain 4: Social, community and civic participation","My child participates in age appropriate community, cultural or religious activities",About once a month,,d4q16,6%,5%,2766,SF
+"Domain 4: Social, community and civic participation","My child participates in age appropriate community, cultural or religious activities",Less than once a month,,d4q16,9%,8%,2766,SF
+"Domain 4: Social, community and civic participation","My child participates in age appropriate community, cultural or religious activities",Never,,d4q16,42%,41%,2766,SF
+"Domain 4: Social, community and civic participation","At these activities, I think my child is",Welcomed,,d4q17,36%,41%,1341,SF
+"Domain 4: Social, community and civic participation","At these activities, I think my child is",Actively included,,d4q17,27%,29%,1341,SF
+"Domain 4: Social, community and civic participation","At these activities, I think my child is",Mostly an observer,,d4q17,18%,14%,1341,SF
+"Domain 4: Social, community and civic participation","At these activities, I think my child is",Tolerated,,d4q17,5%,5%,1341,SF
+"Domain 4: Social, community and civic participation","At these activities, I think my child is",Made to feel unwelcome,,d4q17,1%,0%,1341,SF
+"Domain 4: Social, community and civic participation","At these activities, I think my child is",Is present but not really a part of the group,,d4q17,13%,11%,1341,SF
+"Domain 4: Social, community and civic participation",I would like my child to be more involved in community activities,Yes,,d4q18,68%,76%,2870,SF
+"Domain 4: Social, community and civic participation",I would like my child to be more involved in community activities,No,,d4q18,32%,24%,2870,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),My child's disability (e.g. ability to communicate),,d4q19,81%,85%,1835,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),Other children are not welcoming,,d4q19,10%,11%,1835,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),Other families are not welcoming,,d4q19,7%,9%,1835,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),I am too busy,,d4q19,18%,21%,1835,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),Transport,,d4q19,11%,11%,1835,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),Cost,,d4q19,26%,31%,1835,SF
+"Domain 4: Social, community and civic participation",The barriers to my child being involved in community activities are (choose all that apply),Other (please specify),,d4q19,17%,19%,1835,SF
+Domain 5: Specialist services,"My child uses specialist services (e.g. speech pathology, occupational therapy) that assist their learning and development",Yes,,d5q1,73%,90%,2871,SF
+Domain 5: Specialist services,"My child uses specialist services (e.g. speech pathology, occupational therapy) that assist their learning and development",No,,d5q1,27%,10%,2871,SF
+Domain 5: Specialist services,These services help my child gain the skills she/he needs to participate in everyday life (e.g. go to preschool),Yes,,d5q2,89%,95%,2076,SF
+Domain 5: Specialist services,These services help my child gain the skills she/he needs to participate in everyday life (e.g. go to preschool),No,,d5q2,11%,5%,2076,SF
+Domain 5: Specialist services,These services involve me,Yes,,d5q3,95%,97%,38,LF
+Domain 5: Specialist services,These services involve me,No,,d5q3,5%,3%,38,LF
+Domain 5: Specialist services,These services support me to assist my child,Yes,,d5q4,89%,96%,2075,SF
+Domain 5: Specialist services,These services support me to assist my child,No,,d5q4,11%,4%,2075,SF
+Domain 5: Specialist services,These services help me to plan for the future,Yes,,d5q5,89%,87%,38,LF
+Domain 5: Specialist services,These services help me to plan for the future,No,,d5q5,11%,13%,38,LF
+Domain 5: Specialist services,These services respect my cultural heritage,Yes,,d5q6,86%,92%,37,LF
+Domain 5: Specialist services,These services respect my cultural heritage,No,,d5q6,14%,8%,37,LF
+Domain 5: Specialist services,These services assist staff at my child's day care/preschool/community activities to support my child,Yes,,d5q7,62%,57%,37,LF
+Domain 5: Specialist services,These services assist staff at my child's day care/preschool/community activities to support my child,No,,d5q7,38%,43%,37,LF

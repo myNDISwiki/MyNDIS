@@ -1,0 +1,22 @@
+{
+  "bytes": 5441075,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/c721ac3923b3884cd64f8978dc0ede925b4b939eaeadeb935ce0d649fc4af704",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3710/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Achieving a sense of purpose report - clean DOCX.docx\"",
+    "ETag": "\"1690945043:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:57:22 GMT"
+  },
+  "sha256": "bc6188f25525bb6c334bd840a265fc2cbac644f656bc674525bcd27c1f0c4f8b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3710/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 9594,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/74c48b40076b4ba0f47b79c0998679703dd4088c2e0f67ce552e4a5ef47a28ae",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4273/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Projected participants by service district data.csv\"",
+    "ETag": "\"1771191693:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 15 Feb 2026 21:41:32 GMT"
+  },
+  "sha256": "b3265dc1317a35d45da08d0839d1a7012836cbc0ef54fcdc7d936aafad26035f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4273/download?attachment="
+}

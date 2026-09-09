@@ -1,0 +1,22 @@
+{
+  "bytes": 386028,
+  "content_type": "application/pdf",
+  "directory": "resources/5939949d1830cae03419d22550293595c9e30b8b9009937a26582c4849167b5c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3024/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Northern NSW.pdf\"",
+    "ETag": "\"1637191934:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:32:13 GMT"
+  },
+  "sha256": "da13d0ac8a814c0c3b812dbad1d493830c2992b3e7584d1d052818bc3ce9f8a6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3024/download?attachment="
+}

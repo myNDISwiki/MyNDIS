@@ -1,0 +1,22 @@
+{
+  "bytes": 90117,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/e680ed72801be968e8b0078d53f4fa049f3195ee4f4b8e3689aa3aa3a9e433a8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4586/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Intellectual Disability data to 30 June 2026.xlsx\"",
+    "ETag": "\"1788138883:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 31 Aug 2026 01:14:42 GMT"
+  },
+  "sha256": "cf25c2626ff6498b2e399c6f9150d264e054e2a5075b5364e4c866521617e02d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4586/download?attachment="
+}

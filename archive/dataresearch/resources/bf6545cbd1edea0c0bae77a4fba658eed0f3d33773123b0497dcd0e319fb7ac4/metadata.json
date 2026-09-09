@@ -1,0 +1,22 @@
+{
+  "bytes": 6838966,
+  "content_type": "application/zip",
+  "directory": "resources/bf6545cbd1edea0c0bae77a4fba658eed0f3d33773123b0497dcd0e319fb7ac4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3256/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112 LGA Data NSW.zip\"",
+    "ETag": "\"1647926946:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 22 Mar 2022 05:29:05 GMT"
+  },
+  "sha256": "842ed05d72fb91d953a7b291a2a647ffb8cdbcb5f1c3f920c2154f51d8375315",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3256/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1025096,
+  "content_type": "application/pdf",
+  "directory": "resources/467cc3f3ac2fde532a32252b882e12c1e277eac2ea4f4efb9ca4fd6dfda13a87",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2762/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB 202012 ABI CP SCI Deep Dive Presentation PDF.pdf\"",
+    "ETag": "\"1635836128:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:27 GMT"
+  },
+  "sha256": "7d694e0afa04bfc41084e61c51f63ab4b3d8b43110b2ecd9071bfa9a08450754",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2762/download?attachment="
+}

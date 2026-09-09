@@ -1,0 +1,22 @@
+{
+  "bytes": 46563,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9134b10f860170f5f23fadda97586802e91b6178ad36b7fe43cd6721fec07412",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3805/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Down syndrome transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601472:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:24:31 GMT"
+  },
+  "sha256": "88c17c20ff0e69c6a09c0a72930fa33b6cf74a901519b5f4c47739482aa28c92",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3805/download?attachment="
+}

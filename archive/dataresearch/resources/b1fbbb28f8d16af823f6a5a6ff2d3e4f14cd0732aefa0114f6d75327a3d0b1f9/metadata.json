@@ -1,0 +1,22 @@
+{
+  "bytes": 1464019,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b1fbbb28f8d16af823f6a5a6ff2d3e4f14cd0732aefa0114f6d75327a3d0b1f9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4087/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard VIC by Service District Accessible.xlsx\"",
+    "ETag": "\"1726120690:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Sep 2024 05:58:09 GMT"
+  },
+  "sha256": "4ec46bc1c5fa95271fab5e15ab252a2a8e948a2b15153d25ee68b057e27e9861",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4087/download?attachment="
+}

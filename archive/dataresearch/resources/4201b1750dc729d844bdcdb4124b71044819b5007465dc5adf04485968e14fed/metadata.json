@@ -1,0 +1,22 @@
+{
+  "bytes": 729258,
+  "content_type": "application/pdf",
+  "directory": "resources/4201b1750dc729d844bdcdb4124b71044819b5007465dc5adf04485968e14fed",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3775/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB T and Cs  (2).pdf\"",
+    "ETag": "\"1692922149:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 25 Aug 2023 00:09:08 GMT"
+  },
+  "sha256": "5eb79a6789544ddb7acb47376847cb3437ce7ed441442ee5a6db211316432735",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3775/download?attachment="
+}

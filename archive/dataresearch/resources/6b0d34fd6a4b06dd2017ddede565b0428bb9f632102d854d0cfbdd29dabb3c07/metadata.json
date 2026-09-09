@@ -1,0 +1,22 @@
+{
+  "bytes": 59853,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/6b0d34fd6a4b06dd2017ddede565b0428bb9f632102d854d0cfbdd29dabb3c07",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3568/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"3. Disability Dashboard Transcript For Psychosocial Disability.docx\"",
+    "ETag": "\"1671589660:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 02:27:39 GMT"
+  },
+  "sha256": "41e778b77990fa8ef10c71c0309f3cdd1310f8460143c0d831e6ae69d75893db",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3568/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 38774,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/8749432a46abb8ca73f0034b4f113d23639306ad120538d0ba29d490deb7e199",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3734/download",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"TS- Building skills and confidence to participate.docx\"",
+    "ETag": "\"1691362464:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 06 Aug 2023 22:54:23 GMT"
+  },
+  "sha256": "80d7761c46f9b30ea7a10aaab6a1b902510a1b821acbc10a142d8b21256a51e0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3734/download"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27948,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5bde0801283d2d8ff582e6a63ea35a1b36e3b6e60000ba28bce1e5fa8b4def58",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3034/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Illawarra Shoalhaven_data.xlsx\"",
+    "ETag": "\"1637192201:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:36:40 GMT"
+  },
+  "sha256": "1d509c4704b5e14269fc77002556f4b67088250c1d4bd2e95054587458b30622",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3034/download?attachment="
+}

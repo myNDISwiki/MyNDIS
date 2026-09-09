@@ -1,0 +1,20 @@
+{
+  "bytes": 3909,
+  "content_type": "application/pdf",
+  "directory": "resources/1bc1b9b379de27ae6102957fd79ac196b7b59c500e31ef0b866671897548656c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4017",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Cognitive remediation evidence snapshot.pdf\""
+  },
+  "sha256": "19ab7d725ca534b08dfca0a082516ba2ecd23e580d13a44a8f1004fe71c19ce3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4017"
+}

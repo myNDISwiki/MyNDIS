@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1a5744ef08f6f046740d7d42b1f92661a02a3d625cf0092268135c6fd47d5b33",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3087/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Brisbane_data.xlsx",
+    "ETag": "\"1637200964:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 02:02:43 GMT"
+  },
+  "sha256": "db35a17eb163f80af5f23451419bfa1edd49993a3f37288daecd468aa5889213",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3087/download?attachment="
+}

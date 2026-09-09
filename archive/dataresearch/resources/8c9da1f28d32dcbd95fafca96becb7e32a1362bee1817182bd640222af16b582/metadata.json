@@ -1,0 +1,20 @@
+{
+  "bytes": 6099,
+  "content_type": "application/pdf",
+  "directory": "resources/8c9da1f28d32dcbd95fafca96becb7e32a1362bee1817182bd640222af16b582",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3344",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Reports and analyses.pdf\""
+  },
+  "sha256": "eb649c3042ff5e18f97a68ae17908486c37e39ca99eff92711e0d06f01093ceb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3344"
+}

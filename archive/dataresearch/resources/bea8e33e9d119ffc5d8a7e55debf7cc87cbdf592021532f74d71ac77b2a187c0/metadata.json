@@ -1,0 +1,22 @@
+{
+  "bytes": 1004081,
+  "content_type": "application/pdf",
+  "directory": "resources/bea8e33e9d119ffc5d8a7e55debf7cc87cbdf592021532f74d71ac77b2a187c0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3298/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202112_The NDIS Market Detailed Dashboard_Cairns.pdf\"",
+    "ETag": "\"1647996125:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 23 Mar 2022 00:42:04 GMT"
+  },
+  "sha256": "d111dc501e2e2225fce38b7d0b6c5a30ed5b0f3765d910f002954bc93ebb41a6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3298/download?attachment="
+}

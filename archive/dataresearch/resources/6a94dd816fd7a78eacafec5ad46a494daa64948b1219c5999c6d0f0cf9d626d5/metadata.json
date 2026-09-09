@@ -1,0 +1,22 @@
+{
+  "bytes": 2408550,
+  "content_type": "application/pdf",
+  "directory": "resources/6a94dd816fd7a78eacafec5ad46a494daa64948b1219c5999c6d0f0cf9d626d5",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3826/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Other Physical dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602542:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:42:21 GMT"
+  },
+  "sha256": "4cabe5101f81e86571cb222497a1d450145645ce25328c6defa3c10af15c5242",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3826/download?attachment="
+}

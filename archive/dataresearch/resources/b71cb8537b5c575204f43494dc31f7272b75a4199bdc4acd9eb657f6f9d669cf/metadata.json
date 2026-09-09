@@ -1,0 +1,22 @@
+{
+  "bytes": 671644,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/b71cb8537b5c575204f43494dc31f7272b75a4199bdc4acd9eb657f6f9d669cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3711/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Employment evidence review.docx\"",
+    "ETag": "\"1690945074:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:57:53 GMT"
+  },
+  "sha256": "41c76f2bdc3b959fce7bf7836a4d0afd7920d77b854bc9691da51fd6bbbd1078",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3711/download?attachment="
+}

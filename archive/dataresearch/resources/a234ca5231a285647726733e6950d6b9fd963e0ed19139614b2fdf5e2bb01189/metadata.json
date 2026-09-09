@@ -1,0 +1,22 @@
+{
+  "bytes": 750467,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/a234ca5231a285647726733e6950d6b9fd963e0ed19139614b2fdf5e2bb01189",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3977/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB NDIA Assistive technology to support children evidence snapshot DOC.docx\"",
+    "ETag": "\"1713335172:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Apr 2024 06:26:11 GMT"
+  },
+  "sha256": "4b330e462010112847eba8275f2c9a40f657b74ec00bbcf80a637602ec941129",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3977/download?attachment="
+}

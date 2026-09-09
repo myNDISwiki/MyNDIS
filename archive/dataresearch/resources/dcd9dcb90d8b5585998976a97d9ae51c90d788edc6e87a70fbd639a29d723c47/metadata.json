@@ -1,0 +1,22 @@
+{
+  "bytes": 7351107,
+  "content_type": "application/pdf",
+  "directory": "resources/dcd9dcb90d8b5585998976a97d9ae51c90d788edc6e87a70fbd639a29d723c47",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4095/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS participant outcomes summary report to 30 June 2023.pdf\"",
+    "ETag": "\"1726121010:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Sep 2024 06:03:29 GMT"
+  },
+  "sha256": "1ea95f946566eebee8e783e32df59ed4940587f579d6a878146e4f24bb9fcd5c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4095/download?attachment="
+}

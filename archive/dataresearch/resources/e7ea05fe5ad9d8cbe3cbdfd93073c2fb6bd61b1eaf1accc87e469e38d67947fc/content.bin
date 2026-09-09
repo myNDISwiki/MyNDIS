@@ -1,0 +1,104 @@
+Domain,Question,Answer,DomainAndQuestion,percent,responses,missing,Questionnaire
+Family member/carer information,Please specify whether you currently receive any government benefits,Carer payment,,25%,53732,0,SF
+Family member/carer information,Please specify whether you currently receive any government benefits,Carer allowance,,55%,53732,0,SF
+Domain 1: Rights and advocacy,I am able to identify the needs of my child and family,Yes,d1q1,72%,53366,366,SF
+Domain 1: Rights and advocacy,I am able to identify the needs of my child and family,I have some difficulty,d1q1,24%,53366,366,SF
+Domain 1: Rights and advocacy,I am able to identify the needs of my child and family,I have a great deal of difficulty,d1q1,4%,53366,366,SF
+Domain 1: Rights and advocacy,I am able to access available services and supports to meet the needs of my child and family,Yes,d1q2,45%,53245,487,SF
+Domain 1: Rights and advocacy,I am able to access available services and supports to meet the needs of my child and family,I have some difficulty,d1q2,40%,53245,487,SF
+Domain 1: Rights and advocacy,I am able to access available services and supports to meet the needs of my child and family,I have a great deal of difficulty,d1q2,15%,53245,487,SF
+Domain 1: Rights and advocacy,I understand my rights and the rights of my child,Yes,d1q3,70%,1284,1,LF
+Domain 1: Rights and advocacy,I understand my rights and the rights of my child,I have a great deal of difficulty,d1q3,5%,1284,1,LF
+Domain 1: Rights and advocacy,I understand my rights and the rights of my child,I have some difficulty,d1q3,25%,1284,1,LF
+Domain 1: Rights and advocacy,I am able to advocate (stand up) for my child: I am able to speak up if we have issues or problems,Yes,d1q4,78%,53144,588,SF
+Domain 1: Rights and advocacy,I am able to advocate (stand up) for my child: I am able to speak up if we have issues or problems,I have some difficulty,d1q4,18%,53144,588,SF
+Domain 1: Rights and advocacy,I am able to advocate (stand up) for my child: I am able to speak up if we have issues or problems,I have a great deal of difficulty,d1q4,4%,53144,588,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),None,d1q5,36%,50539,3193,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),Limited access to information and resources,d1q5,40%,50539,3193,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),Lack of knowledge or understanding about my rights/the rights of my child,d1q5,24%,50539,3193,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),Time constraints (i.e. not enough time to look into or pursue),d1q5,27%,50539,3193,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),Lack of support,d1q5,33%,50539,3193,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),Fear of potential consequences,d1q5,8%,50539,3193,SF
+Domain 1: Rights and advocacy,What barrier to access and/or advocacy have you experienced? (choose all that apply),Other,d1q5,11%,50539,3193,SF
+Domain 2: Families feel supported,I have friends and family that I see as often as I like,Yes,d2q1,45%,53732,0,SF
+Domain 2: Families feel supported,I have friends and family that I see as often as I like,No,d2q1,55%,53732,0,SF
+Domain 2: Families feel supported,I have people who I can ask for practical help as often as I need,Yes,d2q2,41%,53732,0,SF
+Domain 2: Families feel supported,I have people who I can ask for practical help as often as I need,No,d2q2,59%,53732,0,SF
+Domain 2: Families feel supported,I have people who I can ask for childcare as often as I need,Yes,d2q3,28%,53732,0,SF
+Domain 2: Families feel supported,I have people who I can ask for childcare as often as I need,No,d2q3,72%,53732,0,SF
+Domain 2: Families feel supported,I have people who I can talk to for emotional support as often as I need,Yes,d2q4,60%,53732,0,SF
+Domain 2: Families feel supported,I have people who I can talk to for emotional support as often as I need,No,d2q4,40%,53732,0,SF
+Domain 2: Families feel supported,I have as much contact with other parents of children with disability as I would like,Yes,d2q5,44%,1284,1,LF
+Domain 2: Families feel supported,I have as much contact with other parents of children with disability as I would like,No,d2q5,56%,1284,1,LF
+Domain 3: Access to services,How would you describe your relationship with services,Good,d3q1,43%,1237,48,LF
+Domain 3: Access to services,How would you describe your relationship with services,Not very good,d3q1,14%,1237,48,LF
+Domain 3: Access to services,How would you describe your relationship with services,Poor,d3q1,8%,1237,48,LF
+Domain 3: Access to services,How would you describe your relationship with services,Very good,d3q1,35%,1237,48,LF
+Domain 4: Families help their children develop and learn,I know what specialist services are needed to promote my child's learning and development,Yes,d4q1,40%,53107,625,SF
+Domain 4: Families help their children develop and learn,I know what specialist services are needed to promote my child's learning and development,To some degree,d4q1,52%,53107,625,SF
+Domain 4: Families help their children develop and learn,I know what specialist services are needed to promote my child's learning and development,No,d4q1,9%,53107,625,SF
+Domain 4: Families help their children develop and learn,I know what my family can do to support my child's learning and development,Yes,d4q2,41%,53049,683,SF
+Domain 4: Families help their children develop and learn,I know what my family can do to support my child's learning and development,To some degree,d4q2,51%,53049,683,SF
+Domain 4: Families help their children develop and learn,I know what my family can do to support my child's learning and development,No,d4q2,7%,53049,683,SF
+Domain 4: Families help their children develop and learn,I get enough support to feel confident in parenting my child,Yes,d4q3,44%,52909,823,SF
+Domain 4: Families help their children develop and learn,I get enough support to feel confident in parenting my child,To some degree,d4q3,41%,52909,823,SF
+Domain 4: Families help their children develop and learn,I get enough support to feel confident in parenting my child,No,d4q3,14%,52909,823,SF
+Domain 4: Families help their children develop and learn,How confident do you feel in supporting your child's development?,Very confident,d4q4,28%,52895,837,SF
+Domain 4: Families help their children develop and learn,How confident do you feel in supporting your child's development?,Somewhat confident,d4q4,58%,52895,837,SF
+Domain 4: Families help their children develop and learn,How confident do you feel in supporting your child's development?,Not very confident,d4q4,12%,52895,837,SF
+Domain 4: Families help their children develop and learn,How confident do you feel in supporting your child's development?,Not at all confident,d4q4,2%,52895,837,SF
+"Domain 5: Families understand their children’s strengths, abilities and special needs",I recognise my child’s strengths and abilities,Yes,d5q1,84%,1284,1,LF
+"Domain 5: Families understand their children’s strengths, abilities and special needs",I recognise my child’s strengths and abilities,I have a great deal of difficulty,d5q1,2%,1284,1,LF
+"Domain 5: Families understand their children’s strengths, abilities and special needs",I recognise my child’s strengths and abilities,I have some difficulty,d5q1,14%,1284,1,LF
+"Domain 5: Families understand their children’s strengths, abilities and special needs",I can see how my child is progressing,Yes,d5q2,78%,1282,3,LF
+"Domain 5: Families understand their children’s strengths, abilities and special needs",I can see how my child is progressing,I have a great deal of difficulty,d5q2,4%,1282,3,LF
+"Domain 5: Families understand their children’s strengths, abilities and special needs",I can see how my child is progressing,I have some difficulty,d5q2,18%,1282,3,LF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Excellent,d6q1,10%,53067,665,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Very Good,d6q1,25%,53067,665,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Good,d6q1,37%,53067,665,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Fair,d6q1,20%,53067,665,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Poor,d6q1,8%,53067,665,SF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Delighted,d6q2,5%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Pleased,d6q2,15%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Mostly satisfied,d6q2,21%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Mixed,d6q2,43%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Mostly dissatisfied,d6q2,2%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Terrible,d6q2,2%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Unhappy,d6q2,3%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Don't know,d6q2,9%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a child with a disability has made it more difficult for me to meet the everyday costs of living,Strongly agree,d6q3,44%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a child with a disability has made it more difficult for me to meet the everyday costs of living,Agree,d6q3,29%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a child with a disability has made it more difficult for me to meet the everyday costs of living,Neutral,d6q3,13%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a child with a disability has made it more difficult for me to meet the everyday costs of living,Disagree,d6q3,11%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a child with a disability has made it more difficult for me to meet the everyday costs of living,Strongly disagree,d6q3,3%,1283,2,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my child with disability under the NDIS,Strongly agree,d6q4,18%,1281,4,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my child with disability under the NDIS,Agree,d6q4,33%,1281,4,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my child with disability under the NDIS,Neutral,d6q4,45%,1281,4,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my child with disability under the NDIS,Disagree,d6q4,2%,1281,4,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my child with disability under the NDIS,Strongly disagree,d6q4,2%,1281,4,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my child gets the support he/she needs.,Strongly agree,d6q5,8%,1279,6,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my child gets the support he/she needs.,Agree,d6q5,26%,1279,6,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my child gets the support he/she needs.,Neutral,d6q5,40%,1279,6,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my child gets the support he/she needs.,Disagree,d6q5,19%,1279,6,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my child gets the support he/she needs.,Strongly disagree,d6q5,7%,1279,6,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my child with disability.,Strongly agree,d6q6,12%,1271,14,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my child with disability.,Agree,d6q6,32%,1271,14,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my child with disability.,Neutral,d6q6,42%,1271,14,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my child with disability.,Disagree,d6q6,10%,1271,14,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my child with disability.,Strongly disagree,d6q6,4%,1271,14,LF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to work as much as I/we want,Yes,d6q7,41%,52395,1337,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to work as much as I/we want,"No, I would like to work more",d6q7,45%,52395,1337,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to work as much as I/we want,"No, my partner would like to work more",d6q7,6%,52395,1337,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to work as much as I/we want,"No, both my partner and I would like to work more",d6q7,9%,52395,1337,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to working more? (Choose all that apply),Situation of child with disability,d6q8,87%,30827,296,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to working more? (Choose all that apply),Availability of jobs,d6q8,19%,30827,296,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to working more? (Choose all that apply),Available jobs do not have sufficient flexibility (e.g. of hours),d6q8,39%,30827,296,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to working more? (Choose all that apply),Other,d6q8,18%,30827,296,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to engage in social interactions and community life as much as I/we want,Yes,d6q9,28%,52194,1538,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to engage in social interactions and community life as much as I/we want,"No, I would like to engage more in social interactions and community life",d6q9,34%,52194,1538,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to engage in social interactions and community life as much as I/we want,"No, my partner would like to engage more in social interactions and community life",d6q9,3%,52194,1538,SF
+Domain 6: Families enjoy health and wellbeing,I/(my partner and I) am/are able to engage in social interactions and community life as much as I/we want,"No, both my partner and I would like to engage more in social interactions and community life",d6q9,35%,52194,1538,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to engaging more in social interactions and community life? (Choose all that apply),Situation of child with disability,d6q10,90%,37252,565,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to engaging more in social interactions and community life? (Choose all that apply),Limited social networks,d6q10,33%,37252,565,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to engaging more in social interactions and community life? (Choose all that apply),Time constraints,d6q10,47%,37252,565,SF
+Domain 6: Families enjoy health and wellbeing,What are the barriers to engaging more in social interactions and community life? (Choose all that apply),Other,d6q10,17%,37252,565,SF

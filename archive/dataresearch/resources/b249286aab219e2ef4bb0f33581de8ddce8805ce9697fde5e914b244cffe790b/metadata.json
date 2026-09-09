@@ -1,0 +1,22 @@
+{
+  "bytes": 8834612,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b249286aab219e2ef4bb0f33581de8ddce8805ce9697fde5e914b244cffe790b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4078/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard SA by LGA.xlsx\"",
+    "ETag": "\"1726120392:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Sep 2024 05:53:11 GMT"
+  },
+  "sha256": "a030c73989a30f25eebd58dd087252f8af2ad6454d44a7460d25f2feaa88ae4f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4078/download?attachment="
+}

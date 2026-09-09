@@ -1,0 +1,22 @@
+{
+  "bytes": 4287487,
+  "content_type": "application/pdf",
+  "directory": "resources/dcd33670248a56f0f12a7f888d72dab716e5b3f4f93b9a4353ddb0cfc1223cc7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3503/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participant Outcomes Summary_30 June 22__+1.pdf\"; filename*=utf-8''Participant%20Outcomes%20Summary_30%20June%2022_%C6%92%2B1.pdf",
+    "ETag": "\"1670372934:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 07 Dec 2022 00:28:53 GMT"
+  },
+  "sha256": "bd22e0dc9a9f796ac9e508013f7e7dc0f36b4f21c71369d96f26d1424e9c147b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3503/download?attachment="
+}

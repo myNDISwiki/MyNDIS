@@ -1,0 +1,20 @@
+{
+  "bytes": 17505,
+  "content_type": "application/pdf",
+  "directory": "resources/719d36d03d7cc41f880b3a086fd45d571025b9b81fc847eecc835143c45cf137",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4081",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Independent review into art and music supports.pdf\""
+  },
+  "sha256": "8676844c70e827935396d44db1d1f29e5db720e8752ed3631cfbb97fa5aee1e1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4081"
+}

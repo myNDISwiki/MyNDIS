@@ -1,0 +1,22 @@
+{
+  "bytes": 370185,
+  "content_type": "application/pdf",
+  "directory": "resources/421f6d3de07751e4c4b46323f4ebb9ae743f185606e12fc9077266f40ee08127",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3101/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Western Adelaide.pdf\"",
+    "ETag": "\"1637275237:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:40:36 GMT"
+  },
+  "sha256": "82655e0878c9190541ea6b99d7fe062adca688f17eed684db40d4e192e35f1b5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3101/download?attachment="
+}

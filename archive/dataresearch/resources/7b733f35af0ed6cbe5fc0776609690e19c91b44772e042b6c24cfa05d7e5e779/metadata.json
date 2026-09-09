@@ -1,0 +1,22 @@
+{
+  "bytes": 263422,
+  "content_type": "application/pdf",
+  "directory": "resources/7b733f35af0ed6cbe5fc0776609690e19c91b44772e042b6c24cfa05d7e5e779",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1531/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 5 birth to school childcare.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "0a2a73b4231f548680995154461235363122f400eb969602c7bcc0d3af56f345",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1531/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 2576007,
+  "content_type": "application/pdf",
+  "directory": "resources/942788976a28dd987fcf819f15ab9600603b6a77c001327f04d8e21511d1d625",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3216/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB ER Families carers outcomes summary PDF.pdf\"",
+    "ETag": "\"1644451561:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 10 Feb 2022 00:06:00 GMT"
+  },
+  "sha256": "534acf3936c47ed2098ff3531e982a9179db274b690794b348ff4ddfa1b3f898",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3216/download?attachment="
+}

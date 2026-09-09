@@ -1,0 +1,22 @@
+{
+  "bytes": 150462,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/72d16a9bd3601a52299a1c020876f180b43389e9ecf72f0a074958fd0e0e21cf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2413/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_TAS North West_data.xlsx\"",
+    "ETag": "\"1635836118:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:17 GMT"
+  },
+  "sha256": "26a5f55d6f8c788b8532a266ec2fb0e8ec23bfe741af830f4e5b57e5f20589f6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2413/download?attachment="
+}

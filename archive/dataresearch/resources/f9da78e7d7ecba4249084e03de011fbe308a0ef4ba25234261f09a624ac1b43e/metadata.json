@@ -1,0 +1,22 @@
+{
+  "bytes": 392233,
+  "content_type": "application/pdf",
+  "directory": "resources/f9da78e7d7ecba4249084e03de011fbe308a0ef4ba25234261f09a624ac1b43e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3069/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Mackay.pdf\"",
+    "ETag": "\"1637200695:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:58:14 GMT"
+  },
+  "sha256": "beca29dde7f3d4e477bf6c381c9d7f815fe9e0492c78eeb1d5feb73b27ac128d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3069/download?attachment="
+}

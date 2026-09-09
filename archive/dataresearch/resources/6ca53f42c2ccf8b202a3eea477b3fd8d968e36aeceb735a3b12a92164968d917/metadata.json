@@ -1,0 +1,22 @@
+{
+  "bytes": 385094,
+  "content_type": "application/pdf",
+  "directory": "resources/6ca53f42c2ccf8b202a3eea477b3fd8d968e36aeceb735a3b12a92164968d917",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3138/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Inner Gippsland.pdf\"",
+    "ETag": "\"1637283864:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:04:23 GMT"
+  },
+  "sha256": "235387b8d605b23721afb9a5b625dd20527f0740159517a7c17a83c909c1022f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3138/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1311262,
+  "content_type": "application/pdf",
+  "directory": "resources/bfe85d8bb919cd1a534c72334c95e13e8ab2fe14fd285f64f4b8df2350a03047",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1562/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Employment outcomes PDF.pdf\"",
+    "ETag": "\"1635836107:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:06 GMT"
+  },
+  "sha256": "07613e9c6547650340d409dc540b642f55d43446e34d208f311072b5f39b4a02",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1562/download?attachment="
+}

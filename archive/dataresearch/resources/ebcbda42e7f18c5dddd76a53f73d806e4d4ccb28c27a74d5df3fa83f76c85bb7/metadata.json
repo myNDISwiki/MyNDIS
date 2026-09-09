@@ -1,0 +1,20 @@
+{
+  "bytes": 16242,
+  "content_type": "application/pdf",
+  "directory": "resources/ebcbda42e7f18c5dddd76a53f73d806e4d4ccb28c27a74d5df3fa83f76c85bb7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4034",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Markets and innovations research.pdf\""
+  },
+  "sha256": "f8fcf55f7ca58ef9337a173039e301b711c8f9014ef02a95eaf838c881d1197b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4034"
+}

@@ -1,0 +1,20 @@
+{
+  "bytes": 6871,
+  "content_type": "application/pdf",
+  "directory": "resources/e566c26171c54fd3cfde8b352d09c22520ff1b8782cc6603cfb174e26e2de53b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3187",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Data and research.pdf\""
+  },
+  "sha256": "b6ef50ef3190e49c5c2d2fe574546b285a1c725b2c522b3dde779ee80c0de416",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3187"
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 89591,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/8415ffc0d05f02c445bdb8302918933095331023f28f780e4f41a91ff8dbff18",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4263/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participants by SA2 data rules_0.docx\"",
+    "ETag": "\"1786682939:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:48:58 GMT"
+  },
+  "sha256": "721e2d9691829f8089c06a5e7536eeca5c29a10ce7df972ca3ede74751371b58",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4263/download?attachment="
+}

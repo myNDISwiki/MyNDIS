@@ -1,0 +1,2700 @@
+RprtDt,StateCd,SA4Cd2016,SA4Nm2016,PrtcpntCnt
+30JUN2026,ACT,801,Australian Capital Territory,12694
+30JUN2026,ACT,Other,ACT - Other,<11
+30JUN2026,MIS,Other,MIS - Other,16
+30JUN2026,NSW,101,Capital Region,6952
+30JUN2026,NSW,102,Central Coast,13272
+30JUN2026,NSW,103,Central West,6902
+30JUN2026,NSW,104,Coffs Harbour - Grafton,5181
+30JUN2026,NSW,105,Far West and Orana,3864
+30JUN2026,NSW,106,Hunter Valley exc Newcastle,12902
+30JUN2026,NSW,107,Illawarra,9935
+30JUN2026,NSW,108,Mid North Coast,9483
+30JUN2026,NSW,109,Murray,4552
+30JUN2026,NSW,110,New England and North West,5906
+30JUN2026,NSW,111,Newcastle and Lake Macquarie,15457
+30JUN2026,NSW,112,Richmond - Tweed,9236
+30JUN2026,NSW,113,Riverina,4956
+30JUN2026,NSW,114,Southern Highlands and Shoalhaven,4853
+30JUN2026,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5747
+30JUN2026,NSW,116,Sydney - Blacktown,12863
+30JUN2026,NSW,117,Sydney - City and Inner South,5104
+30JUN2026,NSW,118,Sydney - Eastern Suburbs,4109
+30JUN2026,NSW,119,Sydney - Inner South West,13827
+30JUN2026,NSW,120,Sydney - Inner West,5004
+30JUN2026,NSW,121,Sydney - North Sydney and Hornsby,6711
+30JUN2026,NSW,122,Sydney - Northern Beaches,4526
+30JUN2026,NSW,123,Sydney - Outer South West,11400
+30JUN2026,NSW,124,Sydney - Outer West and Blue Mountains,12676
+30JUN2026,NSW,125,Sydney - Parramatta,11906
+30JUN2026,NSW,126,Sydney - Ryde,3763
+30JUN2026,NSW,127,Sydney - South West,14009
+30JUN2026,NSW,128,Sydney - Sutherland,5322
+30JUN2026,NSW,Other,NSW - Other,<11
+30JUN2026,NT,701,Darwin,3945
+30JUN2026,NT,702,Northern Territory - Outback,2943
+30JUN2026,NT,Other,NT - Other,<11
+30JUN2026,OT,901,Other Territories,93
+30JUN2026,QLD,301,Brisbane - East,7958
+30JUN2026,QLD,302,Brisbane - North,6237
+30JUN2026,QLD,303,Brisbane - South,8891
+30JUN2026,QLD,304,Brisbane - West,4669
+30JUN2026,QLD,305,Brisbane Inner City,5089
+30JUN2026,QLD,306,Cairns,7330
+30JUN2026,QLD,307,Darling Downs - Maranoa,3832
+30JUN2026,QLD,308,Central Queensland,8818
+30JUN2026,QLD,309,Gold Coast,17618
+30JUN2026,QLD,310,Ipswich,15227
+30JUN2026,QLD,311,Logan - Beaudesert,15255
+30JUN2026,QLD,312,Mackay - Isaac - Whitsunday,4826
+30JUN2026,QLD,313,Moreton Bay - North,11785
+30JUN2026,QLD,314,Moreton Bay - South,7496
+30JUN2026,QLD,315,Queensland - Outback,1946
+30JUN2026,QLD,316,Sunshine Coast,12322
+30JUN2026,QLD,317,Toowoomba,6100
+30JUN2026,QLD,318,Townsville,8376
+30JUN2026,QLD,319,Wide Bay,12855
+30JUN2026,QLD,Other,QLD - Other,<11
+30JUN2026,SA,401,Adelaide - Central and Hills,8431
+30JUN2026,SA,402,Adelaide - North,22269
+30JUN2026,SA,403,Adelaide - South,14605
+30JUN2026,SA,404,Adelaide - West,8254
+30JUN2026,SA,405,Barossa - Yorke - Mid North,3975
+30JUN2026,SA,406,South Australia - Outback,2741
+30JUN2026,SA,407,South Australia - South East,6994
+30JUN2026,SA,Other,SA - Other,<11
+30JUN2026,TAS,601,Hobart,7443
+30JUN2026,TAS,602,Launceston and North East,4767
+30JUN2026,TAS,603,South East,986
+30JUN2026,TAS,604,West and North West,3699
+30JUN2026,TAS,Other,TAS - Other,<11
+30JUN2026,VIC,201,Ballarat,6905
+30JUN2026,VIC,202,Bendigo,7945
+30JUN2026,VIC,203,Geelong,14083
+30JUN2026,VIC,204,Hume,6757
+30JUN2026,VIC,205,Latrobe - Gippsland,11505
+30JUN2026,VIC,206,Melbourne - Inner,12335
+30JUN2026,VIC,207,Melbourne - Inner East,7643
+30JUN2026,VIC,208,Melbourne - Inner South,9766
+30JUN2026,VIC,209,Melbourne - North East,18123
+30JUN2026,VIC,210,Melbourne - North West,15369
+30JUN2026,VIC,211,Melbourne - Outer East,16901
+30JUN2026,VIC,212,Melbourne - South East,25123
+30JUN2026,VIC,213,Melbourne - West,31009
+30JUN2026,VIC,214,Mornington Peninsula,11712
+30JUN2026,VIC,215,North West,5695
+30JUN2026,VIC,216,Shepparton,5392
+30JUN2026,VIC,217,Warrnambool and South West,4573
+30JUN2026,VIC,Other,VIC - Other,<11
+30JUN2026,WA,501,Bunbury,5591
+30JUN2026,WA,502,Mandurah,3333
+30JUN2026,WA,503,Perth - Inner,3175
+30JUN2026,WA,504,Perth - North East,8629
+30JUN2026,WA,505,Perth - North West,14525
+30JUN2026,WA,506,Perth - South East,13972
+30JUN2026,WA,507,Perth - South West,12585
+30JUN2026,WA,509,Western Australia - Wheat Belt,3329
+30JUN2026,WA,510,Western Australia - Outback (North),2124
+30JUN2026,WA,511,Western Australia - Outback (South),2946
+30JUN2026,WA,Other,WA - Other,34
+31MAR2026,ACT,801,Australian Capital Territory,12596
+31MAR2026,ACT,Other,ACT - Other,<11
+31MAR2026,MIS,Other,MIS - Other,12
+31MAR2026,NSW,101,Capital Region,6873
+31MAR2026,NSW,102,Central Coast,13088
+31MAR2026,NSW,103,Central West,6830
+31MAR2026,NSW,104,Coffs Harbour - Grafton,5166
+31MAR2026,NSW,105,Far West and Orana,3828
+31MAR2026,NSW,106,Hunter Valley exc Newcastle,12830
+31MAR2026,NSW,107,Illawarra,9736
+31MAR2026,NSW,108,Mid North Coast,9444
+31MAR2026,NSW,109,Murray,4492
+31MAR2026,NSW,110,New England and North West,5874
+31MAR2026,NSW,111,Newcastle and Lake Macquarie,15403
+31MAR2026,NSW,112,Richmond - Tweed,9157
+31MAR2026,NSW,113,Riverina,4946
+31MAR2026,NSW,114,Southern Highlands and Shoalhaven,4784
+31MAR2026,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5666
+31MAR2026,NSW,116,Sydney - Blacktown,12754
+31MAR2026,NSW,117,Sydney - City and Inner South,5043
+31MAR2026,NSW,118,Sydney - Eastern Suburbs,4068
+31MAR2026,NSW,119,Sydney - Inner South West,13684
+31MAR2026,NSW,120,Sydney - Inner West,4941
+31MAR2026,NSW,121,Sydney - North Sydney and Hornsby,6658
+31MAR2026,NSW,122,Sydney - Northern Beaches,4511
+31MAR2026,NSW,123,Sydney - Outer South West,11265
+31MAR2026,NSW,124,Sydney - Outer West and Blue Mountains,12454
+31MAR2026,NSW,125,Sydney - Parramatta,11844
+31MAR2026,NSW,126,Sydney - Ryde,3743
+31MAR2026,NSW,127,Sydney - South West,13850
+31MAR2026,NSW,128,Sydney - Sutherland,5242
+31MAR2026,NSW,Other,NSW - Other,<11
+31MAR2026,NT,701,Darwin,3900
+31MAR2026,NT,702,Northern Territory - Outback,2915
+31MAR2026,NT,Other,NT - Other,<11
+31MAR2026,OT,901,Other Territories,89
+31MAR2026,QLD,301,Brisbane - East,7914
+31MAR2026,QLD,302,Brisbane - North,6206
+31MAR2026,QLD,303,Brisbane - South,8849
+31MAR2026,QLD,304,Brisbane - West,4601
+31MAR2026,QLD,305,Brisbane Inner City,5108
+31MAR2026,QLD,306,Cairns,7254
+31MAR2026,QLD,307,Darling Downs - Maranoa,3844
+31MAR2026,QLD,308,Central Queensland,8742
+31MAR2026,QLD,309,Gold Coast,17496
+31MAR2026,QLD,310,Ipswich,15041
+31MAR2026,QLD,311,Logan - Beaudesert,15079
+31MAR2026,QLD,312,Mackay - Isaac - Whitsunday,4825
+31MAR2026,QLD,313,Moreton Bay - North,11773
+31MAR2026,QLD,314,Moreton Bay - South,7484
+31MAR2026,QLD,315,Queensland - Outback,1962
+31MAR2026,QLD,316,Sunshine Coast,12226
+31MAR2026,QLD,317,Toowoomba,6020
+31MAR2026,QLD,318,Townsville,8407
+31MAR2026,QLD,319,Wide Bay,12778
+31MAR2026,QLD,Other,QLD - Other,<11
+31MAR2026,SA,401,Adelaide - Central and Hills,8334
+31MAR2026,SA,402,Adelaide - North,21933
+31MAR2026,SA,403,Adelaide - South,14438
+31MAR2026,SA,404,Adelaide - West,8125
+31MAR2026,SA,405,Barossa - Yorke - Mid North,3895
+31MAR2026,SA,406,South Australia - Outback,2708
+31MAR2026,SA,407,South Australia - South East,6906
+31MAR2026,TAS,601,Hobart,7375
+31MAR2026,TAS,602,Launceston and North East,4724
+31MAR2026,TAS,603,South East,969
+31MAR2026,TAS,604,West and North West,3655
+31MAR2026,VIC,201,Ballarat,6836
+31MAR2026,VIC,202,Bendigo,7805
+31MAR2026,VIC,203,Geelong,13806
+31MAR2026,VIC,204,Hume,6705
+31MAR2026,VIC,205,Latrobe - Gippsland,11357
+31MAR2026,VIC,206,Melbourne - Inner,12226
+31MAR2026,VIC,207,Melbourne - Inner East,7558
+31MAR2026,VIC,208,Melbourne - Inner South,9702
+31MAR2026,VIC,209,Melbourne - North East,17974
+31MAR2026,VIC,210,Melbourne - North West,15268
+31MAR2026,VIC,211,Melbourne - Outer East,16747
+31MAR2026,VIC,212,Melbourne - South East,24959
+31MAR2026,VIC,213,Melbourne - West,30744
+31MAR2026,VIC,214,Mornington Peninsula,11681
+31MAR2026,VIC,215,North West,5629
+31MAR2026,VIC,216,Shepparton,5319
+31MAR2026,VIC,217,Warrnambool and South West,4527
+31MAR2026,VIC,Other,VIC - Other,<11
+31MAR2026,WA,501,Bunbury,5502
+31MAR2026,WA,502,Mandurah,3264
+31MAR2026,WA,503,Perth - Inner,3134
+31MAR2026,WA,504,Perth - North East,8517
+31MAR2026,WA,505,Perth - North West,14243
+31MAR2026,WA,506,Perth - South East,13855
+31MAR2026,WA,507,Perth - South West,12415
+31MAR2026,WA,509,Western Australia - Wheat Belt,3273
+31MAR2026,WA,510,Western Australia - Outback (North),2092
+31MAR2026,WA,511,Western Australia - Outback (South),2910
+31MAR2026,WA,Other,WA - Other,26
+31DEC2025,ACT,801,Australian Capital Territory,12430
+31DEC2025,ACT,Other,ACT - Other,<11
+31DEC2025,MIS,Other,MIS - Other,12
+31DEC2025,NSW,101,Capital Region,6746
+31DEC2025,NSW,102,Central Coast,12905
+31DEC2025,NSW,103,Central West,6713
+31DEC2025,NSW,104,Coffs Harbour - Grafton,5082
+31DEC2025,NSW,105,Far West and Orana,3807
+31DEC2025,NSW,106,Hunter Valley exc Newcastle,12527
+31DEC2025,NSW,107,Illawarra,9572
+31DEC2025,NSW,108,Mid North Coast,9325
+31DEC2025,NSW,109,Murray,4424
+31DEC2025,NSW,110,New England and North West,5783
+31DEC2025,NSW,111,Newcastle and Lake Macquarie,15159
+31DEC2025,NSW,112,Richmond - Tweed,8996
+31DEC2025,NSW,113,Riverina,4882
+31DEC2025,NSW,114,Southern Highlands and Shoalhaven,4716
+31DEC2025,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5519
+31DEC2025,NSW,116,Sydney - Blacktown,12527
+31DEC2025,NSW,117,Sydney - City and Inner South,4991
+31DEC2025,NSW,118,Sydney - Eastern Suburbs,4041
+31DEC2025,NSW,119,Sydney - Inner South West,13526
+31DEC2025,NSW,120,Sydney - Inner West,4903
+31DEC2025,NSW,121,Sydney - North Sydney and Hornsby,6549
+31DEC2025,NSW,122,Sydney - Northern Beaches,4447
+31DEC2025,NSW,123,Sydney - Outer South West,11077
+31DEC2025,NSW,124,Sydney - Outer West and Blue Mountains,12189
+31DEC2025,NSW,125,Sydney - Parramatta,11709
+31DEC2025,NSW,126,Sydney - Ryde,3675
+31DEC2025,NSW,127,Sydney - South West,13603
+31DEC2025,NSW,128,Sydney - Sutherland,5129
+31DEC2025,NSW,Other,NSW - Other,15
+31DEC2025,NT,701,Darwin,3832
+31DEC2025,NT,702,Northern Territory - Outback,2905
+31DEC2025,NT,Other,NT - Other,<11
+31DEC2025,OT,901,Other Territories,88
+31DEC2025,QLD,301,Brisbane - East,7750
+31DEC2025,QLD,302,Brisbane - North,6122
+31DEC2025,QLD,303,Brisbane - South,8718
+31DEC2025,QLD,304,Brisbane - West,4515
+31DEC2025,QLD,305,Brisbane Inner City,5060
+31DEC2025,QLD,306,Cairns,7170
+31DEC2025,QLD,307,Darling Downs - Maranoa,3824
+31DEC2025,QLD,308,Central Queensland,8625
+31DEC2025,QLD,309,Gold Coast,17280
+31DEC2025,QLD,310,Ipswich,14777
+31DEC2025,QLD,311,Logan - Beaudesert,14727
+31DEC2025,QLD,312,Mackay - Isaac - Whitsunday,4799
+31DEC2025,QLD,313,Moreton Bay - North,11564
+31DEC2025,QLD,314,Moreton Bay - South,7340
+31DEC2025,QLD,315,Queensland - Outback,1925
+31DEC2025,QLD,316,Sunshine Coast,11998
+31DEC2025,QLD,317,Toowoomba,5961
+31DEC2025,QLD,318,Townsville,8331
+31DEC2025,QLD,319,Wide Bay,12633
+31DEC2025,QLD,Other,QLD - Other,<11
+31DEC2025,SA,401,Adelaide - Central and Hills,8154
+31DEC2025,SA,402,Adelaide - North,21583
+31DEC2025,SA,403,Adelaide - South,14200
+31DEC2025,SA,404,Adelaide - West,8031
+31DEC2025,SA,405,Barossa - Yorke - Mid North,3801
+31DEC2025,SA,406,South Australia - Outback,2697
+31DEC2025,SA,407,South Australia - South East,6767
+31DEC2025,TAS,601,Hobart,7214
+31DEC2025,TAS,602,Launceston and North East,4666
+31DEC2025,TAS,603,South East,953
+31DEC2025,TAS,604,West and North West,3606
+31DEC2025,VIC,201,Ballarat,6734
+31DEC2025,VIC,202,Bendigo,7641
+31DEC2025,VIC,203,Geelong,13493
+31DEC2025,VIC,204,Hume,6573
+31DEC2025,VIC,205,Latrobe - Gippsland,11113
+31DEC2025,VIC,206,Melbourne - Inner,12066
+31DEC2025,VIC,207,Melbourne - Inner East,7461
+31DEC2025,VIC,208,Melbourne - Inner South,9551
+31DEC2025,VIC,209,Melbourne - North East,17670
+31DEC2025,VIC,210,Melbourne - North West,14979
+31DEC2025,VIC,211,Melbourne - Outer East,16518
+31DEC2025,VIC,212,Melbourne - South East,24432
+31DEC2025,VIC,213,Melbourne - West,30180
+31DEC2025,VIC,214,Mornington Peninsula,11491
+31DEC2025,VIC,215,North West,5545
+31DEC2025,VIC,216,Shepparton,5194
+31DEC2025,VIC,217,Warrnambool and South West,4494
+31DEC2025,VIC,Other,VIC - Other,<11
+31DEC2025,WA,501,Bunbury,5372
+31DEC2025,WA,502,Mandurah,3168
+31DEC2025,WA,503,Perth - Inner,3095
+31DEC2025,WA,504,Perth - North East,8360
+31DEC2025,WA,505,Perth - North West,13873
+31DEC2025,WA,506,Perth - South East,13590
+31DEC2025,WA,507,Perth - South West,12076
+31DEC2025,WA,509,Western Australia - Wheat Belt,3204
+31DEC2025,WA,510,Western Australia - Outback (North),2063
+31DEC2025,WA,511,Western Australia - Outback (South),2876
+31DEC2025,WA,Other,WA - Other,18
+30SEP2025,ACT,801,Australian Capital Territory,12259
+30SEP2025,ACT,Other,ACT - Other,<11
+30SEP2025,MIS,Other,MIS - Other,20
+30SEP2025,NSW,101,Capital Region,6640
+30SEP2025,NSW,102,Central Coast,12767
+30SEP2025,NSW,103,Central West,6612
+30SEP2025,NSW,104,Coffs Harbour - Grafton,5039
+30SEP2025,NSW,105,Far West and Orana,3750
+30SEP2025,NSW,106,Hunter Valley exc Newcastle,12348
+30SEP2025,NSW,107,Illawarra,9421
+30SEP2025,NSW,108,Mid North Coast,9198
+30SEP2025,NSW,109,Murray,4384
+30SEP2025,NSW,110,New England and North West,5717
+30SEP2025,NSW,111,Newcastle and Lake Macquarie,14998
+30SEP2025,NSW,112,Richmond - Tweed,8846
+30SEP2025,NSW,113,Riverina,4881
+30SEP2025,NSW,114,Southern Highlands and Shoalhaven,4645
+30SEP2025,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5406
+30SEP2025,NSW,116,Sydney - Blacktown,12303
+30SEP2025,NSW,117,Sydney - City and Inner South,4910
+30SEP2025,NSW,118,Sydney - Eastern Suburbs,3987
+30SEP2025,NSW,119,Sydney - Inner South West,13341
+30SEP2025,NSW,120,Sydney - Inner West,4814
+30SEP2025,NSW,121,Sydney - North Sydney and Hornsby,6402
+30SEP2025,NSW,122,Sydney - Northern Beaches,4383
+30SEP2025,NSW,123,Sydney - Outer South West,10911
+30SEP2025,NSW,124,Sydney - Outer West and Blue Mountains,11997
+30SEP2025,NSW,125,Sydney - Parramatta,11522
+30SEP2025,NSW,126,Sydney - Ryde,3604
+30SEP2025,NSW,127,Sydney - South West,13415
+30SEP2025,NSW,128,Sydney - Sutherland,5052
+30SEP2025,NSW,Other,NSW - Other,27
+30SEP2025,NT,701,Darwin,3806
+30SEP2025,NT,702,Northern Territory - Outback,2778
+30SEP2025,NT,Other,NT - Other,63
+30SEP2025,OT,901,Other Territories,82
+30SEP2025,QLD,301,Brisbane - East,7630
+30SEP2025,QLD,302,Brisbane - North,6064
+30SEP2025,QLD,303,Brisbane - South,8636
+30SEP2025,QLD,304,Brisbane - West,4505
+30SEP2025,QLD,305,Brisbane Inner City,5053
+30SEP2025,QLD,306,Cairns,7095
+30SEP2025,QLD,307,Darling Downs - Maranoa,3818
+30SEP2025,QLD,308,Central Queensland,8534
+30SEP2025,QLD,309,Gold Coast,17032
+30SEP2025,QLD,310,Ipswich,14559
+30SEP2025,QLD,311,Logan - Beaudesert,14488
+30SEP2025,QLD,312,Mackay - Isaac - Whitsunday,4799
+30SEP2025,QLD,313,Moreton Bay - North,11456
+30SEP2025,QLD,314,Moreton Bay - South,7281
+30SEP2025,QLD,315,Queensland - Outback,1872
+30SEP2025,QLD,316,Sunshine Coast,11837
+30SEP2025,QLD,317,Toowoomba,5947
+30SEP2025,QLD,318,Townsville,8316
+30SEP2025,QLD,319,Wide Bay,12641
+30SEP2025,QLD,Other,QLD - Other,12
+30SEP2025,SA,401,Adelaide - Central and Hills,8007
+30SEP2025,SA,402,Adelaide - North,21139
+30SEP2025,SA,403,Adelaide - South,13994
+30SEP2025,SA,404,Adelaide - West,7884
+30SEP2025,SA,405,Barossa - Yorke - Mid North,3757
+30SEP2025,SA,406,South Australia - Outback,2606
+30SEP2025,SA,407,South Australia - South East,6658
+30SEP2025,SA,Other,SA - Other,<11
+30SEP2025,TAS,601,Hobart,7129
+30SEP2025,TAS,602,Launceston and North East,4617
+30SEP2025,TAS,603,South East,937
+30SEP2025,TAS,604,West and North West,3537
+30SEP2025,TAS,Other,TAS - Other,<11
+30SEP2025,VIC,201,Ballarat,6659
+30SEP2025,VIC,202,Bendigo,7538
+30SEP2025,VIC,203,Geelong,13262
+30SEP2025,VIC,204,Hume,6493
+30SEP2025,VIC,205,Latrobe - Gippsland,10893
+30SEP2025,VIC,206,Melbourne - Inner,11885
+30SEP2025,VIC,207,Melbourne - Inner East,7361
+30SEP2025,VIC,208,Melbourne - Inner South,9451
+30SEP2025,VIC,209,Melbourne - North East,17389
+30SEP2025,VIC,210,Melbourne - North West,14850
+30SEP2025,VIC,211,Melbourne - Outer East,16277
+30SEP2025,VIC,212,Melbourne - South East,24140
+30SEP2025,VIC,213,Melbourne - West,30012
+30SEP2025,VIC,214,Mornington Peninsula,11424
+30SEP2025,VIC,215,North West,5506
+30SEP2025,VIC,216,Shepparton,5120
+30SEP2025,VIC,217,Warrnambool and South West,4430
+30SEP2025,VIC,Other,VIC - Other,14
+30SEP2025,WA,501,Bunbury,5271
+30SEP2025,WA,502,Mandurah,3075
+30SEP2025,WA,503,Perth - Inner,3062
+30SEP2025,WA,504,Perth - North East,8233
+30SEP2025,WA,505,Perth - North West,13623
+30SEP2025,WA,506,Perth - South East,13417
+30SEP2025,WA,507,Perth - South West,11824
+30SEP2025,WA,509,Western Australia - Wheat Belt,3122
+30SEP2025,WA,510,Western Australia - Outback (North),2030
+30SEP2025,WA,511,Western Australia - Outback (South),2814
+30SEP2025,WA,Other,WA - Other,98
+30JUN2025,ACT,801,Australian Capital Territory,12034
+30JUN2025,ACT,Other,ACT - Other,<11
+30JUN2025,MIS,Other,MIS - Other,333
+30JUN2025,NSW,101,Capital Region,6529
+30JUN2025,NSW,102,Central Coast,12536
+30JUN2025,NSW,103,Central West,6563
+30JUN2025,NSW,104,Coffs Harbour - Grafton,4982
+30JUN2025,NSW,105,Far West and Orana,3751
+30JUN2025,NSW,106,Hunter Valley exc Newcastle,12150
+30JUN2025,NSW,107,Illawarra,9232
+30JUN2025,NSW,108,Mid North Coast,9103
+30JUN2025,NSW,109,Murray,4339
+30JUN2025,NSW,110,New England and North West,5658
+30JUN2025,NSW,111,Newcastle and Lake Macquarie,14827
+30JUN2025,NSW,112,Richmond - Tweed,8652
+30JUN2025,NSW,113,Riverina,4843
+30JUN2025,NSW,114,Southern Highlands and Shoalhaven,4572
+30JUN2025,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5267
+30JUN2025,NSW,116,Sydney - Blacktown,12125
+30JUN2025,NSW,117,Sydney - City and Inner South,4829
+30JUN2025,NSW,118,Sydney - Eastern Suburbs,3955
+30JUN2025,NSW,119,Sydney - Inner South West,13118
+30JUN2025,NSW,120,Sydney - Inner West,4747
+30JUN2025,NSW,121,Sydney - North Sydney and Hornsby,6347
+30JUN2025,NSW,122,Sydney - Northern Beaches,4311
+30JUN2025,NSW,123,Sydney - Outer South West,10707
+30JUN2025,NSW,124,Sydney - Outer West and Blue Mountains,11727
+30JUN2025,NSW,125,Sydney - Parramatta,11383
+30JUN2025,NSW,126,Sydney - Ryde,3593
+30JUN2025,NSW,127,Sydney - South West,13075
+30JUN2025,NSW,128,Sydney - Sutherland,4973
+30JUN2025,NSW,Other,NSW - Other,24
+30JUN2025,NT,701,Darwin,3800
+30JUN2025,NT,702,Northern Territory - Outback,2670
+30JUN2025,NT,Other,NT - Other,67
+30JUN2025,OT,901,Other Territories,79
+30JUN2025,QLD,301,Brisbane - East,7532
+30JUN2025,QLD,302,Brisbane - North,6002
+30JUN2025,QLD,303,Brisbane - South,8561
+30JUN2025,QLD,304,Brisbane - West,4445
+30JUN2025,QLD,305,Brisbane Inner City,4952
+30JUN2025,QLD,306,Cairns,6950
+30JUN2025,QLD,307,Darling Downs - Maranoa,3761
+30JUN2025,QLD,308,Central Queensland,8373
+30JUN2025,QLD,309,Gold Coast,16806
+30JUN2025,QLD,310,Ipswich,14319
+30JUN2025,QLD,311,Logan - Beaudesert,14211
+30JUN2025,QLD,312,Mackay - Isaac - Whitsunday,4778
+30JUN2025,QLD,313,Moreton Bay - North,11273
+30JUN2025,QLD,314,Moreton Bay - South,7184
+30JUN2025,QLD,315,Queensland - Outback,1857
+30JUN2025,QLD,316,Sunshine Coast,11596
+30JUN2025,QLD,317,Toowoomba,5892
+30JUN2025,QLD,318,Townsville,8253
+30JUN2025,QLD,319,Wide Bay,12503
+30JUN2025,QLD,Other,QLD - Other,<11
+30JUN2025,SA,401,Adelaide - Central and Hills,7832
+30JUN2025,SA,402,Adelaide - North,20744
+30JUN2025,SA,403,Adelaide - South,13690
+30JUN2025,SA,404,Adelaide - West,7711
+30JUN2025,SA,405,Barossa - Yorke - Mid North,3686
+30JUN2025,SA,406,South Australia - Outback,2583
+30JUN2025,SA,407,South Australia - South East,6516
+30JUN2025,SA,Other,SA - Other,<11
+30JUN2025,TAS,601,Hobart,6953
+30JUN2025,TAS,602,Launceston and North East,4503
+30JUN2025,TAS,603,South East,911
+30JUN2025,TAS,604,West and North West,3464
+30JUN2025,VIC,201,Ballarat,6511
+30JUN2025,VIC,202,Bendigo,7409
+30JUN2025,VIC,203,Geelong,13051
+30JUN2025,VIC,204,Hume,6408
+30JUN2025,VIC,205,Latrobe - Gippsland,10685
+30JUN2025,VIC,206,Melbourne - Inner,11643
+30JUN2025,VIC,207,Melbourne - Inner East,7297
+30JUN2025,VIC,208,Melbourne - Inner South,9280
+30JUN2025,VIC,209,Melbourne - North East,17075
+30JUN2025,VIC,210,Melbourne - North West,14739
+30JUN2025,VIC,211,Melbourne - Outer East,16044
+30JUN2025,VIC,212,Melbourne - South East,23802
+30JUN2025,VIC,213,Melbourne - West,29551
+30JUN2025,VIC,214,Mornington Peninsula,11242
+30JUN2025,VIC,215,North West,5435
+30JUN2025,VIC,216,Shepparton,5008
+30JUN2025,VIC,217,Warrnambool and South West,4389
+30JUN2025,VIC,Other,VIC - Other,<11
+30JUN2025,WA,501,Bunbury,5116
+30JUN2025,WA,502,Mandurah,2964
+30JUN2025,WA,503,Perth - Inner,2995
+30JUN2025,WA,504,Perth - North East,8079
+30JUN2025,WA,505,Perth - North West,13296
+30JUN2025,WA,506,Perth - South East,13225
+30JUN2025,WA,507,Perth - South West,11527
+30JUN2025,WA,509,Western Australia - Wheat Belt,3053
+30JUN2025,WA,510,Western Australia - Outback (North),1967
+30JUN2025,WA,511,Western Australia - Outback (South),2771
+30JUN2025,WA,Other,WA - Other,90
+31MAR2025,ACT,-,Other,<11
+31MAR2025,ACT,801,Australian Capital Territory,11692
+31MAR2025,MIS,-,Other,21
+31MAR2025,NSW,-,Other,<11
+31MAR2025,NSW,101,Capital Region,6378
+31MAR2025,NSW,102,Central Coast,12100
+31MAR2025,NSW,103,Central West,6417
+31MAR2025,NSW,104,Coffs Harbour - Grafton,4864
+31MAR2025,NSW,105,Far West and Orana,3711
+31MAR2025,NSW,106,Hunter Valley exc Newcastle,11851
+31MAR2025,NSW,107,Illawarra,8909
+31MAR2025,NSW,108,Mid North Coast,8894
+31MAR2025,NSW,109,Murray,4207
+31MAR2025,NSW,110,New England and North West,5503
+31MAR2025,NSW,111,Newcastle and Lake Macquarie,14548
+31MAR2025,NSW,112,Richmond - Tweed,8410
+31MAR2025,NSW,113,Riverina,4744
+31MAR2025,NSW,114,Southern Highlands and Shoalhaven,4472
+31MAR2025,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5075
+31MAR2025,NSW,116,Sydney - Blacktown,11828
+31MAR2025,NSW,117,Sydney - City and Inner South,4710
+31MAR2025,NSW,118,Sydney - Eastern Suburbs,3842
+31MAR2025,NSW,119,Sydney - Inner South West,12755
+31MAR2025,NSW,120,Sydney - Inner West,4611
+31MAR2025,NSW,121,Sydney - North Sydney and Hornsby,6179
+31MAR2025,NSW,122,Sydney - Northern Beaches,4176
+31MAR2025,NSW,123,Sydney - Outer South West,10300
+31MAR2025,NSW,124,Sydney - Outer West and Blue Mountains,11379
+31MAR2025,NSW,125,Sydney - Parramatta,11124
+31MAR2025,NSW,126,Sydney - Ryde,3539
+31MAR2025,NSW,127,Sydney - South West,12650
+31MAR2025,NSW,128,Sydney - Sutherland,4793
+31MAR2025,NSW,801,Australian Capital Territory,<11
+31MAR2025,NSW,901,Other Territories,<11
+31MAR2025,NT,-,Other,<11
+31MAR2025,NT,315,Queensland - Outback,<11
+31MAR2025,NT,406,South Australia - Outback,48
+31MAR2025,NT,510,Western Australia - Outback (North),<11
+31MAR2025,NT,511,Western Australia - Outback (South),11
+31MAR2025,NT,701,Darwin,3702
+31MAR2025,NT,702,Northern Territory - Outback,2636
+31MAR2025,OT,901,Other Territories,75
+31MAR2025,QLD,-,Other,<11
+31MAR2025,QLD,301,Brisbane - East,7329
+31MAR2025,QLD,302,Brisbane - North,5847
+31MAR2025,QLD,303,Brisbane - South,8364
+31MAR2025,QLD,304,Brisbane - West,4323
+31MAR2025,QLD,305,Brisbane Inner City,4821
+31MAR2025,QLD,306,Cairns,6817
+31MAR2025,QLD,307,Darling Downs - Maranoa,3697
+31MAR2025,QLD,308,Central Queensland,8165
+31MAR2025,QLD,309,Gold Coast,16211
+31MAR2025,QLD,310,Ipswich,13896
+31MAR2025,QLD,311,Logan - Beaudesert,13708
+31MAR2025,QLD,312,Mackay - Isaac - Whitsunday,4647
+31MAR2025,QLD,313,Moreton Bay - North,10883
+31MAR2025,QLD,314,Moreton Bay - South,6985
+31MAR2025,QLD,315,Queensland - Outback,1812
+31MAR2025,QLD,316,Sunshine Coast,11217
+31MAR2025,QLD,317,Toowoomba,5701
+31MAR2025,QLD,318,Townsville,8010
+31MAR2025,QLD,319,Wide Bay,12242
+31MAR2025,QLD,702,Northern Territory - Outback,<11
+31MAR2025,SA,-,Other,<11
+31MAR2025,SA,401,Adelaide - Central and Hills,7600
+31MAR2025,SA,402,Adelaide - North,20193
+31MAR2025,SA,403,Adelaide - South,13190
+31MAR2025,SA,404,Adelaide - West,7494
+31MAR2025,SA,405,Barossa - Yorke - Mid North,3568
+31MAR2025,SA,406,South Australia - Outback,2515
+31MAR2025,SA,407,South Australia - South East,6298
+31MAR2025,TAS,601,Hobart,6732
+31MAR2025,TAS,602,Launceston and North East,4384
+31MAR2025,TAS,603,South East,881
+31MAR2025,TAS,604,West and North West,3335
+31MAR2025,VIC,-,Other,<11
+31MAR2025,VIC,201,Ballarat,6317
+31MAR2025,VIC,202,Bendigo,7208
+31MAR2025,VIC,203,Geelong,12689
+31MAR2025,VIC,204,Hume,6190
+31MAR2025,VIC,205,Latrobe - Gippsland,10313
+31MAR2025,VIC,206,Melbourne - Inner,11322
+31MAR2025,VIC,207,Melbourne - Inner East,7086
+31MAR2025,VIC,208,Melbourne - Inner South,8973
+31MAR2025,VIC,209,Melbourne - North East,16378
+31MAR2025,VIC,210,Melbourne - North West,14272
+31MAR2025,VIC,211,Melbourne - Outer East,15550
+31MAR2025,VIC,212,Melbourne - South East,23067
+31MAR2025,VIC,213,Melbourne - West,28431
+31MAR2025,VIC,214,Mornington Peninsula,10809
+31MAR2025,VIC,215,North West,5242
+31MAR2025,VIC,216,Shepparton,4828
+31MAR2025,VIC,217,Warrnambool and South West,4289
+31MAR2025,WA,-,Other,<11
+31MAR2025,WA,406,South Australia - Outback,23
+31MAR2025,WA,501,Bunbury,4969
+31MAR2025,WA,502,Mandurah,2870
+31MAR2025,WA,503,Perth - Inner,2908
+31MAR2025,WA,504,Perth - North East,7850
+31MAR2025,WA,505,Perth - North West,12856
+31MAR2025,WA,506,Perth - South East,12766
+31MAR2025,WA,507,Perth - South West,11124
+31MAR2025,WA,509,Western Australia - Wheat Belt,2957
+31MAR2025,WA,510,Western Australia - Outback (North),1916
+31MAR2025,WA,511,Western Australia - Outback (South),2660
+31MAR2025,WA,702,Northern Territory - Outback,49
+31MAR2025,WA,901,Other Territories,<11
+31DEC2024,ACT,-,Other,<11
+31DEC2024,ACT,801,Australian Capital Territory,11299
+31DEC2024,MIS,-,Other,16
+31DEC2024,NSW,-,Other,<11
+31DEC2024,NSW,101,Capital Region,6234
+31DEC2024,NSW,102,Central Coast,11758
+31DEC2024,NSW,103,Central West,6231
+31DEC2024,NSW,104,Coffs Harbour - Grafton,4670
+31DEC2024,NSW,105,Far West and Orana,3653
+31DEC2024,NSW,106,Hunter Valley exc Newcastle,11499
+31DEC2024,NSW,107,Illawarra,8644
+31DEC2024,NSW,108,Mid North Coast,8578
+31DEC2024,NSW,109,Murray,4089
+31DEC2024,NSW,110,New England and North West,5338
+31DEC2024,NSW,111,Newcastle and Lake Macquarie,14215
+31DEC2024,NSW,112,Richmond - Tweed,8154
+31DEC2024,NSW,113,Riverina,4579
+31DEC2024,NSW,114,Southern Highlands and Shoalhaven,4374
+31DEC2024,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4864
+31DEC2024,NSW,116,Sydney - Blacktown,11446
+31DEC2024,NSW,117,Sydney - City and Inner South,4634
+31DEC2024,NSW,118,Sydney - Eastern Suburbs,3748
+31DEC2024,NSW,119,Sydney - Inner South West,12372
+31DEC2024,NSW,120,Sydney - Inner West,4526
+31DEC2024,NSW,121,Sydney - North Sydney and Hornsby,6025
+31DEC2024,NSW,122,Sydney - Northern Beaches,4066
+31DEC2024,NSW,123,Sydney - Outer South West,9816
+31DEC2024,NSW,124,Sydney - Outer West and Blue Mountains,10983
+31DEC2024,NSW,125,Sydney - Parramatta,10841
+31DEC2024,NSW,126,Sydney - Ryde,3461
+31DEC2024,NSW,127,Sydney - South West,12143
+31DEC2024,NSW,128,Sydney - Sutherland,4636
+31DEC2024,NSW,801,Australian Capital Territory,<11
+31DEC2024,NSW,901,Other Territories,11
+31DEC2024,NT,-,Other,<11
+31DEC2024,NT,315,Queensland - Outback,<11
+31DEC2024,NT,406,South Australia - Outback,51
+31DEC2024,NT,510,Western Australia - Outback (North),<11
+31DEC2024,NT,511,Western Australia - Outback (South),<11
+31DEC2024,NT,701,Darwin,3592
+31DEC2024,NT,702,Northern Territory - Outback,2605
+31DEC2024,OT,901,Other Territories,75
+31DEC2024,QLD,-,Other,<11
+31DEC2024,QLD,301,Brisbane - East,7064
+31DEC2024,QLD,302,Brisbane - North,5639
+31DEC2024,QLD,303,Brisbane - South,8037
+31DEC2024,QLD,304,Brisbane - West,4136
+31DEC2024,QLD,305,Brisbane Inner City,4670
+31DEC2024,QLD,306,Cairns,6646
+31DEC2024,QLD,307,Darling Downs - Maranoa,3597
+31DEC2024,QLD,308,Central Queensland,7922
+31DEC2024,QLD,309,Gold Coast,15566
+31DEC2024,QLD,310,Ipswich,13353
+31DEC2024,QLD,311,Logan - Beaudesert,13087
+31DEC2024,QLD,312,Mackay - Isaac - Whitsunday,4516
+31DEC2024,QLD,313,Moreton Bay - North,10403
+31DEC2024,QLD,314,Moreton Bay - South,6662
+31DEC2024,QLD,315,Queensland - Outback,1755
+31DEC2024,QLD,316,Sunshine Coast,10856
+31DEC2024,QLD,317,Toowoomba,5543
+31DEC2024,QLD,318,Townsville,7733
+31DEC2024,QLD,319,Wide Bay,11952
+31DEC2024,QLD,702,Northern Territory - Outback,<11
+31DEC2024,SA,-,Other,<11
+31DEC2024,SA,401,Adelaide - Central and Hills,7352
+31DEC2024,SA,402,Adelaide - North,19612
+31DEC2024,SA,403,Adelaide - South,12747
+31DEC2024,SA,404,Adelaide - West,7296
+31DEC2024,SA,405,Barossa - Yorke - Mid North,3460
+31DEC2024,SA,406,South Australia - Outback,2464
+31DEC2024,SA,407,South Australia - South East,6092
+31DEC2024,TAS,601,Hobart,6483
+31DEC2024,TAS,602,Launceston and North East,4233
+31DEC2024,TAS,603,South East,843
+31DEC2024,TAS,604,West and North West,3234
+31DEC2024,VIC,-,Other,11
+31DEC2024,VIC,201,Ballarat,6036
+31DEC2024,VIC,202,Bendigo,6929
+31DEC2024,VIC,203,Geelong,12267
+31DEC2024,VIC,204,Hume,5942
+31DEC2024,VIC,205,Latrobe - Gippsland,9982
+31DEC2024,VIC,206,Melbourne - Inner,10887
+31DEC2024,VIC,207,Melbourne - Inner East,6911
+31DEC2024,VIC,208,Melbourne - Inner South,8656
+31DEC2024,VIC,209,Melbourne - North East,15781
+31DEC2024,VIC,210,Melbourne - North West,13796
+31DEC2024,VIC,211,Melbourne - Outer East,15047
+31DEC2024,VIC,212,Melbourne - South East,22197
+31DEC2024,VIC,213,Melbourne - West,27284
+31DEC2024,VIC,214,Mornington Peninsula,10400
+31DEC2024,VIC,215,North West,5092
+31DEC2024,VIC,216,Shepparton,4620
+31DEC2024,VIC,217,Warrnambool and South West,4151
+31DEC2024,WA,-,Other,<11
+31DEC2024,WA,406,South Australia - Outback,22
+31DEC2024,WA,501,Bunbury,4818
+31DEC2024,WA,502,Mandurah,2761
+31DEC2024,WA,503,Perth - Inner,2811
+31DEC2024,WA,504,Perth - North East,7552
+31DEC2024,WA,505,Perth - North West,12326
+31DEC2024,WA,506,Perth - South East,12300
+31DEC2024,WA,507,Perth - South West,10663
+31DEC2024,WA,509,Western Australia - Wheat Belt,2851
+31DEC2024,WA,510,Western Australia - Outback (North),1885
+31DEC2024,WA,511,Western Australia - Outback (South),2575
+31DEC2024,WA,702,Northern Territory - Outback,39
+31DEC2024,WA,901,Other Territories,<11
+30SEP2024,ACT,-,Other,<11
+30SEP2024,ACT,801,Australian Capital Territory,11140
+30SEP2024,MIS,-,Other,21
+30SEP2024,NSW,-,Other,<11
+30SEP2024,NSW,101,Capital Region,6103
+30SEP2024,NSW,102,Central Coast,11476
+30SEP2024,NSW,103,Central West,6172
+30SEP2024,NSW,104,Coffs Harbour - Grafton,4589
+30SEP2024,NSW,105,Far West and Orana,3608
+30SEP2024,NSW,106,Hunter Valley exc Newcastle,11357
+30SEP2024,NSW,107,Illawarra,8485
+30SEP2024,NSW,108,Mid North Coast,8470
+30SEP2024,NSW,109,Murray,3995
+30SEP2024,NSW,110,New England and North West,5287
+30SEP2024,NSW,111,Newcastle and Lake Macquarie,14091
+30SEP2024,NSW,112,Richmond - Tweed,7986
+30SEP2024,NSW,113,Riverina,4553
+30SEP2024,NSW,114,Southern Highlands and Shoalhaven,4302
+30SEP2024,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4747
+30SEP2024,NSW,116,Sydney - Blacktown,11251
+30SEP2024,NSW,117,Sydney - City and Inner South,4554
+30SEP2024,NSW,118,Sydney - Eastern Suburbs,3686
+30SEP2024,NSW,119,Sydney - Inner South West,12148
+30SEP2024,NSW,120,Sydney - Inner West,4427
+30SEP2024,NSW,121,Sydney - North Sydney and Hornsby,5947
+30SEP2024,NSW,122,Sydney - Northern Beaches,3980
+30SEP2024,NSW,123,Sydney - Outer South West,9639
+30SEP2024,NSW,124,Sydney - Outer West and Blue Mountains,10738
+30SEP2024,NSW,125,Sydney - Parramatta,10721
+30SEP2024,NSW,126,Sydney - Ryde,3408
+30SEP2024,NSW,127,Sydney - South West,11892
+30SEP2024,NSW,128,Sydney - Sutherland,4521
+30SEP2024,NSW,801,Australian Capital Territory,<11
+30SEP2024,NSW,901,Other Territories,11
+30SEP2024,NT,-,Other,<11
+30SEP2024,NT,315,Queensland - Outback,<11
+30SEP2024,NT,406,South Australia - Outback,49
+30SEP2024,NT,510,Western Australia - Outback (North),<11
+30SEP2024,NT,511,Western Australia - Outback (South),14
+30SEP2024,NT,701,Darwin,3574
+30SEP2024,NT,702,Northern Territory - Outback,2532
+30SEP2024,OT,901,Other Territories,69
+30SEP2024,QLD,-,Other,<11
+30SEP2024,QLD,301,Brisbane - East,6923
+30SEP2024,QLD,302,Brisbane - North,5542
+30SEP2024,QLD,303,Brisbane - South,7932
+30SEP2024,QLD,304,Brisbane - West,4085
+30SEP2024,QLD,305,Brisbane Inner City,4591
+30SEP2024,QLD,306,Cairns,6604
+30SEP2024,QLD,307,Darling Downs - Maranoa,3551
+30SEP2024,QLD,308,Central Queensland,7771
+30SEP2024,QLD,309,Gold Coast,15247
+30SEP2024,QLD,310,Ipswich,13086
+30SEP2024,QLD,311,Logan - Beaudesert,12758
+30SEP2024,QLD,312,Mackay - Isaac - Whitsunday,4440
+30SEP2024,QLD,313,Moreton Bay - North,10145
+30SEP2024,QLD,314,Moreton Bay - South,6519
+30SEP2024,QLD,315,Queensland - Outback,1708
+30SEP2024,QLD,316,Sunshine Coast,10656
+30SEP2024,QLD,317,Toowoomba,5458
+30SEP2024,QLD,318,Townsville,7563
+30SEP2024,QLD,319,Wide Bay,11763
+30SEP2024,QLD,702,Northern Territory - Outback,<11
+30SEP2024,SA,-,Other,<11
+30SEP2024,SA,401,Adelaide - Central and Hills,7251
+30SEP2024,SA,402,Adelaide - North,19299
+30SEP2024,SA,403,Adelaide - South,12534
+30SEP2024,SA,404,Adelaide - West,7232
+30SEP2024,SA,405,Barossa - Yorke - Mid North,3421
+30SEP2024,SA,406,South Australia - Outback,2441
+30SEP2024,SA,407,South Australia - South East,5956
+30SEP2024,TAS,-,Other,<11
+30SEP2024,TAS,601,Hobart,6366
+30SEP2024,TAS,602,Launceston and North East,4159
+30SEP2024,TAS,603,South East,817
+30SEP2024,TAS,604,West and North West,3171
+30SEP2024,VIC,-,Other,<11
+30SEP2024,VIC,201,Ballarat,5888
+30SEP2024,VIC,202,Bendigo,6782
+30SEP2024,VIC,203,Geelong,12083
+30SEP2024,VIC,204,Hume,5804
+30SEP2024,VIC,205,Latrobe - Gippsland,9782
+30SEP2024,VIC,206,Melbourne - Inner,10673
+30SEP2024,VIC,207,Melbourne - Inner East,6767
+30SEP2024,VIC,208,Melbourne - Inner South,8459
+30SEP2024,VIC,209,Melbourne - North East,15490
+30SEP2024,VIC,210,Melbourne - North West,13562
+30SEP2024,VIC,211,Melbourne - Outer East,14692
+30SEP2024,VIC,212,Melbourne - South East,21754
+30SEP2024,VIC,213,Melbourne - West,26769
+30SEP2024,VIC,214,Mornington Peninsula,10230
+30SEP2024,VIC,215,North West,5015
+30SEP2024,VIC,216,Shepparton,4504
+30SEP2024,VIC,217,Warrnambool and South West,4068
+30SEP2024,WA,-,Other,<11
+30SEP2024,WA,406,South Australia - Outback,18
+30SEP2024,WA,501,Bunbury,4741
+30SEP2024,WA,502,Mandurah,2677
+30SEP2024,WA,503,Perth - Inner,2778
+30SEP2024,WA,504,Perth - North East,7391
+30SEP2024,WA,505,Perth - North West,12004
+30SEP2024,WA,506,Perth - South East,12048
+30SEP2024,WA,507,Perth - South West,10403
+30SEP2024,WA,509,Western Australia - Wheat Belt,2774
+30SEP2024,WA,510,Western Australia - Outback (North),1824
+30SEP2024,WA,511,Western Australia - Outback (South),2524
+30SEP2024,WA,702,Northern Territory - Outback,36
+30SEP2024,WA,901,Other Territories,<11
+30JUN2024,ACT,-,Other,<11
+30JUN2024,ACT,801,Australian Capital Territory,10928
+30JUN2024,MIS,-,Other,26
+30JUN2024,NSW,-,Other,<11
+30JUN2024,NSW,101,Capital Region,5925
+30JUN2024,NSW,102,Central Coast,11142
+30JUN2024,NSW,103,Central West,6005
+30JUN2024,NSW,104,Coffs Harbour - Grafton,4501
+30JUN2024,NSW,105,Far West and Orana,3533
+30JUN2024,NSW,106,Hunter Valley exc Newcastle,11105
+30JUN2024,NSW,107,Illawarra,8276
+30JUN2024,NSW,108,Mid North Coast,8201
+30JUN2024,NSW,109,Murray,3855
+30JUN2024,NSW,110,New England and North West,5142
+30JUN2024,NSW,111,Newcastle and Lake Macquarie,13785
+30JUN2024,NSW,112,Richmond - Tweed,7751
+30JUN2024,NSW,113,Riverina,4444
+30JUN2024,NSW,114,Southern Highlands and Shoalhaven,4211
+30JUN2024,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4569
+30JUN2024,NSW,116,Sydney - Blacktown,10897
+30JUN2024,NSW,117,Sydney - City and Inner South,4456
+30JUN2024,NSW,118,Sydney - Eastern Suburbs,3632
+30JUN2024,NSW,119,Sydney - Inner South West,11852
+30JUN2024,NSW,120,Sydney - Inner West,4307
+30JUN2024,NSW,121,Sydney - North Sydney and Hornsby,5785
+30JUN2024,NSW,122,Sydney - Northern Beaches,3864
+30JUN2024,NSW,123,Sydney - Outer South West,9381
+30JUN2024,NSW,124,Sydney - Outer West and Blue Mountains,10437
+30JUN2024,NSW,125,Sydney - Parramatta,10458
+30JUN2024,NSW,126,Sydney - Ryde,3359
+30JUN2024,NSW,127,Sydney - South West,11584
+30JUN2024,NSW,128,Sydney - Sutherland,4393
+30JUN2024,NSW,801,Australian Capital Territory,<11
+30JUN2024,NSW,901,Other Territories,12
+30JUN2024,NT,-,Other,<11
+30JUN2024,NT,315,Queensland - Outback,<11
+30JUN2024,NT,406,South Australia - Outback,49
+30JUN2024,NT,510,Western Australia - Outback (North),<11
+30JUN2024,NT,511,Western Australia - Outback (South),15
+30JUN2024,NT,701,Darwin,3519
+30JUN2024,NT,702,Northern Territory - Outback,2438
+30JUN2024,OT,901,Other Territories,68
+30JUN2024,QLD,-,Other,<11
+30JUN2024,QLD,301,Brisbane - East,6674
+30JUN2024,QLD,302,Brisbane - North,5354
+30JUN2024,QLD,303,Brisbane - South,7749
+30JUN2024,QLD,304,Brisbane - West,3968
+30JUN2024,QLD,305,Brisbane Inner City,4501
+30JUN2024,QLD,306,Cairns,6404
+30JUN2024,QLD,307,Darling Downs - Maranoa,3469
+30JUN2024,QLD,308,Central Queensland,7654
+30JUN2024,QLD,309,Gold Coast,14882
+30JUN2024,QLD,310,Ipswich,12718
+30JUN2024,QLD,311,Logan - Beaudesert,12223
+30JUN2024,QLD,312,Mackay - Isaac - Whitsunday,4333
+30JUN2024,QLD,313,Moreton Bay - North,9766
+30JUN2024,QLD,314,Moreton Bay - South,6307
+30JUN2024,QLD,315,Queensland - Outback,1681
+30JUN2024,QLD,316,Sunshine Coast,10330
+30JUN2024,QLD,317,Toowoomba,5348
+30JUN2024,QLD,318,Townsville,7402
+30JUN2024,QLD,319,Wide Bay,11519
+30JUN2024,QLD,702,Northern Territory - Outback,<11
+30JUN2024,SA,-,Other,<11
+30JUN2024,SA,401,Adelaide - Central and Hills,7099
+30JUN2024,SA,402,Adelaide - North,18826
+30JUN2024,SA,403,Adelaide - South,12226
+30JUN2024,SA,404,Adelaide - West,7077
+30JUN2024,SA,405,Barossa - Yorke - Mid North,3377
+30JUN2024,SA,406,South Australia - Outback,2378
+30JUN2024,SA,407,South Australia - South East,5748
+30JUN2024,TAS,-,Other,<11
+30JUN2024,TAS,601,Hobart,6182
+30JUN2024,TAS,602,Launceston and North East,4073
+30JUN2024,TAS,603,South East,792
+30JUN2024,TAS,604,West and North West,3097
+30JUN2024,VIC,-,Other,<11
+30JUN2024,VIC,201,Ballarat,5714
+30JUN2024,VIC,202,Bendigo,6579
+30JUN2024,VIC,203,Geelong,11748
+30JUN2024,VIC,204,Hume,5599
+30JUN2024,VIC,205,Latrobe - Gippsland,9444
+30JUN2024,VIC,206,Melbourne - Inner,10401
+30JUN2024,VIC,207,Melbourne - Inner East,6623
+30JUN2024,VIC,208,Melbourne - Inner South,8178
+30JUN2024,VIC,209,Melbourne - North East,15069
+30JUN2024,VIC,210,Melbourne - North West,13135
+30JUN2024,VIC,211,Melbourne - Outer East,14304
+30JUN2024,VIC,212,Melbourne - South East,21170
+30JUN2024,VIC,213,Melbourne - West,25870
+30JUN2024,VIC,214,Mornington Peninsula,9866
+30JUN2024,VIC,215,North West,4910
+30JUN2024,VIC,216,Shepparton,4410
+30JUN2024,VIC,217,Warrnambool and South West,3980
+30JUN2024,WA,-,Other,<11
+30JUN2024,WA,406,South Australia - Outback,<11
+30JUN2024,WA,501,Bunbury,4600
+30JUN2024,WA,502,Mandurah,2558
+30JUN2024,WA,503,Perth - Inner,2676
+30JUN2024,WA,504,Perth - North East,7150
+30JUN2024,WA,505,Perth - North West,11600
+30JUN2024,WA,506,Perth - South East,11653
+30JUN2024,WA,507,Perth - South West,10006
+30JUN2024,WA,509,Western Australia - Wheat Belt,2700
+30JUN2024,WA,510,Western Australia - Outback (North),1746
+30JUN2024,WA,511,Western Australia - Outback (South),2423
+30JUN2024,WA,702,Northern Territory - Outback,31
+30JUN2024,WA,901,Other Territories,<11
+31MAR2024,ACT,-,Other,<11
+31MAR2024,ACT,801,Australian Capital Territory,10779
+31MAR2024,MIS,-,Other,62
+31MAR2024,NSW,-,Other,<11
+31MAR2024,NSW,101,Capital Region,5837
+31MAR2024,NSW,102,Central Coast,10975
+31MAR2024,NSW,103,Central West,5898
+31MAR2024,NSW,104,Coffs Harbour - Grafton,4439
+31MAR2024,NSW,105,Far West and Orana,3488
+31MAR2024,NSW,106,Hunter Valley exc Newcastle,10889
+31MAR2024,NSW,107,Illawarra,8113
+31MAR2024,NSW,108,Mid North Coast,8021
+31MAR2024,NSW,109,Murray,3783
+31MAR2024,NSW,110,New England and North West,5079
+31MAR2024,NSW,111,Newcastle and Lake Macquarie,13549
+31MAR2024,NSW,112,Richmond - Tweed,7586
+31MAR2024,NSW,113,Riverina,4383
+31MAR2024,NSW,114,Southern Highlands and Shoalhaven,4161
+31MAR2024,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4486
+31MAR2024,NSW,116,Sydney - Blacktown,10635
+31MAR2024,NSW,117,Sydney - City and Inner South,4392
+31MAR2024,NSW,118,Sydney - Eastern Suburbs,3552
+31MAR2024,NSW,119,Sydney - Inner South West,11650
+31MAR2024,NSW,120,Sydney - Inner West,4267
+31MAR2024,NSW,121,Sydney - North Sydney and Hornsby,5675
+31MAR2024,NSW,122,Sydney - Northern Beaches,3803
+31MAR2024,NSW,123,Sydney - Outer South West,9181
+31MAR2024,NSW,124,Sydney - Outer West and Blue Mountains,10297
+31MAR2024,NSW,125,Sydney - Parramatta,10354
+31MAR2024,NSW,126,Sydney - Ryde,3315
+31MAR2024,NSW,127,Sydney - South West,11355
+31MAR2024,NSW,128,Sydney - Sutherland,4286
+31MAR2024,NSW,801,Australian Capital Territory,<11
+31MAR2024,NSW,901,Other Territories,12
+31MAR2024,NT,-,Other,<11
+31MAR2024,NT,406,South Australia - Outback,51
+31MAR2024,NT,510,Western Australia - Outback (North),<11
+31MAR2024,NT,511,Western Australia - Outback (South),16
+31MAR2024,NT,701,Darwin,3480
+31MAR2024,NT,702,Northern Territory - Outback,2368
+31MAR2024,OT,901,Other Territories,64
+31MAR2024,QLD,-,Other,<11
+31MAR2024,QLD,301,Brisbane - East,6502
+31MAR2024,QLD,302,Brisbane - North,5230
+31MAR2024,QLD,303,Brisbane - South,7691
+31MAR2024,QLD,304,Brisbane - West,3900
+31MAR2024,QLD,305,Brisbane Inner City,4411
+31MAR2024,QLD,306,Cairns,6300
+31MAR2024,QLD,307,Darling Downs - Maranoa,3393
+31MAR2024,QLD,308,Central Queensland,7515
+31MAR2024,QLD,309,Gold Coast,14646
+31MAR2024,QLD,310,Ipswich,12485
+31MAR2024,QLD,311,Logan - Beaudesert,11894
+31MAR2024,QLD,312,Mackay - Isaac - Whitsunday,4303
+31MAR2024,QLD,313,Moreton Bay - North,9526
+31MAR2024,QLD,314,Moreton Bay - South,6143
+31MAR2024,QLD,315,Queensland - Outback,1603
+31MAR2024,QLD,316,Sunshine Coast,10120
+31MAR2024,QLD,317,Toowoomba,5264
+31MAR2024,QLD,318,Townsville,7305
+31MAR2024,QLD,319,Wide Bay,11362
+31MAR2024,QLD,702,Northern Territory - Outback,<11
+31MAR2024,SA,-,Other,<11
+31MAR2024,SA,401,Adelaide - Central and Hills,6967
+31MAR2024,SA,402,Adelaide - North,18557
+31MAR2024,SA,403,Adelaide - South,12006
+31MAR2024,SA,404,Adelaide - West,6982
+31MAR2024,SA,405,Barossa - Yorke - Mid North,3322
+31MAR2024,SA,406,South Australia - Outback,2338
+31MAR2024,SA,407,South Australia - South East,5652
+31MAR2024,TAS,601,Hobart,6073
+31MAR2024,TAS,602,Launceston and North East,4023
+31MAR2024,TAS,603,South East,788
+31MAR2024,TAS,604,West and North West,3063
+31MAR2024,VIC,-,Other,<11
+31MAR2024,VIC,201,Ballarat,5588
+31MAR2024,VIC,202,Bendigo,6451
+31MAR2024,VIC,203,Geelong,11508
+31MAR2024,VIC,204,Hume,5484
+31MAR2024,VIC,205,Latrobe - Gippsland,9311
+31MAR2024,VIC,206,Melbourne - Inner,10266
+31MAR2024,VIC,207,Melbourne - Inner East,6498
+31MAR2024,VIC,208,Melbourne - Inner South,7986
+31MAR2024,VIC,209,Melbourne - North East,14816
+31MAR2024,VIC,210,Melbourne - North West,12901
+31MAR2024,VIC,211,Melbourne - Outer East,14077
+31MAR2024,VIC,212,Melbourne - South East,20760
+31MAR2024,VIC,213,Melbourne - West,25324
+31MAR2024,VIC,214,Mornington Peninsula,9685
+31MAR2024,VIC,215,North West,4808
+31MAR2024,VIC,216,Shepparton,4341
+31MAR2024,VIC,217,Warrnambool and South West,3944
+31MAR2024,WA,-,Other,<11
+31MAR2024,WA,406,South Australia - Outback,<11
+31MAR2024,WA,501,Bunbury,4550
+31MAR2024,WA,502,Mandurah,2512
+31MAR2024,WA,503,Perth - Inner,2625
+31MAR2024,WA,504,Perth - North East,7032
+31MAR2024,WA,505,Perth - North West,11375
+31MAR2024,WA,506,Perth - South East,11435
+31MAR2024,WA,507,Perth - South West,9852
+31MAR2024,WA,509,Western Australia - Wheat Belt,2649
+31MAR2024,WA,510,Western Australia - Outback (North),1708
+31MAR2024,WA,511,Western Australia - Outback (South),2405
+31MAR2024,WA,702,Northern Territory - Outback,26
+31MAR2024,WA,901,Other Territories,<11
+31DEC2023,ACT,-,Other,<11
+31DEC2023,ACT,801,Australian Capital Territory,10747
+31DEC2023,MIS,-,Other,120
+31DEC2023,NSW,-,Other,<11
+31DEC2023,NSW,101,Capital Region,5837
+31DEC2023,NSW,102,Central Coast,10898
+31DEC2023,NSW,103,Central West,5885
+31DEC2023,NSW,104,Coffs Harbour - Grafton,4431
+31DEC2023,NSW,105,Far West and Orana,3491
+31DEC2023,NSW,106,Hunter Valley exc Newcastle,10861
+31DEC2023,NSW,107,Illawarra,8056
+31DEC2023,NSW,108,Mid North Coast,8022
+31DEC2023,NSW,109,Murray,3738
+31DEC2023,NSW,110,New England and North West,5097
+31DEC2023,NSW,111,Newcastle and Lake Macquarie,13496
+31DEC2023,NSW,112,Richmond - Tweed,7552
+31DEC2023,NSW,113,Riverina,4365
+31DEC2023,NSW,114,Southern Highlands and Shoalhaven,4149
+31DEC2023,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4465
+31DEC2023,NSW,116,Sydney - Blacktown,10563
+31DEC2023,NSW,117,Sydney - City and Inner South,4376
+31DEC2023,NSW,118,Sydney - Eastern Suburbs,3587
+31DEC2023,NSW,119,Sydney - Inner South West,11612
+31DEC2023,NSW,120,Sydney - Inner West,4251
+31DEC2023,NSW,121,Sydney - North Sydney and Hornsby,5669
+31DEC2023,NSW,122,Sydney - Northern Beaches,3798
+31DEC2023,NSW,123,Sydney - Outer South West,9091
+31DEC2023,NSW,124,Sydney - Outer West and Blue Mountains,10235
+31DEC2023,NSW,125,Sydney - Parramatta,10338
+31DEC2023,NSW,126,Sydney - Ryde,3303
+31DEC2023,NSW,127,Sydney - South West,11270
+31DEC2023,NSW,128,Sydney - Sutherland,4212
+31DEC2023,NSW,801,Australian Capital Territory,<11
+31DEC2023,NSW,901,Other Territories,13
+31DEC2023,NT,-,Other,<11
+31DEC2023,NT,406,South Australia - Outback,52
+31DEC2023,NT,510,Western Australia - Outback (North),<11
+31DEC2023,NT,511,Western Australia - Outback (South),16
+31DEC2023,NT,701,Darwin,3523
+31DEC2023,NT,702,Northern Territory - Outback,2349
+31DEC2023,OT,901,Other Territories,56
+31DEC2023,QLD,-,Other,<11
+31DEC2023,QLD,301,Brisbane - East,6471
+31DEC2023,QLD,302,Brisbane - North,5179
+31DEC2023,QLD,303,Brisbane - South,7606
+31DEC2023,QLD,304,Brisbane - West,3826
+31DEC2023,QLD,305,Brisbane Inner City,4402
+31DEC2023,QLD,306,Cairns,6267
+31DEC2023,QLD,307,Darling Downs - Maranoa,3383
+31DEC2023,QLD,308,Central Queensland,7483
+31DEC2023,QLD,309,Gold Coast,14618
+31DEC2023,QLD,310,Ipswich,12388
+31DEC2023,QLD,311,Logan - Beaudesert,11734
+31DEC2023,QLD,312,Mackay - Isaac - Whitsunday,4331
+31DEC2023,QLD,313,Moreton Bay - North,9428
+31DEC2023,QLD,314,Moreton Bay - South,6093
+31DEC2023,QLD,315,Queensland - Outback,1560
+31DEC2023,QLD,316,Sunshine Coast,10055
+31DEC2023,QLD,317,Toowoomba,5218
+31DEC2023,QLD,318,Townsville,7316
+31DEC2023,QLD,319,Wide Bay,11331
+31DEC2023,QLD,702,Northern Territory - Outback,<11
+31DEC2023,SA,-,Other,<11
+31DEC2023,SA,401,Adelaide - Central and Hills,6942
+31DEC2023,SA,402,Adelaide - North,18378
+31DEC2023,SA,403,Adelaide - South,11948
+31DEC2023,SA,404,Adelaide - West,6980
+31DEC2023,SA,405,Barossa - Yorke - Mid North,3318
+31DEC2023,SA,406,South Australia - Outback,2337
+31DEC2023,SA,407,South Australia - South East,5594
+31DEC2023,TAS,601,Hobart,6027
+31DEC2023,TAS,602,Launceston and North East,4017
+31DEC2023,TAS,603,South East,772
+31DEC2023,TAS,604,West and North West,3038
+31DEC2023,VIC,-,Other,<11
+31DEC2023,VIC,201,Ballarat,5568
+31DEC2023,VIC,202,Bendigo,6459
+31DEC2023,VIC,203,Geelong,11463
+31DEC2023,VIC,204,Hume,5501
+31DEC2023,VIC,205,Latrobe - Gippsland,9278
+31DEC2023,VIC,206,Melbourne - Inner,10214
+31DEC2023,VIC,207,Melbourne - Inner East,6496
+31DEC2023,VIC,208,Melbourne - Inner South,7958
+31DEC2023,VIC,209,Melbourne - North East,14744
+31DEC2023,VIC,210,Melbourne - North West,12831
+31DEC2023,VIC,211,Melbourne - Outer East,14036
+31DEC2023,VIC,212,Melbourne - South East,20630
+31DEC2023,VIC,213,Melbourne - West,25242
+31DEC2023,VIC,214,Mornington Peninsula,9679
+31DEC2023,VIC,215,North West,4820
+31DEC2023,VIC,216,Shepparton,4338
+31DEC2023,VIC,217,Warrnambool and South West,3948
+31DEC2023,WA,-,Other,<11
+31DEC2023,WA,406,South Australia - Outback,<11
+31DEC2023,WA,501,Bunbury,4514
+31DEC2023,WA,502,Mandurah,2467
+31DEC2023,WA,503,Perth - Inner,2605
+31DEC2023,WA,504,Perth - North East,6978
+31DEC2023,WA,505,Perth - North West,11263
+31DEC2023,WA,506,Perth - South East,11297
+31DEC2023,WA,507,Perth - South West,9772
+31DEC2023,WA,509,Western Australia - Wheat Belt,2610
+31DEC2023,WA,510,Western Australia - Outback (North),1703
+31DEC2023,WA,511,Western Australia - Outback (South),2393
+31DEC2023,WA,702,Northern Territory - Outback,19
+31DEC2023,WA,901,Other Territories,<11
+30SEP2023,ACT,-,Other,<11
+30SEP2023,ACT,801,Australian Capital Territory,10594
+30SEP2023,MIS,-,Other,<11
+30SEP2023,NSW,-,Other,<11
+30SEP2023,NSW,101,Capital Region,5722
+30SEP2023,NSW,102,Central Coast,10666
+30SEP2023,NSW,103,Central West,5780
+30SEP2023,NSW,104,Coffs Harbour - Grafton,4320
+30SEP2023,NSW,105,Far West and Orana,3424
+30SEP2023,NSW,106,Hunter Valley exc Newcastle,10624
+30SEP2023,NSW,107,Illawarra,7888
+30SEP2023,NSW,108,Mid North Coast,7879
+30SEP2023,NSW,109,Murray,3667
+30SEP2023,NSW,110,New England and North West,5018
+30SEP2023,NSW,111,Newcastle and Lake Macquarie,13312
+30SEP2023,NSW,112,Richmond - Tweed,7423
+30SEP2023,NSW,113,Riverina,4298
+30SEP2023,NSW,114,Southern Highlands and Shoalhaven,4077
+30SEP2023,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4373
+30SEP2023,NSW,116,Sydney - Blacktown,10399
+30SEP2023,NSW,117,Sydney - City and Inner South,4320
+30SEP2023,NSW,118,Sydney - Eastern Suburbs,3513
+30SEP2023,NSW,119,Sydney - Inner South West,11400
+30SEP2023,NSW,120,Sydney - Inner West,4200
+30SEP2023,NSW,121,Sydney - North Sydney and Hornsby,5587
+30SEP2023,NSW,122,Sydney - Northern Beaches,3716
+30SEP2023,NSW,123,Sydney - Outer South West,8889
+30SEP2023,NSW,124,Sydney - Outer West and Blue Mountains,9995
+30SEP2023,NSW,125,Sydney - Parramatta,10128
+30SEP2023,NSW,126,Sydney - Ryde,3263
+30SEP2023,NSW,127,Sydney - South West,10999
+30SEP2023,NSW,128,Sydney - Sutherland,4134
+30SEP2023,NSW,901,Other Territories,13
+30SEP2023,NT,-,Other,<11
+30SEP2023,NT,406,South Australia - Outback,55
+30SEP2023,NT,510,Western Australia - Outback (North),<11
+30SEP2023,NT,511,Western Australia - Outback (South),19
+30SEP2023,NT,701,Darwin,3469
+30SEP2023,NT,702,Northern Territory - Outback,2285
+30SEP2023,OT,901,Other Territories,51
+30SEP2023,QLD,-,Other,<11
+30SEP2023,QLD,301,Brisbane - East,6260
+30SEP2023,QLD,302,Brisbane - North,5015
+30SEP2023,QLD,303,Brisbane - South,7364
+30SEP2023,QLD,304,Brisbane - West,3739
+30SEP2023,QLD,305,Brisbane Inner City,4284
+30SEP2023,QLD,306,Cairns,6107
+30SEP2023,QLD,307,Darling Downs - Maranoa,3302
+30SEP2023,QLD,308,Central Queensland,7292
+30SEP2023,QLD,309,Gold Coast,14292
+30SEP2023,QLD,310,Ipswich,12071
+30SEP2023,QLD,311,Logan - Beaudesert,11225
+30SEP2023,QLD,312,Mackay - Isaac - Whitsunday,4281
+30SEP2023,QLD,313,Moreton Bay - North,9052
+30SEP2023,QLD,314,Moreton Bay - South,5872
+30SEP2023,QLD,315,Queensland - Outback,1524
+30SEP2023,QLD,316,Sunshine Coast,9764
+30SEP2023,QLD,317,Toowoomba,5129
+30SEP2023,QLD,318,Townsville,7238
+30SEP2023,QLD,319,Wide Bay,11137
+30SEP2023,QLD,702,Northern Territory - Outback,<11
+30SEP2023,SA,-,Other,<11
+30SEP2023,SA,401,Adelaide - Central and Hills,6769
+30SEP2023,SA,402,Adelaide - North,18003
+30SEP2023,SA,403,Adelaide - South,11671
+30SEP2023,SA,404,Adelaide - West,6862
+30SEP2023,SA,405,Barossa - Yorke - Mid North,3254
+30SEP2023,SA,406,South Australia - Outback,2297
+30SEP2023,SA,407,South Australia - South East,5452
+30SEP2023,TAS,601,Hobart,5965
+30SEP2023,TAS,602,Launceston and North East,3981
+30SEP2023,TAS,603,South East,759
+30SEP2023,TAS,604,West and North West,2997
+30SEP2023,VIC,-,Other,<11
+30SEP2023,VIC,201,Ballarat,5431
+30SEP2023,VIC,202,Bendigo,6302
+30SEP2023,VIC,203,Geelong,11215
+30SEP2023,VIC,204,Hume,5385
+30SEP2023,VIC,205,Latrobe - Gippsland,9071
+30SEP2023,VIC,206,Melbourne - Inner,9994
+30SEP2023,VIC,207,Melbourne - Inner East,6413
+30SEP2023,VIC,208,Melbourne - Inner South,7789
+30SEP2023,VIC,209,Melbourne - North East,14257
+30SEP2023,VIC,210,Melbourne - North West,12448
+30SEP2023,VIC,211,Melbourne - Outer East,13719
+30SEP2023,VIC,212,Melbourne - South East,20095
+30SEP2023,VIC,213,Melbourne - West,24498
+30SEP2023,VIC,214,Mornington Peninsula,9422
+30SEP2023,VIC,215,North West,4696
+30SEP2023,VIC,216,Shepparton,4259
+30SEP2023,VIC,217,Warrnambool and South West,3863
+30SEP2023,WA,-,Other,<11
+30SEP2023,WA,406,South Australia - Outback,<11
+30SEP2023,WA,501,Bunbury,4397
+30SEP2023,WA,502,Mandurah,2403
+30SEP2023,WA,503,Perth - Inner,2559
+30SEP2023,WA,504,Perth - North East,6830
+30SEP2023,WA,505,Perth - North West,10960
+30SEP2023,WA,506,Perth - South East,10949
+30SEP2023,WA,507,Perth - South West,9495
+30SEP2023,WA,509,Western Australia - Wheat Belt,2577
+30SEP2023,WA,510,Western Australia - Outback (North),1664
+30SEP2023,WA,511,Western Australia - Outback (South),2304
+30SEP2023,WA,702,Northern Territory - Outback,11
+30SEP2023,WA,901,Other Territories,<11
+30JUN2023,ACT,-,Other,<11
+30JUN2023,ACT,801,Australian Capital Territory,10327
+30JUN2023,MIS,-,Other,<11
+30JUN2023,NSW,-,Other,17
+30JUN2023,NSW,101,Capital Region,5506
+30JUN2023,NSW,102,Central Coast,10336
+30JUN2023,NSW,103,Central West,5627
+30JUN2023,NSW,104,Coffs Harbour - Grafton,4174
+30JUN2023,NSW,105,Far West and Orana,3366
+30JUN2023,NSW,106,Hunter Valley exc Newcastle,10220
+30JUN2023,NSW,107,Illawarra,7649
+30JUN2023,NSW,108,Mid North Coast,7646
+30JUN2023,NSW,109,Murray,3551
+30JUN2023,NSW,110,New England and North West,4878
+30JUN2023,NSW,111,Newcastle and Lake Macquarie,12913
+30JUN2023,NSW,112,Richmond - Tweed,7153
+30JUN2023,NSW,113,Riverina,4129
+30JUN2023,NSW,114,Southern Highlands and Shoalhaven,3991
+30JUN2023,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4203
+30JUN2023,NSW,116,Sydney - Blacktown,9994
+30JUN2023,NSW,117,Sydney - City and Inner South,4243
+30JUN2023,NSW,118,Sydney - Eastern Suburbs,3393
+30JUN2023,NSW,119,Sydney - Inner South West,11064
+30JUN2023,NSW,120,Sydney - Inner West,4077
+30JUN2023,NSW,121,Sydney - North Sydney and Hornsby,5404
+30JUN2023,NSW,122,Sydney - Northern Beaches,3561
+30JUN2023,NSW,123,Sydney - Outer South West,8604
+30JUN2023,NSW,124,Sydney - Outer West and Blue Mountains,9639
+30JUN2023,NSW,125,Sydney - Parramatta,9775
+30JUN2023,NSW,126,Sydney - Ryde,3158
+30JUN2023,NSW,127,Sydney - South West,10631
+30JUN2023,NSW,128,Sydney - Sutherland,4018
+30JUN2023,NT,-,Other,28
+30JUN2023,NT,406,South Australia - Outback,59
+30JUN2023,NT,701,Darwin,3345
+30JUN2023,NT,702,Northern Territory - Outback,2215
+30JUN2023,OT,901,Other Territories,51
+30JUN2023,QLD,-,Other,16
+30JUN2023,QLD,301,Brisbane - East,5999
+30JUN2023,QLD,302,Brisbane - North,4845
+30JUN2023,QLD,303,Brisbane - South,7094
+30JUN2023,QLD,304,Brisbane - West,3590
+30JUN2023,QLD,305,Brisbane Inner City,4131
+30JUN2023,QLD,306,Cairns,5917
+30JUN2023,QLD,307,Darling Downs - Maranoa,3205
+30JUN2023,QLD,308,Central Queensland,7056
+30JUN2023,QLD,309,Gold Coast,13818
+30JUN2023,QLD,310,Ipswich,11574
+30JUN2023,QLD,311,Logan - Beaudesert,10620
+30JUN2023,QLD,312,Mackay - Isaac - Whitsunday,4153
+30JUN2023,QLD,313,Moreton Bay - North,8676
+30JUN2023,QLD,314,Moreton Bay - South,5589
+30JUN2023,QLD,315,Queensland - Outback,1470
+30JUN2023,QLD,316,Sunshine Coast,9409
+30JUN2023,QLD,317,Toowoomba,4973
+30JUN2023,QLD,318,Townsville,6998
+30JUN2023,QLD,319,Wide Bay,10856
+30JUN2023,SA,-,Other,<11
+30JUN2023,SA,401,Adelaide - Central and Hills,6535
+30JUN2023,SA,402,Adelaide - North,17327
+30JUN2023,SA,403,Adelaide - South,11281
+30JUN2023,SA,404,Adelaide - West,6650
+30JUN2023,SA,405,Barossa - Yorke - Mid North,3178
+30JUN2023,SA,406,South Australia - Outback,2236
+30JUN2023,SA,407,South Australia - South East,5291
+30JUN2023,TAS,-,Other,<11
+30JUN2023,TAS,601,Hobart,5828
+30JUN2023,TAS,602,Launceston and North East,3852
+30JUN2023,TAS,603,South East,727
+30JUN2023,TAS,604,West and North West,2963
+30JUN2023,VIC,-,Other,<11
+30JUN2023,VIC,201,Ballarat,5262
+30JUN2023,VIC,202,Bendigo,6071
+30JUN2023,VIC,203,Geelong,10918
+30JUN2023,VIC,204,Hume,5216
+30JUN2023,VIC,205,Latrobe - Gippsland,8833
+30JUN2023,VIC,206,Melbourne - Inner,9699
+30JUN2023,VIC,207,Melbourne - Inner East,6240
+30JUN2023,VIC,208,Melbourne - Inner South,7521
+30JUN2023,VIC,209,Melbourne - North East,13740
+30JUN2023,VIC,210,Melbourne - North West,11994
+30JUN2023,VIC,211,Melbourne - Outer East,13253
+30JUN2023,VIC,212,Melbourne - South East,19400
+30JUN2023,VIC,213,Melbourne - West,23562
+30JUN2023,VIC,214,Mornington Peninsula,9077
+30JUN2023,VIC,215,North West,4542
+30JUN2023,VIC,216,Shepparton,4134
+30JUN2023,VIC,217,Warrnambool and South West,3770
+30JUN2023,WA,-,Other,18
+30JUN2023,WA,501,Bunbury,4242
+30JUN2023,WA,502,Mandurah,2332
+30JUN2023,WA,503,Perth - Inner,2487
+30JUN2023,WA,504,Perth - North East,6674
+30JUN2023,WA,505,Perth - North West,10557
+30JUN2023,WA,506,Perth - South East,10593
+30JUN2023,WA,507,Perth - South West,9210
+30JUN2023,WA,509,Western Australia - Wheat Belt,2476
+30JUN2023,WA,510,Western Australia - Outback (North),1636
+30JUN2023,WA,511,Western Australia - Outback (South),2226
+31MAR2023,ACT,-,Other,<11
+31MAR2023,ACT,801,Australian Capital Territory,10059
+31MAR2023,MIS,-,Other,<11
+31MAR2023,NSW,-,Other,<11
+31MAR2023,NSW,101,Capital Region,5356
+31MAR2023,NSW,102,Central Coast,10014
+31MAR2023,NSW,103,Central West,5533
+31MAR2023,NSW,104,Coffs Harbour - Grafton,4003
+31MAR2023,NSW,105,Far West and Orana,3275
+31MAR2023,NSW,106,Hunter Valley exc Newcastle,9844
+31MAR2023,NSW,107,Illawarra,7403
+31MAR2023,NSW,108,Mid North Coast,7404
+31MAR2023,NSW,109,Murray,3426
+31MAR2023,NSW,110,New England and North West,4771
+31MAR2023,NSW,111,Newcastle and Lake Macquarie,12543
+31MAR2023,NSW,112,Richmond - Tweed,6917
+31MAR2023,NSW,113,Riverina,3994
+31MAR2023,NSW,114,Southern Highlands and Shoalhaven,3905
+31MAR2023,NSW,115,Sydney - Baulkham Hills and Hawkesbury,4070
+31MAR2023,NSW,116,Sydney - Blacktown,9670
+31MAR2023,NSW,117,Sydney - City and Inner South,4094
+31MAR2023,NSW,118,Sydney - Eastern Suburbs,3251
+31MAR2023,NSW,119,Sydney - Inner South West,10770
+31MAR2023,NSW,120,Sydney - Inner West,3969
+31MAR2023,NSW,121,Sydney - North Sydney and Hornsby,5217
+31MAR2023,NSW,122,Sydney - Northern Beaches,3458
+31MAR2023,NSW,123,Sydney - Outer South West,8314
+31MAR2023,NSW,124,Sydney - Outer West and Blue Mountains,9344
+31MAR2023,NSW,125,Sydney - Parramatta,9457
+31MAR2023,NSW,126,Sydney - Ryde,3072
+31MAR2023,NSW,127,Sydney - South West,10313
+31MAR2023,NSW,128,Sydney - Sutherland,3875
+31MAR2023,NT,-,Other,<11
+31MAR2023,NT,701,Darwin,3271
+31MAR2023,NT,702,Northern Territory - Outback,2172
+31MAR2023,OT,901,Other Territories,64
+31MAR2023,QLD,-,Other,<11
+31MAR2023,QLD,301,Brisbane - East,5798
+31MAR2023,QLD,302,Brisbane - North,4691
+31MAR2023,QLD,303,Brisbane - South,6855
+31MAR2023,QLD,304,Brisbane - West,3475
+31MAR2023,QLD,305,Brisbane Inner City,3998
+31MAR2023,QLD,306,Cairns,5704
+31MAR2023,QLD,307,Darling Downs - Maranoa,3114
+31MAR2023,QLD,308,Central Queensland,6825
+31MAR2023,QLD,309,Gold Coast,13306
+31MAR2023,QLD,310,Ipswich,11132
+31MAR2023,QLD,311,Logan - Beaudesert,10162
+31MAR2023,QLD,312,Mackay - Isaac - Whitsunday,4041
+31MAR2023,QLD,313,Moreton Bay - North,8373
+31MAR2023,QLD,314,Moreton Bay - South,5402
+31MAR2023,QLD,315,Queensland - Outback,1413
+31MAR2023,QLD,316,Sunshine Coast,9061
+31MAR2023,QLD,317,Toowoomba,4877
+31MAR2023,QLD,318,Townsville,6801
+31MAR2023,QLD,319,Wide Bay,10507
+31MAR2023,SA,-,Other,<11
+31MAR2023,SA,401,Adelaide - Central and Hills,6376
+31MAR2023,SA,402,Adelaide - North,16816
+31MAR2023,SA,403,Adelaide - South,10967
+31MAR2023,SA,404,Adelaide - West,6458
+31MAR2023,SA,405,Barossa - Yorke - Mid North,3113
+31MAR2023,SA,406,South Australia - Outback,2233
+31MAR2023,SA,407,South Australia - South East,5168
+31MAR2023,TAS,-,Other,<11
+31MAR2023,TAS,601,Hobart,5681
+31MAR2023,TAS,602,Launceston and North East,3764
+31MAR2023,TAS,603,South East,695
+31MAR2023,TAS,604,West and North West,2907
+31MAR2023,VIC,-,Other,<11
+31MAR2023,VIC,201,Ballarat,5126
+31MAR2023,VIC,202,Bendigo,5902
+31MAR2023,VIC,203,Geelong,10655
+31MAR2023,VIC,204,Hume,5041
+31MAR2023,VIC,205,Latrobe - Gippsland,8617
+31MAR2023,VIC,206,Melbourne - Inner,9372
+31MAR2023,VIC,207,Melbourne - Inner East,6148
+31MAR2023,VIC,208,Melbourne - Inner South,7319
+31MAR2023,VIC,209,Melbourne - North East,13286
+31MAR2023,VIC,210,Melbourne - North West,11661
+31MAR2023,VIC,211,Melbourne - Outer East,12936
+31MAR2023,VIC,212,Melbourne - South East,18790
+31MAR2023,VIC,213,Melbourne - West,22697
+31MAR2023,VIC,214,Mornington Peninsula,8791
+31MAR2023,VIC,215,North West,4416
+31MAR2023,VIC,216,Shepparton,4028
+31MAR2023,VIC,217,Warrnambool and South West,3687
+31MAR2023,WA,-,Other,<11
+31MAR2023,WA,501,Bunbury,4175
+31MAR2023,WA,502,Mandurah,2249
+31MAR2023,WA,503,Perth - Inner,2436
+31MAR2023,WA,504,Perth - North East,6504
+31MAR2023,WA,505,Perth - North West,10235
+31MAR2023,WA,506,Perth - South East,10330
+31MAR2023,WA,507,Perth - South West,8941
+31MAR2023,WA,509,Western Australia - Wheat Belt,2389
+31MAR2023,WA,510,Western Australia - Outback (North),1585
+31MAR2023,WA,511,Western Australia - Outback (South),2165
+31DEC2022,ACT,-,Other,<11
+31DEC2022,ACT,801,Australian Capital Territory,9792
+31DEC2022,MIS,-,Other,<11
+31DEC2022,NSW,-,Other,<11
+31DEC2022,NSW,101,Capital Region,5197
+31DEC2022,NSW,102,Central Coast,9747
+31DEC2022,NSW,103,Central West,5402
+31DEC2022,NSW,104,Coffs Harbour - Grafton,3897
+31DEC2022,NSW,105,Far West and Orana,3191
+31DEC2022,NSW,106,Hunter Valley exc Newcastle,9534
+31DEC2022,NSW,107,Illawarra,7185
+31DEC2022,NSW,108,Mid North Coast,7157
+31DEC2022,NSW,109,Murray,3335
+31DEC2022,NSW,110,New England and North West,4632
+31DEC2022,NSW,111,Newcastle and Lake Macquarie,12247
+31DEC2022,NSW,112,Richmond - Tweed,6735
+31DEC2022,NSW,113,Riverina,3885
+31DEC2022,NSW,114,Southern Highlands and Shoalhaven,3809
+31DEC2022,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3947
+31DEC2022,NSW,116,Sydney - Blacktown,9313
+31DEC2022,NSW,117,Sydney - City and Inner South,3995
+31DEC2022,NSW,118,Sydney - Eastern Suburbs,3144
+31DEC2022,NSW,119,Sydney - Inner South West,10505
+31DEC2022,NSW,120,Sydney - Inner West,3854
+31DEC2022,NSW,121,Sydney - North Sydney and Hornsby,5060
+31DEC2022,NSW,122,Sydney - Northern Beaches,3357
+31DEC2022,NSW,123,Sydney - Outer South West,8067
+31DEC2022,NSW,124,Sydney - Outer West and Blue Mountains,9081
+31DEC2022,NSW,125,Sydney - Parramatta,9216
+31DEC2022,NSW,126,Sydney - Ryde,3008
+31DEC2022,NSW,127,Sydney - South West,9937
+31DEC2022,NSW,128,Sydney - Sutherland,3738
+31DEC2022,NT,-,Other,<11
+31DEC2022,NT,701,Darwin,3161
+31DEC2022,NT,702,Northern Territory - Outback,2135
+31DEC2022,OT,901,Other Territories,63
+31DEC2022,QLD,-,Other,<11
+31DEC2022,QLD,301,Brisbane - East,5544
+31DEC2022,QLD,302,Brisbane - North,4520
+31DEC2022,QLD,303,Brisbane - South,6583
+31DEC2022,QLD,304,Brisbane - West,3347
+31DEC2022,QLD,305,Brisbane Inner City,3850
+31DEC2022,QLD,306,Cairns,5509
+31DEC2022,QLD,307,Darling Downs - Maranoa,3041
+31DEC2022,QLD,308,Central Queensland,6618
+31DEC2022,QLD,309,Gold Coast,12858
+31DEC2022,QLD,310,Ipswich,10653
+31DEC2022,QLD,311,Logan - Beaudesert,9655
+31DEC2022,QLD,312,Mackay - Isaac - Whitsunday,3907
+31DEC2022,QLD,313,Moreton Bay - North,8036
+31DEC2022,QLD,314,Moreton Bay - South,5155
+31DEC2022,QLD,315,Queensland - Outback,1376
+31DEC2022,QLD,316,Sunshine Coast,8746
+31DEC2022,QLD,317,Toowoomba,4777
+31DEC2022,QLD,318,Townsville,6582
+31DEC2022,QLD,319,Wide Bay,10128
+31DEC2022,SA,-,Other,<11
+31DEC2022,SA,401,Adelaide - Central and Hills,6222
+31DEC2022,SA,402,Adelaide - North,16282
+31DEC2022,SA,403,Adelaide - South,10651
+31DEC2022,SA,404,Adelaide - West,6263
+31DEC2022,SA,405,Barossa - Yorke - Mid North,3049
+31DEC2022,SA,406,South Australia - Outback,2121
+31DEC2022,SA,407,South Australia - South East,5065
+31DEC2022,TAS,-,Other,<11
+31DEC2022,TAS,601,Hobart,5578
+31DEC2022,TAS,602,Launceston and North East,3701
+31DEC2022,TAS,603,South East,686
+31DEC2022,TAS,604,West and North West,2852
+31DEC2022,VIC,-,Other,<11
+31DEC2022,VIC,201,Ballarat,4996
+31DEC2022,VIC,202,Bendigo,5692
+31DEC2022,VIC,203,Geelong,10327
+31DEC2022,VIC,204,Hume,4910
+31DEC2022,VIC,205,Latrobe - Gippsland,8377
+31DEC2022,VIC,206,Melbourne - Inner,9048
+31DEC2022,VIC,207,Melbourne - Inner East,5989
+31DEC2022,VIC,208,Melbourne - Inner South,7075
+31DEC2022,VIC,209,Melbourne - North East,12795
+31DEC2022,VIC,210,Melbourne - North West,11203
+31DEC2022,VIC,211,Melbourne - Outer East,12581
+31DEC2022,VIC,212,Melbourne - South East,18216
+31DEC2022,VIC,213,Melbourne - West,21667
+31DEC2022,VIC,214,Mornington Peninsula,8464
+31DEC2022,VIC,215,North West,4321
+31DEC2022,VIC,216,Shepparton,3913
+31DEC2022,VIC,217,Warrnambool and South West,3619
+31DEC2022,WA,-,Other,<11
+31DEC2022,WA,501,Bunbury,4072
+31DEC2022,WA,502,Mandurah,2183
+31DEC2022,WA,503,Perth - Inner,2380
+31DEC2022,WA,504,Perth - North East,6332
+31DEC2022,WA,505,Perth - North West,9918
+31DEC2022,WA,506,Perth - South East,10002
+31DEC2022,WA,507,Perth - South West,8615
+31DEC2022,WA,509,Western Australia - Wheat Belt,2339
+31DEC2022,WA,510,Western Australia - Outback (North),1508
+31DEC2022,WA,511,Western Australia - Outback (South),2085
+30SEP2022,ACT,-,Other,<11
+30SEP2022,ACT,801,Australian Capital Territory,9567
+30SEP2022,MIS,-,Other,<11
+30SEP2022,NSW,-,Other,<11
+30SEP2022,NSW,101,Capital Region,5082
+30SEP2022,NSW,102,Central Coast,9487
+30SEP2022,NSW,103,Central West,5225
+30SEP2022,NSW,104,Coffs Harbour - Grafton,3794
+30SEP2022,NSW,105,Far West and Orana,3055
+30SEP2022,NSW,106,Hunter Valley exc Newcastle,9218
+30SEP2022,NSW,107,Illawarra,6969
+30SEP2022,NSW,108,Mid North Coast,6949
+30SEP2022,NSW,109,Murray,3238
+30SEP2022,NSW,110,New England and North West,4494
+30SEP2022,NSW,111,Newcastle and Lake Macquarie,11926
+30SEP2022,NSW,112,Richmond - Tweed,6559
+30SEP2022,NSW,113,Riverina,3785
+30SEP2022,NSW,114,Southern Highlands and Shoalhaven,3705
+30SEP2022,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3812
+30SEP2022,NSW,116,Sydney - Blacktown,8948
+30SEP2022,NSW,117,Sydney - City and Inner South,3865
+30SEP2022,NSW,118,Sydney - Eastern Suburbs,3075
+30SEP2022,NSW,119,Sydney - Inner South West,10167
+30SEP2022,NSW,120,Sydney - Inner West,3724
+30SEP2022,NSW,121,Sydney - North Sydney and Hornsby,4910
+30SEP2022,NSW,122,Sydney - Northern Beaches,3254
+30SEP2022,NSW,123,Sydney - Outer South West,7805
+30SEP2022,NSW,124,Sydney - Outer West and Blue Mountains,8796
+30SEP2022,NSW,125,Sydney - Parramatta,8965
+30SEP2022,NSW,126,Sydney - Ryde,2922
+30SEP2022,NSW,127,Sydney - South West,9626
+30SEP2022,NSW,128,Sydney - Sutherland,3607
+30SEP2022,NT,-,Other,<11
+30SEP2022,NT,701,Darwin,3015
+30SEP2022,NT,702,Northern Territory - Outback,2085
+30SEP2022,OT,901,Other Territories,61
+30SEP2022,QLD,-,Other,<11
+30SEP2022,QLD,301,Brisbane - East,5333
+30SEP2022,QLD,302,Brisbane - North,4381
+30SEP2022,QLD,303,Brisbane - South,6389
+30SEP2022,QLD,304,Brisbane - West,3242
+30SEP2022,QLD,305,Brisbane Inner City,3750
+30SEP2022,QLD,306,Cairns,5303
+30SEP2022,QLD,307,Darling Downs - Maranoa,2937
+30SEP2022,QLD,308,Central Queensland,6373
+30SEP2022,QLD,309,Gold Coast,12376
+30SEP2022,QLD,310,Ipswich,10258
+30SEP2022,QLD,311,Logan - Beaudesert,9217
+30SEP2022,QLD,312,Mackay - Isaac - Whitsunday,3776
+30SEP2022,QLD,313,Moreton Bay - North,7732
+30SEP2022,QLD,314,Moreton Bay - South,4928
+30SEP2022,QLD,315,Queensland - Outback,1321
+30SEP2022,QLD,316,Sunshine Coast,8411
+30SEP2022,QLD,317,Toowoomba,4673
+30SEP2022,QLD,318,Townsville,6372
+30SEP2022,QLD,319,Wide Bay,9809
+30SEP2022,SA,-,Other,<11
+30SEP2022,SA,401,Adelaide - Central and Hills,6039
+30SEP2022,SA,402,Adelaide - North,15741
+30SEP2022,SA,403,Adelaide - South,10361
+30SEP2022,SA,404,Adelaide - West,6081
+30SEP2022,SA,405,Barossa - Yorke - Mid North,2935
+30SEP2022,SA,406,South Australia - Outback,2071
+30SEP2022,SA,407,South Australia - South East,4941
+30SEP2022,TAS,-,Other,<11
+30SEP2022,TAS,601,Hobart,5423
+30SEP2022,TAS,602,Launceston and North East,3605
+30SEP2022,TAS,603,South East,665
+30SEP2022,TAS,604,West and North West,2799
+30SEP2022,VIC,-,Other,<11
+30SEP2022,VIC,201,Ballarat,4802
+30SEP2022,VIC,202,Bendigo,5498
+30SEP2022,VIC,203,Geelong,10012
+30SEP2022,VIC,204,Hume,4772
+30SEP2022,VIC,205,Latrobe - Gippsland,8108
+30SEP2022,VIC,206,Melbourne - Inner,8752
+30SEP2022,VIC,207,Melbourne - Inner East,5822
+30SEP2022,VIC,208,Melbourne - Inner South,6895
+30SEP2022,VIC,209,Melbourne - North East,12338
+30SEP2022,VIC,210,Melbourne - North West,10777
+30SEP2022,VIC,211,Melbourne - Outer East,12240
+30SEP2022,VIC,212,Melbourne - South East,17538
+30SEP2022,VIC,213,Melbourne - West,20762
+30SEP2022,VIC,214,Mornington Peninsula,8156
+30SEP2022,VIC,215,North West,4201
+30SEP2022,VIC,216,Shepparton,3796
+30SEP2022,VIC,217,Warrnambool and South West,3534
+30SEP2022,WA,-,Other,<11
+30SEP2022,WA,501,Bunbury,3974
+30SEP2022,WA,502,Mandurah,2097
+30SEP2022,WA,503,Perth - Inner,2321
+30SEP2022,WA,504,Perth - North East,6167
+30SEP2022,WA,505,Perth - North West,9582
+30SEP2022,WA,506,Perth - South East,9669
+30SEP2022,WA,507,Perth - South West,8350
+30SEP2022,WA,509,Western Australia - Wheat Belt,2276
+30SEP2022,WA,510,Western Australia - Outback (North),1485
+30SEP2022,WA,511,Western Australia - Outback (South),2029
+30JUN2022,ACT,-,Other,<11
+30JUN2022,ACT,801,Australian Capital Territory,9348
+30JUN2022,MIS,-,Other,<11
+30JUN2022,NSW,-,Other,<11
+30JUN2022,NSW,101,Capital Region,4947
+30JUN2022,NSW,102,Central Coast,9184
+30JUN2022,NSW,103,Central West,5042
+30JUN2022,NSW,104,Coffs Harbour - Grafton,3647
+30JUN2022,NSW,105,Far West and Orana,2937
+30JUN2022,NSW,106,Hunter Valley exc Newcastle,8892
+30JUN2022,NSW,107,Illawarra,6770
+30JUN2022,NSW,108,Mid North Coast,6672
+30JUN2022,NSW,109,Murray,3100
+30JUN2022,NSW,110,New England and North West,4334
+30JUN2022,NSW,111,Newcastle and Lake Macquarie,11604
+30JUN2022,NSW,112,Richmond - Tweed,6373
+30JUN2022,NSW,113,Riverina,3654
+30JUN2022,NSW,114,Southern Highlands and Shoalhaven,3595
+30JUN2022,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3607
+30JUN2022,NSW,116,Sydney - Blacktown,8489
+30JUN2022,NSW,117,Sydney - City and Inner South,3734
+30JUN2022,NSW,118,Sydney - Eastern Suburbs,2947
+30JUN2022,NSW,119,Sydney - Inner South West,9802
+30JUN2022,NSW,120,Sydney - Inner West,3607
+30JUN2022,NSW,121,Sydney - North Sydney and Hornsby,4775
+30JUN2022,NSW,122,Sydney - Northern Beaches,3183
+30JUN2022,NSW,123,Sydney - Outer South West,7487
+30JUN2022,NSW,124,Sydney - Outer West and Blue Mountains,8476
+30JUN2022,NSW,125,Sydney - Parramatta,8609
+30JUN2022,NSW,126,Sydney - Ryde,2840
+30JUN2022,NSW,127,Sydney - South West,9268
+30JUN2022,NSW,128,Sydney - Sutherland,3467
+30JUN2022,NT,-,Other,<11
+30JUN2022,NT,701,Darwin,2881
+30JUN2022,NT,702,Northern Territory - Outback,2009
+30JUN2022,OT,901,Other Territories,57
+30JUN2022,QLD,-,Other,<11
+30JUN2022,QLD,301,Brisbane - East,5159
+30JUN2022,QLD,302,Brisbane - North,4222
+30JUN2022,QLD,303,Brisbane - South,6144
+30JUN2022,QLD,304,Brisbane - West,3109
+30JUN2022,QLD,305,Brisbane Inner City,3633
+30JUN2022,QLD,306,Cairns,5035
+30JUN2022,QLD,307,Darling Downs - Maranoa,2806
+30JUN2022,QLD,308,Central Queensland,6090
+30JUN2022,QLD,309,Gold Coast,11800
+30JUN2022,QLD,310,Ipswich,9817
+30JUN2022,QLD,311,Logan - Beaudesert,8811
+30JUN2022,QLD,312,Mackay - Isaac - Whitsunday,3623
+30JUN2022,QLD,313,Moreton Bay - North,7423
+30JUN2022,QLD,314,Moreton Bay - South,4751
+30JUN2022,QLD,315,Queensland - Outback,1264
+30JUN2022,QLD,316,Sunshine Coast,8068
+30JUN2022,QLD,317,Toowoomba,4506
+30JUN2022,QLD,318,Townsville,6076
+30JUN2022,QLD,319,Wide Bay,9487
+30JUN2022,SA,-,Other,<11
+30JUN2022,SA,401,Adelaide - Central and Hills,5811
+30JUN2022,SA,402,Adelaide - North,15258
+30JUN2022,SA,403,Adelaide - South,10090
+30JUN2022,SA,404,Adelaide - West,5889
+30JUN2022,SA,405,Barossa - Yorke - Mid North,2831
+30JUN2022,SA,406,South Australia - Outback,1993
+30JUN2022,SA,407,South Australia - South East,4762
+30JUN2022,TAS,-,Other,<11
+30JUN2022,TAS,601,Hobart,5243
+30JUN2022,TAS,602,Launceston and North East,3474
+30JUN2022,TAS,603,South East,643
+30JUN2022,TAS,604,West and North West,2743
+30JUN2022,VIC,-,Other,<11
+30JUN2022,VIC,201,Ballarat,4608
+30JUN2022,VIC,202,Bendigo,5283
+30JUN2022,VIC,203,Geelong,9688
+30JUN2022,VIC,204,Hume,4613
+30JUN2022,VIC,205,Latrobe - Gippsland,7808
+30JUN2022,VIC,206,Melbourne - Inner,8465
+30JUN2022,VIC,207,Melbourne - Inner East,5665
+30JUN2022,VIC,208,Melbourne - Inner South,6697
+30JUN2022,VIC,209,Melbourne - North East,11910
+30JUN2022,VIC,210,Melbourne - North West,10257
+30JUN2022,VIC,211,Melbourne - Outer East,11838
+30JUN2022,VIC,212,Melbourne - South East,16710
+30JUN2022,VIC,213,Melbourne - West,19744
+30JUN2022,VIC,214,Mornington Peninsula,7857
+30JUN2022,VIC,215,North West,4042
+30JUN2022,VIC,216,Shepparton,3634
+30JUN2022,VIC,217,Warrnambool and South West,3419
+30JUN2022,WA,-,Other,<11
+30JUN2022,WA,501,Bunbury,3885
+30JUN2022,WA,502,Mandurah,2016
+30JUN2022,WA,503,Perth - Inner,2240
+30JUN2022,WA,504,Perth - North East,5987
+30JUN2022,WA,505,Perth - North West,9249
+30JUN2022,WA,506,Perth - South East,9402
+30JUN2022,WA,507,Perth - South West,8074
+30JUN2022,WA,509,Western Australia - Wheat Belt,2233
+30JUN2022,WA,510,Western Australia - Outback (North),1459
+30JUN2022,WA,511,Western Australia - Outback (South),1945
+31DEC2021,ACT,-,Other,<11
+31DEC2021,ACT,801,Australian Capital Territory,8966
+31DEC2021,MIS,-,Other,14
+31DEC2021,NSW,-,Other,<11
+31DEC2021,NSW,101,Capital Region,4772
+31DEC2021,NSW,102,Central Coast,8799
+31DEC2021,NSW,103,Central West,4794
+31DEC2021,NSW,104,Coffs Harbour - Grafton,3501
+31DEC2021,NSW,105,Far West and Orana,2792
+31DEC2021,NSW,106,Hunter Valley exc Newcastle,8526
+31DEC2021,NSW,107,Illawarra,6465
+31DEC2021,NSW,108,Mid North Coast,6370
+31DEC2021,NSW,109,Murray,2993
+31DEC2021,NSW,110,New England and North West,4119
+31DEC2021,NSW,111,Newcastle and Lake Macquarie,11222
+31DEC2021,NSW,112,Richmond - Tweed,6165
+31DEC2021,NSW,113,Riverina,3485
+31DEC2021,NSW,114,Southern Highlands and Shoalhaven,3485
+31DEC2021,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3411
+31DEC2021,NSW,116,Sydney - Blacktown,8012
+31DEC2021,NSW,117,Sydney - City and Inner South,3518
+31DEC2021,NSW,118,Sydney - Eastern Suburbs,2770
+31DEC2021,NSW,119,Sydney - Inner South West,9306
+31DEC2021,NSW,120,Sydney - Inner West,3456
+31DEC2021,NSW,121,Sydney - North Sydney and Hornsby,4545
+31DEC2021,NSW,122,Sydney - Northern Beaches,3067
+31DEC2021,NSW,123,Sydney - Outer South West,7029
+31DEC2021,NSW,124,Sydney - Outer West and Blue Mountains,8038
+31DEC2021,NSW,125,Sydney - Parramatta,8213
+31DEC2021,NSW,126,Sydney - Ryde,2688
+31DEC2021,NSW,127,Sydney - South West,8745
+31DEC2021,NSW,128,Sydney - Sutherland,3289
+31DEC2021,NT,-,Other,30
+31DEC2021,NT,701,Darwin,2677
+31DEC2021,NT,702,Northern Territory - Outback,1880
+31DEC2021,OT,901,Other Territories,46
+31DEC2021,QLD,-,Other,16
+31DEC2021,QLD,301,Brisbane - East,4720
+31DEC2021,QLD,302,Brisbane - North,3924
+31DEC2021,QLD,303,Brisbane - South,5646
+31DEC2021,QLD,304,Brisbane - West,2867
+31DEC2021,QLD,305,Brisbane Inner City,3343
+31DEC2021,QLD,306,Cairns,4590
+31DEC2021,QLD,307,Darling Downs - Maranoa,2582
+31DEC2021,QLD,308,Central Queensland,5598
+31DEC2021,QLD,309,Gold Coast,10729
+31DEC2021,QLD,310,Ipswich,9033
+31DEC2021,QLD,311,Logan - Beaudesert,7756
+31DEC2021,QLD,312,Mackay - Isaac - Whitsunday,3337
+31DEC2021,QLD,313,Moreton Bay - North,6761
+31DEC2021,QLD,314,Moreton Bay - South,4322
+31DEC2021,QLD,315,Queensland - Outback,1195
+31DEC2021,QLD,316,Sunshine Coast,7390
+31DEC2021,QLD,317,Toowoomba,4206
+31DEC2021,QLD,318,Townsville,5640
+31DEC2021,QLD,319,Wide Bay,8803
+31DEC2021,SA,-,Other,<11
+31DEC2021,SA,401,Adelaide - Central and Hills,5463
+31DEC2021,SA,402,Adelaide - North,14302
+31DEC2021,SA,403,Adelaide - South,9527
+31DEC2021,SA,404,Adelaide - West,5578
+31DEC2021,SA,405,Barossa - Yorke - Mid North,2684
+31DEC2021,SA,406,South Australia - Outback,1904
+31DEC2021,SA,407,South Australia - South East,4503
+31DEC2021,TAS,-,Other,<11
+31DEC2021,TAS,601,Hobart,4943
+31DEC2021,TAS,602,Launceston and North East,3292
+31DEC2021,TAS,603,South East,593
+31DEC2021,TAS,604,West and North West,2630
+31DEC2021,VIC,-,Other,<11
+31DEC2021,VIC,201,Ballarat,4368
+31DEC2021,VIC,202,Bendigo,5028
+31DEC2021,VIC,203,Geelong,9278
+31DEC2021,VIC,204,Hume,4385
+31DEC2021,VIC,205,Latrobe - Gippsland,7391
+31DEC2021,VIC,206,Melbourne - Inner,7959
+31DEC2021,VIC,207,Melbourne - Inner East,5410
+31DEC2021,VIC,208,Melbourne - Inner South,6266
+31DEC2021,VIC,209,Melbourne - North East,11208
+31DEC2021,VIC,210,Melbourne - North West,9626
+31DEC2021,VIC,211,Melbourne - Outer East,11260
+31DEC2021,VIC,212,Melbourne - South East,15716
+31DEC2021,VIC,213,Melbourne - West,18093
+31DEC2021,VIC,214,Mornington Peninsula,7325
+31DEC2021,VIC,215,North West,3812
+31DEC2021,VIC,216,Shepparton,3456
+31DEC2021,VIC,217,Warrnambool and South West,3276
+31DEC2021,WA,-,Other,<11
+31DEC2021,WA,501,Bunbury,3665
+31DEC2021,WA,502,Mandurah,1896
+31DEC2021,WA,503,Perth - Inner,2070
+31DEC2021,WA,504,Perth - North East,5718
+31DEC2021,WA,505,Perth - North West,8578
+31DEC2021,WA,506,Perth - South East,8851
+31DEC2021,WA,507,Perth - South West,7520
+31DEC2021,WA,509,Western Australia - Wheat Belt,2085
+31DEC2021,WA,510,Western Australia - Outback (North),1362
+31DEC2021,WA,511,Western Australia - Outback (South),1725
+30SEP2021,ACT,-,Other,<11
+30SEP2021,ACT,801,Australian Capital Territory,8826
+30SEP2021,MIS,-,Other,<11
+30SEP2021,NSW,-,Other,<11
+30SEP2021,NSW,101,Capital Region,4661
+30SEP2021,NSW,102,Central Coast,8582
+30SEP2021,NSW,103,Central West,4652
+30SEP2021,NSW,104,Coffs Harbour - Grafton,3394
+30SEP2021,NSW,105,Far West and Orana,2692
+30SEP2021,NSW,106,Hunter Valley exc Newcastle,8264
+30SEP2021,NSW,107,Illawarra,6286
+30SEP2021,NSW,108,Mid North Coast,6186
+30SEP2021,NSW,109,Murray,2903
+30SEP2021,NSW,110,New England and North West,4023
+30SEP2021,NSW,111,Newcastle and Lake Macquarie,11073
+30SEP2021,NSW,112,Richmond - Tweed,5965
+30SEP2021,NSW,113,Riverina,3418
+30SEP2021,NSW,114,Southern Highlands and Shoalhaven,3427
+30SEP2021,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3308
+30SEP2021,NSW,116,Sydney - Blacktown,7798
+30SEP2021,NSW,117,Sydney - City and Inner South,3418
+30SEP2021,NSW,118,Sydney - Eastern Suburbs,2695
+30SEP2021,NSW,119,Sydney - Inner South West,9087
+30SEP2021,NSW,120,Sydney - Inner West,3379
+30SEP2021,NSW,121,Sydney - North Sydney and Hornsby,4412
+30SEP2021,NSW,122,Sydney - Northern Beaches,2990
+30SEP2021,NSW,123,Sydney - Outer South West,6841
+30SEP2021,NSW,124,Sydney - Outer West and Blue Mountains,7871
+30SEP2021,NSW,125,Sydney - Parramatta,8033
+30SEP2021,NSW,126,Sydney - Ryde,2636
+30SEP2021,NSW,127,Sydney - South West,8495
+30SEP2021,NSW,128,Sydney - Sutherland,3205
+30SEP2021,NT,-,Other,15
+30SEP2021,NT,701,Darwin,2553
+30SEP2021,NT,702,Northern Territory - Outback,1791
+30SEP2021,OT,901,Other Territories,42
+30SEP2021,QLD,-,Other,17
+30SEP2021,QLD,301,Brisbane - East,4459
+30SEP2021,QLD,302,Brisbane - North,3741
+30SEP2021,QLD,303,Brisbane - South,5367
+30SEP2021,QLD,304,Brisbane - West,2765
+30SEP2021,QLD,305,Brisbane Inner City,3171
+30SEP2021,QLD,306,Cairns,4372
+30SEP2021,QLD,307,Darling Downs - Maranoa,2475
+30SEP2021,QLD,308,Central Queensland,5321
+30SEP2021,QLD,309,Gold Coast,10230
+30SEP2021,QLD,310,Ipswich,8627
+30SEP2021,QLD,311,Logan - Beaudesert,7227
+30SEP2021,QLD,312,Mackay - Isaac - Whitsunday,3195
+30SEP2021,QLD,313,Moreton Bay - North,6358
+30SEP2021,QLD,314,Moreton Bay - South,4051
+30SEP2021,QLD,315,Queensland - Outback,1122
+30SEP2021,QLD,316,Sunshine Coast,7005
+30SEP2021,QLD,317,Toowoomba,4061
+30SEP2021,QLD,318,Townsville,5517
+30SEP2021,QLD,319,Wide Bay,8394
+30SEP2021,SA,401,Adelaide - Central and Hills,5258
+30SEP2021,SA,402,Adelaide - North,13771
+30SEP2021,SA,403,Adelaide - South,9259
+30SEP2021,SA,404,Adelaide - West,5400
+30SEP2021,SA,405,Barossa - Yorke - Mid North,2585
+30SEP2021,SA,406,South Australia - Outback,1831
+30SEP2021,SA,407,South Australia - South East,4362
+30SEP2021,TAS,-,Other,<11
+30SEP2021,TAS,601,Hobart,4774
+30SEP2021,TAS,602,Launceston and North East,3176
+30SEP2021,TAS,603,South East,560
+30SEP2021,TAS,604,West and North West,2569
+30SEP2021,VIC,-,Other,<11
+30SEP2021,VIC,201,Ballarat,4257
+30SEP2021,VIC,202,Bendigo,4885
+30SEP2021,VIC,203,Geelong,9082
+30SEP2021,VIC,204,Hume,4264
+30SEP2021,VIC,205,Latrobe - Gippsland,7161
+30SEP2021,VIC,206,Melbourne - Inner,7648
+30SEP2021,VIC,207,Melbourne - Inner East,5261
+30SEP2021,VIC,208,Melbourne - Inner South,6002
+30SEP2021,VIC,209,Melbourne - North East,10872
+30SEP2021,VIC,210,Melbourne - North West,9158
+30SEP2021,VIC,211,Melbourne - Outer East,10919
+30SEP2021,VIC,212,Melbourne - South East,15074
+30SEP2021,VIC,213,Melbourne - West,17164
+30SEP2021,VIC,214,Mornington Peninsula,7081
+30SEP2021,VIC,215,North West,3723
+30SEP2021,VIC,216,Shepparton,3362
+30SEP2021,VIC,217,Warrnambool and South West,3167
+30SEP2021,WA,-,Other,<11
+30SEP2021,WA,501,Bunbury,3523
+30SEP2021,WA,502,Mandurah,1822
+30SEP2021,WA,503,Perth - Inner,1972
+30SEP2021,WA,504,Perth - North East,5517
+30SEP2021,WA,505,Perth - North West,8204
+30SEP2021,WA,506,Perth - South East,8474
+30SEP2021,WA,507,Perth - South West,7238
+30SEP2021,WA,509,Western Australia - Wheat Belt,2013
+30SEP2021,WA,510,Western Australia - Outback (North),1303
+30SEP2021,WA,511,Western Australia - Outback (South),1587
+30JUN2021,ACT,-,Other,<11
+30JUN2021,ACT,801,Australian Capital Territory,8581
+30JUN2021,MIS,-,Other,21
+30JUN2021,NSW,-,Other,74
+30JUN2021,NSW,101,Capital Region,4546
+30JUN2021,NSW,102,Central Coast,8305
+30JUN2021,NSW,103,Central West,4469
+30JUN2021,NSW,104,Coffs Harbour - Grafton,3276
+30JUN2021,NSW,105,Far West and Orana,2598
+30JUN2021,NSW,106,Hunter Valley exc Newcastle,7994
+30JUN2021,NSW,107,Illawarra,6137
+30JUN2021,NSW,108,Mid North Coast,5976
+30JUN2021,NSW,109,Murray,2810
+30JUN2021,NSW,110,New England and North West,3897
+30JUN2021,NSW,111,Newcastle and Lake Macquarie,10783
+30JUN2021,NSW,112,Richmond - Tweed,5760
+30JUN2021,NSW,113,Riverina,3324
+30JUN2021,NSW,114,Southern Highlands and Shoalhaven,3319
+30JUN2021,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3217
+30JUN2021,NSW,116,Sydney - Blacktown,7462
+30JUN2021,NSW,117,Sydney - City and Inner South,3297
+30JUN2021,NSW,118,Sydney - Eastern Suburbs,2597
+30JUN2021,NSW,119,Sydney - Inner South West,8794
+30JUN2021,NSW,120,Sydney - Inner West,3282
+30JUN2021,NSW,121,Sydney - North Sydney and Hornsby,4249
+30JUN2021,NSW,122,Sydney - Northern Beaches,2908
+30JUN2021,NSW,123,Sydney - Outer South West,6567
+30JUN2021,NSW,124,Sydney - Outer West and Blue Mountains,7655
+30JUN2021,NSW,125,Sydney - Parramatta,7756
+30JUN2021,NSW,126,Sydney - Ryde,2555
+30JUN2021,NSW,127,Sydney - South West,8172
+30JUN2021,NSW,128,Sydney - Sutherland,3111
+30JUN2021,NT,-,Other,18
+30JUN2021,NT,701,Darwin,2449
+30JUN2021,NT,702,Northern Territory - Outback,1729
+30JUN2021,OT,901,Other Territories,41
+30JUN2021,QLD,-,Other,66
+30JUN2021,QLD,301,Brisbane - East,4245
+30JUN2021,QLD,302,Brisbane - North,3546
+30JUN2021,QLD,303,Brisbane - South,5119
+30JUN2021,QLD,304,Brisbane - West,2604
+30JUN2021,QLD,305,Brisbane Inner City,3008
+30JUN2021,QLD,306,Cairns,4157
+30JUN2021,QLD,307,Darling Downs - Maranoa,2383
+30JUN2021,QLD,308,Central Queensland,5056
+30JUN2021,QLD,309,Gold Coast,9719
+30JUN2021,QLD,310,Ipswich,8249
+30JUN2021,QLD,311,Logan - Beaudesert,6762
+30JUN2021,QLD,312,Mackay - Isaac - Whitsunday,3108
+30JUN2021,QLD,313,Moreton Bay - North,5970
+30JUN2021,QLD,314,Moreton Bay - South,3801
+30JUN2021,QLD,315,Queensland - Outback,1027
+30JUN2021,QLD,316,Sunshine Coast,6645
+30JUN2021,QLD,317,Toowoomba,3940
+30JUN2021,QLD,318,Townsville,5328
+30JUN2021,QLD,319,Wide Bay,8009
+30JUN2021,SA,-,Other,13
+30JUN2021,SA,401,Adelaide - Central and Hills,5069
+30JUN2021,SA,402,Adelaide - North,13259
+30JUN2021,SA,403,Adelaide - South,8986
+30JUN2021,SA,404,Adelaide - West,5217
+30JUN2021,SA,405,Barossa - Yorke - Mid North,2512
+30JUN2021,SA,406,South Australia - Outback,1777
+30JUN2021,SA,407,South Australia - South East,4201
+30JUN2021,TAS,-,Other,<11
+30JUN2021,TAS,601,Hobart,4570
+30JUN2021,TAS,602,Launceston and North East,3049
+30JUN2021,TAS,603,South East,533
+30JUN2021,TAS,604,West and North West,2503
+30JUN2021,VIC,-,Other,47
+30JUN2021,VIC,201,Ballarat,4147
+30JUN2021,VIC,202,Bendigo,4723
+30JUN2021,VIC,203,Geelong,8881
+30JUN2021,VIC,204,Hume,4134
+30JUN2021,VIC,205,Latrobe - Gippsland,6957
+30JUN2021,VIC,206,Melbourne - Inner,7371
+30JUN2021,VIC,207,Melbourne - Inner East,5114
+30JUN2021,VIC,208,Melbourne - Inner South,5755
+30JUN2021,VIC,209,Melbourne - North East,10525
+30JUN2021,VIC,210,Melbourne - North West,8736
+30JUN2021,VIC,211,Melbourne - Outer East,10603
+30JUN2021,VIC,212,Melbourne - South East,14482
+30JUN2021,VIC,213,Melbourne - West,16258
+30JUN2021,VIC,214,Mornington Peninsula,6754
+30JUN2021,VIC,215,North West,3621
+30JUN2021,VIC,216,Shepparton,3302
+30JUN2021,VIC,217,Warrnambool and South West,3091
+30JUN2021,WA,-,Other,21
+30JUN2021,WA,501,Bunbury,3379
+30JUN2021,WA,502,Mandurah,1743
+30JUN2021,WA,503,Perth - Inner,1871
+30JUN2021,WA,504,Perth - North East,5355
+30JUN2021,WA,505,Perth - North West,7853
+30JUN2021,WA,506,Perth - South East,8087
+30JUN2021,WA,507,Perth - South West,6919
+30JUN2021,WA,509,Western Australia - Wheat Belt,1949
+30JUN2021,WA,510,Western Australia - Outback (North),1253
+30JUN2021,WA,511,Western Australia - Outback (South),1521
+31MAR2021,ACT,-,Other,<11
+31MAR2021,ACT,801,Australian Capital Territory,8380
+31MAR2021,MIS,-,Other,<11
+31MAR2021,NSW,-,Other,50
+31MAR2021,NSW,101,Capital Region,4461
+31MAR2021,NSW,102,Central Coast,8094
+31MAR2021,NSW,103,Central West,4332
+31MAR2021,NSW,104,Coffs Harbour - Grafton,3151
+31MAR2021,NSW,105,Far West and Orana,2491
+31MAR2021,NSW,106,Hunter Valley exc Newcastle,7787
+31MAR2021,NSW,107,Illawarra,5935
+31MAR2021,NSW,108,Mid North Coast,5772
+31MAR2021,NSW,109,Murray,2706
+31MAR2021,NSW,110,New England and North West,3753
+31MAR2021,NSW,111,Newcastle and Lake Macquarie,10516
+31MAR2021,NSW,112,Richmond - Tweed,5576
+31MAR2021,NSW,113,Riverina,3239
+31MAR2021,NSW,114,Southern Highlands and Shoalhaven,3250
+31MAR2021,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3101
+31MAR2021,NSW,116,Sydney - Blacktown,7165
+31MAR2021,NSW,117,Sydney - City and Inner South,3171
+31MAR2021,NSW,118,Sydney - Eastern Suburbs,2511
+31MAR2021,NSW,119,Sydney - Inner South West,8512
+31MAR2021,NSW,120,Sydney - Inner West,3164
+31MAR2021,NSW,121,Sydney - North Sydney and Hornsby,4135
+31MAR2021,NSW,122,Sydney - Northern Beaches,2822
+31MAR2021,NSW,123,Sydney - Outer South West,6295
+31MAR2021,NSW,124,Sydney - Outer West and Blue Mountains,7454
+31MAR2021,NSW,125,Sydney - Parramatta,7454
+31MAR2021,NSW,126,Sydney - Ryde,2487
+31MAR2021,NSW,127,Sydney - South West,7849
+31MAR2021,NSW,128,Sydney - Sutherland,2988
+31MAR2021,NT,-,Other,13
+31MAR2021,NT,701,Darwin,2327
+31MAR2021,NT,702,Northern Territory - Outback,1651
+31MAR2021,OT,901,Other Territories,37
+31MAR2021,QLD,-,Other,53
+31MAR2021,QLD,301,Brisbane - East,4064
+31MAR2021,QLD,302,Brisbane - North,3434
+31MAR2021,QLD,303,Brisbane - South,4886
+31MAR2021,QLD,304,Brisbane - West,2501
+31MAR2021,QLD,305,Brisbane Inner City,2860
+31MAR2021,QLD,306,Cairns,3955
+31MAR2021,QLD,307,Darling Downs - Maranoa,2265
+31MAR2021,QLD,308,Central Queensland,4803
+31MAR2021,QLD,309,Gold Coast,9246
+31MAR2021,QLD,310,Ipswich,7932
+31MAR2021,QLD,311,Logan - Beaudesert,6390
+31MAR2021,QLD,312,Mackay - Isaac - Whitsunday,2992
+31MAR2021,QLD,313,Moreton Bay - North,5659
+31MAR2021,QLD,314,Moreton Bay - South,3585
+31MAR2021,QLD,315,Queensland - Outback,984
+31MAR2021,QLD,316,Sunshine Coast,6345
+31MAR2021,QLD,317,Toowoomba,3813
+31MAR2021,QLD,318,Townsville,5148
+31MAR2021,QLD,319,Wide Bay,7719
+31MAR2021,SA,-,Other,<11
+31MAR2021,SA,401,Adelaide - Central and Hills,4886
+31MAR2021,SA,402,Adelaide - North,12850
+31MAR2021,SA,403,Adelaide - South,8664
+31MAR2021,SA,404,Adelaide - West,5023
+31MAR2021,SA,405,Barossa - Yorke - Mid North,2416
+31MAR2021,SA,406,South Australia - Outback,1728
+31MAR2021,SA,407,South Australia - South East,4031
+31MAR2021,TAS,-,Other,<11
+31MAR2021,TAS,601,Hobart,4429
+31MAR2021,TAS,602,Launceston and North East,2919
+31MAR2021,TAS,603,South East,504
+31MAR2021,TAS,604,West and North West,2414
+31MAR2021,VIC,-,Other,56
+31MAR2021,VIC,201,Ballarat,4027
+31MAR2021,VIC,202,Bendigo,4573
+31MAR2021,VIC,203,Geelong,8673
+31MAR2021,VIC,204,Hume,4021
+31MAR2021,VIC,205,Latrobe - Gippsland,6742
+31MAR2021,VIC,206,Melbourne - Inner,7060
+31MAR2021,VIC,207,Melbourne - Inner East,4956
+31MAR2021,VIC,208,Melbourne - Inner South,5534
+31MAR2021,VIC,209,Melbourne - North East,10206
+31MAR2021,VIC,210,Melbourne - North West,8454
+31MAR2021,VIC,211,Melbourne - Outer East,10404
+31MAR2021,VIC,212,Melbourne - South East,13965
+31MAR2021,VIC,213,Melbourne - West,15507
+31MAR2021,VIC,214,Mornington Peninsula,6513
+31MAR2021,VIC,215,North West,3500
+31MAR2021,VIC,216,Shepparton,3183
+31MAR2021,VIC,217,Warrnambool and South West,3001
+31MAR2021,WA,-,Other,<11
+31MAR2021,WA,501,Bunbury,3269
+31MAR2021,WA,502,Mandurah,1667
+31MAR2021,WA,503,Perth - Inner,1779
+31MAR2021,WA,504,Perth - North East,5219
+31MAR2021,WA,505,Perth - North West,7577
+31MAR2021,WA,506,Perth - South East,7737
+31MAR2021,WA,507,Perth - South West,6714
+31MAR2021,WA,509,Western Australia - Wheat Belt,1874
+31MAR2021,WA,510,Western Australia - Outback (North),1198
+31MAR2021,WA,511,Western Australia - Outback (South),1426
+31DEC2020,ACT,-,Other,<11
+31DEC2020,ACT,801,Australian Capital Territory,8142
+31DEC2020,MIS,-,Other,<11
+31DEC2020,NSW,-,Other,20
+31DEC2020,NSW,101,Capital Region,4352
+31DEC2020,NSW,102,Central Coast,7839
+31DEC2020,NSW,103,Central West,4202
+31DEC2020,NSW,104,Coffs Harbour - Grafton,3040
+31DEC2020,NSW,105,Far West and Orana,2388
+31DEC2020,NSW,106,Hunter Valley exc Newcastle,7511
+31DEC2020,NSW,107,Illawarra,5716
+31DEC2020,NSW,108,Mid North Coast,5557
+31DEC2020,NSW,109,Murray,2589
+31DEC2020,NSW,110,New England and North West,3610
+31DEC2020,NSW,111,Newcastle and Lake Macquarie,10246
+31DEC2020,NSW,112,Richmond - Tweed,5345
+31DEC2020,NSW,113,Riverina,3123
+31DEC2020,NSW,114,Southern Highlands and Shoalhaven,3185
+31DEC2020,NSW,115,Sydney - Baulkham Hills and Hawkesbury,2983
+31DEC2020,NSW,116,Sydney - Blacktown,6882
+31DEC2020,NSW,117,Sydney - City and Inner South,3079
+31DEC2020,NSW,118,Sydney - Eastern Suburbs,2416
+31DEC2020,NSW,119,Sydney - Inner South West,8227
+31DEC2020,NSW,120,Sydney - Inner West,3053
+31DEC2020,NSW,121,Sydney - North Sydney and Hornsby,4009
+31DEC2020,NSW,122,Sydney - Northern Beaches,2745
+31DEC2020,NSW,123,Sydney - Outer South West,6058
+31DEC2020,NSW,124,Sydney - Outer West and Blue Mountains,7240
+31DEC2020,NSW,125,Sydney - Parramatta,7147
+31DEC2020,NSW,126,Sydney - Ryde,2409
+31DEC2020,NSW,127,Sydney - South West,7556
+31DEC2020,NSW,128,Sydney - Sutherland,2875
+31DEC2020,NT,-,Other,<11
+31DEC2020,NT,701,Darwin,2241
+31DEC2020,NT,702,Northern Territory - Outback,1597
+31DEC2020,OT,901,Other Territories,36
+31DEC2020,QLD,-,Other,26
+31DEC2020,QLD,301,Brisbane - East,3869
+31DEC2020,QLD,302,Brisbane - North,3248
+31DEC2020,QLD,303,Brisbane - South,4695
+31DEC2020,QLD,304,Brisbane - West,2343
+31DEC2020,QLD,305,Brisbane Inner City,2722
+31DEC2020,QLD,306,Cairns,3749
+31DEC2020,QLD,307,Darling Downs - Maranoa,2169
+31DEC2020,QLD,308,Central Queensland,4583
+31DEC2020,QLD,309,Gold Coast,8552
+31DEC2020,QLD,310,Ipswich,7558
+31DEC2020,QLD,311,Logan - Beaudesert,6012
+31DEC2020,QLD,312,Mackay - Isaac - Whitsunday,2911
+31DEC2020,QLD,313,Moreton Bay - North,5240
+31DEC2020,QLD,314,Moreton Bay - South,3343
+31DEC2020,QLD,315,Queensland - Outback,955
+31DEC2020,QLD,316,Sunshine Coast,5886
+31DEC2020,QLD,317,Toowoomba,3675
+31DEC2020,QLD,318,Townsville,5021
+31DEC2020,QLD,319,Wide Bay,7405
+31DEC2020,SA,-,Other,<11
+31DEC2020,SA,401,Adelaide - Central and Hills,4736
+31DEC2020,SA,402,Adelaide - North,12336
+31DEC2020,SA,403,Adelaide - South,8367
+31DEC2020,SA,404,Adelaide - West,4850
+31DEC2020,SA,405,Barossa - Yorke - Mid North,2334
+31DEC2020,SA,406,South Australia - Outback,1666
+31DEC2020,SA,407,South Australia - South East,3900
+31DEC2020,TAS,-,Other,<11
+31DEC2020,TAS,601,Hobart,4248
+31DEC2020,TAS,602,Launceston and North East,2809
+31DEC2020,TAS,603,South East,478
+31DEC2020,TAS,604,West and North West,2332
+31DEC2020,VIC,-,Other,19
+31DEC2020,VIC,201,Ballarat,3914
+31DEC2020,VIC,202,Bendigo,4402
+31DEC2020,VIC,203,Geelong,8469
+31DEC2020,VIC,204,Hume,3888
+31DEC2020,VIC,205,Latrobe - Gippsland,6539
+31DEC2020,VIC,206,Melbourne - Inner,6871
+31DEC2020,VIC,207,Melbourne - Inner East,4836
+31DEC2020,VIC,208,Melbourne - Inner South,5381
+31DEC2020,VIC,209,Melbourne - North East,9923
+31DEC2020,VIC,210,Melbourne - North West,8152
+31DEC2020,VIC,211,Melbourne - Outer East,10161
+31DEC2020,VIC,212,Melbourne - South East,13502
+31DEC2020,VIC,213,Melbourne - West,14669
+31DEC2020,VIC,214,Mornington Peninsula,6288
+31DEC2020,VIC,215,North West,3380
+31DEC2020,VIC,216,Shepparton,3072
+31DEC2020,VIC,217,Warrnambool and South West,2914
+31DEC2020,WA,-,Other,<11
+31DEC2020,WA,501,Bunbury,3128
+31DEC2020,WA,502,Mandurah,1631
+31DEC2020,WA,503,Perth - Inner,1676
+31DEC2020,WA,504,Perth - North East,5038
+31DEC2020,WA,505,Perth - North West,7214
+31DEC2020,WA,506,Perth - South East,7409
+31DEC2020,WA,507,Perth - South West,6428
+31DEC2020,WA,509,Western Australia - Wheat Belt,1785
+31DEC2020,WA,510,Western Australia - Outback (North),1142
+31DEC2020,WA,511,Western Australia - Outback (South),1350
+30SEP2020,ACT,-,Other,<11
+30SEP2020,ACT,801,Australian Capital Territory,7905
+30SEP2020,MIS,-,Other,<11
+30SEP2020,NSW,-,Other,45
+30SEP2020,NSW,101,Capital Region,4170
+30SEP2020,NSW,102,Central Coast,7584
+30SEP2020,NSW,103,Central West,4044
+30SEP2020,NSW,104,Coffs Harbour - Grafton,2899
+30SEP2020,NSW,105,Far West and Orana,2275
+30SEP2020,NSW,106,Hunter Valley exc Newcastle,7278
+30SEP2020,NSW,107,Illawarra,5451
+30SEP2020,NSW,108,Mid North Coast,5276
+30SEP2020,NSW,109,Murray,2500
+30SEP2020,NSW,110,New England and North West,3516
+30SEP2020,NSW,111,Newcastle and Lake Macquarie,9973
+30SEP2020,NSW,112,Richmond - Tweed,5119
+30SEP2020,NSW,113,Riverina,2992
+30SEP2020,NSW,114,Southern Highlands and Shoalhaven,3080
+30SEP2020,NSW,115,Sydney - Baulkham Hills and Hawkesbury,2864
+30SEP2020,NSW,116,Sydney - Blacktown,6548
+30SEP2020,NSW,117,Sydney - City and Inner South,2950
+30SEP2020,NSW,118,Sydney - Eastern Suburbs,2323
+30SEP2020,NSW,119,Sydney - Inner South West,7869
+30SEP2020,NSW,120,Sydney - Inner West,2951
+30SEP2020,NSW,121,Sydney - North Sydney and Hornsby,3846
+30SEP2020,NSW,122,Sydney - Northern Beaches,2643
+30SEP2020,NSW,123,Sydney - Outer South West,5820
+30SEP2020,NSW,124,Sydney - Outer West and Blue Mountains,6950
+30SEP2020,NSW,125,Sydney - Parramatta,6849
+30SEP2020,NSW,126,Sydney - Ryde,2318
+30SEP2020,NSW,127,Sydney - South West,7208
+30SEP2020,NSW,128,Sydney - Sutherland,2777
+30SEP2020,NT,-,Other,<11
+30SEP2020,NT,701,Darwin,2104
+30SEP2020,NT,702,Northern Territory - Outback,1524
+30SEP2020,OT,901,Other Territories,34
+30SEP2020,QLD,-,Other,54
+30SEP2020,QLD,301,Brisbane - East,3609
+30SEP2020,QLD,302,Brisbane - North,3102
+30SEP2020,QLD,303,Brisbane - South,4437
+30SEP2020,QLD,304,Brisbane - West,2212
+30SEP2020,QLD,305,Brisbane Inner City,2583
+30SEP2020,QLD,306,Cairns,3507
+30SEP2020,QLD,307,Darling Downs - Maranoa,2061
+30SEP2020,QLD,308,Central Queensland,4311
+30SEP2020,QLD,309,Gold Coast,7880
+30SEP2020,QLD,310,Ipswich,7138
+30SEP2020,QLD,311,Logan - Beaudesert,5609
+30SEP2020,QLD,312,Mackay - Isaac - Whitsunday,2775
+30SEP2020,QLD,313,Moreton Bay - North,4834
+30SEP2020,QLD,314,Moreton Bay - South,3119
+30SEP2020,QLD,315,Queensland - Outback,906
+30SEP2020,QLD,316,Sunshine Coast,5418
+30SEP2020,QLD,317,Toowoomba,3526
+30SEP2020,QLD,318,Townsville,4821
+30SEP2020,QLD,319,Wide Bay,6909
+30SEP2020,SA,-,Other,<11
+30SEP2020,SA,401,Adelaide - Central and Hills,4559
+30SEP2020,SA,402,Adelaide - North,11842
+30SEP2020,SA,403,Adelaide - South,8071
+30SEP2020,SA,404,Adelaide - West,4644
+30SEP2020,SA,405,Barossa - Yorke - Mid North,2266
+30SEP2020,SA,406,South Australia - Outback,1603
+30SEP2020,SA,407,South Australia - South East,3721
+30SEP2020,TAS,-,Other,<11
+30SEP2020,TAS,601,Hobart,4035
+30SEP2020,TAS,602,Launceston and North East,2630
+30SEP2020,TAS,603,South East,465
+30SEP2020,TAS,604,West and North West,2226
+30SEP2020,VIC,-,Other,42
+30SEP2020,VIC,201,Ballarat,3761
+30SEP2020,VIC,202,Bendigo,4195
+30SEP2020,VIC,203,Geelong,8244
+30SEP2020,VIC,204,Hume,3707
+30SEP2020,VIC,205,Latrobe - Gippsland,6267
+30SEP2020,VIC,206,Melbourne - Inner,6578
+30SEP2020,VIC,207,Melbourne - Inner East,4673
+30SEP2020,VIC,208,Melbourne - Inner South,5151
+30SEP2020,VIC,209,Melbourne - North East,9543
+30SEP2020,VIC,210,Melbourne - North West,7722
+30SEP2020,VIC,211,Melbourne - Outer East,9785
+30SEP2020,VIC,212,Melbourne - South East,12897
+30SEP2020,VIC,213,Melbourne - West,13685
+30SEP2020,VIC,214,Mornington Peninsula,6001
+30SEP2020,VIC,215,North West,3252
+30SEP2020,VIC,216,Shepparton,2893
+30SEP2020,VIC,217,Warrnambool and South West,2814
+30SEP2020,WA,-,Other,14
+30SEP2020,WA,501,Bunbury,2973
+30SEP2020,WA,502,Mandurah,1557
+30SEP2020,WA,503,Perth - Inner,1536
+30SEP2020,WA,504,Perth - North East,4806
+30SEP2020,WA,505,Perth - North West,6762
+30SEP2020,WA,506,Perth - South East,6956
+30SEP2020,WA,507,Perth - South West,6119
+30SEP2020,WA,509,Western Australia - Wheat Belt,1703
+30SEP2020,WA,510,Western Australia - Outback (North),1068
+30SEP2020,WA,511,Western Australia - Outback (South),1257
+30JUN2020,ACT,-,Other,<11
+30JUN2020,ACT,801,Australian Capital Territory,7702
+30JUN2020,MIS,-,Other,12
+30JUN2020,NSW,-,Other,41
+30JUN2020,NSW,101,Capital Region,4034
+30JUN2020,NSW,102,Central Coast,7239
+30JUN2020,NSW,103,Central West,3900
+30JUN2020,NSW,104,Coffs Harbour - Grafton,2761
+30JUN2020,NSW,105,Far West and Orana,2174
+30JUN2020,NSW,106,Hunter Valley exc Newcastle,6948
+30JUN2020,NSW,107,Illawarra,5182
+30JUN2020,NSW,108,Mid North Coast,5011
+30JUN2020,NSW,109,Murray,2371
+30JUN2020,NSW,110,New England and North West,3373
+30JUN2020,NSW,111,Newcastle and Lake Macquarie,9678
+30JUN2020,NSW,112,Richmond - Tweed,4868
+30JUN2020,NSW,113,Riverina,2884
+30JUN2020,NSW,114,Southern Highlands and Shoalhaven,2961
+30JUN2020,NSW,115,Sydney - Baulkham Hills and Hawkesbury,2727
+30JUN2020,NSW,116,Sydney - Blacktown,6260
+30JUN2020,NSW,117,Sydney - City and Inner South,2855
+30JUN2020,NSW,118,Sydney - Eastern Suburbs,2245
+30JUN2020,NSW,119,Sydney - Inner South West,7548
+30JUN2020,NSW,120,Sydney - Inner West,2814
+30JUN2020,NSW,121,Sydney - North Sydney and Hornsby,3699
+30JUN2020,NSW,122,Sydney - Northern Beaches,2538
+30JUN2020,NSW,123,Sydney - Outer South West,5550
+30JUN2020,NSW,124,Sydney - Outer West and Blue Mountains,6655
+30JUN2020,NSW,125,Sydney - Parramatta,6559
+30JUN2020,NSW,126,Sydney - Ryde,2252
+30JUN2020,NSW,127,Sydney - South West,6830
+30JUN2020,NSW,128,Sydney - Sutherland,2668
+30JUN2020,NT,-,Other,<11
+30JUN2020,NT,701,Darwin,1976
+30JUN2020,NT,702,Northern Territory - Outback,1449
+30JUN2020,OT,901,Other Territories,24
+30JUN2020,QLD,-,Other,43
+30JUN2020,QLD,301,Brisbane - East,3340
+30JUN2020,QLD,302,Brisbane - North,2901
+30JUN2020,QLD,303,Brisbane - South,4161
+30JUN2020,QLD,304,Brisbane - West,2095
+30JUN2020,QLD,305,Brisbane Inner City,2408
+30JUN2020,QLD,306,Cairns,3315
+30JUN2020,QLD,307,Darling Downs - Maranoa,1979
+30JUN2020,QLD,308,Central Queensland,4040
+30JUN2020,QLD,309,Gold Coast,7201
+30JUN2020,QLD,310,Ipswich,6765
+30JUN2020,QLD,311,Logan - Beaudesert,5155
+30JUN2020,QLD,312,Mackay - Isaac - Whitsunday,2638
+30JUN2020,QLD,313,Moreton Bay - North,4461
+30JUN2020,QLD,314,Moreton Bay - South,2853
+30JUN2020,QLD,315,Queensland - Outback,844
+30JUN2020,QLD,316,Sunshine Coast,4996
+30JUN2020,QLD,317,Toowoomba,3402
+30JUN2020,QLD,318,Townsville,4625
+30JUN2020,QLD,319,Wide Bay,6504
+30JUN2020,SA,-,Other,12
+30JUN2020,SA,401,Adelaide - Central and Hills,4358
+30JUN2020,SA,402,Adelaide - North,11329
+30JUN2020,SA,403,Adelaide - South,7738
+30JUN2020,SA,404,Adelaide - West,4462
+30JUN2020,SA,405,Barossa - Yorke - Mid North,2194
+30JUN2020,SA,406,South Australia - Outback,1530
+30JUN2020,SA,407,South Australia - South East,3583
+30JUN2020,TAS,-,Other,<11
+30JUN2020,TAS,601,Hobart,3832
+30JUN2020,TAS,602,Launceston and North East,2460
+30JUN2020,TAS,603,South East,440
+30JUN2020,TAS,604,West and North West,2120
+30JUN2020,VIC,-,Other,46
+30JUN2020,VIC,201,Ballarat,3646
+30JUN2020,VIC,202,Bendigo,3952
+30JUN2020,VIC,203,Geelong,8017
+30JUN2020,VIC,204,Hume,3551
+30JUN2020,VIC,205,Latrobe - Gippsland,5981
+30JUN2020,VIC,206,Melbourne - Inner,6307
+30JUN2020,VIC,207,Melbourne - Inner East,4479
+30JUN2020,VIC,208,Melbourne - Inner South,4877
+30JUN2020,VIC,209,Melbourne - North East,9199
+30JUN2020,VIC,210,Melbourne - North West,7365
+30JUN2020,VIC,211,Melbourne - Outer East,9353
+30JUN2020,VIC,212,Melbourne - South East,12147
+30JUN2020,VIC,213,Melbourne - West,12970
+30JUN2020,VIC,214,Mornington Peninsula,5617
+30JUN2020,VIC,215,North West,3126
+30JUN2020,VIC,216,Shepparton,2721
+30JUN2020,VIC,217,Warrnambool and South West,2724
+30JUN2020,WA,-,Other,15
+30JUN2020,WA,501,Bunbury,2806
+30JUN2020,WA,502,Mandurah,1473
+30JUN2020,WA,503,Perth - Inner,1360
+30JUN2020,WA,504,Perth - North East,4632
+30JUN2020,WA,505,Perth - North West,6168
+30JUN2020,WA,506,Perth - South East,6401
+30JUN2020,WA,507,Perth - South West,5755
+30JUN2020,WA,509,Western Australia - Wheat Belt,1606
+30JUN2020,WA,510,Western Australia - Outback (North),989
+30JUN2020,WA,511,Western Australia - Outback (South),1130
+31MAR2020,ACT,-,Other,<11
+31MAR2020,ACT,801,Australian Capital Territory,7487
+31MAR2020,NSW,-,Other,55
+31MAR2020,NSW,101,Capital Region,3911
+31MAR2020,NSW,102,Central Coast,6947
+31MAR2020,NSW,103,Central West,3714
+31MAR2020,NSW,104,Coffs Harbour - Grafton,2631
+31MAR2020,NSW,105,Far West and Orana,2081
+31MAR2020,NSW,106,Hunter Valley exc Newcastle,6674
+31MAR2020,NSW,107,Illawarra,4909
+31MAR2020,NSW,108,Mid North Coast,4781
+31MAR2020,NSW,109,Murray,2204
+31MAR2020,NSW,110,New England and North West,3270
+31MAR2020,NSW,111,Newcastle and Lake Macquarie,9456
+31MAR2020,NSW,112,Richmond - Tweed,4635
+31MAR2020,NSW,113,Riverina,2769
+31MAR2020,NSW,114,Southern Highlands and Shoalhaven,2827
+31MAR2020,NSW,115,Sydney - Baulkham Hills and Hawkesbury,2615
+31MAR2020,NSW,116,Sydney - Blacktown,5955
+31MAR2020,NSW,117,Sydney - City and Inner South,2705
+31MAR2020,NSW,118,Sydney - Eastern Suburbs,2124
+31MAR2020,NSW,119,Sydney - Inner South West,7200
+31MAR2020,NSW,120,Sydney - Inner West,2709
+31MAR2020,NSW,121,Sydney - North Sydney and Hornsby,3532
+31MAR2020,NSW,122,Sydney - Northern Beaches,2434
+31MAR2020,NSW,123,Sydney - Outer South West,5295
+31MAR2020,NSW,124,Sydney - Outer West and Blue Mountains,6399
+31MAR2020,NSW,125,Sydney - Parramatta,6269
+31MAR2020,NSW,126,Sydney - Ryde,2161
+31MAR2020,NSW,127,Sydney - South West,6461
+31MAR2020,NSW,128,Sydney - Sutherland,2541
+31MAR2020,NT,-,Other,<11
+31MAR2020,NT,701,Darwin,1797
+31MAR2020,NT,702,Northern Territory - Outback,1323
+31MAR2020,OT,-,Other,<11
+31MAR2020,OT,901,Other Territories,23
+31MAR2020,QLD,-,Other,52
+31MAR2020,QLD,301,Brisbane - East,3071
+31MAR2020,QLD,302,Brisbane - North,2653
+31MAR2020,QLD,303,Brisbane - South,3806
+31MAR2020,QLD,304,Brisbane - West,1930
+31MAR2020,QLD,305,Brisbane Inner City,2212
+31MAR2020,QLD,306,Cairns,2993
+31MAR2020,QLD,307,Darling Downs - Maranoa,1875
+31MAR2020,QLD,308,Central Queensland,3806
+31MAR2020,QLD,309,Gold Coast,6547
+31MAR2020,QLD,310,Ipswich,6399
+31MAR2020,QLD,311,Logan - Beaudesert,4631
+31MAR2020,QLD,312,Mackay - Isaac - Whitsunday,2524
+31MAR2020,QLD,313,Moreton Bay - North,3816
+31MAR2020,QLD,314,Moreton Bay - South,2505
+31MAR2020,QLD,315,Queensland - Outback,764
+31MAR2020,QLD,316,Sunshine Coast,4415
+31MAR2020,QLD,317,Toowoomba,3282
+31MAR2020,QLD,318,Townsville,4463
+31MAR2020,QLD,319,Wide Bay,5943
+31MAR2020,SA,-,Other,13
+31MAR2020,SA,401,Adelaide - Central and Hills,4100
+31MAR2020,SA,402,Adelaide - North,10711
+31MAR2020,SA,403,Adelaide - South,7202
+31MAR2020,SA,404,Adelaide - West,4226
+31MAR2020,SA,405,Barossa - Yorke - Mid North,2096
+31MAR2020,SA,406,South Australia - Outback,1397
+31MAR2020,SA,407,South Australia - South East,3382
+31MAR2020,TAS,-,Other,<11
+31MAR2020,TAS,601,Hobart,3591
+31MAR2020,TAS,602,Launceston and North East,2300
+31MAR2020,TAS,603,South East,402
+31MAR2020,TAS,604,West and North West,2046
+31MAR2020,VIC,-,Other,49
+31MAR2020,VIC,201,Ballarat,3502
+31MAR2020,VIC,202,Bendigo,3718
+31MAR2020,VIC,203,Geelong,7767
+31MAR2020,VIC,204,Hume,3402
+31MAR2020,VIC,205,Latrobe - Gippsland,5585
+31MAR2020,VIC,206,Melbourne - Inner,5791
+31MAR2020,VIC,207,Melbourne - Inner East,4283
+31MAR2020,VIC,208,Melbourne - Inner South,4480
+31MAR2020,VIC,209,Melbourne - North East,8717
+31MAR2020,VIC,210,Melbourne - North West,6723
+31MAR2020,VIC,211,Melbourne - Outer East,8800
+31MAR2020,VIC,212,Melbourne - South East,11183
+31MAR2020,VIC,213,Melbourne - West,11483
+31MAR2020,VIC,214,Mornington Peninsula,5041
+31MAR2020,VIC,215,North West,2891
+31MAR2020,VIC,216,Shepparton,2508
+31MAR2020,VIC,217,Warrnambool and South West,2618
+31MAR2020,WA,-,Other,<11
+31MAR2020,WA,501,Bunbury,2458
+31MAR2020,WA,502,Mandurah,1360
+31MAR2020,WA,503,Perth - Inner,1047
+31MAR2020,WA,504,Perth - North East,4370
+31MAR2020,WA,505,Perth - North West,4706
+31MAR2020,WA,506,Perth - South East,5209
+31MAR2020,WA,507,Perth - South West,5034
+31MAR2020,WA,509,Western Australia - Wheat Belt,1291
+31MAR2020,WA,510,Western Australia - Outback (North),896
+31MAR2020,WA,511,Western Australia - Outback (South),900
+31DEC2019,ACT,-,Other,<11
+31DEC2019,ACT,801,Australian Capital Territory,7257
+31DEC2019,NSW,-,Other,18
+31DEC2019,NSW,101,Capital Region,3759
+31DEC2019,NSW,102,Central Coast,6609
+31DEC2019,NSW,103,Central West,3480
+31DEC2019,NSW,104,Coffs Harbour - Grafton,2483
+31DEC2019,NSW,105,Far West and Orana,1970
+31DEC2019,NSW,106,Hunter Valley exc Newcastle,6389
+31DEC2019,NSW,107,Illawarra,4709
+31DEC2019,NSW,108,Mid North Coast,4565
+31DEC2019,NSW,109,Murray,2057
+31DEC2019,NSW,110,New England and North West,3148
+31DEC2019,NSW,111,Newcastle and Lake Macquarie,9204
+31DEC2019,NSW,112,Richmond - Tweed,4413
+31DEC2019,NSW,113,Riverina,2649
+31DEC2019,NSW,114,Southern Highlands and Shoalhaven,2737
+31DEC2019,NSW,115,Sydney - Baulkham Hills and Hawkesbury,2503
+31DEC2019,NSW,116,Sydney - Blacktown,5621
+31DEC2019,NSW,117,Sydney - City and Inner South,2558
+31DEC2019,NSW,118,Sydney - Eastern Suburbs,2014
+31DEC2019,NSW,119,Sydney - Inner South West,6789
+31DEC2019,NSW,120,Sydney - Inner West,2557
+31DEC2019,NSW,121,Sydney - North Sydney and Hornsby,3333
+31DEC2019,NSW,122,Sydney - Northern Beaches,2331
+31DEC2019,NSW,123,Sydney - Outer South West,5040
+31DEC2019,NSW,124,Sydney - Outer West and Blue Mountains,6066
+31DEC2019,NSW,125,Sydney - Parramatta,5997
+31DEC2019,NSW,126,Sydney - Ryde,2067
+31DEC2019,NSW,127,Sydney - South West,6115
+31DEC2019,NSW,128,Sydney - Sutherland,2409
+31DEC2019,NT,-,Other,<11
+31DEC2019,NT,701,Darwin,1603
+31DEC2019,NT,702,Northern Territory - Outback,1215
+31DEC2019,OT,901,Other Territories,23
+31DEC2019,QLD,-,Other,14
+31DEC2019,QLD,301,Brisbane - East,2756
+31DEC2019,QLD,302,Brisbane - North,2385
+31DEC2019,QLD,303,Brisbane - South,3411
+31DEC2019,QLD,304,Brisbane - West,1696
+31DEC2019,QLD,305,Brisbane Inner City,2003
+31DEC2019,QLD,306,Cairns,2733
+31DEC2019,QLD,307,Darling Downs - Maranoa,1782
+31DEC2019,QLD,308,Central Queensland,3477
+31DEC2019,QLD,309,Gold Coast,5848
+31DEC2019,QLD,310,Ipswich,5924
+31DEC2019,QLD,311,Logan - Beaudesert,4108
+31DEC2019,QLD,312,Mackay - Isaac - Whitsunday,2380
+31DEC2019,QLD,313,Moreton Bay - North,3425
+31DEC2019,QLD,314,Moreton Bay - South,2275
+31DEC2019,QLD,315,Queensland - Outback,680
+31DEC2019,QLD,316,Sunshine Coast,3905
+31DEC2019,QLD,317,Toowoomba,3131
+31DEC2019,QLD,318,Townsville,4268
+31DEC2019,QLD,319,Wide Bay,5382
+31DEC2019,SA,401,Adelaide - Central and Hills,3812
+31DEC2019,SA,402,Adelaide - North,10140
+31DEC2019,SA,403,Adelaide - South,6715
+31DEC2019,SA,404,Adelaide - West,3984
+31DEC2019,SA,405,Barossa - Yorke - Mid North,2006
+31DEC2019,SA,406,South Australia - Outback,1298
+31DEC2019,SA,407,South Australia - South East,3177
+31DEC2019,TAS,601,Hobart,3280
+31DEC2019,TAS,602,Launceston and North East,2121
+31DEC2019,TAS,603,South East,371
+31DEC2019,TAS,604,West and North West,1907
+31DEC2019,VIC,-,Other,15
+31DEC2019,VIC,201,Ballarat,3322
+31DEC2019,VIC,202,Bendigo,3434
+31DEC2019,VIC,203,Geelong,7502
+31DEC2019,VIC,204,Hume,3166
+31DEC2019,VIC,205,Latrobe - Gippsland,5099
+31DEC2019,VIC,206,Melbourne - Inner,5337
+31DEC2019,VIC,207,Melbourne - Inner East,3962
+31DEC2019,VIC,208,Melbourne - Inner South,4082
+31DEC2019,VIC,209,Melbourne - North East,8284
+31DEC2019,VIC,210,Melbourne - North West,6091
+31DEC2019,VIC,211,Melbourne - Outer East,8163
+31DEC2019,VIC,212,Melbourne - South East,9935
+31DEC2019,VIC,213,Melbourne - West,10322
+31DEC2019,VIC,214,Mornington Peninsula,4539
+31DEC2019,VIC,215,North West,2643
+31DEC2019,VIC,216,Shepparton,2300
+31DEC2019,VIC,217,Warrnambool and South West,2498
+31DEC2019,WA,-,Other,<11
+31DEC2019,WA,501,Bunbury,2267
+31DEC2019,WA,502,Mandurah,1260
+31DEC2019,WA,503,Perth - Inner,758
+31DEC2019,WA,504,Perth - North East,4228
+31DEC2019,WA,505,Perth - North West,3824
+31DEC2019,WA,506,Perth - South East,4444
+31DEC2019,WA,507,Perth - South West,4825
+31DEC2019,WA,509,Western Australia - Wheat Belt,1044
+31DEC2019,WA,510,Western Australia - Outback (North),831
+31DEC2019,WA,511,Western Australia - Outback (South),719
+31MAR2022,ACT,-,Other,<11
+31MAR2022,ACT,801,Australian Capital Territory,9162
+31MAR2022,MIS,-,Other,17
+31MAR2022,NSW,-,Other,13
+31MAR2022,NSW,101,Capital Region,4864
+31MAR2022,NSW,102,Central Coast,8956
+31MAR2022,NSW,103,Central West,4905
+31MAR2022,NSW,104,Coffs Harbour - Grafton,3560
+31MAR2022,NSW,105,Far West and Orana,2872
+31MAR2022,NSW,106,Hunter Valley exc Newcastle,8669
+31MAR2022,NSW,107,Illawarra,6608
+31MAR2022,NSW,108,Mid North Coast,6527
+31MAR2022,NSW,109,Murray,3032
+31MAR2022,NSW,110,New England and North West,4217
+31MAR2022,NSW,111,Newcastle and Lake Macquarie,11389
+31MAR2022,NSW,112,Richmond - Tweed,6281
+31MAR2022,NSW,113,Riverina,3565
+31MAR2022,NSW,114,Southern Highlands and Shoalhaven,3535
+31MAR2022,NSW,115,Sydney - Baulkham Hills and Hawkesbury,3505
+31MAR2022,NSW,116,Sydney - Blacktown,8217
+31MAR2022,NSW,117,Sydney - City and Inner South,3654
+31MAR2022,NSW,118,Sydney - Eastern Suburbs,2838
+31MAR2022,NSW,119,Sydney - Inner South West,9527
+31MAR2022,NSW,120,Sydney - Inner West,3534
+31MAR2022,NSW,121,Sydney - North Sydney and Hornsby,4639
+31MAR2022,NSW,122,Sydney - Northern Beaches,3110
+31MAR2022,NSW,123,Sydney - Outer South West,7207
+31MAR2022,NSW,124,Sydney - Outer West and Blue Mountains,8272
+31MAR2022,NSW,125,Sydney - Parramatta,8379
+31MAR2022,NSW,126,Sydney - Ryde,2754
+31MAR2022,NSW,127,Sydney - South West,8994
+31MAR2022,NSW,128,Sydney - Sutherland,3369
+31MAR2022,NT,-,Other,33
+31MAR2022,NT,701,Darwin,2768
+31MAR2022,NT,702,Northern Territory - Outback,1960
+31MAR2022,OT,901,Other Territories,43
+31MAR2022,QLD,-,Other,14
+31MAR2022,QLD,301,Brisbane - East,4968
+31MAR2022,QLD,302,Brisbane - North,4128
+31MAR2022,QLD,303,Brisbane - South,5902
+31MAR2022,QLD,304,Brisbane - West,3015
+31MAR2022,QLD,305,Brisbane Inner City,3518
+31MAR2022,QLD,306,Cairns,4813
+31MAR2022,QLD,307,Darling Downs - Maranoa,2672
+31MAR2022,QLD,308,Central Queensland,5850
+31MAR2022,QLD,309,Gold Coast,11368
+31MAR2022,QLD,310,Ipswich,9435
+31MAR2022,QLD,311,Logan - Beaudesert,8376
+31MAR2022,QLD,312,Mackay - Isaac - Whitsunday,3479
+31MAR2022,QLD,313,Moreton Bay - North,7103
+31MAR2022,QLD,314,Moreton Bay - South,4568
+31MAR2022,QLD,315,Queensland - Outback,1249
+31MAR2022,QLD,316,Sunshine Coast,7751
+31MAR2022,QLD,317,Toowoomba,4373
+31MAR2022,QLD,318,Townsville,5871
+31MAR2022,QLD,319,Wide Bay,9182
+31MAR2022,SA,-,Other,<11
+31MAR2022,SA,401,Adelaide - Central and Hills,5638
+31MAR2022,SA,402,Adelaide - North,14813
+31MAR2022,SA,403,Adelaide - South,9820
+31MAR2022,SA,404,Adelaide - West,5732
+31MAR2022,SA,405,Barossa - Yorke - Mid North,2742
+31MAR2022,SA,406,South Australia - Outback,1934
+31MAR2022,SA,407,South Australia - South East,4629
+31MAR2022,TAS,-,Other,<11
+31MAR2022,TAS,601,Hobart,5115
+31MAR2022,TAS,602,Launceston and North East,3396
+31MAR2022,TAS,603,South East,610
+31MAR2022,TAS,604,West and North West,2710
+31MAR2022,VIC,-,Other,<11
+31MAR2022,VIC,201,Ballarat,4466
+31MAR2022,VIC,202,Bendigo,5137
+31MAR2022,VIC,203,Geelong,9470
+31MAR2022,VIC,204,Hume,4482
+31MAR2022,VIC,205,Latrobe - Gippsland,7567
+31MAR2022,VIC,206,Melbourne - Inner,8245
+31MAR2022,VIC,207,Melbourne - Inner East,5500
+31MAR2022,VIC,208,Melbourne - Inner South,6474
+31MAR2022,VIC,209,Melbourne - North East,11575
+31MAR2022,VIC,210,Melbourne - North West,9984
+31MAR2022,VIC,211,Melbourne - Outer East,11476
+31MAR2022,VIC,212,Melbourne - South East,16181
+31MAR2022,VIC,213,Melbourne - West,18895
+31MAR2022,VIC,214,Mornington Peninsula,7637
+31MAR2022,VIC,215,North West,3922
+31MAR2022,VIC,216,Shepparton,3525
+31MAR2022,VIC,217,Warrnambool and South West,3354
+31MAR2022,WA,-,Other,<11
+31MAR2022,WA,501,Bunbury,3776
+31MAR2022,WA,502,Mandurah,1951
+31MAR2022,WA,503,Perth - Inner,2163
+31MAR2022,WA,504,Perth - North East,5836
+31MAR2022,WA,505,Perth - North West,8922
+31MAR2022,WA,506,Perth - South East,9155
+31MAR2022,WA,507,Perth - South West,7805
+31MAR2022,WA,509,Western Australia - Wheat Belt,2157
+31MAR2022,WA,510,Western Australia - Outback (North),1419
+31MAR2022,WA,511,Western Australia - Outback (South),1837

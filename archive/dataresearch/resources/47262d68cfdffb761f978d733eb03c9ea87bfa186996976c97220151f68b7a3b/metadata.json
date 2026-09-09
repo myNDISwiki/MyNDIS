@@ -1,0 +1,21 @@
+{
+  "bytes": 9595,
+  "content_type": "image/svg+xml",
+  "directory": "resources/47262d68cfdffb761f978d733eb03c9ea87bfa186996976c97220151f68b7a3b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-ecei-needs.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6180e0f4-257b\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:48 GMT"
+  },
+  "sha256": "7d17fcc04a00c13f4a81da953fd1d55278268c8817b26c0a98820598b9778928",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-ecei-needs.svg"
+}

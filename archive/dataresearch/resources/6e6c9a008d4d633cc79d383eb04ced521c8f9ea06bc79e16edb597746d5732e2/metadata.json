@@ -1,0 +1,22 @@
+{
+  "bytes": 60470,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/6e6c9a008d4d633cc79d383eb04ced521c8f9ea06bc79e16edb597746d5732e2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3571/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"13. Disability Dashboard Transcript For Spinal Cord Injury.docx\"",
+    "ETag": "\"1671596171:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 04:16:10 GMT"
+  },
+  "sha256": "b6eb2cf6e6ef3cf7cd92a4a0e7c98a88e1f0bee7ad08529ccc469a6ad57ad828",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3571/download?attachment="
+}

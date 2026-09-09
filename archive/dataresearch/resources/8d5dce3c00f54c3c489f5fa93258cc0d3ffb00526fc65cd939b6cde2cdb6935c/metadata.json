@@ -1,0 +1,22 @@
+{
+  "bytes": 926910,
+  "content_type": "application/pdf",
+  "directory": "resources/8d5dce3c00f54c3c489f5fa93258cc0d3ffb00526fc65cd939b6cde2cdb6935c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1771/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_The NDIS Market Detailed Dashboard_Bayside Peninsula.pdf\"",
+    "ETag": "\"1635836084:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:43 GMT"
+  },
+  "sha256": "7720a7e34985043ef0e30e61c3c1be8f45d21b6d2b43822e7107e0028b4bd16d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1771/download?attachment="
+}

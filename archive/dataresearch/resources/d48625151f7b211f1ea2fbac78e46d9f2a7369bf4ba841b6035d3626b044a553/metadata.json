@@ -1,0 +1,22 @@
+{
+  "bytes": 119925,
+  "content_type": "application/pdf",
+  "directory": "resources/d48625151f7b211f1ea2fbac78e46d9f2a7369bf4ba841b6035d3626b044a553",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4524/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Stats March 2026.pdf\"",
+    "ETag": "\"1776205537:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 14 Apr 2026 22:25:36 GMT"
+  },
+  "sha256": "7505d2cf6fd85ba714b7c989d151a87e9792441c19d5a7c8a5900da56313ba94",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4524/download?attachment="
+}

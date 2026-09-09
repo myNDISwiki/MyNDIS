@@ -1,0 +1,22 @@
+{
+  "bytes": 416873,
+  "content_type": "application/pdf",
+  "directory": "resources/777b3fe4282a77e4dbf3c2f9d4e6b8dd70b3e6bd674575504659791771daf1e0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3193/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard National.pdf\"",
+    "ETag": "\"1637635968:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 23 Nov 2021 02:52:47 GMT"
+  },
+  "sha256": "e86ab13d86992e336bf071efef445d108f986d541571234bb9ce548859697e39",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3193/download?attachment="
+}

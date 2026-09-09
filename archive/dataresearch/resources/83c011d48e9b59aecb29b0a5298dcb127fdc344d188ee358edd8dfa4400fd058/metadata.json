@@ -1,0 +1,22 @@
+{
+  "bytes": 27947,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/83c011d48e9b59aecb29b0a5298dcb127fdc344d188ee358edd8dfa4400fd058",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3185/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Midwest Gascoyne_data.xlsx\"",
+    "ETag": "\"1637286348:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:45:47 GMT"
+  },
+  "sha256": "e4240af4046f969f9808535903bf98a1a9019c2b6a3d94bc8598cc7e2980b6e0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3185/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 6135793,
+  "content_type": "application/pdf",
+  "directory": "resources/b0aa4980e18bd26728a639cb7aa2ee0c6890fee876cc7d49a2b437cd13347eae",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3709/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Achieving a sense of purpose report - Accessible PDF.pdf\"",
+    "ETag": "\"1690944987:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:56:26 GMT"
+  },
+  "sha256": "a9bb3c1d1b9ea85e0deda4145bec047347c068d5602495b58c7352b1b74c07a6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3709/download?attachment="
+}

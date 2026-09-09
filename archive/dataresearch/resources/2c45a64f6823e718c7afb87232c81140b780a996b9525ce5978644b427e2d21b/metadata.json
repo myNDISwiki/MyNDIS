@@ -1,0 +1,22 @@
+{
+  "bytes": 152990,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/2c45a64f6823e718c7afb87232c81140b780a996b9525ce5978644b427e2d21b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2325/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Illawarra Shoalhaven_data.xlsx\"",
+    "ETag": "\"1635836115:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:14 GMT"
+  },
+  "sha256": "2c1e35278261d61cf98f12925a1b1175264d89b0951eec0dace20e796f69c9a1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2325/download?attachment="
+}

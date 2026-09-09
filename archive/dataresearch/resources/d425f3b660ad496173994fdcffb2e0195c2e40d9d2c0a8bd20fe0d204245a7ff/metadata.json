@@ -1,0 +1,22 @@
+{
+  "bytes": 68459,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/d425f3b660ad496173994fdcffb2e0195c2e40d9d2c0a8bd20fe0d204245a7ff",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4250/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA participants data.csv\"",
+    "ETag": "\"1787531436:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 24 Aug 2026 00:30:35 GMT"
+  },
+  "sha256": "2ceb31a9f63d2f5578e5e4585db657482fd1197d505c99c8146940562d7bff8c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4250/download?attachment="
+}

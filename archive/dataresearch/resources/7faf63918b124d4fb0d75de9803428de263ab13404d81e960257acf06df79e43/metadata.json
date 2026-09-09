@@ -1,0 +1,22 @@
+{
+  "bytes": 46500,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/7faf63918b124d4fb0d75de9803428de263ab13404d81e960257acf06df79e43",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1565/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Outcomes ASD Transcript DOCX.docx\"",
+    "ETag": "\"1635836082:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:41 GMT"
+  },
+  "sha256": "f2c867a1dbfe17cf10a447b20a0b1cc45e8cee8dae2f20b7e26638b0d765c527",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1565/download?attachment="
+}

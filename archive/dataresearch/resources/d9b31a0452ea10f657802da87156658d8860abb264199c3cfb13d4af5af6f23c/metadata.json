@@ -1,0 +1,22 @@
+{
+  "bytes": 18453,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/d9b31a0452ea10f657802da87156658d8860abb264199c3cfb13d4af5af6f23c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2136/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"The NDIS Market appendices transcript DOCX.docx\"",
+    "ETag": "\"1635836106:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:05 GMT"
+  },
+  "sha256": "50b30a92930bdb0f303447676f4424c077bc9a20f60aeeab7e98244ce93a092a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2136/download?attachment="
+}

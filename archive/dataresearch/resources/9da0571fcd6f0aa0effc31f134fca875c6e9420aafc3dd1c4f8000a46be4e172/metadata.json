@@ -1,0 +1,22 @@
+{
+  "bytes": 4585668,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/9da0571fcd6f0aa0effc31f134fca875c6e9420aafc3dd1c4f8000a46be4e172",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3897/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Annual Financial Sustainability Reports 2021-22 accessible.docx\"",
+    "ETag": "\"1701924205:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 07 Dec 2023 04:43:24 GMT"
+  },
+  "sha256": "dc5361e0bba2d280b59b7ec148beffe9c8cae43e6595127f914095ad7b089fb9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3897/download?attachment="
+}

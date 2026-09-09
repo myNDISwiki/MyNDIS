@@ -1,0 +1,22 @@
+{
+  "bytes": 1036827,
+  "content_type": "application/pdf",
+  "directory": "resources/cfd5521e6f12f3890c6c15cd4eccd0156ed5f29b69eccc2f7d3df33c5d31a07d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3477/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2014-15 Peer Review.pdf\"",
+    "ETag": "\"1667365735:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Nov 2022 05:08:54 GMT"
+  },
+  "sha256": "0ff5a44cc8fc93f1cb36d9250c68efb67c11b3d2527f2ad2e358d2ba6fa6366f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3477/download?attachment="
+}

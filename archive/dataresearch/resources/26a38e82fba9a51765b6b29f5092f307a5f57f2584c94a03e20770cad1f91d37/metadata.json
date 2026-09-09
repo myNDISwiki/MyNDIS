@@ -1,0 +1,22 @@
+{
+  "bytes": 62429,
+  "content_type": "application/pdf",
+  "directory": "resources/26a38e82fba9a51765b6b29f5092f307a5f57f2584c94a03e20770cad1f91d37",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1557/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes Ch 8 PDF.pdf\"",
+    "ETag": "\"1635836082:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:41 GMT"
+  },
+  "sha256": "e1f9db4cd5cab8643055873b9580847c2d8cc447171eb290f446fec597be2844",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1557/download?attachment="
+}

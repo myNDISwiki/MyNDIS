@@ -1,0 +1,22 @@
+{
+  "bytes": 375202,
+  "content_type": "application/pdf",
+  "directory": "resources/4cb9fda08ac370a8b0b662ab60c67b905a58832182d99d643332038ffea47052",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3118/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard TAS North West.pdf\"",
+    "ETag": "\"1637278890:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 23:41:29 GMT"
+  },
+  "sha256": "6e2a68e3029831cc09af36554709312ec505e793869308ebb89e3aecfcc0a364",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3118/download?attachment="
+}

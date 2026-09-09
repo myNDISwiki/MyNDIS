@@ -1,0 +1,22 @@
+{
+  "bytes": 483384,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/ef35a6f00704fb38712b3e33f6bc7d0f0f904cffaa058a31c700db3735f46d8c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4237/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participants by LGA data.csv\"",
+    "ETag": "\"1786683534:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:58:53 GMT"
+  },
+  "sha256": "24001fdea0f33ebaf8fc59491773c3e8695093b35ecd5c9d397e9263d7969253",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4237/download?attachment="
+}

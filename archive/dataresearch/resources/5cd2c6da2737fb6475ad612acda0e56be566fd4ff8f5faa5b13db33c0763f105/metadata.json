@@ -1,0 +1,22 @@
+{
+  "bytes": 387742,
+  "content_type": "application/pdf",
+  "directory": "resources/5cd2c6da2737fb6475ad612acda0e56be566fd4ff8f5faa5b13db33c0763f105",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3146/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Western District.pdf\"",
+    "ETag": "\"1637283991:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:06:30 GMT"
+  },
+  "sha256": "bfa999c273ad773fdb92811e9f6e5c8c766460f8cd374b5b6b84178b0b21c20f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3146/download?attachment="
+}

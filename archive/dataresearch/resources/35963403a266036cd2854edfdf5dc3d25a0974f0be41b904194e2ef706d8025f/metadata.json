@@ -1,0 +1,22 @@
+{
+  "bytes": 29793,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/35963403a266036cd2854edfdf5dc3d25a0974f0be41b904194e2ef706d8025f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3010/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_02_The NDIS Market Summary Dashboard_nonsil_nonsda - transcript.docx\"",
+    "ETag": "\"1635836142:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:41 GMT"
+  },
+  "sha256": "838c7d29eda92f23d5d92911e702e6b596b1aa67457f6a839f4228cff4b670d5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3010/download?attachment="
+}

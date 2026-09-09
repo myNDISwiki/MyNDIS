@@ -1,0 +1,22 @@
+{
+  "bytes": 27947,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/f19a08d91b21c9ca45b8d2a4633eb28124a98f1d5e279e2f8e2c7843e5f50021",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3156/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Loddon_data.xlsx",
+    "ETag": "\"1637284137:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:08:56 GMT"
+  },
+  "sha256": "8d4c0afde32c2b016a0574b4151117ab191b1451863b85627aa51eb6172c767f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3156/download?attachment="
+}

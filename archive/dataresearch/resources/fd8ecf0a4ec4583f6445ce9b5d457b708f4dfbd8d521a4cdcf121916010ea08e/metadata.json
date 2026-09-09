@@ -1,0 +1,22 @@
+{
+  "bytes": 4153916,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/fd8ecf0a4ec4583f6445ce9b5d457b708f4dfbd8d521a4cdcf121916010ea08e",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3902/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement G Victoria 2023-24 Q2_0.xlsx\"",
+    "ETag": "\"1708478996:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Feb 2024 01:29:55 GMT"
+  },
+  "sha256": "bec1a6f4bcceadd7d14809be78dcdc0c64aa6fd70aa171a73e7d8e4e9f7a2c58",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3902/download?attachment="
+}

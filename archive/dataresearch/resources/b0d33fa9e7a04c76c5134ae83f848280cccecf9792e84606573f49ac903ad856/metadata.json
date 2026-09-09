@@ -1,0 +1,22 @@
+{
+  "bytes": 920088,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/b0d33fa9e7a04c76c5134ae83f848280cccecf9792e84606573f49ac903ad856",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3673/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Support Coord and LAC report DOCX.docx\"",
+    "ETag": "\"1690943885:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:38:04 GMT"
+  },
+  "sha256": "2efcea21ce980d666512b9b5388fdc512388a11f936b9210f5f65694fcf122d4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3673/download?attachment="
+}

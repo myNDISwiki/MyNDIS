@@ -1,0 +1,22 @@
+{
+  "bytes": 987094,
+  "content_type": "application/pdf",
+  "directory": "resources/2565836eff3433b015b30f056fa9567857b4131587a261ab15410605b41ed0e7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2945/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Barkly.pdf\"",
+    "ETag": "\"1635836142:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:41 GMT"
+  },
+  "sha256": "674d88d3e7a4cc4abcebd9e02e24e7623dbde94bb228b23034d682523c017239",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2945/download?attachment="
+}

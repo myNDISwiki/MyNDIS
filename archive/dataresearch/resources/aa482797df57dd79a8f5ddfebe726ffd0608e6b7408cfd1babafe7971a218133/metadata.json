@@ -1,0 +1,22 @@
+{
+  "bytes": 45707,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/aa482797df57dd79a8f5ddfebe726ffd0608e6b7408cfd1babafe7971a218133",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3801/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Acquired brain injury transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601368:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:22:47 GMT"
+  },
+  "sha256": "166a8fcb837b8e6046880e47d63270be31e37b6e552bc1b2355394c7c4fc7441",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3801/download?attachment="
+}

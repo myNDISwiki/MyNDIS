@@ -1,0 +1,22 @@
+{
+  "bytes": 394106,
+  "content_type": "application/pdf",
+  "directory": "resources/70c9a59a6016a0b09000f5109e8b151ab8f82f2a48725122096d4e890def9d81",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3068/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Ipswich.pdf\"",
+    "ETag": "\"1637200682:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:58:01 GMT"
+  },
+  "sha256": "44f04989621cac5e618b36840d986950519ede73c8e0b74a18261add21d97c7a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3068/download?attachment="
+}

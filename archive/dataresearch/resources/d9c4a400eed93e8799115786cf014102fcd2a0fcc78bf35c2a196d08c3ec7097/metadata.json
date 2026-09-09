@@ -1,0 +1,22 @@
+{
+  "bytes": 958509,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/d9c4a400eed93e8799115786cf014102fcd2a0fcc78bf35c2a196d08c3ec7097",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3956/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Annual Financial Sustainability Report 2016-17_APPENDIX-1.docx\"",
+    "ETag": "\"1712033100:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Apr 2024 04:44:59 GMT"
+  },
+  "sha256": "9af797ce47c2fc1c2b7b7d72a8411fe0bf04298d5d10bfd8dd92476b3eacb1fb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3956/download?attachment="
+}

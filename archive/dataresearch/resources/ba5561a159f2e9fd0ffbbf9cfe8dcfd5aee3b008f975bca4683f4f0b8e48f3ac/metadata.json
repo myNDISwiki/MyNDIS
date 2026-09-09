@@ -1,0 +1,22 @@
+{
+  "bytes": 399449,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ba5561a159f2e9fd0ffbbf9cfe8dcfd5aee3b008f975bca4683f4f0b8e48f3ac",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4312/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement R Access decisions and first plans 2024-25 Q3.xlsx\"",
+    "ETag": "\"1747203643:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 14 May 2025 06:20:42 GMT"
+  },
+  "sha256": "dad104f003cc16090fa4be109e5d915904f69f46f81eb0cee0d93299a0e3b7e8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4312/download?attachment="
+}

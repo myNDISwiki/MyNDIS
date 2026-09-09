@@ -1,0 +1,22 @@
+{
+  "bytes": 2388088,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d1f44f864cd508d31722a97fe7ec8db52fe97664b3d9a51a2f5210bf518d9252",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4168/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard NSW by Service District to 30 June 2024.xlsx\"",
+    "ETag": "\"1733962010:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Dec 2024 00:06:49 GMT"
+  },
+  "sha256": "8ba87aae6b3ac2663b44a5543fe0a87095ffaaf338de3fe25f47036e419992b7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4168/download?attachment="
+}

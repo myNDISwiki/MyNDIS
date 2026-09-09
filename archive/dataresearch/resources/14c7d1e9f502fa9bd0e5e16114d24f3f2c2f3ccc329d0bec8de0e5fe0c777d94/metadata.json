@@ -1,0 +1,22 @@
+{
+  "bytes": 360714,
+  "content_type": "application/pdf",
+  "directory": "resources/14c7d1e9f502fa9bd0e5e16114d24f3f2c2f3ccc329d0bec8de0e5fe0c777d94",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3168/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Central South Metro.pdf\"",
+    "ETag": "\"1637286087:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:41:26 GMT"
+  },
+  "sha256": "d776d7290b8dd6419796b655780a9802282cac8d5d856c9ed0753233730fb746",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3168/download?attachment="
+}

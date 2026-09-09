@@ -1,0 +1,22 @@
+{
+  "bytes": 295444,
+  "content_type": "application/pdf",
+  "directory": "resources/214f6199d350d35aed4461732c9fa59dab6ae11ddf12f08a63c7e87e8d5ee3b9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1783/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_01_The NDIS Market Insights Dashboard.pdf\"",
+    "ETag": "\"1635836106:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:05 GMT"
+  },
+  "sha256": "de6b3c555dad8add3500e948d8b6a912ee71ea2dd24473674284e4c5c7fe2cc6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1783/download?attachment="
+}

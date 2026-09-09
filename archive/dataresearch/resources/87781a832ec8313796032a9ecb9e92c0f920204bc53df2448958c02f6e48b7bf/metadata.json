@@ -1,0 +1,20 @@
+{
+  "bytes": 10266,
+  "content_type": "application/pdf",
+  "directory": "resources/87781a832ec8313796032a9ecb9e92c0f920204bc53df2448958c02f6e48b7bf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3295",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Public data sharing.pdf\""
+  },
+  "sha256": "bb798b5b120192e13fc7b9814322bdc42f33d50d3de27d3933b64bbde59e501e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3295"
+}

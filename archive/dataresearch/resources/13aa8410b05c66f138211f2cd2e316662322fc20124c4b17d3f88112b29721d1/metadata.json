@@ -1,0 +1,22 @@
+{
+  "bytes": 1219992,
+  "content_type": "application/pdf",
+  "directory": "resources/13aa8410b05c66f138211f2cd2e316662322fc20124c4b17d3f88112b29721d1",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2553/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes 30 June 2020 baseline Ch 3 PDF.pdf\"",
+    "ETag": "\"1635836129:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:28 GMT"
+  },
+  "sha256": "f0f6546f3c8f7706d887139526cac6cddbc0a8e6f8378f3caf79e6455f1a4eea",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2553/download?attachment="
+}

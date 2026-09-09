@@ -1,0 +1,22 @@
+{
+  "bytes": 4284854,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/79ad7886a467ead2eb95908350497351728282fea697a4a0066f5a719553276d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4570/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement P Specialist Disability Accomodation 2025-26 Q4_0.xlsx\"",
+    "ETag": "\"1786498524:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 12 Aug 2026 01:35:23 GMT"
+  },
+  "sha256": "e5a570830aec460d1ebb17ccb80834003a612b49bf7c41946e82aee4e187e922",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4570/download?attachment="
+}

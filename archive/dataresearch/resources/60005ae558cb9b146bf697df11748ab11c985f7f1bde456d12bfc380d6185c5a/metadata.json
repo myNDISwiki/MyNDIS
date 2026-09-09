@@ -1,0 +1,22 @@
+{
+  "bytes": 16483802,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/60005ae558cb9b146bf697df11748ab11c985f7f1bde456d12bfc380d6185c5a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4066/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Outcomes Dashboard NSW by LGA.xlsx\"",
+    "ETag": "\"1726120064:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Sep 2024 05:47:43 GMT"
+  },
+  "sha256": "7970ea6b67740d4bf7c811165685875be3640b337765d1e4963ea57727be59c9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4066/download?attachment="
+}

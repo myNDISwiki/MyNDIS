@@ -1,0 +1,22 @@
+{
+  "bytes": 1754498,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/bb5f21e439eecdc25a4bb7c40e4eef1d43b2c0a2805bd79ca28bf1fb5a5ffe1f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3718/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Having a go report - Exploring the use of supports to make individualised living a reality (1).docx\"",
+    "ETag": "\"1690945248:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 03:00:47 GMT"
+  },
+  "sha256": "5484929476ccf29d2df91eb70954961790539fda98dc4ddf99542b482b140f6c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3718/download?attachment="
+}

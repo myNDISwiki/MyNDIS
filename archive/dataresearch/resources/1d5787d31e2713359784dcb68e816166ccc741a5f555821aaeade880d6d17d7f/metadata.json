@@ -1,0 +1,22 @@
+{
+  "bytes": 149170,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/1d5787d31e2713359784dcb68e816166ccc741a5f555821aaeade880d6d17d7f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2097/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Brimbank Melton_data.xlsx\"",
+    "ETag": "\"1635836098:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:57 GMT"
+  },
+  "sha256": "238f23db62f034ffd9b917bf46b47f41164c7bcb7b59da30b094f982a2e58fd7",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2097/download?attachment="
+}

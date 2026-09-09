@@ -1,0 +1,22 @@
+{
+  "bytes": 4766957,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/9871ab6f46aa4f84066ee439019426275ef0ce39a95038d18078452f0b16c074",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3988/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement M Northern Territory 2023-24 Q3.xlsx\"",
+    "ETag": "\"1719531395:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 27 Jun 2024 23:36:34 GMT"
+  },
+  "sha256": "d3066852eb6e51c3e36a268bff7c5b1aa88a954651e2309465ea39481616763f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3988/download?attachment="
+}

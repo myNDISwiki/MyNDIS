@@ -1,0 +1,22 @@
+{
+  "bytes": 4318284,
+  "content_type": "application/pdf",
+  "directory": "resources/2da1b91e6da36801d2eb17c3ed667b4d74660f6d0814b51fd471d756c233bddf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3913/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Report to disability ministers for Q2 of Y10 Supplement_1.pdf\"",
+    "ETag": "\"1708901922:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 25 Feb 2024 22:58:41 GMT"
+  },
+  "sha256": "6afb6a1dcb8b4f5ac696c7501a23e8ffd916647b8a60189e1c081f4879ee78ac",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3913/download?attachment="
+}

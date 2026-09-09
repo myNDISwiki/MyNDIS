@@ -1,0 +1,22 @@
+{
+  "bytes": 932697,
+  "content_type": "application/pdf",
+  "directory": "resources/4857a619dee2e1a56301aeca15102e74b61e2c31fd745c5021122c25f9f93140",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1725/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201906_The NDIS Market Detailed Dashboard_Hunter New England_0.pdf\"",
+    "ETag": "\"1635836085:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:44 GMT"
+  },
+  "sha256": "7359249e92930c520553abcfa7c2248d180975bdbee37f49b53aaa354710d9db",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1725/download?attachment="
+}

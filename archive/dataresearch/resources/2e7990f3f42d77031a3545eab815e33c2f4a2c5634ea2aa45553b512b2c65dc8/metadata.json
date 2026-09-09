@@ -1,0 +1,22 @@
+{
+  "bytes": 3391410,
+  "content_type": "application/pdf",
+  "directory": "resources/2e7990f3f42d77031a3545eab815e33c2f4a2c5634ea2aa45553b512b2c65dc8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3504/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS family and carer outcomes summary report to 30 June 2022.pdf\"",
+    "ETag": "\"1669848985:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 30 Nov 2022 22:56:24 GMT"
+  },
+  "sha256": "3202cfa95fd7a7d152faf3e3e24fa8616652e3921afa6c2bd0e46561280ec359",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3504/download?attachment="
+}

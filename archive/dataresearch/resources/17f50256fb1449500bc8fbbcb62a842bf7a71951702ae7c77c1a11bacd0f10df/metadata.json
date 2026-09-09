@@ -1,0 +1,22 @@
+{
+  "bytes": 97296,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/17f50256fb1449500bc8fbbcb62a842bf7a71951702ae7c77c1a11bacd0f10df",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4255/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Active providers data rules.docx\"",
+    "ETag": "\"1786684560:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 05:15:59 GMT"
+  },
+  "sha256": "e52dfcd9d82b34b5c6e9716dbf673b86e010f7803d2bb85310697a510f32cacb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4255/download?attachment="
+}

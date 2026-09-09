@@ -1,0 +1,22 @@
+{
+  "bytes": 353879,
+  "content_type": "application/pdf",
+  "directory": "resources/79479ba200272e899895ccc2a9757bea0a0bf9be3cfc4eefd0bd7c4ba37214c9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3096/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Fleurieu and Kangaroo Island.pdf\"",
+    "ETag": "\"1637275156:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 22:39:15 GMT"
+  },
+  "sha256": "f010a16e6c1e7f4ca4052305b5b3ab1f443eb217c676d161aa6b41eeb9247302",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3096/download?attachment="
+}

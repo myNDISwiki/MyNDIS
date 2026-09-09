@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/0837e2284c2459340ee363f8fd7323c0ccac723d5244429f86b6d134e0d3f1a2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3033/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Hunter New England_data.xlsx\"",
+    "ETag": "\"1637192184:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:36:23 GMT"
+  },
+  "sha256": "af56fd90939ce571792456ede139ecf7804dfe4d7d29f8fd204866fc771e1108",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3033/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 14010,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/0025ff457ad47fd306c606ad33b5134cb3a34bd13f2b2794dd710ed529235422",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1941/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Description of info in CSV files.xlsx\"",
+    "ETag": "\"1635836092:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:51 GMT"
+  },
+  "sha256": "a7ec07bd957ce46393f54d3ca5a3aac22ee88635d32fb493258e3b2128f4123b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1941/download?attachment="
+}

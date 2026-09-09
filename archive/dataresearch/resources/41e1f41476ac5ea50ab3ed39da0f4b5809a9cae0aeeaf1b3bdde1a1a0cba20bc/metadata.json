@@ -1,0 +1,22 @@
+{
+  "bytes": 27944,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/41e1f41476ac5ea50ab3ed39da0f4b5809a9cae0aeeaf1b3bdde1a1a0cba20bc",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3152/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Outer Gippsland_data.xlsx\"",
+    "ETag": "\"1637284087:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:08:06 GMT"
+  },
+  "sha256": "21bedc809e2ee82a5436636b99c652b05d4c5780447d904c2b6787da225e1dd0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3152/download?attachment="
+}

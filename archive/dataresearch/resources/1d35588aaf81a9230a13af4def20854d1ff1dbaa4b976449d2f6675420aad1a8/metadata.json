@@ -1,0 +1,22 @@
+{
+  "bytes": 4128410,
+  "content_type": "application/pdf",
+  "directory": "resources/1d35588aaf81a9230a13af4def20854d1ff1dbaa4b976449d2f6675420aad1a8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3862/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Report to disability ministers for Q1 of Y11 Supplement.pdf\"",
+    "ETag": "\"1699831009:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 12 Nov 2023 23:16:48 GMT"
+  },
+  "sha256": "ad96c68c128c8eebdb908d3d63049e004be601f2ce6ab890b487d37880e8d13f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3862/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 1004768,
+  "content_type": "application/pdf",
+  "directory": "resources/aac911902af4cc7dc61de15259d07208d82146571acf0b22caccaa03101c54f4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2842/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The NDIS Market Detailed Dashboard_Western Sydney.pdf\"",
+    "ETag": "\"1635836141:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:40 GMT"
+  },
+  "sha256": "41883c2903a974d7f1328ae99b9bc23010a4e43f8968878994a5a5324cccf7c1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2842/download?attachment="
+}

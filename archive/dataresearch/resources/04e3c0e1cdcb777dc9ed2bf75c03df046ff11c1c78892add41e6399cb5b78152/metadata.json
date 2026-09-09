@@ -1,0 +1,22 @@
+{
+  "bytes": 13485289,
+  "content_type": "application/zip",
+  "directory": "resources/04e3c0e1cdcb777dc9ed2bf75c03df046ff11c1c78892add41e6399cb5b78152",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3089/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 LGA Outcomes Detailed Dashboards QLD PDF.zip\"",
+    "ETag": "\"1637212727:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 05:18:46 GMT"
+  },
+  "sha256": "340c816dc164db81834c87c0ffea9ecf50d8897f9c2d285025be0d975f0ab88b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3089/download?attachment="
+}

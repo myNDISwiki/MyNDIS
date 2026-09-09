@@ -1,0 +1,20 @@
+{
+  "bytes": 4515,
+  "content_type": "application/pdf",
+  "directory": "resources/c05984d1102ef9b5fe894ab7739dc3d15547a12cd410fd7ca0be34187b41b816",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4019",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Outcome Measurement Tools Evaluation.pdf\""
+  },
+  "sha256": "ce385f1e0ab63640a91da14a09fd8058ba8a49222e815134f5ad4e0880fecbe6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4019"
+}

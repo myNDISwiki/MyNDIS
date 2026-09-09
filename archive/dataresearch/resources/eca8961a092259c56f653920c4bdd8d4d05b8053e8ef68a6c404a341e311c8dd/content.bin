@@ -1,0 +1,89 @@
+Domain,Question,Answer,DomainAndQuestion,Baseline_percent,Review_percent,responses,Questionnaire
+Family member/carer information,Please specify whether you currently receive any government benefits,Carer payment,,29%,29%,1746,SF
+Family member/carer information,Please specify whether you currently receive any government benefits,Carer allowance,,54%,58%,1746,SF
+Domain 1: Rights and advocacy,I am able to identify the needs of my family member with disability and my family and know how to access available services and supports to meet those needs,Yes,d1q1,49%,50%,1709,SF
+Domain 1: Rights and advocacy,I am able to identify the needs of my family member with disability and my family and know how to access available services and supports to meet those needs,I have some difficulty,d1q1,39%,37%,1709,SF
+Domain 1: Rights and advocacy,I am able to identify the needs of my family member with disability and my family and know how to access available services and supports to meet those needs,I have a great deal of difficulty,d1q1,12%,13%,1709,SF
+Domain 1: Rights and advocacy,I understand my rights and the rights of my family member with disability,Yes,d1q2,76%,72%,97,LF
+Domain 1: Rights and advocacy,I understand my rights and the rights of my family member with disability,I have a great deal of difficulty,d1q2,2%,3%,97,LF
+Domain 1: Rights and advocacy,I understand my rights and the rights of my family member with disability,I have some difficulty,d1q2,22%,25%,97,LF
+Domain 1: Rights and advocacy,I am able to advocate (stand up) for my family member: I am able to speak up if we have issues or problems with accessing supports,Yes,d1q3,75%,75%,1708,SF
+Domain 1: Rights and advocacy,I am able to advocate (stand up) for my family member: I am able to speak up if we have issues or problems with accessing supports,I have some difficulty,d1q3,20%,19%,1708,SF
+Domain 1: Rights and advocacy,I am able to advocate (stand up) for my family member: I am able to speak up if we have issues or problems with accessing supports,I have a great deal of difficulty,d1q3,5%,6%,1708,SF
+Domain 2: Families feel supported,I have friends and family that I see as often as I like,Yes,d2q1,47%,50%,1746,SF
+Domain 2: Families feel supported,I have friends and family that I see as often as I like,No,d2q1,53%,50%,1746,SF
+Domain 2: Families feel supported,I have people who I can ask for practical help as often as I need,Yes,d2q2,42%,44%,1746,SF
+Domain 2: Families feel supported,I have people who I can ask for practical help as often as I need,No,d2q2,58%,56%,1746,SF
+Domain 2: Families feel supported,I have people who I can ask to support my family member with disability as often as I need,Yes,d2q3,33%,37%,1746,SF
+Domain 2: Families feel supported,I have people who I can ask to support my family member with disability as often as I need,No,d2q3,67%,63%,1746,SF
+Domain 2: Families feel supported,I have people who I can ask for emotional support as often as I need,Yes,d2q4,53%,56%,1746,SF
+Domain 2: Families feel supported,I have people who I can ask for emotional support as often as I need,No,d2q4,47%,44%,1746,SF
+Domain 2: Families feel supported,I have as much contact with other families of people with disability as I would like,Yes,d2q5,52%,63%,97,LF
+Domain 2: Families feel supported,I have as much contact with other families of people with disability as I would like,No,d2q5,48%,37%,97,LF
+Domain 3: Access to services,I feel that the services my family member with disability and my family use listen to me,Yes,d3q1,65%,71%,1624,SF
+Domain 3: Access to services,I feel that the services my family member with disability and my family use listen to me,Not very much,d3q1,23%,21%,1624,SF
+Domain 3: Access to services,I feel that the services my family member with disability and my family use listen to me,Not at all,d3q1,12%,8%,1624,SF
+Domain 3: Access to services,I feel in control in selecting services and supports that meet the needs of my family member with disability and my family,Yes,d3q2,41%,44%,1639,SF
+Domain 3: Access to services,I feel in control in selecting services and supports that meet the needs of my family member with disability and my family,I have some difficulty,d3q2,43%,39%,1639,SF
+Domain 3: Access to services,I feel in control in selecting services and supports that meet the needs of my family member with disability and my family,I have a great deal of difficulty,d3q2,16%,16%,1639,SF
+Domain 3: Access to services,I work in partnership with professionals and service providers to meet the needs of my family member with disability,Yes,d3q3,59%,78%,90,LF
+Domain 3: Access to services,I work in partnership with professionals and service providers to meet the needs of my family member with disability,I have a great deal of difficulty,d3q3,9%,7%,90,LF
+Domain 3: Access to services,I work in partnership with professionals and service providers to meet the needs of my family member with disability,I have some difficulty,d3q3,32%,16%,90,LF
+Domain 3: Access to services,The services my family member with disability and my family receive meet our needs,Yes,d3q4,20%,33%,1746,SF
+Domain 3: Access to services,The services my family member with disability and my family receive meet our needs,No,d3q4,80%,67%,1746,SF
+Domain 3: Access to services,The services my family member with disability and my family receive help us to plan for the future,Yes,d3q5,57%,65%,91,LF
+Domain 3: Access to services,The services my family member with disability and my family receive help us to plan for the future,No,d3q5,43%,35%,91,LF
+Domain 4: Families help their young person become independent,I know what my family can do to enable my family member with disability to become as independent as possible,Yes,d4q1,45%,47%,1694,SF
+Domain 4: Families help their young person become independent,I know what my family can do to enable my family member with disability to become as independent as possible,I have some difficulty,d4q1,42%,41%,1694,SF
+Domain 4: Families help their young person become independent,I know what my family can do to enable my family member with disability to become as independent as possible,I have a great deal of difficulty,d4q1,13%,13%,1694,SF
+Domain 4: Families help their young person become independent,I enable/support my family member with disability to make more decisions in his/her life,Yes,d4q2,60%,63%,1687,SF
+Domain 4: Families help their young person become independent,I enable/support my family member with disability to make more decisions in his/her life,I have some difficulty,d4q2,30%,28%,1687,SF
+Domain 4: Families help their young person become independent,I enable/support my family member with disability to make more decisions in his/her life,I have a great deal of difficulty,d4q2,10%,10%,1687,SF
+Domain 4: Families help their young person become independent,I enable/support my family member with disability to interact and develop strong relationships with non-family members,Yes,d4q3,49%,51%,1681,SF
+Domain 4: Families help their young person become independent,I enable/support my family member with disability to interact and develop strong relationships with non-family members,I have some difficulty,d4q3,32%,32%,1681,SF
+Domain 4: Families help their young person become independent,I enable/support my family member with disability to interact and develop strong relationships with non-family members,I have a great deal of difficulty,d4q3,20%,18%,1681,SF
+"Domain 5: Families understand the strengths, abilities and special needs of their family",I recognise the strengths and abilities of my family member,Yes,d5q1,90%,95%,97,LF
+"Domain 5: Families understand the strengths, abilities and special needs of their family",I recognise the strengths and abilities of my family member,I have a great deal of difficulty,d5q1,2%,0%,97,LF
+"Domain 5: Families understand the strengths, abilities and special needs of their family",I recognise the strengths and abilities of my family member,I have some difficulty,d5q1,8%,5%,97,LF
+"Domain 5: Families understand the strengths, abilities and special needs of their family",I can see how my family member is progressing,Yes,d5q2,77%,79%,97,LF
+"Domain 5: Families understand the strengths, abilities and special needs of their family",I can see how my family member is progressing,I have a great deal of difficulty,d5q2,5%,2%,97,LF
+"Domain 5: Families understand the strengths, abilities and special needs of their family",I can see how my family member is progressing,I have some difficulty,d5q2,18%,19%,97,LF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Excellent,d6q1,7%,6%,1702,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Very good,d6q1,19%,18%,1702,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Good,d6q1,39%,38%,1702,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Fair,d6q1,24%,25%,1702,SF
+Domain 5: Families enjoy health and wellbeing,"In general, my health is",Poor,d6q1,11%,13%,1702,SF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Delighted,d6q2,3%,3%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Pleased,d6q2,14%,19%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Mostly satisfied,d6q2,32%,24%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Mixed,d6q2,37%,48%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Mostly dissatisfied,d6q2,2%,2%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Terrible,d6q2,2%,0%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Unhappy,d6q2,3%,2%,97,LF
+Domain 6: Families enjoy health and wellbeing,"Thinking about what happened last year and what I expect for the future, I feel",Don't know,d6q2,6%,2%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a family member with a disability has made it more difficult for me to meet the everyday costs of living,Strongly agree,d6q3,46%,41%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a family member with a disability has made it more difficult for me to meet the everyday costs of living,Agree,d6q3,28%,26%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a family member with a disability has made it more difficult for me to meet the everyday costs of living,Neutral,d6q3,10%,9%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a family member with a disability has made it more difficult for me to meet the everyday costs of living,Disagree,d6q3,12%,22%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that having a family member with a disability has made it more difficult for me to meet the everyday costs of living,Strongly disagree,d6q3,3%,2%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my family member with disability under the NDIS,Strongly agree,d6q4,22%,12%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my family member with disability under the NDIS,Agree,d6q4,28%,59%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my family member with disability under the NDIS,Neutral,d6q4,49%,21%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my family member with disability under the NDIS,Disagree,d6q4,1%,6%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel more confident about the future of my family member with disability under the NDIS,Strongly disagree,d6q4,0%,2%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my family member gets the support he/she needs,Strongly agree,d6q5,11%,6%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my family member gets the support he/she needs,Agree,d6q5,15%,44%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my family member gets the support he/she needs,Neutral,d6q5,54%,21%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my family member gets the support he/she needs,Disagree,d6q5,12%,21%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that my family member gets the support he/she needs,Strongly disagree,d6q5,7%,8%,97,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my family member with disability.,Strongly agree,d6q6,8%,17%,95,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my family member with disability.,Agree,d6q6,23%,58%,95,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my family member with disability.,Neutral,d6q6,59%,13%,95,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my family member with disability.,Disagree,d6q6,5%,6%,95,LF
+Domain 6: Families enjoy health and wellbeing,I feel that the services and supports have helped me to better care for my family member with disability.,Strongly disagree,d6q6,4%,6%,95,LF
+Domain 6: Families enjoy health and wellbeing,Family who provide informal care to my family member with disability are able to work as much as they want,Yes,d6q7,46%,46%,1654,SF
+Domain 6: Families enjoy health and wellbeing,Family who provide informal care to my family member with disability are able to work as much as they want,"No, they would like to work more",d6q7,54%,54%,1654,SF
+Domain 6: Families enjoy health and wellbeing,The barriers to working more are(Choose one or more),Situation of family member with disability,d6q8,89%,93%,801,SF
+Domain 6: Families enjoy health and wellbeing,The barriers to working more are(Choose one or more),Availability of jobs,d6q8,20%,23%,801,SF
+Domain 6: Families enjoy health and wellbeing,The barriers to working more are(Choose one or more),Available jobs do not have sufficient flexibility (e.g. of hours),d6q8,37%,40%,801,SF
+Domain 6: Families enjoy health and wellbeing,The barriers to working more are(Choose one or more),Other,d6q8,0%,4%,801,SF

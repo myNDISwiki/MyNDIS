@@ -1,0 +1,21 @@
+{
+  "bytes": 5210,
+  "content_type": "image/svg+xml",
+  "directory": "resources/7e76b2077305d4f8ff047cf76120da2c0e53bf7e70d7ff8bc2e2d2a95f7570df",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-make-contact.svg",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"6180e0f4-145a\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:48 GMT"
+  },
+  "sha256": "893c4f3d656a17729ed7f2cdb41b31e6d6382edbb8a07e9af2500c0db7b8cbdf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-make-contact.svg"
+}

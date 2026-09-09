@@ -1,0 +1,22 @@
+{
+  "bytes": 43725,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/0582b0ae33e1397eb02d0c85cea5d08f40d144570056c8c06246d00a6e5dc4bb",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3813/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Spinal cord injury transcript 30 June 2023.docx\"",
+    "ETag": "\"1695601666:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:27:45 GMT"
+  },
+  "sha256": "064599515db4949ccf733a122a8ac4bef4fc8c2b442c04f2071f936eb20f373d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3813/download?attachment="
+}

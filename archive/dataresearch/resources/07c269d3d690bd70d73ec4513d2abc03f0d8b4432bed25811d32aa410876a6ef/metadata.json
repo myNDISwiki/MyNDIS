@@ -1,0 +1,22 @@
+{
+  "bytes": 1990568,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/07c269d3d690bd70d73ec4513d2abc03f0d8b4432bed25811d32aa410876a6ef",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4490/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement E National 2025-26 Q2.xlsx\"",
+    "ETag": "\"1770847345:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 11 Feb 2026 22:02:24 GMT"
+  },
+  "sha256": "8a97967011f83257b8a3147bacf8d917fd6f3796fc52cbb2dde566f531266332",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4490/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 361971,
+  "content_type": "application/pdf",
+  "directory": "resources/094c6d973a91eaefda82bd0b1c4bd28a55f713a5c759b1c7c2e169221e711ba9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3049/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Darwin Urban.pdf\"",
+    "ETag": "\"1637198384:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:19:43 GMT"
+  },
+  "sha256": "092c8d4e4f79004da76feb61d31dff93ccb4a7142a71dda76036a2338bbec0cf",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3049/download?attachment="
+}

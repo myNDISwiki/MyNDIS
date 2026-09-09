@@ -1,0 +1,22 @@
+{
+  "bytes": 922229,
+  "content_type": "application/pdf",
+  "directory": "resources/09fbabe910f525feea8f246bb96948abf09770b9fe25ff226d85e9b7c95e6f41",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2385/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202006_The NDIS Market Detailed Dashboard_Limestone Coast.pdf\"",
+    "ETag": "\"1635836115:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:14 GMT"
+  },
+  "sha256": "bcae8a9fcd4baef0ea10e72efec334003623e50fb75d47d6c50215c60483bf45",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2385/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 27939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/5c9b02768b7e5a94dfa6ce7f221ae9e377f1458c0cf5bf703cc875d151be81e0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3054/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Katherine_data.xlsx",
+    "ETag": "\"1637198457:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:20:56 GMT"
+  },
+  "sha256": "71012922ca6c645074be4bfb78d7f94cf91a7c357f933675e898fda5f7cace93",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3054/download?attachment="
+}

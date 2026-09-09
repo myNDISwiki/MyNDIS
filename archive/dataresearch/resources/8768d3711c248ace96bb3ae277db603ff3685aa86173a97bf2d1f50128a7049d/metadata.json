@@ -1,0 +1,22 @@
+{
+  "bytes": 57474,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/8768d3711c248ace96bb3ae277db603ff3685aa86173a97bf2d1f50128a7049d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3556/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"8. Disability Dashboard Transcript For Global Developmental Delay.docx\"",
+    "ETag": "\"1671585083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 21 Dec 2022 01:11:22 GMT"
+  },
+  "sha256": "7a86bb04511fe70c5db97b2171f51ba38dbf3e265f63f8da3d24eec135fed337",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3556/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 3422434,
+  "content_type": "application/pdf",
+  "directory": "resources/99137d3f7bd0bfbe17a7f57449661e83641e43930a7612e71bde740010b99677",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1900/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Family Carer Outcomes_NDIS074_UPDATEOct19_P2.pdf\"",
+    "ETag": "\"1635836091:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:50 GMT"
+  },
+  "sha256": "042ebf7caa916055f916e0db4996463e097d985dc9b90f163a819e84abb6768f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1900/download?attachment="
+}

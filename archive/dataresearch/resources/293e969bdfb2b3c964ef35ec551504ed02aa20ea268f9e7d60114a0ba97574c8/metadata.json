@@ -1,0 +1,22 @@
+{
+  "bytes": 11929583,
+  "content_type": "application/zip",
+  "directory": "resources/293e969bdfb2b3c964ef35ec551504ed02aa20ea268f9e7d60114a0ba97574c8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3165/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 LGA Outcomes Detailed Dashboards VIC L-Z PDF.zip\"",
+    "ETag": "\"1637284767:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:19:26 GMT"
+  },
+  "sha256": "6a8a579dd7f5c407efc8e472de443fef8ce2616793f74cc41cb5b4bf169707cd",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3165/download?attachment="
+}

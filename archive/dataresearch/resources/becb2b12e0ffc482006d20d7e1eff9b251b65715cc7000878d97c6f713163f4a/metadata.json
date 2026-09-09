@@ -1,0 +1,22 @@
+{
+  "bytes": 37350,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/becb2b12e0ffc482006d20d7e1eff9b251b65715cc7000878d97c6f713163f4a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4225/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Culturally and linguistically diverse participants.csv\"",
+    "ETag": "\"1786682313:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:38:32 GMT"
+  },
+  "sha256": "015b1768ab0cb54994255b783844b892e194c3a4242d444478cb2d068209fcaa",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4225/download?attachment="
+}

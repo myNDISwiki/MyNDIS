@@ -1,0 +1,20 @@
+{
+  "bytes": 15610,
+  "content_type": "application/pdf",
+  "directory": "resources/e76b8da1a47f5d18e3c9902dedabc818d4a635c24f7c9e54a96a8ef67ba5ecb0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3978",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Participant family and carer outcomes  Qld.pdf\""
+  },
+  "sha256": "c7f856257d27e833fa89e8959ac4caf6c067bb4751433c516eb88f0cd7deb032",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3978"
+}

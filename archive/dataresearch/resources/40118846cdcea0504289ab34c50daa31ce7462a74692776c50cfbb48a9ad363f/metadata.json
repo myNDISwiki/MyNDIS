@@ -1,0 +1,22 @@
+{
+  "bytes": 144182,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/40118846cdcea0504289ab34c50daa31ce7462a74692776c50cfbb48a9ad363f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2114/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Kimberley-Pilbara_data.xlsx\"",
+    "ETag": "\"1635836100:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:59 GMT"
+  },
+  "sha256": "aab6e6e5622246c7519816d37505f80b3c5ec6d730426de1d5313a7a76e88c88",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2114/download?attachment="
+}

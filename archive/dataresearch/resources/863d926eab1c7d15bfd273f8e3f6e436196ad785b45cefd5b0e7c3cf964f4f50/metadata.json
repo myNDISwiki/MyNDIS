@@ -1,0 +1,22 @@
+{
+  "bytes": 791805,
+  "content_type": "application/pdf",
+  "directory": "resources/863d926eab1c7d15bfd273f8e3f6e436196ad785b45cefd5b0e7c3cf964f4f50",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2264/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes 30 June 2019 Chapter 8 PDF.pdf\"",
+    "ETag": "\"1635836109:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:08 GMT"
+  },
+  "sha256": "d6c9f8876ae57ebe63e314c42f5a763675a9444ae376043cf9b5d7335c233002",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2264/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 2451542,
+  "content_type": "application/pdf",
+  "directory": "resources/47181ae7288d809473645d2ee29a2632a4908af8c2a11cc5ce984b52cbbb5abd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3820/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Down syndrome dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602281:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:38:00 GMT"
+  },
+  "sha256": "ab2d8886400f2de3b03218f681a8f11a16ab441e252cdad90bc0a6473405f474",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3820/download?attachment="
+}

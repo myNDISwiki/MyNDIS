@@ -1,0 +1,22 @@
+{
+  "bytes": 147833,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/ce7e76357b5956361480996194dafa70f8f3ef4efc6fc0beb5b8b8adbd851a6d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2128/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"People with an intellectual disability in the NDIS 31 December 2019 - data tables XLSX.xlsx\"",
+    "ETag": "\"1635836106:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:05 GMT"
+  },
+  "sha256": "1654cf6c04263b2dca50530ce85b3181ec9707fa1383b55d0aba5296dfb6764e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2128/download?attachment="
+}

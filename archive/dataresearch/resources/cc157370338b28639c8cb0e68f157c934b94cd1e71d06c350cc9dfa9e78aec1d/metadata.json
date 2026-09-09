@@ -1,0 +1,22 @@
+{
+  "bytes": 27939,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/cc157370338b28639c8cb0e68f157c934b94cd1e71d06c350cc9dfa9e78aec1d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3160/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=202106_The_NDIS_Outcomes_Dashboard_Goulburn_data.xlsx",
+    "ETag": "\"1637284208:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:10:07 GMT"
+  },
+  "sha256": "8a9a0636a84b4e4aa499ad1f67055bfd1bf7624f13f12695dfa2399cdae675d8",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3160/download?attachment="
+}

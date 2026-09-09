@@ -1,0 +1,22 @@
+{
+  "bytes": 81792,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/06f3b598f3181e94a539b3ea220b5364862b5e13417cc11f6432ddb0cdd42bad",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1965/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Commonly used data terms DOCX.docx\"",
+    "ETag": "\"1635836097:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:56 GMT"
+  },
+  "sha256": "3b909db0be81c0ecdf9c4e26e8090bd47f2d802b5970adc0833842f3aa5b4e59",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1965/download?attachment="
+}

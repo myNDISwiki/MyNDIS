@@ -1,0 +1,21 @@
+{
+  "bytes": 5276,
+  "content_type": "application/octet-stream",
+  "directory": "resources/5199babb100f4352f6a38ec2f55ef71c170f064633c6c5268eca34ab7ef48170",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.ttf",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-149c:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:43 GMT"
+  },
+  "sha256": "44630d2f92338dec4391e8cbc5a67cf68cb4214853738ff42d72d7c846a01ffe",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.ttf"
+}

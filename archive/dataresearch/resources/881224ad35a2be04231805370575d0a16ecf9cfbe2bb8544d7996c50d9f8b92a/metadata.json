@@ -1,0 +1,22 @@
+{
+  "bytes": 69821,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/881224ad35a2be04231805370575d0a16ecf9cfbe2bb8544d7996c50d9f8b92a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3716/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Having a go summary - Exploring the use of supports to make individualised living a reality.docx\"",
+    "ETag": "\"1690945182:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:59:41 GMT"
+  },
+  "sha256": "d00502ec0e336a9e50cfd4603709b56f1e1bb96448085a7d28486cd43664460e",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3716/download?attachment="
+}

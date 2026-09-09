@@ -1,0 +1,22 @@
+{
+  "bytes": 729277,
+  "content_type": "application/pdf",
+  "directory": "resources/8b19ed4a327f5b382f316afd0df7e312faa1b7b7e1b76b91c79f84ad67a533c4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2812/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Health and Wellbeing Presentation PDF_0.pdf\"",
+    "ETag": "\"1635836137:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:36 GMT"
+  },
+  "sha256": "605fba9d784247dc6cfd7456d0ce3d42f15ef6225e232f7e835b3935f3561c25",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2812/download?attachment="
+}

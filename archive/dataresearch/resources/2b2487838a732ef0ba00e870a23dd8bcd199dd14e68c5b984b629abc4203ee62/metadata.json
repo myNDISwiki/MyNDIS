@@ -1,0 +1,22 @@
+{
+  "bytes": 529490,
+  "content_type": "application/pdf",
+  "directory": "resources/2b2487838a732ef0ba00e870a23dd8bcd199dd14e68c5b984b629abc4203ee62",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4521/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"s10s33 evaluation report PDF.pdf\"",
+    "ETag": "\"1776127788:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 14 Apr 2026 00:49:47 GMT"
+  },
+  "sha256": "04b05eb561b355e2d1cbd055546e5719c77e693a0aed9e52521f071357bf455d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4521/download?attachment="
+}

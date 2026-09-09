@@ -1,0 +1,22 @@
+{
+  "bytes": 1968497,
+  "content_type": "application/pdf",
+  "directory": "resources/b291f1d21cd49622d96f4a5c4f4c3a2524afc0949bf96da75e27ca35c7d627f3",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1627/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PS insights markets qld PDF.pdf\"",
+    "ETag": "\"1635836084:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:43 GMT"
+  },
+  "sha256": "15598cbcf30272ec93d5c09db2b77620d9dd6c28b2e398c1a0ad3e2f125f3c45",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1627/download?attachment="
+}

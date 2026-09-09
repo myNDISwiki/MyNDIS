@@ -1,0 +1,22 @@
+{
+  "bytes": 6679511,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/45132d1c68214a1fdc8dcd2deaa1451c9c62382d0d342e62a787c4abc6d098cd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3934/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Supplement K Tasmania 2023-24 Q2_0.xlsx\"",
+    "ETag": "\"1708315390:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 19 Feb 2024 04:03:09 GMT"
+  },
+  "sha256": "6d140f06b9f2a564c8fe8aa8c0abfaf02c615a05b5b8c3c855eb365f1511feee",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3934/download?attachment="
+}

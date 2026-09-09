@@ -1,0 +1,22 @@
+{
+  "bytes": 1507819,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/3066552552d960c6613d4b3ae13465af5fe7289262156967466006ceb5fd60ab",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3678/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB OM Tools Evaluation Report.docx\"",
+    "ETag": "\"1690944032:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 02 Aug 2023 02:40:31 GMT"
+  },
+  "sha256": "d8f605658838bd6ad9c25c245cad78d6d256d0f33db354be50c20a728b66af6b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3678/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 60846,
+  "content_type": "application/pdf",
+  "directory": "resources/bfaa87d2cd661a9bd0c0c4d931b7761d5f038fe8fb0991b8bdeb8851ad02a6bd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1533/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Participant Outcomes Ch 7 birth to school Has NDIS helped.pdf\"",
+    "ETag": "\"1635836083:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:42 GMT"
+  },
+  "sha256": "1842dac6bb4c35b450f8b2ab32b919f73f457ade9a2c8e14141e3a2a546c52c1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1533/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 89993,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/91d2e82e9e904da7aa6b80246fe3ca95f41a2b927129ca5c47d6e3ce95a0874a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4262/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Participants by LGA data rules.docx\"",
+    "ETag": "\"1786683596:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:59:55 GMT"
+  },
+  "sha256": "3d33f9d72ed2496ba725d08034c983280a82c826ba470cb93aa6efa1207746ef",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4262/download?attachment="
+}

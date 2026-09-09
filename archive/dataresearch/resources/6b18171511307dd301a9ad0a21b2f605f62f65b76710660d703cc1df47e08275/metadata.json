@@ -1,0 +1,22 @@
+{
+  "bytes": 91073,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/6b18171511307dd301a9ad0a21b2f605f62f65b76710660d703cc1df47e08275",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4274/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"First Nations participants data rules.docx\"",
+    "ETag": "\"1786682216:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 14 Aug 2026 04:36:55 GMT"
+  },
+  "sha256": "f7848cfd62a05a83c79fd78651aac69b7d3da2d0de2b73b41193d25323bec5d9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4274/download?attachment="
+}

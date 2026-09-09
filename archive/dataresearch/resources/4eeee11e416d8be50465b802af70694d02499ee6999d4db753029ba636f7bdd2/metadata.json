@@ -1,0 +1,22 @@
+{
+  "bytes": 15791,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/4eeee11e416d8be50465b802af70694d02499ee6999d4db753029ba636f7bdd2",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3494/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB AFSR 2020-21 Reviewing Actuary DOCX.docx\"",
+    "ETag": "\"1667532200:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 04 Nov 2022 03:23:19 GMT"
+  },
+  "sha256": "df6151eb5f33c697ccde923958e22da4af6f18235485c9ecfe1dd0895212846f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3494/download?attachment="
+}

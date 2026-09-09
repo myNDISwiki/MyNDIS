@@ -1,0 +1,22 @@
+{
+  "bytes": 137732,
+  "content_type": "application/pdf",
+  "directory": "resources/e87a334853b17e5fd3dff52a74db397b84012a0f1ee860bf7d36db440d98ea34",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4540/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics May 2026_1.pdf\"",
+    "ETag": "\"1781477435:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 14 Jun 2026 22:50:34 GMT"
+  },
+  "sha256": "00d654111af5fcdd8f1f4d3e2a039069abbd0fbf649ef16ef2884fe60b5483b9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4540/download?attachment="
+}

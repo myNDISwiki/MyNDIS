@@ -1,0 +1,22 @@
+{
+  "bytes": 295915,
+  "content_type": "application/pdf",
+  "directory": "resources/8dbbabb80670c3330118beb9850c1ecd8322e6b974f028eae1df43d77b5449d4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3052/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Unincorporated NT.pdf\"",
+    "ETag": "\"1637198422:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 18 Nov 2021 01:20:21 GMT"
+  },
+  "sha256": "98ce525aae0725d58d9806938985af180dc261bb19641e38c54b8e5e5d71f38b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3052/download?attachment="
+}

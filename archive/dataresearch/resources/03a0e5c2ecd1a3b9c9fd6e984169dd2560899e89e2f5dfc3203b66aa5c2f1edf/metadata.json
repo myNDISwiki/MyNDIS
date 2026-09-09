@@ -1,0 +1,22 @@
+{
+  "bytes": 16865629,
+  "content_type": "application/zip",
+  "directory": "resources/03a0e5c2ecd1a3b9c9fd6e984169dd2560899e89e2f5dfc3203b66aa5c2f1edf",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3191/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 LGA Outcomes Detailed Dashboards WA PDF.zip\"",
+    "ETag": "\"1637286988:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:56:27 GMT"
+  },
+  "sha256": "91ea44c62d25f0f6bb0a5f889e1bd1276f5ef9d9d63a34aae044dd7168481440",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3191/download?attachment="
+}

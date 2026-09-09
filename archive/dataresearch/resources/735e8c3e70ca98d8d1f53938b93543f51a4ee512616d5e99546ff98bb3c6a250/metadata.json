@@ -1,0 +1,22 @@
+{
+  "bytes": 409518,
+  "content_type": "application/pdf",
+  "directory": "resources/735e8c3e70ca98d8d1f53938b93543f51a4ee512616d5e99546ff98bb3c6a250",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3030/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Western Sydney.pdf\"",
+    "ETag": "\"1637192029:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:33:48 GMT"
+  },
+  "sha256": "ba0c4698105fc81ce375e39218046e1c397d40ca7949e8a5df6ead9ecdcacbd3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3030/download?attachment="
+}

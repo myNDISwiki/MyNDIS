@@ -1,0 +1,22 @@
+{
+  "bytes": 27940,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/a45cd29c901785a1ff3da52ddd6ce2a65d98f9ec0be5042b170dedbe37365960",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3032/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Far West_data.xlsx\"",
+    "ETag": "\"1637192169:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:36:08 GMT"
+  },
+  "sha256": "1690f8eb86f9416c2f121de55262478a34356ac86a42013c57c47d18895b1cdb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3032/download?attachment="
+}

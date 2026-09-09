@@ -1,0 +1,22 @@
+{
+  "bytes": 3960656,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/7926ffac127560ace9d2937eb555d0be92f2167a23d41ef73d10e3b5ee738f21",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4198/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB SILC case study report DOCX.docx\"",
+    "ETag": "\"1737690901:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 24 Jan 2025 03:55:00 GMT"
+  },
+  "sha256": "fd76d93b4d18a3e11744653e2c2a673bc96a053b78eb8fde54e9247552c0997c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4198/download?attachment="
+}

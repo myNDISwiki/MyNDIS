@@ -1,0 +1,22 @@
+{
+  "bytes": 93375,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/d697926339c588d58c28fabec7e2b088a4ce1239ad809aee01877e3b90515120",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3925/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Multiple sclerosis data to 31 December 2023_2.xlsx\"",
+    "ETag": "\"1708906122:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 26 Feb 2024 00:08:41 GMT"
+  },
+  "sha256": "8ea90026cf574827b9cf7b99667009fb3b420f9d04f95a426db73b5317084002",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3925/download?attachment="
+}

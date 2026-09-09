@@ -1,0 +1,22 @@
+{
+  "bytes": 923159,
+  "content_type": "application/pdf",
+  "directory": "resources/a614ae323f4853174b839ecdfd1c251ec44345bae98e86683b1abd55fdb12307",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1971/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"201912_The NDIS Market Detailed Dashboard_Illawarra Shoalhaven.pdf\"",
+    "ETag": "\"1635836100:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:59 GMT"
+  },
+  "sha256": "e53ff0f5803fc706cf45f1116dd473478da2f4ca39d9fab13393fe5fb5528309",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1971/download?attachment="
+}

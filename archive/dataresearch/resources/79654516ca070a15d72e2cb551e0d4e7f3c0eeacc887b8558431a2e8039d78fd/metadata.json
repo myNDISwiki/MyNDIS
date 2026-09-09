@@ -1,0 +1,22 @@
+{
+  "bytes": 259313,
+  "content_type": "application/pdf",
+  "directory": "resources/79654516ca070a15d72e2cb551e0d4e7f3c0eeacc887b8558431a2e8039d78fd",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4194/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS family and carer outcomes executive summary report 30 June 2024.pdf\"",
+    "ETag": "\"1733970373:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 12 Dec 2024 02:26:12 GMT"
+  },
+  "sha256": "428599a90d49e0aec3c897b77c0c1549071544770bef510e756164e85bc6e2fb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4194/download?attachment="
+}

@@ -1,0 +1,22 @@
+{
+  "bytes": 19996,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/c6448a246fa4c5562eb7082a060c402ba4a782aac784b1f575beed0c20165968",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1682/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"2018-19 Q4 Psychosocial Performance Report data tables CSV.csv\"",
+    "ETag": "\"1635836084:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:43 GMT"
+  },
+  "sha256": "1151be8e1672832a548848d1801c24f3d5fb4e21ff4a8d21f4c08e4bb61dcbe1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1682/download?attachment="
+}

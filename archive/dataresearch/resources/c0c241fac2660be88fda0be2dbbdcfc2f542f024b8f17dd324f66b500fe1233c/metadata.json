@@ -1,0 +1,22 @@
+{
+  "bytes": 68012,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/c0c241fac2660be88fda0be2dbbdcfc2f542f024b8f17dd324f66b500fe1233c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3874/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Psychosocial data to 30 September 2023.xlsx\"",
+    "ETag": "\"1699932178:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 14 Nov 2023 03:22:57 GMT"
+  },
+  "sha256": "d79ab1f33797bf2e0b9e9149aa723f403464b005cf66ea494dd9d04d340fe450",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3874/download?attachment="
+}

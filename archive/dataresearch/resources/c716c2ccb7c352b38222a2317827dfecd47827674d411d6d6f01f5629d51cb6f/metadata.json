@@ -1,0 +1,22 @@
+{
+  "bytes": 91491,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/c716c2ccb7c352b38222a2317827dfecd47827674d411d6d6f01f5629d51cb6f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4378/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Multiple sclerosis data to 30 June 2025.xlsx\"",
+    "ETag": "\"1755831775:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 22 Aug 2025 03:02:54 GMT"
+  },
+  "sha256": "fceda72a4949836abc0ef0ff43b22c3042db0341cc02c093ca134f8ab159c46d",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4378/download?attachment="
+}

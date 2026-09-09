@@ -1,0 +1,22 @@
+{
+  "bytes": 27945,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/48b8a0b6532e05f5122ebeded50784132a7a649cf1de80d480546d9e14c1197a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3038/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_North Sydney_data.xlsx\"",
+    "ETag": "\"1637192266:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Wed, 17 Nov 2021 23:37:45 GMT"
+  },
+  "sha256": "a3f704a5657441af467cf94095623a30473312369f4c86808ddc8c1fbcf626cc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3038/download?attachment="
+}

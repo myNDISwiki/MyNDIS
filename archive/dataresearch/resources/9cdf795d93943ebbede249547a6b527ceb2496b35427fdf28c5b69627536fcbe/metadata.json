@@ -1,0 +1,22 @@
+{
+  "bytes": 22756,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/9cdf795d93943ebbede249547a6b527ceb2496b35427fdf28c5b69627536fcbe",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1955/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB SD  to LGA mapping CSV.csv\"",
+    "ETag": "\"1635836097:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:56 GMT"
+  },
+  "sha256": "8299e7c655ed361218fba278ad19f8faf91b1cadc86f55fdcbddd8819baaccba",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1955/download?attachment="
+}

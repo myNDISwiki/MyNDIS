@@ -1,0 +1,22 @@
+{
+  "bytes": 77989,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/52238b0a56ff7d93e745ba8bbb1e2b97635ed678d9d990d9110cc0e20d6e8210",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/2122/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Analysis of participants by gender - data tables XLSX_0.xlsx\"",
+    "ETag": "\"1635836104:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:55:03 GMT"
+  },
+  "sha256": "62d563797dadfa187ac64386cb7c23f124cdcffe675a930860b80dc082dd90d4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/2122/download?attachment="
+}

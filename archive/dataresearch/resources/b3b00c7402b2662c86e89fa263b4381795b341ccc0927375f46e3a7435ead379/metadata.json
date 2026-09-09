@@ -1,0 +1,22 @@
+{
+  "bytes": 27947,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/b3b00c7402b2662c86e89fa263b4381795b341ccc0927375f46e3a7435ead379",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3148/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106_The_NDIS_Outcomes_Dashboard_Western Melbourne_data.xlsx\"",
+    "ETag": "\"1637284026:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:07:05 GMT"
+  },
+  "sha256": "b0915bb9ddb11f23168d4f391d630ab218f11a4155331a03582496894aeb915a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3148/download?attachment="
+}

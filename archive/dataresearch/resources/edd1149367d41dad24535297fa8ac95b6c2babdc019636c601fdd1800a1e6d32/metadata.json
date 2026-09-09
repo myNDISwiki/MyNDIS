@@ -1,0 +1,22 @@
+{
+  "bytes": 2438252,
+  "content_type": "application/pdf",
+  "directory": "resources/edd1149367d41dad24535297fa8ac95b6c2babdc019636c601fdd1800a1e6d32",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3816/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Acquired brain injury dashboard 30 June 2023.pdf\"",
+    "ETag": "\"1695602190:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Mon, 25 Sep 2023 00:36:29 GMT"
+  },
+  "sha256": "df443382d0024159a4b09e5efafd56f0a483f434277bb243308afb17d1bb47e4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3816/download?attachment="
+}

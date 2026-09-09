@@ -1,0 +1,22 @@
+{
+  "bytes": 9657929,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/3bdef7689d0fe0d8ba1a4d2b97cf599a49f7e01ea277bc12a897888e39008dc7",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4529/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Utilisation of plan budgets data March 2026.csv\"",
+    "ETag": "\"1778729546:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Thu, 14 May 2026 03:32:25 GMT"
+  },
+  "sha256": "fb5a12c400c0313c3fa1856852667a8981fb36e4824f76dc37d0cbbb65462cf3",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4529/download?attachment="
+}

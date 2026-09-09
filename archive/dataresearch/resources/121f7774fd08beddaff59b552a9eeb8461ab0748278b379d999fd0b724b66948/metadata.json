@@ -1,0 +1,22 @@
+{
+  "bytes": 7668376,
+  "content_type": "application/pdf",
+  "directory": "resources/121f7774fd08beddaff59b552a9eeb8461ab0748278b379d999fd0b724b66948",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4467/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"PB Easy Read - Annual Financial Sustainability Report 2023-24.pdf\"",
+    "ETag": "\"1764543917:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Sun, 30 Nov 2025 23:05:16 GMT"
+  },
+  "sha256": "7196bd759bc0e6369bc41fc3baf523f262279bf39713682219164d38baf3569b",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4467/download?attachment="
+}

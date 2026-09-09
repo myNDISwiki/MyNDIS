@@ -1,0 +1,22 @@
+{
+  "bytes": 108859,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/b81ab31c89d17e39d894a7f34a65c3308c97d56c7b410475252c8f7bd6a4a37f",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/1948/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"TS Aboriginal & Torres Strait Islander participants DOCX.docx\"",
+    "ETag": "\"1635836097:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Tue, 02 Nov 2021 06:54:56 GMT"
+  },
+  "sha256": "ec2c5412b376ceaf687c7f70cfe9b7b712ed422e2c1c79b13d7439dd1bc89250",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/1948/download?attachment="
+}

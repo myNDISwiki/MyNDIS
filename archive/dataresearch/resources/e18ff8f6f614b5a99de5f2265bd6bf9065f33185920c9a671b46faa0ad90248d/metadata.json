@@ -1,0 +1,22 @@
+{
+  "bytes": 346930,
+  "content_type": "application/pdf",
+  "directory": "resources/e18ff8f6f614b5a99de5f2265bd6bf9065f33185920c9a671b46faa0ad90248d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/3178/download?attachment=",
+  "first_seen": "2026-09-09T19:20:17Z",
+  "kind": "file",
+  "last_changed": "2026-09-09T19:20:17Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"202106 The NDIS Outcomes Dashboard Wheatbelt.pdf\"",
+    "ETag": "\"1637286222:dtagent10343260715123811+q9k\"",
+    "Last-Modified": "Fri, 19 Nov 2021 01:43:41 GMT"
+  },
+  "sha256": "35a388211d4b8c04229f2abd6611a5e711979ff5cd11ff9ac546b234a0bb139c",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/3178/download?attachment="
+}
