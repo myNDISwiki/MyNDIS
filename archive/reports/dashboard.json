@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-09T02:55:55Z",
+  "generated_at": "2026-09-09T08:04:31Z",
   "domains": [
+    {
+      "id": "dataresearch",
+      "name": "NDIS data and research",
+      "status": "not run",
+      "last_checked": null,
+      "tracked_pages": 0,
+      "registry": "../dataresearch/manifest.json",
+      "latest": "../dataresearch/latest-run.json",
+      "changes": {
+        "NEW": 0,
+        "MODIFIED": 0,
+        "REMOVED": 0
+      }
+    },
     {
       "id": "ndis",
       "name": "NDIS website",
@@ -33,13 +47,13 @@
       "id": "vic-gov",
       "name": "Victorian Government reforms",
       "status": "complete",
-      "last_checked": "2026-09-09T02:32:06Z",
+      "last_checked": "2026-09-09T07:41:27Z",
       "tracked_pages": 250,
       "registry": "vic-gov/page-registry.csv",
       "latest": "vic-gov/latest-changes.md",
       "changes": {
         "NEW": 0,
-        "MODIFIED": 4,
+        "MODIFIED": 13,
         "REMOVED": 0
       }
     }
