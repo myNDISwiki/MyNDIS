@@ -181,3 +181,12 @@ The current copy of a page is therefore easy to inspect in the repository, while
 ## Independence
 
 MyNDIS is an independent archival and documentation project. It is not operated by, endorsed by, or affiliated with the National Disability Insurance Agency or the Australian Government.
+
+## NDIS data and research archive
+
+The separate [data and research archive](archive/dataresearch/README.md) recursively
+captures public pages and downloadable source files from `dataresearch.ndis.gov.au`.
+It includes a cumulative change register and explicit reports of failed downloads,
+robots exclusions, pending resources, and external interactive embeds. The daily
+workflow is **Archive NDIS data and research**. See the [scraper documentation](scraper/README.md#data-and-research-full-site-archive)
+for coverage, restoration of large files, and local usage.

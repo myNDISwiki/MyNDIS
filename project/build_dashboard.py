@@ -37,7 +37,16 @@ def main() -> int:
     ndis = load_json(ROOT / "archive" / "ndis" / "manifest.json")
     health = load_json(ROOT / "archive" / "gov" / "health" / "ndis" / "manifest.json")
     vic = load_json(REPORTS / "vic-gov" / "statistics.json")
+    dataresearch = load_json(ROOT / "archive" / "dataresearch" / "manifest.json")
+    dataresearch_run = load_json(ROOT / "archive" / "dataresearch" / "latest-run.json")
     domains = [
+        {
+            "id": "dataresearch", "name": "NDIS data and research", "status": dataresearch.get("status", "not run"),
+            "last_checked": dataresearch.get("checked_at"),
+            "tracked_pages": sum(e.get("kind") == "page" for e in dataresearch.get("entries", {}).values()),
+            "registry": "../dataresearch/manifest.json", "latest": "../dataresearch/latest-run.json",
+            "changes": {"NEW": sum(e["event"] == "new" for e in dataresearch_run.get("events", [])), "MODIFIED": sum(e["event"] == "changed" for e in dataresearch_run.get("events", [])), "REMOVED": 0},
+        },
         {
             "id": "ndis", "name": "NDIS website", "status": "active",
             "last_checked": ndis.get("last_run") or ndis.get("checked_at"),
