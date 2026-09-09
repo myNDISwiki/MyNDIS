@@ -143,3 +143,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  .
  The data can be shown by state or territory. It can also be viewed by
 ```
+
+## 2026-09-09T07:40:39Z — changed
+
+- Previous SHA-256: `b024b510a245c939250da1502148b32866876a50d7b88e6bdd7502ebe5f2066c`
+- New SHA-256: `4a440347273c8d9357e35c8d36d02dc56a52b47e770337a9755045d2ff902c7c`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
