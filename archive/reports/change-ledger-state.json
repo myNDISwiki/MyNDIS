@@ -5,27 +5,27 @@
   },
   "archive/gov/aph/bills/r7487/changelog.md": {
     "domain": "aph",
-    "sha256": "3919240255991a97f0e3bcf6445481989ed13f4595d9ec2a169f13add54aad88"
+    "sha256": "71d7e79a0d3ee923cdfa633e1f0d46790452c8c61aa526998e91f4b10c47c597"
   },
   "archive/gov/aph/bills/r7487/current.html": {
     "domain": "aph",
-    "sha256": "309f622ce2fa06630f88b2172a343d334b6c45f40c9a2a0d89f1c0122050ecad"
+    "sha256": "14770f9f73c34ef4ea1ea59ed9f34fbb8e11406a64a70e1a83226bf3ac58ee78"
   },
   "archive/gov/aph/bills/r7487/metadata.json": {
     "domain": "aph",
-    "sha256": "3cae8926adb0f6e21c64e2b72c103986c2e51fcbfe237319a2c889beea3ac2f0"
+    "sha256": "cb82a5382b74a5b162ee375a78bf54b54152ad1fbc3faf4a28191c2ccd32055f"
   },
   "archive/gov/engage-ndis/reforms-information/changelog.md": {
     "domain": "engage-ndis",
-    "sha256": "38d653012989037dc6eedfdb542429317d56af8284bab918839262351aa7a65c"
+    "sha256": "ad1ff767f1b19d6b33acb9afab762a73136582830fb9b02be2cb41b98e6a4ff8"
   },
   "archive/gov/engage-ndis/reforms-information/current.html": {
     "domain": "engage-ndis",
-    "sha256": "44d7a18d06b6d907f6db3b9f913465a3f34270ac64df01236be941ea9d8ff0d0"
+    "sha256": "9b657138849b5257d0a9fcdd4e530da957c8daa8be7904884a587e92a6ce8795"
   },
   "archive/gov/engage-ndis/reforms-information/metadata.json": {
     "domain": "engage-ndis",
-    "sha256": "007bf17e8bb8c72048dbc8c6cfaea6dd2bed7e9694e218cf8e15802a77642cc7"
+    "sha256": "63b502365833d468d77a3fb7cda7e005f3207470252d2fd85ce6fa9394fd24a6"
   },
   "archive/gov/health/national-autism-strategy-reference-group/README.md": {
     "domain": "health",
@@ -357,27 +357,27 @@
   },
   "archive/gov/ndia/independent-advisory-council/changelog.md": {
     "domain": "ndia",
-    "sha256": "0e2fc173bddc2ec5d6b5c94dd3e80ba86b28e7ef62bc0cc4c648c5f894fde72b"
+    "sha256": "02637257786156b894669612686a6ad11ae33adfc4e494ffae2d1c36071947d2"
   },
   "archive/gov/ndia/independent-advisory-council/current.html": {
     "domain": "ndia",
-    "sha256": "5a7a261b3625c03c52c3e993f74541a24072cf033789a303fb847e088c1081e4"
+    "sha256": "8e9eb0a617a01a9d5d320d39eda89c534d573160fa4a06f0c1f2c06132e03b6a"
   },
   "archive/gov/ndia/independent-advisory-council/metadata.json": {
     "domain": "ndia",
-    "sha256": "48b27ba260a6790a395838251a6b2bb3743fa528cf869030cb6c1cc122f9bb85"
+    "sha256": "d98cf0f79f79e19719d782abf47ac884f9a423b5c860475345931fd560c9caf8"
   },
   "archive/gov/ndia/independent-advisory-council/site/changelog.md": {
     "domain": "ndia",
-    "sha256": "8f161354f2c8b3fd5a33d95e53fa8c74c399f75ad6317c0059cc9a739b589b97"
+    "sha256": "f13315b60f3c9af73932d005c49015d4c73f6c553c7ccda8431da8e48cd5e648"
   },
   "archive/gov/ndia/independent-advisory-council/site/current.html": {
     "domain": "ndia",
-    "sha256": "b4f70cc02ccce877f961de9355a019baa80db39507d66f6f1cbd3fd3b62e7e17"
+    "sha256": "e873907af345f9c23d9ce29347a6dfea71d3b9447b21d8b0e4b58a3b71985293"
   },
   "archive/gov/ndia/independent-advisory-council/site/metadata.json": {
     "domain": "ndia",
-    "sha256": "90248eccc114e5dea541976cfb6680d8a378dd362c430adcba07794d55977fd0"
+    "sha256": "f7a3b99d7c658509149bb5d19e767c321e15aff218162496d4778d1381c61025"
   },
   "archive/gov/ndia/reviewing-actuary/README.md": {
     "domain": "ndia",
@@ -385,15 +385,15 @@
   },
   "archive/gov/ndia/reviewing-actuary/changelog.md": {
     "domain": "ndia",
-    "sha256": "adc377f9304b899bf118121427734afa472d1bdbc33cdf181360c961e2662c52"
+    "sha256": "fb09b0543b972c3e2a852286f9b6f883e887a10e2983207c97635d0ffd85e3bb"
   },
   "archive/gov/ndia/reviewing-actuary/current.html": {
     "domain": "ndia",
-    "sha256": "a8567f9c8891cf6d853ce7b52c95b3a19971f2303c8dbf781750055d680daa00"
+    "sha256": "9f7b1b1abc41ca8b81786c91d0be04a4151b803b6b1be32be44f3b0a15b8f5a1"
   },
   "archive/gov/ndia/reviewing-actuary/metadata.json": {
     "domain": "ndia",
-    "sha256": "2123300a5b5a255da948c2a9a56fa5eee31776e43078e1ad44994546fb1f61d6"
+    "sha256": "e032ef3f99def8a7a37b79b59e6f8cc8e2ac3bc8bcca1f6311c2ccbb3eec11a6"
   },
   "archive/gov/ndia/scheme-actuary/README.md": {
     "domain": "ndia",
@@ -401,15 +401,15 @@
   },
   "archive/gov/ndia/scheme-actuary/changelog.md": {
     "domain": "ndia",
-    "sha256": "d07ae2a87c8147b89bbfde7949382675c1bd8b0c0cf8a3b616ada1f678aa8629"
+    "sha256": "f8854300da735e6b55db415a732d40c7f7f7a857b63efaa4e0d9d40e86fa47c9"
   },
   "archive/gov/ndia/scheme-actuary/current.html": {
     "domain": "ndia",
-    "sha256": "a8567f9c8891cf6d853ce7b52c95b3a19971f2303c8dbf781750055d680daa00"
+    "sha256": "9f7b1b1abc41ca8b81786c91d0be04a4151b803b6b1be32be44f3b0a15b8f5a1"
   },
   "archive/gov/ndia/scheme-actuary/metadata.json": {
     "domain": "ndia",
-    "sha256": "efe847a128117ceb055d8bf2d40210b04f5d6c2f13fd943e7867941116212178"
+    "sha256": "d0b6ab8a0058d03fae45e3e0f244fd9020bfb628f796b66b3906e962519b135e"
   },
   "archive/gov/vic-gov/pages/STEM-in-early-childhood/current.html": {
     "domain": "vic-gov",
@@ -1217,7 +1217,7 @@
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/complying-australias-foreign-relations-act/current.html": {
     "domain": "vic-gov",
-    "sha256": "599202352abfbfd9281d976f3199fa0af770e97949f4242c8342fcae84a30482"
+    "sha256": "a6860511d2447871a04fc0796cdf7c6d9e18f138bfc9d29cf7af7dd5b212a8ec"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/current.html": {
     "domain": "vic-gov",
@@ -1225,7 +1225,7 @@
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/effective-mentoring-program-experienced-teachers/current.html": {
     "domain": "vic-gov",
-    "sha256": "dcf31138691f03f495aa690ab48a604681e4ba6044e789e3d745cbba7adbc576"
+    "sha256": "458d3496cc8c2b4446da93a1ba03de5cf71e3506f20a2ec521ab08e1eb673250"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/helping-early-childhood-education-trainees-gaining-edge/current.html": {
     "domain": "vic-gov",
@@ -1233,23 +1233,23 @@
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/introducing-arrival/current.html": {
     "domain": "vic-gov",
-    "sha256": "3ab67f25640bca4893ddf0a2bb0fd261921c16398e38adc2eefaaf3645b79144"
+    "sha256": "14ae6b549fee49290a84e252e1265d5fe0e3ba8e64361ca8e5e1cc4e1babcd9a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/kinder-kits-are-here-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "bdd1038efc75a2ec4974ba052be47294a5e379fb47874422c300a338b6966c8e"
+    "sha256": "ba97cb21b22450d6d7814f4b93293cd2d2ecfc83cc11b314287b7ae94904ddfb"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/learn-more-about-skilled-visa-nomination-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "6be3852f0e1f2770a7f6eb4845bef54db40d4ef070ec0688e0cb98700d925944"
+    "sha256": "767cd72279f44731b1111cafc0feb9f3389657ce6012328d54f0df4350a85d71"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/looking-after-your-health-and-wellbeing/current.html": {
     "domain": "vic-gov",
-    "sha256": "d516273c721e74034dd7b4998aef7c14c06d42baa3d1aae1a281b0e48ad865b4"
+    "sha256": "5fbc3b046d4fcc9252668c4f43d92573af66de4670c8f3557c9d18b60544a055"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/new-early-learning-and-childcare-centres-now-open/current.html": {
     "domain": "vic-gov",
-    "sha256": "fa5e4269026de38bb54fca441ac2b5896f415be4e3cca0ce2234a1aeffd745f7"
+    "sha256": "641e6ca9dfa5d9d459b84a80a952f273c3b6b9fa79da5b6312f8b57110294c9d"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/reflecting-leadership/current.html": {
     "domain": "vic-gov",
@@ -1257,15 +1257,15 @@
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/support-services-expand-their-education-programs/current.html": {
     "domain": "vic-gov",
-    "sha256": "71a7bf17e5d0e1de7869af4de9ec252a657201974b82d2efaf2c8e26ce2b4d79"
+    "sha256": "55f5f273639f9cf965d5c939d4919d5134bda5cf7bffba20a32c110a7ddfd688"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/welcome-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "58262119d47d9e934c84249f8c8d16909959688815712ec3dc84c676d4cee78d"
+    "sha256": "3711443b386b9b6662808378153c4cbd6bea6edcfa7ae9651b9aa396e85cdac4"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/welcome-new-year-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "edbe257f9e2a3877568d3fe000e48fa0aa7e42282b9cfab4395dd4bec36f4c21"
+    "sha256": "bcab6b2e6a8a2c8937eb7a30406dc82ebefaa04f5d25b03e7db1279ea8bdacc1"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/applications-open-2026-toy-library-grants-program/current.html": {
     "domain": "vic-gov",

@@ -92,3 +92,12 @@ Git history preserves each raw HTML snapshot. This file records visible-text cha
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-09-09T17:51:35Z — changed
+
+- Previous SHA-256: `5a7a261b3625c03c52c3e993f74541a24072cf033789a303fb847e088c1081e4`
+- New SHA-256: `8e9eb0a617a01a9d5d320d39eda89c534d573160fa4a06f0c1f2c06132e03b6a`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+Page bytes changed, but no visible-text change was detected.
