@@ -33,7 +33,7 @@
   },
   "archive/gov/health/ndis/changelog.md": {
     "domain": "health",
-    "sha256": "cb015e75af38a068c46a56afa39931327e87cee561bd1871ca319b258b4866b4"
+    "sha256": "e58c7e154bdb88cdeaa4fe1cb3877b89ed5db3fa78831ed7589ec7ff3c7edab8"
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/consult_view/current.html": {
     "domain": "health",
@@ -77,7 +77,7 @@
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consult_view/current.html": {
     "domain": "health",
-    "sha256": "e9c5f3a996e7baf89a0184d1d93300a975bd6f743e2f6a4119486fe2bff24aa0"
+    "sha256": "4bd1b8596acf6150acb23f4f412f392330e6b0e257459ff9516666f253f470d2"
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consultation/current.html": {
     "domain": "health",
@@ -89,7 +89,7 @@
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/current.html": {
     "domain": "health",
-    "sha256": "942685d5fdb7c1651288c35381d82e288924a9234824d566d518d59f79150a5f"
+    "sha256": "6fcac1c075d9104973fa966307c7c073f8dceb8bef87e3ceb726e31aa5c4c7ce"
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.docx": {
     "domain": "health",
@@ -217,11 +217,11 @@
   },
   "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consult_view/current.html": {
     "domain": "health",
-    "sha256": "1632ecb8fcda09a54ff3ae071391e2d907b0079ff3b754c2c87ad8ee44b393a9"
+    "sha256": "af1fd13556dae6389fcbc11ef9b81099d26f442e3132ce37665f0de2ae5554a8"
   },
   "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/current.html": {
     "domain": "health",
-    "sha256": "d592605095bfc70f5e13abf1d437d6c093058ba3803bd483c9e8d922b5ec87a9"
+    "sha256": "52bc917ef2a17d1279d96db9482fd76b36819e2d9a72084a5a8272549c3e3ddf"
   },
   "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf": {
     "domain": "health",
@@ -345,7 +345,7 @@
   },
   "archive/gov/health/ndis/manifest.json": {
     "domain": "health",
-    "sha256": "a0755d8e270d491cf906f084e4e3d2d174177abddae05cee4cb2b04528fdcb13"
+    "sha256": "72ee2ae10ad9ce05fd9ac981166c93c89e9794fe39c5622232329894a6c567a4"
   },
   "archive/gov/ndia/README.md": {
     "domain": "ndia",

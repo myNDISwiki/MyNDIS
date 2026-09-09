@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:53:55Z",
+  "generated_at": "2026-09-09T18:39:53Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -33,7 +33,7 @@
       "id": "health",
       "name": "Health.gov.au NDIS material",
       "status": "partial",
-      "last_checked": "2026-09-08T18:28:43Z",
+      "last_checked": "2026-09-09T18:28:23Z",
       "tracked_pages": 77,
       "registry": "../gov/health/ndis/manifest.json",
       "latest": "health/latest-changes.md",
