@@ -8,6 +8,7 @@
   "request_delay_seconds": 0.35,
   "request_timeout_seconds": 30,
   "max_pages": 5000,
+  "capture_assets_for_paths": ["/"],
   "document_extensions": [
     ".pdf",
     ".doc",

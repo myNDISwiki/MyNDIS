@@ -12,6 +12,7 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+import os
 import sys
 import time
 from datetime import datetime, timezone
@@ -159,6 +160,45 @@ def discover_documents_from_page(
     return documents
 
 
+def capture_page_assets(
+    html_bytes: bytes,
+    page_url: str,
+    page_path_value: Path,
+    archive_root: Path,
+    base_url: str,
+    session: requests.Session,
+    robots: RobotFileParser,
+    timeout: int,
+    delay: float,
+) -> tuple[bytes, list[str]]:
+    """Save same-site presentation assets for selected pages and rewrite URLs."""
+    soup = BeautifulSoup(html_bytes, "html.parser")
+    captured: list[str] = []
+    tags = soup.find_all(["link", "img", "script"], src=True) + soup.find_all("link", href=True)
+    for tag in tags:
+        attr = "src" if tag.has_attr("src") else "href"
+        linked = normalize_url(tag.get(attr, ""), page_url)
+        if not linked or urlsplit(linked).netloc != urlsplit(base_url).netloc:
+            continue
+        path = urlsplit(linked).path.lower()
+        is_stylesheet = tag.name == "link" and "stylesheet" in {x.lower() for x in tag.get("rel", [])}
+        is_asset = is_stylesheet or tag.name in {"img", "script"} or path.endswith((".css", ".js", ".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico"))
+        if not is_asset or not robots.can_fetch("MyNDISArchiveBot/1.0", linked):
+            continue
+        try:
+            response = fetch(session, linked, timeout, delay)
+            asset_path = archive_root / "assets" / Path(*safe_parts(linked))
+            if not Path(urlsplit(linked).path).suffix:
+                asset_path = asset_path / "index"
+            asset_path.parent.mkdir(parents=True, exist_ok=True)
+            asset_path.write_bytes(response.content)
+            tag[attr] = os.path.relpath(asset_path, page_path_value.parent)
+            captured.append(linked)
+        except requests.RequestException:
+            continue
+    return str(soup).encode("utf-8"), captured
+
+
 def save_content_if_changed(path: Path, data: bytes) -> bool:
     if path.exists() and path.read_bytes() == data:
         return False
@@ -288,6 +328,7 @@ def main() -> int:
     max_pages = int(config.get("max_pages", 5000))
     document_extensions = {ext.lower() for ext in config.get("document_extensions", [])}
     published_base_url = config.get("published_archive_base_url")
+    capture_assets_for_paths = set(config.get("capture_assets_for_paths", []))
 
     archive_root = REPO_ROOT / config["archive_root"]
     archive_root.mkdir(parents=True, exist_ok=True)
@@ -331,6 +372,12 @@ def main() -> int:
             response = sitemap_response if url == normalize_url(sitemap_url, base_url) else fetch(session, url, timeout, delay)
             data = response.content
             path = page_path(archive_root, url)
+            if urlsplit(url).path in capture_assets_for_paths:
+                data, assets = capture_page_assets(
+                    data, url, path, archive_root, base_url, session, robots, timeout, delay
+                )
+                if assets:
+                    print(f"  captured {len(assets)} local presentation assets")
             rel = path.relative_to(REPO_ROOT).as_posix()
             digest = sha256_bytes(data)
             old_status = manifest["entries"].get(url, {}).get("status")
