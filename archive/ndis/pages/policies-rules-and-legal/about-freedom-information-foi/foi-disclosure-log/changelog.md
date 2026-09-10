@@ -425,3 +425,77 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-10T17:27:47Z — changed
+
+- Previous SHA-256: `4528e60cc93fe32037999e469720327c692a6f62f1771939e881f2b1c283116e`
+- New SHA-256: `9937493b90e0a0baf1b28e1a8766dbce117120f71db4520c537c930e4a429e27`
+- Visible text lines added: 17
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,16 +27,12 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
+-FOI 25/26-3231
+-18/08/2026
+-This request contains:
+-Number of Participant Critical Incidents (PCIs) recorded during the following periods:
+-Financial years 2023-24,24-25,25-26 to date.
+-PCIs while awaiting an Internal Review outcome for each period
+-PCIs following an Internal Review outcome for each period
+-FOI 25/26-3231 (PDF 261KB)
+-A single document was created under section 17 of the FOI Act and released in full:
+-1. S17 – Data – Participant Critical Incident Data
++FOI 26/27-0197
++02/09/2026
++Request for the number of Model Litigant Obligations complaints received by the NDIA in the 2025/26 financial year and the number of MLO
++FOI 26/27-0197
++Two documents were produced under s 17 of the Freedom of Information Act.
++Full access was granted to a document showing the number of MLO complaints received by the NDIA in the 2025/26 year.
+ FOI 24/25-2310
+ 24/08/2026
+ Documents relating to the governance, implementation, monitoring and reporting of the Dispute Resolution Improvement Strategy (DRIS), including strategy, guidance, performance and ministerial documents.
+@@ -91,6 +87,16 @@
+ Ministerial Submission MS24-000024 – dated 2 October 2024 – released in part
+ Ministerial Submission MS24-000024 – dated 4 October 2024 – released in part
+ Ministerial Submission MS-25-000159 – released in part
++FOI 25/26-3231
++18/08/2026
++This request contains:
++Number of Participant Critical Incidents (PCIs) recorded during the following periods:
++Financial years 2023-24,24-25,25-26 to date.
++PCIs while awaiting an Internal Review outcome for each period
++PCIs following an Internal Review outcome for each period
++FOI 25/26-3231 (PDF 261KB)
++A single document was created under section 17 of the FOI Act and released in full:
++1. S17 – Data – Participant Critical Incident Data
+ FOI 25/26-3237
+ 18/08/2026
+ The Number of NCC staff in a customer facing role (Telephony, Email, Webchat) employed in by Serco, for the following periods:
+@@ -266,13 +272,6 @@
+ I-CAN v6 Workshop 1 - Cognitive Disability and Communication Support Needs – released in full
+ I-CAN v6 Workshop 2 - Physical Disability – released in full
+ I-CAN v6 Workshop 3 Psychosocial Disability – released in full
+-FOI 25/26-3645
+-23/07/2026
+-Largest 1,000 providers sorted by total payments for 2025/26 financial year.
+-FOI 25/26-3645 (PDF 1.5MB)
+-2 documents released in full:
+-1. S17 - Data - Top 1,000 Direct Payments to Providers from 1 July 2025 to 30 June 2026
+-2. S17 - Data - Top 1,000 Indirect Payments to Providers from 1 July 2025 to 30 June 2026
+ FOI 26/26-3477
+ 23/07/2026
+ Document containing data on Participant - Assistance Animal Maintenance support for Financial Year 2025/26
+@@ -8904,4 +8903,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-2 September 2026
++10 September 2026
+```

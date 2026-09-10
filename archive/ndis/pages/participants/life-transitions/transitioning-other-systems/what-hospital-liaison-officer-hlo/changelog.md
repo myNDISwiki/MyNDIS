@@ -159,3 +159,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  we get the right information to plan for when you leave hospital
  communication between us and the hospital is as fast as possible.
 ```
+
+## 2026-09-10T17:27:47Z — changed
+
+- Previous SHA-256: `599b7e90ead477b64834ec914179fba585ea555499ba6a2cc59559d408a7117a`
+- New SHA-256: `be79812c10367b5d07ceb4c160a0fe1d98801bac3a0d27e7757811cf9086ce21`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
