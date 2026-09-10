@@ -29,6 +29,8 @@ ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "archive" / "gov" / "health" / "ndis"
 SEEDS = (
     "https://www.health.gov.au/our-work/ndis-legislation-changes",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en",
     "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/",
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/",
     "https://www.health.gov.au/resources/publications/thriving-kids-advisory-group-final-report",

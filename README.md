@@ -4,6 +4,8 @@ MyNDIS is an independent project for preserving primary NDIS source material and
 
 This repository separates source archives, working material, project documentation, scraper code, drafts, and the eventual public-facing wiki so that historical evidence is not mixed with interpretation.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for folder roles, source-preservation rules, tracker changes, validation, and pull-request expectations.
+
 ## Repository structure
 
 ```text
@@ -30,7 +32,13 @@ The public-facing MyNDIS wiki will use **Docusaurus**, with its content stored a
 The primary user routes are:
 
 - **I want to apply for the NDIS**
-- **I am on the NDIS**
+- **I am already on the NDIS**
+- **I was not accepted, or my access was refused**
+
+The third route helps people find other disability, health, community, advocacy,
+review, and mainstream supports when the NDIS is not available to them. The
+website is intended to make official NDIS information easier to locate while
+keeping the source, date, and context of each item visible.
 
 The canonical detailed wiki structure and content plan is maintained in **[project/wiki-information-architecture.md](project/wiki-information-architecture.md)**. Earlier proposals, drafts, and process documents are retained as part of the project history rather than deleted when the plan evolves.
 
