@@ -1,0 +1,28 @@
+name: Archive Engage NDIS website
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 5 * * *"
+      timezone: "Australia/Melbourne"
+permissions:
+  contents: write
+concurrency:
+  group: archive-writers
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - run: python project/engage_ndis_tracker.py
+        continue-on-error: true
+      - run: |
+          git add archive/gov/engage-ndis
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "MyNDIS Archive Bot"
+          git config user.email "myndiswiki@users.noreply.github.com"
+          git commit -m "Archive Engage NDIS updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase
+          git push
