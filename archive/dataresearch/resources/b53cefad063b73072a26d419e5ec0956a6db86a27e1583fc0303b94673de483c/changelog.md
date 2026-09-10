@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/reports-and-analyses/specialist-disabil
 ## 2026-09-09T19:20:17Z — new
 
 SHA-256: `d4b8335450f41d6571bc86d79b149d0e134fdc68147316e2b50174a29d05894d`
+
+## 2026-09-10T19:25:54Z — changed
+
+SHA-256: `1f27a3065c19e706f295cef7d72a3e2353c157bc9c7c9728759c69ba37b08d16`
+
+No visible wording change; HTML bytes changed.

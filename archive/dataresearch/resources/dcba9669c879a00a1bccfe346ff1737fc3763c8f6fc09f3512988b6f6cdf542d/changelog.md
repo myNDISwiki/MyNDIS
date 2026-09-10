@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making
 ## 2026-09-09T19:20:17Z — new
 
 SHA-256: `7db4bd68ae4c5a7a77a4594f13a0b7bd4fb7ad89cd17a0bc4a592bd105702345`
+
+## 2026-09-10T19:25:54Z — changed
+
+SHA-256: `a20c91ee82ad618d87c81b2868f15979cdde2f1ccf9dfa179bbb7da7adda0e31`
+
+No visible wording change; HTML bytes changed.

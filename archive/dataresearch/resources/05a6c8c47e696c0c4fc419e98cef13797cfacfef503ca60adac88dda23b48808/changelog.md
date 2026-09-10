@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/
 ## 2026-09-09T19:20:17Z — new
 
 SHA-256: `24fa2bceaf7eafb7c24bcfd61cd6101d95aef2496793fe7c5afbba41bae58a67`
+
+## 2026-09-10T19:25:54Z — changed
+
+SHA-256: `e9a83f614a75db4d32ea030c2127070de549688e572bdd7721a1c0a02d86b596`
+
+No visible wording change; HTML bytes changed.

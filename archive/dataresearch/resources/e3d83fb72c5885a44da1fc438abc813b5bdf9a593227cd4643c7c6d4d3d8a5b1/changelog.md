@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals
 ## 2026-09-09T19:20:17Z — new
 
 SHA-256: `262c9ef25dabd745fa40e5e584ff69df144198d2b48367f8008b40a25d9f16fa`
+
+## 2026-09-10T19:25:54Z — changed
+
+SHA-256: `69389c76b79009187da8af54899e338b8c167138c1ce29ff8636b55ff5ff3173`
+
+No visible wording change; HTML bytes changed.

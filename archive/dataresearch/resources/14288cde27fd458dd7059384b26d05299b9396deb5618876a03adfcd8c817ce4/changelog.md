@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/research-and-evaluation/early-intervent
 ## 2026-09-09T19:20:17Z — new
 
 SHA-256: `4f21fc502de3b8d58ddff0560266c49f0252f6ec29f6bdf84a1da11868b5352c`
+
+## 2026-09-10T19:25:54Z — changed
+
+SHA-256: `dda89543957d54f34013e33c875d58a1358a5642781e986f15eb422a8a940262`
+
+No visible wording change; HTML bytes changed.

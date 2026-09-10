@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashbo
 ## 2026-09-09T19:20:17Z — new
 
 SHA-256: `c80b0ec66749f1b1ea91671e32ad0aa20f846d203b89b6ee2148ff90d77172e5`
+
+## 2026-09-10T19:25:54Z — changed
+
+SHA-256: `4320f0687f30ef5c0a5b8d6bca951efa039b0519cf0dbc631d81409e9c5b64be`
+
+No visible wording change; HTML bytes changed.
