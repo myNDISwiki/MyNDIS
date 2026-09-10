@@ -1,9 +1,7 @@
-# Victorian Government latest changes
-
-Checked: 2026-09-10T02:32:54Z
+# vic-gov latest archive changes
 
 ## MODIFIED
 
-- https://www.vic.gov.au/child-safety-early-childhood-parents
-- https://www.vic.gov.au/choose-early-childhood-service
+- `archive/gov/vic-gov/pages/child-safety-early-childhood-parents/current.html`
+- `archive/gov/vic-gov/pages/choose-early-childhood-service/current.html`
 
