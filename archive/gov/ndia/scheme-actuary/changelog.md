@@ -146,3 +146,69 @@ Page bytes changed, but no visible-text change was detected.
 - Visible text lines removed: 0
 
 Page bytes changed, but no visible-text change was detected.
+
+## 2026-09-11T17:50:42Z — changed
+
+- Previous SHA-256: `9f7b1b1abc41ca8b81786c91d0be04a4151b803b6b1be32be44f3b0a15b8f5a1`
+- New SHA-256: `a1a08f9ec5c45e4a00311dda987288b40fe9966590c0ef49b3b3f4012944ad4d`
+- Visible text lines added: 16
+- Visible text lines removed: 15
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-08/09/2026, 04:13
++11/09/2026, 05:01
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -124,6 +124,12 @@
+ Latest news
+ Category
+ Media release
++Media release from the Minister
++Pair jailed as NDIS integrity systems protect participants
++Date
++11 September 2026
++Category
++Media release
+ News
+ Final man jailed over NSW fraud syndicate
+ Date
+@@ -133,22 +139,17 @@
+ NDIS reform: Have your say on NDIS support coordination and connection service
+ Date
+ 7 September 2026
+-Category
+-News
+-Corporate Plan 2026–27 now available
+-Date
+-31 August 2026
+ Read more news
+ Participant experiences
+-With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
+-Nic’s new life built on friendship and independence
+-14 August 2026
+-With NDIS hearing supports behind him, Lee is helping build much-needed homes for Australians. The construction professional is contributing to the economy while building a future with his wife and planning to start a family.
+-NDIS supports help Lee build his life
+-14 August 2026
+-For former Gosford primary school teacher Violeta, being blind is no barrier to living the independent life she has always cherished.
+-Violeta embraces an active, independent life
+-14 August 2026
++Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
++Charlie’s NDIS supports help him build a bigger future
++11 September 2026
++Living in specialist disability accommodation (SDA) has helped build Geelong NDIS participant Tom’s independence and improved his safety.
++Tom’s home gives him independence and choice
++11 September 2026
++The NDIS supported Bryden to build his job and life skills. Now he’s a teacher’s aide at a local state school and happy living independently.
++Bryden’s work is changing lives and shifting mindsets
++11 September 2026
+ More stories and videos
+ This page current as of
+ 29 June 2026
+```
