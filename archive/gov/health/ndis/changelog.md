@@ -1965,3 +1965,195 @@ curl: (22) The requested URL returned error: 403
 curl: (22) The requested URL returned error: 403
 curl: (22) The requested URL returned error: 403
 
+
+## 2026-09-11T18:27:51Z
+
+Status: **partial** — 59 fetch failure(s). Successful captures from this run were retained.
+
+### Changed
+
+- https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports — `direct`
+- https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view — `direct`
+
+### Fetch failures
+
+- https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_final-2.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf: curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+curl: (22) The requested URL returned error: 403
+
