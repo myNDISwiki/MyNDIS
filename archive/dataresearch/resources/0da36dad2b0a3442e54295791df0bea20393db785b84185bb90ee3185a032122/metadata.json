@@ -1,5 +1,5 @@
 {
-  "bytes": 72869,
+  "bytes": 72871,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/0da36dad2b0a3442e54295791df0bea20393db785b84185bb90ee3185a032122",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/animal-assisted-interventions",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-10T19:25:54Z",
+  "last_changed": "2026-09-11T19:27:12Z",
   "links": [
     "https://9ae36e61-4b22-4230-bb95-f39083f7936e.filesusr.com/ugd/78eed2_40866d1ffc634bb997c914f82d4b4b14.pdf",
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Fanimal-assisted-interventions",
@@ -156,7 +156,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 09 Sep 2026 08:16:28 GMT"
   },
-  "sha256": "957d58b3c20e29db30fc369fbb0c800fdab3ad80a7172cfe391419bb10abed2c",
+  "sha256": "46a0123188a578bee1ccdeccf528527ba0a13d5940ae2d3bc469e2234ed678bf",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/animal-assisted-interventions"
 }

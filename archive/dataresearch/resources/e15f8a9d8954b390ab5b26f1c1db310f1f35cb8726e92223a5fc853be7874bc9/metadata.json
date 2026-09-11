@@ -1,5 +1,5 @@
 {
-  "bytes": 54817,
+  "bytes": 54816,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e15f8a9d8954b390ab5b26f1c1db310f1f35cb8726e92223a5fc853be7874bc9",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/cognitive-remediation-evidence-snapshot",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-10T19:25:54Z",
+  "last_changed": "2026-09-11T19:27:12Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fcognitive-remediation-evidence-snapshot",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -145,7 +145,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 09 Sep 2026 07:31:54 GMT"
   },
-  "sha256": "6b78020b3b43a2f7bf938e5a2ebf06bc584996e1415a63294a782fda1a0bcc0d",
+  "sha256": "e0bbc50d7873383488a6dfd306d33f0c8a952fbd951d4183b5c50f4bbd22fb4c",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/cognitive-remediation-evidence-snapshot"
 }
