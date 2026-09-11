@@ -210,3 +210,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `c181a4c4a9e670441809f13b2e689a81d12e04cc71dc6edf1157674cb1d24a4b`
+- New SHA-256: `bfad3241bd63a9f56d895cc739372fc24556acf9a90936dd03490da53679410e`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -178,7 +178,7 @@
+ Expand or collapse sub-menu for For plan managers
+ Guide to working as a plan manager
+ How to connect with participants as plan manager
+-How to support a participant as a plan manager
++How to support participants as a plan manager
+ For allied health professionals
+ Expand or collapse sub-menu for For allied health professionals
+ Guide to working as an allied health provider
+```

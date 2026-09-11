@@ -204,3 +204,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `8d709515be6afbe5a8439096e4549352b0cc9a323ca37d21bb34b4d25530cce7`
+- New SHA-256: `92bf5a2b4283e2c1c7e59f2ef9567ab4cdd02e4a17785f67bb55689b105c623b`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,7 +21,7 @@
+ NT
+ (1)
+ September 2026
+-(1)
++(2)
+ August 2026
+ (2)
+ July 2026
+@@ -106,6 +106,13 @@
+ Search
+ Category
+ Media release
++Media release from the Minister
++Pair jailed as NDIS integrity systems protect participants
++The Australian Government welcomes 2 prison sentences handed down this week as unprecedented integrity actions continue to strengthen NDIS systems and protect participants.
++Date
++11 September 2026
++Category
++Media release
+ News
+ Final man jailed over NSW fraud syndicate
+ A Chester Hill man, 37, was sentenced by the Paramatta District Court yesterday (7 September, 2026) to four years’ imprisonment for his role in a multimillion-dollar fraud against the NDIS and Australian Taxation Office (ATO).
+@@ -138,13 +145,6 @@
+ First Nations people seeking NDIS help can now call a new phone line, established to provide a more culturally respectful, tailored experience with the National Disability Insurance Agency (NDIA).
+ Date
+ 9 July 2026
+-Category
+-Media release
+-Media release from the Minister
+-Another NDIS fraudster sentenced to jail
+-A jail term imposed today sends a clear warning to any person who sets out to defraud the National Disability Insurance Scheme – you will be caught and punished.
+-Date
+-3 July 2026
+ Pagination
+ 1
+ 2
+```

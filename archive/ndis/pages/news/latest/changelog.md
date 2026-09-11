@@ -520,3 +520,66 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `dd0ffbf9f625640e4adefc4b55903956f1d4157577f7b7a3027a9b1cfe695e71`
+- New SHA-256: `a0223db131df0794b758deecc1cf21e5077adb77d983d1d3c5adbf8d233fa314`
+- Visible text lines added: 10
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,9 +48,9 @@
+ Provider news
+ (3)
+ Media release
+-(58)
++(59)
+ Media release from the Minister
+-(91)
++(92)
+ News - housing
+ (2)
+ Media statements
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(3)
++(4)
+ August 2026
+ (13)
+ July 2026
+@@ -359,6 +359,13 @@
+ Search
+ Category
+ Media release
++Media release from the Minister
++Pair jailed as NDIS integrity systems protect participants
++The Australian Government welcomes 2 prison sentences handed down this week as unprecedented integrity actions continue to strengthen NDIS systems and protect participants.
++Date
++11 September 2026
++Category
++Media release
+ News
+ Final man jailed over NSW fraud syndicate
+ A Chester Hill man, 37, was sentenced by the Paramatta District Court yesterday (7 September, 2026) to four years’ imprisonment for his role in a multimillion-dollar fraud against the NDIS and Australian Taxation Office (ATO).
+@@ -387,13 +394,6 @@
+ News
+ Victorian man arrested following alleged $700K NDIS fraud
+ A Victorian man has been arrested after he allegedly defrauded the NDIS of around $700,000 over a two-year period.
+-Date
+-27 August 2026
+-Category
+-Changes to the NDIS
+-News
+-Changes to plan reassessments
+-New NDIS laws are now in effect.
+ Date
+ 27 August 2026
+ Pagination
+```

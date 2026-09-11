@@ -191,3 +191,46 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `d58207518c883000157c0797fa4c6ea6f59a49c831668380308e5c0e641c6a75`
+- New SHA-256: `41fa1aa4739841b4649bd045305bdd1d4dfabcdf595ce6e7fcaa57c0ea0076fb`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,20 +16,20 @@
+ '
+ Events and information sessions
+ Category
+-Community Engagement
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++Provider Engagement
++Introducing changes to NDIS Legislation for all providers - (Securing the NDIS for Future Generations) Bill 2026
+ Event Date
+-Wednesday, 4 November 2026
++Thursday, 29 October 2026
+ Category
+-Community Engagement
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++Provider Engagement
++Introducing changes to NDIS Legislation for all providers - (Securing the NDIS for Future Generations) Bill 2026
+ Event Date
+ Wednesday, 28 October 2026
+ Category
+-Community Engagement
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++Provider Engagement
++Introducing changes to NDIS Legislation for all providers - (Securing the NDIS for Future Generations) Bill 2026
+ Event Date
+-Wednesday, 21 October 2026
++Thursday, 22 October 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

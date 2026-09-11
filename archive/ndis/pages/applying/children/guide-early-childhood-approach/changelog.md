@@ -142,3 +142,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `0b36fc362678ee703c6c55eff602a0073c34bef18098d1221a990f01438ffec8`
+- New SHA-256: `ff08f11f3e416d4ec22d982bcfb982eaf1946a3d0a3c50b526dbb6ec24cb40e1`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -52,7 +52,7 @@
+ NDIS partner
+ that’s a local area coordinator.
+ How the early childhood approach benefits your child
+-t focuses on your child’s participation in everyday environments.
++It focuses on your child’s participation in everyday environments.
+ Children learn and develop in natural, everyday settings.
+ This includes their own home, childcare, playgroup, preschool and other places where they play with family or friends.
+ Focuses on supporting families
+```

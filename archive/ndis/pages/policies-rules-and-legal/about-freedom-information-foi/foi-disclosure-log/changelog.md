@@ -499,3 +499,36 @@ The page bytes changed, but no visible main-content wording change was detected.
 -2 September 2026
 +10 September 2026
 ```
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `9937493b90e0a0baf1b28e1a8766dbce117120f71db4520c537c930e4a429e27`
+- New SHA-256: `004c79d044c2a4ca136957da1e9128c8838e2212a8d81e1d978c5ee84c92a95d`
+- Visible text lines added: 3
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -29,10 +29,11 @@
+ Comment
+ FOI 26/27-0197
+ 02/09/2026
+-Request for the number of Model Litigant Obligations complaints received by the NDIA in the 2025/26 financial year and the number of MLO
++Request for the number of Model Litigant Obligations complaints received by the NDIA in the 2025/26 financial year and the number of MLO complaints that were investigated by the NDIA and subsequently upheld.
+ FOI 26/27-0197
+ Two documents were produced under s 17 of the Freedom of Information Act.
+ Full access was granted to a document showing the number of MLO complaints received by the NDIA in the 2025/26 year.
++Partial access was granted to a document showing the number of MLO complaints upheld by the NDIA in the 2025/26 year.
+ FOI 24/25-2310
+ 24/08/2026
+ Documents relating to the governance, implementation, monitoring and reporting of the Dispute Resolution Improvement Strategy (DRIS), including strategy, guidance, performance and ministerial documents.
+@@ -8903,4 +8904,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-10 September 2026
++11 September 2026
+```

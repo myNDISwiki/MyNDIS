@@ -531,3 +531,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `607a920ac331638bb9b0a2c8377ace63b48d07a50b035fcfbaf299aa2e41c919`
+- New SHA-256: `47276ed8a2aa4950c8055d20b285652bdba72143b7078a22bd59a8dafd044748`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Find specialist disability accommodation (SDA)
+-8 September 2026
+-What is specialist disability accommodation (SDA) demand data
+-8 September 2026
+-How to report on employment outcomes
+-8 September 2026
+-Final man jailed over NSW fraud syndicate
+-8 September 2026
+-Our guidelines
+-7 September 2026
+-NDIS reform: Have your say on NDIS support coordination and connection service
+-7 September 2026
+-How to prepare evidence for a participant's assistive technology assessment
+-7 September 2026
+-Privacy
+-7 September 2026
+-Local Area Coordinator (LAC) partner, Gympie, 4570
+-7 September 2026
+-Guide to leaving the NDIS
+-4 September 2026
++Provider finder
++11 September 2026
++Guide to the early childhood approach
++11 September 2026
++What is a plan variation
++11 September 2026
++NDIS support gives Andrew renewed hope
++11 September 2026
++Charlie’s NDIS supports help him build a bigger future
++11 September 2026
++What is NDIS funding
++11 September 2026
++How to support participants as a plan manager
++11 September 2026
++Tom’s home gives him independence and choice
++11 September 2026
++What is a plan meeting
++11 September 2026
++Bryden’s work is changing lives and shifting mindsets
++11 September 2026
+```

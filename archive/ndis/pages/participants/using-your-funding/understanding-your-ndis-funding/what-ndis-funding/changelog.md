@@ -142,3 +142,102 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `1b876c20bff8c49f7fe64ff79b8f0b4945d84477b9952a4ce00e294c5d7dfab7`
+- New SHA-256: `5020067ed09c4c0bd6c6ce13363e696d9fc069fe31295835c0ec965cd58f9a62`
+- Visible text lines added: 33
+- Visible text lines removed: 21
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,31 +16,31 @@
+ 3 - What NDIS funding is like
+ What NDIS funding is
+ The money in a participant’s plan is called NDIS funding.
+-The amount of funding we put in your plan depends on the evidence you give us, your NDIS supports and your situation.
+-We also look at data we have collected about other participants with similar circumstances and NDIS supports since the NDIS started.
++The funding amount in your plan depends on the evidence you give us, your NDIS supports and your situation.
++We also look at data about other participants with similar circumstances.
+ We use all this information to decide how much funding you need in your plan to buy NDIS supports.
+ What NDIS funding is for
+-Our rules say what NDIS funding can be used for. The things you can use your NDIS funding for are called
+-NDIS supports
+-.
++Our rules say what NDIS funding can be used for. The things you can use your NDIS funding for are called NDIS supports.
+ NDIS funding can be used to pay providers and buy NDIS supports if they are related to your disability and are in-line with your plan.
+-The funding in your NDIS plan is split into 4 different support budgets that can help you work towards different goals.
+-Depending on your situation and NDIS supports you have, you may not have NDIS funding in all 4 support budgets in your plan. This is because each person with disability has different needs.
+-Your funding might cover things such as:
++The funding in your NDIS plan is split into 4 different
++support budgets
++that can help you work towards different goals.
++You may not have NDIS funding in all 4 support budgets in your plan. This is because everyone has different needs.
++Your funding might cover things like:
+ help with household tasks
+ help with personal care
+-assistive technology such as home modifications or mobility equipment
++assistive technology, such as home modifications or mobility equipment
+ therapeutic supports.
+ Get to know the support budgets and categories
+ Learn more about support budgets and categories in your plan:
+ Guide to the support budgets
+-What are core supports?
+-What are capital supports?
+-What are capacity building supports?
+-What are recurring supports?
++What are core supports
++What are capital supports
++What are capacity building supports
++What are recurring supports
+ What NDIS funding is like
+ You’ll be able to see the NDIS funding available in your plan in:
+-the myplace or my NDIS
++the
+ participant portals
+ the
+ my NDIS app
+@@ -52,19 +52,31 @@
+ reasonable and necessary
+ supports over the length of your plan.
+ Funding components
+-You total funding amount will be divided into funding components. These components can be
++Your total funding amount will be divided into funding components. These components can be
+ core, capacity building, capital or recurring support budgets
+ .
+ Each component has an allocated amount that can be used to purchase supports covered under that component.
+ Funding periods
+ The total amount for each funding component will be made available to you in specific time intervals. We call these funding periods.
+ Each funding component has its own funding periods.
+-Funding periods will usually be three months. You can spend up to the amount of funding available in that time.
+-Funding periods helps give you flexibility and to manage your budget. They do not change your total funding amount in your plan.
+-They only change when you can access your funds.
+-Learn more about the
+-improvements we’re making to NDIS
+-plans.
++Funding periods will usually be 3 months.
++Funding periods help give you flexibility and manage your budget. They don’t change the total funding amount in your plan. They only change when you can access your funds.
++Your funding must be spent within the current plan. Any unused funding won’t roll over to a new plan.
++It’s important to carefully manage your funding in line with the total funding amount of your plan. This includes making sure supports claimed are in line with the funding available for each funding period. We can't pay additional claims if there's no funding left in that period. Additional claims can’t be paid if the funding in that period is all used.
++Using funding flexibly over funding periods
++Your support needs may change and won’t always line up with your funding periods.
++Your funding will roll over to the next funding period within the same plan, if you don’t use all your funding in a funding period. You might still be able to claim for an NDIS support, if you need more supports than expected in a funding period.
++You can claim for your NDIS support in your next funding period if:
++you and your providers agree to claim in the next funding period
++you have enough funding to cover the supports needed for that period and in the rest of your plan
++your provider agrees to wait for their payment until your next funding period.
++Delaying claims
++You may choose to delay your claim.
++If you claim from the next funding period, you should:
++review your service agreement and delivery schedule with your providers
++adjust the service agreement or delivery schedule to make sure you can cover your supports until the end of your plan.
++You can’t claim more than the total funding amount in your plan.
++You may need to pay for supports yourself if they aren’t funded in your plan.
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

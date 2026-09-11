@@ -513,3 +513,67 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `48e7f1af113955a65670e33a0b69063507b92930c0d6ae3f2211fa0fd5adcaed`
+- New SHA-256: `b03529311caa27bd032bbd1547c2235019cd97c576057ff31c8d875f9ccdd3db`
+- Visible text lines added: 12
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,25 +12,19 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(17)
++(16)
+ Provider Engagement
+-(4)
++(15)
+ No states available
+ Event date
+ November 2026
+ (1)
+ October 2026
+-(7)
++(15)
+ September 2026
+-(13)
++(15)
+ Search
+ Search
+-Category
+-Community Engagement
+-Understanding the NDIS webinar: Supporting an NDIS Participant to make decisions
+-Join us for an informative webinar focused on the different ways people can support an NDIS participant to make decisions and manage their supports.
+-Event Date
+-Thursday, 10 September 2026
+ Category
+ Community Engagement
+ An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
+@@ -61,11 +55,19 @@
+ The National Disability Insurance Agency (NDIA) invites all new NDIS providers who have started delivering supports to NDIS participants to attend an information session on Working as a NDIS Provider.
+ Event Date
+ Friday, 18 September 2026
++Category
++Provider Engagement
++Getting Paid as an NDIS Provider
++The National Disability Insurance Agency (NDIA) invites providers to an information session about the NDIA claims and payment processes.
++Event Date
++Tuesday, 22 September 2026
+ Pagination
+ 1
+ 2
+ 3
+ 4
++5
++6
+ ›
+ ››
+ »
+```

@@ -223,3 +223,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `263d3192f720cd03a4df8d0a34301ce9ee558b3d3e9c82ad60c620ddfaa648f0`
+- New SHA-256: `91692cf897dc5b7caa0a0504695144ac6f8b7fc8263a39fe269e84bc904b153d`
+- Visible text lines added: 13
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -32,15 +32,21 @@
+ What a plan variation is like
+ Plan variation request form
+ You, your plan nominee or child representative can ask for a plan variation at any time using the plan variation request form.
+-You need to give consent for someone else, like a support coordinator, to ask for a plan variation.
+-You can use this form when you need changes to a part of your current plan. You can also speak to your my NDIS contact or
++You need to give
++consent
++for someone else, like a support coordinator, to ask for a plan variation.
++You can use this form when you need changes to a part of your current plan. You can also speak to your
++my NDIS contact
++or
+ contact us
+ about the changes you need.
+ We may ask you for information and evidence to support your request to vary your plan.
+ Plan variation request form
+ Download the plan variation request form:
+-Plan variation request form (DOCX 131KB)
+-Plan variation request form (PDF 619KB)
++Plan variation request form
++(DOCX 131KB)
++Plan variation request form
++(PDF 619KB)
+ Send us your information
+ You can give us your complete form and evidence by:
+ using our
+@@ -53,7 +59,9 @@
+ .
+ How we make plan variations
+ We’ll let you know our decision within 21 days once we have the information and evidence. We’ll let you know if we need more time to review your request.
+-We’ll tell you if we need more evidence from you to make the change or if we think you might need a plan reassessment.
++We’ll tell you if we need more evidence from you to make the change or if we think you might need a
++plan reassessment
++.
+ We may decide not to change your plan. We’ll let you know and explain why.
+ You’ll get a copy of your varied plan within 7 days if we vary your plan.
+ If you don’t agree with our decision
+```

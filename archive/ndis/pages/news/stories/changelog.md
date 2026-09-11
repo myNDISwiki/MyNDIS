@@ -135,3 +135,58 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-11T17:28:36Z — changed
+
+- Previous SHA-256: `e3e31e1a804a931e743594b3d4eddaf3310be31b66bcb53a65e8d015366cd8cc`
+- New SHA-256: `12e529702d3b8b99c991818aab71900b8f3047041587be7a0cdf496baa506f8e`
+- Visible text lines added: 10
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -36,7 +36,7 @@
+ Providers
+ (13)
+ Stories
+-(263)
++(267)
+ Translated videos + Auslan
+ (6)
+ Understanding the NDIS
+@@ -47,6 +47,15 @@
+ (56)
+ Search
+ Search
++Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
++Charlie’s NDIS supports help him build a bigger future
++11 September 2026
++Living in specialist disability accommodation (SDA) has helped build Geelong NDIS participant Tom’s independence and improved his safety.
++Tom’s home gives him independence and choice
++11 September 2026
++The NDIS supported Bryden to build his job and life skills. Now he’s a teacher’s aide at a local state school and happy living independently.
++Bryden’s work is changing lives and shifting mindsets
++11 September 2026
+ With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
+ Nic’s new life built on friendship and independence
+ 14 August 2026
+@@ -56,15 +65,6 @@
+ For former Gosford primary school teacher Violeta, being blind is no barrier to living the independent life she has always cherished.
+ Violeta embraces an active, independent life
+ 14 August 2026
+-For Jessika, 27, NDIS support means she is now living an independent life making her own decisions.
+-Living her own life means everything to Jessika
+-20 May 2026
+-With NDIS supports, Bellarine Peninsula participant Andi is back working, proudly sharing her work with her local community.
+-Andi's purposeful life brings her greater community connection
+-20 May 2026
+-Family finds stability and inclusion.
+-Twins Georgia and Ellen live a fulfilling life with NDIS support
+-13 February 2026
+ Pagination
+ 1
+ 2
+```
