@@ -1,3 +1,6 @@
 # ndis-commission latest archive changes
 
-No changes detected in this run.
+## MODIFIED
+
+- `archive/gov/ndis-commission/manifest.json`
+
