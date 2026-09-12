@@ -1,5 +1,5 @@
 {
-  "bytes": 61128,
+  "bytes": 61126,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/928acda8078e1e733bc23d8fe7a5f4cdcca1080d3d7b7c44b8e7c6c24c94a75d",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/ade-open-employment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-11T19:27:12Z",
+  "last_changed": "2026-09-12T19:24:13Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fade-open-employment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -154,7 +154,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 09 Sep 2026 06:03:38 GMT"
   },
-  "sha256": "12dae1ce5d837743738e5258c7007ec05b380239a18f2c87f72d2988a60bdd5a",
+  "sha256": "b4f9c3cccdc741f07b43dbc2a25dd33080529eb2f10a280450ba34207970c681",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/ade-open-employment"
 }

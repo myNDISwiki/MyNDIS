@@ -1,5 +1,5 @@
 {
-  "bytes": 29594,
+  "bytes": 29595,
   "content_type": "application/pdf",
   "directory": "resources/44d480a073f0af4cd12afdbbc819c3bbd8fcb7bc0ebbc6ba533a92ecb098ef92",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4025",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-11T19:27:12Z",
+  "last_changed": "2026-09-12T19:24:13Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Naturalistic developmental behavioural interventions.pdf\""
   },
-  "sha256": "076e4bf1b84bd5fc4a1d4af37ecb4f759b36072d4cd4f5080128d0af09c3a8a8",
+  "sha256": "1c62b2b0fc64ff6e4f311dc9a7625913f859cf64c216863e5e3ce624f28203d0",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4025"
 }

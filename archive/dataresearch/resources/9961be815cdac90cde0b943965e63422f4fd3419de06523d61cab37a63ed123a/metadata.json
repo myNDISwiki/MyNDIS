@@ -1,5 +1,5 @@
 {
-  "bytes": 58213,
+  "bytes": 58212,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/9961be815cdac90cde0b943965e63422f4fd3419de06523d61cab37a63ed123a",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-11T19:27:12Z",
+  "last_changed": "2026-09-12T19:24:13Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -142,7 +142,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 09 Sep 2026 05:49:56 GMT"
   },
-  "sha256": "1aad4caaea7f5c0a23079956d0ca255e5b3fbeb277af9a1070817492dc7327ef",
+  "sha256": "0f2ec69c3cb04ebcfe421e0d85011a23ab8f244e4f8b7e955c5ba9bce61bb79e",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis"
 }

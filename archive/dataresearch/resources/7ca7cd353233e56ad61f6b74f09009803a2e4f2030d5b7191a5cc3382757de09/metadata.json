@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-family-and-carer-outcomes-reports/family-and-carer-outcomes-30-june-2021",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-11T19:27:12Z",
+  "last_changed": "2026-09-12T19:24:13Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fprevious-family-and-carer-outcomes-reports%2Ffamily-and-carer-outcomes-30-june-2021",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -164,7 +164,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 09 Sep 2026 07:34:25 GMT"
   },
-  "sha256": "dc710a78a37d3600870d3ee69a124ccca62c19237a390735f84c34d975a2c086",
+  "sha256": "046d7bc0e3d2057f0bb117993fc88dd34d2bbfd02cefba0bd8a56a6a131cc082",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-family-and-carer-outcomes-reports/family-and-carer-outcomes-30-june-2021"
 }

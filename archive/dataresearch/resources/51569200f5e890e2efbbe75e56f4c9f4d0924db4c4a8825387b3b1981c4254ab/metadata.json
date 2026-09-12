@@ -1,5 +1,5 @@
 {
-  "bytes": 12605,
+  "bytes": 12604,
   "content_type": "application/pdf",
   "directory": "resources/51569200f5e890e2efbbe75e56f4c9f4d0924db4c4a8825387b3b1981c4254ab",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3998",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-11T19:27:12Z",
+  "last_changed": "2026-09-12T19:24:13Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Global Developmental Delay.pdf\""
   },
-  "sha256": "767e7ccc041ada683c095ff3802150a183d75b0c2b420f1705a65e2af212087b",
+  "sha256": "a8f8e6986d7223c5de1ec48a69dae12c3f4ad3cb42ae2c19d16478de4d571cfd",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3998"
 }
