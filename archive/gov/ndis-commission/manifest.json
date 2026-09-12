@@ -2,10 +2,10 @@
   "seeds": [
     "https://www.ndiscommission.gov.au/lodge-freedom-information-foi-request"
   ],
-  "checked_at": "2026-09-11T18:53:24Z",
+  "checked_at": "2026-09-12T18:52:11Z",
   "status": "partial",
   "fetch_failures": [
-    "https://www.ndiscommission.gov.au/lodge-freedom-information-foi-request: curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\ncurl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\ncurl: (28) Operation timed out after 30002 milliseconds with 0 bytes received"
+    "https://www.ndiscommission.gov.au/lodge-freedom-information-foi-request: curl: (28) Operation timed out after 30003 milliseconds with 0 bytes received\ncurl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\ncurl: (28) Operation timed out after 30002 milliseconds with 0 bytes received"
   ],
   "items": {},
   "note": "Same-host public pages are discovered from the seed and retained across partial runs."
