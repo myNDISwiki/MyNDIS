@@ -43,13 +43,13 @@ visual/
 
 ## 🎨 Core Brand Palette
 
-| Color Role | Color Name | Hex Code | Contrast Ratio vs `#F5F6F3` | WCAG Rating |
-| :--- | :--- | :--- | :--- | :--- |
-| **Primary** | Navy | `#172A52` | **11.8 : 1** | **AAA (Headings & Links)** |
-| **Body Copy** | Black | `#171717` | **17.2 : 1** | **AAA (Paragraph Text)** |
-| **Highlight** | Vibrant Green | `#2E8C59` | **4.6 : 1** | **AA (Primary Buttons & Tag Text)** |
-| **Secondary Accent** | Coral | `#D96F5F` | **3.8 : 1** | **AA (UI Borders & Headers)** |
-| **Background** | Cool Off-White | `#F5F6F3` | Canvas | **Anti-Glare Surface** |
+| Swatch | Color Role | Color Name | Hex Code | Contrast Ratio vs `#F5F6F3` | WCAG Rating |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| <span style="background-color:#172A52; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Primary** | Navy | `#172A52` | **11.8 : 1** | **AAA (Headings & Links)** |
+| <span style="background-color:#171717; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Body Copy** | Black | `#171717` | **17.2 : 1** | **AAA (Paragraph Text)** |
+| <span style="background-color:#2E8C59; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Highlight** | Vibrant Green | `#2E8C59` | **4.6 : 1** | **AA (Primary Buttons & Tag Text)** |
+| <span style="background-color:#D96F5F; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Secondary Accent** | Coral | `#D96F5F` | **3.8 : 1** | **AA (UI Borders & Headers)** |
+| <span style="background-color:#F5F6F3; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Background** | Cool Off-White | `#F5F6F3` | Canvas | **Anti-Glare Surface** |
 
 ---
 

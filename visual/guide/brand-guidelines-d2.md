@@ -24,15 +24,15 @@ MyNDIS is an independent, community-focused disability resource dedicated to pre
 
 ## 2. Color Palette Matrix
 
-| Role | Name | Hex Code | RGB | WCAG Contrast (vs `#F5F6F3`) | Rating | Primary Usage |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Primary** | Navy | `#172A52` | `rgb(23, 42, 82)` | **11.8 : 1** | **AAA** | Headings, site title, primary links, brand mark |
-| **Body Copy** | Black | `#171717` | `rgb(23, 23, 23)` | **17.2 : 1** | **AAA** | All body paragraph text for maximum clarity |
-| **Highlight** | Vibrant Green | `#2E8C59` | `rgb(46, 140, 89)` | **4.6 : 1** | **AA** | Primary buttons, success indicators, tag badge text |
-| **Secondary Accent** | Coral | `#D96F5F` | `rgb(217, 111, 95)` | **3.8 : 1** | **AA (UI Borders/Headers)** | Important notice borders, callout headers, alerts |
-| **Background** | Cool Off-White | `#F5F6F3` | `rgb(245, 246, 243)` | Canvas | — | Main site background canvas (anti-glare) |
-| **Accent Tint** | Soft Coral Tint | `#FDF2F0` | `rgb(253, 242, 240)` | Surface | — | Background fill for "Important" callout boxes |
-| **Highlight Tint** | Soft Green Tint | `#E6F4EA` | `rgb(230, 244, 234)` | Surface | — | Hover fill for secondary outlined buttons & tag pills |
+| Swatch | Role | Name | Hex Code | RGB | WCAG Contrast (vs `#F5F6F3`) | Rating | Primary Usage |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span style="background-color:#172A52; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Primary** | Navy | `#172A52` | `rgb(23, 42, 82)` | **11.8 : 1** | **AAA** | Headings, site title, primary links, brand mark |
+| <span style="background-color:#171717; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Body Copy** | Black | `#171717` | `rgb(23, 23, 23)` | **17.2 : 1** | **AAA** | All body paragraph text for maximum clarity |
+| <span style="background-color:#2E8C59; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Highlight** | Vibrant Green | `#2E8C59` | `rgb(46, 140, 89)` | **4.6 : 1** | **AA** | Primary buttons, success indicators, tag badge text |
+| <span style="background-color:#D96F5F; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Secondary Accent** | Coral | `#D96F5F` | `rgb(217, 111, 95)` | **3.8 : 1** | **AA (UI Borders/Headers)** | Important notice borders, callout headers, alerts |
+| <span style="background-color:#F5F6F3; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Background** | Cool Off-White | `#F5F6F3` | `rgb(245, 246, 243)` | Canvas | — | Main site background canvas (anti-glare) |
+| <span style="background-color:#FDF2F0; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Accent Tint** | Soft Coral Tint | `#FDF2F0` | `rgb(253, 242, 240)` | Surface | — | Background fill for "Important" callout boxes |
+| <span style="background-color:#E6F4EA; border:1px solid #D0D7DE; display:inline-block; width:36px; height:22px; border-radius:4px; vertical-align:middle;"></span> | **Highlight Tint** | Soft Green Tint | `#E6F4EA` | `rgb(230, 244, 234)` | Surface | — | Hover fill for secondary outlined buttons & tag pills |
 
 ---
 
