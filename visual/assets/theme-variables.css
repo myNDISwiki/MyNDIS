@@ -4,13 +4,13 @@
   /* Brand Palette */
   --myndis-color-primary: #172A52;           /* Navy - Headings, Brand Title, Primary Links */
   --myndis-color-body: #171717;              /* Black - Body Copy for maximum legibility */
-  --myndis-color-highlight: #3F7652;         /* Green - Primary Buttons & Positive Highlights */
+  --myndis-color-highlight: #2E8C59;         /* Vibrant Green - Primary Buttons & Positive Highlights (Updated for brightness & vibrancy) */
   --myndis-color-secondary-accent: #D96F5F;  /* Coral - Important Callouts & Notices */
   --myndis-color-bg: #F5F6F3;                /* Cool Off-White - Main Canvas Background */
   
   /* Tint & Surface Variants */
   --myndis-color-accent-bg: #FDF2F0;         /* Soft Coral Tint for Notice Backgrounds */
-  --myndis-color-highlight-bg: #EEF5F0;      /* Soft Green Tint for Badges/Highlights */
+  --myndis-color-highlight-bg: #E6F4EA;      /* Soft Vibrant Green Tint for Badges/Highlights */
   --myndis-color-white: #FFFFFF;             /* Pure White for Card Containers */
   --myndis-color-border-subtle: #E2E8F0;     /* Subtle Gray Dividers */
 
@@ -62,7 +62,7 @@ h1 {
 
 .myndis-btn-primary:hover,
 .myndis-btn-primary:focus {
-  background-color: #2F593E;
+  background-color: #236E45;
 }
 
 .myndis-btn-secondary {
