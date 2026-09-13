@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MyNDIS.wiki — Visual Design System & Component Showcase</title>
+  <style>
+    /* CSS Custom Properties / Design Tokens */
+    :root {
+      --myndis-navy: #172A52;
+      --myndis-body-black: #171717;
+      --myndis-green: #3F7652;
+      --myndis-green-hover: #2E583D;
+      --myndis-green-tint: #EEF5F0;
+      --myndis-coral: #D96F5F;
+      --myndis-coral-tint: #FDF2F0;
+      --myndis-bg: #F5F6F3;
+      --myndis-white: #FFFFFF;
+      --myndis-subtext: #4A5568;
+      --myndis-border: #E2E8F0;
+      
+      --font-serif: 'Georgia', 'Playfair Display', serif;
+      --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--myndis-bg);
+      color: var(--myndis-body-black);
+      font-family: var(--font-sans);
+      line-height: 1.6;
+      padding-bottom: 4rem;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    /* Top Banner / Announcement */
+    .top-banner {
+      background-color: var(--myndis-navy);
+      color: var(--myndis-white);
+      text-align: center;
+      padding: 0.5rem 1rem;
+      font-size: 0.875rem;
+    }
+
+    /* Header & Navigation */
+    header {
+      background-color: var(--myndis-white);
+      border-bottom: 1px solid var(--myndis-border);
+      padding: 1.5rem 0;
+    }
+
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      text-decoration: none;
+    }
+
+    .brand-logo {
+      width: 54px;
+      height: 54px;
+    }
+
+    .brand-text h1 {
+      font-family: var(--font-serif);
+      font-size: 1.75rem;
+      color: var(--myndis-navy);
+      border-bottom: none;
+      margin: 0;
+      padding: 0;
+      line-height: 1.2;
+    }
+
+    .brand-text p {
+      font-size: 0.9rem;
+      color: var(--myndis-green);
+      font-weight: 500;
+    }
+
+    nav {
+      display: flex;
+      gap: 1.5rem;
+    }
+
+    nav a {
+      color: var(--myndis-navy);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Main Showcase Section */
+    .showcase-header {
+      margin: 2.5rem 0 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 2px solid var(--myndis-navy);
+    }
+
+    .showcase-header h2 {
+      font-family: var(--font-serif);
+      font-size: 2rem;
+      color: var(--myndis-navy);
+    }
+
+    .section-title {
+      font-family: var(--font-serif);
+      font-size: 1.5rem;
+      color: var(--myndis-navy);
+      margin: 2rem 0 1rem;
+    }
+
+    /* Swatches Grid */
+    .swatch-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .swatch-card {
+      background: var(--myndis-white);
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid var(--myndis-border);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+
+    .swatch-color {
+      height: 90px;
+    }
+
+    .swatch-info {
+      padding: 0.85rem;
+    }
+
+    .swatch-name {
+      font-weight: bold;
+      font-size: 0.95rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .swatch-hex {
+      font-family: monospace;
+      font-size: 0.85rem;
+      color: var(--myndis-subtext);
+    }
+
+    .badge-wcag {
+      display: inline-block;
+      margin-top: 0.4rem;
+      padding: 0.15rem 0.5rem;
+      background: #E2E8F0;
+      color: #2D3748;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    /* Component Grid / Cards */
+    .route-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .route-card {
+      background: var(--myndis-white);
+      border: 1px solid var(--myndis-border);
+      border-radius: 10px;
+      padding: 1.75rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .route-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.06);
+    }
+
+    .route-card h3 {
+      font-family: var(--font-serif);
+      font-size: 1.35rem;
+      color: var(--myndis-navy);
+      margin-bottom: 0.75rem;
+    }
+
+    .route-card p {
+      color: var(--myndis-body-black);
+      font-size: 0.95rem;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Buttons */
+    .btn-primary {
+      background-color: var(--myndis-green);
+      color: var(--myndis-white);
+      border: none;
+      padding: 0.75rem 1.25rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      text-align: center;
+    }
+
+    .btn-primary:hover { background-color: var(--myndis-green-hover); }
+
+    .btn-secondary {
+      background-color: transparent;
+      color: var(--myndis-green);
+      border: 2px solid var(--myndis-green);
+      padding: 0.65rem 1.25rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      text-align: center;
+    }
+
+    .btn-secondary:hover { background-color: var(--myndis-green-tint); }
+
+    /* Callout Boxes */
+    .callout-important {
+      background-color: var(--myndis-coral-tint);
+      border-left: 5px solid var(--myndis-coral);
+      padding: 1.25rem 1.5rem;
+      border-radius: 0 8px 8px 0;
+      margin: 1.5rem 0;
+    }
+
+    .callout-important .callout-title {
+      color: var(--myndis-coral);
+      font-weight: bold;
+      font-size: 1.05rem;
+      margin-bottom: 0.4rem;
+    }
+
+    /* Source Evidence Box */
+    .source-box {
+      background: var(--myndis-white);
+      border: 1px dashed var(--myndis-navy);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      font-size: 0.875rem;
+      margin: 1.5rem 0;
+    }
+
+    .source-box .source-label {
+      font-weight: bold;
+      color: var(--myndis-navy);
+      margin-bottom: 0.25rem;
+    }
+
+    /* Keyword Tags */
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 1rem 0 2rem;
+    }
+
+    .concept-tag {
+      background-color: var(--myndis-white);
+      color: var(--myndis-navy);
+      border: 1px solid var(--myndis-navy);
+      padding: 0.35rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .concept-tag:hover {
+      background-color: var(--myndis-navy);
+      color: var(--myndis-white);
+    }
+
+    /* Site-wide Disclaimer Footer */
+    footer {
+      margin-top: 4rem;
+      background-color: var(--myndis-white);
+      border-top: 1px solid var(--myndis-border);
+      padding: 2rem 0;
+    }
+
+    .disclaimer-box {
+      background-color: var(--myndis-bg);
+      border: 1px solid var(--myndis-border);
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      font-size: 0.875rem;
+      color: var(--myndis-subtext);
+    }
+
+    .disclaimer-box strong {
+      color: var(--myndis-body-black);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Banner -->
+  <div class="top-banner">
+    Independent, evidence-backed community resource preserving official NDIS source records.
+  </div>
+
+  <!-- Site Header -->
+  <header>
+    <div class="container header-inner">
+      <a href="#" class="brand">
+        <!-- SVG Heart Handshake Icon -->
+        <svg class="brand-logo" viewBox="0 0 500 500" width="54" height="54">
+          <g fill="none" stroke="#172A52" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 235 150 C 185 85 105 85 65 145 C 15 220 50 310 135 380 L 250 460 L 365 380 C 450 310 485 220 435 145 C 395 85 315 85 265 150" />
+            <path d="M 205 185 C 235 155 275 140 315 170 C 340 190 350 215 325 240 L 235 330 C 215 350 185 350 165 330 C 145 310 145 280 165 260 L 235 190" />
+            <path d="M 290 280 L 360 350" /><path d="M 260 310 L 330 380" /><path d="M 230 340 L 300 410" /><path d="M 200 370 L 270 440" />
+            <path d="M 210 280 L 140 350" /><path d="M 240 310 L 170 380" /><path d="M 270 340 L 200 410" /><path d="M 300 370 L 230 440" />
+          </g>
+        </svg>
+        <div class="brand-text">
+          <h1>The People's Guide to the NDIS</h1>
+          <p>A human to human disability resource.</p>
+        </div>
+      </a>
+      <nav>
+        <a href="#routes">User Routes</a>
+        <a href="#colors">Color Tokens</a>
+        <a href="#typography">Typography</a>
+        <a href="#components">Components</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Content Container -->
+  <div class="container">
+
+    <div class="showcase-header">
+      <h2>Visual System & Component Showcase</h2>
+      <p style="color: var(--myndis-subtext);">Demonstrating colors, typography, route cards, callout notices, and accessibility standards for MyNDIS.wiki.</p>
+    </div>
+
+    <!-- Section 1: Color Swatches -->
+    <h3 class="section-title" id="colors">1. Color Palette Tokens</h3>
+    <div class="swatch-grid">
+      <div class="swatch-card">
+        <div class="swatch-color" style="background-color: #172A52;"></div>
+        <div class="swatch-info">
+          <div class="swatch-name">Navy (Primary)</div>
+          <div class="swatch-hex">#172A52</div>
+          <span class="badge-wcag" style="background: #C6F6D5; color: #22543D;">WCAG 11.8:1 AAA</span>
+        </div>
+      </div>
+      <div class="swatch-card">
+        <div class="swatch-color" style="background-color: #171717;"></div>
+        <div class="swatch-info">
+          <div class="swatch-name">Black (Body Copy)</div>
+          <div class="swatch-hex">#171717</div>
+          <span class="badge-wcag" style="background: #C6F6D5; color: #22543D;">WCAG 17.2:1 AAA</span>
+        </div>
+      </div>
+      <div class="swatch-card">
+        <div class="swatch-color" style="background-color: #3F7652;"></div>
+        <div class="swatch-info">
+          <div class="swatch-name">Green (Highlight)</div>
+          <div class="swatch-hex">#3F7652</div>
+          <span class="badge-wcag" style="background: #EBF8FF; color: #2B6CB0;">WCAG 4.7:1 AA</span>
+        </div>
+      </div>
+      <div class="swatch-card">
+        <div class="swatch-color" style="background-color: #D96F5F;"></div>
+        <div class="swatch-info">
+          <div class="swatch-name">Coral (Secondary Accent)</div>
+          <div class="swatch-hex">#D96F5F</div>
+          <span class="badge-wcag" style="background: #FEEBC8; color: #7B341E;">WCAG 3.8:1 AA</span>
+        </div>
+      </div>
+      <div class="swatch-card">
+        <div class="swatch-color" style="background-color: #F5F6F3; border-bottom: 1px solid #E2E8F0;"></div>
+        <div class="swatch-info">
+          <div class="swatch-name">Cool Off-White</div>
+          <div class="swatch-hex">#F5F6F3</div>
+          <span class="badge-wcag">Canvas BG</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 2: Primary User Routes -->
+    <h3 class="section-title" id="routes">2. Primary User Navigation Routes</h3>
+    <div class="route-grid">
+      <div class="route-card">
+        <div>
+          <h3>I want to apply for the NDIS</h3>
+          <p>Clear, step-by-step guidance on access criteria, gathering medical evidence, filling out Access Request Forms (ARF), and preparing for your planning conversation.</p>
+        </div>
+        <a href="#" class="btn-primary">Explore Application Guide &rarr;</a>
+      </div>
+
+      <div class="route-card">
+        <div>
+          <h3>I am already on the NDIS</h3>
+          <p>Practical guides for managing your plan, understanding core & capacity building budgets, preparing for plan reviews, working with providers, and self-managing funds.</p>
+        </div>
+        <a href="#" class="btn-primary">Manage Your NDIS Plan &rarr;</a>
+      </div>
+
+      <div class="route-card">
+        <div>
+          <h3>I was refused access or denied</h3>
+          <p>Find alternative health, community, disability, and advocacy supports, or explore internal NDIA review options and AAT/ART appeal mechanisms when access is refused.</p>
+        </div>
+        <a href="#" class="btn-secondary">Find Support & Review Options &rarr;</a>
+      </div>
+    </div>
+
+    <!-- Section 3: Callout Components & Typography -->
+    <h3 class="section-title" id="components">3. Interactive Callout & Evidence Components</h3>
+
+    <!-- Important Notice Callout -->
+    <div class="callout-important">
+      <div class="callout-title">Important Notice</div>
+      <p>This is an example of how the secondary accent coral color (<code>#D96F5F</code>) is used for crucial alerts, access deadlines, or legal rights notices that require immediate attention.</p>
+    </div>
+
+    <!-- Primary Source Citation Box -->
+    <div class="source-box">
+      <div class="source-label">Primary Source Verification & Archive Link</div>
+      <p>National Disability Insurance Scheme Act 2013 — Section 24 (Disability Requirements). Archived snapshot captured on 2026-03-15 in <code>archive/ndis/pages/about/governance/legislation/index.html</code>.</p>
+    </div>
+
+    <!-- Controlled Keyword Concept Index Badges -->
+    <h3 class="section-title">4. Controlled Concept Index Tags</h3>
+    <p style="margin-bottom: 0.5rem; color: var(--myndis-subtext);">Controlled vocabulary mapping NDIS terminology across guides and archived government sources:</p>
+    <div class="tag-list">
+      <a href="#" class="concept-tag">/keywords/evidence/</a>
+      <a href="#" class="concept-tag">/keywords/reasonable-and-necessary/</a>
+      <a href="#" class="concept-tag">/keywords/functional-capacity/</a>
+      <a href="#" class="concept-tag">/keywords/plan-review/</a>
+      <a href="#" class="concept-tag">/keywords/core-supports/</a>
+      <a href="#" class="concept-tag">/keywords/appeals-aat/</a>
+    </div>
+
+  </div>
+
+  <!-- Mandatory Site-Wide Legal Disclaimer Footer -->
+  <footer>
+    <div class="container">
+      <div class="disclaimer-box">
+        <strong>Site-Wide Disclaimer:</strong> MyNDIS is an independent information project and is not an official Australian Government or NDIA website. Information is maintained and updated as carefully as possible, but may become outdated or contain errors. Always check relevant official sources when making decisions about your NDIS supports, rights, or obligations.
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
