@@ -6,20 +6,26 @@ This directory contains the visual identity, brand guidelines, CSS theme variabl
 
 ---
 
-## 📁 Directory Structure
+## 📁 Directory Structure & Documentation Index
+
+- 📋 **Handover & Tomorrow's Open Items**: See **[`HANDOVER.md`](HANDOVER.md)** for high-priority tasks (including SVG logo replacement).
 
 ```text
 visual/
 ├── README.md                            # Directory overview & documentation index
-├── guide/                               # Brand guidelines & interactive showcase pages
+├── HANDOVER.md                          # Open items & handover notes for tomorrow
+├── guide/                               # [See guide/README.md] Guidelines & HTML showcases
+│   ├── README.md                        # Subfolder index for guides & showcases
 │   ├── brand-guidelines-d1.md           # Draft 1 specification document
 │   ├── brand-guidelines-d2.md           # Draft 2 persistent brand guidelines & WCAG matrix
 │   ├── design-system-showcase-d1.html   # Draft 1 interactive HTML showcase
 │   └── design-system-showcase-d2.html   # Draft 2 interactive HTML showcase page
-├── theme/                               # CSS custom properties & theme stylesheets
+├── theme/                               # [See theme/README.md] CSS theme stylesheets
+│   ├── README.md                        # Subfolder index for theme CSS
 │   ├── theme-variables-d1.css           # Draft 1 CSS color tokens
 │   └── theme-variables-d2.css           # Draft 2 persistent CSS theme variables
-└── assets/                              # Scalable vector SVG logo & icon assets
+└── assets/                              # [See assets/README.md] SVG logo & icon assets
+    ├── README.md                        # Subfolder index & logo replacement notes
     ├── logo-mark.svg                    # Primary heart-handshake Navy vector icon mark
     ├── logo-mark-white.svg              # White vector mark for dark headers/footers
     ├── logo-horizontal.svg              # Combination logo mark + serif title typography
