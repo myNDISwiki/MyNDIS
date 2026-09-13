@@ -4,28 +4,25 @@
   /* Brand Palette */
   --myndis-color-primary: #172A52;           /* Navy - Headings, Brand Title, Primary Links */
   --myndis-color-body: #171717;              /* Black - Body Copy for maximum legibility */
-  --myndis-color-highlight: #2E8C59;         /* Vibrant Green - Primary Action Buttons & Highlights */
-  --myndis-color-highlight-hover: #236E45;   /* Darker Green for Button Hover */
-  --myndis-color-secondary-accent: #D96F5F;  /* Coral - Important Callout Borders & Accents */
+  --myndis-color-highlight: #3F7652;         /* Green - Primary Buttons & Positive Highlights */
+  --myndis-color-secondary-accent: #D96F5F;  /* Coral - Important Callouts & Notices */
   --myndis-color-bg: #F5F6F3;                /* Cool Off-White - Main Canvas Background */
   
-  /* Surface & Tint Variants */
+  /* Tint & Surface Variants */
   --myndis-color-accent-bg: #FDF2F0;         /* Soft Coral Tint for Notice Backgrounds */
-  --myndis-color-highlight-bg: #E6F4EA;      /* Soft Green Tint for Badges/Highlights */
+  --myndis-color-highlight-bg: #EEF5F0;      /* Soft Green Tint for Badges/Highlights */
   --myndis-color-white: #FFFFFF;             /* Pure White for Card Containers */
   --myndis-color-border-subtle: #E2E8F0;     /* Subtle Gray Dividers */
-  --myndis-color-subtext: #4A5568;
 
   /* Typography */
   --myndis-font-heading: 'Georgia', 'Playfair Display', serif;
-  --myndis-font-body: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --myndis-font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   
-  /* Radii & Borders */
+  /* Accessibility Spacing & Borders */
   --myndis-radius-sm: 4px;
   --myndis-radius-md: 8px;
   --myndis-radius-lg: 12px;
   --myndis-border-accent-width: 4px;
-  --myndis-hr-width: 1px;                     /* Thinner 1px divider rule */
 }
 
 /* Base Body Application */
@@ -33,10 +30,7 @@ body {
   background-color: var(--myndis-color-bg);
   color: var(--myndis-color-body);
   font-family: var(--myndis-font-body);
-  font-weight: 300;                           /* Lighter sans-serif body weight */
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
 }
 
 /* Heading Styling */
@@ -47,56 +41,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  border-bottom: var(--myndis-hr-width) solid var(--myndis-color-primary);
+  border-bottom: 2px solid var(--myndis-color-primary);
   padding-bottom: 0.5rem;
   margin-bottom: 1.5rem;
-}
-
-hr {
-  border: none;
-  border-top: var(--myndis-hr-width) solid var(--myndis-color-border-subtle);
-  margin: 2rem 0;
-}
-
-/* Inline Body Links (Inactive & Active States) */
-a.myndis-inline-link, .body-copy a {
-  color: var(--myndis-color-primary);
-  font-weight: 500;
-  text-decoration: underline;
-  text-decoration-color: var(--myndis-color-primary);
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 3px;
-  transition: color 0.15s ease, text-decoration-color 0.15s ease;
-}
-
-a.myndis-inline-link:hover, 
-a.myndis-inline-link:focus,
-.body-copy a:hover,
-.body-copy a:focus {
-  color: var(--myndis-color-highlight);
-  text-decoration-color: var(--myndis-color-highlight);
-  text-decoration-thickness: 2px;
-}
-
-/* Concept Tag Badges (Navy Outline + Green Text) */
-.myndis-concept-tag {
-  display: inline-block;
-  background-color: var(--myndis-white);
-  color: var(--myndis-color-highlight);      /* Green text inside */
-  border: 1px solid var(--myndis-color-primary); /* Navy outline */
-  padding: 0.35rem 0.85rem;
-  border-radius: 20px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background-color 0.15s ease, border-color 0.15s ease;
-}
-
-.myndis-concept-tag:hover,
-.myndis-concept-tag:focus {
-  background-color: var(--myndis-color-highlight-bg);
-  border-color: var(--myndis-color-highlight);
-  color: var(--myndis-color-highlight-hover);
 }
 
 /* Primary & Secondary Buttons */
@@ -115,7 +62,7 @@ a.myndis-inline-link:focus,
 
 .myndis-btn-primary:hover,
 .myndis-btn-primary:focus {
-  background-color: var(--myndis-color-highlight-hover);
+  background-color: #2F593E;
 }
 
 .myndis-btn-secondary {
