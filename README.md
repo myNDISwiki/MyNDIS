@@ -11,6 +11,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for folder roles, source-preservation rul
 ```text
 MyNDIS/
 ├── wiki/                 Public-facing guide and wiki material
+├── visual/               Visual identity, brand guidelines, theme CSS & SVG assets
+│   ├── guide/            Brand guidelines & HTML showcases
+│   ├── theme/            CSS custom properties & theme stylesheets
+│   └── assets/           Scalable vector SVG logo & icon assets
 ├── archive/              Preserved source material
 │   ├── press/            Journalism and media coverage
 │   ├── gov/              Government and parliamentary material
@@ -24,6 +28,22 @@ MyNDIS/
 ```
 
 Empty directories contain `.gitkeep` files because Git does not otherwise preserve empty folders.
+
+## Visual Identity & Design Package
+
+The visual identity and design system for MyNDIS is maintained under the **[visual/](visual/)** directory.
+
+- **Overview & Structure**: See **[visual/README.md](visual/README.md)**.
+
+### Resource Directories (Multi-Version Drafts)
+- **Guidelines & Showcase Pages**: **[visual/guide/](visual/guide/)**
+- **Theme CSS Variables**: **[visual/theme/](visual/theme/)**
+- **Vector Logo Assets**: **[visual/assets/](visual/assets/)**
+
+### Current Persistent Documentation
+- **Brand Guidelines & WCAG Matrix**: **[visual/guide/brand-guidelines-d2.md](visual/guide/brand-guidelines-d2.md)**
+- **Interactive HTML Showcase**: **[visual/guide/design-system-showcase-d2.html](visual/guide/design-system-showcase-d2.html)**
+- **CSS Theme Variables**: **[visual/theme/theme-variables-d2.css](visual/theme/theme-variables-d2.css)**
 
 ## Public wiki
 
