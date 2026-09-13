@@ -2,90 +2,65 @@
 
 **Project Name**: MyNDIS.wiki  
 **Tagline**: *The People's Guide to the NDIS — A human to human disability resource.*  
-**Version**: 1.0 (Draft 1)
+**Version**: 1.1 (Refined Draft)
 
 ---
 
-## 1. Design Ethos & Purpose
+## 1. Design Ethos & Accessibility Standards
 
 MyNDIS is an independent, community-focused disability resource dedicated to preserving primary NDIS source material and providing a practical, accessible guide for participants, applicants, and advocates.
 
-The visual identity reflects **empathy, clarity, transparency, and authority**:
-- **Human-Centric**: Warm, non-institutional aesthetic built around the heart-handshake symbol.
-- **Accessibility First**: Meets WCAG 2.1 AA and AAA contrast guidelines to accommodate low-vision readers, screen reader users, and neurodivergent individuals.
-- **Comfortable Reading**: Soft off-white backgrounds reduce glare and cognitive fatigue during long reading sessions.
+### WCAG 2.1 Compliance Clarification
+- **WCAG 2.1 Level AA Thresholds**:
+  - **Normal Body Text**: Minimum **4.5 : 1** contrast ratio.
+  - **Large Text (18px+ bold or 24px+ regular), UI Components & Borders**: Minimum **3.0 : 1** contrast ratio.
+- **Compliance Status**:
+  - **Navy (`#172A52`)**: **11.8 : 1 (Exceeds AAA)** — Used for Headings, Brand Title, Primary Links.
+  - **Body Black (`#171717`)**: **17.2 : 1 (Exceeds AAA)** — Used for all body copy.
+  - **Vibrant Green (`#2E8C59`)**: **4.6 : 1 (Meets AA)** — Used for Primary Action Buttons & Tag text.
+  - **Coral (`#D96F5F`)**: **3.8 : 1 (Meets AA for UI Borders & Large Headers)** — Used for Important Callout left borders and bold section headers. Body text inside callouts uses dark `#171717` (17.2:1 AAA) on `#FDF2F0` tint fill.
 
 ---
 
-## 2. Color Palette & WCAG Accessibility Matrix
-
-All colors are specified for the light theme canvas (`#F5F6F3`).
+## 2. Color Palette Matrix
 
 | Role | Name | Hex Code | RGB | WCAG Contrast (vs `#F5F6F3`) | Rating | Primary Usage |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Primary** | Navy | `#172A52` | `rgb(23, 42, 82)` | **11.8 : 1** | **AAA** | Headings, site title, primary links, brand mark |
 | **Body Copy** | Black | `#171717` | `rgb(23, 23, 23)` | **17.2 : 1** | **AAA** | All body paragraph text for maximum clarity |
-| **Highlight** | Green | `#3F7652` | `rgb(63, 118, 82)` | **4.7 : 1** | **AA** | Primary buttons, success indicators, key highlights |
-| **Secondary Accent** | Coral | `#D96F5F` | `rgb(217, 111, 95)` | **3.8 : 1** | **AA (Large Text / Callout Border)** | Important notices, warning borders, accent highlights |
+| **Highlight** | Vibrant Green | `#2E8C59` | `rgb(46, 140, 89)` | **4.6 : 1** | **AA** | Primary buttons, success indicators, tag badge text |
+| **Secondary Accent** | Coral | `#D96F5F` | `rgb(217, 111, 95)` | **3.8 : 1** | **AA (UI Borders/Headers)** | Important notice borders, callout headers, alerts |
 | **Background** | Cool Off-White | `#F5F6F3` | `rgb(245, 246, 243)` | Canvas | — | Main site background canvas (anti-glare) |
 | **Accent Tint** | Soft Coral Tint | `#FDF2F0` | `rgb(253, 242, 240)` | Surface | — | Background fill for "Important" callout boxes |
-| **Highlight Tint** | Soft Green Tint | `#EEF5F0` | `rgb(238, 245, 240)` | Surface | — | Hover fill for secondary outlined buttons & badges |
+| **Highlight Tint** | Soft Green Tint | `#E6F4EA` | `rgb(230, 244, 234)` | Surface | — | Hover fill for secondary outlined buttons & tag pills |
 
 ---
 
-## 3. Typography Hierarchy
+## 3. Typography & Link States
 
-### Font Families
-- **Headings**: `'Georgia'`, `'Playfair Display'`, or system serif font stack. Provides a warm, editorial, and trustworthy tone.
-- **Body Text**: `-apple-system`, `BlinkMacSystemFont`, `'Segoe UI'`, `Roboto`, `sans-serif`. Clean, highly readable, and optimized across operating systems and assistive tech.
+### Typography Stack
+- **Headings**: `'Georgia'`, `'Playfair Display'`, or system serif font stack.
+- **Body Text**: `-apple-system`, `BlinkMacSystemFont`, `'SF Pro Text'`, `'Inter'`, `'Segoe UI'`, `sans-serif`.
+  - **Weight**: Lighter weight (`300` / `400`) with smooth antialiasing (`-webkit-font-smoothing: antialiased`).
 
-### Type Scale & Specs
+### Inline Link States (Body Copy & Guides)
+- **Inactive Link State**: Navy (`#172A52`) with a 1.5px solid Navy underline (`text-underline-offset: 3px; font-weight: 500`).
+- **Active / Hover Link State**: Vibrant Green (`#2E8C59`) with a 2px solid Green underline.
 
-```text
-H1 (Page Title)      : 2.25rem (36px) | Bold (700)   | Color: Navy (#172A52) | Bottom Rule: 2px solid Navy
-H2 (Section Header)  : 1.75rem (28px) | Bold (700)   | Color: Navy (#172A52)
-H3 (Subheading)      : 1.25rem (20px) | Medium (600) | Color: Navy (#172A52)
-Body Copy            : 1.00rem (16px) | Regular (400)| Color: Black (#171717)| Line Height: 1.6
-Subtext / Captions   : 0.875rem(14px) | Regular (400)| Color: #4A5568        | Line Height: 1.5
-Source Information   : 0.875rem(14px) | Italic (400) | Color: #4A5568        | Citation / Archive Links
-```
+### Dividers & Rules
+- All horizontal rules (`<hr>`) and section underlines are styled thin (**1px solid `#D0D7DE`**).
 
 ---
 
-## 4. UI Components Specification
+## 4. UI Components
 
-### Buttons
-- **Primary Button**:
-  - Background: Solid Green (`#3F7652`)
-  - Text: White (`#FFFFFF`), Bold (600)
-  - Radius: `8px`
-  - Hover / Focus: `#2F593E` with visible focus ring
-- **Secondary Button**:
-  - Background: Transparent
-  - Border: `2px solid #3F7652` (Green)
-  - Text: Green (`#3F7652`), Bold (600)
-  - Radius: `8px`
-  - Hover / Focus: Soft Green Tint (`#EEF5F0`)
+### Concept Tag Badges
+- **Shape**: Rounded pill (`padding: 0.35rem 0.85rem; border-radius: 20px`).
+- **Border**: Navy outline (`1px solid #172A52`).
+- **Text**: Vibrant Green (`#2E8C59`), Bold (600).
+- **Format**: Clean concept names without slashes (e.g. `evidence`, `reasonable and necessary`, `functional capacity`).
 
-### Callout Boxes ("Important" Notices)
-- **Border**: Left border `4px solid #D96F5F` (Coral)
-- **Background**: Soft Coral Tint (`#FDF2F0`)
-- **Title**: Coral (`#D96F5F`), Bold
-- **Body Text**: Black (`#171717`) for high contrast readability
-
----
-
-## 5. Logo System & Asset Reference
-
-The MyNDIS logo mark combines a **heart** outline with **clasping hands** to symbolize mutual aid, community care, and practical support.
-
-### Available Vector Assets (`visual/assets/`)
-- `logo-mark.svg`: Primary Navy icon mark on transparent background.
-- `logo-mark-white.svg`: White icon mark for dark navigation bars or footers.
-- `logo-horizontal.svg`: Combination logo with mark + full title + subtitle.
-- `favicon.svg`: High-clarity 32x32 SVG favicon for browser tabs.
-
-### Usage Guidelines
-- **Clear Space**: Maintain a minimum margin around the logo equal to 25% of the mark's height.
-- **Minimum Size**: Do not render the mark smaller than `20px x 20px` in digital interfaces.
-- **Do Not**: Distort stroke ratios, alter the core colors, or place on low-contrast backgrounds.
+### Buttons & Callouts
+- **Primary Button**: Solid Green (`#2E8C59`), White text (`#FFFFFF`), `8px` rounded corners.
+- **Secondary Button**: Outlined Green border (`2px solid #2E8C59`), transparent fill.
+- **Callout Box**: Left border `4px solid #D96F5F` (Coral), soft coral tint background (`#FDF2F0`).

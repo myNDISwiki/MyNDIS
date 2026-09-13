@@ -9,7 +9,7 @@
     :root {
       --myndis-navy: #172A52;
       --myndis-body-black: #171717;
-      --myndis-green: #2E8C59; /* Brighter, vibrant green matching Coral vibrancy */
+      --myndis-green: #2E8C59; /* Vibrant Green */
       --myndis-green-hover: #236E45;
       --myndis-green-tint: #E6F4EA;
       --myndis-coral: #D96F5F;
@@ -20,7 +20,7 @@
       --myndis-border: #E2E8F0;
       
       --font-serif: 'Georgia', 'Playfair Display', serif;
-      --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -29,7 +29,10 @@
       background-color: var(--myndis-bg);
       color: var(--myndis-body-black);
       font-family: var(--font-sans);
-      line-height: 1.6;
+      font-weight: 300; /* Lighter body weight as requested */
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
       padding-bottom: 4rem;
     }
 
@@ -39,13 +42,21 @@
       padding: 0 1.5rem;
     }
 
-    /* Top Banner / Announcement */
+    /* Thinner Divider Rules */
+    hr {
+      border: none;
+      border-top: 1px solid #D0D7DE; /* Thinner 1px divider */
+      margin: 2.5rem 0;
+    }
+
+    /* Top Announcement Banner */
     .top-banner {
       background-color: var(--myndis-navy);
       color: var(--myndis-white);
       text-align: center;
       padding: 0.5rem 1rem;
       font-size: 0.875rem;
+      font-weight: 400;
     }
 
     /* Header & Navigation */
@@ -104,14 +115,15 @@
     }
 
     nav a:hover {
+      color: var(--myndis-green);
       text-decoration: underline;
     }
 
-    /* Main Showcase Section */
+    /* Main Showcase Header */
     .showcase-header {
       margin: 2.5rem 0 1.5rem;
       padding-bottom: 0.75rem;
-      border-bottom: 2px solid var(--myndis-navy);
+      border-bottom: 1px solid var(--myndis-navy); /* Thinner 1px rule */
     }
 
     .showcase-header h2 {
@@ -127,12 +139,12 @@
       margin: 2rem 0 1rem;
     }
 
-    /* Swatches Grid */
+    /* Color Swatches Grid */
     .swatch-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 1rem;
-      margin-bottom: 2.5rem;
+      margin-bottom: 2rem;
     }
 
     .swatch-card {
@@ -140,7 +152,7 @@
       border-radius: 8px;
       overflow: hidden;
       border: 1px solid var(--myndis-border);
-      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.03);
     }
 
     .swatch-color {
@@ -152,7 +164,7 @@
     }
 
     .swatch-name {
-      font-weight: bold;
+      font-weight: 600;
       font-size: 0.95rem;
       margin-bottom: 0.2rem;
     }
@@ -174,12 +186,65 @@
       font-weight: 700;
     }
 
+    /* Links & Typography Section */
+    .demo-box {
+      background: var(--myndis-white);
+      border: 1px solid var(--myndis-border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .inline-link-inactive {
+      color: var(--myndis-navy);
+      font-weight: 500;
+      text-decoration: underline;
+      text-decoration-color: var(--myndis-navy);
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 3px;
+    }
+
+    .inline-link-active {
+      color: var(--myndis-green);
+      font-weight: 500;
+      text-decoration: underline;
+      text-decoration-color: var(--myndis-green);
+      text-decoration-thickness: 2px;
+      text-underline-offset: 3px;
+    }
+
+    /* Concept Tags (Navy Outline + Green Text, No slashes) */
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin: 1rem 0 2rem;
+    }
+
+    .concept-tag {
+      background-color: var(--myndis-white);
+      color: var(--myndis-green);            /* Green text inside */
+      border: 1px solid var(--myndis-navy);    /* Navy outline */
+      padding: 0.35rem 0.85rem;
+      border-radius: 20px;
+      font-size: 0.875rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background-color 0.15s ease, border-color 0.15s ease;
+    }
+
+    .concept-tag:hover {
+      background-color: var(--myndis-green-tint);
+      border-color: var(--myndis-green);
+      color: var(--myndis-green-hover);
+    }
+
     /* Component Grid / Cards */
     .route-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 1.5rem;
-      margin-bottom: 2.5rem;
+      margin-bottom: 2rem;
     }
 
     .route-card {
@@ -208,6 +273,7 @@
     .route-card p {
       color: var(--myndis-body-black);
       font-size: 0.95rem;
+      font-weight: 300;
       margin-bottom: 1.5rem;
     }
 
@@ -244,10 +310,10 @@
 
     .btn-secondary:hover { background-color: var(--myndis-green-tint); }
 
-    /* Callout Boxes */
+    /* Callout Box */
     .callout-important {
       background-color: var(--myndis-coral-tint);
-      border-left: 5px solid var(--myndis-coral);
+      border-left: 4px solid var(--myndis-coral);
       padding: 1.25rem 1.5rem;
       border-radius: 0 8px 8px 0;
       margin: 1.5rem 0;
@@ -255,7 +321,7 @@
 
     .callout-important .callout-title {
       color: var(--myndis-coral);
-      font-weight: bold;
+      font-weight: 700;
       font-size: 1.05rem;
       margin-bottom: 0.4rem;
     }
@@ -271,54 +337,30 @@
     }
 
     .source-box .source-label {
-      font-weight: bold;
+      font-weight: 600;
       color: var(--myndis-navy);
       margin-bottom: 0.25rem;
     }
 
-    /* Keyword Tags */
-    .tag-list {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      margin: 1rem 0 2rem;
-    }
-
-    .concept-tag {
-      background-color: var(--myndis-white);
-      color: var(--myndis-navy);
-      border: 1px solid var(--myndis-navy);
-      padding: 0.35rem 0.75rem;
-      border-radius: 20px;
-      font-size: 0.85rem;
-      font-weight: 600;
-      text-decoration: none;
-    }
-
-    .concept-tag:hover {
-      background-color: var(--myndis-navy);
-      color: var(--myndis-white);
-    }
-
-    /* Site-wide Disclaimer Footer */
+    /* Clean Footer without tan background */
     footer {
       margin-top: 4rem;
-      background-color: var(--myndis-white);
-      border-top: 1px solid var(--myndis-border);
       padding: 2rem 0;
     }
 
     .disclaimer-box {
-      background-color: var(--myndis-bg);
+      background-color: var(--myndis-white);
       border: 1px solid var(--myndis-border);
       border-radius: 8px;
       padding: 1.25rem 1.5rem;
       font-size: 0.875rem;
+      font-weight: 300;
       color: var(--myndis-subtext);
     }
 
     .disclaimer-box strong {
       color: var(--myndis-body-black);
+      font-weight: 600;
     }
   </style>
 </head>
@@ -349,9 +391,9 @@
       </a>
       <nav>
         <a href="#routes">User Routes</a>
+        <a href="#links">Link States</a>
         <a href="#colors">Color Tokens</a>
-        <a href="#typography">Typography</a>
-        <a href="#components">Components</a>
+        <a href="#tags">Concept Tags</a>
       </nav>
     </div>
   </header>
@@ -361,7 +403,7 @@
 
     <div class="showcase-header">
       <h2>Visual System & Component Showcase</h2>
-      <p style="color: var(--myndis-subtext);">Demonstrating colors, typography, route cards, callout notices, and accessibility standards for MyNDIS.wiki.</p>
+      <p style="color: var(--myndis-subtext); font-weight: 300;">Demonstrating lighter body typography, inline link states, concept tag badges, and accessibility standards for MyNDIS.wiki.</p>
     </div>
 
     <!-- Section 1: Color Swatches -->
@@ -386,7 +428,7 @@
       <div class="swatch-card">
         <div class="swatch-color" style="background-color: #2E8C59;"></div>
         <div class="swatch-info">
-          <div class="swatch-name">Vibrant Green (Highlight)</div>
+          <div class="swatch-name">Vibrant Green</div>
           <div class="swatch-hex">#2E8C59</div>
           <span class="badge-wcag" style="background: #EBF8FF; color: #2B6CB0;">WCAG 4.6:1 AA</span>
         </div>
@@ -394,9 +436,9 @@
       <div class="swatch-card">
         <div class="swatch-color" style="background-color: #D96F5F;"></div>
         <div class="swatch-info">
-          <div class="swatch-name">Coral (Secondary Accent)</div>
+          <div class="swatch-name">Coral (Accent)</div>
           <div class="swatch-hex">#D96F5F</div>
-          <span class="badge-wcag" style="background: #FEEBC8; color: #7B341E;">WCAG 3.8:1 AA</span>
+          <span class="badge-wcag" style="background: #FEEBC8; color: #7B341E;">WCAG 3.8:1 AA (Borders/UI)</span>
         </div>
       </div>
       <div class="swatch-card">
@@ -409,8 +451,43 @@
       </div>
     </div>
 
-    <!-- Section 2: Primary User Routes -->
-    <h3 class="section-title" id="routes">2. Primary User Navigation Routes</h3>
+    <hr />
+
+    <!-- Section 2: Inline Link States & Body Typography -->
+    <h3 class="section-title" id="links">2. Inline Link States & Lighter Body Typography</h3>
+    <p style="margin-bottom: 1rem;">This paragraph demonstrates the lighter sans-serif body font weight (300). Body copy is rendered with clean antialiasing for maximum reading comfort across long-form guides.</p>
+    
+    <div class="demo-box">
+      <p style="margin-bottom: 1rem;">
+        <strong>Inactive Link State:</strong> When an inline link is resting in body copy, it uses Navy (<code>#172A52</code>) with a 1.5px solid underline offset: 
+        <a href="#" class="inline-link-inactive">Read the official NDIS Access Requirements Guide</a>.
+      </p>
+      <p>
+        <strong>Active / Hover Link State:</strong> When a user hovers or focuses on an inline link, it transitions to Vibrant Green (<code>#2E8C59</code>) with a 2px underline: 
+        <a href="#" class="inline-link-active">Explore Section 24 Disability Criteria &rarr;</a>.
+      </p>
+    </div>
+
+    <hr />
+
+    <!-- Section 3: Concept Tag Badges (Navy Outline + Green Text) -->
+    <h3 class="section-title" id="tags">3. Controlled Concept Tag Badges</h3>
+    <p style="margin-bottom: 0.75rem; color: var(--myndis-subtext);">Tags feature a Navy outline border (<code>#172A52</code>), Vibrant Green text (<code>#2E8C59</code>), clean white background, and no slashes:</p>
+    
+    <div class="tag-list">
+      <a href="#" class="concept-tag">evidence</a>
+      <a href="#" class="concept-tag">reasonable and necessary</a>
+      <a href="#" class="concept-tag">functional capacity</a>
+      <a href="#" class="concept-tag">plan review</a>
+      <a href="#" class="concept-tag">core supports</a>
+      <a href="#" class="concept-tag">appeals & ART</a>
+      <a href="#" class="concept-tag">self management</a>
+    </div>
+
+    <hr />
+
+    <!-- Section 4: Primary User Routes -->
+    <h3 class="section-title" id="routes">4. Primary User Navigation Routes</h3>
     <div class="route-grid">
       <div class="route-card">
         <div>
@@ -437,31 +514,21 @@
       </div>
     </div>
 
-    <!-- Section 3: Callout Components & Typography -->
-    <h3 class="section-title" id="components">3. Interactive Callout & Evidence Components</h3>
+    <hr />
+
+    <!-- Section 5: Callout & Evidence Components -->
+    <h3 class="section-title">5. Notice Callout & Primary Source Citation Components</h3>
 
     <!-- Important Notice Callout -->
     <div class="callout-important">
       <div class="callout-title">Important Notice</div>
-      <p>This is an example of how the secondary accent coral color (<code>#D96F5F</code>) is used for crucial alerts, access deadlines, or legal rights notices that require immediate attention.</p>
+      <p>This callout component uses the Coral accent border (<code>#D96F5F</code>) and soft tint background (<code>#FDF2F0</code>) to highlight critical rights, review deadlines, or important warnings without causing eye fatigue.</p>
     </div>
 
     <!-- Primary Source Evidence Citation Box -->
     <div class="source-box">
       <div class="source-label">Primary Source Verification & Archive Link</div>
-      <p>National Disability Insurance Scheme Act 2013 — Section 24 (Disability Requirements). Archived snapshot captured on 2026-03-15 in <code>archive/ndis/pages/about/governance/legislation/index.html</code>.</p>
-    </div>
-
-    <!-- Controlled Keyword Concept Index Badges -->
-    <h3 class="section-title">4. Controlled Concept Index Tags</h3>
-    <p style="margin-bottom: 0.5rem; color: var(--myndis-subtext);">Controlled vocabulary mapping NDIS terminology across guides and archived government sources:</p>
-    <div class="tag-list">
-      <a href="#" class="concept-tag">/keywords/evidence/</a>
-      <a href="#" class="concept-tag">/keywords/reasonable-and-necessary/</a>
-      <a href="#" class="concept-tag">/keywords/functional-capacity/</a>
-      <a href="#" class="concept-tag">/keywords/plan-review/</a>
-      <a href="#" class="concept-tag">/keywords/core-supports/</a>
-      <a href="#" class="concept-tag">/keywords/appeals-aat/</a>
+      <p>National Disability Insurance Scheme Act 2013 — Section 24 (Disability Requirements). Archived snapshot captured in <code>archive/ndis/pages/about/governance/legislation/index.html</code>.</p>
     </div>
 
   </div>
