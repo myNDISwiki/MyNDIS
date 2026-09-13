@@ -5,39 +5,39 @@
   },
   "archive/gov/aph/bills/r7487/changelog.md": {
     "domain": "aph",
-    "sha256": "90e0778efd9fb9942011c732f87f91182fc7dc42f9863348fdbac0c1a0b71b49"
+    "sha256": "792f6cbcfcacefc9863575f5ac2b8ceb3ca05d47784cf00a47e5e8bba7fc5a69"
   },
   "archive/gov/aph/bills/r7487/current.html": {
     "domain": "aph",
-    "sha256": "ed62b90816bf08280b93c3731e5313e32f17ef82e8b010d54435a7b8ae47af63"
+    "sha256": "8f8532c2c3cd79baf976233a44f590fd566916f7453430d1a970d3bdc5d62baa"
   },
   "archive/gov/aph/bills/r7487/metadata.json": {
     "domain": "aph",
-    "sha256": "284909eb6ec461ab3de7a715377d4ade8b5ee2a424aa7a1b4ada9a4b0e713302"
+    "sha256": "1e5d04f497e1db5fcf5cda8ccfb8f98647b8a8c2f71cf20ca75a257f5be1a7ed"
   },
   "archive/gov/engage-ndis/home/changelog.md": {
     "domain": "engage-ndis",
-    "sha256": "f17a7c6e4ebba4fd9bda70068252c3bcc66567927ed47cadd8160e57f62525cc"
+    "sha256": "d8b2908e500e9118941bd8a942a3d7b29a982d0af95249e02b70850e42b9afe7"
   },
   "archive/gov/engage-ndis/home/current.html": {
     "domain": "engage-ndis",
-    "sha256": "7829fd76f053aa1ec039522d1e42f9239b2b29a41908dfa620d99978da960a50"
+    "sha256": "6fc0fab34e565b7e1662aff79fbe7ef2d15bc1664447b96febdb98b92489f82e"
   },
   "archive/gov/engage-ndis/home/metadata.json": {
     "domain": "engage-ndis",
-    "sha256": "43479ebe6f67719ad6e62e0432b09f6c76f0b376ff30cf1012b5cf42e93baac7"
+    "sha256": "79cb38013124384d01ec4d882cf3e3b895caff8c9665f9fefa0336dded733735"
   },
   "archive/gov/engage-ndis/reforms-information/changelog.md": {
     "domain": "engage-ndis",
-    "sha256": "155815b189e4b0a9e6f629eccebb0d1f814faa9ead2cb9716e1d7e3a4b4aa236"
+    "sha256": "e4d67c0af7fcf0abff03ad38e8f9a856d077870272f9ff3914f84a7793602247"
   },
   "archive/gov/engage-ndis/reforms-information/current.html": {
     "domain": "engage-ndis",
-    "sha256": "3340a0d59c4b9aae1eda42a88bbefdbba8c2311cbf941cec359bd0c804b7196c"
+    "sha256": "ecf9ef95451ae5680d8ba5d1f4fcd30f5f886385d83110c1a807bdaafc8db634"
   },
   "archive/gov/engage-ndis/reforms-information/metadata.json": {
     "domain": "engage-ndis",
-    "sha256": "5408b96be15dbb51fa082db3689177f9b7a725c9c9ece3182626c1e8111bea30"
+    "sha256": "6df53643350af790297ee968a0af2a6f88113ff774ba5b05f9b307565da52c2c"
   },
   "archive/gov/health/national-autism-strategy-reference-group/README.md": {
     "domain": "health",
@@ -369,27 +369,27 @@
   },
   "archive/gov/ndia/independent-advisory-council/changelog.md": {
     "domain": "ndia",
-    "sha256": "636e0ac6dfee0ddf98a1a7f9dab6be1f0eb87334173c01fc0f1eef40f8162c75"
+    "sha256": "57ff75925e77eb5bc766114b9f176c2ba18624aaa888b4250bfd697313435286"
   },
   "archive/gov/ndia/independent-advisory-council/current.html": {
     "domain": "ndia",
-    "sha256": "2ab36581ca8253b3958735c9dff9723caaeee3ac130f6f1c14cc24c290fc9d0a"
+    "sha256": "e8e5a77e93f3083113587ae151f8ab9d4e1e8cd1543dd4d8d0ecd6cdd15fc316"
   },
   "archive/gov/ndia/independent-advisory-council/metadata.json": {
     "domain": "ndia",
-    "sha256": "bc662dfef76ff0c505a3886e8df0a92b647e0ed4d67185c3652f3729b53fbd4e"
+    "sha256": "8b30f5a22565653749c1a3885205e7ec777b2ae31a168c3aac94cc128419a3a9"
   },
   "archive/gov/ndia/independent-advisory-council/site/changelog.md": {
     "domain": "ndia",
-    "sha256": "f9b0b7521d59226980a71aab9b4851cca9e8fec192c1f6a91dbaecd43dd43222"
+    "sha256": "33e06a53b0e54549b9691b017e58c951483d49b1de53eee7c90a46f402fad15b"
   },
   "archive/gov/ndia/independent-advisory-council/site/current.html": {
     "domain": "ndia",
-    "sha256": "919181f0b665734ced127d88933e8c46e18cacfdd823542ce2e192d1437a3ce0"
+    "sha256": "a05b6fcc2513de9065b537b8acd7dca6dc4c83b1948b4c8423fd94487b0afdaf"
   },
   "archive/gov/ndia/independent-advisory-council/site/metadata.json": {
     "domain": "ndia",
-    "sha256": "dc5240e8b6101abdf340498643e2f74043a2820072a5bca407ccfc6a4e9b7e73"
+    "sha256": "6cbbfe95092d84a6da212938216fab1e3acc73da00087d2bc41f6bd8afaf767e"
   },
   "archive/gov/ndia/reviewing-actuary/README.md": {
     "domain": "ndia",
@@ -425,11 +425,11 @@
   },
   "archive/gov/ndis-commission/manifest.json": {
     "domain": "ndis-commission",
-    "sha256": "4c6a005f5b0d0b40be6055ecee7af7533dcaf1ac5aacb9b01b5d846b4e3445fa"
+    "sha256": "7b436fd1150a6532dc5c25d4dd4e508ffc8fd9089181c087685ae403760e0246"
   },
   "archive/gov/ndis-review/about/current.html": {
     "domain": "ndis-review",
-    "sha256": "53018ccad8cdd7dec426aef725eda4b1d8c63ad67aa029d32c1d044e7c7a4e07"
+    "sha256": "bfaae3f646a7e8b25d1e6c29074d058659a82689c625bbd743704dd1f2c73365"
   },
   "archive/gov/ndis-review/accessibility.html/current.html": {
     "domain": "ndis-review",
@@ -437,7 +437,7 @@
   },
   "archive/gov/ndis-review/accessibility/current.html": {
     "domain": "ndis-review",
-    "sha256": "fb1cac1aef7c1d597fe5c6ff5278f87b4f25300f8275a717d832a340bcf00855"
+    "sha256": "5a90c6d0b5b7767b5ba2d852914ec463285e0564f0d5731a29d4aeeae37c9c48"
   },
   "archive/gov/ndis-review/contact-us.html/current.html": {
     "domain": "ndis-review",
@@ -445,7 +445,7 @@
   },
   "archive/gov/ndis-review/contact-us/current.html": {
     "domain": "ndis-review",
-    "sha256": "7cafc94fffd5a99e3b8f5969d836ce73b08b397ab0ed89f980d25039c712fe66"
+    "sha256": "c3ee5d366bc42f848d01bd75a2ef36d21b531f54fb303c9e05c9fec689becaed"
   },
   "archive/gov/ndis-review/copyright-and-disclaimer.html/current.html": {
     "domain": "ndis-review",
@@ -453,55 +453,55 @@
   },
   "archive/gov/ndis-review/copyright-and-disclaimer/current.html": {
     "domain": "ndis-review",
-    "sha256": "fcb3b8e6089849ba4685859acbf0c4daaa754bf28654d1cbd8c48e827a7cc0b2"
+    "sha256": "0cbdb0085add42d00aec2fdcde6d2ead4e408b835e116f40885f45a7abc0225d"
   },
   "archive/gov/ndis-review/events.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "b9f9b723b84700ead78f21964a3d82ae738cad5655f4fd773f7d27617fc37c7a"
+    "sha256": "b9e1ebb7a13ca1730fa53884b7efb1d5f9ce3a7a83f51cbd6ef2589274415487"
   },
   "archive/gov/ndis-review/events/current.html": {
     "domain": "ndis-review",
-    "sha256": "88a147ea8bf1f834cb8a4ce452cf210aa86b19c148c5e6d0788b6acde788b2d0"
+    "sha256": "fc33adaeb51fc2278fd0cf612692d2f2c6909d62ba131f3689f00af2c756f433"
   },
   "archive/gov/ndis-review/index/current.html": {
     "domain": "ndis-review",
-    "sha256": "d3f765a4ac7f57cb988ecb7ca8b41ec03ad0e5854d7532e2ee397a36d9e95e7b"
+    "sha256": "72d191c0cdabd4b26a89c3f7def5cc014a07bb09cde43f7e708fd57e7342b535"
   },
   "archive/gov/ndis-review/manifest.json": {
     "domain": "ndis-review",
-    "sha256": "b1aa4f8b24813a3a34b11c42ec7e485d6e61cd4d2b83bc348f59f30e94c9ed18"
+    "sha256": "1020154f9ed6a37bcef5df080d4a101a03f40a2590785a5d301831ef73842456"
   },
   "archive/gov/ndis-review/news/current.html": {
     "domain": "ndis-review",
-    "sha256": "d376a9e545ec8dd15ae4dadab0f52069d2f0bbb0c2a600dfb112ddcf81a94383"
+    "sha256": "817fcdc99bc0333f3e26ae48a0cca9037abba350b4a7541bdfb7577b94ae4a06"
   },
   "archive/gov/ndis-review/news/final-report-has-been-published.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "e6ce77d0a197c7058faa41ed9b0234d8d20f2a31215239e4742603ab2e2465ab"
+    "sha256": "74737ba22ace4b426c7f44172c90bcb175a79eea6ab2bcde2115baeb2fa1ca36"
   },
   "archive/gov/ndis-review/privacy/current.html": {
     "domain": "ndis-review",
-    "sha256": "a7983eab2b633fc00ab8a568ebf382d586d7495f1037eeb690e01c40f90721f2"
+    "sha256": "48104860e4316906bafcc7baedd53e923a6e54520b728586d13fa8fae485268d"
   },
   "archive/gov/ndis-review/resources.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "abbe0f472cebca0dce5637d6836b276fe36504cfad5b4936fd4805f87f448319"
+    "sha256": "070cf5abbbbda5f9d134a4f24b2557ebb10c3660a8b5b884196089b2f2f2d991"
   },
   "archive/gov/ndis-review/resources/current.html": {
     "domain": "ndis-review",
-    "sha256": "bad2bd780d0b77dc54ebd3b8bad88cd163bf3411ab960a0594afceeec4a960c6"
+    "sha256": "f53526cae121ea8e3cde848e230b3ba610addbb32069cda92c4392a96aa63729"
   },
   "archive/gov/ndis-review/resources/fact-sheet/access-support-needs-assessment-and-budget-setting.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "965f91566b590e048ba518b6a761c5e1b4eefce436f359aaea5fdc0328d85323"
+    "sha256": "796ddf11df27065146986263f9d279b0d2ae88d5f45dba3ef9b84cbf48fbbdfd"
   },
   "archive/gov/ndis-review/resources/fact-sheet/commissioned-reports.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "47ddc44981732b54bbcb15bfa9d796d06aaca5823e2cef8d0e8797cc436a775b"
+    "sha256": "89e6464327f2dab21839b243dd8f6185cdf0b6c65df04b63c4db485a42da884b"
   },
   "archive/gov/ndis-review/resources/fact-sheet/connected-system-supports-all-people-disability.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "822bc4d6b89e280f1bdb68e172bdde9f90add3fe8cb1a8d9fabdf51eaf86e692"
+    "sha256": "6444047a2ebc8dc96fc3101f400c887aa710b2b6fdbb465fbd5fe1b0caf826aa"
   },
   "archive/gov/ndis-review/resources/fact-sheet/current.html": {
     "domain": "ndis-review",
@@ -509,51 +509,51 @@
   },
   "archive/gov/ndis-review/resources/fact-sheet/disability-service-providers.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "5bb3bca7887a159c7dabb0fc2c0cde0df0be5010681963b87b3521fbc3885ccb"
+    "sha256": "4ec885db702aafa4c4a6908d0989f2244d031c5ad76803ae6fc397a3ffcc91e0"
   },
   "archive/gov/ndis-review/resources/fact-sheet/disability-support-workers.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "c52a2742d9afade6d4c74747022b0cb2396e67936d03ef23269f84db8073ed7a"
+    "sha256": "463dd25d25b978ab290d4d405da494ebc1e141ae3ffbe2e757b5b6fd23d322d8"
   },
   "archive/gov/ndis-review/resources/fact-sheet/finding-your-way-around-help-navigator.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "f17e8cc1c0cdd727b040b0b00310d7241f480f824388c42a0ee48198f46c3bcd"
+    "sha256": "0a829c05a3418f9b890c9563f37d5c8dd10a1d886da6fdf68082b5d4176a9078"
   },
   "archive/gov/ndis-review/resources/fact-sheet/first-nations-communities.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "bb67763afe2898369507c03f54c45cecdb2521a2c87e0d8653a184d9134e6912"
+    "sha256": "836c36a4e0590fd32b141877c3186bf8dc489732f07d3348df0e3bbeea1463e5"
   },
   "archive/gov/ndis-review/resources/fact-sheet/foundational-supports-all-people-disability.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "b52225aec8d9be7cb1f7ad0a71067ec2fa5f93c86e87384f2cd2d757de87ffc9"
+    "sha256": "564e75c019ff08342b855a1559a8e9eda6b056b2c4fb6159cc5102cfd47c92d8"
   },
   "archive/gov/ndis-review/resources/fact-sheet/frequently-asked-questions.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "c6ce0fa92b1d8fe9caad0bfc6237b5e5056b4053ead25753a4ff1b5dc06ce3e3"
+    "sha256": "fde6d596fc12ca9e8cf3215c2ba5c831e701a600b8fc3e020b8ea6a6eb6608ef"
   },
   "archive/gov/ndis-review/resources/fact-sheet/housing-and-living-supports.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "965713dc182df2df6669ca80de25bc3fa8bc65746a4d70af19f825387f228e04"
+    "sha256": "19d653da3ebb021b4bd8718151548496314ceb4fad88870b8afe6bb612c506f5"
   },
   "archive/gov/ndis-review/resources/fact-sheet/new-connected-system-support-and-new-early-intervention-ndis-pathway.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "049943e406856938a30bd80a24d450e876481ebe9a8b523329f07dd6248464d9"
+    "sha256": "4d9c525c4e77b484ab17c84c299f6948b911ad14c43a18715f76ff650cc7a3d5"
   },
   "archive/gov/ndis-review/resources/fact-sheet/psychosocial-supports.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "948cbe1508bc8c5726f42c9028765cc3a6b040888d6b2bbeda213e07cd5b818b"
+    "sha256": "acc802ac762c5ed09d5c37f13e60d7a026c449e17edb648f3d57466269fd64fe"
   },
   "archive/gov/ndis-review/resources/reports/our-final-report-guide-people-disability-and-their-families-2023.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "2861f3ea25f1884bb0c306aba41c8b2a1aefa92a2f389edac8a0a72cdee53d22"
+    "sha256": "442d31dc2439dc3d54e99cc5b00cabcbb3fdef952dbb70fe6b622491b47157c5"
   },
   "archive/gov/ndis-review/resources/reports/working-together-deliver-ndis-supporting-analysis.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "9f74a9757979b1bc55c0b03b2fcfd32a6ce374c9ab571a7b2cecd38445bc5c80"
+    "sha256": "bb8a7f094dff442530eacebb7034f2588b343ca1f80aa801c6ab716d5af5de1a"
   },
   "archive/gov/ndis-review/resources/reports/working-together-deliver-ndis.html/current.html": {
     "domain": "ndis-review",
-    "sha256": "705965a25534838fe35d5ec5acf4ffb7075d11784d2e337c67be4bd466f4d031"
+    "sha256": "bb1e016de71d5da30c18a0b73e77d17aa74dab2313fdfa52bea6c1a92e5ad08a"
   },
   "archive/gov/ndis-review/resources/reports/working-together-deliver-ndis/current.html": {
     "domain": "ndis-review",
@@ -889,7 +889,7 @@
   },
   "archive/gov/ndis-review/sites/default/files/terms-of-reference-easy-read/current.html": {
     "domain": "ndis-review",
-    "sha256": "66b107d96c55bf57ea2e7e6cefac15a23feaf9c8df1348d4852aa765f81ee8cb"
+    "sha256": "2ac48f5a91344855ef6328a1dfcbee500a8005327eaf099c1aaa269db9dff025"
   },
   "archive/gov/vic-gov/pages/STEM-in-early-childhood/current.html": {
     "domain": "vic-gov",
@@ -905,11 +905,11 @@
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform/current.html": {
     "domain": "vic-gov",
-    "sha256": "eea675dd8aefbba3767a0751d8850087aa53b61b925d9ce9a253e64863862f77"
+    "sha256": "2c4f530ad9171418248c39e2f382f13bba1879ac13664a4892893c9064d0d4c8"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life/current.html": {
     "domain": "vic-gov",
-    "sha256": "9beeea409227b93e739936501c61d16de57e25749b8fde2d6686f19efe592dbe"
+    "sha256": "8aa299a0b158c7576a75616696c3b5ce7d8db6d370d0b561d0324d4aebc49da8"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/current.html": {
     "domain": "vic-gov",
@@ -933,7 +933,7 @@
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/why-two-years-and-more-time/current.html": {
     "domain": "vic-gov",
-    "sha256": "9673c8037455fe86df7b0ca09d4194edaa825425e77a9b4313cfcdfc73a7f83a"
+    "sha256": "a81ee346abf4865fe88e188829311d37c96f07a8bb3d0e6c3c13a5f6f64f040b"
   },
   "archive/gov/vic-gov/pages/building-blocks-kindergarten-infrastructure-strategy/early-childhood-infrastructure-streams/current.html": {
     "domain": "vic-gov",

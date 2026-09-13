@@ -1,5 +1,8 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-09-13T14:31:02Z
+## MODIFIED
 
-No page changes detected in this run.
+- `archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform/current.html`
+- `archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life/current.html`
+- `archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/why-two-years-and-more-time/current.html`
+
