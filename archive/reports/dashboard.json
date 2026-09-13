@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T18:39:02Z",
+  "generated_at": "2026-09-13T20:21:16Z",
   "domains": [
     {
       "id": "dataresearch",
       "name": "NDIS data and research",
       "status": "partial",
-      "last_checked": "2026-09-12T19:24:13Z",
+      "last_checked": "2026-09-13T19:25:33Z",
       "tracked_pages": 128,
       "registry": "../dataresearch/manifest.json",
       "latest": "../dataresearch/latest-run.json",
