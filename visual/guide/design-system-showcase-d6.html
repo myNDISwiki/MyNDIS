@@ -25,6 +25,8 @@
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
+    html, body { min-height: 100%; }
+
     body {
       background-color: var(--myndis-bg);
       color: var(--myndis-body-black);
@@ -32,6 +34,8 @@
       font-weight: 300; /* Lighter body weight as requested */
       line-height: 1.65;
       -webkit-font-smoothing: antialiased;
+      display: flex;
+      flex-direction: column;
       -moz-osx-font-smoothing: grayscale;
       padding-bottom: 4rem;
     }
@@ -113,11 +117,41 @@
       text-decoration: none;
       font-weight: 600;
       font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.045em;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.3em;
     }
 
     nav a:hover {
       color: var(--myndis-green);
-      text-decoration: underline;
+      text-decoration-thickness: 2px;
+    }
+
+    .menu-toggle {
+      display: none;
+      border: 1px solid var(--myndis-navy);
+      background: transparent;
+      color: var(--myndis-navy);
+      padding: 0.5rem 0.65rem;
+      font-size: 1.25rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    @media (max-width: 760px) {
+      header { padding: 1rem 0; }
+      .header-inner { align-items: flex-start; position: relative; }
+      .brand { min-width: 0; max-width: calc(100% - 3.5rem); }
+      .brand-logo { width: 68px; height: 54px; }
+      .brand-text { min-width: 0; }
+      .brand-text h1 { font-size: 1.3rem; }
+      .brand-text p { font-size: 0.78rem; line-height: 1.35; }
+      .menu-toggle { display: block; margin-left: auto; }
+      nav { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 1rem; }
+      nav.is-open { display: flex; }
+      nav a { font-size: 0.85rem; }
     }
 
     /* Main Showcase Header */
@@ -348,7 +382,27 @@
       margin-top: 4rem;
       padding: 2rem 0;
       background-color: var(--myndis-navy);
+      color: var(--myndis-bg);
     }
+
+    .footer-columns {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .footer-column h3 {
+      color: var(--myndis-coral);
+      font-family: var(--font-serif);
+      font-size: 1.15rem;
+      margin-bottom: 0.65rem;
+    }
+
+    .footer-column ul { list-style: none; }
+    .footer-column li { margin-bottom: 0.35rem; }
+    .footer-column a { color: var(--myndis-bg); text-decoration: underline; text-underline-offset: 0.2em; }
+    .footer-column a:hover { color: var(--myndis-coral); }
 
     .disclaimer-box {
       background-color: transparent;
@@ -378,17 +432,19 @@
     <div class="container header-inner">
       <a href="#" class="brand">
         <!-- MyNDIS heart-hands SVG asset -->
-        <img class="brand-logo" src="../assets/logo-mark.svg" alt="" width="54" height="54">
+        <img class="brand-logo" src="../assets/logo-mark-cropped.svg" alt="" width="68" height="54">
         <div class="brand-text">
           <h1>The People's Guide to the NDIS</h1>
           <p>A human to human disability resource.</p>
         </div>
       </a>
-      <nav>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-menu" aria-label="Open menu">☰</button>
+      <nav id="main-menu">
         <a href="#routes">I want to apply</a>
         <a href="#routes">I am on the NDIS</a>
         <a href="#links">Questions</a>
         <a href="#tags">Keywords</a>
+        <a href="#about">About</a>
       </nav>
     </div>
   </header>
@@ -534,8 +590,46 @@
       <div class="disclaimer-box">
         <strong>Site-Wide Disclaimer:</strong> MyNDIS is an independent information project and is not an official Australian Government or NDIA website. Information is maintained and updated as carefully as possible, but may become outdated or contain errors. Always check relevant official sources when making decisions about your NDIS supports, rights, or obligations.
       </div>
+      <div class="footer-columns">
+        <section class="footer-column">
+          <h3>Get started</h3>
+          <ul>
+            <li><a href="#routes">I want to apply</a></li>
+            <li><a href="#routes">I am on the NDIS</a></li>
+            <li><a href="#links">Questions</a></li>
+          </ul>
+        </section>
+        <section class="footer-column">
+          <h3>Explore</h3>
+          <ul>
+            <li><a href="#tags">Keywords</a></li>
+            <li><a href="#colors">Resources</a></li>
+            <li><a href="#about">About MyNDIS</a></li>
+          </ul>
+        </section>
+        <section class="footer-column">
+          <h3>About this project</h3>
+          <ul>
+            <li><a href="#about">How this guide works</a></li>
+            <li><a href="#about">Sources and archives</a></li>
+            <li><a href="#about">Contact</a></li>
+          </ul>
+        </section>
+      </div>
+      <p class="footer-copyright">© 2026 MyNDIS — placeholder copyright statement.</p>
     </div>
   </footer>
+
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const menu = document.querySelector('#main-menu');
+    menuToggle.addEventListener('click', () => {
+      const isOpen = menu.classList.toggle('is-open');
+      menuToggle.setAttribute('aria-expanded', String(isOpen));
+      menuToggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+      menuToggle.textContent = isOpen ? '×' : '☰';
+    });
+  </script>
 
 </body>
 </html>

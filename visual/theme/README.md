@@ -8,7 +8,7 @@ This directory contains CSS Custom Properties (CSS variables) mapping all color 
 
 | File Name | Draft Version | Description |
 | :--- | :--- | :--- |
-| **`theme-variables-d2.css`** | **Draft 2 (Latest Persistent)** | CSS custom properties featuring Vibrant Green (`#2E8C59`), lighter body copy styling (weight 300 with antialiasing), inline link states, thinner 1px HR dividers, and concept tag badge styles. |
+| **`theme-variables-d3.css`** | **Draft 3 (Latest Persistent)** | Current tokens and component styles for glossary callouts, typography, menu links, tables, and expanded tint colours. |
 | `theme-variables-d1.css` | Draft 1 (Archived) | Initial Draft 1 CSS color variables (`#3F7652`). |
 
 ---

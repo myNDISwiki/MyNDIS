@@ -113,11 +113,37 @@
       text-decoration: none;
       font-weight: 600;
       font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.045em;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.3em;
     }
 
     nav a:hover {
       color: var(--myndis-green);
-      text-decoration: underline;
+      text-decoration-thickness: 2px;
+    }
+
+    .menu-toggle {
+      display: none;
+      border: 1px solid var(--myndis-navy);
+      background: transparent;
+      color: var(--myndis-navy);
+      padding: 0.5rem 0.65rem;
+      font-size: 1.25rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    @media (max-width: 760px) {
+      header { padding: 1rem 0; }
+      .header-inner { align-items: flex-start; }
+      .brand-logo { width: 68px; height: 54px; }
+      .menu-toggle { display: block; margin-left: auto; }
+      nav { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 1rem; }
+      nav.is-open { display: flex; }
+      nav a { font-size: 0.85rem; }
     }
 
     /* Main Showcase Header */
@@ -378,17 +404,19 @@
     <div class="container header-inner">
       <a href="#" class="brand">
         <!-- MyNDIS heart-hands SVG asset -->
-        <img class="brand-logo" src="../assets/logo-mark.svg" alt="" width="54" height="54">
+        <img class="brand-logo" src="../assets/logo-mark-cropped.svg" alt="" width="68" height="54">
         <div class="brand-text">
           <h1>The People's Guide to the NDIS</h1>
           <p>A human to human disability resource.</p>
         </div>
       </a>
-      <nav>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-menu" aria-label="Open menu">☰</button>
+      <nav id="main-menu">
         <a href="#routes">I want to apply</a>
         <a href="#routes">I am on the NDIS</a>
         <a href="#links">Questions</a>
         <a href="#tags">Keywords</a>
+        <a href="#about">About</a>
       </nav>
     </div>
   </header>
@@ -536,6 +564,17 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const menu = document.querySelector('#main-menu');
+    menuToggle.addEventListener('click', () => {
+      const isOpen = menu.classList.toggle('is-open');
+      menuToggle.setAttribute('aria-expanded', String(isOpen));
+      menuToggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+      menuToggle.textContent = isOpen ? '×' : '☰';
+    });
+  </script>
 
 </body>
 </html>

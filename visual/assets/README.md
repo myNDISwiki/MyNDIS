@@ -8,8 +8,8 @@ This directory contains SVG vector logo files, combination lockups, and browser 
 
 | File Name | Asset Type | Primary Usage | Status |
 | :--- | :--- | :--- | :--- |
-| **`logo-mark.svg`** | Icon Mark (Navy `#172A52`) | Primary heart-handshake icon mark | Temporary auto-trace (Needs replacement) |
-| **`logo-mark-white.svg`** | Icon Mark (White `#FFFFFF`) | Dark navigation bars or dark footers | Temporary auto-trace (Needs replacement) |
+| **`logo-mark.svg`** | Icon Mark (Navy `#172A52`) | Primary heart-hands icon mark | Current working asset |
+| **`logo-mark-white.svg`** | Icon Mark (White `#FFFFFF`) | Green/navy backgrounds | Current working asset |
 | **`logo-horizontal.svg`** | Combination Logo | Mark + *"The People's Guide to the NDIS"* title | Temporary auto-trace (Needs replacement) |
 | **`favicon.svg`** | Browser Tab Icon (32x32) | Browser tab favicon | Temporary auto-trace (Needs replacement) |
 

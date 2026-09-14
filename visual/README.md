@@ -36,11 +36,11 @@ visual/
 
 ## 📌 Quick Reference & Persistent Documents
 
-- **Brand & Visual Guidelines**: [`guide/brand-guidelines-d2.md`](guide/brand-guidelines-d2.md)  
+- **Brand & Visual Guidelines**: [`guide/brand-guidelines-d3.md`](guide/brand-guidelines-d3.md)
   *Detailed specification covering color codes, WCAG AA/AAA accessibility contrast ratings, typography hierarchy, link states, button styles, and concept tags.*
 - **Interactive HTML Showcase**: [`guide/design-system-showcase-d2.html`](guide/design-system-showcase-d2.html)  
   *Self-contained HTML page demonstrating live colors, route cards, notice callout boxes, and concept tags in browser.*
-- **CSS Theme Variables**: [`theme/theme-variables-d2.css`](theme/theme-variables-d2.css)  
+- **CSS Theme Variables**: [`theme/theme-variables-d3.css`](theme/theme-variables-d3.css)
   *Ready-to-use CSS Custom Properties mapping all color codes, font stacks, and layout borders.*
 - **Vector Assets Directory**: [`assets/`](assets/)  
   *Folder containing scalable SVG logo variants and favicons.*

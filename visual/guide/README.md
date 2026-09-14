@@ -8,7 +8,7 @@ This directory contains the visual identity documentation, brand guidelines, WCA
 
 | File Name | Draft Version | Description |
 | :--- | :--- | :--- |
-| **`brand-guidelines-d2.md`** | **Draft 2 (Latest Persistent)** | Full brand specification document featuring color palette, swatch previews, WCAG 2.1 AA/AAA contrast matrix, typography hierarchy, link states, button styles, and concept tag rules. |
+| **`brand-guidelines-d3.md`** | **Draft 3 (Latest Persistent)** | Current specification covering the responsive green-header direction, logo variants, footer, glossary callout, typography, tables, pull quotes, and expanded colour tokens. |
 | **`design-system-showcase-d2.html`** | **Draft 2 (Latest Persistent)** | Standalone interactive HTML page showcasing live brand colors, lighter antialiased body text (300 weight), inline link states, concept tags without slashes, primary user route cards, notice callout boxes, and legal disclaimers. |
 | `brand-guidelines-d1.md` | Draft 1 (Archived) | Initial Draft 1 visual guidelines specification. |
 | `design-system-showcase-d1.html` | Draft 1 (Archived) | Initial Draft 1 HTML showcase page. |

@@ -25,6 +25,8 @@
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
+    html, body { min-height: 100%; }
+
     body {
       background-color: var(--myndis-bg);
       color: var(--myndis-body-black);
@@ -32,9 +34,12 @@
       font-weight: 300; /* Lighter body weight as requested */
       line-height: 1.65;
       -webkit-font-smoothing: antialiased;
+      display: flex;
+      flex-direction: column;
       -moz-osx-font-smoothing: grayscale;
-      padding-bottom: 4rem;
     }
+
+    body > .container { flex: 1; }
 
     .container {
       max-width: 1100px;
@@ -49,6 +54,8 @@
       margin: 2.5rem 0;
     }
 
+    .showcase-header { margin-top: 3.125rem; }
+
     /* Top Announcement Banner */
     .top-banner {
       background-color: var(--myndis-navy);
@@ -61,9 +68,10 @@
 
     /* Header & Navigation */
     header {
-      background-color: var(--myndis-white);
+      background-color: var(--myndis-bg);
       border-bottom: 1px solid var(--myndis-border);
       padding: 1.5rem 0;
+      box-shadow: 0 2px 8px rgba(23, 42, 82, 0.08);
     }
 
     .header-inner {
@@ -113,11 +121,41 @@
       text-decoration: none;
       font-weight: 600;
       font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.045em;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.3em;
     }
 
     nav a:hover {
       color: var(--myndis-green);
-      text-decoration: underline;
+      text-decoration-thickness: 2px;
+    }
+
+    .menu-toggle {
+      display: none;
+      border: 1px solid var(--myndis-navy);
+      background: transparent;
+      color: var(--myndis-navy);
+      padding: 0.5rem 0.65rem;
+      font-size: 1.25rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    @media (max-width: 760px) {
+      header { padding: 1rem 0; }
+      .header-inner { align-items: flex-start; position: relative; }
+      .brand { min-width: 0; max-width: calc(100% - 3.5rem); }
+      .brand-logo { width: 68px; height: 54px; }
+      .brand-text { min-width: 0; }
+      .brand-text h1 { font-size: 1.3rem; }
+      .brand-text p { font-size: 0.78rem; line-height: 1.35; }
+      .menu-toggle { display: block; margin-left: auto; }
+      nav { display: none; width: 100%; flex-direction: column; align-items: flex-end; gap: 0.75rem; padding-top: 1rem; text-align: right; }
+      nav.is-open { display: flex; }
+      nav a { font-size: 0.85rem; }
     }
 
     /* Main Showcase Header */
@@ -320,6 +358,58 @@
       margin: 1.5rem 0;
     }
 
+    /* Glossary Callout */
+    .callout-glossary {
+      background-color: var(--myndis-green-tint);
+      border-left: 4px solid var(--myndis-green);
+      padding: 1.25rem 1.5rem;
+      border-radius: 0 8px 8px 0;
+      margin: 1.5rem 0;
+    }
+
+    .callout-glossary .callout-title { color: var(--myndis-green); font-weight: 700; }
+
+    .lead-subheader {
+      color: var(--myndis-green);
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-top: 0.35rem;
+    }
+
+    .body-italic { font-style: italic; font-weight: 300; }
+
+    .text-style-table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--myndis-body-black);
+      margin: 1rem 0 2rem 5px;
+    }
+    .text-style-table th,
+    .text-style-table td {
+      border: 1px solid var(--myndis-body-black);
+      padding: 0.7rem 0.8rem;
+    }
+    .text-style-table th {
+      background: var(--myndis-navy);
+      color: var(--myndis-bg);
+      text-align: center;
+      font-weight: 700;
+    }
+    .text-style-table th:first-child,
+    .text-style-table td:first-child { text-align: left; }
+    .text-style-table th:not(:first-child),
+    .text-style-table td:not(:first-child) { text-align: center; }
+    .text-style-table tbody tr:nth-child(even) { background: #EEF1F7; }
+
+    .container > p,
+    .container > .swatch-grid,
+    .container > .demo-box,
+    .container > .tag-list,
+    .container > .route-grid,
+    .container > .callout-important,
+    .container > .callout-glossary,
+    .container > .source-box { margin-left: 5px; }
+
     .callout-important .callout-title {
       color: var(--myndis-coral);
       font-weight: 700;
@@ -348,7 +438,33 @@
       margin-top: 4rem;
       padding: 2rem 0;
       background-color: var(--myndis-navy);
+      color: var(--myndis-bg);
     }
+
+    .footer-columns {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .footer-divider {
+      border: 0;
+      border-top: 1px solid var(--myndis-coral);
+      margin: 1.5rem 0 2rem;
+    }
+
+    .footer-column h3 {
+      color: var(--myndis-coral);
+      font-family: var(--font-serif);
+      font-size: 1.15rem;
+      margin-bottom: 0.65rem;
+    }
+
+    .footer-column ul { list-style: none; }
+    .footer-column li { margin-bottom: 0.35rem; }
+    .footer-column a { color: var(--myndis-bg); text-decoration: underline; text-underline-offset: 0.2em; }
+    .footer-column a:hover { color: var(--myndis-coral); }
 
     .disclaimer-box {
       background-color: transparent;
@@ -378,17 +494,19 @@
     <div class="container header-inner">
       <a href="#" class="brand">
         <!-- MyNDIS heart-hands SVG asset -->
-        <img class="brand-logo" src="../assets/logo-mark.svg" alt="" width="54" height="54">
+        <img class="brand-logo" src="../assets/logo-mark-cropped.svg" alt="" width="68" height="54">
         <div class="brand-text">
-          <h1>The People's Guide to the NDIS</h1>
-          <p>A human to human disability resource.</p>
+          <h1>MyNDIS.wiki</h1>
         </div>
       </a>
-      <nav>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-menu" aria-label="Open menu">☰</button>
+      <nav id="main-menu">
         <a href="#routes">I want to apply</a>
         <a href="#routes">I am on the NDIS</a>
         <a href="#links">Questions</a>
         <a href="#tags">Keywords</a>
+        <a href="#about">About</a>
+        <a href="#glossary">Glossary</a>
       </nav>
     </div>
   </header>
@@ -397,8 +515,9 @@
   <div class="container">
 
     <div class="showcase-header">
-      <h2>Visual System & Component Showcase</h2>
-      <p style="color: var(--myndis-subtext); font-weight: 300;">Demonstrating lighter body typography, inline link states, concept tag badges, and accessibility standards for MyNDIS.wiki.</p>
+      <h2>The People's Guide to the NDIS</h2>
+      <p class="lead-subheader">A human to human disability resource.</p>
+      <p style="color: var(--myndis-subtext); font-weight: 300; margin-top: 0.75rem;">Visual system and component showcase for MyNDIS.wiki.</p>
     </div>
 
     <!-- Section 1: Color Swatches -->
@@ -526,6 +645,49 @@
       <p>National Disability Insurance Scheme Act 2013 — Section 24 (Disability Requirements). Archived snapshot captured in <code>archive/ndis/pages/about/governance/legislation/index.html</code>.</p>
     </div>
 
+    <hr />
+
+    <!-- Section 6: Glossary Callout -->
+    <h3 class="section-title" id="glossary">6. Glossary Callout</h3>
+    <p style="margin-bottom: 0.75rem; color: var(--myndis-subtext);">Glossary callouts use the green highlight colour to explain key NDIS terms without interrupting the main flow of a guide. They should link back to the overall glossary where a fuller explanation is available.</p>
+
+    <div class="callout-glossary">
+      <div class="callout-title">Key term: reasonable and necessary</div>
+      <p>This is placeholder explanatory text for a key term. A glossary callout gives the reader a short plain-language explanation, with a link to the full glossary entry when more detail or source context is useful.</p>
+      <p style="margin-top: 0.75rem;"><a href="#glossary" class="inline-link-active">Read the full glossary entry &rarr;</a></p>
+    </div>
+
+    <hr />
+
+    <!-- Section 7: Text Hierarchy -->
+    <h3 class="section-title" id="text-styles">7. Text Hierarchy & Inline Styles</h3>
+    <p>This section demonstrates the core text hierarchy used throughout the guide.</p>
+    <table class="text-style-table">
+      <thead><tr><th>Style</th><th>Example</th><th>Use</th></tr></thead>
+      <tbody>
+        <tr><td>Page title</td><td style="font-family: var(--font-serif); font-size: 1.4rem; color: var(--myndis-navy);">Major heading</td><td>Page-level introduction</td></tr>
+        <tr><td>Section heading</td><td style="font-family: var(--font-serif); color: var(--myndis-navy);">Section heading</td><td>Content grouping</td></tr>
+        <tr><td>Lead subheader</td><td class="lead-subheader">Human to human</td><td>Supportive introduction</td></tr>
+        <tr><td>Body italic</td><td class="body-italic">Source information can appear here.</td><td>Context or emphasis</td></tr>
+      </tbody>
+    </table>
+    <p><strong>Important:</strong> this is a single bold word inline within ordinary body copy.</p>
+    <p>This is body copy demonstrating an <a href="#links" class="inline-link-inactive">inline link state</a> within a sentence.</p>
+
+    <hr />
+
+    <!-- Section 8: Table Style -->
+    <h3 class="section-title" id="table-styles">8. Table Style</h3>
+    <p>This table style uses a thin black outline, navy headers with off-white text, alternating pale-navy rows, a left-aligned first column, and centred values in every other column.</p>
+    <table class="text-style-table">
+      <thead><tr><th>Key term</th><th>Status</th><th>Source count</th><th>Updated</th></tr></thead>
+      <tbody>
+        <tr><td>Evidence</td><td>Active</td><td>12</td><td>2026</td></tr>
+        <tr><td>Functional capacity</td><td>Review</td><td>8</td><td>2026</td></tr>
+        <tr><td>Reasonable and necessary</td><td>Active</td><td>19</td><td>2025</td></tr>
+      </tbody>
+    </table>
+
   </div>
 
   <!-- Mandatory Site-Wide Legal Disclaimer Footer -->
@@ -534,8 +696,48 @@
       <div class="disclaimer-box">
         <strong>Site-Wide Disclaimer:</strong> MyNDIS is an independent information project and is not an official Australian Government or NDIA website. Information is maintained and updated as carefully as possible, but may become outdated or contain errors. Always check relevant official sources when making decisions about your NDIS supports, rights, or obligations.
       </div>
+      <hr class="footer-divider">
+      <div class="footer-columns">
+        <section class="footer-column">
+          <h3>Get started</h3>
+          <ul>
+            <li><a href="#routes">I want to apply</a></li>
+            <li><a href="#routes">I am on the NDIS</a></li>
+            <li><a href="#links">Questions</a></li>
+          </ul>
+        </section>
+        <section class="footer-column">
+          <h3>Explore</h3>
+          <ul>
+            <li><a href="#tags">Keywords</a></li>
+            <li><a href="#glossary">Glossary</a></li>
+            <li><a href="#colors">Resources</a></li>
+            <li><a href="#about">About MyNDIS</a></li>
+          </ul>
+        </section>
+        <section class="footer-column">
+          <h3>About this project</h3>
+          <ul>
+            <li><a href="#about">How this guide works</a></li>
+            <li><a href="#about">Sources and archives</a></li>
+            <li><a href="#about">Contact</a></li>
+          </ul>
+        </section>
+      </div>
+      <p class="footer-copyright">© 2026 MyNDIS — placeholder copyright statement.</p>
     </div>
   </footer>
+
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const menu = document.querySelector('#main-menu');
+    menuToggle.addEventListener('click', () => {
+      const isOpen = menu.classList.toggle('is-open');
+      menuToggle.setAttribute('aria-expanded', String(isOpen));
+      menuToggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+      menuToggle.textContent = isOpen ? '×' : '☰';
+    });
+  </script>
 
 </body>
 </html>
