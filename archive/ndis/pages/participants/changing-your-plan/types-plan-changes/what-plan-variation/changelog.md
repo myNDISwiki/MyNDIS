@@ -274,3 +274,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You’ll get a copy of your varied plan within 7 days if we vary your plan.
  If you don’t agree with our decision
 ```
+
+## 2026-09-14T17:27:38Z — changed
+
+- Previous SHA-256: `91692cf897dc5b7caa0a0504695144ac6f8b7fc8263a39fe269e84bc904b153d`
+- New SHA-256: `152681ba6fd3d5140a2d4c4daaa8a9d9cec7651ed1f6fd488855da81fb16a9a0`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

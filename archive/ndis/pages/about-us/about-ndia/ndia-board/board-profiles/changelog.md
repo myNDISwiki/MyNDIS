@@ -160,3 +160,34 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-14T17:27:38Z — changed
+
+- Previous SHA-256: `cbd7fa302ef0c0d366a7dbbe00ffad0b7a2ef90a2ec1c4de4d04727552af000e`
+- New SHA-256: `54128c6c724494fe0f49330d916750533f560d4e7b792aa97c2bea4f2bf5b4c1`
+- Visible text lines added: 4
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -33,12 +33,11 @@
+ Previously, Ms van Poppel was CEO of Blind Citizens Australia, Manager at Youth Disability Advocacy Service and NDIS Readiness Project Officer at Australian Federation of Disability Organisations (AFDO).
+ Qualifications: Bachelor of Arts, Macquarie University.
+ Member: Sustainability Committee and People and Outcomes Committee.
+-Dr. Richard Fejo
+-Dr. Richard Fejo, better known as Richie, is a Larrakia man of direct male descent, through his father, grandfather and great-grandfather.
++Dr Richard Fejo
++Dr Richard Fejo, better known as Uncle Richie, is a Larrakia man from Darwin from Grandfather lore and Warramungu from Tennant Creek on his mother’s side.
+ Richie has devoted his life to improving education and health outcomes for Aboriginal and Torres Strait Islander people within urban, rural and remote communities.
+-Richie previously sat on the City of Darwin’s International Relations Committee and has recently become a committee member of the Northern Territory branch of the Australian Institute of company directors.
+-In 2022, Richie was awarded an honorary doctorate by Flinders University in recognition of his contribution to education and Indigenous health, where he is also the Senior Elder on campus.
+-In addition to his service to the community, Richie is a talented comedian and singer-songwriter, performing regularly around town, and nurturing the next generation of comics.
++Richie has previously been the Chairman of the Larrakia Nation Aboriginal Corporation (LNAC), Chairman of the Darwin Waterfront Corporation (DWC), Chairman of the Australia Day Council Northern Territory (ADCNT) and sat on the City of Darwin’s International Relations Committee and is now a committee member of the Northern Territory branch of the Australian Institute of Company Directors.
++In 2022, Richie was awarded an honorary doctorate by Flinders University in recognition of his contribution to education and Indigenous health. Richie is the Senior Elder of Flinders University for South Australia and the three Northern Territory campuses and the Elder in Residence at Brown’s Mart theatre in Darwin.
+ Member: Sustainability Committee and People and Outcomes Committee.
+ Dr Ian Watt AC
+ Dr Ian J Watt AC has had a long career as one of Australia’s most distinguished public servants, with nearly 20 years at the highest levels of the public service.  His most recent and most senior appointment was as Secretary of the Department of the Prime Minister and Cabinet and head of the Australian Public Service, a position he held from late 2011 until the end of 2014.  Prior to that, he was Secretary of the Departments of Defence; Finance; and Communications, Information Technology, and the Arts between 2001 and 2011.  Before that, he was Deputy Secretary of the Department of the Prime Minister and Cabinet.
+```

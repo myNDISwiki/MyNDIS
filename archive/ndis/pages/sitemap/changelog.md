@@ -186,3 +186,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Guide to working as an allied health provider
  How to write a plan reassessment report
 ```
+
+## 2026-09-14T17:27:38Z — changed
+
+- Previous SHA-256: `980d1534388566fa2cec5922b59f6bc88a4c0bdca912ff1a5b3d36310921e07c`
+- New SHA-256: `a62bebfc62d014222feb402f907367a38c52af9289c1383c4ebd8e4829bf0ef4`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

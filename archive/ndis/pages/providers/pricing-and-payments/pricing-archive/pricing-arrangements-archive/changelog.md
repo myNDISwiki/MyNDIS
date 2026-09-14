@@ -143,3 +143,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for For allied health professionals
  Guide to working as an allied health provider
 ```
+
+## 2026-09-14T17:27:38Z — changed
+
+- Previous SHA-256: `eda2b5998e26a2d346d4ec28881b29f21706c297ea484035deacea155a023bee`
+- New SHA-256: `c47406db206238bd0d6eb2844acad877507b006cdad121b354b8078b40bec6b3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -165,3 +165,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  This includes their own home, childcare, playgroup, preschool and other places where they play with family or friends.
  Focuses on supporting families
 ```
+
+## 2026-09-14T17:27:38Z — changed
+
+- Previous SHA-256: `ff08f11f3e416d4ec22d982bcfb982eaf1946a3d0a3c50b526dbb6ec24cb40e1`
+- New SHA-256: `bf100e15b9cba1cc6aa0662ceb3e16cc2d41b3a798824e38f27c178bcc53cf47`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

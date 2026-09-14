@@ -583,3 +583,62 @@ The page bytes changed, but no visible main-content wording change was detected.
  27 August 2026
  Pagination
 ```
+
+## 2026-09-14T17:27:38Z — changed
+
+- Previous SHA-256: `a0223db131df0794b758deecc1cf21e5077adb77d983d1d3c5adbf8d233fa314`
+- New SHA-256: `a7ce0dca400faeb7eb9a7c47420ab5eed86d70db64cfbbce3178b6207381a18c`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(322)
++(323)
+ Notification
+ (41)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(4)
++(5)
+ August 2026
+ (13)
+ July 2026
+@@ -358,6 +358,12 @@
+ Search
+ Search
+ Category
++News
++NDIS online data updated
++The NDIA has updated our public data, now current as at 30 June 2026.
++Date
++14 September 2026
++Category
+ Media release
+ Media release from the Minister
+ Pair jailed as NDIS integrity systems protect participants
+@@ -389,13 +395,6 @@
+ The Corporate Plan describes our purpose, key performance measures, and priorities for the next 4 years.
+ Date
+ 31 August 2026
+-Category
+-Media release
+-News
+-Victorian man arrested following alleged $700K NDIS fraud
+-A Victorian man has been arrested after he allegedly defrauded the NDIS of around $700,000 over a two-year period.
+-Date
+-27 August 2026
+ Pagination
+ 1
+ 2
+```
