@@ -1,5 +1,5 @@
 {
-  "bytes": 60904,
+  "bytes": 60903,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f79df323e3df1b069116652a27209cbe8b14774bd6888ee82cfaeb993193337e",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-13T19:25:33Z",
+  "last_changed": "2026-09-14T19:29:14Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -150,9 +150,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 09 Sep 2026 05:49:47 GMT"
+    "Last-Modified": "Mon, 14 Sep 2026 03:47:23 GMT"
   },
-  "sha256": "9873789521786b88440e5727e2cd669bd0d8a0525ae74ca1b6eda52e462dd58f",
+  "sha256": "9748bba08ab863899024297eb91e563d8fc821ebedf0b654d0c19bedfa907afa",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation"
 }

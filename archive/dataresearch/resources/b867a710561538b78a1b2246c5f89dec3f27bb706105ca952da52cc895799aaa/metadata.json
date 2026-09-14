@@ -1,5 +1,5 @@
 {
-  "bytes": 19178,
+  "bytes": 19179,
   "content_type": "application/pdf",
   "directory": "resources/b867a710561538b78a1b2246c5f89dec3f27bb706105ca952da52cc895799aaa",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4020",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-13T19:25:33Z",
+  "last_changed": "2026-09-14T19:29:14Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Evidence review Early interventions for children with autism.pdf\""
   },
-  "sha256": "0b025dde2f4959a09d25ef02d4b6889e376eb7f56b3e5e7d44f7cb891dfcc730",
+  "sha256": "c2d392e79aaef32c034bcf881850fa7180b3b9db236fc50d93a996eb4f140dd9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4020"
 }
