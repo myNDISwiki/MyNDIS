@@ -1,5 +1,12 @@
 # Victorian Government latest changes
 
-Checked: 2026-09-14T20:34:37Z
+Checked: 2026-09-15T02:34:49Z
 
-No page changes detected in this run.
+## MODIFIED
+
+- https://www.vic.gov.au/early-childhood-update-december-2025/early-childhood-workforce-register
+- https://www.vic.gov.au/early-childhood-update-december-2025/reflecting-2025-and-looking-new-year
+- https://www.vic.gov.au/early-childhood-update-december-2025/victorian-early-years-awards-2025-winners
+- https://www.vic.gov.au/early-childhood-update-december-2025/victorian-skilled-visa-nomination-program
+- https://www.vic.gov.au/early-childhood-update-february-2024
+
