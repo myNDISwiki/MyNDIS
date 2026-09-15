@@ -481,3 +481,79 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `d8885a2a99992da1c12a1a0496284110da5ab6e02a5d1b6939b2bcf21fce5975`
+- New SHA-256: `85cb792f908235e08c6d2617c56bbfcd20d99163484e243730f63775c8f1717e`
+- Visible text lines added: 8
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -71,7 +71,7 @@
+ (ZIP 3KB)
+ Understanding consent
+ Factsheet: Understanding consent
+-(PDF 115KB)
++(PDF 248KB)
+ Factsheet: Understanding consent
+ (DOCX 290KB)
+ Easy Read: Understanding consent
+@@ -120,6 +120,8 @@
+ (PDF 3MB)
+ Recording my providers
+ Factsheet: Recording my providers
++(PDF 212KB)
++Factsheet: Recording my providers
+ (DOCX 292KB)
+ Easy Read: Recording my providers
+ (PDF 6MB)
+@@ -128,14 +130,14 @@
+ Using your NDIS plan
+ Using your NDIS plan
+ Factsheet: Using your NDIS plan
+-(PDF 216KB)
++(PDF 234KB)
+ Factsheet: Using your NDIS plan
+ (DOCX 293KB)
+ Easy Read: Using your NDIS plan
+ (PDF 4MB)
+ Managing your funding
+ Factsheet: Managing your funding
+-(PDF 217KB)
++(PDF 219KB)
+ Factsheet: Managing your funding
+ (DOCX 287KB)
+ Easy Read: Managing your funding
+@@ -146,7 +148,7 @@
+ (ZIP 3KB)
+ Working with providers
+ Factsheet: Working with providers
+-(PDF 246KB)
++(PDF 220KB)
+ Factsheet: Working with providers
+ (DOCX 292KB)
+ Easy Read: Working with providers
+@@ -181,7 +183,7 @@
+ (DOCX 60KB)
+ Eligibility reassessments
+ Factsheet: Eligibility reassessments
+-(PDF 300KB)
++(PDF 210KB)
+ Factsheet: Eligibility reassessments
+ (DOCX 206KB)
+ Guide to self-management
+@@ -219,7 +221,7 @@
+ (DOCX 1MB)
+ Evidence of identity
+ Factsheet: Evidence of identity
+-(PDF 228KB)
++(PDF 205KB)
+ Factsheet: Evidence of identity
+ (DOCX 298KB)
+ Evidence we need to include NDIS supports in your plan
+```

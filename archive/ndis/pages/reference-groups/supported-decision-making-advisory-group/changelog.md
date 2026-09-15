@@ -138,3 +138,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `73f5b1127a3ed5c2e1c1a81c3df504ef6b206e0b67f3411eab008186f5891ae2`
+- New SHA-256: `1394007e18967b18db424fc60cc7253b1ab61841718bc8be1d35d6c57d643791`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,7 @@
+ Rebekah Dawson – National Ethnic Disability Alliance
+ Meeting summaries
+ 2026 Meeting summaries
++29 July 2026 meeting summary
+ 6 May 2026 meeting summary
+ 13 February 2026 meeting summary
+ 2025 Meeting summaries
+```

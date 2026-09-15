@@ -191,3 +191,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Dr Ian Watt AC
  Dr Ian J Watt AC has had a long career as one of Australia’s most distinguished public servants, with nearly 20 years at the highest levels of the public service.  His most recent and most senior appointment was as Secretary of the Department of the Prime Minister and Cabinet and head of the Australian Public Service, a position he held from late 2011 until the end of 2014.  Prior to that, he was Secretary of the Departments of Defence; Finance; and Communications, Information Technology, and the Arts between 2001 and 2011.  Before that, he was Deputy Secretary of the Department of the Prime Minister and Cabinet.
 ```
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `54128c6c724494fe0f49330d916750533f560d4e7b792aa97c2bea4f2bf5b4c1`
+- New SHA-256: `09c6ed3665ce99c5e28293e3aa5ffc34f8d1e6fa442fe702eb587e908c416eb4`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

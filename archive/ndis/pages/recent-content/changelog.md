@@ -598,3 +598,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `b4423c1006120884bf2a044f9816b56931d83e19b8cc18c7a260ebb3b2cb2ea5`
+- New SHA-256: `5f6a0b12d3b7cde89e76759488cf8b528101c9c4b9cec227e3cda55a130717f9`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Provider finder
+-11 September 2026
+-Guide to the early childhood approach
+-11 September 2026
+-What is a plan variation
+-11 September 2026
+-NDIS support gives Andrew renewed hope
+-11 September 2026
+-Charlie’s NDIS supports help him build a bigger future
+-11 September 2026
+-What is NDIS funding
+-11 September 2026
+-How to support participants as a plan manager
+-11 September 2026
+-Tom’s home gives him independence and choice
+-11 September 2026
+-What is a plan meeting
+-11 September 2026
+-Bryden’s work is changing lives and shifting mindsets
+-11 September 2026
++Find specialist disability accommodation (SDA)
++15 September 2026
++Neurodegenerative, Palliative Care and Rare Diseases Advisory Group
++15 September 2026
++What is self-managed funding
++15 September 2026
++Supported Decision Making Advisory Group
++15 September 2026
++Our guidelines
++15 September 2026
++Neurodegenerative Palliative Care and Rare Diseases Advisory Group meeting summary July 2026
++15 September 2026
++Supported Decision Making Advisory Group meeting summary July 2026
++15 September 2026
++Booklets and factsheets
++15 September 2026
++Board profiles
++14 September 2026
++National Disability Insurance Scheme (NDIS), Bunbury, 6230
++14 September 2026
+```

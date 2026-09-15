@@ -642,3 +642,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `a7ce0dca400faeb7eb9a7c47420ab5eed86d70db64cfbbce3178b6207381a18c`
+- New SHA-256: `8cb09fe8dd31b4403f4cec2c4605130c9d9ced1cc41e05c0815d243f2ef94258`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -82,7 +82,7 @@
+ August 2026
+ (13)
+ July 2026
+-(12)
++(14)
+ June 2026
+ (20)
+ May 2026
+```

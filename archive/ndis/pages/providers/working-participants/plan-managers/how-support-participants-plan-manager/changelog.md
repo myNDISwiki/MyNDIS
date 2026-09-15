@@ -21,3 +21,12 @@ Initial capture. The full initial wording is preserved in `index.html`; it is no
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `982019937e636f682b95ef7d46582ca4d53666dd3bbf6dc001215d1178575a10`
+- New SHA-256: `37de2d76d84729177bcc1a45f7a33263a8e81721362889870c79fa58f1cb2640`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

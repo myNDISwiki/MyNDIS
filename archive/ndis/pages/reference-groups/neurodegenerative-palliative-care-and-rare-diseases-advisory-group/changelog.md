@@ -147,3 +147,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-15T17:27:07Z — changed
+
+- Previous SHA-256: `d888c683ca9a4731b946a38878d457f11d414656aaf7a0c0d7f808076e549038`
+- New SHA-256: `7e9f654da739a0ecadb105cb313a7605b9d5f1c386d4d972314699a3fd30dcde`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -30,6 +30,7 @@
+ Julie Neil – Huntington's Australia
+ Meeting summaries
+ 2026 meeting summaries
++29 July 2026 meeting summary
+ 27 May 2026 meeting summary
+ 25 March 2026 meeting summary
+ 4 February 2026 meeting summary
+```
