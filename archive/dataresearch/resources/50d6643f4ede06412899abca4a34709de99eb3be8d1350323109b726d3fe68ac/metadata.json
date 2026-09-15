@@ -1,5 +1,5 @@
 {
-  "bytes": 16209,
+  "bytes": 16684,
   "content_type": "application/pdf",
   "directory": "resources/50d6643f4ede06412899abca4a34709de99eb3be8d1350323109b726d3fe68ac",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4074",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-14T19:29:14Z",
+  "last_changed": "2026-09-15T19:26:50Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"The NDIS in focus.pdf\""
   },
-  "sha256": "dd3fcb75b768e4a1ae6542cf2c9b9918744cbb1fb5f4d8aa9fa436f3bc259a82",
+  "sha256": "ad3ea8291221bad2906d5705ee80ca45b88ec9b76b42674b8f5537283df080e2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4074"
 }

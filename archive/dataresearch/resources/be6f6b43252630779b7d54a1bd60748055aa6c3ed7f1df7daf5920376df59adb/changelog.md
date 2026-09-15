@@ -35,3 +35,30 @@ No visible wording change; HTML bytes changed.
 SHA-256: `d4891905491dd675ce56482ef35c00e4f9ba84d91f988ad2e53f496ca087cd4e`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-09-15T19:26:50Z — changed
+
+SHA-256: `ee6dade6e417bd85ab3acc1a85d4a1e7bc7ec20cab7ee86444db3235145b3d64`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,8 @@
+ Save page as PDF
+ Page title
+ Updated
++The NDIS in focus
++15 September 2026
+ Research and evaluation
+ 9 September 2026
+ Specialist Disability Accommodation (SDA) Data
+@@ -79,8 +81,6 @@
+ Stroke
+ 31 August 2026
+ Spinal Cord Injury
+-31 August 2026
+-Psychosocial
+ 31 August 2026
+ Social Menu
+ Facebook
+```
