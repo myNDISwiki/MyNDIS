@@ -656,3 +656,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 +National Disability Insurance Scheme (NDIS), Bunbury, 6230
 +14 September 2026
 ```
+
+## 2026-09-16T17:27:02Z — changed
+
+- Previous SHA-256: `5f6a0b12d3b7cde89e76759488cf8b528101c9c4b9cec227e3cda55a130717f9`
+- New SHA-256: `d117f4642c8caed0e8ca83dc018509103074837d9b91c34bc8ec71c2a4f11223`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

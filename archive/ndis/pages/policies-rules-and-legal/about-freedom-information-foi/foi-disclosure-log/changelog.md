@@ -568,3 +568,122 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-16T17:27:02Z — changed
+
+- Previous SHA-256: `ed80ecf3f1fbe723384503136dd9d0d593577186aedb54237329c7682300f73c`
+- New SHA-256: `583b2605d2e727d84277165b93b0564b7bdef963d1d5faa5dcfcaf7c3a23a2c6`
+- Visible text lines added: 12
+- Visible text lines removed: 51
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -30,10 +30,20 @@
+ FOI 26/27-0197
+ 02/09/2026
+ Request for the number of Model Litigant Obligations complaints received by the NDIA in the 2025/26 financial year and the number of MLO complaints that were investigated by the NDIA and subsequently upheld.
+-FOI 26/27-0197
++FOI 26/27-0197 (PDF 776KB)
+ Two documents were produced under s 17 of the Freedom of Information Act.
+ Full access was granted to a document showing the number of MLO complaints received by the NDIA in the 2025/26 year.
+ Partial access was granted to a document showing the number of MLO complaints upheld by the NDIA in the 2025/26 year.
++FOI 25/26-3592
++24/08/2026
++Request for Knowledge Articles that include Level of Function and Key Performance Indicators for NDIS Planners.
++FOI 25/26-3592 (PDF 3.2MB)
++5 documents released in full:
++1. Guideline – Reasonable and Necessary Supports
++2. Guideline – Creating Your Plan
++3. Knowledge Article – Understand Functional Capacity Assessments
++4. Report – Success Measures Logic Q1 2026-2027 – Frontline Services Performance Model
++5. FSPM Q1 Performance Measures – For Information
+ FOI 24/25-2310
+ 24/08/2026
+ Documents relating to the governance, implementation, monitoring and reporting of the Dispute Resolution Improvement Strategy (DRIS), including strategy, guidance, performance and ministerial documents.
+@@ -482,12 +492,6 @@
+ FOI 25/26-1391 (PDF 14.8MB)
+ Document released in part
+ PACE Pre-Decision Quality Check Guide v. 12.0
+-FOI 25/26-2145
+-01/05/2026
+-Data request - Volume of applications, renewals and rejections made to NDIS - 1 July 2020 to 30 June 2025.
+-FOI 25/26-2145 (PDF 707KB)
+-1 document released in full.
+-1. S17 - Data - Volume of applications, renewals and rejections - 1 July 2020 to 30 June 2025.
+ FOI 25/26-2431
+ 01/05/2026
+ Guides and procedures relevant to planning and provision of supports for children aged under 7 years who are deaf or hard of hearing.
+@@ -546,14 +550,6 @@
+ SOP: Claim and Payment Enquiry Overview
+ Document: Reviewing and Actioning Payment Enquiries
+ Data: Section 17 response document
+-FOI 25/26-2113
+-17/04/2026
+-This request contains: Plan review data for 2 cohort of participants between 1 May- 31 October 2025.
+-FOI 25/26-2113 (PDF 146KB)
+-A single document was created under section 17 of the Freedom of Information Act 1982 and disclosed in full.
+-Plan reviews between 1 May and 31 October 2025 for:
+-Cohort 1: Participants receiving 24/7 or more funded support prior to plan review.
+-Cohort 2: All participants whose plans were reviewed (general cohort).
+ FOI 25/26-2159
+ 17/04/2026
+ Documents explaining how the NDIA determined that approximately $227 per month should be provided to or on behalf of NDIS participants who require guide dog assistance.
+@@ -679,21 +675,6 @@
+ 23. Presentation – FOI Exemptions on LEX
+ 24. Presentation – FOI Training Sections 4, 12, 24AA and 24AB
+ 25. Transcript – Training Video – Practical Refusals with Rebecca [REDACTED]
+-FOI 25/26-1857
+-30/03/2026
+-Guidance material for staff on end dating secondary disabilities.
+-Number of participants whose secondary disability has been end dated in the business system since 1 January 2025.
+-FOI 25/26-1857 (PDF 1MB)
+-7 documents released in full.
+-KA - Request a participant disability change v6.0 APPROVED 2025-12-02
+-KA - Update the participant's disabilities using the update person account case v7.0 APPROVED 2025-12-03
+-KA - Review and update the participant's disabilities in the vary impairment categories case v4.0 APPROVED 2025-12-03
+-KA -Understand the disabilities tab in the person account v1.0 APPROVED 2025-12-01
+-KA - View Impairment Categories in the person account v3.0 APPROVED 2025-12-02
+-KA - View Impairment Categories in the person account v3.0 APPROVED 2025-12-02
+-Section 17 Document - Data response: number of
+-Participants with secondary disabilities end dated between 1 January 2025 and 30 September 2025
+-Document created pursuant to section 17 of the Freedom of Information Act 1982.
+ FOI 25/26-2067
+ 23/03/2026
+ SDA pipeline data as at 31 December 2025 showing:
+@@ -726,26 +707,6 @@
+ Requesting home and living supports
+ SDA Design Standard
+ SDA pricing and payments
+-FOI 25/26-1859
+-19/03/2026
+-This request includes data relating to non‑mortality exits from the Scheme for the following cohorts:
+-a. Aboriginal and Torres Strait Islander status;
+-b. gender;
+-c. age (0-9, 10-18, 19-30, 31-45, 46-64, 65+); and
+-d. impairment type (intellectual, cognitive, sensory, neurological, physical, psychosocial)
+-FOI 25/26-1859 (PDF 399KB)
+-4 Documents released in full
+-Non-mortality exits in the 9 months to September 2025 by First Nations status
+-Non-mortality exits in the 9 months to September 2025 by gender
+-Non-mortality exits in the 9 months to September 2025 by age band
+-Non-mortality exits in the 9 months to September 2025 by primary disability group
+-FOI 25/26-1858
+-19/03/2026
+-This request contains:
+-Month-by-month figures covering 1–12-month funding periods for the period May–December 202
+-FOI 25/26-1858 (PDF 363KB)
+-1 Document released in full
+-Month by month figures of 1 to 12-month funding periods. May 2025-Dec 2025
+ FOI 25/26-1818
+ 16/03/2026
+ This request contains:
+@@ -8904,4 +8865,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-11 September 2026
++16 September 2026
+```

@@ -557,3 +557,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 298KB)
  Evidence we need to include NDIS supports in your plan
 ```
+
+## 2026-09-16T17:27:02Z — changed
+
+- Previous SHA-256: `85cb792f908235e08c6d2617c56bbfcd20d99163484e243730f63775c8f1717e`
+- New SHA-256: `c5b0c3fe3e44b6bad8b2ad27e7d472523a37d71d98c640ddbfa4e8680be3d7a3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
