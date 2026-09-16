@@ -1,5 +1,5 @@
 {
-  "bytes": 58941,
+  "bytes": 58942,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f27390e578928f4a3028fa48682376d063c7f350727612a25f57bf2b47fcae5a",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/employment-outcomes-participants-their-families-and-carers",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-15T19:26:50Z",
+  "last_changed": "2026-09-16T19:29:20Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Femployment-outcomes-participants-their-families-and-carers",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -168,7 +168,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 15 Sep 2026 05:53:01 GMT"
   },
-  "sha256": "5ae04f75a6fe5cd491ac80f701bab1c463c98b9211152e86ddb8a7155b749de5",
+  "sha256": "02d601a9faaacb5054bdf40197cf1c64d4fe776c5b969a723e364d657fa05fb4",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/employment-outcomes-participants-their-families-and-carers"
 }

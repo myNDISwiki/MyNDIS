@@ -1,5 +1,5 @@
 {
-  "bytes": 33511,
+  "bytes": 33512,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/286e21dabfe994864bca43be33feac763647fb397800d79b8fb27db62cff0cae",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/public-data-sharing/data-disclaimer",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-15T19:26:50Z",
+  "last_changed": "2026-09-16T19:29:20Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fpublic-data-sharing%2Fdata-disclaimer",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -105,7 +105,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 15 Sep 2026 07:14:25 GMT"
   },
-  "sha256": "802685a1a6eab185cac07d294a547a465d568f537396c9fce0847dde4fbb3c0a",
+  "sha256": "3e275fb56597d91efd44d28cde4bfea5e5013ece4d1a66d3cce272e0e7fb355c",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/public-data-sharing/data-disclaimer"
 }

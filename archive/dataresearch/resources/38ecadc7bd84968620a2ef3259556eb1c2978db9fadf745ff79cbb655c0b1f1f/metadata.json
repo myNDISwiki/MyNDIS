@@ -1,5 +1,5 @@
 {
-  "bytes": 63023,
+  "bytes": 63024,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/38ecadc7bd84968620a2ef3259556eb1c2978db9fadf745ff79cbb655c0b1f1f",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-15T19:26:50Z",
+  "last_changed": "2026-09-16T19:29:20Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -167,7 +167,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 15 Sep 2026 05:53:17 GMT"
   },
-  "sha256": "a13107bcb2ad6b1ab9c2cc016035e97b8ba8631197b6a4e41543bec3b98919c6",
+  "sha256": "a0e449e1398ead82bf4f5d505fb61df5d9b3e21b12a10de718acb7fadeb9ad85",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals"
 }
