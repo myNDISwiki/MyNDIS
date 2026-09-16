@@ -1,5 +1,8 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-09-16T14:33:25Z
+## MODIFIED
 
-No page changes detected in this run.
+- `archive/gov/vic-gov/pages/children-additional-needs-early-childhood/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-learning-teaching-play/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-play-matters/current.html`
+
