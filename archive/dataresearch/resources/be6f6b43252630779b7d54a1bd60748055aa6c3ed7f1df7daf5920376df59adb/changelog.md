@@ -68,3 +68,38 @@ SHA-256: `ee6dade6e417bd85ab3acc1a85d4a1e7bc7ec20cab7ee86444db3235145b3d64`
 SHA-256: `428868393b8752e91a8759a6edfe20446a6885e21e3e54348f2d27714ef77724`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-09-17T19:27:36Z — changed
+
+SHA-256: `82fd34b92b126ea7704696dd7fa5f9ba7cc0371eefb66cf70bbab049d85e9be4`
+
+```diff
+--- before
++++ after
+@@ -62,12 +62,14 @@
+ Save page as PDF
+ Page title
+ Updated
++Quarterly report supplements
++17 September 2026
++Specialist Disability Accommodation (SDA) Data
++17 September 2026
+ The NDIS in focus
+ 15 September 2026
+ Research and evaluation
+ 9 September 2026
+-Specialist Disability Accommodation (SDA) Data
+-1 September 2026
+ Developmental Delay
+ 31 August 2026
+ Hearing Impairment
+@@ -79,8 +81,6 @@
+ Visual impairment
+ 31 August 2026
+ Stroke
+-31 August 2026
+-Spinal Cord Injury
+ 31 August 2026
+ Social Menu
+ Facebook
+```

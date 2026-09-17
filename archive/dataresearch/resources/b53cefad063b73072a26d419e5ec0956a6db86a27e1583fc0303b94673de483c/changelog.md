@@ -47,3 +47,21 @@ No visible wording change; HTML bytes changed.
 SHA-256: `6979c0916ce39ea1386e95636cb9edf85f238ef955657887c0caeed163c63685`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-09-17T19:27:36Z — changed
+
+SHA-256: `d7b0fddeef834e067d7b08a7587fe6d2121133f8e680be4dc0baea54434c197a`
+
+```diff
+--- before
++++ after
+@@ -225,7 +225,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-1 September 2026
++17 September 2026
+ Social Menu
+ Facebook
+ (External website)
+```

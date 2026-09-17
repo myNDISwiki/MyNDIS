@@ -1,5 +1,5 @@
 {
-  "bytes": 37106,
+  "bytes": 37107,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/29c570c857f826421d6d46a1fcc278980258b79553df45f6a36ebf78a101f085",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-16T19:29:20Z",
+  "last_changed": "2026-09-17T19:27:36Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -77,7 +77,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10343260715123811.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10345260810170330.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1yjEOgDAIQNEL1fRIDbaEkiA0gIO3N7o5uP28fB0clcR2kC3yElYq-pgjDPS3G5xp3Y4lmFj7BCVsy4KTTUsgeJ8NFn-_H78B6XctEQ&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_LbBO86F3tqhL8vHl4Pt-jIUhf1oS_gmmbcdU_TkkZNU.js?delta=2&include=eJx1yjEOgDAIQNEL1fRIDbaEkiA0gIO3N7o5uP28fB0clcR2kC3yElYq-pgjDPS3G5xp3Y4lmFj7BCVsy4KTTUsgeJ8NFn-_H78B6XctEQ&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/styles/medium/public/icons/2023-07/ndis_icons_light_object-2_cogs.png?itok=h_NmwNnW",
@@ -112,9 +112,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 15 Sep 2026 05:33:14 GMT"
+    "Last-Modified": "Thu, 17 Sep 2026 05:31:27 GMT"
   },
-  "sha256": "776bcdfef9c4f887ba0a2690f519a0ecaeb2862767d6f7f78032a11137333dc0",
+  "sha256": "3f53f056d9676d82ac7103ebea09783253aa69d285c3f3360b8fba030d2ef0db",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses"
 }

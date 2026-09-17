@@ -1,5 +1,5 @@
 {
-  "bytes": 36451,
+  "bytes": 36450,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/2b10cd05bbfe0521e42e2642dfb178dbdfd49df275b10630c86b9c30567562dd",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/copyright",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-16T19:29:20Z",
+  "last_changed": "2026-09-17T19:27:36Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fcopyright",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -80,7 +80,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10343260715123811.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10345260810170330.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_jcnQ3ju0Zgd-ZhMoEKENDUWT75AtKmbSlp4f7oHyetQ.js?delta=2&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tle4mz=",
@@ -109,9 +109,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 15 Sep 2026 06:30:11 GMT"
+    "Last-Modified": "Thu, 17 Sep 2026 05:50:28 GMT"
   },
-  "sha256": "1d49a25f999437eb17b3a7fae5192cd930ab5c795df4df6148223f00da40e846",
+  "sha256": "7a1362302e6f5bdbbb09f1a003ef85b9bc8f3c5836d739c6fe48b40c38b21d1d",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/copyright"
 }
