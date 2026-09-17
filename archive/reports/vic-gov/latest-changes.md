@@ -1,11 +1,8 @@
 # Victorian Government latest changes
 
-Checked: 2026-09-17T02:32:53Z
+Checked: 2026-09-17T08:34:08Z
 
-## MODIFIED
+No page changes detected in this run.
+## Fetch failures
 
-- https://www.vic.gov.au/early-childhood-language-program
-- https://www.vic.gov.au/early-childhood-reform
-- https://www.vic.gov.au/early-childhood-school-closures
-- https://www.vic.gov.au/early-childhood-services-and-parents-taking-part-premiers-reading-challenge
-
+- https://www.vic.gov.au/early-childhood-update-august-2024/celebrating-national-aboriginal-and-torres-strait-islander-childrens-day: HTTP Error 404: Sorry, we couldn't find the page you were looking for.
