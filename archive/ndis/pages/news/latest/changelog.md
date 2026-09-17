@@ -674,3 +674,83 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-17T17:26:17Z — changed
+
+- Previous SHA-256: `05a2c2f61c3281045c33c40b0e0a7f963a1b1e14c4969fa79bf4fe08eee94b26`
+- New SHA-256: `af46bd3c0fec750c51315f2886c6ff548c8b0dd6aa6707e9d31f2d55323c2773`
+- Visible text lines added: 16
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -24,7 +24,7 @@
+ First Nations Advisory Council communique
+ (7)
+ Changes to the NDIS
+-(6)
++(7)
+ Home and living demonstration projects - round 1
+ (5)
+ Home and living demonstration projects - round 2
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(323)
++(325)
+ Notification
+ (41)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(5)
++(7)
+ August 2026
+ (13)
+ July 2026
+@@ -358,6 +358,19 @@
+ Search
+ Search
+ Category
++Changes to the NDIS
++News
++Changes to support budgets from 1 October
++Starting from 1 October, some NDIS support budgets will be reduced over the coming 12 months.
++Date
++17 September 2026
++Category
++News
++Consultation begins for 2027-28 NDIS pricing
++NDIS participants, providers and the wider disability community are invited to have their say on NDIS pricing, as part of this year’s Annual Pricing Review.
++Date
++17 September 2026
++Category
+ News
+ NDIS online data updated
+ The NDIA has updated our public data, now current as at 30 June 2026.
+@@ -383,18 +396,6 @@
+ This message is shared on behalf of the Department of Health, Disability and Ageing. The Australian Government is making changes to help secure the future of the NDIS.
+ Date
+ 7 September 2026
+-Category
+-News
+-Planned system updates 3 September 2026
+-Planned system updates 3 September 2026
+-Date
+-2 September 2026
+-Category
+-News
+-Corporate Plan 2026–27 now available
+-The Corporate Plan describes our purpose, key performance measures, and priorities for the next 4 years.
+-Date
+-31 August 2026
+ Pagination
+ 1
+ 2
+```

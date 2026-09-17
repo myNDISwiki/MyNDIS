@@ -401,3 +401,51 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-17T17:26:17Z — changed
+
+- Previous SHA-256: `8f66ffdba5d9caae1797c577536c45c46a4c78564c42c5013a8981947838569a`
+- New SHA-256: `0e12fa1a99f05e12c581f47a52768aef5069f06e80b07e8aaf62eb4f20b52c0c`
+- Visible text lines added: 11
+- Visible text lines removed: 12
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,22 +31,21 @@
+ Learn more
+ Latest news
+ Category
++Changes to the NDIS
++News
++Changes to support budgets from 1 October
++Date
++17 September 2026
++Category
++News
++Consultation begins for 2027-28 NDIS pricing
++Date
++17 September 2026
++Category
+ News
+ NDIS online data updated
+ Date
+ 14 September 2026
+-Category
+-Media release
+-Media release from the Minister
+-Pair jailed as NDIS integrity systems protect participants
+-Date
+-11 September 2026
+-Category
+-Media release
+-News
+-Final man jailed over NSW fraud syndicate
+-Date
+-8 September 2026
+ Read more news
+ Participant experiences
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+```

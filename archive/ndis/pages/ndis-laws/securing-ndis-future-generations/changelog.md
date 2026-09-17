@@ -331,3 +331,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-17T17:26:17Z — changed
+
+- Previous SHA-256: `e5811a4b03a9906d604ad77b4c04f26e2798ae3606fa5b9e72bb1f4cc416323a`
+- New SHA-256: `2a881240491c5a3c595c82640cfcd7eed6d54ca73c53812dc324c5bf4249a209`
+- Visible text lines added: 7
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -45,7 +45,7 @@
+ 7 years for providers.
+ This helps us make sure claims and payments can be checked and made correctly.
+ More information will be provided to explain what records you need to keep and how to meet the requirements.
+-It is important to keep records as you may need to repay funding if you can’t show the NDIS funding was used correctly.
++It's important to keep records as you may need to repay funding if you can’t show the NDIS funding was used correctly.
+ Learn more about
+ participant responsibilities
+ or
+@@ -54,7 +54,7 @@
+ Information gathering powers and civil penalties
+ We know the vast majority of participants and providers do the right thing and use NDIS funding appropriately.
+ To help protect participants and the Scheme we’ll have stronger compliance, enforcement and information gathering powers. These powers will mean we can better tackle fraud and non-compliance and respond faster to suspicious behaviour.
+-Participants and providers may need to give us information when we ask for it to help us ensure NDIS funding is being used appropriately.
++Participants and providers may need to give us information when we ask for it to help us make sure NDIS funding is being used appropriately.
+ We may issue a penalty if providers don’t comply with certain requirements under the NDIS laws, like providing information. This helps protect the participants and make sure NDIS funding is used correctly.
+ Automated administrative action
+ Computer systems can be used to automate some administrative actions, including claims and payment processing.
+@@ -62,19 +62,18 @@
+ People will continue to make decisions that are complex, discretionary, or require judgement, such as on plans.
+ We must publish details of how and where automated systems are used, helping ensure transparency and accountability.
+ Changes from October 2026
+-Support determinations
+-Support budgets for social, civic and community participation supports and capacity building daily activities will be progressively reset as participants’ plans are reassessed or renewed.
++Support budget reductions
++Support budgets for social, economic and community participation supports and improved daily living skills will be reduced as participants’ plans are reassessed or renewed.
+ These changes will not impact funding for:
+ help with eating and drinking
+ education supports
+ employment supports
+ disability related health supports.
+-Participants will not see changes to their funding until their plan is reassessed or renewed. Changes to funding are not backdated.
+-Support budgets will be updated over a 12-month period:
++Support budgets will be reduced over a 12-month period:
+ from 1 October 2026 when a plan is reassessed or a new plan is approved
+ from 1 February 2027 when a plan is renewed.
+-A new plan variation pathway will be created for high support needs participants who require continuous 24-hour care to meet their disability-related care needs. These participants will be able to apply for a plan variation within 90 days of a support determination applying to them.
+-If needed, the NDIA can increase funding through a plan variation to make sure essential 24-hour disability supports continue.
++A new plan variation pathway will be created for high support needs participants who require 24-hour disability support. These participants will be able to apply for a plan variation within 90 days of a support determination applying to them.
++If needed, we can increase funding through a plan variation to make sure they can continue to receive the supports that help keep them safe at home.
+ All participants can continue to
+ request a change to their plan
+ where there is a significant change in their functional capacity or circumstances.
+```
