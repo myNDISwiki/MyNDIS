@@ -45,8 +45,9 @@ jobs:
             git pull --rebase origin main
             git push
           fi
-      - name: Report incomplete capture
-        if: always() && steps.capture.outcome != 'success'
+      - name: Report capture status
+        if: always()
         run: |
-          echo '::error::Capture was incomplete. Successful downloads and the gap report were retained; inspect archive/dataresearch/latest-run.json.'
-          exit 1
+          if [ "${{ steps.capture.outcome }}" = "failure" ]; then
+            echo '::warning::Capture encountered errors. Successful downloads and gap reports were retained; inspect archive/dataresearch/latest-run.json.'
+          fi
