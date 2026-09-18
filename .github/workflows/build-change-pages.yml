@@ -31,7 +31,7 @@ jobs:
         run: python project/build_change_pages.py
       - name: Commit generated pages
         run: |
-          git add archive/**/changes.html project/site/changes.html
+          git add archive/**/changes.html project/changes.html project/site/changes.html
           if git diff --cached --quiet; then
             echo "No change pages changed."
             exit 0

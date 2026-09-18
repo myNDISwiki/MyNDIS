@@ -121,30 +121,60 @@ def page_for(ledger: Path) -> None:
 
 
 def build_project_page(ledgers: list[Path]) -> None:
-    site = ROOT / "project" / "site"
-    site.mkdir(parents=True, exist_ok=True)
-    generated = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-    links = []
+    destinations = [ROOT / "project" / "changes.html", ROOT / "project" / "site" / "changes.html"]
+    generated = max(
+        (
+            max(
+                (row.get("checked_at") or row.get("timestamp") or "" for row in csv.DictReader(
+                    ledger.open(newline="", encoding="utf-8")
+                )),
+                default="",
+            )
+            for ledger in ledgers
+        ),
+        default="not recorded",
+    )
+    rows = []
     for ledger in sorted(ledgers):
         label = ledger.parent.relative_to(ROOT / "archive").as_posix()
-        href = os.path.relpath(ledger.parent / "changes.html", site)
-        links.append(f'<li><a href="{esc(href)}">{esc(label)}</a></li>')
+        events = list(csv.DictReader(ledger.open(newline="", encoding="utf-8")))
+        latest = max(
+            (row.get("checked_at") or row.get("timestamp") or "" for row in events),
+            default="not recorded",
+        )
+        counts = {}
+        for row in events:
+            event = row.get("event") or row.get("status") or "recorded"
+            counts[event] = counts.get(event, 0) + 1
+        count_text = ", ".join(f"{key}: {value}" for key, value in sorted(counts.items()))
+        rows.append((label, latest, count_text, ledger.parent / "changes.html"))
+    body = []
+    for label, latest, count_text, target in rows:
+        href = os.path.relpath(target, ROOT / "project")
+        body.append(
+            f"<tr><td><a href=\"{esc(href)}\">{esc(label)}</a></td>"
+            f"<td>{esc(latest)}</td><td>{esc(count_text)}</td></tr>"
+        )
     out = f"""<!doctype html>
 <html lang="en-AU">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MyNDIS change histories</title>
-  <style>body{{font:16px system-ui,sans-serif;max-width:60rem;margin:2rem auto;padding:0 1rem;color:#202124}} a{{overflow-wrap:anywhere}}</style>
+  <title>MyNDIS project changes</title>
+  <style>body{{font:16px system-ui,sans-serif;max-width:70rem;margin:2rem auto;padding:0 1rem;color:#202124}} table{{border-collapse:collapse;width:100%}} th,td{{border:1px solid #ccd;padding:.6rem;text-align:left;vertical-align:top}} th{{background:#eef2f5}} a{{overflow-wrap:anywhere}}</style>
 </head>
 <body>
-  <h1>MyNDIS change histories</h1>
-  <p>Generated: {esc(generated)}</p>
-  <ul>{"".join(links)}</ul>
+  <h1>MyNDIS project changes</h1>
+  <p>This overview shows the projects with recorded change events. Open a project to see its detailed history and recorded information.</p>
+  <p>Latest recorded event: {esc(generated)}</p>
+  <table><thead><tr><th>Project</th><th>Latest change</th><th>Recorded events</th></tr></thead>
+  <tbody>{"".join(body)}</tbody></table>
 </body>
 </html>
 """
-    (site / "changes.html").write_text(out, encoding="utf-8")
+    for destination in destinations:
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(out, encoding="utf-8")
 
 
 def main() -> int:
@@ -156,7 +186,7 @@ def main() -> int:
     for ledger in ledgers:
         page_for(ledger)
     build_project_page(ledgers)
-    print(f"Built {len(ledgers)} archive change pages")
+    print(f"Built {len(ledgers)} archive change pages and project overview pages")
     return 0
 
 
