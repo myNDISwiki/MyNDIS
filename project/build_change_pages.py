@@ -70,6 +70,12 @@ def page_for(ledger: Path) -> None:
         row for row in rows
         if (row.get("checked_at") or row.get("timestamp") or "") == latest_timestamp
     ]
+    visible_rows = [
+        row for row in rows
+        if int(row.get("additions") or 0) or int(row.get("removals") or 0)
+        or row.get(status) in {"new", "missing", "restored", "removed-from-manifest"}
+    ]
+    byte_only_count = len(rows) - len(visible_rows)
     latest_added = sum(int(row.get("additions") or 0) for row in latest_rows)
     latest_removed = sum(int(row.get("removals") or 0) for row in latest_rows)
     summary = (
@@ -77,10 +83,12 @@ def page_for(ledger: Path) -> None:
         f"{latest_added} visible lines added · {latest_removed} visible lines removed"
         if latest_rows else "No recorded events"
     )
+    if byte_only_count:
+        summary += f" · {byte_only_count} byte-only events hidden"
     headers = [f for f in fields if isinstance(f, str) and f not in {"previous_hash", "new_hash", "sha256_before", "sha256_after"}]
     headers.append("recorded_change")
     body = []
-    for row in rows:
+    for row in visible_rows:
         cells = []
         for field in headers:
             if field == "recorded_change":
@@ -98,7 +106,7 @@ def page_for(ledger: Path) -> None:
                     removals = row.get("removals") or ""
                     label = f"{additions} lines added, {removals} lines removed" if additions or removals else "Show recorded change"
                     value = (
-                        f'<details><summary>{esc(label)}</summary>'
+                        f'<details open><summary>{esc(label)}</summary>'
                         f'<pre class="detail">{esc(detail)}</pre>'
                         f'<p><a href="{esc(href)}">Open full changelog</a></p></details>'
                     )
