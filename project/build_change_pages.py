@@ -32,9 +32,13 @@ def detail_for_row(ledger: Path, row: dict[str, str], manifest: dict) -> str:
     timestamp = row.get("checked_at") or row.get("timestamp") or ""
     if timestamp:
         sections = re.split(r"(?m)(?=^##\s)", content)
-        matching = [section for section in sections if timestamp in section]
-        if matching:
-            content = matching[-1]
+        dated = [
+            section for section in sections
+            if (match := re.search(r"^##\s+(\d{4}-\d{2}-\d{2}T[0-9:.+-]+Z?)", section, re.MULTILINE))
+            and match.group(1) <= timestamp
+        ]
+        if dated:
+            content = dated[-1]
     if len(content) > MAX_INLINE_DETAIL:
         content = content[:MAX_INLINE_DETAIL] + "\n\n[Inline display truncated; open the full changelog.]"
     return content
@@ -58,7 +62,21 @@ def page_for(ledger: Path) -> None:
     for row in rows:
         key = row.get(status, "unknown") or "unknown"
         counts[key] = counts.get(key, 0) + 1
-    summary = " · ".join(f"{esc(key)}: {value}" for key, value in sorted(counts.items())) or "No recorded events"
+    latest_timestamp = max(
+        (row.get("checked_at") or row.get("timestamp") or "" for row in rows),
+        default="",
+    )
+    latest_rows = [
+        row for row in rows
+        if (row.get("checked_at") or row.get("timestamp") or "") == latest_timestamp
+    ]
+    latest_added = sum(int(row.get("additions") or 0) for row in latest_rows)
+    latest_removed = sum(int(row.get("removals") or 0) for row in latest_rows)
+    summary = (
+        f"{len(latest_rows)} resources changed in latest run · "
+        f"{latest_added} visible lines added · {latest_removed} visible lines removed"
+        if latest_rows else "No recorded events"
+    )
     headers = [f for f in fields if isinstance(f, str) and f not in {"previous_hash", "new_hash", "sha256_before", "sha256_after"}]
     headers.append("recorded_change")
     body = []
