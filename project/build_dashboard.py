@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import html
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -68,6 +69,33 @@ def main() -> int:
             "changes": {"NEW": vic.get("new", 0), "MODIFIED": vic.get("modified", 0), "REMOVED": vic.get("removed", 0)},
         },
     ]
+    known_ids = {domain["id"] for domain in domains}
+    for ledger in sorted((ROOT / "archive").rglob("change-ledger.csv")):
+        project_id = ledger.parent.relative_to(ROOT / "archive").as_posix()
+        if project_id in known_ids:
+            continue
+        rows = list(csv.DictReader(ledger.open(newline="", encoding="utf-8")))
+        latest = max(
+            (row.get("checked_at") or row.get("timestamp") or "" for row in rows),
+            default=None,
+        )
+        changes = {"NEW": 0, "MODIFIED": 0, "REMOVED": 0}
+        for row in rows:
+            event = (row.get("event") or row.get("status") or "").upper()
+            if event in changes:
+                changes[event] += 1
+        domains.append(
+            {
+                "id": project_id,
+                "name": project_id.replace("-", " ").replace("/", " / ").title(),
+                "status": "recorded changes",
+                "last_checked": latest,
+                "tracked_pages": 0,
+                "registry": os.path.relpath(ledger, REPORTS),
+                "latest": os.path.relpath(ledger.parent / "changes.html", REPORTS),
+                "changes": changes,
+            }
+        )
     payload = {"generated_at": generated, "domains": domains}
     REPORTS.mkdir(parents=True, exist_ok=True)
     (REPORTS / "dashboard.json").write_text(json.dumps(payload, indent=2) + "\n", "utf-8")
