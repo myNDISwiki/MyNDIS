@@ -25,4 +25,4 @@ jobs:
           git config user.email "myndiswiki@users.noreply.github.com"
           git commit -m "Archive Engage NDIS updates $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git pull --rebase
-          git push
+          git push --force-with-lease
