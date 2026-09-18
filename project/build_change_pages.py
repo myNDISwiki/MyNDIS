@@ -51,9 +51,11 @@ def page_for(ledger: Path) -> None:
                 else:
                     detail = None
                 if detail and detail.exists():
-                    detail_text = html.escape(detail.read_text(encoding="utf-8"))
                     href = os.path.relpath(detail, ledger.parent)
-                    value = f'<details><summary>show recorded change</summary><pre>{detail_text}</pre><a href="{esc(href)}">open source history</a></details>'
+                    additions = row.get("additions") or ""
+                    removals = row.get("removals") or ""
+                    summary = f"{additions} lines added, {removals} lines removed" if additions or removals else "Open the resource history for the recorded change"
+                    value = f'{esc(summary)} · <a href="{esc(href)}">open changelog</a>'
                 else:
                     value = "No per-resource history recorded"
                 cells.append(f"<td>{value}</td>")
