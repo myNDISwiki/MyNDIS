@@ -105,7 +105,10 @@ def page_for(ledger: Path) -> None:
             cells.append(f"<td>{value}</td>")
         body.append("<tr>" + "".join(cells) + "</tr>")
     label = ledger.parent.relative_to(ROOT / "archive").as_posix()
-    generated = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    generated = max(
+        (row.get("checked_at") or row.get("timestamp") or "" for row in rows),
+        default="not recorded",
+    )
     table_head = "".join(f"<th>{esc(field.replace('_', ' ').title())}</th>" for field in headers)
     out = f'''<!doctype html><meta charset="utf-8"><title>Changes — {esc(label)}</title>
 <style>body{{font:16px system-ui,sans-serif;max-width:1500px;margin:2rem auto;padding:0 1rem;color:#202124}} table{{border-collapse:collapse;width:100%;font-size:.9rem}} th,td{{border:1px solid #ccd;padding:.55rem;text-align:left;vertical-align:top}} th{{background:#eef2f5;position:sticky;top:0}} tr:nth-child(even){{background:#fafafa}} input{{font:inherit;padding:.6rem;width:min(32rem,100%)}} .meta{{color:#5f6368}} a{{overflow-wrap:anywhere}} .detail{{max-height:32rem;overflow:auto;white-space:pre-wrap;background:#f6f8fa;padding:1rem}}</style>
