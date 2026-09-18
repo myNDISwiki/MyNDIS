@@ -6,6 +6,7 @@ import csv
 import html
 import os
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -28,6 +29,12 @@ def detail_for_row(ledger: Path, row: dict[str, str], manifest: dict) -> str:
     if not detail.exists():
         return ""
     content = detail.read_text(encoding="utf-8", errors="replace")
+    timestamp = row.get("checked_at") or row.get("timestamp") or ""
+    if timestamp:
+        sections = re.split(r"(?m)(?=^##\s)", content)
+        matching = [section for section in sections if timestamp in section]
+        if matching:
+            content = matching[-1]
     if len(content) > MAX_INLINE_DETAIL:
         content = content[:MAX_INLINE_DETAIL] + "\n\n[Inline display truncated; open the full changelog.]"
     return content
