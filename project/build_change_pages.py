@@ -46,7 +46,10 @@ def page_for(ledger: Path) -> None:
                 detail_path = row.get("page_changelog", "")
                 if not detail_path and entry.get("directory"):
                     detail_path = f"{entry['directory']}/changelog.md"
-                detail = ledger.parent / detail_path if detail_path else None
+                if detail_path:
+                    detail = ROOT / detail_path if detail_path.startswith("archive/") else ledger.parent / detail_path
+                else:
+                    detail = None
                 if detail and detail.exists():
                     detail_text = html.escape(detail.read_text(encoding="utf-8"))
                     href = os.path.relpath(detail, ledger.parent)
