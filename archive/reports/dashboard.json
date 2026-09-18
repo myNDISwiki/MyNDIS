@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:55:07Z",
+  "generated_at": "2026-09-18T12:30:21Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -56,6 +56,144 @@
         "MODIFIED": 0,
         "REMOVED": 0
       }
+    },
+    {
+      "id": "reports/.gitkeep",
+      "name": "Reports / .Gitkeep",
+      "status": "recorded changes",
+      "last_checked": "2026-09-04T09:54:31Z",
+      "tracked_pages": 0,
+      "registry": ".gitkeep/change-ledger.csv",
+      "latest": ".gitkeep/changes.html",
+      "changes": {
+        "NEW": 1,
+        "MODIFIED": 0,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/aph",
+      "name": "Reports / Aph",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T17:54:41Z",
+      "tracked_pages": 0,
+      "registry": "aph/change-ledger.csv",
+      "latest": "aph/changes.html",
+      "changes": {
+        "NEW": 3,
+        "MODIFIED": 42,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/engage-ndis",
+      "name": "Reports / Engage Ndis",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T17:54:41Z",
+      "tracked_pages": 0,
+      "registry": "engage-ndis/change-ledger.csv",
+      "latest": "engage-ndis/changes.html",
+      "changes": {
+        "NEW": 6,
+        "MODIFIED": 66,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/health",
+      "name": "Reports / Health",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T18:40:56Z",
+      "tracked_pages": 0,
+      "registry": "health/change-ledger.csv",
+      "latest": "health/changes.html",
+      "changes": {
+        "NEW": 80,
+        "MODIFIED": 104,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/ndia",
+      "name": "Reports / Ndia",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T17:54:41Z",
+      "tracked_pages": 0,
+      "registry": "ndia/change-ledger.csv",
+      "latest": "ndia/changes.html",
+      "changes": {
+        "NEW": 16,
+        "MODIFIED": 147,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/ndis-commission",
+      "name": "Reports / Ndis Commission",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T17:54:41Z",
+      "tracked_pages": 0,
+      "registry": "ndis-commission/change-ledger.csv",
+      "latest": "ndis-commission/changes.html",
+      "changes": {
+        "NEW": 1,
+        "MODIFIED": 6,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/ndis-review",
+      "name": "Reports / Ndis Review",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T17:54:41Z",
+      "tracked_pages": 0,
+      "registry": "ndis-review/change-ledger.csv",
+      "latest": "ndis-review/changes.html",
+      "changes": {
+        "NEW": 116,
+        "MODIFIED": 174,
+        "REMOVED": 0
+      }
+    },
+    {
+      "id": "reports/vic-gov",
+      "name": "Reports / Vic Gov",
+      "status": "recorded changes",
+      "last_checked": "2026-09-17T17:54:41Z",
+      "tracked_pages": 0,
+      "registry": "vic-gov/change-ledger.csv",
+      "latest": "vic-gov/changes.html",
+      "changes": {
+        "NEW": 250,
+        "MODIFIED": 119,
+        "REMOVED": 0
+      }
+    }
+  ],
+  "issues": [
+    {
+      "project": "NDIS data and research",
+      "severity": "warning",
+      "message": "24 capture error(s); successful captures were retained.",
+      "href": "../archive/dataresearch/latest-run.json"
+    },
+    {
+      "project": "NDIS data and research",
+      "severity": "info",
+      "message": "26 resource(s) excluded by robots.txt.",
+      "href": "../archive/dataresearch/latest-run.json"
+    },
+    {
+      "project": "NDIS data and research",
+      "severity": "warning",
+      "message": "Tracker status is partial.",
+      "href": "../archive/dataresearch/latest-run.json"
+    },
+    {
+      "project": "Health.gov.au NDIS material",
+      "severity": "warning",
+      "message": "Tracker status is partial.",
+      "href": "../archive/reports/health/changes.html"
     }
   ]
 }

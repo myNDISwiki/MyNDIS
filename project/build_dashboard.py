@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import csv
+import html
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -42,6 +44,25 @@ def main() -> int:
     vic = load_json(REPORTS / "vic-gov" / "statistics.json")
     dataresearch = load_json(ROOT / "archive" / "dataresearch" / "manifest.json")
     dataresearch_run = load_json(ROOT / "archive" / "dataresearch" / "latest-run.json")
+    issues = []
+    if dataresearch_run.get("errors"):
+        issues.append(
+            {
+                "project": "NDIS data and research",
+                "severity": "warning",
+                "message": f"{len(dataresearch_run['errors'])} capture error(s); successful captures were retained.",
+                "href": "../archive/dataresearch/latest-run.json",
+            }
+        )
+    if dataresearch_run.get("robots_exclusions"):
+        issues.append(
+            {
+                "project": "NDIS data and research",
+                "severity": "info",
+                "message": f"{len(dataresearch_run['robots_exclusions'])} resource(s) excluded by robots.txt.",
+                "href": "../archive/dataresearch/latest-run.json",
+            }
+        )
     domains = [
         {
             "id": "dataresearch", "name": "NDIS data and research", "status": dataresearch.get("status", "not run"),
@@ -70,9 +91,117 @@ def main() -> int:
             "changes": {"NEW": vic.get("new", 0), "MODIFIED": vic.get("modified", 0), "REMOVED": vic.get("removed", 0)},
         },
     ]
-    payload = {"generated_at": generated, "domains": domains}
+    known_ids = {domain["id"] for domain in domains}
+    for ledger in sorted((ROOT / "archive").rglob("change-ledger.csv")):
+        project_id = ledger.parent.relative_to(ROOT / "archive").as_posix()
+        if project_id in known_ids:
+            continue
+        rows = list(csv.DictReader(ledger.open(newline="", encoding="utf-8")))
+        latest = max(
+            (row.get("checked_at") or row.get("timestamp") or "" for row in rows),
+            default=None,
+        )
+        changes = {"NEW": 0, "MODIFIED": 0, "REMOVED": 0}
+        for row in rows:
+            event = (row.get("event") or row.get("status") or "").upper()
+            if event in changes:
+                changes[event] += 1
+        domains.append(
+            {
+                "id": project_id,
+                "name": project_id.replace("-", " ").replace("/", " / ").title(),
+                "status": "recorded changes",
+                "last_checked": latest,
+                "tracked_pages": 0,
+                "registry": os.path.relpath(ledger, REPORTS),
+                "latest": os.path.relpath(ledger.parent / "changes.html", REPORTS),
+                "changes": changes,
+            }
+        )
+    for domain in domains:
+        if str(domain["status"]).lower() in {"partial", "failed", "failure", "error"}:
+            detail_href = (
+                "../archive/dataresearch/latest-run.json"
+                if domain["id"] == "dataresearch"
+                else f"../archive/reports/{domain['id']}/changes.html"
+            )
+            issues.append(
+                {
+                    "project": domain["name"],
+                    "severity": "warning",
+                    "message": f"Tracker status is {domain['status']}.",
+                    "href": detail_href,
+                }
+            )
+    payload = {"generated_at": generated, "domains": domains, "issues": issues}
     REPORTS.mkdir(parents=True, exist_ok=True)
     (REPORTS / "dashboard.json").write_text(json.dumps(payload, indent=2) + "\n", "utf-8")
+
+    cards = []
+    for domain in domains:
+        changes = domain["changes"]
+        history = {
+            "dataresearch": "../archive/dataresearch/changes.html",
+            "ndis": "../archive/ndis/changes.html",
+            "health": "../archive/reports/health/changes.html",
+            "vic-gov": "../archive/reports/vic-gov/changes.html",
+        }.get(domain["id"], f"../archive/reports/{domain['id']}/changes.html")
+        cards.append(
+            f"""<article class="card">
+  <h2>{html.escape(domain["name"])}</h2>
+  <p class="status">{html.escape(str(domain["status"]))}</p>
+  <dl>
+    <dt>Last checked</dt><dd>{html.escape(str(domain["last_checked"] or "—"))}</dd>
+    <dt>Tracked pages</dt><dd>{domain["tracked_pages"]}</dd>
+    <dt>Changes</dt><dd>New {changes["NEW"]} · Modified {changes["MODIFIED"]} · Removed {changes["REMOVED"]}</dd>
+  </dl>
+  <a class="button" href="{history}">View detailed changes</a>
+</article>"""
+        )
+    issue_items = "".join(
+        f'<li><strong>{html.escape(issue["project"])}</strong> '
+        f'<span class="severity {issue["severity"]}">{html.escape(issue["severity"])}</span> — '
+        f'{html.escape(issue["message"])} <a href="{html.escape(issue["href"], quote=True)}">View details</a></li>'
+        for issue in issues
+    ) or "<li>No known failures or attention items recorded.</li>"
+    (ROOT / "project" / "dashboard.html").write_text(
+        f"""<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyNDIS tracking dashboard</title>
+  <style>
+    :root {{ color-scheme: light; }}
+    body {{ font: 16px system-ui, sans-serif; max-width: 1100px; margin: 2rem auto; padding: 0 1rem; color: #202124; background: #f7f9fb; }}
+    h1 {{ margin-bottom: .25rem; }}
+    .meta {{ color: #5f6368; }}
+    .grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 1.5rem; }}
+    .card {{ background: white; border: 1px solid #d9e0e7; border-radius: .6rem; padding: 1rem; box-shadow: 0 1px 2px #0001; }}
+    .card h2 {{ margin-top: 0; font-size: 1.15rem; }}
+    .status {{ display: inline-block; padding: .2rem .55rem; border-radius: 999px; background: #e8f0fe; }}
+    dl {{ display: grid; grid-template-columns: max-content 1fr; gap: .4rem .8rem; }}
+    dt {{ color: #5f6368; }} dd {{ margin: 0; overflow-wrap: anywhere; }}
+    .button {{ display: inline-block; margin-top: .7rem; padding: .5rem .75rem; border-radius: .35rem; background: #1769aa; color: white; text-decoration: none; }}
+    .button:hover {{ background: #0d4f82; }}
+    .issues {{ background: #fff8e1; border: 1px solid #e6c65c; border-radius: .6rem; padding: 1rem 1rem 1rem 2.5rem; }}
+    .severity {{ border-radius: 999px; padding: .15rem .45rem; font-size: .8rem; text-transform: uppercase; }}
+    .severity.warning {{ background: #fce8e6; color: #a50e0e; }}
+    .severity.info {{ background: #e8f0fe; color: #174ea6; }}
+  </style>
+</head>
+<body>
+  <h1>MyNDIS tracking dashboard</h1>
+  <p class="meta">Generated: {html.escape(generated)} · <a href="changes.html">Overall change history</a></p>
+  <h2>Issues needing attention</h2>
+  <ul class="issues">{issue_items}</ul>
+  <h2>Trackers</h2>
+  <div class="grid">{"".join(cards)}</div>
+</body>
+</html>
+""",
+        encoding="utf-8",
+    )
 
     with (REPORTS / "README.md").open("w", encoding="utf-8") as f:
         f.write("# Tracking dashboard\n\n")
