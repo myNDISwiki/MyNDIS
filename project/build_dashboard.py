@@ -33,6 +33,9 @@ def ledger_latest(path: Path) -> dict[str, int]:
 
 
 def main() -> int:
+    # Keep each source folder locally browsable, alongside its raw ledger.
+    import build_change_pages
+    build_change_pages.main()
     generated = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     ndis = load_json(ROOT / "archive" / "ndis" / "manifest.json")
     health = load_json(ROOT / "archive" / "gov" / "health" / "ndis" / "manifest.json")
