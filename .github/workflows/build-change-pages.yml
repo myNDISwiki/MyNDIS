@@ -29,9 +29,11 @@ jobs:
           python-version: "3.12"
       - name: Build archive and project change pages
         run: python project/build_change_pages.py
+      - name: Build HTML tracking dashboard
+        run: python project/build_dashboard.py
       - name: Commit generated pages
         run: |
-          git add archive/**/changes.html project/changes.html project/site/changes.html
+          git add archive/**/changes.html project/changes.html project/site/changes.html project/dashboard.html archive/reports/dashboard.json archive/reports/README.md
           if git diff --cached --quiet; then
             echo "No change pages changed."
             exit 0

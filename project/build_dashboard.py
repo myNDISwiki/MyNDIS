@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import csv
+import html
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -70,6 +71,59 @@ def main() -> int:
     payload = {"generated_at": generated, "domains": domains}
     REPORTS.mkdir(parents=True, exist_ok=True)
     (REPORTS / "dashboard.json").write_text(json.dumps(payload, indent=2) + "\n", "utf-8")
+
+    cards = []
+    for domain in domains:
+        changes = domain["changes"]
+        history = {
+            "dataresearch": "../dataresearch/changes.html",
+            "ndis": "../ndis/changes.html",
+            "health": "../reports/health/changes.html",
+            "vic-gov": "../reports/vic-gov/changes.html",
+        }.get(domain["id"], f"../reports/{domain['id']}/changes.html")
+        cards.append(
+            f"""<article class="card">
+  <h2>{html.escape(domain["name"])}</h2>
+  <p class="status">{html.escape(str(domain["status"]))}</p>
+  <dl>
+    <dt>Last checked</dt><dd>{html.escape(str(domain["last_checked"] or "—"))}</dd>
+    <dt>Tracked pages</dt><dd>{domain["tracked_pages"]}</dd>
+    <dt>Changes</dt><dd>New {changes["NEW"]} · Modified {changes["MODIFIED"]} · Removed {changes["REMOVED"]}</dd>
+  </dl>
+  <a class="button" href="{history}">View detailed changes</a>
+</article>"""
+        )
+    (ROOT / "project" / "dashboard.html").write_text(
+        f"""<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyNDIS tracking dashboard</title>
+  <style>
+    :root {{ color-scheme: light; }}
+    body {{ font: 16px system-ui, sans-serif; max-width: 1100px; margin: 2rem auto; padding: 0 1rem; color: #202124; background: #f7f9fb; }}
+    h1 {{ margin-bottom: .25rem; }}
+    .meta {{ color: #5f6368; }}
+    .grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-top: 1.5rem; }}
+    .card {{ background: white; border: 1px solid #d9e0e7; border-radius: .6rem; padding: 1rem; box-shadow: 0 1px 2px #0001; }}
+    .card h2 {{ margin-top: 0; font-size: 1.15rem; }}
+    .status {{ display: inline-block; padding: .2rem .55rem; border-radius: 999px; background: #e8f0fe; }}
+    dl {{ display: grid; grid-template-columns: max-content 1fr; gap: .4rem .8rem; }}
+    dt {{ color: #5f6368; }} dd {{ margin: 0; overflow-wrap: anywhere; }}
+    .button {{ display: inline-block; margin-top: .7rem; padding: .5rem .75rem; border-radius: .35rem; background: #1769aa; color: white; text-decoration: none; }}
+    .button:hover {{ background: #0d4f82; }}
+  </style>
+</head>
+<body>
+  <h1>MyNDIS tracking dashboard</h1>
+  <p class="meta">Generated: {html.escape(generated)} · <a href="changes.html">Overall change history</a></p>
+  <div class="grid">{"".join(cards)}</div>
+</body>
+</html>
+""",
+        encoding="utf-8",
+    )
 
     with (REPORTS / "README.md").open("w", encoding="utf-8") as f:
         f.write("# Tracking dashboard\n\n")
