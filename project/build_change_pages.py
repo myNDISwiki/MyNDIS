@@ -10,10 +10,27 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+MAX_INLINE_DETAIL = 20000
 
 
 def esc(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
+
+
+def detail_for_row(ledger: Path, row: dict[str, str], manifest: dict) -> str:
+    entry = manifest.get(row.get("url", ""), {})
+    detail_path = row.get("page_changelog", "")
+    if not detail_path and entry.get("directory"):
+        detail_path = f"{entry['directory']}/changelog.md"
+    if not detail_path:
+        return ""
+    detail = ROOT / detail_path if detail_path.startswith("archive/") else ledger.parent / detail_path
+    if not detail.exists():
+        return ""
+    content = detail.read_text(encoding="utf-8", errors="replace")
+    if len(content) > MAX_INLINE_DETAIL:
+        content = content[:MAX_INLINE_DETAIL] + "\n\n[Inline display truncated; open the full changelog.]"
+    return content
 
 
 def page_for(ledger: Path) -> None:
@@ -42,20 +59,24 @@ def page_for(ledger: Path) -> None:
         cells = []
         for field in headers:
             if field == "recorded_change":
-                entry = manifest.get(row.get("url", ""), {})
-                detail_path = row.get("page_changelog", "")
-                if not detail_path and entry.get("directory"):
-                    detail_path = f"{entry['directory']}/changelog.md"
-                if detail_path:
-                    detail = ROOT / detail_path if detail_path.startswith("archive/") else ledger.parent / detail_path
-                else:
-                    detail = None
-                if detail and detail.exists():
-                    href = os.path.relpath(detail, ledger.parent)
+                detail = detail_for_row(ledger, row, manifest)
+                if detail:
+                    entry = manifest.get(row.get("url", ""), {})
+                    detail_path = row.get("page_changelog", "") or (
+                        f"{entry['directory']}/changelog.md" if entry.get("directory") else ""
+                    )
+                    href = os.path.relpath(
+                        ROOT / detail_path if detail_path.startswith("archive/") else ledger.parent / detail_path,
+                        ledger.parent,
+                    )
                     additions = row.get("additions") or ""
                     removals = row.get("removals") or ""
-                    summary = f"{additions} lines added, {removals} lines removed" if additions or removals else "Open the resource history for the recorded change"
-                    value = f'{esc(summary)} · <a href="{esc(href)}">open changelog</a>'
+                    label = f"{additions} lines added, {removals} lines removed" if additions or removals else "Show recorded change"
+                    value = (
+                        f'<details><summary>{esc(label)}</summary>'
+                        f'<pre class="detail">{esc(detail)}</pre>'
+                        f'<p><a href="{esc(href)}">Open full changelog</a></p></details>'
+                    )
                 else:
                     value = "No per-resource history recorded"
                 cells.append(f"<td>{value}</td>")
@@ -80,7 +101,7 @@ def page_for(ledger: Path) -> None:
     generated = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     table_head = "".join(f"<th>{esc(field.replace('_', ' ').title())}</th>" for field in headers)
     out = f'''<!doctype html><meta charset="utf-8"><title>Changes — {esc(label)}</title>
-<style>body{{font:16px system-ui,sans-serif;max-width:1500px;margin:2rem auto;padding:0 1rem;color:#202124}} table{{border-collapse:collapse;width:100%;font-size:.9rem}} th,td{{border:1px solid #ccd;padding:.55rem;text-align:left;vertical-align:top}} th{{background:#eef2f5;position:sticky;top:0}} tr:nth-child(even){{background:#fafafa}} input{{font:inherit;padding:.6rem;width:min(32rem,100%)}} .meta{{color:#5f6368}} a{{overflow-wrap:anywhere}}</style>
+<style>body{{font:16px system-ui,sans-serif;max-width:1500px;margin:2rem auto;padding:0 1rem;color:#202124}} table{{border-collapse:collapse;width:100%;font-size:.9rem}} th,td{{border:1px solid #ccd;padding:.55rem;text-align:left;vertical-align:top}} th{{background:#eef2f5;position:sticky;top:0}} tr:nth-child(even){{background:#fafafa}} input{{font:inherit;padding:.6rem;width:min(32rem,100%)}} .meta{{color:#5f6368}} a{{overflow-wrap:anywhere}} .detail{{max-height:32rem;overflow:auto;white-space:pre-wrap;background:#f6f8fa;padding:1rem}}</style>
 <h1>Change history</h1><p class="meta">Archive folder: <code>{esc(label)}</code><br>Generated: {esc(generated)}<br>{summary}</p>
 <p>This is a readable view of <a href="{esc(ledger.name)}">{esc(ledger.name)}</a>. The ledger and archived source files remain the evidence record.</p>
 <label>Filter events <input id="filter" type="search" placeholder="type to filter this history"></label>
