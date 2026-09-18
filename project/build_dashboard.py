@@ -41,6 +41,25 @@ def main() -> int:
     vic = load_json(REPORTS / "vic-gov" / "statistics.json")
     dataresearch = load_json(ROOT / "archive" / "dataresearch" / "manifest.json")
     dataresearch_run = load_json(ROOT / "archive" / "dataresearch" / "latest-run.json")
+    issues = []
+    if dataresearch_run.get("errors"):
+        issues.append(
+            {
+                "project": "NDIS data and research",
+                "severity": "warning",
+                "message": f"{len(dataresearch_run['errors'])} capture error(s); successful captures were retained.",
+                "href": "../archive/dataresearch/latest-run.json",
+            }
+        )
+    if dataresearch_run.get("robots_exclusions"):
+        issues.append(
+            {
+                "project": "NDIS data and research",
+                "severity": "info",
+                "message": f"{len(dataresearch_run['robots_exclusions'])} resource(s) excluded by robots.txt.",
+                "href": "../archive/dataresearch/latest-run.json",
+            }
+        )
     domains = [
         {
             "id": "dataresearch", "name": "NDIS data and research", "status": dataresearch.get("status", "not run"),
@@ -96,7 +115,22 @@ def main() -> int:
                 "changes": changes,
             }
         )
-    payload = {"generated_at": generated, "domains": domains}
+    for domain in domains:
+        if str(domain["status"]).lower() in {"partial", "failed", "failure", "error"}:
+            detail_href = (
+                "../archive/dataresearch/latest-run.json"
+                if domain["id"] == "dataresearch"
+                else f"../archive/reports/{domain['id']}/changes.html"
+            )
+            issues.append(
+                {
+                    "project": domain["name"],
+                    "severity": "warning",
+                    "message": f"Tracker status is {domain['status']}.",
+                    "href": detail_href,
+                }
+            )
+    payload = {"generated_at": generated, "domains": domains, "issues": issues}
     REPORTS.mkdir(parents=True, exist_ok=True)
     (REPORTS / "dashboard.json").write_text(json.dumps(payload, indent=2) + "\n", "utf-8")
 
@@ -104,11 +138,11 @@ def main() -> int:
     for domain in domains:
         changes = domain["changes"]
         history = {
-            "dataresearch": "../dataresearch/changes.html",
-            "ndis": "../ndis/changes.html",
-            "health": "../reports/health/changes.html",
-            "vic-gov": "../reports/vic-gov/changes.html",
-        }.get(domain["id"], f"../reports/{domain['id']}/changes.html")
+            "dataresearch": "../archive/dataresearch/changes.html",
+            "ndis": "../archive/ndis/changes.html",
+            "health": "../archive/reports/health/changes.html",
+            "vic-gov": "../archive/reports/vic-gov/changes.html",
+        }.get(domain["id"], f"../archive/reports/{domain['id']}/changes.html")
         cards.append(
             f"""<article class="card">
   <h2>{html.escape(domain["name"])}</h2>
@@ -121,6 +155,12 @@ def main() -> int:
   <a class="button" href="{history}">View detailed changes</a>
 </article>"""
         )
+    issue_items = "".join(
+        f'<li><strong>{html.escape(issue["project"])}</strong> '
+        f'<span class="severity {issue["severity"]}">{html.escape(issue["severity"])}</span> — '
+        f'{html.escape(issue["message"])} <a href="{html.escape(issue["href"], quote=True)}">View details</a></li>'
+        for issue in issues
+    ) or "<li>No known failures or attention items recorded.</li>"
     (ROOT / "project" / "dashboard.html").write_text(
         f"""<!doctype html>
 <html lang="en-AU">
@@ -141,11 +181,18 @@ def main() -> int:
     dt {{ color: #5f6368; }} dd {{ margin: 0; overflow-wrap: anywhere; }}
     .button {{ display: inline-block; margin-top: .7rem; padding: .5rem .75rem; border-radius: .35rem; background: #1769aa; color: white; text-decoration: none; }}
     .button:hover {{ background: #0d4f82; }}
+    .issues {{ background: #fff8e1; border: 1px solid #e6c65c; border-radius: .6rem; padding: 1rem 1rem 1rem 2.5rem; }}
+    .severity {{ border-radius: 999px; padding: .15rem .45rem; font-size: .8rem; text-transform: uppercase; }}
+    .severity.warning {{ background: #fce8e6; color: #a50e0e; }}
+    .severity.info {{ background: #e8f0fe; color: #174ea6; }}
   </style>
 </head>
 <body>
   <h1>MyNDIS tracking dashboard</h1>
   <p class="meta">Generated: {html.escape(generated)} · <a href="changes.html">Overall change history</a></p>
+  <h2>Issues needing attention</h2>
+  <ul class="issues">{issue_items}</ul>
+  <h2>Trackers</h2>
   <div class="grid">{"".join(cards)}</div>
 </body>
 </html>

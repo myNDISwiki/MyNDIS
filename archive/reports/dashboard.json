@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:28:50Z",
+  "generated_at": "2026-09-18T12:30:21Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -168,6 +168,32 @@
         "MODIFIED": 119,
         "REMOVED": 0
       }
+    }
+  ],
+  "issues": [
+    {
+      "project": "NDIS data and research",
+      "severity": "warning",
+      "message": "24 capture error(s); successful captures were retained.",
+      "href": "../archive/dataresearch/latest-run.json"
+    },
+    {
+      "project": "NDIS data and research",
+      "severity": "info",
+      "message": "26 resource(s) excluded by robots.txt.",
+      "href": "../archive/dataresearch/latest-run.json"
+    },
+    {
+      "project": "NDIS data and research",
+      "severity": "warning",
+      "message": "Tracker status is partial.",
+      "href": "../archive/dataresearch/latest-run.json"
+    },
+    {
+      "project": "Health.gov.au NDIS material",
+      "severity": "warning",
+      "message": "Tracker status is partial.",
+      "href": "../archive/reports/health/changes.html"
     }
   ]
 }

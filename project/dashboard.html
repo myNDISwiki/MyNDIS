@@ -17,11 +17,18 @@
     dt { color: #5f6368; } dd { margin: 0; overflow-wrap: anywhere; }
     .button { display: inline-block; margin-top: .7rem; padding: .5rem .75rem; border-radius: .35rem; background: #1769aa; color: white; text-decoration: none; }
     .button:hover { background: #0d4f82; }
+    .issues { background: #fff8e1; border: 1px solid #e6c65c; border-radius: .6rem; padding: 1rem 1rem 1rem 2.5rem; }
+    .severity { border-radius: 999px; padding: .15rem .45rem; font-size: .8rem; text-transform: uppercase; }
+    .severity.warning { background: #fce8e6; color: #a50e0e; }
+    .severity.info { background: #e8f0fe; color: #174ea6; }
   </style>
 </head>
 <body>
   <h1>MyNDIS tracking dashboard</h1>
-  <p class="meta">Generated: 2026-09-18T12:28:50Z · <a href="changes.html">Overall change history</a></p>
+  <p class="meta">Generated: 2026-09-18T12:30:21Z · <a href="changes.html">Overall change history</a></p>
+  <h2>Issues needing attention</h2>
+  <ul class="issues"><li><strong>NDIS data and research</strong> <span class="severity warning">warning</span> — 24 capture error(s); successful captures were retained. <a href="../archive/dataresearch/latest-run.json">View details</a></li><li><strong>NDIS data and research</strong> <span class="severity info">info</span> — 26 resource(s) excluded by robots.txt. <a href="../archive/dataresearch/latest-run.json">View details</a></li><li><strong>NDIS data and research</strong> <span class="severity warning">warning</span> — Tracker status is partial. <a href="../archive/dataresearch/latest-run.json">View details</a></li><li><strong>Health.gov.au NDIS material</strong> <span class="severity warning">warning</span> — Tracker status is partial. <a href="../archive/reports/health/changes.html">View details</a></li></ul>
+  <h2>Trackers</h2>
   <div class="grid"><article class="card">
   <h2>NDIS data and research</h2>
   <p class="status">partial</p>
@@ -30,7 +37,7 @@
     <dt>Tracked pages</dt><dd>128</dd>
     <dt>Changes</dt><dd>New 1 · Modified 251 · Removed 0</dd>
   </dl>
-  <a class="button" href="../dataresearch/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/dataresearch/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>NDIS website</h2>
   <p class="status">active</p>
@@ -39,7 +46,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 0 · Modified 0 · Removed 0</dd>
   </dl>
-  <a class="button" href="../ndis/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/ndis/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Health.gov.au NDIS material</h2>
   <p class="status">partial</p>
@@ -48,7 +55,7 @@
     <dt>Tracked pages</dt><dd>77</dd>
     <dt>Changes</dt><dd>New 0 · Modified 6 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/health/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/health/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Victorian Government reforms</h2>
   <p class="status">complete</p>
@@ -57,7 +64,7 @@
     <dt>Tracked pages</dt><dd>250</dd>
     <dt>Changes</dt><dd>New 0 · Modified 0 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/vic-gov/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/vic-gov/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / .Gitkeep</h2>
   <p class="status">recorded changes</p>
@@ -66,7 +73,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 1 · Modified 0 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/.gitkeep/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/.gitkeep/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Aph</h2>
   <p class="status">recorded changes</p>
@@ -75,7 +82,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 3 · Modified 42 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/aph/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/aph/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Engage Ndis</h2>
   <p class="status">recorded changes</p>
@@ -84,7 +91,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 6 · Modified 66 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/engage-ndis/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/engage-ndis/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Health</h2>
   <p class="status">recorded changes</p>
@@ -93,7 +100,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 80 · Modified 104 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/health/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/health/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Ndia</h2>
   <p class="status">recorded changes</p>
@@ -102,7 +109,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 16 · Modified 147 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/ndia/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/ndia/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Ndis Commission</h2>
   <p class="status">recorded changes</p>
@@ -111,7 +118,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 1 · Modified 6 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/ndis-commission/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/ndis-commission/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Ndis Review</h2>
   <p class="status">recorded changes</p>
@@ -120,7 +127,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 116 · Modified 174 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/ndis-review/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/ndis-review/changes.html">View detailed changes</a>
 </article><article class="card">
   <h2>Reports / Vic Gov</h2>
   <p class="status">recorded changes</p>
@@ -129,7 +136,7 @@
     <dt>Tracked pages</dt><dd>0</dd>
     <dt>Changes</dt><dd>New 250 · Modified 119 · Removed 0</dd>
   </dl>
-  <a class="button" href="../reports/reports/vic-gov/changes.html">View detailed changes</a>
+  <a class="button" href="../archive/reports/reports/vic-gov/changes.html">View detailed changes</a>
 </article></div>
 </body>
 </html>
