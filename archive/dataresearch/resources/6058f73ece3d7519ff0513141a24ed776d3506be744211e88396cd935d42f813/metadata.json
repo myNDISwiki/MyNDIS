@@ -1,5 +1,5 @@
 {
-  "bytes": 10751,
+  "bytes": 10752,
   "content_type": "application/pdf",
   "directory": "resources/6058f73ece3d7519ff0513141a24ed776d3506be744211e88396cd935d42f813",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4046",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-17T19:27:36Z",
+  "last_changed": "2026-09-24T15:10:44Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Selfmanagement research.pdf\""
   },
-  "sha256": "b2b07ba3e346c9c4479ed6ac338eb98ad7f6b182521a3115b38472cb4c4c8c93",
+  "sha256": "055961d858aad4a79641a5750651a5baa2d891a4434f06dea4a46fe1a7ddfad8",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4046"
 }

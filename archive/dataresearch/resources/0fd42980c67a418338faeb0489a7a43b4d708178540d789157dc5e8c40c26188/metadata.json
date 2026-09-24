@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4023",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-17T19:27:36Z",
+  "last_changed": "2026-09-24T15:10:44Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Cognitive behaviour therapy.pdf\""
   },
-  "sha256": "e3f3575b23974eba4a41f3a986a90426fdbc5dc22a12a9987ec4f3fcec6b951b",
+  "sha256": "d018c41c17f443d09ef9cd69104763f536ce6df5177b48971a5ed91ad31c72e6",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4023"
 }

@@ -53,3 +53,21 @@ No visible wording change; HTML bytes changed.
 SHA-256: `fa3180d1c68aac5dc3bdc606178dd66e6359cd5f815560a48bbd4e64d3f149c1`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-09-24T15:10:44Z — changed
+
+SHA-256: `dbb317e77ac9f6ab878cf6f82f6b8e9f58bbc80611797f9a8253f9c933a163e8`
+
+```diff
+--- before
++++ after
+@@ -119,7 +119,7 @@
+ Assistance dogs for people with autism
+ Evidence that helps us improve the NDIS
+ Expand or collapse sub-menu for Evidence that helps us improve the NDIS
+-NDIS Reform Evaluation
++Evaluation of NDIS supports lists and shorter funding periods
+ Examining the links between disability support, risk and release from custody: Desktop review summary
+ Measure of wellbeing for people with disability
+ Support coordination and LAC models to best implement plans
+```

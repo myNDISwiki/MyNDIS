@@ -1,5 +1,5 @@
 {
-  "bytes": 65311,
+  "bytes": 65386,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/06f43758274873c1e657fe4a7d0f642a1b31955b3c538610848f3ede81246ebb",
   "embeds": [
@@ -12,7 +12,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research/interventions-support-economic-participation-and-employment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-17T19:27:36Z",
+  "last_changed": "2026-09-24T15:10:44Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Femployment-research%2Finterventions-support-economic-participation-and-employment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -93,11 +93,11 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/outcome-measurement-tools-evaluation",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis",
+    "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/examining-links-between-disability-support-risk-and-release-custody-desktop-review-summary",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/impact-covid-19-ndis-allied-healthcare-services-and-consumer-experiences-transitioning-telehealth",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/independent-expert-review-ier-evaluation-report",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/measure-wellbeing-people-disability",
-    "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/ndis-reform-evaluation",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/support-coordination-and-lac-models-best-implement-plans",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/environmental-scan-specialist-disability-accommodation",
@@ -151,9 +151,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 17 Sep 2026 06:56:20 GMT"
+    "Last-Modified": "Wed, 23 Sep 2026 07:01:15 GMT"
   },
-  "sha256": "e7c7d114ab01dc8abedf29de4f19c2244b96ff27315adf9b6b760adcd842c2f7",
+  "sha256": "8316a91180eec0e53a7e1e3eb80d2f1859ad4d81bda0d02ba48171bc0fcdd195",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research/interventions-support-economic-participation-and-employment"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 78932,
+  "bytes": 78933,
   "content_type": "application/pdf",
   "directory": "resources/21275fdf09014c5a8c1d3b59ea3cf6377e92fc4119830c51bd2129ad4f3df404",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3699",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-17T19:27:36Z",
+  "last_changed": "2026-09-24T15:10:44Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  NSW.pdf\""
   },
-  "sha256": "0fa1150547400aeb42cb7521f8f2d082863467241456e23115be8e9d41dd0d8f",
+  "sha256": "5fbbbf0edbd27b484325b4268df5fc17d689bfdba00540802359e58d09f5d204",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3699"
 }

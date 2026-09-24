@@ -1,5 +1,5 @@
 {
-  "bytes": 56304,
+  "bytes": 56379,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/09eaaff5b186a57ad5802c0f4210e4cafc7e1fe900c2cfb7839153a078f01780",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-17T19:27:36Z",
+  "last_changed": "2026-09-24T15:10:44Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-action",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -90,11 +90,11 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/outcome-measurement-tools-evaluation",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis",
+    "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/examining-links-between-disability-support-risk-and-release-custody-desktop-review-summary",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/impact-covid-19-ndis-allied-healthcare-services-and-consumer-experiences-transitioning-telehealth",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/independent-expert-review-ier-evaluation-report",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/measure-wellbeing-people-disability",
-    "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/ndis-reform-evaluation",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/support-coordination-and-lac-models-best-implement-plans",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/environmental-scan-specialist-disability-accommodation",
@@ -144,9 +144,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 17 Sep 2026 05:02:58 GMT"
+    "Last-Modified": "Wed, 23 Sep 2026 02:48:20 GMT"
   },
-  "sha256": "e2bff262b17177356d2dd19392c19ad824bd4b29bb92220fea1ef1865d72e125",
+  "sha256": "cc8009991c6caade6e960d743c9381e665679c10b72d18cdb96687c7a058d9d4",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action"
 }

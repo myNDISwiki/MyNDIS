@@ -53,3 +53,21 @@ No visible wording change; HTML bytes changed.
 SHA-256: `f1f5c31017feb75c8f17297a4b32855ca67419123a0521e20112d36693e5c869`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-09-24T15:10:44Z — changed
+
+SHA-256: `7de840b0b50e23000d0e7ead284c2993412735c56108684c8cc9ce1b79d6aee7`
+
+```diff
+--- before
++++ after
+@@ -173,7 +173,7 @@
+ Exploring participant experiences: Achieving a sense of purpose
+ Assistance dogs for people with autism
+ Evidence that helps us improve the NDIS
+-NDIS Reform Evaluation
++Evaluation of NDIS supports lists and shorter funding periods
+ Examining the links between disability support, risk and release from custody: Desktop review summary
+ Measure of wellbeing for people with disability
+ Support coordination and LAC models to best implement plans
+```

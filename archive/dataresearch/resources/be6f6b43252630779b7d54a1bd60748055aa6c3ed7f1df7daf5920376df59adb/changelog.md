@@ -103,3 +103,30 @@ SHA-256: `82fd34b92b126ea7704696dd7fa5f9ba7cc0371eefb66cf70bbab049d85e9be4`
  Social Menu
  Facebook
 ```
+
+## 2026-09-24T15:10:44Z — changed
+
+SHA-256: `fbcce630c9cac307668c5f3c6a15542a18cc94a63cd11eb056cc055af1098824`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,8 @@
+ Save page as PDF
+ Page title
+ Updated
++Evaluation of NDIS supports lists and shorter funding periods
++23 September 2026
+ Quarterly report supplements
+ 17 September 2026
+ Specialist Disability Accommodation (SDA) Data
+@@ -79,8 +81,6 @@
+ Other Physical
+ 31 August 2026
+ Visual impairment
+-31 August 2026
+-Stroke
+ 31 August 2026
+ Social Menu
+ Facebook
+```
