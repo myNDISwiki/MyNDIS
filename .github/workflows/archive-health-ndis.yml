@@ -46,7 +46,8 @@ jobs:
       - name: Commit Health NDIS archive changes
         shell: bash
         run: |
-          git add archive/gov/health/ndis archive/reports
+          # Dashboard generation also updates change pages across the archive.
+          git add -A -- archive project/dashboard.html project/changes.html project/site/changes.html
           if git diff --cached --quiet; then
             echo "No Health NDIS changes detected."
             exit 0

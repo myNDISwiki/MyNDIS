@@ -52,7 +52,8 @@ jobs:
       - name: Commit archive changes
         shell: bash
         run: |
-          git add archive/ndis archive/reports
+          # Dashboard generation also updates change pages across the archive.
+          git add -A -- archive project/dashboard.html project/changes.html project/site/changes.html
           if git diff --cached --quiet; then
             echo "No NDIS website changes detected."
             exit 0

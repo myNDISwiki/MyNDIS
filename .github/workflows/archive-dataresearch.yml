@@ -37,7 +37,8 @@ jobs:
       - name: Preserve captures and run reports
         if: always()
         run: |
-          git add archive/dataresearch archive/reports
+          # Dashboard generation also updates change pages across the archive.
+          git add -A -- archive project/dashboard.html project/changes.html project/site/changes.html
           if ! git diff --cached --quiet; then
             git config user.name 'MyNDIS Archive Bot'
             git config user.email 'myndiswiki@users.noreply.github.com'
