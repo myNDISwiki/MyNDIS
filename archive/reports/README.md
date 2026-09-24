@@ -1,6 +1,6 @@
 # Tracking dashboard
 
-Generated: 2026-09-24T16:21:59Z
+Generated: 2026-09-24T16:25:34Z
 
 | Tracker | Status | Last checked | Pages | New | Modified | Removed | Registry | Latest |
 |---|---:|---:|---:|---:|---:|---:|---|---|
@@ -9,10 +9,10 @@ Generated: 2026-09-24T16:21:59Z
 | Health.gov.au NDIS material | partial | 2026-09-24T14:57:00Z | 77 | 0 | 6 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
 | Victorian Government reforms | complete | 2026-09-24T16:04:27Z | 250 | 0 | 0 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
 | Reports / .Gitkeep | recorded changes | 2026-09-04T09:54:31Z | 0 | 1 | 0 | 0 | [open](.gitkeep/change-ledger.csv) | [open](.gitkeep/changes.html) |
-| Reports / Aph | recorded changes | 2026-09-17T17:54:41Z | 0 | 3 | 42 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
-| Reports / Engage Ndis | recorded changes | 2026-09-17T17:54:41Z | 0 | 6 | 66 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
+| Reports / Aph | recorded changes | 2026-09-24T16:25:33Z | 0 | 3 | 45 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
+| Reports / Engage Ndis | recorded changes | 2026-09-24T16:25:33Z | 0 | 6 | 72 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
 | Reports / Health | recorded changes | 2026-09-24T15:09:40Z | 0 | 80 | 116 | 0 | [open](health/change-ledger.csv) | [open](health/changes.html) |
-| Reports / Ndia | recorded changes | 2026-09-17T17:54:41Z | 0 | 16 | 147 | 0 | [open](ndia/change-ledger.csv) | [open](ndia/changes.html) |
+| Reports / Ndia | recorded changes | 2026-09-24T16:25:33Z | 0 | 16 | 159 | 0 | [open](ndia/change-ledger.csv) | [open](ndia/changes.html) |
 | Reports / Ndis Commission | recorded changes | 2026-09-24T11:25:37Z | 0 | 1 | 7 | 0 | [open](ndis-commission/change-ledger.csv) | [open](ndis-commission/changes.html) |
 | Reports / Ndis Review | recorded changes | 2026-09-24T11:25:37Z | 0 | 116 | 203 | 0 | [open](ndis-review/change-ledger.csv) | [open](ndis-review/changes.html) |
 | Reports / Vic Gov | recorded changes | 2026-09-24T15:09:40Z | 0 | 250 | 369 | 0 | [open](vic-gov/change-ledger.csv) | [open](vic-gov/changes.html) |
