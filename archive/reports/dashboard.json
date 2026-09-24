@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:33:08Z",
+  "generated_at": "2026-09-24T20:50:01Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -75,13 +75,13 @@
       "id": "reports/aph",
       "name": "Reports / Aph",
       "status": "recorded changes",
-      "last_checked": "2026-09-24T16:25:33Z",
+      "last_checked": "2026-09-24T20:50:00Z",
       "tracked_pages": 0,
       "registry": "aph/change-ledger.csv",
       "latest": "aph/changes.html",
       "changes": {
         "NEW": 3,
-        "MODIFIED": 45,
+        "MODIFIED": 48,
         "REMOVED": 0
       }
     },
@@ -89,13 +89,13 @@
       "id": "reports/engage-ndis",
       "name": "Reports / Engage Ndis",
       "status": "recorded changes",
-      "last_checked": "2026-09-24T16:25:33Z",
+      "last_checked": "2026-09-24T20:50:00Z",
       "tracked_pages": 0,
       "registry": "engage-ndis/change-ledger.csv",
       "latest": "engage-ndis/changes.html",
       "changes": {
         "NEW": 6,
-        "MODIFIED": 72,
+        "MODIFIED": 78,
         "REMOVED": 0
       }
     },
@@ -117,13 +117,13 @@
       "id": "reports/ndia",
       "name": "Reports / Ndia",
       "status": "recorded changes",
-      "last_checked": "2026-09-24T16:25:33Z",
+      "last_checked": "2026-09-24T20:50:00Z",
       "tracked_pages": 0,
       "registry": "ndia/change-ledger.csv",
       "latest": "ndia/changes.html",
       "changes": {
         "NEW": 16,
-        "MODIFIED": 159,
+        "MODIFIED": 168,
         "REMOVED": 0
       }
     },
