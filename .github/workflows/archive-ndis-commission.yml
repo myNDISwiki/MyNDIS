@@ -11,6 +11,7 @@ permissions:
 
 concurrency:
   group: archive-writers
+  queue: max
   cancel-in-progress: false
 
 jobs:

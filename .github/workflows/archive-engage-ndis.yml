@@ -8,6 +8,7 @@ permissions:
   contents: write
 concurrency:
   group: archive-writers
+  queue: max
   cancel-in-progress: false
 jobs:
   archive:
