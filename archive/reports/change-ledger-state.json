@@ -45,7 +45,7 @@
   },
   "archive/gov/health/ndis/changelog.md": {
     "domain": "health",
-    "sha256": "8f8c4773596b3fa790396fedc9fe6610a3914f222faba44936eee57e81a6831d"
+    "sha256": "f2c0e3a1e09ca5b165150bf20b7c3252d7ada332e4d4378e02ea652476b8b87b"
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/consult_view/current.html": {
     "domain": "health",
@@ -89,7 +89,7 @@
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consult_view/current.html": {
     "domain": "health",
-    "sha256": "1696bbc0f49cbdc99f8d754201978e055928ed035bd5855669d0bbc54848e986"
+    "sha256": "1e0ac7e0f13775a978051ecbad5c2e269bb24b1c3a28e69101d0a15fb902b716"
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consultation/current.html": {
     "domain": "health",
@@ -101,7 +101,7 @@
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/current.html": {
     "domain": "health",
-    "sha256": "3acbc3ae7d198b4057f1a68cd530c33712abf41f45ad137efac57eef6a846d1d"
+    "sha256": "d0598d5bd5ae3e50e921831a589db66f67f93d561411f60f0ae1083b3b01c50b"
   },
   "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/user_uploads/consultation-paper---ndis-supports_final.docx": {
     "domain": "health",
@@ -229,11 +229,11 @@
   },
   "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consult_view/current.html": {
     "domain": "health",
-    "sha256": "c24615cc0b2f30f584b658d54dafcfbbdf036ac4e0b8f30b2ddb236e9ba0b193"
+    "sha256": "09589ba3261bc212338f6170132bcc54a6618ad8e20a71b0d9315b845414bcc5"
   },
   "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/current.html": {
     "domain": "health",
-    "sha256": "6440619330d7526c84b65ab59a5ca3f72fb68e024b844cdfbfb17be282bf797d"
+    "sha256": "b485b21d231363a8f73cfeaec1dd1047a5f8f57853a86d518aa5d3721f33d839"
   },
   "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf": {
     "domain": "health",
@@ -357,7 +357,7 @@
   },
   "archive/gov/health/ndis/manifest.json": {
     "domain": "health",
-    "sha256": "9134f6bd5a849a6fbb673eb1001c9d6cbebfa3e4a46ce9a6ba3cfc251ad40e93"
+    "sha256": "455e9d841aff6446d0fad8c531d0cf760d9d9b9f5a732099e520105d8e0f218b"
   },
   "archive/gov/ndia/README.md": {
     "domain": "ndia",
@@ -893,1002 +893,1002 @@
   },
   "archive/gov/vic-gov/pages/STEM-in-early-childhood/current.html": {
     "domain": "vic-gov",
-    "sha256": "20a9965900200c24f95889958ab38651ec74906b7fdd0b90ee2eaaa3769d947e"
+    "sha256": "6dc3329186868758a785e520a9392d581c704085513fd68a83d3a5f6f051dcf6"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/acknowledgement-country/current.html": {
     "domain": "vic-gov",
-    "sha256": "d2fe979347d70ecafa96cc8259a134dd3d1638dcc1ab3644e33fd93758bc6aec"
+    "sha256": "45d8585fb180d7ee636dc7e306c46662ea8fdc9790aa04aaa6244678d850a1b6"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-early/current.html": {
     "domain": "vic-gov",
-    "sha256": "6b0d620105ffdbb180207695b11496ba009fc66adfc22f98e5e1e8d14167fdf7"
+    "sha256": "15a561eab07267304b27540bf3d28f84f22c30f7841a235612425dfe3ec2ba2f"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform/current.html": {
     "domain": "vic-gov",
-    "sha256": "eea675dd8aefbba3767a0751d8850087aa53b61b925d9ce9a253e64863862f77"
+    "sha256": "a396eb323376ae2bedabb9ace156f47ece03d86fe06595c4620912419da70dc6"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life/current.html": {
     "domain": "vic-gov",
-    "sha256": "9beeea409227b93e739936501c61d16de57e25749b8fde2d6686f19efe592dbe"
+    "sha256": "48ef7a74dea4acf9b6c5b583244884ba8d8d9f9592049e670d8398e4a2b26bea"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/current.html": {
     "domain": "vic-gov",
-    "sha256": "66cfbad7a9a6232a535a4742ff7b7168f20f3c00a9451515f30ebc834bc78a2a"
+    "sha256": "0bda8be1b2b57a2bb62243baa2d1507fbe64f8d2ae0bc20e1f252a3b6475e9a0"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/ministers-message/current.html": {
     "domain": "vic-gov",
-    "sha256": "72031b3a9b7240c81bba964d51e330f20a559c6a27c9725e265d174e651240a9"
+    "sha256": "337b1b38daa7417ef524a1417367a5b04285b1075ef510124ac9716955bb4c57"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/next-steps/current.html": {
     "domain": "vic-gov",
-    "sha256": "47920ff0751f37aed21bbb5ef2e604c6502e5653db0cafabadb38bb77a248f59"
+    "sha256": "8156fdc36ccf8b930a65c74178c9ddca7721f43e0ecdf28d735a1eae7840edea"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/premiers-message/current.html": {
     "domain": "vic-gov",
-    "sha256": "0078b5b0fee5fbb03a25cdb55c05ba48801db496048ec0245c95ddc79734a835"
+    "sha256": "798dbdaa1ee3a6528e514361b78dce3fe92387f6a596dda999eec721cd3afdfc"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/why-play-based-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "71dc4378bbb7b10f07eca8efef18874d377940b916de416a674b79745404babe"
+    "sha256": "14c58146e02239878997ea346a53ab8438379e8683256bfd4b9566ddec391604"
   },
   "archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/why-two-years-and-more-time/current.html": {
     "domain": "vic-gov",
-    "sha256": "9673c8037455fe86df7b0ca09d4194edaa825425e77a9b4313cfcdfc73a7f83a"
+    "sha256": "f59d2de91734246d2c9f2f92c0659f4b39ebb0bcd11f63e063ee022c47c1eade"
   },
   "archive/gov/vic-gov/pages/building-blocks-kindergarten-infrastructure-strategy/early-childhood-infrastructure-streams/current.html": {
     "domain": "vic-gov",
-    "sha256": "fe63fd1b6d9a97836945858a602d6fba4d5afaa6a4a9b397f8be79ff1626455e"
+    "sha256": "97ce9f6ebf6dff1d744f85d9e180507d90afe183eb0e8b26754a401a83714f0b"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-Oromo/current.html": {
     "domain": "vic-gov",
-    "sha256": "51139fbd5eea2aabc9e959cedde1e8f78f0f675fa11db05936e250cb3ccbf85e"
+    "sha256": "30d8b0def4f1cee10aa6ea94da5555be978c38f1ed3cfcf762f253640f19f89b"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-amharic/current.html": {
     "domain": "vic-gov",
-    "sha256": "2c3c61e4662543b24732f5d905409adec9b1413922057066db1bf621cd68b6c3"
+    "sha256": "c1821ea9e59074fda58fc1d10a1c0a1f7963662f3eaba751b2e63db0fd2b2069"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-arabic/current.html": {
     "domain": "vic-gov",
-    "sha256": "a3bd5b8b4929885008f263446f8055ef9446128a0fe5cf46d168adc6da4557a0"
+    "sha256": "6460a9a690289f539eeb2a8fa8540820f75599c8b379e27af36f9360d35482ab"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-assyrian/current.html": {
     "domain": "vic-gov",
-    "sha256": "aa500b0ef42fab0afd26ceb7e2e4663104c9208a22d44ec09e853ffc770b278e"
+    "sha256": "e2f939150a8c6a5ef9e0face2985ce56c8199b5665f318b0de3cd3f3edb452c5"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-burmese/current.html": {
     "domain": "vic-gov",
-    "sha256": "4ef3149786b17165e120834989cd2dbaced2a0d4e74b4abb3ca8c372ecb00104"
+    "sha256": "8bee7d6770ed30198fe683495af832433dff12e1d36c6997f221c589bb1a70f7"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-dari/current.html": {
     "domain": "vic-gov",
-    "sha256": "c3b51aa294a0c2d852893b0f803a206d55d009f702180acd75d807dcd08069ef"
+    "sha256": "9666113b79d814e227bed433bccf369fcdf68e54165d75e2d1743ecdc7630d34"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-dinka/current.html": {
     "domain": "vic-gov",
-    "sha256": "0117923ccf9db66d3c1dfc7ee14b36f2d2a27db4c6fcb7073ad6995dbb723c61"
+    "sha256": "4829b38736d755db1bae21974ea05a1b51ac7f8e2a69a7e91a71d11352911d38"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-farsi/current.html": {
     "domain": "vic-gov",
-    "sha256": "2c43451051ae770ac561c9be3f10a4bb59103daf27494746cfdb18aab7c4d820"
+    "sha256": "5e99a874b7bf50de34167670a26aa91cc7ef1a0aa434d7ddac2e6d395ccee688"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-filipino/current.html": {
     "domain": "vic-gov",
-    "sha256": "a4472b41e9f136a329f490ac868bded6abf0812dd771f4d7575d459b3411cbbc"
+    "sha256": "fc58c421be68cd77e56d31b5aa7a0b52450a7764f4d1c8554d2839a9db13c779"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-gujarati/current.html": {
     "domain": "vic-gov",
-    "sha256": "672a287c60d56af731d13f56484c8449309baa7cc8359f4c4954b59af62d2f17"
+    "sha256": "e81ba66c42d9905e222678ce0682cd8f21d73632979bc623ae05fecb8e108efa"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-hakha-chin/current.html": {
     "domain": "vic-gov",
-    "sha256": "ad5d30ec20424963e642a6956b374e649766e61791bcc0e2cc27dba269640af9"
+    "sha256": "25338308b88bac7cbeec2186a6b0811de6a3258df877afc0fc6716d4f32e16d2"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-hazaragi/current.html": {
     "domain": "vic-gov",
-    "sha256": "d9fcb80ec8e6366d91004ae34cf5c8db65873bbdb2ea21bd63852f11e050ec1d"
+    "sha256": "d247f87ca03fe8c0f2e46b0cf662ff87880f549c38a80c62ef82a9b49b5188e1"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-hindi/current.html": {
     "domain": "vic-gov",
-    "sha256": "b94072a9d19dcb20a4b41c8f3415eecd9c87f0e7e1dfa215741eaa08d35e7744"
+    "sha256": "640d10e9c1f2138975d741f2dfc451f538015b9624e9747da7f9a3cc8e6b05bf"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-karen/current.html": {
     "domain": "vic-gov",
-    "sha256": "2601954f6e5f8a0ce0ee07d1cb032dc411c83d9dab41ef4472320be76faa45c4"
+    "sha256": "fa0dd49ec5ad73c2734f8790fd7cb00ba297c9ff6eabb2500d0bc15a112bb8ad"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-nepali/current.html": {
     "domain": "vic-gov",
-    "sha256": "f6ce4c5a9e32770a349c39415904dd8fb762ea442b96b9d3f1bdc769192abe7f"
+    "sha256": "79043c6457f19e210068c7d9a605f92e9fe707a97d3d9a5b9fee7096d5908603"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-pashto/current.html": {
     "domain": "vic-gov",
-    "sha256": "6bda5514ae1881d044194241f73394c3fed0697f29646ed2ec493c0505663e29"
+    "sha256": "0b64e76c5607ad95cabbbe31edf9ae88f8815cda81ac7e6b3da384460ed86111"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-punjabi/current.html": {
     "domain": "vic-gov",
-    "sha256": "4aef4c4d0319ff62e05d5e8082fcac2b031c8c9b665a23d9cf32e9138d3bd9c0"
+    "sha256": "e770b83cc205ee6eb07c9659f63304e9ee61c9fcb6ed648e23976180d5278a58"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-samoan/current.html": {
     "domain": "vic-gov",
-    "sha256": "209c029efc856d967afbd25b632b46247494290615083ddd092bb02b963ca445"
+    "sha256": "16d08a26d78b0ffa4cf70eb126b2513d75f4d70131db815ca49dbcda36dff49d"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-simplified-chinese/current.html": {
     "domain": "vic-gov",
-    "sha256": "6cdae98b2b14f9120bc32e82f107391962705bb1c00968ead7d752c34bad2438"
+    "sha256": "35d1ca1d26c0623b0778abe0123c28b8f900acaebf1f81f9c25f0e4d9b5f54dd"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-sinhalese/current.html": {
     "domain": "vic-gov",
-    "sha256": "0b9fdd7ade9d547e3222b696088126d6dc6e2d132d9379024a09c7a488cc9e52"
+    "sha256": "c433173004af9057efcb316aeb1fb86da93369ccb5876eaa3fe043fc2be9d67a"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-somali/current.html": {
     "domain": "vic-gov",
-    "sha256": "d55163ec66d23309214fe12d15b255ad4e39fb90c50819c70bedcbaebb56b429"
+    "sha256": "78302701613ff8b1084e03a02b6fd43823807e5e6038ab0fa4685d217267ddf9"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-swahili/current.html": {
     "domain": "vic-gov",
-    "sha256": "3372ff0c94c60510813fc8bfcfba151cf31e00dd636fd367bf625e1b21e92a21"
+    "sha256": "cd484d3e81f863eb4cc98ed5f6b25ca125b71b917fecbd803af4e664dcb3d4d0"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-tamil/current.html": {
     "domain": "vic-gov",
-    "sha256": "0b2c0898e983c42df869a187ee06eb6ab9663ed47afee93c71f94171248d019a"
+    "sha256": "d6aadf430aa1f8ea548f236d008732ed8316d204485fca646e3247846ec718a7"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-telugu/current.html": {
     "domain": "vic-gov",
-    "sha256": "aa0175a703d3796acec78418c4a8e001d4b5d84d3a4bbf970fd9a631b2cc68fa"
+    "sha256": "f2c1121487e98c22dc3fbad90c92a6d07ccad509f00b312154933280d4a960a7"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-tigrinya/current.html": {
     "domain": "vic-gov",
-    "sha256": "4f6e060194da359bf22a7afdc20f931cc87cf8ec16aac40a71c2a110ff46b1ef"
+    "sha256": "7d82f8cc6d197d1f9d231ec43a9e21388b020eaf68a59b7116af5bbc653f38c4"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-traditional-chinese/current.html": {
     "domain": "vic-gov",
-    "sha256": "7b7e5ae2e52736e37f301c47c13ee412615e932ed460e7985cb70e3c6c1c574f"
+    "sha256": "570b423064ca9ed9d93380e6e2b28756221ec748e486343829f1b519fc20d772"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-turkish/current.html": {
     "domain": "vic-gov",
-    "sha256": "66e202143d9185bfd5d306449a6c0ab455d932858611a962ef52bd126a0d699d"
+    "sha256": "a671c64cf1a6de3fe245dc0f3ae18e418f30a25b5953e37c83e644b7776e639d"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-ukrainian/current.html": {
     "domain": "vic-gov",
-    "sha256": "f83d06356904676a71b571547463b527f63afe7fb4b3267214b0e6d7c83c0dc8"
+    "sha256": "c1f9a0532a0eff15d87c016ac2a80739fae9a35c47f345142e7b87d6ef63aa4d"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-urdu/current.html": {
     "domain": "vic-gov",
-    "sha256": "a71e7cbc8d3f392f875281091eadd84156344b1e4a1896218b1251d84593d930"
+    "sha256": "ca532434f494b74853b0759c5ba42b8f58910597525f3777a703c1682f532d24"
   },
   "archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-vietnamese/current.html": {
     "domain": "vic-gov",
-    "sha256": "282f2df90d861e7aff4ac22583fdfa0a035f13d74874beadccbb9e4e055167b3"
+    "sha256": "9017f3ebeed6e86c012edbd0d8bd9daeec2f10dd1677a036551a06f0ae281b4d"
   },
   "archive/gov/vic-gov/pages/cavendish-primary-school-number-116/current.html": {
     "domain": "vic-gov",
-    "sha256": "0375dcb11ca17bbe546ecea82c07689398192f5e89e392d3e0bc47d6829ef553"
+    "sha256": "c9a09625a0b4fa3c6b68a06ad2c24ffe459df7213367d7362b1d7c20a6098970"
   },
   "archive/gov/vic-gov/pages/child-protection-early-childhood-online-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "80fdae999405c530b1b332fc8a2db2628145393e2f9285d2305cdd0b98c90ce2"
+    "sha256": "3f51939cf4f3f8cc531f7957081977c05cfdfecde2477a402f4c51e5c0dc613f"
   },
   "archive/gov/vic-gov/pages/child-protection-early-childhood-privacy-and-information-sharing/current.html": {
     "domain": "vic-gov",
-    "sha256": "a6a482f182a38c1f73cee318a4ea17b52661da4a14c74296ba6fbf17f9fb14c6"
+    "sha256": "217f9863675d633ccf64e2a65135e98cfa0629218bf1d644984601dddd8e5a21"
   },
   "archive/gov/vic-gov/pages/child-safety-early-childhood-parents/current.html": {
     "domain": "vic-gov",
-    "sha256": "12ffeea3c0a75a34ed1136957809b218b4a98fc95c72cab54543b789c6697b92"
+    "sha256": "7306eab220ca9f821762ed1afdd3da342bc1a589d34b3b9aaeaa084a064ed677"
   },
   "archive/gov/vic-gov/pages/children-additional-needs-early-childhood/current.html": {
     "domain": "vic-gov",
-    "sha256": "2c641f3659448dcee52ac059f459237a31bc5c7d3516c48932580a8fed94eac8"
+    "sha256": "050cc60ade1fd4bab575fba4fc0abf7de36c92d8d4b01f65a337a28f334293e4"
   },
   "archive/gov/vic-gov/pages/choose-early-childhood-service/current.html": {
     "domain": "vic-gov",
-    "sha256": "1aff063d9f39f63359dd1d02358e2fc16046c5a25cf672caceb6767094da7d6e"
+    "sha256": "3c9788ccdd8c3c6bba11a7150a28166e84bf42f055a7221f69e4925b8656a36f"
   },
   "archive/gov/vic-gov/pages/contact-early-childhood-improvement-branch/current.html": {
     "domain": "vic-gov",
-    "sha256": "29472ab0abd10a20aaee0f520994fa99b8f5a225b47f1477ce5b9e6c9b4a017c"
+    "sha256": "1f5c27dd0f72e3550c60887fdec535a452b75be4e5b55933ca061027cbe091eb"
   },
   "archive/gov/vic-gov/pages/contact-early-childhood-office/current.html": {
     "domain": "vic-gov",
-    "sha256": "505bafd874cb1269387d1bfa81eaec6e4b727ec130529dce586669aaef28abb9"
+    "sha256": "acf0afc057ae8eff4534f3909e36fd164f081887581db8c9d57a838f5bcaa108"
   },
   "archive/gov/vic-gov/pages/early-childhood-agreement-children-out-home-care/current.html": {
     "domain": "vic-gov",
-    "sha256": "f02b49630039ed9959a85119ce440bf9ea43692f740af0330752be784c850fa0"
+    "sha256": "adf1cfbc35e57cda8d267d481da2ae7d3467f84ddc9c913f5279202c5a949b3e"
   },
   "archive/gov/vic-gov/pages/early-childhood-career-support/current.html": {
     "domain": "vic-gov",
-    "sha256": "b690d02a94333e1e36d1a30675563b6a9881569b98d2e30d71e74a60b92f09f6"
+    "sha256": "dfdc196ccd19fe3b07bf61e2c2765c6725159d33be54aaf76f0f16f2fd841b07"
   },
   "archive/gov/vic-gov/pages/early-childhood-culturally-safe-environments/current.html": {
     "domain": "vic-gov",
-    "sha256": "aba77c7831261b1826c6fc1d3c58fc6ddebee58df49ef49ff6b71ac0a473e571"
+    "sha256": "edbe12ea3dc32b1a3995c7bfbc2693ade68a2722a0a74a68bb254f7fa1fbfc07"
   },
   "archive/gov/vic-gov/pages/early-childhood-education-care/current.html": {
     "domain": "vic-gov",
-    "sha256": "5104c3d79517c8d8ec0c0f254bffd51c45e9c3f78af9e5e4fe64961e9c3c03d5"
+    "sha256": "86d9d62720b0d9c7035c5235d0f85339b3dba108bb5f81ad0f7acb25e9e875c4"
   },
   "archive/gov/vic-gov/pages/early-childhood-education-information-professionals/current.html": {
     "domain": "vic-gov",
-    "sha256": "b774a0fb51519f123ed1fee402dd5451db8eeadb9e54e5c6a637a2adc59b594d"
+    "sha256": "32f3d08bd3b3662f2c1c3a2ed008329ba1d713db51fa7ada8eab5a5c01c3ba82"
   },
   "archive/gov/vic-gov/pages/early-childhood-education-leadership-training/current.html": {
     "domain": "vic-gov",
-    "sha256": "bd4ce22268e42e2c01b11aeff50fbf59867b37c3de66896af7aed43ed8525aff"
+    "sha256": "7330bbe19664fee7b184864c3760ff7dad57d239b272ccb1581f9bb469ec6e4a"
   },
   "archive/gov/vic-gov/pages/early-childhood-education-programs-supporting-aboriginal-children/current.html": {
     "domain": "vic-gov",
-    "sha256": "b2dd5e7a7c1a0665b857930150f6f1c9b5c8b17cf11cb8b7da370581739c54c3"
+    "sha256": "7a7a01b639c0ae35905b2fe9c886b2c392161fe1ad5874fb7f6cf899d3037b7f"
   },
   "archive/gov/vic-gov/pages/early-childhood-education-training-health-wellbeing/current.html": {
     "domain": "vic-gov",
-    "sha256": "17eca5aafaf282a1283b9635fb3806f0cd9a44e90e39318e117581eaf9f2b13f"
+    "sha256": "c65419399adb9c65c41a33175bf4b2f8163b444a54d3b5448cc7b50d1ec0f7b4"
   },
   "archive/gov/vic-gov/pages/early-childhood-education-training-support-children-additional-needs/current.html": {
     "domain": "vic-gov",
-    "sha256": "c01fa828ad1de1da1c7d656615dff1bd8baea1d41b892ddb9edbc5a37488f897"
+    "sha256": "125163325ad60a95c19530b7f0fa8085d47c5d2ff55884f01dd57b3a7ca009b8"
   },
   "archive/gov/vic-gov/pages/early-childhood-educator/current.html": {
     "domain": "vic-gov",
-    "sha256": "b0ca341c747b102833f8cb7787d0315f91ae937de8c3396f5392cc625f7961bb"
+    "sha256": "e65b1cca8795e55369515b63afdc5fbd47762619e1e12175a9d6f39ee3ea64e9"
   },
   "archive/gov/vic-gov/pages/early-childhood-induction-toolkit/current.html": {
     "domain": "vic-gov",
-    "sha256": "7be7b788f8944c3945d63efb5aa3ff4f1a61cecedeeb17023f53e0f2f27b71f9"
+    "sha256": "5df51868b38b0f92f453909f965bec744ecde6995b660f6cd398abb4ede0a2e2"
   },
   "archive/gov/vic-gov/pages/early-childhood-language-program-children-support-and-implementation-guide/current.html": {
     "domain": "vic-gov",
-    "sha256": "091906e6960cdda858d381b072c0c68307dd8036123c3366bec79687e49e6b88"
+    "sha256": "05c341345a29c58bf8d9ab96e1a0dd403f90220349f5c2f4404340acb221c2e3"
   },
   "archive/gov/vic-gov/pages/early-childhood-language-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "3c44488da0125f73254290e807f3009885b069a01138a73e4443778e95fb78a6"
+    "sha256": "295eb1c746b159d1e590ea7bd219206c410ab91c6bb2ad881be33c006c541cd4"
   },
   "archive/gov/vic-gov/pages/early-childhood-learning-teaching-play/current.html": {
     "domain": "vic-gov",
-    "sha256": "802d2b73f0acc0edffb8a0016fa4f0bd236267a0187a20de912b8e8424150cf1"
+    "sha256": "4c1cd7f0da44b12f201853959469733a627e86299cf8562abd62a5d1f2f2abf7"
   },
   "archive/gov/vic-gov/pages/early-childhood-literacy-teaching-toolkit-explained/current.html": {
     "domain": "vic-gov",
-    "sha256": "d9d6fda363931ae6b428f448dfad1a3b1b1ac57ccd54ce309ee45f0cfa67c852"
+    "sha256": "c3475645a68a928a852eb3cbf08cd882b75a4c79a3693bc00bacf9e1ea5e7543"
   },
   "archive/gov/vic-gov/pages/early-childhood-play-matters/current.html": {
     "domain": "vic-gov",
-    "sha256": "263119c9953fd923a8d8f8cde5a24aae59d0e741eff8fa7f2ddb08bfcdb23cc4"
+    "sha256": "c34e29082a87913f172edc8ddc22705115be0122be913a83c432529bf542133c"
   },
   "archive/gov/vic-gov/pages/early-childhood-provisionally-registered-teacher-prt-grants-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "a1e99884bdacdde2a622bfac393bf60ea9f90b14e5307ad320aaa15cb933f031"
+    "sha256": "621485edba2a8de3f961932ee5070d82b556486da03f4ab9019e6ccd23fc3256"
   },
   "archive/gov/vic-gov/pages/early-childhood-reform/current.html": {
     "domain": "vic-gov",
-    "sha256": "2b1489ade7d2b008010ef6077beba4b3893ea1141cbeeaa440af07c2c23d03ba"
+    "sha256": "56b98446741ab0665bcbf919399b9b4332bb5ef95d248229e485a8cd449502c3"
   },
   "archive/gov/vic-gov/pages/early-childhood-school-additional-needs/current.html": {
     "domain": "vic-gov",
-    "sha256": "1a60690841f761f5871c8cf045e4f91f124c22d242cb0c7753e1c315f804baa3"
+    "sha256": "0b68cb8b9e50e5c5ee219d4852f191061868c02c1e52b4407f9cef1e683ad979"
   },
   "archive/gov/vic-gov/pages/early-childhood-school-closures/current.html": {
     "domain": "vic-gov",
-    "sha256": "fc61378934a93d8594c43661e19d3c4e24e90781338e786655e58f072c033de7"
+    "sha256": "fadca912dc0b6d8c4dec2838b0cc1a09ac89e1eb994fae6c8d5e019167935163"
   },
   "archive/gov/vic-gov/pages/early-childhood-service-funding-and-grants/current.html": {
     "domain": "vic-gov",
-    "sha256": "cad1ddd72fd85d04c4a6cd5a13206baeb2003e517182f5cc13bc220c2657d113"
+    "sha256": "b2fa63d14e1a601de16495daed8f8b1b1a16ba634006046fb2d6cc468fbedc27"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-and-parents-taking-part-premiers-reading-challenge/current.html": {
     "domain": "vic-gov",
-    "sha256": "48bc3fbf927be393496f7048ba3b7ecfa245f5a6fcc1de554098d29e5defa97a"
+    "sha256": "c03f50ee910731e73d5d15ba9cc9deecdd3605bb0e944d0257333dfbc8f69ea1"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-child-and-student-empowerment/current.html": {
     "domain": "vic-gov",
-    "sha256": "024dfd128f6c8f37ebe3d8e14d6d06bb2d46ae6d58afb8929c95938e4371e4be"
+    "sha256": "f753f7b6653422baa269b41c35070c3dd441f8238634f60401c634a2ac62db0e"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-child-safe-standards/current.html": {
     "domain": "vic-gov",
-    "sha256": "87ea207dc15e4027fd2fb96b4c0c072f7413dc4569cdad23d7caaca262c96895"
+    "sha256": "4e5ababb3bde6ed63a2107c45e11caed5f2d1a679e0b3c4bc58c72b85f5972f4"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-child-safety-and-wellbeing/current.html": {
     "domain": "vic-gov",
-    "sha256": "d44905a7d345ac713f88430d8ce5931059753963e09e4cd1d95ed03d9b4314e5"
+    "sha256": "a68bf90954b5195cf71391be7aa1edd658b99b516cc0955d6b349a91d7491a1e"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-child-safety-knowledge-skills-and-awareness/current.html": {
     "domain": "vic-gov",
-    "sha256": "75f753f96d0022a01e93041b4da27a91ec21deb39f43ec01413e7a0b04f6bd11"
+    "sha256": "9c07ffefa1ba9218fa8faa7c2894a1300c0fd05d212fec37270429ae0dbb46c1"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-child-safety-physical-and-online-environments/current.html": {
     "domain": "vic-gov",
-    "sha256": "492407c2ec5420691993e2e831f0f10bbbb5cad2f7ccddc7a4ec0d199c53ed7d"
+    "sha256": "66e6c422b1af1f7e001bb277d73f30b8268a30f7faa7ccc2276cf3cfa1e8930a"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-complaints-processes/current.html": {
     "domain": "vic-gov",
-    "sha256": "300ee7b07aa33a683fd27ad65bf8badae6e4f029e26b2d905ebebe6608ed1b5e"
+    "sha256": "22633bcce64532a741ff64d90118052485c0d605cab2f207397051d2b0ff0fca"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-diversity-and-equity/current.html": {
     "domain": "vic-gov",
-    "sha256": "fe3c14ccd755850bb1c44ac02cb7b4f076d807785dc8c29bd8e5c37897499c3a"
+    "sha256": "db2f5f375918c38fb2d8cd6b3aa01b34abc3bb5bdcfeaa1f9086df42eeadd525"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-family-engagement/current.html": {
     "domain": "vic-gov",
-    "sha256": "4dc64df5c12afba7ad74e7f09e3395943e55a368acd4ece75c0c765f107388c0"
+    "sha256": "0f1f3f7d724aa7c3f7bae68db0f2b3f42b75fe7bf3fdef6dec1e39274281c2fd"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-implementation-child-safety-practices/current.html": {
     "domain": "vic-gov",
-    "sha256": "e8530254657f5d40d7ea68d606d3e20308a3a7932dd09c70f19d03ae54871318"
+    "sha256": "afce1d431a85a77bc5c30e436ef60df6efe0860a51f114c1e8c0b45e0074535f"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-review-child-safety-practices/current.html": {
     "domain": "vic-gov",
-    "sha256": "3e9652629779b14ea2b457dce3c232e0a485572f697af6364ca2a9961e675f5e"
+    "sha256": "7326425ef53c4c776d338204cac8d3020c46dccf5498ddeaf19c47a833c6d690"
   },
   "archive/gov/vic-gov/pages/early-childhood-services-suitable-staff-and-volunteers/current.html": {
     "domain": "vic-gov",
-    "sha256": "5a11230605506d051e76b8847e1ffae4193785427e3ba4f0a4e97153659976b7"
+    "sha256": "8ceb1be3384b6aa13c7922e91233ba9eba5db489e42e51cf3a36e0f161be5dbd"
   },
   "archive/gov/vic-gov/pages/early-childhood-teacher-professional-standards-and-supports/current.html": {
     "domain": "vic-gov",
-    "sha256": "940306be5138496d4d9433d64cb7a4a8956a7883aa4426a71ae2a655d7c8183e"
+    "sha256": "07f3a95a87758676cd64c2a044d97d6995aa57cd1d43e57346bd46108bb6f8d2"
   },
   "archive/gov/vic-gov/pages/early-childhood-teachers-and-educators-expression-interest-data-collection-statement/current.html": {
     "domain": "vic-gov",
-    "sha256": "ceae39739398282938c2a1b7afdc60e0cc5c7546fdd49a9983e13f6831d78e50"
+    "sha256": "96dbd058d61eb283a75f496502ba01299a2bc107391a3d7e483d7e9cdcc4b3d7"
   },
   "archive/gov/vic-gov/pages/early-childhood-tertiary-partnerships-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "39288792f5f35a14121474fd19e07ca2bdb32d6109be3db3e4d973d468888464"
+    "sha256": "126f30146160436890f51fc871e1573227ffb6a29c47feb805d04f4eb2e8fe91"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/community-outreach-initiative-success/current.html": {
     "domain": "vic-gov",
-    "sha256": "fdf940037f98ff95f45b44ffb86c0374fd8ee99e65219f85fec75a7551f7e944"
+    "sha256": "38735ea51210b1453c758fb255a4e0ce078dcd202c1d4f08dbbfdecacea21b7d"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/cultural-diversity-week-and-talking-enrolments-ahead-next-year/current.html": {
     "domain": "vic-gov",
-    "sha256": "be2b404bb05892536c0950aec6f01dbbcec2459489a535f28882690bc4f9f169"
+    "sha256": "d5b6b27f0aa5defad6b83fd3fa9e50a923f191f5af598c861b1b70e432e35e2e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "fa4511b58b5faa8e0e871d381e982c40f8bb10f164db676e47cb37c01855a986"
+    "sha256": "b0790ec7a42d3377935a88a22a20b1e35f030b3c2da92cfb4a0fd39cc0e61b9c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/early-years-assessment-and-learning-tool-update/current.html": {
     "domain": "vic-gov",
-    "sha256": "6d0fe3a36fdaa2ed35d52de8a95e06c58c12b8a5d3ac4ddfd10d0d3d58f8394f"
+    "sha256": "ab0a02ccb4b46b235662e2eb5f90b57d261f69d229896b1d64bd61c0eddc58a8"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/expanded-interpreting-and-translation-services/current.html": {
     "domain": "vic-gov",
-    "sha256": "8294c2e7b9e246c219a645ba9882156d7f5ea500b8c129874c5b234a14a74224"
+    "sha256": "9e74f221e30d62d99c6647186cd6916a6ea248154c3b541623f45c35dce246b3"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/foundation-prep-2025-enrolments-open-term-2-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "5d515ce7a7c300026b5448c6c9b1613ecb1e1cc56b3e8fc784de2b58cd24cf6b"
+    "sha256": "0fe9e623e10ddad002f924dd32aa26b9044351a9aaa2fb87f284e64b068c2b4b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/national-workforce-census/current.html": {
     "domain": "vic-gov",
-    "sha256": "42079c5b6ad14345ef47489be339901e039ac695b07b562054e740913d6beede"
+    "sha256": "826168d41252e64845848f7da456ed9a76b3127cd1a8dad5b5380054f8f6ae86"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/new-translated-child-information-sharing-scheme-resources/current.html": {
     "domain": "vic-gov",
-    "sha256": "f534d32c1e57c507bb0434c493531da535bcfad98d3c590fc6410f6e7f59a9a3"
+    "sha256": "fef69b872eab1123037301e365bab1c928d22c99a72e4fa693fbe9930c8a7c36"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/premiers-reading-challenge-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "5be5ef9debeeed460d6bb97c94e50464e376455e7a4df752390be0923daaf88f"
+    "sha256": "21b2b9ee1dcd91ea020ec279a68299627abf839660f8176aebbc0aea67349798"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/resources-support-cultural-safety-koorie-children-and-families/current.html": {
     "domain": "vic-gov",
-    "sha256": "4f716fc5c804e958fe45f908828e821309d027a375a48d0337df3cab7873aa65"
+    "sha256": "2af2123a5c96da9a09c298ec42736aeffbb6aeebacc33436a9ba9fc1c6f7b620"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/respectful-relationships-program-early-childhood-educators/current.html": {
     "domain": "vic-gov",
-    "sha256": "5701f454facde88de7c52c269caca73e57c1a04cf94a834e9ddb3d59db77578d"
+    "sha256": "493ee4b1bb72eff881cdb54425816c7d7975397ea5de5fc43b639c3c3a58d944"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/share-your-inspiring-early-childhood-education-stories/current.html": {
     "domain": "vic-gov",
-    "sha256": "1d02efd935163bd895c23b753d441c4d9420f5c716a6ee304056e05491c37a31"
+    "sha256": "c8f07817bc3e48c07f8e98730f06a2e9e4e90c5c12250924b8c2c79ffeae11a7"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2024/toy-library-grants-program-recipients-announced/current.html": {
     "domain": "vic-gov",
-    "sha256": "adac0088ac8494bc895d90e660940724744e9ea0eddbd092eeef6fced9febf4d"
+    "sha256": "82acc52c9f06d3a0ac00da7b0013319bc0cd44ca0972ef6b13d6414e1ea369fe"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/best-start-best-life-evening-leadership-series/current.html": {
     "domain": "vic-gov",
-    "sha256": "c8138f05e635dfda00c4d3adf8b8d2762df540ca4a110c1f3e0c0bef484b1cc1"
+    "sha256": "6f03594e18b65cafa8434f033ee52b3e6df05d5a6d8545d10ce13f9c3861603a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "af0a8dad1f53f6c149362ae0266ce1f50b43f736fcb002711ab367f31176b22d"
+    "sha256": "31ac4f1ad2d671a1a0d1d24ac94d5f2379f1e6a4db9abe441fa686f9f22cae37"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/disability-inclusion-research-kindergartens-project/current.html": {
     "domain": "vic-gov",
-    "sha256": "7a7008e58fb88197e72ed6fefd6dd33a8798a1a742da2adf04db78b57a6ced95"
+    "sha256": "c35d70c3c03f5ad1f5068f0219309ed858f4cefa185cfa54da2ecc64cd2f553f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/educational-leaders-conference-march/current.html": {
     "domain": "vic-gov",
-    "sha256": "3edcaad6711c4ea9bd4fa5220a6372144e0ac670225ef4b9b55bafbc875aa398"
+    "sha256": "1a643751568b0b30980de456bd4d0ebf53f171c31ff6d125da086664a4ce33b9"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/empowering-first-nations-voices-early-childhood-education/current.html": {
     "domain": "vic-gov",
-    "sha256": "2b6f7d3ca88c441585cb21b6ac41459cd3207b1ab6aa6d9d802be256d01006b3"
+    "sha256": "fced40cf1a68902bcd66fc0ca33828dbb6f66c2b9eeeac44a7720977cb30b85a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/foundation-prep-2026-enrolments-open-term-2-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "21bd445f59f824de7c077d66d142863fde45adac960dfb056264a2b2b9e2db3c"
+    "sha256": "1490066ee1cf34ada564a03de0e6d0521d24aa1e9ecd57e3399bc0d45b192357"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/next-steps-using-arrival/current.html": {
     "domain": "vic-gov",
-    "sha256": "0f67a2a4d85a7fbe1a944ef00cab32a98023dae4ccd1a335891511cc4a561345"
+    "sha256": "a938f96fa4a953035a017d80f0306d90e9cf27fd44e595cd3543b1dda726deef"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/promoting-2026-kindergarten-enrolments/current.html": {
     "domain": "vic-gov",
-    "sha256": "b1a53864c49c02c1217110b84602aa894d38ed62b82b9dab5a1aa76b664d464b"
+    "sha256": "acc0c7da866daad474df3585c79cb1ac1cb286bb3db0af5a5811280d85bf9969"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/promoting-benefits-kindergarten-ahead-2026-enrolment-period/current.html": {
     "domain": "vic-gov",
-    "sha256": "9d40c204756e2f9624df030d19fb67e75cde316136df1b89a5082046e93b33f8"
+    "sha256": "3edbfc19a38f478e5e2ebf70f279eed8fee234393ff8f6731583dcdbc6599942"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/respectful-relationships-professional-learning-early-childhood-educators/current.html": {
     "domain": "vic-gov",
-    "sha256": "06b0a80098d237aa879ece4768602fdac7d6bb87be953bca8ff4b8efbf250649"
+    "sha256": "38f971402405f5d7b32f3fea6c27ff1707a02af0c8a63c86df26ccdeb49d9e46"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/strengthening-leadership-skills/current.html": {
     "domain": "vic-gov",
-    "sha256": "171c971b2dec54a6dba4f57aa122ad57c67547bb7a02aca56303506af5d15a96"
+    "sha256": "88315d5d5177b89929e795d1e5ca6b01c6999ee376bef9ee11b9a2921f29ac0f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2025/supports-early-childhood-workforce/current.html": {
     "domain": "vic-gov",
-    "sha256": "ac2c388b205f87215186880b35ff8bb17742adf1d36f5c16be9bbdeee244e111"
+    "sha256": "94b887739457293a75c099b4b4137b66399958bfb47a1e8c7c27f5dfc491bf58"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/2026-victorian-protecting-children-awards/current.html": {
     "domain": "vic-gov",
-    "sha256": "384975fe6747ef35160f5723404df96e6485ccc1d42a0b7d0bb5f1a34e7ce6a8"
+    "sha256": "9677d6e45b75e51e8381ab6d40147d726f24cd185df83ce90b04be53195e7a7e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/annual-confirmation-closes-soon/current.html": {
     "domain": "vic-gov",
-    "sha256": "ea9822f2d4589765249fbf485613f0dbd7839a9814601f1c81676da8071a60a9"
+    "sha256": "896e481561f4e1482afb312b4d00dc473c6a3143f5561b2db0c5256b23f5c015"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/be-part-premiers-reading-challenge-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "1f2d6b0723c9dba78e3536e3ec47ad3f1eac4732c34896760c9322f30cf1e6a8"
+    "sha256": "29655a4689444b1ba77c9ff27b6900667129c84c0a4ae4ed77768fb58dcabce8"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "336e39f3bde59f12c61f6dc723e6457a435ecf81ad35157c02c1e115d2ce48f6"
+    "sha256": "b36e9cb5a4157e4367c8972174131546442d798fabef32ad76e4b4c99077e988"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/effective-mentoring-program-experienced-teachers/current.html": {
     "domain": "vic-gov",
-    "sha256": "bab9339efd9e17db8d8bcb626567573687ec96790d084d5aa88a66aeac05fb47"
+    "sha256": "7aab681df30758e2eb3bb3d084d3f2914f533a0bb060f7915d97f6bea37c8862"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/foundation-prep-2027-enrolments-open-term-2-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "ad8345e763445e68cb2bb58fdcd1b03b90a330089813281e02ffc2533b6ec01c"
+    "sha256": "970d854ad904ab1730bf6613baf3205886575d5411105beb5c2adb0cfbcf238e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/preparing-for-the-2027-enrolment-period/current.html": {
     "domain": "vic-gov",
-    "sha256": "96a9471b03e07bbe264ae47b273bdbbf5332786034c560345f6a757d4c344179"
+    "sha256": "ee965fbfdcc9abae2f2b18a0362e5934201ac48e2d09c211a8c7bc1f089bb77b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/supporting-children-living-out-home-care/current.html": {
     "domain": "vic-gov",
-    "sha256": "403bc96af251ea46ad784505b06be516eb8544ea1ac1e01133372ce433daa207"
+    "sha256": "507cf2effe63bfed26b07f0802071eed5535376ef8143b4fcf08f97dac742953"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/transition-early-childhood-jobs-website/current.html": {
     "domain": "vic-gov",
-    "sha256": "abcd0ba00df65c93b5e0d336d57f1d90663d361e8880033032a03355631e4f62"
+    "sha256": "db17d8c05f4e8f6261eb22d3cad4ec15d41e4e8236a2efa7610bad4ca836aa0f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-april-2026/visiting-our-2027-pre-prep-communities/current.html": {
     "domain": "vic-gov",
-    "sha256": "ffb32f65211c9d5f6b3d71b61a62dffeb94cd79ed47ac10124cc1c39fea1fc15"
+    "sha256": "aed19c515e11e56bd72f744c0a3fce6bb4be453885ffe8728e676e0a944c2090"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/apply-2024-bush-kinder-grants-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "5f43588a4509323469e11f20271fd9dca9ad80fe38e1de8460fec9390954ade0"
+    "sha256": "5ef4c7262dd6583f578009e2084e4c5181b51d6f9f72dd758a6763d9bc257ced"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/building-blocks-grants-open-applications/current.html": {
     "domain": "vic-gov",
-    "sha256": "338f1910dc8a271c0fa661d2217f41a6451e6dad96c925357f8225e05429a986"
+    "sha256": "8536a74beff465d52db83a0f8c46709ca4746f2d35e0d823388a14249acc3f38"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/celebrate-early-childhood-educators-day/current.html": {
     "domain": "vic-gov",
-    "sha256": "f6e907ae224f02473a20b7e3fe9d25e480d952367546838a57fac1d7d8d62818"
+    "sha256": "44bc06e0f862d40ff41a8ccfc36135e0f4630a6af1194593a8ea8baf5d2f95de"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/celebrating-national-aboriginal-and-torres-strait-islander-childrens-day/current.html": {
     "domain": "vic-gov",
-    "sha256": "36cb0f9c6a104640c521d3fe275f6e995f2107f2521f61364b6e895dad734b93"
+    "sha256": "8b4cf3434fd6076404584ab61c9e051160a000029b93a5a71f2fd62abc962159"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "0a40e6f6b26de74671179a3a6d9cd9462037c9c7fb1be0f31affc48e6ee84aab"
+    "sha256": "2991f3c0a35cd0292b3a8a06cff142bc23fd2bc04babb74be49849bb72e36b5d"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/disability-inclusion-research-kindergartens/current.html": {
     "domain": "vic-gov",
-    "sha256": "06e184a47dcde682ad7096818d9fcb748a619da42367533b57e06a79d65f503f"
+    "sha256": "a3f7094f8c6c41121e6546837f478926337f79cfee70a471421167b236a0ee0c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/helping-teachers-and-educators-return-sector/current.html": {
     "domain": "vic-gov",
-    "sha256": "ecbd063acb6d5045add8880fa50e8fdf74c4ceac9038ff84a8ccf92b24fa9b13"
+    "sha256": "475b5678dfb9bb6de03c230a1cff612574a632b57722144b74f2c01c9d92b1e1"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/its-time-2024-annual-kindergarten-census/current.html": {
     "domain": "vic-gov",
-    "sha256": "87780918c3e5d0b331ae1e9f08fd12c09d2be5eb8def280a3870c9c5c6988bbf"
+    "sha256": "aa47e53bdc05c72ba7f7205b97fdde675b3d23e1a2487fa5a4d5e4819436d003"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/new-code-keep-children-safe-digital-age/current.html": {
     "domain": "vic-gov",
-    "sha256": "99bc586cc50665779d8df2699813f0a650b7e4aa908933af1957ee4663faa24b"
+    "sha256": "428047b0cecb9fd3892fe05eab4a725602e87b7b879e393d396096bcf6805d4f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/new-factsheet-captures-evidence-behind-2-years-quality-early-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "bcd83b28fa42db9049473c9ff5265277016907032b6d89ee21b9ee10c763d1e6"
+    "sha256": "43187d58219c27aff1df7f552f33b5ef21f1d154a65bc4b2d052885548609e2a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/new-system-reporting-kindergarten-data/current.html": {
     "domain": "vic-gov",
-    "sha256": "c1e195726992f7ef072521b224026b51a47e321bf185e21e8cbf411cf0f50682"
+    "sha256": "5b3c8f476c3b5c8517bd022acecfdc7d35d25c58a2d1404004de996235353d19"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/reflecting-naidoc-week/current.html": {
     "domain": "vic-gov",
-    "sha256": "52f3e807d8efd57b4f20a4e45260804f8d44bc3aba086929a7885f16a9d8ae42"
+    "sha256": "473552bd27946e58941b40e99905602a81dfe4aea3c450b602b5bf9f73f5245a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2024/using-social-media-promote-free-kinder/current.html": {
     "domain": "vic-gov",
-    "sha256": "56f39c39051539c56bdbe58bdaf981af14e425ec8a36d19b481531a90b431ae2"
+    "sha256": "bacce64dbab2f32bf1a6bbf2bf68f51d2c195b09be2bef154d03de916b10a25b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/2025-annual-kindergarten-census/current.html": {
     "domain": "vic-gov",
-    "sha256": "974286de347de72e0a9d26f4e4aee59a8b18ef234f5a861a2921cbb0d41c79c9"
+    "sha256": "9612dce1d6cdc527de9a58bcea8cbd043bbdd70c146e9cc5b77e5cfe1ffc2f77"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/applications-open-for-building-blocks-inclusion-grants/current.html": {
     "domain": "vic-gov",
-    "sha256": "f0f064b7ae1ab52cb15a0bf9ccbda15b5138e62433b40c4b226e11361155a54e"
+    "sha256": "f575a70af3124ab3dd63f438d60c830afc5f82e26b3fe232bdb6010fcf7eaaa4"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/collection-of-surplus-kinder-kits/current.html": {
     "domain": "vic-gov",
-    "sha256": "047eef6a7f58803dfc72753fe9c8debb073adac32b4fd13632805c202ed76f5e"
+    "sha256": "9927549c13d2aad3a875953df7d24ac91ebf54bceded108c63f810f5d8e70fd0"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "af2571e5ab0e3d41fce509f55685fb57977dcd6f5d216fe510c54ab882282293"
+    "sha256": "732f59818254389f91c31732803e6773f13efa3c74703aea331151b594367b5d"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/early-childhood-education-and-care-connect-workforce-and-wellbeing-forum/current.html": {
     "domain": "vic-gov",
-    "sha256": "a464dd18f2a0c5337b71f469ec4902cce77a2ec82f32c65847db293909578c26"
+    "sha256": "6527c2cd3dc3986c4ac8af4a644195aba1c8269894af7d7c964387dcd7ad46f9"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/early-childhood-educators-day/current.html": {
     "domain": "vic-gov",
-    "sha256": "634673fd8ebc5e4fcc2faab132212648f9f181d6d4fe7ab6b1d2a3267423cc94"
+    "sha256": "cfdddbe88860b47d0961fdb1ae79a3dcbb6ca3254edebd2c44b4a67c20eb92a6"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/early-childhood-workforce-register/current.html": {
     "domain": "vic-gov",
-    "sha256": "0bdb490c23054f4af3cd6d69bcd9b9045a446a552488595343a9c4c8c4a636c0"
+    "sha256": "6ffbb792fbe2ec1458f2bec46bb08789688c682d23a206c72c941de207aee0f1"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/early-years-assessment-and-learning-tool-mid-year-intake/current.html": {
     "domain": "vic-gov",
-    "sha256": "711dd01c1bf7df898ba50bb14006f914d7cb015bc478e378ba646921f1895674"
+    "sha256": "e95e23942c470864c6c6e4d59d20da2174ec9656e3d1c798b4f4538a2b7a0fec"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/fresh-safety-measures-across-early-childhood-sector/current.html": {
     "domain": "vic-gov",
-    "sha256": "6b9e704e8efdadee645045b30379419c9bd7fc044144efd189b5da5d2a4a4fcf"
+    "sha256": "b8f90ee652ce9bb429852cc4bf04b397037028498b8ac7de3207ab38df3999a6"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/improvements-make-transition-learning-and-development-statements-faster-and-easier/current.html": {
     "domain": "vic-gov",
-    "sha256": "3d4f6324e5580fd8d18e9af93b41c20e98af15629866658c1ff7752d27690eaf"
+    "sha256": "f570927e428032f52b1f5bc5da21c2260063ca38a22dee7e235d2635af9a88eb"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/information-sharing-and-maram-reforms/current.html": {
     "domain": "vic-gov",
-    "sha256": "83cc3444e08ac4491fd65ede1f98262a9c13b2c49ed3e2015ac050e227d02791"
+    "sha256": "313a45bccef0a3b7ce486ce53c4a913f6a13e362d811fd2119b44b2fd7bbebee"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/supports-for-early-career-teachers-and-educators/current.html": {
     "domain": "vic-gov",
-    "sha256": "99aea4b457cd13bcfbe6f41d3126a14b9f9990bf86d10c490178855227e78c19"
+    "sha256": "fe30b70816b6698fd3bdd938ae82cd2ba9b1eeeb4a880b346596bb3bb701c96b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/the-journey-to-excellence/current.html": {
     "domain": "vic-gov",
-    "sha256": "0252c0a70c792fb3dd8c84965227942e304272a7c4d1fc4cf7ad98213a555a63"
+    "sha256": "0d1388bc43315367230ab8d6bca0f39e4a1741f6bca47b1f1988560d335e0e03"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/updated-koorie-kids-shine-communications-resource/current.html": {
     "domain": "vic-gov",
-    "sha256": "0fb7678c87ba69b819e4ad41ffe766c75e85d76dd70db1af1d835937e4d7ec1e"
+    "sha256": "42ecd7a7727c2a419f12d18a04ec1f377458145ae82b1b2ea4f29094965a70a1"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2025/using-the-early-childhood-workforce-retention-guide/current.html": {
     "domain": "vic-gov",
-    "sha256": "d41760a319f7c2c2c75a48109cf8b1bb987e39bcd9f53941e01c7a51b8563685"
+    "sha256": "dba8c0a5d8b513211dbc7823052c189925ce7b993c28b0887d4ab7994b076baa"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/2026-annual-kindergarten-census/current.html": {
     "domain": "vic-gov",
-    "sha256": "5e8912e0fef0642e98eda136bcc19a01d484601c0b12cd8c97420ef0068f814e"
+    "sha256": "0d9b041c5535d13d662b7b09d8589e2670551203ca9e12bb22620612cee616ee"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/canine-companion-classroom-supports-connection-and-inclusion/current.html": {
     "domain": "vic-gov",
-    "sha256": "1f56c9d4e6b61feabfaf50a36c82d5f3e73beb8ced117aed05fbb671917f6107"
+    "sha256": "726d864c9c00af954d1d95254d85983525d54ef8357e06c7e8cd654d96e92e9e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/child-safety-and-protection-training/current.html": {
     "domain": "vic-gov",
-    "sha256": "4a7c08d9bb69913a139ef38a5043a196917d22578a71da44c6f5be953a7d3299"
+    "sha256": "fc59dfb20f87069b5a07712d0e8b24224d9fc25bb5dd7a82db44a6ec9bf79a80"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/collection-surplus-kinder-kits/current.html": {
     "domain": "vic-gov",
-    "sha256": "a535611da0b4e72b513e4ef765462046184d1c979f748d96842811273859e8d0"
+    "sha256": "5e18aa538124c8d420b440257dd34ae5f4424553011bd02564a83e386e7d54ee"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/completing-2026-transition-learning-and-development-statements/current.html": {
     "domain": "vic-gov",
-    "sha256": "bec5eba2341847347e60b89fa9712b2b89df58f1bab9044503ad0f0d35664456"
+    "sha256": "46a083d33f62cc2d8769a30bc45e6b2c420ffa0309d92142954215a6e8fd5e87"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "13b5772defd1a3320b08863163e9dafedd82a9843dac9ab303b680dcbf756381"
+    "sha256": "77dd3e7aac95a6a905abd9fe33a0a513628224fb3868c2019c58a1548093c25e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/early-childhood-aboriginal-pathways-scholarships-supporting-emerging-sector-leaders-start/current.html": {
     "domain": "vic-gov",
-    "sha256": "73020586464dee3f7165f15a552fa769adaa19511d123c4fef86833e0b576cd3"
+    "sha256": "2926e899a39f189d3d6c8699264d57d1a47f125d251fb6a52d461b23bdefcf1a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/early-childhood-educators-day-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "0272c3c99106169eaafd85a8effed0d9eb1c21d1a30756f9f2967ef3052dfa79"
+    "sha256": "dfccea2130daef4df86cf7def1bc29f92a8b05dcee1fa37eec3c8e962714d05e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/provisionally-registered-teacher-grants-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "a8713085a246da4c255702e40817d56f71b94945c5c40ee746aab0bd95bb3802"
+    "sha256": "63a5935d739faf5fa34e2b71946c3e2fee967a54f7f82158abf496c5069194b8"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/save-date-celebrate-educators/current.html": {
     "domain": "vic-gov",
-    "sha256": "6d97c9c52469edf298a1e524a7bc712ab1bb4daf96845e10ee161071ae1bd984"
+    "sha256": "dd5a8562a1a020aa89d738f90696fe7d461e645b7cb932f6033bbe62ecc3ad22"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/supporting-children-disability-transition-school/current.html": {
     "domain": "vic-gov",
-    "sha256": "a2821c0150c452d4b86c9e06a8db7943e11c66800aa61126339259dab125be0d"
+    "sha256": "cb05ab780ae5b9c9f0ebe9a8a9564c47915f55ee5e7453037635f648004f6406"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-august-2026/training-information-sharing-and-maram-reforms/current.html": {
     "domain": "vic-gov",
-    "sha256": "c61ea7ad156cd8e50c1dab5313626682567b947aa9f5f5fb2d0615d385ca93b7"
+    "sha256": "1e19be273d245f3b3982d521e7663a70193ceca69918bb21bab3464ff9c8313e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/accessing-arrival-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "e901a553ddd1523d97a762eeb7945a1c0bde7750b81736e6893c623829a37932"
+    "sha256": "9a43949fccc5fc455a8b23118d846508bff1ba10e3a1840c4f40d4834db25cdc"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/applications-open-building-blocks-capacity-building-grants/current.html": {
     "domain": "vic-gov",
-    "sha256": "4b99b726fdc8b37de4c0115e17edf048d5797f00b67cc4152fd8f4e4fdf772b1"
+    "sha256": "61f2b07036a171bd032a96c687eb83b98a99e89052d22dadfe545382e4947e69"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/applications-open-toy-library-grants-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "e70dc91d5c54db7489d7c614b03bc4c96af84a254e2e773b60d71702288f0177"
+    "sha256": "ebb719ee505653f4af15cb4d005d7c40b48c206e1de42865372949f8526a4681"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/check-out-new-pre-prep-calculator/current.html": {
     "domain": "vic-gov",
-    "sha256": "0b5abbe4799a1b171a9aa9a57309ff6643b29585de5afaccc0bedd77f9fe73b6"
+    "sha256": "726319835ebc8ece60d7f07d4987e8f9d0b40ee7135c27f62fc7b1175501740f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "36e23c60ca635373341cf5223caa6ab9bf4c03bb010db15afd93d5c65742b552"
+    "sha256": "b3abee3df079edcb6d696c9f888f87922e4ee1e2395082cf4f897ea9cf51521a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/early-childhood-education-and-care-staff-survey-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "1279dc3a8b8b8f4d595cdd3939ddf13b28a528bb873ad1d9f8dba7da342ac923"
+    "sha256": "a6d9216bfbd4c4a7156d599ef6621dc50bd4e807f7c4353f1cc1b5d0f21449cb"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/kinder-kits-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "db428b8974f73fe0a10cd1d26ae76835c962d37154d8eae6c3a4178a1fcbbc5f"
+    "sha256": "d0f97f179e16976ead5093d117973a15d6a45fb0e79a5ce991fbed5e600c9b83"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/looking-new-kindergarten-year/current.html": {
     "domain": "vic-gov",
-    "sha256": "13dad3cf510699118fb19e51afc9d3e91c8d66ee83dfd62b4faed76b525a3899"
+    "sha256": "ff58105ae3cba62335a9c2ad25690a26ffc056e51a26f43a679ca041930eb967"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/new-provider-early-childhood-language-services/current.html": {
     "domain": "vic-gov",
-    "sha256": "433800b1ac0a5de26b3e7d02b54510c6ab9e7d85241d95dad4e2a388d7fb885b"
+    "sha256": "217b72c729d599787d7dd97e82f857819d6ca63afec39949ddf33906f38b8665"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/raising-children-victoria-survey/current.html": {
     "domain": "vic-gov",
-    "sha256": "bf8ec3cbf8faf7d3382c79bcf8c0363fd4842635ccf168bc1bafbe5040554214"
+    "sha256": "5120c00686eb2437213b97a702e3ae6f6c91eb205b222eb7760f96c60915f85c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/reflections-2024-and-looking-ahead-year-come/current.html": {
     "domain": "vic-gov",
-    "sha256": "9789f801e5981b91721257a961637590168a641fe4c1afc9c5889026494c2269"
+    "sha256": "40837b97fb6982ee8f8cf99afe007c2ecb4529b37681d52eb80de504cb4ea4b9"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/school-saving-bonus-now-available-children-transitioning-school/current.html": {
     "domain": "vic-gov",
-    "sha256": "0a896762302087a73f4252ac2d48807dddd28c9a0addc93b43b0181d80f6776e"
+    "sha256": "57487bb3c1f4bdf4a5911b489b3a57b299e47583ed1abd63daccad126c22c12a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/victorian-early-years-awards-2024-winners-announced/current.html": {
     "domain": "vic-gov",
-    "sha256": "afdb9e84f54c2500ae2ce5d8d0cf6fad64d0a306f51c3130beb4a60e47e3ede8"
+    "sha256": "30ca815e39c3339d19b503d06cc0030b7da06e61750d3e60275e4207ecb20ded"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2024/victorias-skilled-visa-nomination-program-boosting-our-early-childhood-workforce/current.html": {
     "domain": "vic-gov",
-    "sha256": "ff300d5ff97cb07800e64af29d5866448b492d935efb6c5b3b14dab09569432f"
+    "sha256": "ac4e8996b6867aa06b98cb22c87db30612caf656124f8339f8d59df976a6ee78"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/conversations-families-about-pre-prep/current.html": {
     "domain": "vic-gov",
-    "sha256": "5370bc8ed688c5895f850163c81293b233aaa3bf45587da7e561df05152dccb4"
+    "sha256": "c3f4148bf898b3d5d7ad1ba03940d94b2031dec0be5c8d5b583415ec8cdb0e06"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/creating-classroom-where-diversity-embraced-and-celebrated/current.html": {
     "domain": "vic-gov",
-    "sha256": "55dcc7a7a30d6746149d5c62b537cb80cb279831a78e9a85d2fe77495f4cd429"
+    "sha256": "b7e41d0c52a0c7c28d1df33b44f88c62870569b2e8be3e2a50923a3de218be11"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "88cbd5430b70fef1542d2f2541e9f0ab912f6f04c470d49e464fe3d6b939a15a"
+    "sha256": "5b33216982806db0399ee1b507804faac665275cfd412ac72e7a3b4a4ede3797"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/early-childhood-workforce-register/current.html": {
     "domain": "vic-gov",
-    "sha256": "d41bbf142efc3804f1ba4eca8717979fc3a242159a4d35f7ea22efee283f806a"
+    "sha256": "14677d1f6d707fbdd527c846ac867e5327ce0d58c199f60e3505bc81508fb0c5"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/free-public-transport/current.html": {
     "domain": "vic-gov",
-    "sha256": "d86862828b92d9857190fe41fe3e245eb20880ac50933c4c1d7a0eb6cf5f6414"
+    "sha256": "95ff876103059e06a74fac5e88747a5b57965bfaa3db4c6ba1b715597de27539"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/get-ready-new-kindergarten-year/current.html": {
     "domain": "vic-gov",
-    "sha256": "38f53595a2c8400d8101b7381d17d72cdedb26df95d0187fbee1f2fbbc8110a5"
+    "sha256": "e3ac47db5b274eb3987808f8b2b7b630a0b2f7fa669a5516b1316ddec69e854b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/kinder-kits-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "81117b34bec77527040d456a7b2a368d0fb5fe4cf06402125debfc8222a94cc0"
+    "sha256": "47e535777d2b8732f18f22eef6147239fb11132b357c3fd66ed5073ee0796a21"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/reflecting-2025-and-looking-new-year/current.html": {
     "domain": "vic-gov",
-    "sha256": "70d11463c9b676196bb52ee6bb65061f7a47c5d2fbe8cdea5840d8861fe54e54"
+    "sha256": "63d8ab44c7c39f72f79f95bb4e06f4238a9b036e3b34cacf1950f80e3fc71f02"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/scholarship-opens-door-lifelong-dream-early-childhood-educator/current.html": {
     "domain": "vic-gov",
-    "sha256": "a933a5e654c487cbe4fbf29a52b7df2a567ba14e5eebded2fb68a5bce5655cb1"
+    "sha256": "b38d462fd77374cee2632cded6ade0c098b1be8774d2c25f3591bf3b41c5dd8f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/victorian-early-years-awards-2025-winners/current.html": {
     "domain": "vic-gov",
-    "sha256": "cedc7e06a07cd4ed4b3fe2af881dffc7db59056c55b7e915a84843a0568291ca"
+    "sha256": "a7121d5f098899ac69ab319ba0cb755786413edfe62dc8afbf4f1f92c99616b2"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-december-2025/victorian-skilled-visa-nomination-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "02ae13654bb4166706e10c98cb2601d4f8b4042623d34c48ccd55dcc763fec44"
+    "sha256": "d7b74384f759fe6c059a223966c5139037a5d56389396f5282f61766bbe4cbd3"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/best-start-best-life-evening-leadership-series/current.html": {
     "domain": "vic-gov",
-    "sha256": "5162a1ff1a155a910676873ee904716a73ba721096d4870a6808e7e07bd2526d"
+    "sha256": "881a0ff8b38da281a804f75b43e9969a2aae7ed430dfcadedcec1dee8dbdd9c6"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/building-our-workforce-through-early-childhood-tertiary/current.html": {
     "domain": "vic-gov",
-    "sha256": "7cfbad64d7b0eec26bda3e4058d284a870dd7d97790c79504fe13d047d313c74"
+    "sha256": "acbc5568fb87dd84122dce692642d8c2b14be2b0d58b35a2690c1110ef86e67d"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/complying-australias-foreign-relations-act/current.html": {
     "domain": "vic-gov",
-    "sha256": "548d9af594f80d56857aa0106c57be78b42866a5efe4461544d44664da4ab9ad"
+    "sha256": "0d626b3ac75493a0b1c97c0d655b4f5e9360cbb45032d907a8d497cb28cf577c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "8bbcf98e00d680793c814aad20e7223c0546b54a35b47c0ca8acfe3007c2c86a"
+    "sha256": "852933420572f8b271141b4dc52bcfc41fbf322ab4f21bca0d50294f22a801c3"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/enhancing-disability-inclusion-victorian-kindergartens/current.html": {
     "domain": "vic-gov",
-    "sha256": "90671f065160c7fe81d3be7faed0df641efe89c29ac91e5e8b3ab5be8bfc8037"
+    "sha256": "23d2f53657b27e15682d4f8d61efc0f1b186a85e9e1b6872298335b8fddaf0a0"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/express-your-interest-victorian-educational-leadership-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "8393e1ebc3c8fc453e9a411ec797b551553eec8ea6d44435dbbdeb1a4d776aca"
+    "sha256": "a8bc84af37aa8e3e0d6851b21383714e312768921532e6ac02612ed06d35e095"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/kinder-kits-are-here-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "63c0a8451d49ec14d55f44ce4405da45d46e3c66fd01cb4f9f8964eef2b75e26"
+    "sha256": "385456f5051dbc2e50ca123694469674521fa3b120c4306d48acc742b7d53264"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/protecting-against-mosquito-borne-diseases/current.html": {
     "domain": "vic-gov",
-    "sha256": "05e13465736d3ff0121f15370fe6461426e00f25711ec74351df871b7efb76de"
+    "sha256": "808141e0f31d635f2b3712653bc38fb6e67fae09587fa0470c8110fce01ec80c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/support-our-revision-victorian-early-years-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "c3858ecde3dd3d50c767fd4b06601b03f3008efd1017b89bbb76a6c59fef4842"
+    "sha256": "0db19cb2bf42f0253ed0823cbbe50169eb350d49df25fc2d4eeb557bf301cd1c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/supporting-our-workforce-through-best-start-best-life-reforms/current.html": {
     "domain": "vic-gov",
-    "sha256": "9206756c365e97b68090484c066879525b317993079e3cd3af434f4b5dc56ebd"
+    "sha256": "a290811d419506b6f245fac1c5735b81fe5518e806d5780517b88e8b834ad649"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/victorian-early-childhood-teacher-and-educator-incentives/current.html": {
     "domain": "vic-gov",
-    "sha256": "0f305540983341a9238b350901cc1a3b5309093c60ab2ec2f22b9484bfe84336"
+    "sha256": "eda7fb64c690ade04da760115628ece9ac29e2114259114d116ddbf3ac3a1039"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/victorias-visa-program-ready-boost-our-workforce/current.html": {
     "domain": "vic-gov",
-    "sha256": "a5a1b4a6df29bdbe90ee04bffeff01b475e23bd2ba7e8a54734c4b8225d74c87"
+    "sha256": "95c2ac4870c75bf010cfe0053d841f70ea99c38821ecc70827106a9c7de94211"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2024/welcome-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "9af49abe919b4c86fd489ab0a1d1ae8288e4432d5c58d5171fe9ea6b2fb6fc4d"
+    "sha256": "ad32f4b76ce94a2b6b1d1f1bb33ba036816891bad5f7e044b574266797b80dff"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/be-you/current.html": {
     "domain": "vic-gov",
-    "sha256": "3386038260a1a1effe5894b39ccca2a7e478380f6e402b024182e3395f49f70d"
+    "sha256": "7032f484051ec0149201d6a76f6dac4bbd47cc7b51e18e89fc7e9cbc5051093a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/coaching-supports-early-childhood-professionals/current.html": {
     "domain": "vic-gov",
-    "sha256": "02fc2b40a6cdb156aef7cdb876899790b059bb861c4fba59bbbeeb7bfd53982a"
+    "sha256": "249c0791360a73b0704816983daed96fd946ad4e73ab68e1bf9e14fb6fd97f34"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/complying-australias-foreign-relations-act/current.html": {
     "domain": "vic-gov",
-    "sha256": "599202352abfbfd9281d976f3199fa0af770e97949f4242c8342fcae84a30482"
+    "sha256": "431bbe146531d292624212eb0c051c3bcb2d38ddaa8b31311b6b29d1cbd139c3"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "ec632689361b5bc8ac5cd995a027379c0ba4b743c19f5356ec9cf14499fcd8e6"
+    "sha256": "6b0c3194e8e82a2c54a02f53ebc911ee1b96e0d281b3c06a338f0d0aa674e13f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/effective-mentoring-program-experienced-teachers/current.html": {
     "domain": "vic-gov",
-    "sha256": "dcf31138691f03f495aa690ab48a604681e4ba6044e789e3d745cbba7adbc576"
+    "sha256": "8504c9620210262788cca20cbae9db7577d8049f5e10dd90bf5b18cddc52acba"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/helping-early-childhood-education-trainees-gaining-edge/current.html": {
     "domain": "vic-gov",
-    "sha256": "166eef4072892f319ceaeda52eb840f7eac7ddb6cdf2db0c2c8167f78c5eb9d4"
+    "sha256": "193e65b804b6886bc23a6ba65f8f019cb25a0143ca5810601030d81c63bb7c69"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/introducing-arrival/current.html": {
     "domain": "vic-gov",
-    "sha256": "3ab67f25640bca4893ddf0a2bb0fd261921c16398e38adc2eefaaf3645b79144"
+    "sha256": "9710ddc285429149bdba871af7a27bd8190c3e62eb3b7679a78b3d5aaeb0e9f6"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/kinder-kits-are-here-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "bdd1038efc75a2ec4974ba052be47294a5e379fb47874422c300a338b6966c8e"
+    "sha256": "3ff3e33decc4271d09d2ad93b3b945da87b942f59d25159c4fba769999face01"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/learn-more-about-skilled-visa-nomination-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "6be3852f0e1f2770a7f6eb4845bef54db40d4ef070ec0688e0cb98700d925944"
+    "sha256": "ccf500c2021213d886fe8ff4dfdd096cc83bd239a73f861abb1a4c043f937258"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/looking-after-your-health-and-wellbeing/current.html": {
     "domain": "vic-gov",
-    "sha256": "d516273c721e74034dd7b4998aef7c14c06d42baa3d1aae1a281b0e48ad865b4"
+    "sha256": "3311a29c49e6de4f75d8196e155188e53eed79721349a9f7e74d532ac856922c"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/new-early-learning-and-childcare-centres-now-open/current.html": {
     "domain": "vic-gov",
-    "sha256": "fa5e4269026de38bb54fca441ac2b5896f415be4e3cca0ce2234a1aeffd745f7"
+    "sha256": "41fae336b6d7b65ba7a404593654dbf2993299613c100144457fb34c16347682"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/reflecting-leadership/current.html": {
     "domain": "vic-gov",
-    "sha256": "79bd1c1ee8212515d59037407d439f55534073895db318b4cbde78641a161a19"
+    "sha256": "55af78d7e64869facb811a5b866fd628b0e0f176e22648264720782a5cc64e67"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/support-services-expand-their-education-programs/current.html": {
     "domain": "vic-gov",
-    "sha256": "71a7bf17e5d0e1de7869af4de9ec252a657201974b82d2efaf2c8e26ce2b4d79"
+    "sha256": "fe5e315a2c82407dda5221c93ca1945787ceade94e57b6a2edf422ec52e3812b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/welcome-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "58262119d47d9e934c84249f8c8d16909959688815712ec3dc84c676d4cee78d"
+    "sha256": "2b5088aca29a7b989ef9578fcf6b51cb35a4b9a7acf3858a2d2e857fc06a0118"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2025/welcome-new-year-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "edbe257f9e2a3877568d3fe000e48fa0aa7e42282b9cfab4395dd4bec36f4c21"
+    "sha256": "ae3f8a02a759b5a7fc87028d50500b40dbddfbb7d43ebb43edaa6d9aba138728"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/applications-open-2026-toy-library-grants-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "5efe7abf5f67290c598c6badfa1cf8e5fbcf72a1dbafcdc2c3217be3d047b6a4"
+    "sha256": "3b15be21a4710254890aae66d4f13d5f6e7c0b5b63f7aa4cc91c4b90f973ca99"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/building-future-early-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "3df224a8c3257b41066604f0e1f998bd63fc5a4a2b08dcffedefca144a4f179e"
+    "sha256": "b829f5f58f92d4d2843263e8261e8607afd52cc8d6e53d96ea497a66ad5a37db"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/complying-australias-foreign-relations-act/current.html": {
     "domain": "vic-gov",
-    "sha256": "aaf639ef56405fcd89dac9b71c44d1dbd1c74ebb2ffe60d62e394c64ddaf4a86"
+    "sha256": "bfbc723a8b7e4cae2c2edd74ca9a60fc11365a84b94d66b6f85daec5b826e7da"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "2908bd92898c1d9c0c1fa2774bec9eabc8da0f5b825de8e0fa20230cbf04e904"
+    "sha256": "8079fa4104a403d50c386c3ff816dc7bdb433ae9bf209835563d2687d46d912f"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/empowering-educational-leaders/current.html": {
     "domain": "vic-gov",
-    "sha256": "7bbc8e554ffa0049b4ad9020c2dd12abdb43076d89a2ec87483fa6b4d491f1dd"
+    "sha256": "fce9668f3da01214e15ada0e4ba5b7e61e72aeedf6ca7363f1a23bd5854d639e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/hosting-students-placement-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "b950cac5c80823be0f3667843f9ee84df089a806d6ed124421c46d6af9c757f7"
+    "sha256": "fe8df1d140971176036d7e3831926eed05cd39afae38fbafa08ad390418f448e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/information-sharing-and-child-link-update/current.html": {
     "domain": "vic-gov",
-    "sha256": "3d92d56952c50d336dc3e756db3010d1502f2bb4971d173bf2cb0f8cf8fae9e4"
+    "sha256": "2bfa0beea30a367ed9948572326f13553f748641f97b113a8926899319816281"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/kinder-kits-are-here-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "ac736ad82cb3bb3813537663207e84f3f0f7cbeb44aca4a3972f1ab94df783ec"
+    "sha256": "f9a2af54dd899aa2581784fa44b53ae2330823e4a72de052e7a7071f6efd26c4"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/new-regulatory-authority-early-childhood-education/current.html": {
     "domain": "vic-gov",
-    "sha256": "418e52f55d9325eca7c25aedbdf1b7944e05fb247cad93cc3946ef5dad1a54e9"
+    "sha256": "cfeac659495d5555fc89a72f316ba748f90635e065a7b24b141e42bead0869f8"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/preparing-pre-prep/current.html": {
     "domain": "vic-gov",
-    "sha256": "df78aea41f5135e74207de9e586f6713902f2a2ea53e759c25b2a929f9f431cd"
+    "sha256": "8104f226e88c51b6d648dfab9e2ee134603905271b854885ac3e0a42e2353fa9"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/staying-safe-and-well-during-fire-danger-days-and-extreme-heat/current.html": {
     "domain": "vic-gov",
-    "sha256": "5b5a0ad38cee129d2832f45aa1c6e0eeed3d69ed1cef514e388d5f9aa1d2cbcf"
+    "sha256": "a36311d336edf2c7ad832713d5a41f13c059498a4f12f1bc7592457a7ab54263"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/supporting-services-create-inclusive-environment/current.html": {
     "domain": "vic-gov",
-    "sha256": "2a32eb9f5055de49b9dc0e9336ce1e17ae183a25bc1b18f69d63ffa9d830a84e"
+    "sha256": "5fd844e78fe6f0c17b273643e8387cd4188eb1eca3748acb50022c6c36fd2449"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/welcome-new-year-learning/current.html": {
     "domain": "vic-gov",
-    "sha256": "42cc0b680380c2970ffc388d93af102c27bc6ad5a1fd3cc3f45f9cb357189593"
+    "sha256": "bd07d9e49604c8d38d4f9e3f2ae95512c37508efcde2d3391f585325e0fe2711"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-february-2026/welcome-to-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "f35111ec3c84d2f0a18402b44033d298f9774240574768b212ac74dd8d364a46"
+    "sha256": "3ab06b05fffa3cf457b82e8e76450473124e4cb479b4dfe24685d5d997d5b07b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/complying-australias-foreign-relations-act/current.html": {
     "domain": "vic-gov",
-    "sha256": "db373daad77eb16d999286a3e555bbc89914ffefdd8df028076b93075e8c4c4c"
+    "sha256": "c2f9e73fbf5bc2ab1a103d008dc44aa06d6552e20a96b85d616d2899c5c64d3b"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/current.html": {
     "domain": "vic-gov",
-    "sha256": "588851f27ef6ecfdecf98150d81e4d0551756a75c65a8f845c5e93dc67def18b"
+    "sha256": "cfe3aac036d92d6f2dd8f6d4ea2f27b765995b5e7e02a2ec84db38ef29690bcb"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/professional-development-all-career-stages/current.html": {
     "domain": "vic-gov",
-    "sha256": "308d979579ec2cfa306e791bb0a4d3932bb42e65c341fee783c755bcaf8c7017"
+    "sha256": "0454564c42872b20cdc7978c3d3f988ab316714636d24bc3ab3472528fba4d67"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/reconciliation-symposium-focuses-improving-outcomes-children/current.html": {
     "domain": "vic-gov",
-    "sha256": "96562d516760e8775883fe9d5eecaae6fc3496377cdcab23f25748a83eb5bc5a"
+    "sha256": "09baaff4b9e04b9a72f2dae72b5655c4f6a0994e18b48c87f2127f8146084834"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/reflecting-year-so-far/current.html": {
     "domain": "vic-gov",
-    "sha256": "157174efc3d57f409a126b388fe4bfd4e8bbac81645be10bd2f094a30cb3a7db"
+    "sha256": "8ec385e85324e6a54d1c0a3278b6b0056a2b454ee36b6b239d969c98e74d9922"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/victorian-school-design-awards-nominations-open/current.html": {
     "domain": "vic-gov",
-    "sha256": "ff0bd7cb08266ceaec45da8785fa060ba4aff0f12eba29377768f4c5b925978d"
+    "sha256": "6232f141e4bb98d5fb554b52c9f444080c4a2a90352bb5afbefc7955c42de268"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2024/what-you-need-know-about-pre-prep-2025-and-beyond/current.html": {
     "domain": "vic-gov",
-    "sha256": "8136a9cc0cf0735548ed07efa2bb09b994fdc4106fac2e51ab1e5dbe06db9286"
+    "sha256": "b839cbd5f18723ce884099dd1015070d73f419a15c04617fd95dc4bbeeab1ab7"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/arrival-kindergarten-attendance-data-collection/current.html": {
     "domain": "vic-gov",
-    "sha256": "3fb4e4392c94bd735067376a1e15f3d61b7e11bdb66fbd997b9921c9c599130f"
+    "sha256": "d6433193e90cb196cd4f215e05bbe0108a3c64dddb2c92ed79b9dd61485d4695"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/building-cultural-understanding-through-yarning-networks/current.html": {
     "domain": "vic-gov",
-    "sha256": "8dea18af628698f1ec774586a079faeaf1f4dc7dfe9073ae66d737c2cb640148"
+    "sha256": "e8a0647a7d1258f9af5156fae882bfbf0c11a8bcc79ac2fbea9bf5607ebfda95"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/complying-australias-foreign-relations-act/current.html": {
     "domain": "vic-gov",
-    "sha256": "9e198351212f3cf083cc731fd03bebafaae96acebbb1166e765a6119d33ce415"
+    "sha256": "d610cd0eb2fa66c4818ba0781b9ea64314c150cc92ab25675fe57eea4fad578a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "27ba10994de9bca5aa6e8be21b4d3891811e80af0ea8567ff9ab99d3eec8f023"
+    "sha256": "9fd69fb79ffe5a0646c59e2a02f8d778200ab94f4ca2c66a3c31506d1d8dd28a"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/helping-children-priority-groups-access-more-hours-kindergarten/current.html": {
     "domain": "vic-gov",
-    "sha256": "91216d30a836bb2b690e65529ba6c8654c0cb08c15a6c8532a5b559e260ddca9"
+    "sha256": "43a3ca07b230038be55944d0337c8dae29b7b7d100d07557807c24bdc2be4dad"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/helping-multicultural-families-access-kindergarten/current.html": {
     "domain": "vic-gov",
-    "sha256": "5f669f01c31fae15bb0f103d609b9970bceaa2e71c6c8928f37ed48e2131fe98"
+    "sha256": "33f0e7da1c47158ab0a7725789c87b84c8846966c7ae8548f08e7d1f9637b026"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/looking-back-year-so-far/current.html": {
     "domain": "vic-gov",
-    "sha256": "d7d66680fe4a96b7ac9ebef37d0521b9684d722f9bfe9ec162cb9798c7f33d98"
+    "sha256": "20b50d2c965a25a64416202512ce63eca565005b1989f89e612da8fac6371abf"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/naidoc-week-2025/current.html": {
     "domain": "vic-gov",
-    "sha256": "351063716e2a3dfef44924fdd52ef19ce353938a7909fbaf5afa916d9940fac9"
+    "sha256": "932906baee52d0ac9f98c7d2cd372e5e5f8dedb577f562a05b633d4ce1ac417e"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/national-aboriginal-and-torres-strait-islander-childrens-day/current.html": {
     "domain": "vic-gov",
-    "sha256": "c9692cbcda7dfb00b03edd89d7cafbf8064ea4b42929976de3100c9ba39fef52"
+    "sha256": "00aac7a55472ef62b83cffce15a69f1e2f3cf05fbcb25965d1955cda8307fc01"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/no-jab-no-play-legislation/current.html": {
     "domain": "vic-gov",
-    "sha256": "3e78b9ca82532145fa197153190f5ed939731fead1306e716d764f50fcf0c018"
+    "sha256": "2605ab8566ec0dea819e2a11940e9de0822f3f7933207a31b45af271facfc7d4"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2025/supporting-first-nations-students-studying-early-childhood-education/current.html": {
     "domain": "vic-gov",
-    "sha256": "608d81c474392560c1529eea358af5e7b4eef94eded06b4ade32603d00940ced"
+    "sha256": "1267ecb9c4a5b3c84fd76b982bf0a90e61ae36d30ca0cf8854b6b1e8be3c03da"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2026/applications-open-bush-kinder-grants-program/current.html": {
     "domain": "vic-gov",
-    "sha256": "1c8c42aebe71b098cae55eada9dd7bb6613ed60f047a5e946ed77e42e6c4e56e"
+    "sha256": "1d33c9d5319fb87d717748b50b7884a1e4f5468fd57fb468d08f376ee5319ed1"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2026/coach-and-mentor-training-program-experienced-teachers-and-educators/current.html": {
     "domain": "vic-gov",
-    "sha256": "a8bc59b1132ef44fcb1a2935bc6da0460159c6a4b9d3afa38ad561fea0aa6740"
+    "sha256": "06917645e5b0cbf90b6039f61a95935468f8669d6c2705980d28fd5907ccf777"
   },
   "archive/gov/vic-gov/pages/early-childhood-update-july-2026/current.html": {
     "domain": "vic-gov",
-    "sha256": "85a35686bbf576d1106823bb2d1e998e0db25ace8134311df52bb0f028e56140"
+    "sha256": "336c9112e9f7188edd2081c43c643b4d36631b981309b6955bbbac4261570a0d"
   },
   "archive/gov/vic-gov/pages/early-childhood-update/current.html": {
     "domain": "vic-gov",
-    "sha256": "fc6683e3ee340bfa5b2a900f0b7d3d3d7aff7f060fe78aab2fb42f0ed7026f29"
+    "sha256": "b8e3c66212fc5e7382bc62f77cf85dcd0ad13ba0cbb02de2b01110b520618220"
   }
 }
