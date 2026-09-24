@@ -130,3 +130,9 @@ SHA-256: `fbcce630c9cac307668c5f3c6a15542a18cc94a63cd11eb056cc055af1098824`
  Social Menu
  Facebook
 ```
+
+## 2026-09-24T22:25:55Z — changed
+
+SHA-256: `c47f1e0603beff2814a1e125dc9d112757eed12dd5389d5a00cdcd608adc53f0`
+
+No visible wording change; HTML bytes changed.

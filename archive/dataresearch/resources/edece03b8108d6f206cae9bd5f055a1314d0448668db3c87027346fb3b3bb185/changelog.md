@@ -5,3 +5,9 @@ Source: https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-
 ## 2026-09-24T15:10:44Z — new
 
 SHA-256: `97ef28dd26d357b8a091a4c00c34ff7d148672c76f7890afd510c8defea41a6f`
+
+## 2026-09-24T22:25:55Z — changed
+
+SHA-256: `453a82a7a7d716e64f3a784e362bc537c382bd1924027e7630a63f8c9650a64f`
+
+No visible wording change; HTML bytes changed.
