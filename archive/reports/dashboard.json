@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:25:50Z",
+  "generated_at": "2026-09-24T11:25:38Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -33,7 +33,7 @@
       "id": "health",
       "name": "Health.gov.au NDIS material",
       "status": "partial",
-      "last_checked": "2026-09-17T18:28:51Z",
+      "last_checked": "2026-09-24T11:12:46Z",
       "tracked_pages": 77,
       "registry": "../gov/health/ndis/manifest.json",
       "latest": "health/latest-changes.md",
@@ -103,13 +103,13 @@
       "id": "reports/health",
       "name": "Reports / Health",
       "status": "recorded changes",
-      "last_checked": "2026-09-17T18:40:56Z",
+      "last_checked": "2026-09-24T11:25:37Z",
       "tracked_pages": 0,
       "registry": "health/change-ledger.csv",
       "latest": "health/changes.html",
       "changes": {
         "NEW": 80,
-        "MODIFIED": 104,
+        "MODIFIED": 110,
         "REMOVED": 0
       }
     },
@@ -131,13 +131,13 @@
       "id": "reports/ndis-commission",
       "name": "Reports / Ndis Commission",
       "status": "recorded changes",
-      "last_checked": "2026-09-17T17:54:41Z",
+      "last_checked": "2026-09-24T11:25:37Z",
       "tracked_pages": 0,
       "registry": "ndis-commission/change-ledger.csv",
       "latest": "ndis-commission/changes.html",
       "changes": {
         "NEW": 1,
-        "MODIFIED": 6,
+        "MODIFIED": 7,
         "REMOVED": 0
       }
     },
@@ -145,13 +145,13 @@
       "id": "reports/ndis-review",
       "name": "Reports / Ndis Review",
       "status": "recorded changes",
-      "last_checked": "2026-09-17T17:54:41Z",
+      "last_checked": "2026-09-24T11:25:37Z",
       "tracked_pages": 0,
       "registry": "ndis-review/change-ledger.csv",
       "latest": "ndis-review/changes.html",
       "changes": {
         "NEW": 116,
-        "MODIFIED": 174,
+        "MODIFIED": 203,
         "REMOVED": 0
       }
     },
