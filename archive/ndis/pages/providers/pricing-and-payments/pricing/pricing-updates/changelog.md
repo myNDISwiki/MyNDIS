@@ -346,3 +346,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We have updated our pricing guidance as part of our regular process to keep our documents up to date and in line with policy.
  We listened to feedback from participants and providers who asked for earlier notice on updates to pricing changes.
 ```
+
+## 2026-09-24T20:33:04Z — changed
+
+- Previous SHA-256: `30ee162adee358a1ac86d01db05864feb2070a4eabb57fa440f8a22ac306e673`
+- New SHA-256: `146695351505c20f4a4b4b922227e7fc9a3b7cfc0529942d4e3acae0cd251c7a`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
