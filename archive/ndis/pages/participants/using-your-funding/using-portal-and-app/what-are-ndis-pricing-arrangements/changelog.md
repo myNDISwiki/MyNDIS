@@ -196,3 +196,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `aab3795ae14e83547ac951b93057832906264dbe478a15ee2290ae7e5e80979e`
+- New SHA-256: `2567df4f699bec83578fd423a7dddec2c3f930a8ea7e3bafdf58d19ac441ce4c`
+- Visible text lines added: 21
+- Visible text lines removed: 11
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,23 +14,33 @@
+ 1 - What the NDIS pricing arrangements are
+ 2 - What the NDIS pricing arrangements are for
+ 3 - What the NDIS pricing arrangements are like
++Update:
++The Minister for Disability and the National Disability Insurance Scheme has made his first pricing determination for NDIS supports. This is set out in the pricing schedules.
+ What the NDIS pricing arrangements are
+-The NDIS pricing arrangements provide guidance on appropriate maximum prices for NDIS supports. Providers can use the arrangements to inform their prices.
+-This is set out in the NDIS pricing schedule document.
+-You and your providers can negotiate what is the appropriate and reasonable price for you and your NDIS supports needs.
+-You must agree to any changes in your pricing before they can be made.
++The Minister’s pricing determination sets maximum prices for supports for the 2026-27 financial year.
++The NDIS pricing schedules set out the maximum prices payable for NDIS supports, including
++specialist disability accommodation (SDA).
++The maximum prices in the schedules only apply to NDIA-managed and plan-managed participants.
++As per the schedules:
++we can’t pay a claim for an amount more than the maximum price
++participants aren’t entitled to a payment if it is more than the maximum price
++NDIS providers can’t charge more than the maximum price.
++You and your providers can continue negotiate what is the appropriate and reasonable price for you and your NDIS supports needs up to the maximum price.
+ What the NDIS pricing arrangements are for
+-We provide pricing guidance in the pricing arrangement to make sure you get value for money in your NDIS supports.
+ We regularly review and make changes to NDIS pricing. We consider things like the business costs of delivering NDIS supports and wages for support workers.
+-NDIS prices need to be fair, based on evidence and sustainable so you can continue to have access to high quality supports.
++NDIS prices need to be fair, based on evidence and sustainable so you can continue to have access to high-quality supports.
+ What the NDIS pricing arrangements are like
+-The NDIS pricing schedule
+-The NDIS pricing schedule is a document that has information about what we consider to be the appropriate and reasonable maximum prices for all NDIS supports.
+-Download the NDIS pricing schedule:
++The NDIS pricing schedules
++Download the NDIS pricing schedules:
+ NDIS pricing schedule
+-(PDF 1.3MB) – effective 1 July 2026
++(PDF 1MB) – effective 24 September 2026
+ NDIS pricing schedule
+-(DOCX 453KB) – effective 1 July 2026
++(DOCX 496KB) – effective 24 September 2026
++Download the pricing schedule for specialist disability accommodation (SDA):
++NDIS pricing schedule for SDA
++(PDF 1MB) – effective 24 September 2026
++NDIS pricing schedule for SDA
++(DOCX 363KB) – effective 24 September 2026
+ Tip: You can ask for help to understand or translate the pricing arrangements.
+ You can get help to navigate the arrangements by talking about them with a family member, friend or someone who helps you with your plan, like your
+ my NDIS contact
+```

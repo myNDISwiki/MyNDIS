@@ -179,3 +179,38 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `e4159f3a669f8628f1fab01f5ded7779f085cfdd8f5e92589e1773da46e5e47f`
+- New SHA-256: `d8d21d989590649e952feceddb6b5eb0ca2bcff3d00d6dca61326f70377fc4ca`
+- Visible text lines added: 7
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,6 +7,7 @@
+ Print this page
+ Save page as PDF
+ On this page:
++2026-27 pricing arrangement archive
+ 2025-26 pricing arrangements archives
+ 2024-25 pricing arrangements archives
+ 2023-24 pricing arrangements archives
+@@ -17,6 +18,12 @@
+ 2018-19 pricing arrangement archives
+ 2017-18 pricing arrangement archives
+ 2016-17 pricing arrangement archives
++2026-27 pricing arrangement archive
++The NDIS pricing schedule document
++NDIS pricing schedule
++(PDF 1MB) – effective 1 July 2026
++NDIS pricing schedule
++(DOXC 453KB) – effective 1 July 2026
+ 2025-26 pricing arrangements archives
+ Pricing Arrangements and Price Limits (PAPL)
+ NDIS Pricing Arrangements and Price Limits 2025-26
+```

@@ -178,3 +178,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `ca3ef51665322c03a334781979478b2092217b46ebb352d6da30a5724180f3e2`
+- New SHA-256: `a2946c6afad513d51a6e126f1daeed7e1edaf4698cdf5f66b7e01486cea93bcf`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -54,7 +54,7 @@
+ General Manager, Risk, Audit and Resilience/Chief Risk Officer – Andrew Parsons
+ Chief Corporate and Commercial Officer – Phoebe Thompson
+ Chief Financial Officer – Chris Breitkreuz
+-General Manager, Strategic Communications – Jo Collins (Acting), Vacant
++General Manager, Strategic Communications – Catherine Payne
+ Legal, Actuarial, Governance and Reviews
+ Deputy CEO, Legal, Reviews, Actuarial and Data – vacant
+ General Manager, Legal/Chief Counsel – Ben Cheever (Acting), Tom McGregor
+```

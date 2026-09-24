@@ -188,3 +188,31 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `8ca632e2d43984b78ade9314f69dbd3ae5c221de4867dcb2ebdcc28a55f46c9f`
+- New SHA-256: `1b952203a993ec0e48b54131c038419d849eab1564f740f53a2ed40985cb1e68`
+- Visible text lines added: 6
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,7 +17,12 @@
+ What the specialist disability accommodation
+ (
+ SDA) pricing arrangements are
+-The pricing arrangements for specialist disability accommodation (SDA) set out information we consider to be the appropriate and reasonable maximum prices for SDA supports.
++The NDIS pricing schedules set out the maximum prices payable for NDIS supports, including specialist disability accommodation (SDA).
++Download the pricing schedule for specialist disability accommodation (SDA):
++NDIS pricing schedule for SDA
++(PDF 1MB) – effective 24 September 2026
++NDIS pricing schedule for SDA
++(DOCX 363KB) – effective 24 September 2026
+ The SDA price calculator can help you understand the expected annual income for an enrolled SDA home.
+ Download the arrangements
+ NDIS Pricing arrangements for Specialist Disability Accommodation 2026-27
+```

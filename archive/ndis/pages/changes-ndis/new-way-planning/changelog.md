@@ -179,3 +179,22 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `acacf39a3c826ebc50b0a747c02e3169bf85ecd9a2f7593ec4c98ea70e1c2206`
+- New SHA-256: `7bdad78653aa72397b6c948e7f518618dd206c1351525439cbc2234e80acb320`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -70,3 +70,4 @@
+ Main navigation sidebar
+ Changes to the NDIS
+ New way of planning
++Changes to plan management
+```

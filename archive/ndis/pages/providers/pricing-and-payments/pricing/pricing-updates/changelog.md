@@ -287,3 +287,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `16938180cbd464b2101fed3e6c31f5e3bab0e117086c9d03e9779c3aa2c8c1cc`
+- New SHA-256: `30ee162adee358a1ac86d01db05864feb2070a4eabb57fa440f8a22ac306e673`
+- Visible text lines added: 14
+- Visible text lines removed: 13
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,30 +7,31 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-Annual pricing review (APR) for 2026-27 prices
++Minister’s pricing determination
+ Previous pricing updates
+ On this page:
+-1 - Annual pricing review (APR) for 2026-27 prices
++1 - Minister’s pricing determination
+ 2 - Previous pricing updates
++Update:
++Consultation is now open for annual pricing review for 2027-28 prices. Consultation closes on 1 November 2026. Learn more at
++NDIS Engage
++.
++Minister’s pricing determination
++We’ve published updated pricing schedules following the Minister for Disability and the National Disability Insurance Scheme’s pricing determination for NDIS supports. The pricing determination has been made in line with NDIS laws.
++The maximum prices in the pricing schedules reflect our guidance on recommended prices published in June 2026. Participants and providers don’t need to do anything.
++The pricing determination was informed by our advice that considered the cost of safe, efficient, high-quality supports, supports diversity and competition in the NDIS market, and the financial sustainability of the NDIS. This includes the recommendations from the annual pricing review for 2026-27 prices.
++Learn more about the
++pricing schedules
++and pricing arrangements.
++Previous pricing updates
+ Annual pricing review (APR) for 2026-27 prices
+ We’ve released the annual pricing review (APR). It provides guidance on what we consider appropriate NDIS prices for 2026-27.
+-We’ve also released a pricing schedule. This provides guidance on appropriate prices for NDIS supports, including prices from the APR.
+-You can use the NDIS pricing schedule to help inform your prices from 1 July 2026. You must talk with participants about any proposed changes to existing service agreements. Participants must agree to these changes before they are made.
+-On 14 May 2026 the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 (Bill) was introduced into Parliament. The Bill proposes to provide the Minister for the NDIS with the power to make a pricing determination.
+-This year’s APR sets out guidance and views regarding appropriate NDIS prices. It is anticipated the APR will inform any advice provided by us to the Minister for the NDIS on pricing, if the Bill is subsequently passed.
+ APR for 2026-27 prices report
+ Download the APR for 2026-27 prices report:
+ Annual pricing review for 2026-27 prices report
+ (PDF 5.9MB)
+ Annual pricing review for 2026-27 prices report
+ (DOCX 4MB)
+-The NDIS pricing schedule
+-Download the pricing schedule:
+-NDIS pricing schedule
+-(PDF 1.3MB) – effective 1 July 2026
+-NDIS pricing schedule
+-(DOCX 453KB) – effective 1 July 2026
+-Previous pricing updates
+ Pricing guidance updates – in effect 24 November 2025
+ We have updated our pricing guidance as part of our regular process to keep our documents up to date and in line with policy.
+ We listened to feedback from participants and providers who asked for earlier notice on updates to pricing changes.
+```

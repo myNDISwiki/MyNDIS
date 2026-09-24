@@ -674,3 +674,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `5f6a0b12d3b7cde89e76759488cf8b528101c9c4b9cec227e3cda55a130717f9`
+- New SHA-256: `a5efb15f9122358ab918b562fef8cd4da9385e55cbeffa77bbf7971b881703c7`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Find specialist disability accommodation (SDA)
+-15 September 2026
+-Neurodegenerative, Palliative Care and Rare Diseases Advisory Group
+-15 September 2026
+-What is self-managed funding
+-15 September 2026
+-Supported Decision Making Advisory Group
+-15 September 2026
+-Our guidelines
+-15 September 2026
+-Neurodegenerative Palliative Care and Rare Diseases Advisory Group meeting summary July 2026
+-15 September 2026
+-Supported Decision Making Advisory Group meeting summary July 2026
+-15 September 2026
+-Booklets and factsheets
+-15 September 2026
+-Board profiles
+-14 September 2026
+-National Disability Insurance Scheme (NDIS), Bunbury, 6230
+-14 September 2026
++National Disability Insurance Scheme (NDIS), Melton, 3337
++23 September 2026
++How to ask for a change to your plan
++23 September 2026
++Local Area Coordinator (LAC) partner, Wyong, 2259
++23 September 2026
++Local Area Coordinator (LAC) partner, Gosford, 2250
++23 September 2026
++CALD Expert Advisory Group
++23 September 2026
++Cultural and Linguistic Diversity Expert Advisory Group meeting summary September 2026
++23 September 2026
++What is the NDIS
++23 September 2026
++Stronger NDIS integrity controls save billions
++23 September 2026
++Changes to plan management
++23 September 2026
++Securing the NDIS for future generations
++23 September 2026
+```

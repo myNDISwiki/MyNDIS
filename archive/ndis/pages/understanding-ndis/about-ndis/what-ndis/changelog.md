@@ -165,3 +165,55 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `fef79e4733aa10f612d007bc103935f1d5d335d026a22c194c1d904280612f47`
+- New SHA-256: `13d1175ba44d0def122278c91e322000974dd92b0b65632c57a7f793eb786860`
+- Visible text lines added: 17
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -6,20 +6,29 @@
+ Print this page
+ Save page as PDF
+ The NDIS
+-The NDIS provides funding to eligible people with disability to gain more time with family and friends, greater independence, access to new skills, jobs, or volunteering in their community, and an improved quality of life.
+-The NDIS also connects anyone with disability to services in their community.
+-This includes connections to doctors, community groups, sporting clubs, support groups, libraries and schools, as well as providing information about what support is provided by each state and territory government.
+-The NDIS now supports over 500,000 Australians with disability to access the services and supports they need.
+-This includes supporting approximately 80,000 children with developmental delay, ensuring they receive supports early so that they achieve the best outcomes throughout their lives.
+-For more information you can view the
+-Participant service charter
+-.
++The NDIS provides funding to eligible Australians with permanent and significant disability to help them have:
++more time with family and friends
++greater independence
++access to new skills, jobs, or volunteering in their community
++an improved quality of life.
++The NDIS also connects anyone with disability to services in their community such as:
++doctors
++community groups
++sporting clubs
++support groups
++libraries and schools.
++The NDIS also provides information about what support is provided by each state and territory government.
++Visit the
++participant service charter
++for more information.
+ Videos
+ What is the NDIS
++Learn more about the NDIS in this video.
+ Transcript for '
+ What is the NDIS
+ '
+ What is the NDIS (Auslan)
++Learn more about the NDIS in this video featuring Auslan interpretation.
+ Transcript for '
+ What is the NDIS
+ '
+```

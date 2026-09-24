@@ -179,3 +179,37 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `eb2f76410e351c4b4e397aeda82295323d8e9463230755f5c137b91b52e63e09`
+- New SHA-256: `1d57cb5d2419ffddeca07fd41b4ad074bad84cb29c2c3a650c7f99340e2e1570`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -15,13 +15,13 @@
+ 2 - What the annual pricing review (APR) is for
+ 3 - The annual pricing review (APR) for 2026-27 prices report
+ Update:
+-We’ve released the annual pricing review (APR). It provides guidance on what we consider appropriate NDIS prices for 2026-27.
+-We’ve also released a pricing schedule. This provides guidance on appropriate pricing for NDIS supports, including prices from the APR.
+-Visit
+-pricing updates
+-to learn more about the APR and download the pricing schedule.
++The Minister for Disability and the National Disability Insurance Scheme has made his first pricing determination for NDIS supports. This is set out in the pricing schedules.
++Consultation for the annual pricing review for 2027-28 prices and pricing arrangements is now open. Feedback will help shape future pricing arrangements and ensure they reflect the needs and experiences of people who rely on and deliver NDIS supports every day. Learn more on
++NDIS Engage
++.
+ What the annual pricing review (APR) is
+-The annual pricing review (APR) is a yearly check done by us to make sure prices for NDIS supports are up to date.
++Each year we review NDIS prices to understand whether any pricing changes should be considered. This process is called the annual pricing review (APR). The review considers a range of factors, including supply and demand in the market, prices in other markets, wage rates and labour conditions, and broader economic factors.
++We’ll use the APR process to inform our pricing advice to the Minister for the purpose of making a pricing determination.
+ What the annual pricing review (APR) is for
+ NDIS prices need to be fair, based on evidence and sustainable so participants continue to have access to high quality supports.
+ The APR helps to provide:
+```

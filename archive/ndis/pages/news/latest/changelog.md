@@ -754,3 +754,111 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `af46bd3c0fec750c51315f2886c6ff548c8b0dd6aa6707e9d31f2d55323c2773`
+- New SHA-256: `5f9c12d3f2fc649ff055302eb62d3b865eed721185a3d293822040c27bb69917`
+- Visible text lines added: 26
+- Visible text lines removed: 26
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -30,7 +30,7 @@
+ Home and living demonstration projects - round 2
+ (4)
+ CALD Expert Advisory Group communique
+-(3)
++(4)
+ Mental Health Sector Reference Group communique
+ (12)
+ Co design advisory group communique
+@@ -48,17 +48,17 @@
+ Provider news
+ (3)
+ Media release
+-(59)
++(61)
+ Media release from the Minister
+-(92)
++(93)
+ News - housing
+ (2)
+ Media statements
+ (5)
+ News
+-(325)
++(326)
+ Notification
+-(41)
++(42)
+ News State or Territory
+ ACT
+ (12)
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(7)
++(11)
+ August 2026
+ (13)
+ July 2026
+@@ -358,6 +358,26 @@
+ Search
+ Search
+ Category
++Media release
++News
++New price limits set for NDIS supports
++As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
++Date
++24 September 2026
++Category
++Media release
++Media release from the Minister
++Stronger NDIS integrity controls save billions
++Stronger NDIS integrity systems put in place by the Australian Government have delivered $2.1 billion in savings and benefits through stopping non-compliant payments and protecting participant funding from misuse.
++Date
++23 September 2026
++Category
++Notification
++Planned system updates 26 September 2026
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
++Date
++21 September 2026
++Category
+ Changes to the NDIS
+ News
+ Changes to support budgets from 1 October
+@@ -376,26 +396,6 @@
+ The NDIA has updated our public data, now current as at 30 June 2026.
+ Date
+ 14 September 2026
+-Category
+-Media release
+-Media release from the Minister
+-Pair jailed as NDIS integrity systems protect participants
+-The Australian Government welcomes 2 prison sentences handed down this week as unprecedented integrity actions continue to strengthen NDIS systems and protect participants.
+-Date
+-11 September 2026
+-Category
+-Media release
+-News
+-Final man jailed over NSW fraud syndicate
+-A Chester Hill man, 37, was sentenced by the Paramatta District Court yesterday (7 September, 2026) to four years’ imprisonment for his role in a multimillion-dollar fraud against the NDIS and Australian Taxation Office (ATO).
+-Date
+-8 September 2026
+-Category
+-Provider news
+-NDIS reform: Have your say on NDIS support coordination and connection service
+-This message is shared on behalf of the Department of Health, Disability and Ageing. The Australian Government is making changes to help secure the future of the NDIS.
+-Date
+-7 September 2026
+ Pagination
+ 1
+ 2
+```

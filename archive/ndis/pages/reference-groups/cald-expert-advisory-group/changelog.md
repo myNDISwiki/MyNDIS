@@ -174,3 +174,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `56e005f29c67b7b2c62cf1c8c5c874baa6ac158439e2fce0c5e50b4c99aa776f`
+- New SHA-256: `928af2416b61d2352b54029e7ba700493f89c3ef365ecf75ec9ccdcbd5978437`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -42,6 +42,7 @@
+ Sylvana Mahmic – Plumtree Children’s Services
+ Meeting summaries
+ 2026 meeting summaries
++1 September 2026 meeting summary
+ 8 July 2026 meeting summary
+ 10 March 2026 meeting summary
+ 2025 meeting summaries
+```

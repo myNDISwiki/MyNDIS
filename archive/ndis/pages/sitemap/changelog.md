@@ -222,3 +222,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `5be04bc94be9ddfcf867f433f65cd38249e00c586c7cbe0dd9adbdd64340fb68`
+- New SHA-256: `5f98a170040d977daf16ce49167b5a73ad5699438379e6d525e61b5e385c32d8`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -258,6 +258,7 @@
+ Annual Report 2015-16
+ Annual Report 2014-15
+ Annual Report 2013-14
++Changes to plan management
+ Getting the NDIS back on track
+ Summary of legislation changes
+ Pricing and payments
+```

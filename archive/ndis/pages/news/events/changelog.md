@@ -613,3 +613,110 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `abc0687cbaf61cf7c96bf19e0aac5e62858d4ed1c096deb108698a18e9ffcb6b`
+- New SHA-256: `1f6fe5d8dbc5051c29986177c1c87f3db19dff39e430311fc6e2d4a104523c04`
+- Visible text lines added: 29
+- Visible text lines removed: 31
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -11,10 +11,10 @@
+ Save page as PDF
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
++Provider Engagement
++(12)
+ Community Engagement
+-(16)
+-Provider Engagement
+-(15)
++(11)
+ No states available
+ Event date
+ November 2026
+@@ -22,52 +22,50 @@
+ October 2026
+ (15)
+ September 2026
+-(15)
++(7)
+ Search
+ Search
+ Category
+ Community Engagement
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++An overview of changes to the NDIS laws
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+-Tuesday, 15 September 2026
++Wednesday, 23 September 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Wednesday, 23 September 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Thursday, 24 September 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Monday, 28 September 2026
+ Category
+ Community Engagement
+-An overview of NDIS Legislation Changes: Securing the NDIS for Future Generations
++An overview of changes to the NDIS laws
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+-Wednesday, 16 September 2026
++Tuesday, 29 September 2026
+ Category
+ Community Engagement
+-Understanding the NDIS webinar: NDIS Assistive Technology
+-When NDIA talks about assistive technology, we mean equipment, technology, and devices that help you do things you can’t do because of your disability.
++An overview of changes to the NDIS laws
++The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+-Wednesday, 16 September 2026
+-Category
+-Provider Engagement
+-SDA Enrolments Webinar
+-Are you a Specialist Disability Accommodation (SDA) provider looking to improve the way you operate? Join us for a webinar covering the key things you need to know about working as an SDA provider.
+-Event Date
+-Thursday, 17 September 2026
+-Category
+-Provider Engagement
+-Working as an NDIS Provider
+-The National Disability Insurance Agency (NDIA) invites all new NDIS providers who have started delivering supports to NDIS participants to attend an information session on Working as a NDIS Provider.
+-Event Date
+-Friday, 18 September 2026
+-Category
+-Provider Engagement
+-Getting Paid as an NDIS Provider
+-The National Disability Insurance Agency (NDIA) invites providers to an information session about the NDIA claims and payment processes.
+-Event Date
+-Tuesday, 22 September 2026
++Wednesday, 30 September 2026
+ Pagination
+ 1
+ 2
+ 3
+ 4
+-5
+-6
+ ›
+ ››
+ »
+```

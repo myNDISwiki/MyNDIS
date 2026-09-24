@@ -245,3 +245,32 @@ The page bytes changed, but no visible main-content wording change was detected.
  Contact supports and services
  Translating and interpreting
 ```
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `c557bb46314116fb2517b823fb07c2169b5ebe3cf9ec93edb99c6af54a64fbba`
+- New SHA-256: `1d16e39e9dd07c5a3f95f56063356dbf394cd3602eafd6d72282069ced985fca`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -8,6 +8,8 @@
+ NDIS laws
+ Changes to the NDIS
+ Test the new way of planning
++Changes to the NDIS
++Changes to plan management
+ Changes to the NDIS
+ Latest news about changes
+ Category
+@@ -44,4 +46,4 @@
+ family violence and mental health
+ services.
+ This page current as of
+-30 June 2026
++15 September 2026
+```

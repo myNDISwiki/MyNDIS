@@ -179,3 +179,101 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `84dd35f5b9f3344167afa614fba3896739275b10a77cc2a42ebb254efac1fadf`
+- New SHA-256: `07015ac3f641f071d9370c5e21b42b0ba063acdf7ea5c2ed807e238f308e2248`
+- Visible text lines added: 34
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,28 +7,43 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-The NDIS pricing schedule
+-Other documents and addendums
++The NDIS pricing schedules
++Other pricing and claiming guidance documents
+ On this page:
+-1 - The NDIS pricing schedule
+-2 - Other documents and addendums
+-The NDIS pricing schedule
+-The NDIS pricing schedule sets out information about what we consider to be the appropriate and reasonable maximum prices for all NDIS supports.
+-You can use the pricing schedule to inform your prices from 1 July 2026. You must discuss proposed changes to existing service agreements with participants. Participants must agree to the changes before they are made.
+-The NDIS pricing schedule includes the support item number, support item name, the unit, and the national, remote and very remote recommended maximum prices for each support item.
+-The NDIS pricing schedule document
+-Download the NDIS pricing schedule:
++1 - The NDIS pricing schedules
++2 - Other pricing and claiming guidance documents
++Update:
++The Minister for Disability and the National Disability Insurance Scheme has made his first pricing determination for NDIS supports. This is set out in the pricing schedules.
++The NDIS pricing schedules
++The Minister’s pricing determination sets maximum prices for supports for the 2026-27 financial year.
++The NDIS pricing schedules set out the maximum prices payable for NDIS supports, including
++specialist disability accommodation (SDA).
++The maximum prices in the schedules only apply to NDIA-managed and plan-managed participants.
++As per the schedules:
++we can’t pay a claim for an amount more than the maximum price limits
++NDIS providers can’t charge more than the maximum price limits
++participants aren’t entitled to a payment if it is more than the maximum price.
++The NDIS pricing schedules outline support item numbers and names, and the national, remote and very remote maximum prices.
++The NDIS pricing schedule 2026-27
++Download the NDIS pricing schedules:
+ NDIS pricing schedule
+-(PDF 1.3MB) – effective 1 July 2026
++(PDF 1MB) – effective 24 September 2026
+ NDIS pricing schedule
+-(DOCX 453KB) – effective 1 July 2026
+-Other documents and addendums
++(DOCX 496KB) – effective 24 September 2026
++NDIS pricing schedule for SDA 2026-27
++Download the pricing schedule for SDA:
++NDIS pricing schedule for SDA
++(PDF 1MB) – effective 24 September 2026
++NDIS pricing schedule for SDA
++(DOCX 363KB) – effective 24 September 2026
++Other pricing and claiming guidance documents
++We will shortly publish updated pricing and claiming guidance documents.
+ Pricing arrangements and price limits for 2025-26
+ Download the NDIS pricing arrangements and price limits:
+ NDIS pricing arrangements and price limits 2025–26
+-(PDF 1.4 MB)
++(PDF 1MB)
+ NDIS pricing arrangements and price limits 2025–26
+-(DOCX 381 KB)
++(DOCX 381KB)
+ Pricing arrangements for specialist disability accommodation
+ Pricing arrangements for specialist disability accommodation (SDA) is a summary of prices that apply to SDA.
+ Learn more about the
+@@ -37,20 +52,20 @@
+ Bereavement addendum
+ The NDIS bereavement addendum lists NDIS supports providers can claim after a participant has died.
+ NDIS bereavement addendum 2025-26
+-(DOCX 73 KB) - effective 1 July 2025
++(DOCX 73KB) - effective 1 July 2025
+ Assistive technology, home modifications and consumables code guide
+ The assistive technology, home modifications and consumables code guide lists the most widely used supports.
+ This is not a full list of all supports.
+ Assistive Technology home modifications and consumables code guide 2025-26
+-(PDF 757 KB) - effective 24 November 2025
++(PDF 757KB) - effective 24 November 2025
+ Assistive technology, home modifications and consumables code guide 2025–26
+ (DOCX 205KB) - effective 24 November 2025
+ Disability support worker cost model
+ The cost model estimates the cost for delivering a billable hour of support.
+ NDIS disability support worker cost model 2026–27
+-(PDF 600 KB) - effective 1 July 2026
++(PDF 600KB) - effective 1 July 2026
+ NDIS disability support worker cost model 2026–27
+-(DOCX 122 KB) - effective 1 July 2026
++(DOCX 122KB) - effective 1 July 2026
+ Main navigation sidebar
+ For providers
+ Pricing and payments
+```

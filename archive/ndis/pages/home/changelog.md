@@ -449,3 +449,51 @@ The page bytes changed, but no visible main-content wording change was detected.
  Participant experiences
  Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
 ```
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `0e12fa1a99f05e12c581f47a52768aef5069f06e80b07e8aaf62eb4f20b52c0c`
+- New SHA-256: `1bb844c647174e4fdba8525638eea8a50a32dcec73c794245b8ba711250749d2`
+- Visible text lines added: 12
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,21 +31,23 @@
+ Learn more
+ Latest news
+ Category
++Media release
++News
++New price limits set for NDIS supports
++Date
++24 September 2026
++Category
++Media release
++Media release from the Minister
++Stronger NDIS integrity controls save billions
++Date
++23 September 2026
++Category
+ Changes to the NDIS
+ News
+ Changes to support budgets from 1 October
+ Date
+ 17 September 2026
+-Category
+-News
+-Consultation begins for 2027-28 NDIS pricing
+-Date
+-17 September 2026
+-Category
+-News
+-NDIS online data updated
+-Date
+-14 September 2026
+ Read more news
+ Participant experiences
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+```

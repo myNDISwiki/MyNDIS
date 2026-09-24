@@ -388,3 +388,28 @@ The page bytes changed, but no visible main-content wording change was detected.
  request a change to their plan
  where there is a significant change in their functional capacity or circumstances.
 ```
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `2a881240491c5a3c595c82640cfcd7eed6d54ca73c53812dc324c5bf4249a209`
+- New SHA-256: `45fa12726054f537d6d97a043fee32985a49e15c577c73f887224385ea7998d3`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -103,7 +103,9 @@
+ We’ll expand mandatory registration requirements for some providers.
+ This will impact providers who deliver personal care and daily living supports and supports provided in closed settings.
+ Changes from October 2027
+-A trusted panel of plan management providers will be established.
++A trusted
++panel of plan management providers
++will be established.
+ Participants will be supported to transition to a provider on the panel over 6 months.
+ Changes from January 2028
+ Access changes begin for new applicants to the NDIS, with existing participants reassessed over 3 years. The changes include:
+```

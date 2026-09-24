@@ -291,3 +291,68 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `a61141dee2bae16a432642a348434e40bb0cc1015c7505fa946f18d6cd5671c6`
+- New SHA-256: `97a320d6f1217cfbff7fa9775e62910e7e4e5add79b32c082f7b209513a60f42`
+- Visible text lines added: 15
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,7 +21,7 @@
+ NT
+ (1)
+ September 2026
+-(2)
++(4)
+ August 2026
+ (2)
+ July 2026
+@@ -106,6 +106,20 @@
+ Search
+ Category
+ Media release
++News
++New price limits set for NDIS supports
++As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
++Date
++24 September 2026
++Category
++Media release
++Media release from the Minister
++Stronger NDIS integrity controls save billions
++Stronger NDIS integrity systems put in place by the Australian Government have delivered $2.1 billion in savings and benefits through stopping non-compliant payments and protecting participant funding from misuse.
++Date
++23 September 2026
++Category
++Media release
+ Media release from the Minister
+ Pair jailed as NDIS integrity systems protect participants
+ The Australian Government welcomes 2 prison sentences handed down this week as unprecedented integrity actions continue to strengthen NDIS systems and protect participants.
+@@ -131,20 +145,6 @@
+ The AFP has charged an Adelaide man over an alleged multi-million-dollar dishonesty plot against the NDIS.
+ Date
+ 17 August 2026
+-Category
+-Fraud and compliance
+-Media release
+-Darwin woman second person charged over alleged abuse of public office and multimillion-dollar NDIS plot
+-A Darwin woman is the second person to be charged for allegedly using her position as a public servant to facilitate corrupt conduct involving millions of dollars from the NDIS.
+-Date
+-29 July 2026
+-Category
+-Media release
+-Media release from the Minister
+-Phone service established for First Nations people with disability
+-First Nations people seeking NDIS help can now call a new phone line, established to provide a more culturally respectful, tailored experience with the National Disability Insurance Agency (NDIA).
+-Date
+-9 July 2026
+ Pagination
+ 1
+ 2
+```

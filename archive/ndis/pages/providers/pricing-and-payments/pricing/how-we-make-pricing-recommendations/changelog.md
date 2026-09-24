@@ -179,3 +179,90 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-24T16:32:11Z — changed
+
+- Previous SHA-256: `28272a226ffeaa4718448208fc1e3b8e25a250bec8e5a79d4f1dbfa764c153f1`
+- New SHA-256: `f5ccdabf5b70b0865d3694aaec072704913d4706d2e386e8d2aeed4d49f5fb28`
+- Visible text lines added: 17
+- Visible text lines removed: 22
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,21 +7,22 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-Making pricing recommendations
++Developing pricing advice
+ 3-year pricing workplan
+-Annual pricing review
++Annual pricing review (APR)
+ Pricing Arrangement Reference Group
+-Independent Pricing Committee
+ On this page:
+-1 - Making pricing recommendations
++1 - Developing pricing advice
+ 2 - 3-year pricing workplan
+-3 - Annual pricing review
++3 - Annual pricing review (APR)
+ 4 - Pricing Arrangement Reference Group
+-5 - Independent Pricing Committee
+-Making pricing recommendations
++Update:
++The Minister for Disability and the National Disability Insurance Scheme has made his first pricing determination for NDIS supports.
++Developing pricing advice
+ We have a key role in market stewardship across disability support markets, along with the Department of Health, Disability and Ageing and the National Disability Insurance Scheme Quality and Safeguards Commission.
+ NDIS prices need to be fair, based on evidence and sustainable so participants continue to have access to high-quality supports.
+ Each year we undertake a detailed analysis called the annual pricing review. This work assesses NDIS prices based on a range of factors, including supply and demand in the market, prices in other markets, wage rates, and broader economic factors. We then make pricing recommendations on what changes, if any, are required.
++We’ll use the annual pricing review process to inform our pricing advice to the Minister for the purpose of making a pricing determination.
+ The
+ pricing updates
+ page explains recent changes in pricing guidance, and how they might affect participants, their families and carers.
+@@ -30,10 +31,6 @@
+ to assist stakeholders to understand market trends and
+ quarterly reports
+ on the performance of the NDIS.
+-Update:
+-On 14 May 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 was introduced into Parliament. The Bill proposes to provide the Minister for the NDIS with the power to make a pricing determination. Learn more about
+-the Bill
+-.
+ 3-year pricing workplan
+ The 3-year pricing workplan sets out a program for pricing improvements designed to ensure NDIS markets are able to deliver high-quality, sustainable supports participants.
+ Learn more about the 3-year
+@@ -44,22 +41,20 @@
+ These include:
+ annual pricing review
+ quality supports program
+-Annual pricing review
+-The annual pricing review (APR) is a yearly check done by us to make sure prices for NDIS supports are appropriate and reasonable.
+-This is based on a range of factors, including supply and demand in the market, prices in other markets, wage rates, and broader economic factors.
+-The APR is also informed by public and market consultation.
++Annual pricing review (APR)
++Update:
++Consultation is now open for annual pricing review for 2027-28 prices. Consultation closes on 1 November 2026. Learn more at
++NDIS Engage
++.
++Each year we review NDIS prices to understand whether any changes should be considered. This process is called the annual pricing The review considers a range of factors, including supply and demand in the market, prices in other markets, wage rates and labour conditions, and broader economic factors.
++The APR is informed by research and data from a range of sources including NDIS and market data such as private health insurance and comparable government programs such as Medicare, as well as public consultation.
++Public consultation is an important part of the APR process.
+ Learn more about the
+-APR
+-.
++APR.
+ Pricing Arrangement Reference Group
+ We have an independent Pricing Arrangement Reference Group to provide advice on price arrangements to support the best possible outcomes for participants.
+ Learn more about the group’s terms of reference and current members on the
+ Pricing Arrangement Reference Group
+-page.
+-Independent Pricing Committee
+-The NDIA established the Independent Pricing Committee (IPC) in September 2024 to review the NDIS pricing approaches. The IPC finished their work in June 2025.
+-For more information visit the
+-Independent Pricing Committee
+ page.
+ Main navigation sidebar
+ For providers
+```
