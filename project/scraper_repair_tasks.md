@@ -11,10 +11,10 @@ Scope: myNDISwiki/MyNDIS. Status is based on inspected workflow logs, not just g
 - [x] Enable multi-run queuing for all nine archive-writer workflows.
   Commit: [b31a77f](https://github.com/myNDISwiki/MyNDIS/commit/b31a77fc44cfc42ece08cffd9a0523d74fb225ac).
   No archive queue cancellations observed in the 25 September check.
-- [x] Implement Engage NDIS Mapbox secret-token redaction before writing captures and extracting links.
+- [x] Implement Engage NDIS Mapbox access-token redaction before writing captures and extracting links.
   Per-page metadata records occurrence counts and separate received/stored SHA-256 hashes.
   Offline tests cover repeated tokens, unchanged ordinary content, archive output, repeat runs and failed-fetch retention.
-  This is targeted Mapbox redaction, not a general guarantee that every type of credential is detected.
+  Live inspection found a public-prefix token despite GitHub's secret-token label. The rule covers public, secret and temporary tokens. This is targeted Mapbox redaction, not a general guarantee that every type of credential is detected.
 
 ## Priority 1 — Complete live verification and fix remaining workflow failures
 

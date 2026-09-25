@@ -19,11 +19,13 @@ class RedactionTests(unittest.TestCase):
     def test_removes_every_occurrence_without_changing_other_bytes(self):
         token = fake_token()
         public = b"pk" + b".public.value"
+        temporary = b"tk" + b".temporary.value"
         data = b"\xff<script>key='" + token + b"'; public='" + public + b"'</script>" + token
         result, count = tracker.redact_credentials(data)
-        self.assertEqual(count, 2)
-        self.assertEqual(result, data.replace(token, tracker.REDACTION_MARKER))
-        self.assertIn(public, result)
+        self.assertEqual(count, 3)
+        self.assertEqual(result, data.replace(token, tracker.REDACTION_MARKER).replace(public, tracker.REDACTION_MARKER))
+        self.assertNotIn(public, result)
+        self.assertEqual(tracker.redact_credentials(temporary), (tracker.REDACTION_MARKER, 1))
         self.assertEqual(tracker.redact_credentials(result), (result, 0))
 
     def test_does_not_redact_ordinary_text(self):
@@ -52,7 +54,7 @@ class RedactionTests(unittest.TestCase):
                 saved = (root / entry["path"]).read_bytes()
                 self.assertEqual(entry["sha256"], hashlib.sha256(saved).hexdigest())
                 self.assertEqual(entry["source_sha256"], hashlib.sha256(source).hexdigest())
-                self.assertEqual(entry["redactions"], {"mapbox_secret_token": 1})
+                self.assertEqual(entry["redactions"], {"mapbox_access_token": 1})
                 self.assertNotEqual(entry["sha256"], entry["source_sha256"])
 
     def test_failed_fetch_keeps_previously_redacted_capture(self):
@@ -70,7 +72,7 @@ class RedactionTests(unittest.TestCase):
             self.assertEqual(manifest["status"], "partial")
             self.assertEqual((archive / "pages/home/index.html").read_bytes(), before)
             self.assertEqual(manifest["items"][tracker.clean(tracker.SEEDS[0])]["redactions"],
-                             {"mapbox_secret_token": 1})
+                             {"mapbox_access_token": 1})
 
 
 if __name__ == "__main__":

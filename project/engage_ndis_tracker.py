@@ -19,14 +19,14 @@ SEEDS = ("https://engage.ndis.gov.au/", "https://engage.ndis.gov.au/projects")
 HOST = "engage.ndis.gov.au"
 MAX_PAGES = 2000
 
-# Mapbox secret tokens have an sk prefix and two base64url components.
-MAPBOX_SECRET = re.compile(rb"(?<![A-Za-z0-9_-])sk\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+(?![A-Za-z0-9_-])")
-REDACTION_MARKER = b"[REDACTED_MAPBOX_SECRET_TOKEN]"
+# Mapbox access tokens have an sk, pk or tk prefix and two base64url components.
+MAPBOX_TOKEN = re.compile(rb"(?<![A-Za-z0-9_-])(?:sk|pk|tk)\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+(?![A-Za-z0-9_-])")
+REDACTION_MARKER = b"[REDACTED_MAPBOX_ACCESS_TOKEN]"
 
 
 def redact_credentials(data: bytes) -> tuple[bytes, int]:
-    """Remove suspected Mapbox secret tokens without logging their values."""
-    return MAPBOX_SECRET.subn(REDACTION_MARKER, data)
+    """Remove Mapbox access tokens without logging their values."""
+    return MAPBOX_TOKEN.subn(REDACTION_MARKER, data)
 
 
 class Links(HTMLParser):
@@ -78,13 +78,13 @@ def main():
         if old_items.get(url, {}).get("sha256") != digest or not dest.exists(): dest.write_bytes(data)
         items[url] = {"sha256": digest, "path": str(dest.relative_to(ROOT)), "content_type": ctype, "canonical_url": url,
                       "source_sha256": source_digest,
-                      "redactions": {"mapbox_secret_token": redaction_count}}
+                      "redactions": {"mapbox_access_token": redaction_count}}
         if "text/html" in ctype:
             parser = Links(); parser.feed(data.decode("utf-8", errors="replace"))
             queue.extend(clean(urljoin(url, href)) for href in parser.links if urlparse(clean(urljoin(url, href))).netloc == HOST)
     if failures:
         for url, prior in old_items.items(): items.setdefault(url, prior)
-    manifest = {"redaction_policy": {"version": 1, "description": "Suspected Mapbox secret tokens are replaced before storage and link extraction. sha256 describes archived bytes; source_sha256 describes received bytes. Redaction counts are occurrences, not distinct credentials."}, "seeds": list(SEEDS), "checked_at": checked, "status": "partial" if failures else "complete", "fetch_failures": failures, "items": dict(sorted(items.items()))}
+    manifest = {"redaction_policy": {"version": 1, "description": "Mapbox public, secret and temporary access tokens are replaced before storage and link extraction. sha256 describes archived bytes; source_sha256 describes received bytes. Redaction counts are occurrences, not distinct credentials."}, "seeds": list(SEEDS), "checked_at": checked, "status": "partial" if failures else "complete", "fetch_failures": failures, "items": dict(sorted(items.items()))}
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
     rows = [f'<li><a href="{u}">{urlparse(u).path or "/"}</a></li>' for u in sorted(items)]
     (ARCHIVE / "index.html").write_text("<!doctype html><meta charset='utf-8'><title>Engage NDIS archive</title><h1>Engage NDIS archive</h1><p>Tracked pages: %d. Checked: %s</p><ul>%s</ul>" % (len(items), checked, "".join(rows)), encoding="utf-8")
