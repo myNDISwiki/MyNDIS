@@ -1,5 +1,5 @@
 {
-  "bytes": 54520,
+  "bytes": 54521,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e81810b809a10f4d6f4ee8e7dbb198c49a6eae9f4b7ecdd62ac9dad3342f691d",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-24T22:25:55Z",
+  "last_changed": "2026-09-25T22:22:14Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -141,7 +141,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 23 Sep 2026 02:24:52 GMT"
   },
-  "sha256": "13e75bb2b6acaf7478dce5488a00e08934172122e161d0cc7124e690bfe66d08",
+  "sha256": "f332a6aea0c26154eea51afd998aa57c874cf9483539106b85566e1f74633af0",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment"
 }

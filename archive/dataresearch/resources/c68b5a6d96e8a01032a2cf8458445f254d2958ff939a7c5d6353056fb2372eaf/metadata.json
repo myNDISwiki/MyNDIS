@@ -1,5 +1,5 @@
 {
-  "bytes": 63976,
+  "bytes": 63977,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/c68b5a6d96e8a01032a2cf8458445f254d2958ff939a7c5d6353056fb2372eaf",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/hearing-impairment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-24T22:25:55Z",
+  "last_changed": "2026-09-25T22:22:14Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fhearing-impairment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -178,7 +178,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 23 Sep 2026 04:26:46 GMT"
   },
-  "sha256": "5349639ddbeaad77d02e735cfcc0fb9fc8a240d221d0f8e7ede73e9f0d1d0b16",
+  "sha256": "b36c245f62b3ca3ad43a21a20443e0935553b45f69630446db9f2c69f8e6b7cd",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/hearing-impairment"
 }
