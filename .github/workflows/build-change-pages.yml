@@ -24,7 +24,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          ref: main
+          fetch-depth: 0
+      - name: Sync queued run with current main
+        run: git pull --ff-only origin main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,7 +37,7 @@ jobs:
         run: python project/build_dashboard.py
       - name: Commit generated pages
         run: |
-          git add archive/**/changes.html project/changes.html project/site/changes.html project/dashboard.html archive/reports/dashboard.json archive/reports/README.md
+          git add -A -- ':(glob)archive/**/changes.html' project/changes.html project/site/changes.html project/dashboard.html archive/reports/dashboard.json archive/reports/README.md
           if git diff --cached --quiet; then
             echo "No change pages changed."
             exit 0
