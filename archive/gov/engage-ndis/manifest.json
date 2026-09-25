@@ -1,0 +1,35 @@
+{
+  "redaction_policy": {
+    "version": 1,
+    "description": "Mapbox public, secret and temporary access tokens are replaced before storage and link extraction. sha256 describes archived bytes; source_sha256 describes received bytes. Redaction counts are occurrences, not distinct credentials."
+  },
+  "seeds": [
+    "https://engage.ndis.gov.au/",
+    "https://engage.ndis.gov.au/projects"
+  ],
+  "checked_at": "2026-09-25T05:07:43Z",
+  "status": "complete",
+  "fetch_failures": [],
+  "items": {
+    "https://engage.ndis.gov.au": {
+      "sha256": "4021bd33daa33338146704b262d28117fc5eaa4d3fe64e4b5530155279aa2da9",
+      "path": "archive/gov/engage-ndis/pages/home/index.html",
+      "content_type": "text/html; charset=utf-8",
+      "canonical_url": "https://engage.ndis.gov.au",
+      "source_sha256": "632693ff36a1f9bbe76eddb1d94f0aaeaff97433ec739b9a75f75c463f1af2a7",
+      "redactions": {
+        "mapbox_access_token": 1
+      }
+    },
+    "https://engage.ndis.gov.au/projects": {
+      "sha256": "e7f6973d45a6cec2d9cb5d94007caa60eaf0f0e587e853cbb6d73675a0f9ea0a",
+      "path": "archive/gov/engage-ndis/pages/projects/index.html",
+      "content_type": "text/html; charset=utf-8",
+      "canonical_url": "https://engage.ndis.gov.au/projects",
+      "source_sha256": "45c59031b2dbc69a4b2ff5315e5879437c1b2799508494402d9da00605eb69ed",
+      "redactions": {
+        "mapbox_access_token": 1
+      }
+    }
+  }
+}
