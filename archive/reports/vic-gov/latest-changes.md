@@ -1,3 +1,8 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
 
-No changes detected in this run.
+Checked: 2026-09-25T23:21:11Z
+
+## MODIFIED
+
+- https://www.vic.gov.au/early-childhood-update-april-2024/premiers-reading-challenge-2024
+
