@@ -732,3 +732,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Securing the NDIS for future generations
 +23 September 2026
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `a5efb15f9122358ab918b562fef8cd4da9385e55cbeffa77bbf7971b881703c7`
+- New SHA-256: `63d0ae2a316fcff74c6222631b33d6960816d3165b8512266af46e796bc270b1`
+- Visible text lines added: 19
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++New price limits set for NDIS supports
++24 September 2026
++Changes to support budgets from 1 October
++24 September 2026
+ National Disability Insurance Scheme (NDIS), Melton, 3337
+-23 September 2026
+-How to ask for a change to your plan
+-23 September 2026
+-Local Area Coordinator (LAC) partner, Wyong, 2259
+-23 September 2026
+-Local Area Coordinator (LAC) partner, Gosford, 2250
+-23 September 2026
+-CALD Expert Advisory Group
+-23 September 2026
+-Cultural and Linguistic Diversity Expert Advisory Group meeting summary September 2026
+-23 September 2026
+-What is the NDIS
+-23 September 2026
+-Stronger NDIS integrity controls save billions
+-23 September 2026
+-Changes to plan management
+-23 September 2026
+-Securing the NDIS for future generations
+-23 September 2026
++24 September 2026
++National Disability Insurance Scheme (NDIS), Esperance, 6450
++24 September 2026
++The specialist disability accommodation (SDA) pricing arrangements
++24 September 2026
++Pricing arrangements archive
++24 September 2026
++How we make pricing recommendations
++24 September 2026
++What is the annual pricing review (APR)
++24 September 2026
++Pricing arrangements
++24 September 2026
++What are the NDIS pricing arrangements
++24 September 2026
+```

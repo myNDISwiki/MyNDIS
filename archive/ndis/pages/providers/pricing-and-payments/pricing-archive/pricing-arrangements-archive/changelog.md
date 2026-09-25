@@ -214,3 +214,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Pricing Arrangements and Price Limits (PAPL)
  NDIS Pricing Arrangements and Price Limits 2025-26
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `d8d21d989590649e952feceddb6b5eb0ca2bcff3d00d6dca61326f70377fc4ca`
+- New SHA-256: `33cd3976e9daa657a27d45b89f71745ff52fb644262b89ce1b63de2ef5f362a1`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

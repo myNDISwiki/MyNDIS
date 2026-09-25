@@ -413,3 +413,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Changes from January 2028
  Access changes begin for new applicants to the NDIS, with existing participants reassessed over 3 years. The changes include:
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `45fa12726054f537d6d97a043fee32985a49e15c577c73f887224385ea7998d3`
+- New SHA-256: `73bd7730ebdead5b27c2cb3b4e6e946b432f465e33d9437ea4c814ebffdb5b0f`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

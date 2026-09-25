@@ -196,3 +196,105 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `15b2c6f0a9b5095ef4909cbb9687464233659987c3b129de9693f6f7549402e1`
+- New SHA-256: `4b413ed007d34fbf2d50f57250417e717cbf9086875ca44bee235ed74cf25126`
+- Visible text lines added: 35
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,19 +7,37 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-Step 1: Check the decision is reviewable
+-Step 2: Make sure it’s been less than 3 months
+-Step 3: Provide any necessary information
+-Step 4: Ask for an internal review
+-Step 5: Know what to do if you don’t agree with the outcome
++Step 1: Understand why a decision has been made
++Step 2: Check the decision is reviewable
++Step 3: Make sure it’s been less than 3 months
++Step 4: Provide any necessary information
++Step 5: Ask for an internal review
++Step 6: Know what to do if you don’t agree with the outcome
+ On this page:
+-1 - Step 1: Check the decision is reviewable
+-2 - Step 2: Make sure it’s been less than 3 months
+-3 - Step 3: Provide any necessary information
+-4 - Step 4: Ask for an internal review
+-5 - Step 5: Know what to do if you don’t agree with the outcome
+-Step 1: Check the decision is reviewable
+-NDIS laws tell us what decisions can be reviewed. Many decisions we make are reviewable, but some aren’t.
++1 - Step 1: Understand why a decision has been made
++2 - Step 2: Check the decision is reviewable
++3 - Step 3: Make sure it’s been less than 3 months
++4 - Step 4: Provide any necessary information
++5 - Step 5: Ask for an internal review
++6 - Step 6: Know what to do if you don’t agree with the outcome
++Step 1: Understand why a decision has been made
++We’ll let you know when we make a decision about your NDIS eligibility or funding in your NDIS plan.
++You can contact us if you aren’t sure why we’ve made a decision or don’t agree with the decision we’ve made. We can explain the decision.
++Contact us by:
++calling us on
++1800 800 110
++submitting an enquiry through our
++service hub
++talking to your
++my NDIS contact
++visiting your
++local office
++in person.
++You can then ask for a decision review if you still don’t agree with our decision.
++Step 2: Check the decision is reviewable
++NDIS laws tell us what decisions can be reviewed. Many decisions we make are reviewable, but some aren’t. For example,
++budget reductions
++aren’t a reviewable decision.
+ Common decisions that can be reviewed
+ You can review a decision if we decide:
+ you’re not eligible for the NDIS
+@@ -28,6 +46,7 @@
+ not to do a plan reassessment
+ not to do a plan variation
+ to vary your plan
++to vary your under high support needs criteria
+ you need a plan nominee or a different child representative.
+ The
+ reviewing our decisions guideline
+@@ -36,9 +55,9 @@
+ if you’re not sure if the decision is reviewable. You can also speak to your
+ my NDIS contact
+ if you're a participant.
+-Step 2: Make sure it’s been less than 3 months
++Step 3: Make sure it’s been less than 3 months
+ Ask us to review a decision within 3 months from the day you received our decision.
+-Step 3: Provide any necessary information
++Step 4: Provide any necessary information
+ Write down your thoughts
+ To help us review the decision, tell us:
+ what decision you were expecting
+@@ -50,7 +69,7 @@
+ This could include reports or letters that explain your disability and how it impacts your day-to-day life.
+ We’ll contact you if we need extra information to tell you what we need and why we need it.
+ You have up to 28 days to send us this information. Contact us if you need to ask for more time.
+-Step 4: Ask for an internal review
++Step 5: Ask for an internal review
+ If you need help asking for a review
+ You can get help to ask for an internal review from your:
+ family or friends
+@@ -79,7 +98,7 @@
+ (PDF 219KB)
+ Request a review of a decision form
+ (DOCX 95KB)
+-Step 5: Know what to do if you don’t agree with the outcome
++Step 6: Know what to do if you don’t agree with the outcome
+ We’ll let you know what you can expect
+ We aim to complete all internal reviews within 60 days.
+ We’ll let you know what method we’ll use to contact you.
+```

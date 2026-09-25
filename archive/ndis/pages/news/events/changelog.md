@@ -720,3 +720,71 @@ The page bytes changed, but no visible main-content wording change was detected.
  ››
  »
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `1f6fe5d8dbc5051c29986177c1c87f3db19dff39e430311fc6e2d4a104523c04`
+- New SHA-256: `546807749938c3f57c6e3c31cee7d1ebda9d9f235a8b383f2f2912663f89394f`
+- Visible text lines added: 15
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,9 +12,9 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Provider Engagement
+-(12)
++(11)
+ Community Engagement
+-(11)
++(10)
+ No states available
+ Event date
+ November 2026
+@@ -22,21 +22,9 @@
+ October 2026
+ (15)
+ September 2026
+-(7)
++(5)
+ Search
+ Search
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+-Event Date
+-Wednesday, 23 September 2026
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Wednesday, 23 September 2026
+ Category
+ Provider Engagement
+ Introducing changes to the NDIS laws for all providers
+@@ -61,6 +49,18 @@
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+ Wednesday, 30 September 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Wednesday, 30 September 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Tuesday, 6 October 2026
+ Pagination
+ 1
+ 2
+```

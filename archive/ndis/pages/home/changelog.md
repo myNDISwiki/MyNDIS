@@ -497,3 +497,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Participant experiences
  Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `1bb844c647174e4fdba8525638eea8a50a32dcec73c794245b8ba711250749d2`
+- New SHA-256: `50eae8a0c1ebc1df1744b25a3fd493ec9d6b64c9d216f34d93016f367cfab338`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

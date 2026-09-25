@@ -216,3 +216,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Download the arrangements
  NDIS Pricing arrangements for Specialist Disability Accommodation 2026-27
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `1b952203a993ec0e48b54131c038419d849eab1564f740f53a2ed40985cb1e68`
+- New SHA-256: `0fe2ef1dbf12a6576fd1f53b24089877618afa44ad92d3268aacca7bd1d50b1d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

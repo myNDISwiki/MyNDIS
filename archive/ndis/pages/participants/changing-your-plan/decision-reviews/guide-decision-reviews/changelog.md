@@ -187,3 +187,40 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `bdb8812f9495599a02dc8f90d000beeea8264a774437214d96ab501301d630bb`
+- New SHA-256: `4de2f503dc53baf0031034ada554e2ba8ebc6a1e68f03e664b283c643243b49b`
+- Visible text lines added: 6
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -24,8 +24,8 @@
+ whether someone is eligible for the NDIS or not
+ the supports we do and don’t fund.
+ What the law tells us we can do
+-The Australian Government has made laws about who can become an NDIS participant and what can be funded under the NDIS.
+-We follow the rules to decide if you're eligible for the NDIS. Learn more about the
++NDIS laws tell us who can become an NDIS participant and what can be funded under the NDIS.
++We follow the laws to decide if you’re eligible for the NDIS. Learn more about the
+ eligibility requirements
+ .
+ We'll check if the supports you're asking for are NDIS supports before we agree to include them in your plan. We have a
+@@ -36,7 +36,10 @@
+ Steps to ask for a review
+ Contact us
+ if you don’t agree with a decision we make. We can explain the decision.
+-You can ask for a review of a decision if you don’t agree with it.
++You can ask for a review of a decision if you don’t agree with it and if it is a reviewable decision. There are some decisions that aren’t reviewable, such as budget reductions.
++You can ask for a variation if budget reductions have been applied to your plan and you have high support needs. Learn more about
++high support needs variations
++.
+ You can get someone to help you ask for a review. This might be a family member, friend,
+ support coordinator
+ or
+```

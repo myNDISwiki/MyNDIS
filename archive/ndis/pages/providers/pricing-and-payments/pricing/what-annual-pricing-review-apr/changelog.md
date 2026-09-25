@@ -213,3 +213,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  NDIS prices need to be fair, based on evidence and sustainable so participants continue to have access to high quality supports.
  The APR helps to provide:
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `1d57cb5d2419ffddeca07fd41b4ad074bad84cb29c2c3a650c7f99340e2e1570`
+- New SHA-256: `8da2631d303cd7ac222983d83b8e5ea6c1efb8ea5dfde153530b7965c8ea6c61`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

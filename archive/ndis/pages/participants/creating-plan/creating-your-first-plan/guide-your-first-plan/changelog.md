@@ -204,3 +204,49 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `ad74adebb71fe55faf2f535e97a51a2dde8abd9af34e151b6b5d505066183555`
+- New SHA-256: `75a2528ea7959e975b4389ddb414e81d83510a59f92c19c452997a4ebfe53201`
+- Visible text lines added: 12
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,6 +16,14 @@
+ 2 - How we create your first NDIS plan
+ 3 - Getting your first NDIS plan
+ 4 - Our Guidelines
++Update:
++Due to
++new NDIS laws
++budgets will be progressively reduced for social, economic and community participation supports and improved daily living skills.
++The budget reductions will be applied to new and reassessed plans from 1 October 2026 and renewed plans from 1 February 2027.
++Learn more about the
++legislation changes
++.
+ Getting an NDIS plan when you become a participant
+ What is an NDIS plan
+ You receive your first
+@@ -38,12 +46,15 @@
+ your NDIS supports
+ who will manage your funding
+ your total NDIS budget and total funding components amounts
++if
++budget reductions
++have been applied to some supports
+ the length of your NDIS plan and funding periods
+ how to let us know if you think your plan needs to change.
+ How we decide the funding you'll get in your NDIS plan
+ Every person with disability has different needs. That’s why we create individual plans. It’s also why it’s important to give us the right information and evidence to create your plan.
+ We also look at data we’ve collected about other participants with similar circumstances and NDIS supports since the NDIS started.
+-We use all this information to create your plan. This means participants with similar circumstances should receive similar total funding amounts in their plan.
++We use all this information to create your plan.
+ How we create your first NDIS plan
+ We work with you to create a plan that suits your needs
+ You’ll be invited to a plan meeting with an NDIA planner once you’re a participant. A plan meeting is a conversation between you and your NDIA planner.
+```

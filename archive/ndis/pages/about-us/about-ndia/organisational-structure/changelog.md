@@ -201,3 +201,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Deputy CEO, Legal, Reviews, Actuarial and Data – vacant
  General Manager, Legal/Chief Counsel – Ben Cheever (Acting), Tom McGregor
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `a2946c6afad513d51a6e126f1daeed7e1edaf4698cdf5f66b7e01486cea93bcf`
+- New SHA-256: `fa38d9cadfd9b036cbcaa744a4f17c8f02457176198f79595ae160a4c096c6b6`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

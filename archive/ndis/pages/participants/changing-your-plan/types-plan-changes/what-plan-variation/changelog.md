@@ -319,3 +319,36 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `aceaa3129235485c1a80cd9f2f3343dd0f178720514cee638f57772282ffce18`
+- New SHA-256: `e1e625c4aca83deb4f114c09c912369d7c67406a8ab26a1286652ca382a608a2`
+- Visible text lines added: 5
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -25,13 +25,17 @@
+ We can also use a plan variation to correct or add information. This could include:
+ fixing a small or technical error in your plan
+ adding assistive technology that has been recommended in an occupational therapist’s report that we requested during planning.
++You can ask for a variation if you have high support needs and budget reductions applied to your plan. Learn more about
++high support needs variations
++.
++Crisis or emergency funding
+ You may need crisis or emergency funding. We can do this in a plan variation so you can quickly access your NDIS supports.
+ Using all your funding before the end of your plan or
+ funding period
+ isn’t considered by itself an emergency.
+ What a plan variation is like
+ Plan variation request form
+-You, your plan nominee or child representative can ask for a plan variation at any time using the plan variation request form.
++You, your plan nominee or child representative can ask for a plan variation at any time.
+ You need to give
+ consent
+ for someone else, like a support coordinator, to ask for a plan variation.
+```

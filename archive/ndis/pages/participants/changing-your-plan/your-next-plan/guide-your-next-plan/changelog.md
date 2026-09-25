@@ -216,3 +216,53 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `353b31c793e3b858b0ec168421e35ee02faf15e9c4b8a72da1a6741a6dbe3da8`
+- New SHA-256: `f82d2df87ff881e8b99e880216bc2ca34e4e8b9abb7aa5d3493ee9958305e097`
+- Visible text lines added: 11
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,6 +16,14 @@
+ 2 - What happens at your check-in
+ 3 - Asking for a change to your next plan
+ 4 - Keep your next plan the same as your current one
++Update
++: Due to
++new NDIS laws
++budgets will be progressively reduced for social, economic and community participation supports and improved daily living skills.
++The budget reductions will be applied to new and reassessed plans from 1 October 2026 and renewed plans from 1 February 2027.
++Learn more about the
++legislation changes
++.
+ Learn about plan reassessments
+ We’ll work with you to create a new plan when it’s 56 days from its reassessment date if your situation has significantly changed. We call this process a
+ plan reassessment
+@@ -25,9 +33,9 @@
+ my NDIS contact
+ will contact you to organise a time to
+ check-in
+-about 2 to 3 months before your plan’s reassessment date. Your my NDIS contact will talk to you to about your current plan, how it’s been going and if the NDIS supports in it reflect your needs.
+-Tip: How will you contact me?
++about 2 to 3 months before your plan’s reassessment date.
+ Your my NDIS contact will get in touch with you the way you’ve asked us to contact you. This may be by phone, email or letter.
++Your my NDIS contact will talk to you to about your current plan, how it’s been going and if the NDIS supports in it reflect your needs.
+ What happens at your check-in
+ At your check-in, your my NDIS contact might ask you:
+ how you’re going
+@@ -75,7 +83,7 @@
+ plan variations
+ .
+ We may continue your plan
+-We call this a plan continuation. Your plan will continue for the next 12 months instead of being reassessed and getting a new plan.
++We call this a plan continuation. Your plan will continue for up to 12 months instead of being reassessed and getting a new plan.
+ Your continued plan will have the same funding amounts in your core and capacity building budgets as your previous plan. The funding amounts will be indexed.
+ Any unspent funding for NDIS supports from your previous plan can still be used. These funds will remain in the continued plan.
+ Tip: You don’t need to have a plan meeting.
+```

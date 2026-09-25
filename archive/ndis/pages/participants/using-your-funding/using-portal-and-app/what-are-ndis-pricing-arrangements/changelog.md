@@ -255,3 +255,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You can get help to navigate the arrangements by talking about them with a family member, friend or someone who helps you with your plan, like your
  my NDIS contact
 ```
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `2567df4f699bec83578fd423a7dddec2c3f930a8ea7e3bafdf58d19ac441ce4c`
+- New SHA-256: `3395c36ee68697618943062016561e355e7278ee4dceccbe8e9aff4400f33636`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

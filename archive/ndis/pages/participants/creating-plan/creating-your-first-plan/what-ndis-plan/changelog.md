@@ -187,3 +187,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-25T20:32:41Z — changed
+
+- Previous SHA-256: `a8f2d790ed806d33d381470950d45c4eb1415cfac0266b8b96f6f8728d5d0e64`
+- New SHA-256: `b6b6a977aa0f26ecefc39aca4a86909c39aee0f160ba60f28deab2603a0e2eaf`
+- Visible text lines added: 29
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,6 +16,14 @@
+ 2 - What NDIS plans are for
+ 3 - What an NDIS plan is like
+ 4 - Our guideline
++Update:
++Due to
++new NDIS laws
++budgets will be progressively reduced for social, economic and community participation supports and improved daily living skills.
++The budget reductions will be applied to new and reassessed plans from 1 October 2026 and renewed plans from 1 February 2027.
++Learn more about the
++legislation changes
++.
+ What an NDIS plan is
+ NDIS plans are built by
+ NDIA planners
+@@ -63,6 +71,27 @@
+ Your plan explains which of your NDIS supports are:
+ flexible so you can use your total budget amount in the way that suits you best
+ stated, which you can only use the funding for the NDIS support described in your plan.
++When budget reductions are applied
++Budget reductions only apply to these supports categories are:
++social, economic and community participation
++improved daily living skills.
++Within these two categories there are some supports that aren’t affected by budget reductions. These include essential day-to-day, complex, specialised or customisable supports.
++The budget reductions don’t apply to any other support categories.
++You can also apply for a
++plan variation
++if you have high support needs, and a budget reduction will put your wellbeing and safety at risk.
++Your plan will show the funding changes if a budget reduction has been applied to your plan.
++Your NDIA planner will help you understand your NDIS plan and funding at your
++plan meeting
++.
++If you have high support needs
++You can ask for us to vary your plan if you have high support needs and a budget reduction puts your wellbeing and safety at risk.
++You’re considered to have high support needs if:
++your total budget for assistance with daily life, home and living, and assistance with social, economic and community participation is $215,030 or more, and
++you get 24-hour NDIS supports for support needs arising directly from the impairments you access the NDIS for.
++24-hour NDIS supports are those that are available all day and night to meet your ongoing support needs related to your disability. This can include shared or individual supports, or overnight assistance.
++You need to ask us to change your plan for high support needs within 90 days of your plan being approved with budget reductions. We can only vary your plan under a high support needs variation if you meet the criteria.
++We may increase funding for specific supports to make sure you can continue to access 24-hour disability supports if we decide to vary your plan. The increase won’t be more than the budget reduction that was applied to your plan.
+ How you'll manage your plan
+ Your plan will also describe how the funding for each support type will be managed. Learn more about
+ how to manage your plan
+```
