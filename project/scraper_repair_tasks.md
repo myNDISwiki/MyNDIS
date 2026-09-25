@@ -18,8 +18,8 @@ Scope: myNDISwiki/MyNDIS. Status is based on inspected workflow logs, not just g
 
 ## Priority 1 — Complete live verification and fix remaining workflow failures
 
-- [ ] Confirm a fresh Engage NDIS run passes push protection and saves captures.
-  Inspect the manifest redaction counts and successful push. Keep GitHub secret protection enabled.
+- [x] Confirm a fresh Engage NDIS run passes push protection and saves captures.
+  Verified [successful run](https://github.com/myNDISwiki/MyNDIS/actions/runs/36097198763) on 25 September 2026: two retained pages, zero fetch failures, one Mapbox-token redaction per page. Tests and push succeeded. GitHub secret protection remains enabled.
   Do not test or publish the captured credential.
   Evidence: [blocked run](https://github.com/myNDISwiki/MyNDIS/actions/runs/36068373469).
 - [ ] Fix standalone change-history builder merge conflicts.
