@@ -1,6 +1,12 @@
 name: Archive Engage NDIS website
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'project/engage_ndis_tracker.py'
+      - 'project/test_engage_ndis_tracker.py'
+      - '.github/workflows/archive-engage-ndis.yml'
   schedule:
     - cron: "27 5 * * *"
       timezone: "Australia/Melbourne"
@@ -17,6 +23,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: {fetch-depth: 0}
+      - name: Test credential redaction
+        run: python -m unittest discover -s project -p 'test_engage_ndis_tracker.py'
       - run: python project/engage_ndis_tracker.py
         continue-on-error: true
       - run: |
