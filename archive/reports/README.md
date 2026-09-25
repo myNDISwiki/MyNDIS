@@ -1,6 +1,6 @@
 # Tracking dashboard
 
-Generated: 2026-09-25T20:33:27Z
+Generated: 2026-09-25T20:48:40Z
 
 | Tracker | Status | Last checked | Pages | New | Modified | Removed | Registry | Latest |
 |---|---:|---:|---:|---:|---:|---:|---|---|
@@ -9,12 +9,12 @@ Generated: 2026-09-25T20:33:27Z
 | Health.gov.au NDIS material | partial | 2026-09-24T21:29:25Z | 77 | 0 | 6 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
 | Victorian Government reforms | complete | 2026-09-25T18:43:47Z | 250 | 0 | 1 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
 | Reports / .Gitkeep | recorded changes | 2026-09-04T09:54:31Z | 0 | 1 | 0 | 0 | [open](.gitkeep/change-ledger.csv) | [open](.gitkeep/changes.html) |
-| Reports / Aph | recorded changes | 2026-09-24T20:50:00Z | 0 | 3 | 48 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
-| Reports / Engage Ndis | recorded changes | 2026-09-24T20:50:00Z | 0 | 6 | 78 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
+| Reports / Aph | recorded changes | 2026-09-25T20:48:40Z | 0 | 3 | 51 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
+| Reports / Engage Ndis | recorded changes | 2026-09-25T20:48:40Z | 0 | 10 | 84 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
 | Reports / Health | recorded changes | 2026-09-24T21:41:22Z | 0 | 80 | 122 | 0 | [open](health/change-ledger.csv) | [open](health/changes.html) |
-| Reports / Ndia | recorded changes | 2026-09-24T20:50:00Z | 0 | 16 | 168 | 0 | [open](ndia/change-ledger.csv) | [open](ndia/changes.html) |
-| Reports / Ndis Commission | recorded changes | 2026-09-24T11:25:37Z | 0 | 1 | 7 | 0 | [open](ndis-commission/change-ledger.csv) | [open](ndis-commission/changes.html) |
-| Reports / Ndis Review | recorded changes | 2026-09-24T11:25:37Z | 0 | 116 | 203 | 0 | [open](ndis-review/change-ledger.csv) | [open](ndis-review/changes.html) |
+| Reports / Ndia | recorded changes | 2026-09-25T20:48:40Z | 0 | 16 | 180 | 0 | [open](ndia/change-ledger.csv) | [open](ndia/changes.html) |
+| Reports / Ndis Commission | recorded changes | 2026-09-25T20:48:40Z | 0 | 1 | 8 | 0 | [open](ndis-commission/change-ledger.csv) | [open](ndis-commission/changes.html) |
+| Reports / Ndis Review | recorded changes | 2026-09-25T20:48:40Z | 0 | 116 | 232 | 0 | [open](ndis-review/change-ledger.csv) | [open](ndis-review/changes.html) |
 | Reports / Vic Gov | recorded changes | 2026-09-25T18:43:47Z | 0 | 250 | 395 | 0 | [open](vic-gov/change-ledger.csv) | [open](vic-gov/changes.html) |
 
 The Victorian tracker begins at the Thriving Kids page, expands through the Victorian sitemap and relevant links, and automatically registers newly discovered pages. Full response bytes are hashed so even small source changes are retained.
