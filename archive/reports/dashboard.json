@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:53:28Z",
+  "generated_at": "2026-09-26T20:11:30Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -75,13 +75,13 @@
       "id": "reports/aph",
       "name": "Reports / Aph",
       "status": "recorded changes",
-      "last_checked": "2026-09-25T20:48:40Z",
+      "last_checked": "2026-09-26T20:11:29Z",
       "tracked_pages": 0,
       "registry": "aph/change-ledger.csv",
       "latest": "aph/changes.html",
       "changes": {
         "NEW": 3,
-        "MODIFIED": 51,
+        "MODIFIED": 54,
         "REMOVED": 0
       }
     },
@@ -89,13 +89,13 @@
       "id": "reports/engage-ndis",
       "name": "Reports / Engage Ndis",
       "status": "recorded changes",
-      "last_checked": "2026-09-25T20:48:40Z",
+      "last_checked": "2026-09-26T20:11:29Z",
       "tracked_pages": 0,
       "registry": "engage-ndis/change-ledger.csv",
       "latest": "engage-ndis/changes.html",
       "changes": {
         "NEW": 10,
-        "MODIFIED": 84,
+        "MODIFIED": 94,
         "REMOVED": 0
       }
     },
@@ -117,13 +117,13 @@
       "id": "reports/ndia",
       "name": "Reports / Ndia",
       "status": "recorded changes",
-      "last_checked": "2026-09-25T20:48:40Z",
+      "last_checked": "2026-09-26T20:11:29Z",
       "tracked_pages": 0,
       "registry": "ndia/change-ledger.csv",
       "latest": "ndia/changes.html",
       "changes": {
         "NEW": 16,
-        "MODIFIED": 180,
+        "MODIFIED": 186,
         "REMOVED": 0
       }
     },
@@ -131,13 +131,13 @@
       "id": "reports/ndis-commission",
       "name": "Reports / Ndis Commission",
       "status": "recorded changes",
-      "last_checked": "2026-09-25T20:48:40Z",
+      "last_checked": "2026-09-26T20:11:29Z",
       "tracked_pages": 0,
       "registry": "ndis-commission/change-ledger.csv",
       "latest": "ndis-commission/changes.html",
       "changes": {
         "NEW": 1,
-        "MODIFIED": 8,
+        "MODIFIED": 9,
         "REMOVED": 0
       }
     },
@@ -145,13 +145,13 @@
       "id": "reports/ndis-review",
       "name": "Reports / Ndis Review",
       "status": "recorded changes",
-      "last_checked": "2026-09-25T20:48:40Z",
+      "last_checked": "2026-09-26T20:11:29Z",
       "tracked_pages": 0,
       "registry": "ndis-review/change-ledger.csv",
       "latest": "ndis-review/changes.html",
       "changes": {
         "NEW": 116,
-        "MODIFIED": 232,
+        "MODIFIED": 261,
         "REMOVED": 0
       }
     },
