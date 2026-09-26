@@ -1,8 +1,5 @@
 # Victorian Government latest changes
 
-Checked: 2026-09-26T07:51:00Z
+Checked: 2026-09-26T13:13:16Z
 
-## MODIFIED
-
-- https://www.vic.gov.au/early-childhood-update-april-2024/premiers-reading-challenge-2024
-
+No page changes detected in this run.
