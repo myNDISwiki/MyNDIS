@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/visual-impairment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-26T21:57:15Z",
+  "last_changed": "2026-09-27T22:14:47Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fvisual-impairment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -178,7 +178,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 23 Sep 2026 02:58:53 GMT"
   },
-  "sha256": "4c3236e1f0af56cd79615491044c32439d6621980c5a40ae03b799712083ad32",
+  "sha256": "045681c491f7af4e32300edae5731929f0ecc0d6d12653d2eb71fd5fbbf11bc2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/visual-impairment"
 }

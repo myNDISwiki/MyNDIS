@@ -1,5 +1,5 @@
 {
-  "bytes": 5612,
+  "bytes": 5611,
   "content_type": "application/pdf",
   "directory": "resources/3d7de4c6c78ad493b2120b81e215f2d876c61c65c1bbefddd3c67296df309ddc",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4064",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-26T21:57:15Z",
+  "last_changed": "2026-09-27T22:14:47Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Assistive technology interventions to support children.pdf\""
   },
-  "sha256": "3ee6e96f390261dceaa57d97457b010b06d29fa1cfb4b3c304497f533ce1f6d0",
+  "sha256": "0d6567956959279011b1e010e3c81844848cb688411e3afec2629f52241d64e7",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4064"
 }

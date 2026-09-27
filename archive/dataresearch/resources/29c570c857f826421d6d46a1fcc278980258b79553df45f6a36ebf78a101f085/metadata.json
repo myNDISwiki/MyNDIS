@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-26T21:57:15Z",
+  "last_changed": "2026-09-27T22:14:47Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -114,7 +114,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 23 Sep 2026 02:24:47 GMT"
   },
-  "sha256": "216d63a28504c672efea65ba9c0cfe2cd49fc94e9bf64f349ac74e3a233f4bf6",
+  "sha256": "44637fd5a02239b6be431ef0170b11d4d1b65283669883427ffc8ba7bbc973de",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses"
 }

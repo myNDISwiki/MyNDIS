@@ -1,5 +1,5 @@
 {
-  "bytes": 12575,
+  "bytes": 12574,
   "content_type": "application/pdf",
   "directory": "resources/6e8033d8a7005d6e4879c25971a178c1b02785f9789d2cc0ad3daa6c0fb6370f",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4004",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-26T21:57:15Z",
+  "last_changed": "2026-09-27T22:14:47Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Stroke.pdf\""
   },
-  "sha256": "8a910f8215d5c8935f4bfc6325e450a90e1c18308ccd173647aa1ca8e9f0052f",
+  "sha256": "057e4c7381bb47c94f062f36714cde25abd2ddd1c3695bfeba82fdf8efac97e9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4004"
 }
