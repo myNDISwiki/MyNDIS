@@ -1,13 +1,13 @@
 # Tracking dashboard
 
-Generated: 2026-09-27T08:38:22Z
+Generated: 2026-09-27T14:23:37Z
 
 | Tracker | Status | Last checked | Pages | New | Modified | Removed | Registry | Latest |
 |---|---:|---:|---:|---:|---:|---:|---|---|
 | NDIS data and research | partial | 2026-09-26T21:57:15Z | 129 | 0 | 249 | 0 | [open](../dataresearch/manifest.json) | [open](../dataresearch/latest-run.json) |
 | NDIS website | active | — | 0 | 0 | 0 | 0 | [open](../ndis/manifest.json) | [open](../ndis/changes/) |
 | Health.gov.au NDIS material | partial | 2026-09-26T21:07:19Z | 77 | 0 | 6 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
-| Victorian Government reforms | complete | 2026-09-27T08:20:57Z | 250 | 0 | 0 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
+| Victorian Government reforms | complete | 2026-09-27T14:06:29Z | 250 | 0 | 0 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
 | Reports / .Gitkeep | recorded changes | 2026-09-04T09:54:31Z | 0 | 1 | 0 | 0 | [open](.gitkeep/change-ledger.csv) | [open](.gitkeep/changes.html) |
 | Reports / Aph | recorded changes | 2026-09-26T20:11:29Z | 0 | 3 | 54 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
 | Reports / Engage Ndis | recorded changes | 2026-09-26T20:11:29Z | 0 | 10 | 94 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
