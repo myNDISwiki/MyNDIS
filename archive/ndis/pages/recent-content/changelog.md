@@ -789,3 +789,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 +What are the NDIS pricing arrangements
 +24 September 2026
 ```
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `63d0ae2a316fcff74c6222631b33d6960816d3165b8512266af46e796bc270b1`
+- New SHA-256: `d1e3299f52174c321689f32834c3cc7f254c707ec14f24aa31831e67d051ca58`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-New price limits set for NDIS supports
+-24 September 2026
+-Changes to support budgets from 1 October
+-24 September 2026
+-National Disability Insurance Scheme (NDIS), Melton, 3337
+-24 September 2026
+-National Disability Insurance Scheme (NDIS), Esperance, 6450
+-24 September 2026
+-The specialist disability accommodation (SDA) pricing arrangements
+-24 September 2026
+-Pricing arrangements archive
+-24 September 2026
+-How we make pricing recommendations
+-24 September 2026
+-What is the annual pricing review (APR)
+-24 September 2026
+-Pricing arrangements
+-24 September 2026
+-What are the NDIS pricing arrangements
+-24 September 2026
++Continence provider list
++28 September 2026
++National Disability Insurance Scheme (NDIS), Fremantle, 6160
++28 September 2026
++How to pay for your NDIS supports
++28 September 2026
++Your feedback is helping shape the new way of planning
++28 September 2026
++Find specialist disability accommodation (SDA)
++25 September 2026
++Guide to decision reviews
++25 September 2026
++What is a plan variation
++25 September 2026
++Guide to your first plan
++25 September 2026
++How to request a review of a decision
++25 September 2026
++What is an NDIS plan
++25 September 2026
+```

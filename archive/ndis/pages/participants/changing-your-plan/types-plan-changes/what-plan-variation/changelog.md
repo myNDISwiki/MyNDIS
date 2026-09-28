@@ -352,3 +352,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  consent
  for someone else, like a support coordinator, to ask for a plan variation.
 ```
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `e1e625c4aca83deb4f114c09c912369d7c67406a8ab26a1286652ca382a608a2`
+- New SHA-256: `93fb802ec96f73fae9cd51963f9606e5abf4e632578fe21ec45b8d0fd96801c7`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

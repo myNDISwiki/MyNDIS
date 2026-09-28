@@ -331,3 +331,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `2e57cb47ed73cb356ef8d7cb49b0e83addd79af39f2090733500b5a173f4989e`
+- New SHA-256: `f9cb690e970e5ad8a61e5f89b0bc47e26c5f290295623e1dca418bb695dc219d`
+- Visible text lines added: 0
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,11 +14,6 @@
+ 1 - About the continence provider list
+ 2 - Disclaimer
+ 3 - Providers
+-Update: We’re seeking your feedback about our continence provider list.
+-The survey is open to participants, families and carers, and closes at 5 pm AEST on Monday 28 September 2026.
+-Complete the survey on the
+-NDIS Engage website
+-.
+ About the continence provider list
+ It provides better access to:
+ transparent pricing and product information
+```

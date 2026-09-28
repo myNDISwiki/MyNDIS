@@ -266,3 +266,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Any unspent funding for NDIS supports from your previous plan can still be used. These funds will remain in the continued plan.
  Tip: You don’t need to have a plan meeting.
 ```
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `f82d2df87ff881e8b99e880216bc2ca34e4e8b9abb7aa5d3493ee9958305e097`
+- New SHA-256: `717a3cf64ce281154e406ceaf6d411a2565dce63547a195e936c70106cfe18fc`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

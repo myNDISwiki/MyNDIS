@@ -788,3 +788,59 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `546807749938c3f57c6e3c31cee7d1ebda9d9f235a8b383f2f2912663f89394f`
+- New SHA-256: `c5f2c1622eff51fea23152ab4bfa7f8db817b25b3a47a43c9e48d81fa2575115`
+- Visible text lines added: 9
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -11,9 +11,9 @@
+ Save page as PDF
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
++Community Engagement
++(10)
+ Provider Engagement
+-(11)
+-Community Engagement
+ (10)
+ No states available
+ Event date
+@@ -22,15 +22,9 @@
+ October 2026
+ (15)
+ September 2026
+-(5)
++(4)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Thursday, 24 September 2026
+ Category
+ Provider Engagement
+ Introducing changes to the NDIS laws for all providers
+@@ -61,6 +55,12 @@
+ In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+ Event Date
+ Tuesday, 6 October 2026
++Category
++Community Engagement
++An overview of changes to the NDIS laws
++The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
++Event Date
++Wednesday, 7 October 2026
+ Pagination
+ 1
+ 2
+```

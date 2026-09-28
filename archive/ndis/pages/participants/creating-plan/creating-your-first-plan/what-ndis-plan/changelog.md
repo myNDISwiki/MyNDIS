@@ -244,3 +244,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Your plan will also describe how the funding for each support type will be managed. Learn more about
  how to manage your plan
 ```
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `b6b6a977aa0f26ecefc39aca4a86909c39aee0f160ba60f28deab2603a0e2eaf`
+- New SHA-256: `c9c48c16aad3eafcc7f6db6ef4d8abe0e2e2b437ac1cf7e95ebcb2ae33907112`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

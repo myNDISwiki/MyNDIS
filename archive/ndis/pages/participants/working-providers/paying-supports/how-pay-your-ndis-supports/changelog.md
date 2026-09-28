@@ -196,3 +196,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `536b640e5d3b02a2971314e01b62e8beb4a92af608a5bb8f41c6cff420030ea1`
+- New SHA-256: `efe542006b5d9f61d4245078b616c94ab0fa4524ada16ec97f146ac763c2b5bc`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -23,7 +23,7 @@
+ Once you’ve arranged providers to deliver your NDIS supports, you’ll need to pay them using your NDIS funding. There are 2 ways to pay for your supports.
+ Make a claim and then pay for your supports
+ You can make a claim after your provider sends you an invoice or timesheet.
+-Once your claim is submitted, money from your NDIS funding will be paid into your nominated back account. You can then use this to pay your provider.
++Once your claim is submitted, money from your NDIS funding will be paid into your nominated bank account. You can then use this to pay your provider.
+ Pay for your supports and then make a claim
+ You can use your own money to pay your providers and get a receipt for this payment.
+ With the receipt you can make a claim for money from your NDIS funding. It’ll usually be sent to your bank account within 2 business days.
+```

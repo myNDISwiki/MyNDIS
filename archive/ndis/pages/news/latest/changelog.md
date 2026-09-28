@@ -871,3 +871,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `454ac8a352dcfa63302bd07510662bad35d3c66f579a5c2804d4cf0f65b2c598`
+- New SHA-256: `24bd5893ded43f189186aac5000a7b1f2242fe47a02b5a611a87c4f144dac072`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ September 2026
+-(11)
++(12)
+ August 2026
+ (13)
+ July 2026
+@@ -144,7 +144,7 @@
+ January 2024
+ (5)
+ December 2023
+-(14)
++(13)
+ November 2023
+ (14)
+ October 2023
+@@ -358,6 +358,12 @@
+ Search
+ Search
+ Category
++News
++Your feedback is helping shape the new way of planning
++We’re testing the new way of planning before it rolls out in April 2027.
++Date
++28 September 2026
++Category
+ Media release
+ News
+ New price limits set for NDIS supports
+@@ -390,12 +396,6 @@
+ NDIS participants, providers and the wider disability community are invited to have their say on NDIS pricing, as part of this year’s Annual Pricing Review.
+ Date
+ 17 September 2026
+-Category
+-News
+-NDIS online data updated
+-The NDIA has updated our public data, now current as at 30 June 2026.
+-Date
+-14 September 2026
+ Pagination
+ 1
+ 2
+```

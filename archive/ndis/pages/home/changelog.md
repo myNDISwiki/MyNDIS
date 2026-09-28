@@ -506,3 +506,42 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `50eae8a0c1ebc1df1744b25a3fd493ec9d6b64c9d216f34d93016f367cfab338`
+- New SHA-256: `54c67781a8d52439bf86f474aea908d5f9a967783ec578dd58b98289d11ba7b6`
+- Visible text lines added: 5
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++News
++Your feedback is helping shape the new way of planning
++Date
++28 September 2026
++Category
+ Media release
+ News
+ New price limits set for NDIS supports
+@@ -42,12 +47,6 @@
+ Stronger NDIS integrity controls save billions
+ Date
+ 23 September 2026
+-Category
+-Changes to the NDIS
+-News
+-Changes to support budgets from 1 October
+-Date
+-17 September 2026
+ Read more news
+ Participant experiences
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+```

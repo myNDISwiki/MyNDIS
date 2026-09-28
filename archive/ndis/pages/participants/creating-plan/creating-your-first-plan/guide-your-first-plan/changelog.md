@@ -250,3 +250,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We work with you to create a plan that suits your needs
  You’ll be invited to a plan meeting with an NDIA planner once you’re a participant. A plan meeting is a conversation between you and your NDIA planner.
 ```
+
+## 2026-09-28T22:37:53Z — changed
+
+- Previous SHA-256: `75a2528ea7959e975b4389ddb414e81d83510a59f92c19c452997a4ebfe53201`
+- New SHA-256: `8a07fe2177cb6d9a4d4b2c89df592821325918dc7d119ad7cb8e1297cf280d85`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
