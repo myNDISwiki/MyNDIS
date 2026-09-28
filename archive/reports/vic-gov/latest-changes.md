@@ -1,11 +1,5 @@
 # Victorian Government latest changes
 
-Checked: 2026-09-28T08:47:41Z
+Checked: 2026-09-28T20:36:56Z
 
-## MODIFIED
-
-- https://www.vic.gov.au/early-childhood-language-program
-- https://www.vic.gov.au/early-childhood-reform
-- https://www.vic.gov.au/early-childhood-school-closures
-- https://www.vic.gov.au/early-childhood-services-and-parents-taking-part-premiers-reading-challenge
-
+No page changes detected in this run.
