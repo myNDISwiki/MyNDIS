@@ -1,8 +1,12 @@
-# Victorian Government latest changes
-
-Checked: 2026-09-29T19:28:54Z
+# vic-gov latest archive changes
 
 ## MODIFIED
 
-- https://www.vic.gov.au/early-childhood-update-february-2024/kinder-kits-are-here-2024
+- `archive/gov/vic-gov/pages/child-safety-early-childhood-parents/current.html`
+- `archive/gov/vic-gov/pages/choose-early-childhood-service/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-december-2025/early-childhood-workforce-register/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-december-2025/get-ready-new-kindergarten-year/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-december-2025/reflecting-2025-and-looking-new-year/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-december-2025/victorian-early-years-awards-2025-winners/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-december-2025/victorian-skilled-visa-nomination-program/current.html`
 
