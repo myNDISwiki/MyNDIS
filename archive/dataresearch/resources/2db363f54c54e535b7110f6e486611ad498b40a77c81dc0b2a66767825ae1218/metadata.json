@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/self-management-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-27T22:14:47Z",
+  "last_changed": "2026-09-29T00:00:52Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fimproving-outcomes-participants%2Fself-management-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -151,7 +151,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 23 Sep 2026 06:27:14 GMT"
   },
-  "sha256": "ee346dc80ca1f2dd6d931e4f8c93531b9c0cb261d4ab280617b5d6384f6a867a",
+  "sha256": "dd2f3d2e63f13dda3aedbadb26fe2f3625d06909ddc311a8879977feaa1920a2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/self-management-research"
 }

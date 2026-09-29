@@ -1,5 +1,5 @@
 {
-  "bytes": 10794,
+  "bytes": 10795,
   "content_type": "application/pdf",
   "directory": "resources/fa114016a7e1af6f23b3ac4224d3697ae5e1028e916bfa1acdffdf7bf8e4bc9f",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4078",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-27T22:14:47Z",
+  "last_changed": "2026-09-29T00:00:52Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Copyright.pdf\""
   },
-  "sha256": "f4ed46f5697e2d1768927473f2efacb1171d1661bad7716c677cb81bcb405cab",
+  "sha256": "45e62efb74b1dc9cb9d2eed057fbc260412c5ba4f97b9e104afa69d9a4f45dca",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4078"
 }
