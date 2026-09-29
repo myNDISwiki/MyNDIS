@@ -219,3 +219,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You can use your own money to pay your providers and get a receipt for this payment.
  With the receipt you can make a claim for money from your NDIS funding. It’ll usually be sent to your bank account within 2 business days.
 ```
+
+## 2026-09-29T21:27:50Z — changed
+
+- Previous SHA-256: `efe542006b5d9f61d4245078b616c94ab0fa4524ada16ec97f146ac763c2b5bc`
+- New SHA-256: `d9108c601809ea6d68cc8381e27963c17d99564ad25750d87bb547e2bfba876e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

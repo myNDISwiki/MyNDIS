@@ -552,3 +552,194 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-29T21:27:50Z — changed
+
+- Previous SHA-256: `9f1f0d5676d3414c0f15b0d03e48f21a4a675fb156b9405d8acc7a99b9a20cee`
+- New SHA-256: `966b41477ad438756f755299498714264e12e51f3b927761a91590d72cab0144`
+- Visible text lines added: 29
+- Visible text lines removed: 81
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -61,18 +61,6 @@
+ Web
+ :
+ https://www.purelyaccess.com.au
+-Thomas Clark
+-SDA00058
+-Purely Access
+-Mobile
+-:
+-0448 000 398
+-Email
+-:
+-[email protected]
+-Web
+-:
+-http://newlandwood.com/access/
+ Nicholas Goodwin
+ SDA00063
+ SQC Group
+@@ -525,21 +513,6 @@
+ [email protected]
+ Web:
+ https://accessright.com.au/
+-Mardiros Tatian
+-SDA00155
+-Building Innovations Australia Pty Ltd
+-Mobile
+-:
+-0450 278 007
+-Phone
+-:
+-02 9099 0370
+-Email
+-:
+-[email protected]
+-Web
+-:
+-www.buildinginnovations.com.au
+ Clare Johnson
+ SDA00156
+ Shelter Consulting
+@@ -1015,7 +988,7 @@
+ [email protected]
+ Web
+ :
+-https://trentofuller.com.au
++https://tfcertifiers.com.au
+ Tomas Januskevicius
+ SDA00095
+ BCA Concepts
+@@ -1054,7 +1027,7 @@
+ http://architecturalservices.com.au
+ Arian Pooya-Nejad
+ SDA00116
+-BluePath
++Philip Chun
+ Mobile
+ :
+ 0434 492 159
+@@ -1063,7 +1036,7 @@
+ [email protected]
+ Web
+ :
+-http://BluePathGroup.com.au
++https://philipchun.com.au/
+ Shanti Anavkar
+ SDA00146
+ SAA Access Architects Pty Ltd
+@@ -1073,6 +1046,8 @@
+ Email
+ :
+ [email protected]
++Web:
++https://saaarchitects.com.au/
+ Mathew Sanders
+ SDA00159
+ Buildsurv
+@@ -1429,34 +1404,15 @@
+ Web
+ :
+ https://www.honeycombaccess.com.au
+-Triza Howarth
+-SDA00119
+-DDEG (Access)
+-Mobile
+-:
+-0478 208 172
+-Email
+-:
+-[email protected]
+-Web
+-:
+-https://www.ddeg.com.au
+-Maree Wyse
+-SDA00126
+-DDEG (Access)
+-Mobile
+-:
+-0448 295 371
+-​​​​​​​
+-Phone
+-:
+-03 8814 3214
+-Email
+-:
+-[email protected]
+-Web
+-:
+-https://www.ddeg.com.au
++Arian Pooya-Nejad
++SDA00116
++Philip Chun
++Mobile:
++0434 492 159
++Email:
++[email protected]
++Web:
++https://philipchun.com.au/
+ Alireza Montazer
+ SDA00127
+ Rezmont
+@@ -1501,20 +1457,15 @@
+ http://www.architectureandaccess.com.au
+ Dishana Liang
+ SDA00136
+-JAZ Building Consultants Pty Ltd
+-Mobile
+-:
++Focused Access Pty Ltd
++Mobile:
+ 0411 895 532
+-​​​​​​​
+-Phone
+-:
+-03 9108 6189
+-Email
+-:
+-[email protected]
+-Web
+-:
+-http://www.jazbc.com
++Phone:
++03 8589 3915
++Email:
++[email protected]
++Web:
++https://focusedaccess.com.au/
+ Paul Milner
+ SDA00138
+ Asper Building Surveying/Asper Accessibility Audits
+@@ -1712,19 +1663,16 @@
+ https://www.elitecomp.com.au
+ Andrew Harman
+ SDA00090
+-BCA Consultants (WA) Pty Ltd
++McKenzie Group Consulting
+ Mobile
+ :
+ 0400 405 390
+-Phone
+-:
+-08 9265 1400
+-Email
+-:
+-[email protected]
+-Web
+-:
+-www.bcagroup.com.au
++Email
++:
++[email protected]
++Web
++:
++https://www.mckenzie-group.com.au/
+ Michael Gardiner
+ SDA00101
+ PAB Consultants Pty Ltd
+```

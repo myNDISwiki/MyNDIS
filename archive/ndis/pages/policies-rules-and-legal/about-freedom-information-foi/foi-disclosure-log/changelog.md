@@ -750,3 +750,74 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-29T21:27:50Z — changed
+
+- Previous SHA-256: `70328ae0abc5722159842035c72f87f0826662224e58c454eabc903051151b5c`
+- New SHA-256: `31669f158d1f68d0fcd088610b528382bdafcf0da6ba9b0b4875a4f5f65df0f6`
+- Visible text lines added: 45
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,50 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 26/27-0505
++FOI 26/27-0506
++FOI 26/27-0507
++FOI 26/27-0508
++FOI 26/27-0509
++FOI 26/27-0510
++FOI 26/27-0511
++FOI 26/27-0512
++FOI 26/27-0513
++FOI 26/27-0515
++7/09/2026–15/09/2026
++2026/2027- Budget Estimates Briefing Packs prepared for General Managers, Deputy CEO’s, and the Chief Financial Officer.
++The documents for these requests have been combined to reflect the Budget Estimates Briefing Pack in full.
++FOI 26/27-0505 to FOI 26/27-0515 (PDF 4MB)
++30 Documents released in Full, 2 Documents released in Part
++Budget Estimates Brief- Eligibility Reassessments
++Budget Estimates Brief- Children's Access to the NDIS and Support in Early Childhood
++Budget Estimates Brief- Justice Interface
++Budget Estimates Brief- Hospital Discharge
++Budget Estimates Brief- Palliative Care
++Budget Estimates Brief- Fuel Supply
++Budget Estimates Brief- Agency Operating Budget
++Budget Estimates Brief- NDIA Workforce
++Budget Estimates Brief- Staff Safety and Security
++Budget Estimates Brief- Investments in NDIA
++Budget Estimates Brief- Gifts, Benefits and Policy Compliance
++FOI 26/27-0002
++14/09/2026
++2025/26 data regarding:
++Average number of days taken to process plan change requests per quarter
++Percentage of plan change requests taking longer than 21 days to process per quarter
++Average number of days taken to process plan variations per quarter
++Percentage of plan variations taking longer than 28 days to process per quarter
++Average number of days taken to process plan reassessments per quarter
++Percentage of plan reassessments taking longer than 28 days to process per quarter
++FOI 26/27-0002 (PDF 55KB)
++1 document was released in full:
++1. S17 – Data – 2025/26 Data Regarding Plan Change Requests, Plan Variations and Plan Reassessments
++FOI 25/26-1244
++14/09/2026
++Report by the NDIA on hospital discharge involving NDIS participants.
++FOI 25/26-1244 (PDF 2MB)
++1 Document released in full:
++1. Dashboard – Hospital Discharge Monthly Dashboard October 2025
+ FOI 26/27-0197
+ 02/09/2026
+ Request for the number of Model Litigant Obligations complaints received by the NDIA in the 2025/26 financial year and the number of MLO complaints that were investigated by the NDIA and subsequently upheld.
+@@ -8865,4 +8909,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-16 September 2026
++29 September 2026
+```

@@ -847,3 +847,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 +What is an NDIS plan
 +25 September 2026
 ```
+
+## 2026-09-29T21:27:50Z — changed
+
+- Previous SHA-256: `d1e3299f52174c321689f32834c3cc7f254c707ec14f24aa31831e67d051ca58`
+- New SHA-256: `325f76836415f4d745d209942bd31c8d465281df8ee0a8ee6c17aeac0980940c`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
