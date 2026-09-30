@@ -611,3 +611,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-30T21:30:26Z — changed
+
+- Previous SHA-256: `0b5fc4db0c0fb60fe9f6c04120816c600fdebc2f47977ef5e6b1252da0e2828e`
+- New SHA-256: `dd5ddb30076c05addb82496ad14fbd7d8132d118cf62253e01a5f153fade242a`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -130,7 +130,7 @@
+ Using your NDIS plan
+ Using your NDIS plan
+ Factsheet: Using your NDIS plan
+-(PDF 234KB)
++(PDF 233KB)
+ Factsheet: Using your NDIS plan
+ (DOCX 293KB)
+ Easy Read: Using your NDIS plan
+```

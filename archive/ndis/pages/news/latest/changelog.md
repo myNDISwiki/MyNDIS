@@ -938,3 +938,67 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-30T21:30:26Z — changed
+
+- Previous SHA-256: `20355f387d109e1d741aec5833bd5407ab23b2429e1e8b456c72c1f0532cba3b`
+- New SHA-256: `8bed2240033e21eba683be9d369cb56e87eeb9fdc0d5f4f838bcaa23571b24dc`
+- Visible text lines added: 10
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -58,7 +58,7 @@
+ News
+ (326)
+ Notification
+-(42)
++(43)
+ News State or Territory
+ ACT
+ (12)
+@@ -78,11 +78,11 @@
+ (29)
+ News date
+ September 2026
+-(12)
++(13)
+ August 2026
+-(13)
++(14)
+ July 2026
+-(14)
++(15)
+ June 2026
+ (20)
+ May 2026
+@@ -358,6 +358,12 @@
+ Search
+ Search
+ Category
++Notification
++Planned system updates 1 October 2026
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
++Date
++30 September 2026
++Category
+ News
+ Your feedback is helping shape the new way of planning
+ We’re testing the new way of planning before it rolls out in April 2027.
+@@ -388,12 +394,6 @@
+ News
+ Changes to support budgets from 1 October
+ Starting from 1 October, some NDIS support budgets will be reduced over the coming 12 months.
+-Date
+-17 September 2026
+-Category
+-News
+-Consultation begins for 2027-28 NDIS pricing
+-NDIS participants, providers and the wider disability community are invited to have their say on NDIS pricing, as part of this year’s Annual Pricing Review.
+ Date
+ 17 September 2026
+ Pagination
+```

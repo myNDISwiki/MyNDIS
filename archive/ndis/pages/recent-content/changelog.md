@@ -856,3 +856,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-30T21:30:26Z — changed
+
+- Previous SHA-256: `325f76836415f4d745d209942bd31c8d465281df8ee0a8ee6c17aeac0980940c`
+- New SHA-256: `04212c771f41b25d2f9f5b5b33c1830c49bcc3abc27cfc53ee3eef346f50fdb7`
+- Visible text lines added: 19
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Continence provider list
+-28 September 2026
+-National Disability Insurance Scheme (NDIS), Fremantle, 6160
+-28 September 2026
+-How to pay for your NDIS supports
+-28 September 2026
++What is a remote community connector
++30 September 2026
++What is a plan reassessment
++30 September 2026
++National Disability Insurance Scheme (NDIS), Esperance, 6450
++30 September 2026
++Booklets and factsheets
++30 September 2026
++Planned system updates 1 October 2026
++30 September 2026
++Our guidelines
++30 September 2026
++Local Area Coordinator (LAC) partner, Southport, 4215
++29 September 2026
++First Nations Participant Consultation Group meeting summary August 2026
++29 September 2026
++First Nations Participant Consultation Group meeting summary July 2026
++29 September 2026
+ Your feedback is helping shape the new way of planning
+-28 September 2026
+-Find specialist disability accommodation (SDA)
+-25 September 2026
+-Guide to decision reviews
+-25 September 2026
+-What is a plan variation
+-25 September 2026
+-Guide to your first plan
+-25 September 2026
+-How to request a review of a decision
+-25 September 2026
+-What is an NDIS plan
+-25 September 2026
++29 September 2026
+```

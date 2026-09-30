@@ -367,3 +367,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-30T21:30:26Z — changed
+
+- Previous SHA-256: `8ea66f8f6d6f589aaea5c87a47c76eeadfefc94737f798764174dafeec06d666`
+- New SHA-256: `452c475e7f9b623157d953ba08ed47e86224d78d9852fa0400e165c59d5650d6`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -40,7 +40,7 @@
+ You only need to use this form when you need significant changes and you don’t have a regular check-in coming up.
+ Plan reassessment request form
+ Download the plan reassessment request form:
+-Plan reassessment request form (DOCX 257KB)
++Plan reassessment request form (DOCX 125KB)
+ Plan reassessment request form (PDF 619KB)
+ We need evidence to reassess your plan
+ You need to give us
+```

@@ -432,3 +432,108 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-09-30T21:30:26Z — changed
+
+- Previous SHA-256: `678c8421bb02d0467d11755ad1aa5a7fc94399ffcfad07ee6953ba980ba5b90d`
+- New SHA-256: `bd44a99dd6fbdf7adb4c844857628f785a9b477266c39c30de9323f6f70b9ac0`
+- Visible text lines added: 48
+- Visible text lines removed: 32
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -6,42 +6,58 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-What a remote community connector is
+-What a remote community connector is for
+-What working with a remote community connector looks like
++What a remote community connector (RCC) is
++What a remote community connector (RCC) is for
++What working with a remote community connector (RCC) is like
++Finding an RCC
+ On this page:
+-1 - What a remote community connector is
+-2 - What a remote community connector is for
+-3 - What working with a remote community connector looks like
+-What a remote community connector is
+-Remote community connectors (RCCs) work for
+-NDIS partners
+-who help people with disability in remote or very remote communities.
+-There's a network of about 200 RCCs helping people across 480 remote communities.
+-What a remote community connector is for
++1 - What a remote community connector (RCC) is
++2 - What a remote community connector (RCC) is for
++3 - What working with a remote community connector (RCC) is like
++4 - Finding an RCC
++What a remote community connector (RCC) is
++Remote community connectors (RCCs) help people with disability in remote or very remote communities.
++They understand the local community, culture and language and work for First Nations community organisations.
++There’s a network of about 200 RCCs helping people across 480 remote communities.
++What a remote community connector (RCC) is for
++What RCCs can do
+ RCCs can help you:
+ understand the NDIS and how to apply
+-with your current supports
+-prepare for check-ins
+-understand how to use your NDIS plan
++gather
++evidence
++to
++apply for the NDIS
++prepare for your
++plan meeting
++find providers
++understand how to
++use your funding
+ with questions you may have about the NDIS
+-access supports and services
+-with translations services to communicate with us and service providers.
+-Tip: Remote community connectors are not healthcare professionals.
+-They can’t provide healthcare support for your disability but can connect you with health professionals in your area - for example, occupational therapists or a GP.
+-They can also help connect you with health professionals who can provide you with the
+-evidence
+-you may need when applying or making changes to your NDIS plan.
+-What working with a remote community connector looks like
+-If there is
+-no NDIS partner in your area
+-, you can contact us by:
+-calling
+-1800 800 110
+-sending an enquiry through our
+-service hub
+-.
+-We'll put you in touch with a RCC in your area.
++access local
++providers
++and other
++community-based services
++with translation services to communicate with us and your providers.
++What RCCs can’t do
++RCCs can’t:
++give you medical advice as they’re not healthcare professionals
++decide who can join the NDIS
++make or change NDIS funding decisions
++provide
++NDIS supports
++request for
++changes to your plan
++lodge forms on your behalf.
++What working with a remote community connector (RCC) is like
++Connection with your RCC
++Once you’ve connected with an RCC in your area they’ll get to know you by asking you questions.
++They’ll also let you know how they can help you and let you know what services are available in your area.
++Finding an RCC
++Search for an
++NDIS partner
++in your area.
++You can look for an RCC from the list below if you can’t find an NDIS partner in your area.
++Find an RCC in your area
+ List of state and territories remote community connectors
+ NT
+ Central Australian Aboriginal Congress Aboriginal Corporation
+```
