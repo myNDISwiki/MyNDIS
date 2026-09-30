@@ -1,5 +1,5 @@
 {
-  "bytes": 54855,
+  "bytes": 54857,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/6c31268eeb040427218bb84915240856996e9e345a4a879f47042d64c54e1fa8",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-29T23:03:26Z",
+  "last_changed": "2026-09-30T23:05:33Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fdecision-making-access-and-planning",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -141,7 +141,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 23 Sep 2026 02:48:18 GMT"
   },
-  "sha256": "8095b896bb673bf525c5e9d72aaf24ae321a90858cec19f9bd8343c033f3d192",
+  "sha256": "27e477e7dd05d37d9402e9249a39416f0f02962e79dcc8dc8b742950cb7e92fe",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning"
 }
