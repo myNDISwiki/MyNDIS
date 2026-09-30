@@ -470,3 +470,24 @@ Page bytes changed, but no visible-text change was detected.
  Participant experiences
  Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
 ```
+
+## 2026-09-30T21:33:06Z — changed
+
+- Previous SHA-256: `6762a26770293149923d15816c1ae0505cccac7f77478328dc4cfc644af95110`
+- New SHA-256: `e2795244d83ef62238f76cda47bcf1ca1ba7df31a51a7e4b5e000325d3346ca3`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-28/09/2026, 05:10
++30/09/2026, 03:09
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+```

@@ -1,3 +1,8 @@
 # aph latest archive changes
 
-No changes detected in this run.
+## MODIFIED
+
+- `archive/gov/aph/bills/r7487/changelog.md`
+- `archive/gov/aph/bills/r7487/current.html`
+- `archive/gov/aph/bills/r7487/metadata.json`
+
