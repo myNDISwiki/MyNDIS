@@ -1,3 +1,8 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
 
-No changes detected in this run.
+Checked: 2026-09-30T23:57:37Z
+
+## MODIFIED
+
+- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together
+
