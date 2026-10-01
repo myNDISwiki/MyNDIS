@@ -491,3 +491,54 @@ Page bytes changed, but no visible-text change was detected.
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-10-01T22:00:41Z — changed
+
+- Previous SHA-256: `e2795244d83ef62238f76cda47bcf1ca1ba7df31a51a7e4b5e000325d3346ca3`
+- New SHA-256: `f8a4f2be354e94b0365480a7150060029d4963c0bf6cede00e64c1145a6e2890`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-30/09/2026, 03:09
++01/10/2026, 04:49
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -123,22 +123,22 @@
+ Learn more
+ Latest news
+ Category
++Changes to the NDIS
+ News
+-Your feedback is helping shape the new way of planning
++Changes to support budgets from 1 October
+ Date
+-28 September 2026
++1 October 2026
+ Category
+-Media release
+ News
+-New price limits set for NDIS supports
++Updated Supported Independent Living operational guideline
+ Date
+-24 September 2026
++1 October 2026
+ Category
+ Media release
+ Media release from the Minister
+-Stronger NDIS integrity controls save billions
++First phase of Thriving Kids supports start today
+ Date
+-23 September 2026
++1 October 2026
+ Read more news
+ Participant experiences
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+```
