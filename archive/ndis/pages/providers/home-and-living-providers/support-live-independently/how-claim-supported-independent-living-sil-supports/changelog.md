@@ -224,3 +224,58 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `9ff038028c2935cb9fefa885fbf02a27b950d9310300a05c4c96a31193eb3b48`
+- New SHA-256: `3a4219fae6eefa8f0c6f1baff17222159b1cfda41066f4fe22f3646da810e2b3`
+- Visible text lines added: 8
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,12 +14,15 @@
+ 1 - Step 1: Connect with participants
+ 2 - Step 2: Provide the support
+ 3 - Step 3: Submit a payment request
+-Update: Changes to SIL provider requirements.
+-SIL provider registration and claiming requirements changed on 1 July 2026.
++Update:
++Supported independent living (SIL) supports can only be claimed by providers that are registered or have applied to register before 1 October 2026.
+ Learn more about the
+ changes to payments and claims
+ .
+ Step 1: Connect with participants
++You must be a
++registered supported independent living (SIL) provider
++before connecting with participants.
+ SIL providers need to be connected to participants as a
+ my provider
+ . This must be done before providing support.
+@@ -41,7 +44,7 @@
+ were an unregistered SIL provider and provided the SIL support prior to 1 October 2026.
+ You should include your registration or application number on your invoice.
+ Step 2: Provide the support
+-You must work with the participant to create a
++You should work with the participant to create a
+ service agreement
+ before you start providing supports.
+ A service agreement sets out what supports will be delivered and how. It makes it clear what you and the participant have agreed to, including roles, responsibilities and claiming arrangements.
+@@ -63,11 +66,11 @@
+ Use the following codes when claiming for supports:
+ 01_821_0115_1_1 (Assistance in Supported Independent Living – Weekly) prior to 1 July 2026
+ 01_821_0138_1_1 (Supported Independent Living – Weekly) on or after 1 July 2026.
+-The weekly claimable amount is calculated by dividing the total regular SIL funding by the number of weeks specified in the participant’s plan. This is agreed to in the service agreement and typical schedule of supports with your participant.
++The weekly claimable amount is calculated by dividing the total regular SIL funding by the number of weeks specified in the participant’s plan.
++You’ll need a service agreement in place to claim for weekly SIL supports. This is agreed to in the service agreement and typical schedule of supports with your participant.
+ The service agreement should include:
+ an agreement to claim weekly amounts
+ the agreed typical schedule of supports to be provided for the weekly amount claimed.
+-You can’t claim for SIL supports without a service agreement in place.
+ You can find more detailed information about
+ how to use the provider portals
+ to claim in the myplace provider portal step-by-step guides.
+```

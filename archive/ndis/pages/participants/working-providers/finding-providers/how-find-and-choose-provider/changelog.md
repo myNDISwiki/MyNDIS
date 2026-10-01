@@ -223,3 +223,40 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `1f11acfa0579f68501ef96083a8ae152630da34885f3c4aff47c70d5a4c58650`
+- New SHA-256: `100975da4c333eea72606afd977a50d48e710de84b97614b32da5bcbb5188b04`
+- Visible text lines added: 5
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -37,7 +37,8 @@
+ These include for:
+ specialist behaviour supports
+ plan management support (plan managers must be registered providers)
+-specialist disability accommodation.
++specialist disability accommodation (SDA)
++supported independent living (SIL).
+ Use the provider finder
+ You can use the
+ NDIS provider finder
+@@ -52,9 +53,10 @@
+ choose the most relevant suburb from the drop-down list.
+ Step 3: Set up a meeting with your new provider
+ It’s a good idea to meet with new providers before you start working with them.
+-We recommend having a
++You must have a
+ service agreement
+-to make sure you understand how you’ll work together.
++for some supports, such as SIL and SDA.
++We also recommend a service agreement so you and your provider understand how you’ll work together.
+ Some things you can negotiate with your provider include:
+ what supports you’ll get
+ the cost of each support
+```

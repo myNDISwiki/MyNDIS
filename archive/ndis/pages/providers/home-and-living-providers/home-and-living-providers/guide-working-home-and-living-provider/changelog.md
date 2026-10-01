@@ -300,3 +300,34 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `d34d3b18bffa8fedf2bfc1cbcc8ec1a51fa282c3522ba31032d8a372d49ebfde`
+- New SHA-256: `c7535b5ab9641db0c0a78219ab7b157b75380e6f8883dfb17f1ffc117d0a0218`
+- Visible text lines added: 4
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -35,12 +35,16 @@
+ .
+ Supported independent living (SIL)
+ Supported independent living (SIL) is funding for a support worker to help or supervise participants for 24 hours a day, 7 days a week.
++SIL providers must be a
++registered provider
++.
+ Learn more about
+ providing SIL
+ .
+ Specialist disability accommodation (SDA)
+ Specialist disability accommodation (SDA) is a range of housing to support people with extreme functional impairment or very high support needs.
+ As an SDA provider, you provide purpose built accessible homes. This might include wheelchair-accessible kitchen sinks and button-operated doors. You might also provide onsite shared support for participants living alone if you’re an onsite shared support provider.
++SDA providers must be a registered provider.
+ Learn more about
+ providing SDA
+ .
+```

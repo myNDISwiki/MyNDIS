@@ -224,3 +224,37 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `e552e34d20f9f257ad11a3669be94a29bb6c1c68d0bebafade7ac3b4e1fb4355`
+- New SHA-256: `244ef2b0c68801be7adbb7e97963b9b7bd2dbfc2501b01e44ac26568ccc88a09`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,8 +16,8 @@
+ 2 - Your responsibilities when providing supported independent living (SIL)
+ 3 - Pricing and payments
+ 4 - How to get paid
+-Update: Changes to SIL provider requirements.
+-SIL provider registration and claiming requirements changed on 1 July 2026. SIL providers must be registered or apply to register, by 1 October 2026.
++Update:
++Supported independent living (SIL) supports can only be delivered by providers that are registered or have applied to register before 1 October 2026.
+ Learn more about
+ changes to SIL provider registration
+ .
+@@ -62,7 +62,7 @@
+ support coordinator
+ . Their support coordinator will help them find a suitable SIL provider. The support coordinator’s role includes talking with SIL providers about the support they can deliver within the participant’s plan funding.
+ Establish a service agreement
+-It is important to create a
++You should create a
+ service agreement
+ with a participant to agree on how you will work together and your services as a SIL provider.
+ You should help participants to understand any service agreement using their preferred language, communication method and terms they can understand.
+```

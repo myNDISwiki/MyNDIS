@@ -392,3 +392,53 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `ba80878b132db2eb3f386d5fd2ccd3c77de81d2a2c2e3948afb3270ebc66222d`
+- New SHA-256: `3ff13ad2331f3e0cbecf0708956b04fd6dfc24560b74974e398d494902f1c9fb`
+- Visible text lines added: 9
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -19,6 +19,8 @@
+ News
+ Media Release State or Territory
+ NT
++(1)
++October 2026
+ (1)
+ September 2026
+ (4)
+@@ -106,6 +108,13 @@
+ Search
+ Category
+ Media release
++Media release from the Minister
++First phase of Thriving Kids supports start today
++Families of children with extra developmental needs can now access expanded information and supports, as part of the Australian Government’s Thriving Kids program.
++Date
++1 October 2026
++Category
++Media release
+ News
+ New price limits set for NDIS supports
+ As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
+@@ -139,12 +148,6 @@
+ A Victorian man has been arrested after he allegedly defrauded the NDIS of around $700,000 over a two-year period.
+ Date
+ 27 August 2026
+-Category
+-Media release
+-SA man second person charged over alleged $5 million dishonesty plot
+-The AFP has charged an Adelaide man over an alleged multi-million-dollar dishonesty plot against the NDIS.
+-Date
+-17 August 2026
+ Pagination
+ 1
+ 2
+```

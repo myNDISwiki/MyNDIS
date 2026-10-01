@@ -310,3 +310,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `e1ff8541aedb9e2ada920ade5a63e531e212657460400800b88aa296f009de1a`
+- New SHA-256: `3750807b1b11ce6beb51cc468598a0c8dc4d92164dceccf080dd9070fbae23c0`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,7 +17,7 @@
+ News
+ Changes to support budgets from 1 October
+ Date
+-17 September 2026
++1 October 2026
+ Category
+ Changes to the NDIS
+ News
+```

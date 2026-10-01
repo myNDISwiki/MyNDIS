@@ -223,3 +223,37 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `1732288857143c6ed153e0f54bebf176d32e5d789e1d86b3dcd42c61945ab35c`
+- New SHA-256: `06929d19b3a1f18c44fa5eae758da0bdcd0a8c0c9e1976545d9cfc36b1f3fd59`
+- Visible text lines added: 4
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -42,7 +42,9 @@
+ plan-managed
+ ,
+ specialist disability accommodation (SDA
+-) or behaviour supports.
++),
++supported independent living (SIL)
++or behaviour supports.
+ Unregistered providers
+ Unregistered providers aren’t registered with the NDIS Commission. They’re often small, local operators that also provide non-disability services.
+ You can choose unregistered providers to deliver your
+@@ -84,7 +86,7 @@
+ my NDIS app
+ :
+ Option 1: Make a payment request. Money is then paid into your bank account for you to pay your provider.
+-Option 2: You pay your provider first with your own money and then make a request a payment.
++Option 2: You pay your provider first with your own money and then request a payment.
+ You must keep records of how you spend your NDIS funds if you
+ self-manage
+ your plan.
+```

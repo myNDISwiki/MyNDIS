@@ -233,3 +233,49 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `2b48eeeb66da2e3735a8cb4dd2284d53409b9c0581227c43c777aed62cfee3cc`
+- New SHA-256: `7bbd31bf26d4dc41a88e0b5d0d206682c74bfeaf16b405a9bf423222c34c7fbd`
+- Visible text lines added: 4
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -77,7 +77,7 @@
+ specialist disability accommodation (SDA)
+ home modifications
+ helping reduce the number of participants in residential aged care.
+-Home and living providers can be registered or unregistered. They must be registered if they provide SDA.
++Home and living providers can be registered or unregistered. They must be registered if they provide SDA or SIL.
+ Learn more about
+ working as a home and living provider
+ .
+@@ -119,11 +119,12 @@
+ You can list your business on our
+ NDIS provider finder
+ once you become a registered provider.
++Participants can use the NDIS provider finder to find providers to work with.
+ Service agreements
+ A
+ service agreement
+ is a signed agreement between you and a participant. They help make sure you and a participant have the same expectations of what NDIS supports will be delivered and how they'll be delivered.
+-We recommend all providers create service agreements with their participants.
++We recommend all providers create service agreements with their participants. You’ll need to have a service agreement if you deliver SDA.
+ Record keeping
+ You need to
+ keep complete and accurate records
+@@ -145,7 +146,7 @@
+ consent to access plan information
+ in the my NDIS provider portal. This consent lets you access the parts of a participant’s plan that are relevant to your services only.
+ The NDIS pricing arrangements
+-NDIS prices charged by providers need to be fair, based on evidence and sustainable so participants continue to have access to high quality supports.
++NDIS prices charged by providers need to be fair, based on evidence and sustainable so participants continue to have access to high-quality supports.
+ The NDIS pricing schedule sets out information we consider to be the appropriate and reasonable maximum prices for all NDIS supports.
+ Learn more about the NDIS
+ pricing arrangements
+```

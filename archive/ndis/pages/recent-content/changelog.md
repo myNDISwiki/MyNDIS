@@ -913,3 +913,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 -25 September 2026
 +29 September 2026
 ```
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `04212c771f41b25d2f9f5b5b33c1830c49bcc3abc27cfc53ee3eef346f50fdb7`
+- New SHA-256: `1e7bbcb6ec3a32ef910cf0398cd604ebc7b703129387f790da03740a5a88aa20`
+- Visible text lines added: 19
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-What is a remote community connector
+-30 September 2026
+-What is a plan reassessment
+-30 September 2026
+-National Disability Insurance Scheme (NDIS), Esperance, 6450
+-30 September 2026
+-Booklets and factsheets
+-30 September 2026
+-Planned system updates 1 October 2026
+-30 September 2026
++National Disability Insurance Scheme (NDIS), Melton, 3337
++1 October 2026
++Updated Supported Independent Living operational guideline
++1 October 2026
++National Disability Insurance Scheme (NDIS), Footscray, 3011
++1 October 2026
+ Our guidelines
+-30 September 2026
+-Local Area Coordinator (LAC) partner, Southport, 4215
+-29 September 2026
+-First Nations Participant Consultation Group meeting summary August 2026
+-29 September 2026
+-First Nations Participant Consultation Group meeting summary July 2026
+-29 September 2026
+-Your feedback is helping shape the new way of planning
+-29 September 2026
++1 October 2026
++Guide to working with providers
++1 October 2026
++What is an early childhood partner
++1 October 2026
++First phase of Thriving Kids supports start today
++1 October 2026
++National Disability Insurance Scheme (NDIS), Casuarina, 0810
++1 October 2026
++National Disability Insurance Scheme (NDIS), Port Lincoln, 5607
++1 October 2026
++Changes to support budgets from 1 October
++1 October 2026
+```

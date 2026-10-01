@@ -223,3 +223,27 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `686da12dc7eac9e2650776315026c9ce88d4661f0a5fb425f7c1538fa5e714d8`
+- New SHA-256: `4df45fb9442505b433265a817347d2934c999736eb54bafcc0a829922607d492`
+- Visible text lines added: 2
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -30,7 +30,8 @@
+ This means we don’t have to check with you before we pay them.
+ If you get funding for certain supports
+ You must record my providers when you have funding for:
+-specialist disability accommodation
++specialist disability accommodation (SDA)
++supported independent living (SIL)
+ home and living supports
+ behaviour supports
+ a plan manager, support coordinator or recovery coach.
+```

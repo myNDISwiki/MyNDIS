@@ -634,3 +634,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 293KB)
  Easy Read: Using your NDIS plan
 ```
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `dd5ddb30076c05addb82496ad14fbd7d8132d118cf62253e01a5f153fade242a`
+- New SHA-256: `2a94c2b9aa8daf4a366e27f63bef1f8a2a01e6ada6472a856ce4728749120a7f`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

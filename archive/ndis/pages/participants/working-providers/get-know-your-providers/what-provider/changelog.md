@@ -232,3 +232,27 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `df6a5811c6d825126c4e20e2ffc41846dcb7bce3ce5391fd4055b25ecd5956e0`
+- New SHA-256: `dba4b0ce5314d6478cac9f63f28d7cda5a96726ddd5926c93e519b688a7ae6ae`
+- Visible text lines added: 2
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -52,7 +52,8 @@
+ supports
+ plan-manager services
+ regulated services like behaviour support and
+-specialist disability accommodation
++specialist disability accommodation (SDA)
++supported independent living (SIL)
+ .
+ You can choose either registered or unregistered providers for other supports if your funding is self-managed or you use a registered plan manager.
+ Finding and choosing providers
+```

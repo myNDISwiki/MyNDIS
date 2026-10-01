@@ -1002,3 +1002,102 @@ The page bytes changed, but no visible main-content wording change was detected.
  17 September 2026
  Pagination
 ```
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `8bed2240033e21eba683be9d369cb56e87eeb9fdc0d5f4f838bcaa23571b24dc`
+- New SHA-256: `35998c89bc01e7df7241f890044909adf8d1d4662a09e10ed781eda1dcc48fc4`
+- Visible text lines added: 26
+- Visible text lines removed: 24
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,15 +48,15 @@
+ Provider news
+ (3)
+ Media release
+-(61)
++(62)
+ Media release from the Minister
+-(93)
++(94)
+ News - housing
+ (2)
+ Media statements
+ (5)
+ News
+-(326)
++(327)
+ Notification
+ (43)
+ News State or Territory
+@@ -77,8 +77,10 @@
+ WA
+ (29)
+ News date
++October 2026
++(3)
+ September 2026
+-(13)
++(12)
+ August 2026
+ (14)
+ July 2026
+@@ -358,6 +360,26 @@
+ Search
+ Search
+ Category
++Changes to the NDIS
++News
++Changes to support budgets from 1 October
++Starting from 1 October, some NDIS support budgets will be reduced over the coming 12 months.
++Date
++1 October 2026
++Category
++News
++Updated Supported Independent Living operational guideline
++We have updated the Supported Independent Living (SIL) operational guideline to reflect recent changes to SIL provider registration requirements and provide greater clarity on SIL decision making.
++Date
++1 October 2026
++Category
++Media release
++Media release from the Minister
++First phase of Thriving Kids supports start today
++Families of children with extra developmental needs can now access expanded information and supports, as part of the Australian Government’s Thriving Kids program.
++Date
++1 October 2026
++Category
+ Notification
+ Planned system updates 1 October 2026
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+@@ -376,26 +398,6 @@
+ As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
+ Date
+ 24 September 2026
+-Category
+-Media release
+-Media release from the Minister
+-Stronger NDIS integrity controls save billions
+-Stronger NDIS integrity systems put in place by the Australian Government have delivered $2.1 billion in savings and benefits through stopping non-compliant payments and protecting participant funding from misuse.
+-Date
+-23 September 2026
+-Category
+-Notification
+-Planned system updates 26 September 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+-Date
+-21 September 2026
+-Category
+-Changes to the NDIS
+-News
+-Changes to support budgets from 1 October
+-Starting from 1 October, some NDIS support budgets will be reduced over the coming 12 months.
+-Date
+-17 September 2026
+ Pagination
+ 1
+ 2
+```

@@ -223,3 +223,36 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `2df9d193d6845dccdd8656d103ebdf96a6c7dc303f57eaba3cf45fc4d6c80d9b`
+- New SHA-256: `e8fa3e07026c2f9228db20a14a6a0b4343607636a790e1c6ed8c0b8dad171e58`
+- Visible text lines added: 3
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,8 +17,8 @@
+ 3 - What supported independent living (SIL) is like
+ 4 - Our Guideline
+ Update:
+-All providers delivering SIL and NDIS digital platform services must be registered from 1 July 2026. Your provider has until 1 October to apply to register.
+-Your plan and NDIS funding won’t change. We’ll help you understand your options if your provider doesn’t register.
++Supported independent living (SIL) supports can only be delivered by providers that are registered or have applied to register before 1 October 2026.
++Your plan and NDIS funding won’t change. We’ll help you understand your options if your provider hasn’t registered.
+ You don’t need to make any changes if you organise or employ your own support workers.
+ Learn more about
+ changes to SIL provider registration
+@@ -26,6 +26,7 @@
+ What supported independent living (SIL) is
+ Supported independent living (SIL) is funding for a support worker to help or supervise you 24 hours a day, 7 days a week.
+ You may share a support worker or have an individual support worker, depending on how much help you need. The support worker will help or supervise day-to-day tasks within your home.
++Your SIL provider must be registered to deliver SIL supports.
+ What supported independent living (SIL) is for
+ SIL may be suitable if you need a support worker to:
+ stay with you 24 hours a day, including overnight
+```

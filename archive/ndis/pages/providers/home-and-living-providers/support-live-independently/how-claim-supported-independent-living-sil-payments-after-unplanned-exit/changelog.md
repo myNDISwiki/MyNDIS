@@ -233,3 +233,40 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `a3f6b6744beb3a9e3237f9a6c3ad35460ab8e729599ca48122112c5ff38a4972`
+- New SHA-256: `4ebb910cdb868c9b58823838eea040ecb34d55c300bb0422ed1015930541f930`
+- Visible text lines added: 7
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -13,15 +13,19 @@
+ 1 - Step 1: Check if you can still claim for supports
+ 2 - Step 2: Follow the right claim process
+ Step 1: Check if you can still claim for supports
+-There are limited circumstances supported independent living (SIL) providers can claim for a payment after a participant unexpectedly leaves the SIL arrangement.
++Supported independent living (SIL) supports can only be claimed by providers that are
++registered
++or have applied to register before 1 October 2026.
++There are limited circumstances registered SIL providers can claim for a payment after a participant unexpectedly leaves the SIL arrangement.
+ A payment for SIL supports may be made from a participant’s plan where the participant no longer occupies the SIL accommodation in the SIL arrangement, and:
+ the SIL supports were shared by 2 or more residents within shared SIL accommodation
+ the participant either:
+ dies
+ leaves the accommodation permanently because of a relationship or support breakdown affecting the participant's health and safety or the health and safety of others.
+ Claiming processes vary, depending on the reason for the unplanned exit.
+-Service agreements should include what happens in an unplanned exit.
+-This could include notice periods, final payments and how you’ll handle a sudden unplanned exit.
++You should have a
++service agreement
++in place to deliver SIL supports. The agreement should include information about what happens if there’s an unplanned exit.
+ Step 2: Follow the right claim process
+ Unplanned exit claiming process – deceased
+ You must let us know if a participant has died before submitting a claim.
+```

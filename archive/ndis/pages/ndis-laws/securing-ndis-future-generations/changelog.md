@@ -449,3 +449,38 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `80ed22a639f9421bc9f2c8c7d8a0fae7b5176f641daf01dd88ae626354fbdfb9`
+- New SHA-256: `97a472d7eef43594024e46b22e313facd92a79731922d93d03d5ec889ff1238f`
+- Visible text lines added: 5
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -72,15 +72,17 @@
+ Support budgets will be reduced over a 12-month period:
+ from 1 October 2026 when a plan is reassessed or a new plan is approved
+ from 1 February 2027 when a plan is renewed.
+-A new plan variation pathway will be created for high support needs participants who require 24-hour disability support. These participants will be able to apply for a plan variation within 90 days of a support determination applying to them.
++A new
++plan variation pathway
++will be created for high support needs participants who require 24-hour disability support. These participants will be able to apply for a plan variation within 90 days of a support determination applying to them.
+ If needed, we can increase funding through a plan variation to make sure they can continue to receive the supports that help keep them safe at home.
+ All participants can continue to
+ request a change to their plan
+ where there is a significant change in their functional capacity or circumstances.
+ In the meantime, plans may go up and down as participants’ needs change over time. This is not related to the reform changes.
+ Plan suspensions
+-We’ll have the ability to suspend plans if a participant doesn’t respond to requests for information.
+-This would only happen after we have made reasonable attempts to contact you and ask for the information. By ‘reasonable attempts’, we mean attempting to contact you, your nominee or authorised representative at least 5 times over an extended period.
++From 1 October, we have the ability to suspend plans if a participant doesn’t respond to requests for information.
++This will only happen after we have made reasonable attempts to contact you and ask for the information. By ‘reasonable attempts’, we mean attempting to contact you, your nominee or authorised representative at least 5 times over an 3-4 month period, using your preferred contact method.
+ Changes from December 2026
+ Claiming timeframes
+ Claims must be submitted within 90 days of delivering a support.
+```

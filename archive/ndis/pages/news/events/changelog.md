@@ -926,3 +926,70 @@ The page bytes changed, but no visible main-content wording change was detected.
  ››
  »
 ```
+
+## 2026-10-01T21:54:42Z — changed
+
+- Previous SHA-256: `e1f75e30a3a6c0398766b6321b428019ceaa5bc78968ddb9a2f0b6f7aa545dfd`
+- New SHA-256: `4a82ffd553e617f13bbd2273646d69faf009b33de0c193344f00adf2498fe874`
+- Visible text lines added: 14
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,31 +12,17 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(9)
++(8)
+ Provider Engagement
+-(9)
++(8)
+ No states available
+ Event date
+ November 2026
+ (1)
+ October 2026
+ (15)
+-September 2026
+-(2)
+ Search
+ Search
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+-Event Date
+-Wednesday, 30 September 2026
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Wednesday, 30 September 2026
+ Category
+ Provider Engagement
+ Introducing changes to the NDIS laws for all providers
+@@ -61,6 +47,18 @@
+ In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+ Event Date
+ Monday, 12 October 2026
++Category
++Community Engagement
++An overview of changes to the NDIS laws
++The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
++Event Date
++Wednesday, 14 October 2026
++Category
++Community Engagement
++Understanding the NDIS webinar: Using your NDIS plan
++When we talk about using your NDIS plan, we mean understanding how to make the most of the supports and funding available to you.
++Event Date
++Wednesday, 14 October 2026
+ Pagination
+ 1
+ 2
+```
