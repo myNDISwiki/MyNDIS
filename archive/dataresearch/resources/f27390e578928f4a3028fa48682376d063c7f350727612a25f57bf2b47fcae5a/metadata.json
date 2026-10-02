@@ -1,5 +1,5 @@
 {
-  "bytes": 58942,
+  "bytes": 58939,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f27390e578928f4a3028fa48682376d063c7f350727612a25f57bf2b47fcae5a",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/employment-outcomes-participants-their-families-and-carers",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-30T23:05:33Z",
+  "last_changed": "2026-10-01T23:16:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Femployment-outcomes-participants-their-families-and-carers",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -138,7 +138,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10345260810170330.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10347260902154543.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1yjEOgDAIQNEL1fRIDbaEkiA0gIO3N7o5uP28fB0clcR2kC3yElYq-pgjDPS3G5xp3Y4lmFj7BCVsy4KTTUsgeJ8NFn-_H78B6XctEQ&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_LbBO86F3tqhL8vHl4Pt-jIUhf1oS_gmmbcdU_TkkZNU.js?delta=2&include=eJx1yjEOgDAIQNEL1fRIDbaEkiA0gIO3N7o5uP28fB0clcR2kC3yElYq-pgjDPS3G5xp3Y4lmFj7BCVsy4KTTUsgeJ8NFn-_H78B6XctEQ&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tle4mz=",
@@ -166,9 +166,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 23 Sep 2026 02:52:14 GMT"
+    "Last-Modified": "Fri, 02 Oct 2026 00:06:20 GMT"
   },
-  "sha256": "f13f45f1be32e32c2ad1b633e99e3b6dccd2c1f698cef8a93aa6e973e8b93d65",
+  "sha256": "0d12327017c8542a2604758a6f96d9a689bb22092bcb452fdeb080d5bc45ccfa",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/employment-outcomes-participants-their-families-and-carers"
 }

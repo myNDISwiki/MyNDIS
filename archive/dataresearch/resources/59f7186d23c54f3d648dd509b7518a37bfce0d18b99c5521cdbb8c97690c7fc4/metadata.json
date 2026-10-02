@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/sensory-based-interventions",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-09-30T23:05:33Z",
+  "last_changed": "2026-10-01T23:16:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Fsensory-based-interventions",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -116,7 +116,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10345260810170330.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10347260902154543.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_jcnQ3ju0Zgd-ZhMoEKENDUWT75AtKmbSlp4f7oHyetQ.js?delta=2&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tle4mz=",
@@ -155,9 +155,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 23 Sep 2026 03:03:11 GMT"
+    "Last-Modified": "Thu, 01 Oct 2026 23:46:07 GMT"
   },
-  "sha256": "eff18629318c11988ff1f364c460100ae6c3d005d22fb7562847e1473a11539c",
+  "sha256": "3ccb037c74717615cd2726a81393faa61bf02fa4e615efdf21eb32d671235f4b",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/sensory-based-interventions"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 63080,
+  "bytes": 63078,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/edece03b8108d6f206cae9bd5f055a1314d0448668db3c87027346fb3b3bb185",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods",
   "first_seen": "2026-09-24T15:10:44Z",
   "kind": "page",
-  "last_changed": "2026-09-30T23:05:33Z",
+  "last_changed": "2026-10-01T23:16:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fevaluation-ndis-supports-lists-and-shorter-funding-periods",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -127,7 +127,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10345260810170330.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10347260902154543.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_jcnQ3ju0Zgd-ZhMoEKENDUWT75AtKmbSlp4f7oHyetQ.js?delta=2&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tle4mz=",
@@ -155,9 +155,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 23 Sep 2026 02:21:36 GMT"
+    "Last-Modified": "Fri, 02 Oct 2026 00:01:16 GMT"
   },
-  "sha256": "b513b5bf3eac86e49d91fc498b28f0d582a2d5461d5f83770d9f79fe73e39f8a",
+  "sha256": "ab4a8556fc96510258be7749e64945827253e9cb97f56385bf941403873318e9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods"
 }
