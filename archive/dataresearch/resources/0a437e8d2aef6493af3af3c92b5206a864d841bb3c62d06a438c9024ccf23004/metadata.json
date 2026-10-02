@@ -1,0 +1,22 @@
+{
+  "bytes": 1630847,
+  "content_type": "application/pdf",
+  "directory": "resources/0a437e8d2aef6493af3af3c92b5206a864d841bb3c62d06a438c9024ccf23004",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4599/download?attachment=",
+  "first_seen": "2026-10-02T23:03:45Z",
+  "kind": "file",
+  "last_changed": "2026-10-02T23:03:45Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA Report-Q2 2025-26.pdf\"",
+    "ETag": "\"1790913596:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Fri, 02 Oct 2026 03:59:55 GMT"
+  },
+  "sha256": "a385d182aa38aa7203a5416b17c851c2013c155916904bc7c31715168d0d1203",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4599/download?attachment="
+}

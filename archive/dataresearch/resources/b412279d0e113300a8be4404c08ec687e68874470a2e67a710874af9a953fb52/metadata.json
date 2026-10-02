@@ -1,0 +1,23 @@
+{
+  "bytes": 317,
+  "content_type": "text/css",
+  "directory": "resources/b412279d0e113300a8be4404c08ec687e68874470a2e67a710874af9a953fb52",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/modules/contrib/cacheflush/css/cacheflush.menu.css?tm9hs9=",
+  "first_seen": "2026-10-02T23:03:45Z",
+  "kind": "file",
+  "last_changed": "2026-10-02T23:03:45Z",
+  "links": [
+    "https://dataresearch.ndis.gov.au/core/misc/icons/787878/cog.svg"
+  ],
+  "response_headers": {
+    "ETag": "\"69efd14b-13d\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:43 GMT"
+  },
+  "sha256": "a8dcc0182f872e74f03121fcd82927e821c8898b73415e2519fa84ce3ce1a33a",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/modules/contrib/cacheflush/css/cacheflush.menu.css?tm9hs9="
+}

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-02T22:24:22Z",
+  "generated_at": "2026-10-02T23:54:36Z",
   "domains": [
     {
       "id": "dataresearch",
       "name": "NDIS data and research",
       "status": "partial",
-      "last_checked": "2026-10-01T23:16:31Z",
+      "last_checked": "2026-10-02T23:03:45Z",
       "tracked_pages": 129,
       "registry": "../dataresearch/manifest.json",
       "latest": "../dataresearch/latest-run.json",
       "changes": {
-        "NEW": 1,
-        "MODIFIED": 251,
+        "NEW": 18,
+        "MODIFIED": 249,
         "REMOVED": 0
       }
     },
@@ -180,7 +180,7 @@
     {
       "project": "NDIS data and research",
       "severity": "info",
-      "message": "26 resource(s) excluded by robots.txt.",
+      "message": "49 resource(s) excluded by robots.txt.",
       "href": "../archive/dataresearch/latest-run.json"
     },
     {

@@ -1,0 +1,22 @@
+{
+  "bytes": 114332,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/26b7a5ed2ed94f1a9b8e0c92dddd0f8e5c1ada2a9ff89b12694e40dcfee3323d",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4598/download?attachment=",
+  "first_seen": "2026-10-02T23:03:45Z",
+  "kind": "file",
+  "last_changed": "2026-10-02T23:03:45Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=SDA-Report-Data-Tables.docx",
+    "ETag": "\"1790894428:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Thu, 01 Oct 2026 22:40:27 GMT"
+  },
+  "sha256": "e0c1481fbb7e950507902cbf518683a1c08f63f9dadce541e40bf249a1d537b0",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4598/download?attachment="
+}
