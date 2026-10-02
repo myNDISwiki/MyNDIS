@@ -1,24 +1,13 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-02T00:11:56Z
-
-## NEW
-
-- https://www.vic.gov.au/about-thriving-kids
+Checked: 2026-10-02T08:39:45Z
 
 ## MODIFIED
 
-- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/acknowledgement-country
-- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life
-- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-early
-- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform
-- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/ministers-message
-- https://www.vic.gov.au/early-childhood-language-program
-- https://www.vic.gov.au/early-childhood-reform
-- https://www.vic.gov.au/early-childhood-school-closures
+- https://www.vic.gov.au/about-thriving-kids
+- https://www.vic.gov.au/child-safety-early-childhood-parents
+- https://www.vic.gov.au/choose-early-childhood-service
+- https://www.vic.gov.au/early-childhood-school-additional-needs
+- https://www.vic.gov.au/early-childhood-services-and-parents-taking-part-premiers-reading-challenge
 - https://www.vic.gov.au/early-childhood-update-february-2025/introducing-arrival
-
-## REMOVED
-
-- https://www.vic.gov.au/early-childhood-update-july-2026/coach-and-mentor-training-program-experienced-teachers-and-educators
 
