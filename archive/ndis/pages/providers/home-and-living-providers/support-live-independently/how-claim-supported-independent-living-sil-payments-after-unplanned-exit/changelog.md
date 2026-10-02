@@ -270,3 +270,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Unplanned exit claiming process – deceased
  You must let us know if a participant has died before submitting a claim.
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `4ebb910cdb868c9b58823838eea040ecb34d55c300bb0422ed1015930541f930`
+- New SHA-256: `ffacefbaf1eadb7fbd0e64e996139767d0793cf39c5d2e2b495e1c3245eaa1f0`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

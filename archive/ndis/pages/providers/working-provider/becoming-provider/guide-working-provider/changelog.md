@@ -279,3 +279,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Learn more about the NDIS
  pricing arrangements
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `7bbd31bf26d4dc41a88e0b5d0d206682c74bfeaf16b405a9bf423222c34c7fbd`
+- New SHA-256: `a19c700e6243dd159cc066c97704ca5f3086c927caa373378cb862b788fad9a4`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

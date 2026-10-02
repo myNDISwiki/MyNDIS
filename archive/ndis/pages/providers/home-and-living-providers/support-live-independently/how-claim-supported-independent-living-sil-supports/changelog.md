@@ -279,3 +279,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  how to use the provider portals
  to claim in the myplace provider portal step-by-step guides.
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `3a4219fae6eefa8f0c6f1baff17222159b1cfda41066f4fe22f3646da810e2b3`
+- New SHA-256: `011337adf03e9d6775bd6edcfbd65e7f3dff87f412f66250efcb969f3da6cf0e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

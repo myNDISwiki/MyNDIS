@@ -258,3 +258,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  with a participant to agree on how you will work together and your services as a SIL provider.
  You should help participants to understand any service agreement using their preferred language, communication method and terms they can understand.
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `244ef2b0c68801be7adbb7e97963b9b7bd2dbfc2501b01e44ac26568ccc88a09`
+- New SHA-256: `42acd7d06d3d857acfdcebcef1752fed40551ad8efc3da796212fbfc7cb11726`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

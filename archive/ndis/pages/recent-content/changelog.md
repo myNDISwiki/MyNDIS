@@ -970,3 +970,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Changes to support budgets from 1 October
 +1 October 2026
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `1e7bbcb6ec3a32ef910cf0398cd604ebc7b703129387f790da03740a5a88aa20`
+- New SHA-256: `97f5e85998a363b90256c1299d1278f700fc5a296bab45d5ba87e088e68925fb`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,6 +5,8 @@
+ Save page as PDF
+ Page title
+ Updated
++What is an NDIS plan
++2 October 2026
+ National Disability Insurance Scheme (NDIS), Melton, 3337
+ 1 October 2026
+ Updated Supported Independent Living operational guideline
+@@ -23,5 +25,3 @@
+ 1 October 2026
+ National Disability Insurance Scheme (NDIS), Port Lincoln, 5607
+ 1 October 2026
+-Changes to support budgets from 1 October
+-1 October 2026
+```

@@ -484,3 +484,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Claiming timeframes
  Claims must be submitted within 90 days of delivering a support.
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `97a472d7eef43594024e46b22e313facd92a79731922d93d03d5ec889ff1238f`
+- New SHA-256: `c0b6f2aef17b292e9c1d122d1000cafa0322dd06c1717ae6ce740bcc9fb8768d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

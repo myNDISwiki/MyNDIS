@@ -280,3 +280,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `e1714dac4fa6589c0ea1339e5c903e09bbbc1c828fa4ccb1fb80273f6d7fb778`
+- New SHA-256: `2aca346016b341a18dd7152bf0420c6446e6b911fa45c0417bf4562cb5d5e390`
+- Visible text lines added: 4
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -91,7 +91,10 @@
+ you get 24-hour NDIS supports for support needs arising directly from the impairments you access the NDIS for.
+ 24-hour NDIS supports are those that are available all day and night to meet your ongoing support needs related to your disability. This can include shared or individual supports, or overnight assistance.
+ You need to ask us to change your plan for high support needs within 90 days of your plan being approved with budget reductions. We can only vary your plan under a high support needs variation if you meet the criteria.
+-We may increase funding for specific supports to make sure you can continue to access 24-hour disability supports if we decide to vary your plan. The increase won’t be more than the budget reduction that was applied to your plan.
++You, your nominee, your child representative or a public guardian with a valid legal order can ask for this variation. You need to give
++consent
++for anyone else to ask for a plan variation on your behalf.
++We may increase funding for home and living or assisted daily living support categories to make sure you can continue to access 24-hour disability supports if we decide to vary your plan. The increase won’t be more than the budget reduction that was applied to your plan.
+ How you'll manage your plan
+ Your plan will also describe how the funding for each support type will be managed. Learn more about
+ how to manage your plan
+```

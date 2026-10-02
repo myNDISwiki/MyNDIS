@@ -256,3 +256,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You can choose either registered or unregistered providers for other supports if your funding is self-managed or you use a registered plan manager.
  Finding and choosing providers
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `dba4b0ce5314d6478cac9f63f28d7cda5a96726ddd5926c93e519b688a7ae6ae`
+- New SHA-256: `1798b7fd4785b9796a3bf7c2b17f828ac6d1ea25c1f752880da821092e233b8d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

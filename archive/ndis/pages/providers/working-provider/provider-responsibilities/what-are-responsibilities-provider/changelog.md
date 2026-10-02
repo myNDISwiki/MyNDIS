@@ -368,3 +368,40 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `a359672ef12bc4d070dbee7a0724af9ef4efa44290a5e9fbd9f516cb5b5dc75c`
+- New SHA-256: `b79f39f0d7b3719130e68d850efff23a4274da79d99fb224e7b96504766b0a4f`
+- Visible text lines added: 7
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,8 +21,9 @@
+ Competition and Consumer Act 2010
+ .
+ Your responsibilities as a provider are to also:
+-charge within the
+-NDIS pricing arrangements and price limits
++charge within the maximum amounts in the
++NDIS pricing schedule
++for NDIA-managed and plan-managed participants
+ tell participants the price of NDIS supports before delivering them
+ keep
+ full and accurate records
+@@ -49,6 +50,10 @@
+ registered
+ with the NDIS Commission if you:
+ provide specialist disability accommodation (SDA)
++provide
++supported independent living (SIL)
++support
++provide NDIS digital platform services
+ provide specialist behaviour support services
+ provide supports or services to NDIS participants with NDIA-managed funding
+ provide plan management services
+```

@@ -256,3 +256,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  SIL may be suitable if you need a support worker to:
  stay with you 24 hours a day, including overnight
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `e8fa3e07026c2f9228db20a14a6a0b4343607636a790e1c6ed8c0b8dad171e58`
+- New SHA-256: `3d41d95d83b5dd5592b850cc83e8c1e472fd58b62040779e5e5a0997cb6cc268`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

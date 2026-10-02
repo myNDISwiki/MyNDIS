@@ -247,3 +247,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  behaviour supports
  a plan manager, support coordinator or recovery coach.
 ```
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `4df45fb9442505b433265a817347d2934c999736eb54bafcc0a829922607d492`
+- New SHA-256: `98aafcc06e0fe833dba838455e3036df9fc447e29c944687430d8974d2c705da`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

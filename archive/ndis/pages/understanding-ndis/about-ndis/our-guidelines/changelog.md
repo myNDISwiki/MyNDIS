@@ -395,3 +395,44 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-02T21:23:34Z — changed
+
+- Previous SHA-256: `9abe73fa57d7ce2792a6626c4e5023b1182e1e0e7b7cf037c5a0321d64ba5071`
+- New SHA-256: `d2253930b9a269bfd32734751c6832970018c2103d5e76e8c11ed9868b65f63a`
+- Visible text lines added: 1
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -62,16 +62,12 @@
+ Leaving the NDIS
+ (PDF 323KB)
+ Leaving the NDIS
+-(DOCX 101KB)
++(DOCX 127KB)
+ How NDIS supports work
+ Principles we follow to create your plan
+ Principles we follow to create your plan
+-(PDF 174KB)
+-Principles we follow to create your plan
+ (DOCX 80KB)
+ Reasonable and necessary supports
+-Reasonable and necessary supports
+-(PDF 335KB)
+ Reasonable and necessary supports
+ (DOCX 112KB)
+ Justice system
+@@ -113,8 +109,6 @@
+ Plan variations (DOCX 283KB)
+ Your plan
+ Creating your plan
+-Creating your plan
+-(PDF 461KB)
+ Creating your plan
+ (DOCX 444KB)
+ Your plan
+```
