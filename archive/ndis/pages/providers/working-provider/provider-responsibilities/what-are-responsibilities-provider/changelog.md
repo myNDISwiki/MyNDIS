@@ -405,3 +405,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  provide supports or services to NDIS participants with NDIA-managed funding
  provide plan management services
 ```
+
+## 2026-10-03T19:16:19Z — changed
+
+- Previous SHA-256: `b79f39f0d7b3719130e68d850efff23a4274da79d99fb224e7b96504766b0a4f`
+- New SHA-256: `8e8dd7e23740a401127e2462b788f232685961a4e4b66844ba9970a67bcf0f81`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
