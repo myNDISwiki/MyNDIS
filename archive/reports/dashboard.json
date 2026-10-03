@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:28:31Z",
+  "generated_at": "2026-10-03T20:02:26Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -33,13 +33,13 @@
       "id": "health",
       "name": "Health.gov.au NDIS material",
       "status": "partial",
-      "last_checked": "2026-10-02T22:11:30Z",
+      "last_checked": "2026-10-03T19:50:05Z",
       "tracked_pages": 77,
       "registry": "../gov/health/ndis/manifest.json",
       "latest": "health/latest-changes.md",
       "changes": {
         "NEW": 0,
-        "MODIFIED": 8,
+        "MODIFIED": 6,
         "REMOVED": 0
       }
     },
@@ -103,13 +103,13 @@
       "id": "reports/health",
       "name": "Reports / Health",
       "status": "recorded changes",
-      "last_checked": "2026-10-02T22:24:21Z",
+      "last_checked": "2026-10-03T20:02:25Z",
       "tracked_pages": 0,
       "registry": "health/change-ledger.csv",
       "latest": "health/changes.html",
       "changes": {
         "NEW": 80,
-        "MODIFIED": 172,
+        "MODIFIED": 178,
         "REMOVED": 0
       }
     },
