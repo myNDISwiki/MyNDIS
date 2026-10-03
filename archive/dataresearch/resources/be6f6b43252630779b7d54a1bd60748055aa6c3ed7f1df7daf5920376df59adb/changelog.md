@@ -201,3 +201,9 @@ SHA-256: `3c002e71d77157927e2482da4b2bef772a1ce788a2a88d9fdd34b181bdaafae5`
  The NDIS in focus
  15 September 2026
 ```
+
+## 2026-10-03T21:15:47Z — changed
+
+SHA-256: `cf9d9ea3e4ec837432453f1a56af50c3ce9258b6167c02a4f031c0e479d86d50`
+
+No visible wording change; HTML bytes changed.
