@@ -1,5 +1,5 @@
 {
-  "bytes": 31740,
+  "bytes": 31739,
   "content_type": "application/pdf",
   "directory": "resources/13cffc17c1900d0a349e211522fbb5875d5a8f6f2493c8b882f6cc4059d6dadc",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4028",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-03T21:15:47Z",
+  "last_changed": "2026-10-04T21:23:32Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Technologybased interventions.pdf\""
   },
-  "sha256": "3775be83cc8b2d29354eb6705fed2c9a068ed85655dc6a1c8b7e3365f289c496",
+  "sha256": "29a45e61fc3a4351377a04cbbb4a8020dbfee3020358ccffe95446400827ec0b",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4028"
 }
