@@ -264,3 +264,88 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-05T22:44:47Z — changed
+
+- Previous SHA-256: `5baefd3ad93fb6edb43dd511dc5013bdada5497cc6bf40ef2e08f90445379e70`
+- New SHA-256: `d242802d1289836de67e87d0a92acd930c5625b2d03e2a31b38f4188f28ad55b`
+- Visible text lines added: 15
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -26,28 +26,27 @@
+ Chief Executive Officer
+ The Chief Executive Officer (CEO) is responsible for the day-to-day administration of the National Disability Insurance Agency (NDIA).
+ Graeme Head AO is the CEO of the NDIA.
+-The CEO is supported by eight Deputy CEOs (DCEO).
+-Each are responsible for one of eight groups:
++The CEO is supported by seven Deputy CEOs (DCEO).
++Each are responsible for one of seven groups:
+ Integrity Transformation and Technology Services – John Dardo
+ Partners and Providers – Penelope McKay
+ First Nations – Janine Mohamed
+ Enabling Services / Chief Operating Officer – Matthew Swainson
+-Legal, Actuarial, Governance and Reforms – vacant
++Legal, Actuarial, Governance and Reforms – Leigh Sanderson
+ Participant Experience and Service Design – Amity Durham
+ Service Delivery – Scott McNaughton
+ Integrity Transformation and Technology Services
+ Deputy CEO, Integrity Transformation and Technology Services – John Dardo
+-General Manager, Integrity and Payments Transformation – Kitsa Papadopoulos (Acting), Vacant
+-General Manager, Fraud Fusion Taskforce and Integrity Capability - Richard Honey (Acting), Kitsa Papadopoulos
++General Manager, Integrity and Payments Transformation – Kitsa Papadopoulos
++General Manager, Fraud Fusion Taskforce and Integrity Capability - Richard Honey (Acting)
+ Chief Information Officer/ General Manager, Technology and Data - Martin Mane
+ Partners and Providers
+ Deputy CEO, Partners and Providers – Penelope McKay
+-General Manager, Intermediaries – Miriam Slattery
+-General Manager, Home and Community Supports – Scott Fitzpatrick (Acting), Vacant
++General Manager, Intermediaries – Jo Collins
++General Manager, Home and Community Supports – Scott Fitzpatrick (Acting)
+ General Manager, Markets – Mark Wiggins
+ First Nations
+ Deputy CEO, First Nations – Janine Mohamed
+-General Manager, Risk, First Nations – Andy Johnston (Acting)
+ Enabling Services / Chief Operating Officer
+ Deputy CEO, Enabling Services / Chief Operating Officer – Matthew Swainson
+ General Manager, Chief People, Culture and Wellbeing /Chief People and Wellbeing Officer – Allison Doyle
+@@ -56,18 +55,18 @@
+ Chief Financial Officer – Chris Breitkreuz
+ General Manager, Strategic Communications – Catherine Payne
+ Legal, Actuarial, Governance and Reviews
+-Deputy CEO, Legal, Reviews, Actuarial and Data – vacant
+-General Manager, Legal/Chief Counsel – Ben Cheever (Acting), Tom McGregor
++Deputy CEO, Legal, Reviews, Actuarial and Data – Leigh Sanderson
++General Manager, Legal/Chief Counsel – Ben Cheever (Acting)
+ General Manager, Reviews and Information Release – Daniel Flowers
+ General Manager, Actuarial/Scheme Actuary – David Gifford
+-General Manager, Governance, Priorities and Strategy – Vacant, Gabriela Pulczynski
++General Manager, Governance, Priorities and Strategy – Miriam Slattery
+ Participant Experience and Service Design
+ Deputy CEO, Participant Experience and Service Design – Amity Durham
+-General Manager, Service Design and Participant Experience – Laura Wilkinson
+-General Manager, Engagement and Improvements – Clair Wheeler (Acting), Vacant
+-General Manager, Policy Leadership – Prue Coroneos
++Branch Manager, Office of the Participant Advocate (direct report to Deputy CEO, Participant Experience and Service Design) – Donna Purcell
++General Manager, Service and Digital Design – Laura Wilkinson
++General Manager, Engagement and Improvements – Clair Wheeler (Acting)
++General Manager, Policy Leadership – Tom McGregor
+ General Manager, Reform Implementation – Christine Kruse (Acting)
+-Branch Manager, Office of the Participant Advocate – Donna Purcell
+ Service Delivery
+ Deputy CEO, Service Delivery – Scott McNaughton
+ General Manager, QLD Regional Services – Desmond Lee
+@@ -76,7 +75,7 @@
+ General Manager, SA, WA, NT Regional and Remote Services – Fleur Hill
+ General Manager, Specialised Service Delivery – Jodie Stangel
+ General Manager, National Operations and Performance – Andrew Maitland
+-General Manager, NCC and Early Childhood – Martin Nightingale (Acting), Aaron Verlin
++General Manager, NCC and Early Childhood – Aaron Verlin
+ General Manager, Scheme Transformation and Capability – Lisa Buckingham
+ Main navigation sidebar
+ About
+```

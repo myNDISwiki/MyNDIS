@@ -395,3 +395,58 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-05T22:44:47Z — changed
+
+- Previous SHA-256: `d62cd2e730ab4a0fb82ae64254ff747bb56873b094d2a8760ca031cba16a6e26`
+- New SHA-256: `a1316a1092940bf21cfd4a1d2b430389c3da56260037e15a88c4474f5d4629ad`
+- Visible text lines added: 12
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,28 +7,30 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-Provider quarterly report - school leaver employment
++Provider quarterly report - youth employment
+ Outcomes by provider
+ Good practice
+ On this page:
+-1 - Provider quarterly report - school leaver employment
++1 - Provider quarterly report - youth employment
+ 2 - Outcomes by provider
+ 3 - Good practice
+-Provider quarterly report - school leaver employment
+-The Provider quarterly report - School leaver employment represents data submitted to the NDIA by school leaver employment support providers.
+-Providers use the school leaver reporting tool to capture and submit data to the NDIA about the participants they are supporting, the time they spend working on milestones toward employment and the outcomes they achieve.
++Provider quarterly report - youth employment
++The provider quarterly report - youth employment represents data submitted to us by NDIS employment providers.
++Providers use the employment provider reporting tool to capture and submit data to us about the participants they are supporting, the time they spend working on milestones toward employment and the outcomes they achieve.
+ Read the key highlights and insights in the summary and full reports below:
+-Provider quarterly report – School leaver employment – July 2024 – June 2025 (accessible DOCX 2.45MB)
+-Provider quarterly report – School leaver employment – July 2024 – June 2025 (PDF 1MB)
+-Provider quarterly report dashboard- School leaver employment - July 2024 – June 2025 (accessible DOCX 34KB)
+-Provider quarterly report dashboard- School leaver employment - July 2024 – June 2025 (accessible PDF 304KB)
++Provider quarterly report – youth employment – Jan 2025 – Dec 2025 (accessible DOCX 4.58MB)
++Provider quarterly report – youth employment – Jan 2025 – Dec 2025 (accessible PDF 1.29MB)
++Provider quarterly report dashboard- youth employment – Jan 2025 – Dec 2025 (accessible DOCX 31.2KB)
++Provider quarterly report dashboard- youth employment – Jan 2025 – Dec 2025 (accessible PDF 174KB)
+ To view archived reports visit
+ Archived provider quarterly report school leaver employment
+ .
+ Outcomes by provider
+-The Agency publishes the final outcomes reported by providers of employment support for school leavers.  The publication of these results highlights the intention of the funding in participant NDIS plans and to enable participants to consider performance when selecting a provider.
++We publish the final outcomes reported by providers of employment  assistance for young participants still at school and school leavers.  The publication of these results highlights the intention of the funding in participant NDIS plans and  helps participants to consider performance when selecting a provider.
+ Participants can use this information in discussions with providers about what they offer, how they tailor supports to help participants achieve their employment goals and how their results compare to those in the published report.
+ Lists of 'Outcomes by provider' will be released on a 6 monthly basis showing the final outcomes for participants assisted by individual providers over the preceding 12 months.
++Outcomes by provider January – December 2025 (DOC 95.9KB)
++Outcomes by provider January – December 2025 (XLSX 44.8KB)
+ Outcomes by provider July 2024 – June 2025 (DOCX 73KB)
+ Outcomes by provider July 2024 – June 2025 (XLSX 43KB)
+ Outcomes by provider January – December 2024 (DOCX 73KB)
+```

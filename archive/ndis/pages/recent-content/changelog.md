@@ -1008,3 +1008,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-05T22:44:47Z — changed
+
+- Previous SHA-256: `840e3ef013e6168d3e7d8833fd0396080b6a6a0bd10260fdc92a0cbd134b42e2`
+- New SHA-256: `a32b2fa5f0f556d66c65f3fb0d39b7fda88f6ff87dbc392a41e6bc06064f70b1`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,15 +5,17 @@
+ Save page as PDF
+ Page title
+ Updated
++Our guidelines
++5 October 2026
++National Disability Insurance Scheme (NDIS), Melton, 3337
++5 October 2026
++What are the responsibilities of a provider
++2 October 2026
+ What is an NDIS plan
+ 2 October 2026
+-National Disability Insurance Scheme (NDIS), Melton, 3337
+-1 October 2026
+ Updated Supported Independent Living operational guideline
+ 1 October 2026
+ National Disability Insurance Scheme (NDIS), Footscray, 3011
+-1 October 2026
+-Our guidelines
+ 1 October 2026
+ Guide to working with providers
+ 1 October 2026
+@@ -23,5 +25,3 @@
+ 1 October 2026
+ National Disability Insurance Scheme (NDIS), Casuarina, 0810
+ 1 October 2026
+-National Disability Insurance Scheme (NDIS), Port Lincoln, 5607
+-1 October 2026
+```

@@ -1119,3 +1119,83 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-05T22:44:47Z — changed
+
+- Previous SHA-256: `aeb295dbc7f004fd8b9f9c33b4e925844bc166e86a772c7c097d8bea92f589ed`
+- New SHA-256: `dc879d2b54cbce82cfbdf73f6575fd051e78afb857e783ee3358e900c3e45fdd`
+- Visible text lines added: 15
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(327)
++(328)
+ Notification
+ (43)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(3)
++(5)
+ September 2026
+ (12)
+ August 2026
+@@ -86,7 +86,7 @@
+ July 2026
+ (15)
+ June 2026
+-(20)
++(19)
+ May 2026
+ (15)
+ April 2026
+@@ -360,6 +360,18 @@
+ Search
+ Search
+ Category
++News
++Provider Quarterly Report - Youth Employment now available
++The Provider Quarterly Report – Youth Employment (January-December 2025) is now available. The report provides insight into employment supports delivered to 9,215 young participants and the outcomes they achieved.
++Date
++5 October 2026
++Category
++News
++Increasing integrity checks on older claims
++From 15 October 2026, we’ll do extra checks on claims submitted more than 90 days after a support is delivered.
++Date
++5 October 2026
++Category
+ Changes to the NDIS
+ News
+ Changes to support budgets from 1 October
+@@ -385,19 +397,6 @@
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+ Date
+ 30 September 2026
+-Category
+-News
+-Your feedback is helping shape the new way of planning
+-We’re testing the new way of planning before it rolls out in April 2027.
+-Date
+-28 September 2026
+-Category
+-Media release
+-News
+-New price limits set for NDIS supports
+-As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
+-Date
+-24 September 2026
+ Pagination
+ 1
+ 2
+```
