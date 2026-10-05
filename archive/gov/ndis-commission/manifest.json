@@ -2,7 +2,7 @@
   "seeds": [
     "https://www.ndiscommission.gov.au/lodge-freedom-information-foi-request"
   ],
-  "checked_at": "2026-10-04T20:28:32Z",
+  "checked_at": "2026-10-05T23:24:29Z",
   "status": "partial",
   "fetch_failures": [
     "https://www.ndiscommission.gov.au/lodge-freedom-information-foi-request: curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\ncurl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\ncurl: (28) Operation timed out after 30002 milliseconds with 0 bytes received"
