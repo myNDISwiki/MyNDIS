@@ -125,3 +125,9 @@ No visible wording change; HTML bytes changed.
 SHA-256: `9e7a83aa8eaee47c817ae9beb3dbcb74ab2b2c8378760803b277b2c3e52b34cf`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-06T00:00:23Z — changed
+
+SHA-256: `1253663ff3378c6e07542dd13875d005813c352c4d72a1a3a545e3a07dd7d56b`
+
+No visible wording change; HTML bytes changed.

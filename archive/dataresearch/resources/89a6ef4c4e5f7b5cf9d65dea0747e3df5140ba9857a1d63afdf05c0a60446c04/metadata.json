@@ -1,5 +1,5 @@
 {
-  "bytes": 56222,
+  "bytes": 56221,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/89a6ef4c4e5f7b5cf9d65dea0747e3df5140ba9857a1d63afdf05c0a60446c04",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/examining-links-between-disability-support-risk-and-release-custody-desktop-review-summary",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-04T21:23:32Z",
+  "last_changed": "2026-10-06T00:00:23Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fexamining-links-between-disability-support-risk-and-release-custody-desktop-review-summary",
     "https://cij.org.au/research-projects/leaving-prison-disability-support/",
@@ -146,7 +146,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 02 Oct 2026 08:07:30 GMT"
   },
-  "sha256": "fc4637596233d1475fa30a7ea2148323fe0882ee38a56ecfbc7832b8ac336574",
+  "sha256": "fbba2a0627d5735390535c9abb9309384abde2e13465bee2d26f9ac3571c0abf",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/examining-links-between-disability-support-risk-and-release-custody-desktop-review-summary"
 }
