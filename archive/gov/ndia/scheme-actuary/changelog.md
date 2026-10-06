@@ -563,3 +563,55 @@ Page bytes changed, but no visible-text change was detected.
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-10-06T21:15:01Z — changed
+
+- Previous SHA-256: `1cf28530c07bab87ff6023a925c2170a668358b49b6d4e0cb64f4063e7434070`
+- New SHA-256: `4ab3bf54a9f08e68db32602bcacfa95b1cfc77f8613eac45a4713b7b01661490`
+- Visible text lines added: 11
+- Visible text lines removed: 12
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-02/10/2026, 10:27
++06/10/2026, 03:04
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -123,20 +123,19 @@
+ Learn more
+ Latest news
+ Category
++News
++Provider Quarterly Report - Youth Employment now available
++Date
++5 October 2026
++Category
++News
++Increasing integrity checks on older claims
++Date
++5 October 2026
++Category
+ Changes to the NDIS
+ News
+ Changes to support budgets from 1 October
+-Date
+-1 October 2026
+-Category
+-News
+-Updated Supported Independent Living operational guideline
+-Date
+-1 October 2026
+-Category
+-Media release
+-Media release from the Minister
+-First phase of Thriving Kids supports start today
+ Date
+ 1 October 2026
+ Read more news
+```
