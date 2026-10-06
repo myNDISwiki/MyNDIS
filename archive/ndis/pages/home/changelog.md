@@ -625,3 +625,48 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `87b3c1d73e79d0af6c9005504c4564d1d823f0be9a976d1dacd98bdd56e7e9fe`
+- New SHA-256: `9076d7e7170facc4ba36d3a7b2dfa786f455ccdd330b64227a5058ea7f57aab8`
+- Visible text lines added: 10
+- Visible text lines removed: 11
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,20 +31,19 @@
+ Learn more
+ Latest news
+ Category
++News
++Provider Quarterly Report - Youth Employment now available
++Date
++5 October 2026
++Category
++News
++Increasing integrity checks on older claims
++Date
++5 October 2026
++Category
+ Changes to the NDIS
+ News
+ Changes to support budgets from 1 October
+-Date
+-1 October 2026
+-Category
+-News
+-Updated Supported Independent Living operational guideline
+-Date
+-1 October 2026
+-Category
+-Media release
+-Media release from the Minister
+-First phase of Thriving Kids supports start today
+ Date
+ 1 October 2026
+ Read more news
+```

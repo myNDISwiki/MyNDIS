@@ -670,3 +670,39 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `0f0f10b6d84421f8d2f599642103bf32a9240a8704b3750bc1b6a88f19896bf1`
+- New SHA-256: `b8a98332bf7afed11024d0d4dd37c5ba42f42313418ec014794b50b56792d749`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -82,9 +82,11 @@
+ (ZIP 3KB)
+ Nominees
+ Factsheet: Nominees
+-(PDF 121KB)
++(PDF 259KB)
+ Factsheet: Nominees
+ (DOCX 296KB)
++Factsheet: Being a nominee
++(DOCX 72KB)
+ Easy Read: Nominees
+ (PDF 6MB)
+ Easy Read: Nominees
+@@ -157,8 +159,6 @@
+ (DOCX 58KB)
+ Changing your plan
+ Changing your plan
+-Factsheet: Changing your plan
+-(PDF 200KB)
+ Factsheet: Changing your plan
+ (DOCX 285KB)
+ Check-ins
+```

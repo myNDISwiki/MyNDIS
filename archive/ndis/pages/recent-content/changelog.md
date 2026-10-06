@@ -1050,3 +1050,58 @@ The page bytes changed, but no visible main-content wording change was detected.
 -National Disability Insurance Scheme (NDIS), Port Lincoln, 5607
 -1 October 2026
 ```
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `a32b2fa5f0f556d66c65f3fb0d39b7fda88f6ff87dbc392a41e6bc06064f70b1`
+- New SHA-256: `51c602a39280fbf6ad71744aed62d23432195a9f426bbf45d245b2412600e702`
+- Visible text lines added: 17
+- Visible text lines removed: 17
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++Public interest disclosure
++6 October 2026
++Booklets and factsheets
++6 October 2026
++FOI disclosure log
++6 October 2026
++Find specialist disability accommodation (SDA)
++6 October 2026
++Bryden’s work is changing lives and shifting mindsets
++6 October 2026
+ Our guidelines
++6 October 2026
++Organisational structure
+ 5 October 2026
+-National Disability Insurance Scheme (NDIS), Melton, 3337
++Employment provider reports
+ 5 October 2026
+-What are the responsibilities of a provider
+-2 October 2026
+-What is an NDIS plan
+-2 October 2026
+-Updated Supported Independent Living operational guideline
+-1 October 2026
+-National Disability Insurance Scheme (NDIS), Footscray, 3011
+-1 October 2026
+-Guide to working with providers
+-1 October 2026
+-What is an early childhood partner
+-1 October 2026
+-First phase of Thriving Kids supports start today
+-1 October 2026
+-National Disability Insurance Scheme (NDIS), Casuarina, 0810
+-1 October 2026
++Increasing integrity checks on older claims
++5 October 2026
++Provider Quarterly Report - Youth Employment now available
++5 October 2026
+```

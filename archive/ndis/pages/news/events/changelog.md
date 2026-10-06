@@ -1011,3 +1011,33 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `a8780fdebc0c4cba47cde65ed3a35437c0f146eb3352d4606674b2ea92f5ac78`
+- New SHA-256: `ef8e5801301a1aac31786f7d8a360d13da40e68d722c06499c15804460fd5990`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,13 +12,13 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(8)
++(9)
+ Provider Engagement
+ (8)
+ No states available
+ Event date
+ November 2026
+-(1)
++(2)
+ October 2026
+ (15)
+ Search
+```

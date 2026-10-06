@@ -390,3 +390,37 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `33c320f2a0c49b7a14b0cd766f3a19091ca4ec7dfd7ad83827935e69e50336c7`
+- New SHA-256: `56379009d51fa7426d76e48bfdb3ac12e1cbf7abbcd1d09d75d8322661b24ec7`
+- Visible text lines added: 3
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -22,16 +22,17 @@
+ Amity Durham
+ Janine Mohamed
+ Penelope McKay
++Scott McNaughton
+ Matthew Swainson
+ John Dardo
+-Samuel Porter, and
++Leigh Sanderson, and
+ David Gifford.
+ Public officials can make a PID about the NDIA:
+ in person to their supervisor or to one of the NDIA’s authorised officers,
+ by emailing
+ [email protected]
+ , or
+-verbally by calling +61 2 6233 9200 and leaving a voice message.
++verbally by calling +61 2 7811 3395 and leaving a voice message.
+ Where can I find more information?
+ Public officials can read more about PIDs at the NDIA in the NDIA’s Procedures for dealing with Public Interest Disclosures.
+ Procedures for dealing with Public Interest Disclosures (DOCX 347KB)
+```

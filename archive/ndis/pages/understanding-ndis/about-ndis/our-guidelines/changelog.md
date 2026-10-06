@@ -478,3 +478,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 107KB)
  Reviewing a decision
 ```
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `9751dc19eb9cd66067d4b7a89c7b918dcaf12c35e6c32a033b313c6c54d7f92f`
+- New SHA-256: `57ac5383f62bd26b058ad2d792dee9e1599db31e0bed4ea261a96944e7e2c830`
+- Visible text lines added: 0
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -81,8 +81,6 @@
+ Mainstream and community supports overview
+ (DOCX 120KB)
+ Your privacy and information
+-Your privacy and information
+-(PDF 313KB)
+ Your privacy and information
+ (DOCX 95KB)
+ Compensation
+```

@@ -875,3 +875,47 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-06T21:03:40Z — changed
+
+- Previous SHA-256: `60c3e64ac2bb838f0c5cec9a34afb4539570076cfd89fae823daf53a1e95d160`
+- New SHA-256: `ac52d1ab611dca830c43a96a507a4920c64fe5f2552dd7160d1a99d4052ae093`
+- Visible text lines added: 18
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,23 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 26/27-0238
++14/09/2026
++Guidance and tools used by planners to evaluate evidence supplied by participants.
++FOI 26/27-0238
++12 documents released in full:
++Guide – Identify Home and Living Solutions Appendix B – Allied Health Practitioners v2.0
++Knowledge Article – Check Treating Professional Details v2.0
++Knowledge Article – Complete Checks for Vehicle Modifications v5.0
++Knowledge Article – Create and Submit a Home and Living Application v11.0
++Knowledge Article – Determine Disability-related Health Supports and Meal Preparation Supports v6.0
++Knowledge Article – Discuss a Participant Plan Change Request v7.0
++Knowledge Article – Understand Disability-related Health Supports – Capacity Building Supports v7.0
++Knowledge Article – Understand Mid Cost Assistive Technology (AT) Funding v2.0
++Knowledge Article – Understand Therapy Supports v7.0
++Knowledge Article – What Evidence of Disability is Required v7.0
++Presentation – TAPIB Sustainability Series – Module 9 Analysing Evidence for Planning Decisions (Slide Pack)
++Guidance – TAPIB Sustainability Series – Module 9 Understanding Evidence for Planning Decisions (Guidance Document)
+ FOI 26/27-0505
+ FOI 26/27-0506
+ FOI 26/27-0507
+@@ -8909,4 +8926,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-29 September 2026
++6 October 2026
+```
