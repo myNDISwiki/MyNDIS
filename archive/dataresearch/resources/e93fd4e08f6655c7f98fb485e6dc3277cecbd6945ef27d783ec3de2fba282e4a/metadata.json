@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-tas-act-and-other-territories",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T00:00:23Z",
+  "last_changed": "2026-10-06T22:44:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-tas-act-and-other-territories",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -220,7 +220,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 02 Oct 2026 10:39:20 GMT"
   },
-  "sha256": "110e5630e7a6c370b45304a291ad6c28955226da478ca8a267398ac42bb5e550",
+  "sha256": "dc777b3a4c2e025ea6c9212a6754d9df507a6ae49bb546a94fe6a15a732f73d7",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-tas-act-and-other-territories"
 }

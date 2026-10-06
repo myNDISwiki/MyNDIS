@@ -1,5 +1,5 @@
 {
-  "bytes": 64641,
+  "bytes": 64642,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/152ea43bd13d067a88adeff64e1268f8b35af9a6d825fa9c0dc35e5405866cc0",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/global-developmental-delay",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T00:00:23Z",
+  "last_changed": "2026-10-06T22:44:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fglobal-developmental-delay",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -178,7 +178,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 02 Oct 2026 07:23:02 GMT"
   },
-  "sha256": "b45651454cf530641a5bab37de9aa6fe6394468997fc7c85e1f3b480d6a23a1c",
+  "sha256": "113b3e45e425fd01cef695aea79f51e61c62a1525362e3686e21196d9e6599ca",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/global-developmental-delay"
 }
