@@ -501,3 +501,51 @@ The page bytes changed, but no visible main-content wording change was detected.
  (DOCX 95KB)
  Compensation
 ```
+
+## 2026-10-07T21:21:39Z — changed
+
+- Previous SHA-256: `57ac5383f62bd26b058ad2d792dee9e1599db31e0bed4ea261a96944e7e2c830`
+- New SHA-256: `802503cf2b27abd415433480513b8921021db9ec02467559fac74c2b1878ae66`
+- Visible text lines added: 10
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -66,8 +66,12 @@
+ How NDIS supports work
+ Principles we follow to create your plan
+ Principles we follow to create your plan
++(PDF 160KB)
++Principles we follow to create your plan
+ (DOCX 80KB)
+ Reasonable and necessary supports
++Reasonable and necessary supports
++(PDF 592KB)
+ Reasonable and necessary supports
+ (DOCX 112KB)
+ Justice system
+@@ -100,14 +104,20 @@
+ Early connections
+ (DOCX 84KB)
+ Plan reassessments
++Plan reassessments (PDF 472KB)
+ Plan reassessments (DOCX 109KB)
+ Plan variations
++Plan variations (PDF 274 KB)
+ Plan variations (DOCX 283KB)
+ Your plan
+ Creating your plan
+ Creating your plan
++(PDF 527 KB)
++Creating your plan
+ (DOCX 444KB)
+ Your plan
++Your plan
++(PDF 548KB)
+ Your plan
+ (DOCX 107KB)
+ Reviewing a decision
+```

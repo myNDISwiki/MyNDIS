@@ -1105,3 +1105,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Provider Quarterly Report - Youth Employment now available
 +5 October 2026
 ```
+
+## 2026-10-07T21:21:39Z — changed
+
+- Previous SHA-256: `51c602a39280fbf6ad71744aed62d23432195a9f426bbf45d245b2412600e702`
+- New SHA-256: `46f335fd7bd369f3d7267199e3218d3307a910534dca25e8c4f8c7fb49434c64`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

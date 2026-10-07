@@ -1208,3 +1208,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-07T21:21:39Z — changed
+
+- Previous SHA-256: `12145f2da051e6291c1749d2db0eb4875e6877a9a323c7195aad6c5320e3c1df`
+- New SHA-256: `247359e0313702bc08f02c31b4f0bb86532183adf69e302d9574f40a5247805f`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,7 +48,7 @@
+ Provider news
+ (3)
+ Media release
+-(62)
++(63)
+ Media release from the Minister
+ (94)
+ News - housing
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(5)
++(6)
+ September 2026
+ (12)
+ August 2026
+@@ -360,6 +360,12 @@
+ Search
+ Search
+ Category
++Media release
++Trusted local NDIS support expands across remote Australia
++More First Nations people with disability in remote communities will get trusted local, face-to-face help to understand and make the most of their NDIS supports closer to home.
++Date
++7 October 2026
++Category
+ News
+ Provider Quarterly Report - Youth Employment now available
+ The Provider Quarterly Report – Youth Employment (January-December 2025) is now available. The report provides insight into employment supports delivered to 9,215 young participants and the outcomes they achieved.
+@@ -391,12 +397,6 @@
+ Families of children with extra developmental needs can now access expanded information and supports, as part of the Australian Government’s Thriving Kids program.
+ Date
+ 1 October 2026
+-Category
+-Notification
+-Planned system updates 1 October 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+-Date
+-30 September 2026
+ Pagination
+ 1
+ 2
+```

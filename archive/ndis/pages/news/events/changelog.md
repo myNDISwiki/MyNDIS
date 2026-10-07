@@ -1041,3 +1041,64 @@ The page bytes changed, but no visible main-content wording change was detected.
  (15)
  Search
 ```
+
+## 2026-10-07T21:21:39Z — changed
+
+- Previous SHA-256: `ef8e5801301a1aac31786f7d8a360d13da40e68d722c06499c15804460fd5990`
+- New SHA-256: `77ed08c35f88296c4cc911a3049d1d15504c7433fbd633c54deffc1cbabdb6b4`
+- Visible text lines added: 12
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,23 +12,19 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(9)
++(17)
+ Provider Engagement
+-(8)
++(7)
+ No states available
+ Event date
++December 2026
++(1)
+ November 2026
+-(2)
++(8)
+ October 2026
+ (15)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Tuesday, 6 October 2026
+ Category
+ Community Engagement
+ An overview of changes to the NDIS laws
+@@ -59,10 +55,17 @@
+ When we talk about using your NDIS plan, we mean understanding how to make the most of the supports and funding available to you.
+ Event Date
+ Wednesday, 14 October 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Thursday, 15 October 2026
+ Pagination
+ 1
+ 2
+ 3
++4
+ ›
+ ››
+ »
+```
