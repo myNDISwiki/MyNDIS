@@ -1,5 +1,5 @@
 {
-  "bytes": 59051,
+  "bytes": 59047,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/3f83c8d70274fbfce1eae5ce98c28ee8c4f56b198574a66f36e909372c2ae4d2",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/assistance-dogs-people-autism",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fassistance-dogs-people-autism",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -146,9 +146,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 04:48:32 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 22:26:21 GMT"
   },
-  "sha256": "c382cbbd2146a015b831203be793513023c6d220526684b5d1d1df38f024ae51",
+  "sha256": "013d1f8aee4d9b5e96d4285ecd09271343b83fb6a124fefd4e02f764d9f8ea1c",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/assistance-dogs-people-autism"
 }

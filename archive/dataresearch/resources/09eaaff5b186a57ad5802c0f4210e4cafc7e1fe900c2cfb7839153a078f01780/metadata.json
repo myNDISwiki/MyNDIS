@@ -1,5 +1,5 @@
 {
-  "bytes": 56382,
+  "bytes": 56379,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/09eaaff5b186a57ad5802c0f4210e4cafc7e1fe900c2cfb7839153a078f01780",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-action",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -144,9 +144,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 04:50:21 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 23:19:10 GMT"
   },
-  "sha256": "0275545024324389bad289e2fa74c8e80af54221dad40124e46a5e9d13917548",
+  "sha256": "689c8ed3f790c1e42bff1d8d0f245b2343e2a1a197acbe05da5ebb67c710b17f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action"
 }

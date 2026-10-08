@@ -1,5 +1,5 @@
 {
-  "bytes": 56344,
+  "bytes": 56341,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/132748cf79a86902b95e82fef474d2bbac693d1e0fc49d3017899c5c7d544905",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/people-disability-and-their-ndis-goals",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fpeople-disability-and-their-ndis-goals",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -159,9 +159,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 10:30:32 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 23:59:20 GMT"
   },
-  "sha256": "e701c5c6bb256bf611b7a45ce23fce90dceb73c76f1dd3f99327e55701a1f417",
+  "sha256": "ee546afb54f34345bf8add372bd16c00cedf0f489d86f01e8a4d9de62474f6bf",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/people-disability-and-their-ndis-goals"
 }

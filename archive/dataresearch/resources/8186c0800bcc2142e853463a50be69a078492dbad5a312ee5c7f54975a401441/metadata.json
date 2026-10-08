@@ -1,5 +1,5 @@
 {
-  "bytes": 61749,
+  "bytes": 61746,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/8186c0800bcc2142e853463a50be69a078492dbad5a312ee5c7f54975a401441",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fmarkets-and-innovations-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -147,9 +147,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 04:50:05 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 22:40:24 GMT"
   },
-  "sha256": "34a317e3937a9b49b4084b189644074d7e6fd3770eeb669571edbb9625de8174",
+  "sha256": "97b4497a53e45d8bc3caabf8a66a7bfc424003ec92acc848bc2c3a6137b8e14a",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research"
 }

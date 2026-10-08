@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/autism",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fautism",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -176,9 +176,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 04:00:24 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 22:12:27 GMT"
   },
-  "sha256": "e7a40712b38e7a4f0df87a9002b19b64102d294405f398cf0bd4819a28a9b773",
+  "sha256": "d55f6dca4c73ea547a6d900faf66fd474116bba0cac1ba41bac58d9d74389a9e",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/autism"
 }

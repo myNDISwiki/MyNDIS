@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/specialist-disability-accommodation-sda-data",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fspecialist-disability-accommodation-sda-data",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -193,9 +193,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 04:02:08 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 22:04:37 GMT"
   },
-  "sha256": "e476bc422a0ef5e916e6559cfac65012e3dc15021c83b25b89a3d5e07d96d4f1",
+  "sha256": "05028691e8582d9b44cc3c32943cfe470815bca1911e366d3133dbd4d219e1bb",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/node/4009/"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 57175,
+  "bytes": 57170,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/310300a779892279789aa37d90bc270ba5530f986958c078174c4283c28a0286",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -143,9 +143,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 04:50:19 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 23:22:08 GMT"
   },
-  "sha256": "a230104eac88066694a767de2d9c4260b626ab81cb8cb48e22a14c1a086f4e46",
+  "sha256": "e5fc2e6b8bcd5cc52dc02c950fc0d772d5b4538349034d20a6b0d6b24df6f0eb",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts"
 }

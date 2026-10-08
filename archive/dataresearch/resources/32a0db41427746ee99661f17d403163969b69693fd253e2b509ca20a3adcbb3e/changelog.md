@@ -163,3 +163,45 @@ No visible wording change; HTML bytes changed.
 SHA-256: `5dd57449ab1114553c0f12422205273ddf151e50a6809d7dfd950eba8063f497`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-07T23:08:09Z — changed
+
+SHA-256: `eca0e21005d43d1bccc46d8a1258932c81e3fac676cd23edb8dcd2866506ca4a`
+
+```diff
+--- before
++++ after
+@@ -63,6 +63,7 @@
+ Save page as PDF
+ The NDIA regularly releases data about the NDIS including important insights about participants, their families and carers.
+ Data is a powerful tool in showing the value and benefit of the NDIS and also helping us to better understand the Scheme.
++Read our latest data and reports
+ Data in focus for September 2026:
+ Summary of Statistics (PDF 174KB)
+ Previous data in focus
+@@ -71,6 +72,7 @@
+ Summary of Statistics (PDF 220KB)
+ Data in focus for July 2026:
+ Summary of Statistics (PDF 134KB)
++The NDIS in focus 2025–26
+ Data in focus for June 2026:
+ Summary of Statistics (PDF 135KB)
+ Data in focus for May 2026:
+@@ -99,6 +101,7 @@
+ Summary of Statistics (PDF 145KB)
+ Data in focus for July 2025:
+ Summary of Statistics (PDF 144KB)
++The NDIS in focus 2024–25
+ Data in focus for June 2025:
+ Summary of Statistics (PDF 120KB)
+ Data in focus for May 2025:
+@@ -188,7 +191,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-15 September 2026
++8 October 2026
+ Social Menu
+ Facebook
+ (External website)
+```

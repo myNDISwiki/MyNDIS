@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/using-capacity-building-supports-help-make-individualised-living-reality",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fhome-and-living-supports%2Fusing-capacity-building-supports-help-make-individualised-living-reality",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -150,9 +150,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 07:07:05 GMT"
+    "Last-Modified": "Wed, 07 Oct 2026 22:52:54 GMT"
   },
-  "sha256": "a8ee83b039ea1ac8b6af810d8492da55ebb9147e04208d49053a264a74974276",
+  "sha256": "00820646962b0bbd73f0856dbd7fad351dcc12861779d479f068092584428f19",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/using-capacity-building-supports-help-make-individualised-living-reality"
 }

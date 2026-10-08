@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/inklings-wa-pilot-program",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-06T22:44:31Z",
+  "last_changed": "2026-10-07T23:08:09Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Finklings-wa-pilot-program",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -147,9 +147,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 02 Oct 2026 06:34:45 GMT"
+    "Last-Modified": "Thu, 08 Oct 2026 00:00:39 GMT"
   },
-  "sha256": "f80dea60b9657aa178468754ccfa230218a054619767510d99f8c26c1ca0e978",
+  "sha256": "da60a50e9c938d368efcae3ea38ee18d95669eb619c7d4a570123e53b1ba0c6a",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/inklings-wa-pilot-program"
 }
