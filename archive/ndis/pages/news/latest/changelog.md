@@ -1266,3 +1266,51 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-10-08T21:23:27Z — changed
+
+- Previous SHA-256: `247359e0313702bc08f02c31b4f0bb86532183adf69e302d9574f40a5247805f`
+- New SHA-256: `b2797b9f1b50233efd87a55f0f12ca39a917630378d5a1172a620cfad276ac7d`
+- Visible text lines added: 5
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(6)
++(7)
+ September 2026
+ (12)
+ August 2026
+@@ -359,6 +359,10 @@
+ (2)
+ Search
+ Search
++Planned system updates 11 October 2026
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems. Impacted systems: my NDIS participant portal my NDIS provider portal myplace participant portal myplace provider portal my NDIS App NAPIC Gateway Digital Partner Portal Integrity Portal APIC Provider API Start date and time Saturday 10 October 2026, 11:30 pm AEDT Finish date and time Sunday 11 October 2026, 6:30 am AEDT * Please note: Services may be returned earlier if technically possible. Outage window 7 hours Impact on users These systems will be down during the outage window. Please plan around this if required. We are sorry for the disruption.
++Date
++8 October 2026
+ Category
+ Media release
+ Trusted local NDIS support expands across remote Australia
+@@ -388,13 +392,6 @@
+ News
+ Updated Supported Independent Living operational guideline
+ We have updated the Supported Independent Living (SIL) operational guideline to reflect recent changes to SIL provider registration requirements and provide greater clarity on SIL decision making.
+-Date
+-1 October 2026
+-Category
+-Media release
+-Media release from the Minister
+-First phase of Thriving Kids supports start today
+-Families of children with extra developmental needs can now access expanded information and supports, as part of the Australian Government’s Thriving Kids program.
+ Date
+ 1 October 2026
+ Pagination
+```

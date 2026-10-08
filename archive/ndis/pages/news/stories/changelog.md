@@ -316,3 +316,46 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-08T21:23:27Z — changed
+
+- Previous SHA-256: `14a2e727f5d3b2147fdc03393dd837710e96858a1a4b980266ffd164d9d9aace`
+- New SHA-256: `e31ca5905bd030de77f4051f02c1a9bc9c0205d28ddfa697e5e32230bfe90765`
+- Visible text lines added: 4
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -36,7 +36,7 @@
+ Providers
+ (13)
+ Stories
+-(267)
++(268)
+ Translated videos + Auslan
+ (6)
+ Understanding the NDIS
+@@ -47,6 +47,9 @@
+ (56)
+ Search
+ Search
++Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
++NDIS support helps Jack find his place in the workforce
++8 October 2026
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+ Charlie’s NDIS supports help him build a bigger future
+ 11 September 2026
+@@ -62,9 +65,6 @@
+ With NDIS hearing supports behind him, Lee is helping build much-needed homes for Australians. The construction professional is contributing to the economy while building a future with his wife and planning to start a family.
+ NDIS supports help Lee build his life
+ 14 August 2026
+-For former Gosford primary school teacher Violeta, being blind is no barrier to living the independent life she has always cherished.
+-Violeta embraces an active, independent life
+-14 August 2026
+ Pagination
+ 1
+ 2
+```

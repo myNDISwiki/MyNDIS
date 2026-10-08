@@ -268,3 +268,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-08T21:23:27Z — changed
+
+- Previous SHA-256: `128214a9c4f72968d004e09cb56360d81b58a781835fcef38741bc0e0ce120a5`
+- New SHA-256: `fec9d589b76d48868a86688c0dddd32c334bf3ac0043bb894ce28ce910a6f496`
+- Visible text lines added: 3
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -69,12 +69,14 @@
+ the principles and standards we want to achieve
+ how we’re improving the way we serve participants
+ the timeframes we’ll meet as part of the Participant Service Guarantee (PSG).
+-The Service Charter is based on 5 principles. They guide us in how we work with participants, their families and carers.
++The Service Charter is based on 6 principles. They guide us in how we work with participants, their families and carers.
+ We’re committed to offering service that’s:
+ transparent
+ responsive
+ respectful
+ empowering
++connected
++mutually responsible.
+ Life at the NDIA
+ Everyone at the NDIA makes a difference in the lives of Australians. Find out from our people what it’s like to work here.
+ In this video, Kellie Maloney talks about her role as a planner working directly with participants.
+@@ -152,7 +154,6 @@
+ Participant Service Charter
+ Safe and respectful interactions
+ Participant Service Guarantee
+-Participant Service Improvement Plan
+ Sharing information
+ Expand or collapse sub-menu for Sharing information
+ Access to information
+```

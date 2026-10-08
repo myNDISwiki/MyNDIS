@@ -679,3 +679,56 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-08T21:23:27Z — changed
+
+- Previous SHA-256: `bd02c3824f959ef6a3834c5d66f499402e0927248030fc37152a781c3f8ff88c`
+- New SHA-256: `8fd55962d7798583c8b37a6f0aa01760cf234e05f2885aafbd675bf02af28e73`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++Media release
++Trusted local NDIS support expands across remote Australia
++Date
++7 October 2026
++Category
+ News
+ Provider Quarterly Report - Youth Employment now available
+ Date
+@@ -40,23 +45,17 @@
+ Increasing integrity checks on older claims
+ Date
+ 5 October 2026
+-Category
+-Changes to the NDIS
+-News
+-Changes to support budgets from 1 October
+-Date
+-1 October 2026
+ Read more news
+ Participant experiences
++Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
++NDIS support helps Jack find his place in the workforce
++8 October 2026
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+ Charlie’s NDIS supports help him build a bigger future
+ 11 September 2026
+ Living in specialist disability accommodation (SDA) has helped build Geelong NDIS participant Tom’s independence and improved his safety.
+ Tom’s home gives him independence and choice
+ 11 September 2026
+-The NDIS supported Bryden to build his job and life skills. Now he’s a teacher’s aide at a local state school and happy living independently.
+-Bryden’s work is changing lives and shifting mindsets
+-11 September 2026
+ More stories and videos
+ This page current as of
+ 29 June 2026
+```

@@ -268,3 +268,93 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-08T21:23:27Z — changed
+
+- Previous SHA-256: `2a2dcbd390d79a1f52d98e3c7bfbc9d0f6aa99a49fec7290b84d69e5e121462b`
+- New SHA-256: `75c0c5e7569e349d76ba810640e9539944e4b60db3a08dd5548f9624799b45ff`
+- Visible text lines added: 7
+- Visible text lines removed: 38
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -18,15 +18,8 @@
+ Our commitment to you
+ We are committed to improving how we serve people applying to the NDIS, NDIS participants and or their parents and carers.
+ The Participant Service Charter explains what you can expect from us.
+-We first released the Service Charter in August 2020. We have updated it to align with
+-2022 legislation changes
+-.
+-The Participant Service Improvement Plan sets out what we are going to do over the next two years to deliver a Scheme that meets participants’ expectations.
+-Visit the
+-Participant Service Improvement Plan
+-page to see the changes we’re making to improve the NDIS for everyone.
+ Participant Service Charter
+-The Participant Service Charter is based on five principles for our engagement with participants. We are committed to offering service that is:
++The Participant Service Charter is based on 6 principles for our engagement with participants. We are committed to offering service that is:
+ Transparent
+ We will make it easy to access and understand our information and decisions.
+ Responsive
+@@ -37,9 +30,13 @@
+ We will make it easy to access and use information and be supported by the NDIS to lead your life.
+ Connected
+ We will support you to access the services and supports you need.
++Mutually responsible
++We will work together with you to create a respectful working relationship. You can help us and our partners provide you with a high standard of service by taking responsibility for:
++being respectful and fair towards our staff so they feel safe
++giving us constructive feedback about our performance so we can improve our services.
+ The Participant Service Charter also tells you how you can contact us, make a complaint, or provide feedback, and your rights if you do not agree with a decision we’ve made.
+ Participant Service Guarantee
+-The Participant Service Charter includes timeframes for our processes and decisions – set out in the legislated Participant Service Guarantee and draft Participant Service Guarantee Rules.
++The Participant Service Charter includes timeframes for our processes and decisions – set out in the legislated Participant Service Guarantee.
+ We must make decisions about access, plan reassessments, variations and reviews, and nominee changes within these timeframes.
+ This gives participants, families and carers greater certainty about how long processes will take.
+ We report on our performance against
+@@ -50,34 +47,7 @@
+ Download the Participant Service Charter
+ Participant Service Charter (PDF 1.3MB)
+ Participant Service Charter (DOCX 91KB)
+-Easy Read - Participant Service Charter (PDF 2.9MB)
+-Easy Read (text only) - Participant Service Charter (DOCX 70KB)
+-The Participant Service Charter is current as at October 2022.
+-Participant Service Charter in Easy Read in other languages
+-ميثاق خدمة المشارك - إحداث فرق للأشخاص الذين يستخدمونNDISفي اللغة
+-ميثاق خدمة المشارك - إحداث فرق للأشخاص الذين يستخدمونNDISفي اللغة
+-参与者服务章程——为以母语使用NDIS的人士改善待遇 (PDF 3.63 MB)
+-参与者服务章程——为以母语使用NDIS的人士改善待遇 (DOCX  3.13MB)
+-參與者服務章程：為以母語使用NDIS的人士營造改變 (PDF 3.66KB)
+-參與者服務章程：為以母語使用NDIS的人士營造改變 (DOCX 3.01MB)
+-Charter ng Serbisyo sa Kalahok - Tumutulong nang malaki sa mga taong gumagamit ng NDIS na nasa wika (PDF 3.58MB)
+-Charter ng Serbisyo sa Kalahok - Tumutulong nang malaki sa mga taong gumagamit ng NDIS na nasa wika (DOCX 60KB)
+-Charte de service aux participants - Faire la différence pour les personnes qui utilisent le NDIS dans une langue autre que l'anglais (PDF 3.57MB)
+-Charte de service aux participants - Faire la différence pour les personnes qui utilisent le NDIS dans une langue autre que l'anglais (DOCX 64KB)
+-Χάρτης Υπηρεσιών Συμμετεχόντων - Κάνοντας τη διαφορά για τα άτομα που χρησιμοποιούν το NDIS στα Ελληνικά (PDF 35.7MB)
+-Χάρτης Υπηρεσιών Συμμετεχόντων - Κάνοντας τη διαφορά για τα άτομα που χρησιμοποιούν το NDIS στα Ελληνικά (DOCX 64KB)
+-प्रतिभागी सेवा अधिकार-पत्र – अन्य भाषाओं में एनडीआईएस का उपयोग करने वाले लोगों के लिए एक अंतर लाना (PDF 3.56MB)
+-प्रतिभागी सेवा अधिकार-पत्र – अन्य भाषाओं में एनडीआईएस का उपयोग करने वाले लोगों के लिए एक अंतर लाना (DOCX 4.21MB)
+-Carta dei servizi per i partecipanti - Fare la differenza per le persone che utilizzano l'NDIS in altre lingue (PDF 3.56MB)
+-Carta dei servizi per i partecipanti - Fare la differenza per le persone che utilizzano l'NDIS in altre lingue (DOCX 64KB)
+-Повелба за услуги на учесниците - Позитивна промена за луѓето кои користат NDIS на јазик (PDF XXKB)
+-Повелба за услуги на учесниците - Позитивна промена за луѓето кои користат NDIS на јазик (DOCX 64KB)
+-Pepa o Fa'amatalaga o 'Auaunaga o Sui Auai - Fai se eseesega mo tagata e faaaogaina le NDIS i le gagana (PDF 3.54MB)
+-Pepa o Fa'amatalaga o 'Auaunaga o Sui Auai - Fai se eseesega mo tagata e faaaogaina le NDIS i le gagana (DOCX 60KB)
+-Estatuto de Servicio al Participante. Marcar una diferencia para las personas que utilizan el NDIS en su idioma (PDF 3.57MB)
+-Estatuto de Servicio al Participante. Marcar una diferencia para las personas que utilizan el NDIS en su idioma (DOCX 64KB)
+-Bản Tôn chỉ Dịch vụ Dành cho Người tham gia - Tạo sự khác biệt qua ngôn ngữ cho người sử dụng NDIS (PDF 3.5MB)
+-Bản Tôn chỉ Dịch vụ Dành cho Người tham gia - Tạo sự khác biệt qua ngôn ngữ cho người sử dụng NDIS (DOCX 64KB)
++The Participant Service Charter is current as at October 2026.
+ Transcript for '
+ Participant Service Charter and Participant Service Improvement Plan - Auslan
+ '
+@@ -127,7 +97,6 @@
+ Participant Service Charter
+ Safe and respectful interactions
+ Participant Service Guarantee
+-Participant Service Improvement Plan
+ Sharing information
+ Expand or collapse sub-menu for Sharing information
+ Access to information
+```
