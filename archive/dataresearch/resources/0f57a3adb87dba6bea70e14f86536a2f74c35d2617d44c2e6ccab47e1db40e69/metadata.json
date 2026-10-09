@@ -1,5 +1,5 @@
 {
-  "bytes": 128864,
+  "bytes": 128866,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/0f57a3adb87dba6bea70e14f86536a2f74c35d2617d44c2e6ccab47e1db40e69",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-07T23:08:09Z",
+  "last_changed": "2026-10-08T23:23:59Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fquarterly-report-supplements",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -374,7 +374,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 07 Oct 2026 22:22:55 GMT"
   },
-  "sha256": "38622067d77dc028bdbe8148482d376ac2f0ce7d49112ee38380f14b93fe161c",
+  "sha256": "5cbdd96a2893be5a1db3fc726a47c8b5bb106fc23c9d1dc81ed9aeed80287cfc",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements"
 }

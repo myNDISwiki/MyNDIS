@@ -251,3 +251,9 @@ SHA-256: `4e1d21ef23776de5d3086ab89b98ddd010942cfcce9f504bf1e623feaa65561a`
  9 September 2026
  Developmental Delay
 ```
+
+## 2026-10-08T23:23:59Z — changed
+
+SHA-256: `b207be4ed414f698f15a0bb8101487147c260f3ed402dd96ec13d366539ea0ed`
+
+No visible wording change; HTML bytes changed.
