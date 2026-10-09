@@ -310,3 +310,34 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `a650dae1b8dc91bc0169b525a7b6938bdf4b9dc2eb0005f5107a7533ab1eb5e1`
+- New SHA-256: `4de9c33c19b513cada2b0f03e84c47ad41cbeec44d859a4516fd02eec07ed548`
+- Visible text lines added: 0
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -115,16 +115,6 @@
+ Individualised living options
+ WWFI - Individualised living options (PDF 93KB)
+ WWFI - Individualised living options (DOCX 61KB)
+-Home modifications
+-Home automation
+-WWFI - Home automation (PDF 126KB)
+-WWFI - Home automation (DOCX 63KB)
+-Modifications to a new house build
+-WWFI - Modifications to a new house build (PDF 126KB)
+-WWFI - Modifications to a new house build (DOCX 63KB)
+-Moving house
+-WWFI - Moving house (PDF 126KB)
+-WWFI - Moving house (DOCX 63KB)
+ Interacting with mainstream supports
+ Nursing in the home
+ WWFI - Nursing in the home (PDF 126KB)
+```

@@ -424,3 +424,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `c3e94f5b9dd3e9555b0155868d5c4e05a17d32a02dfe88681a7f905b00a4c1fd`
+- New SHA-256: `295be5c662dc1895e0a5b3fe200da84e851e4380e6c496f8d5edae24014ad12b`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,11 +16,6 @@
+ '
+ Events and information sessions
+ Category
+-Community Engagement
+-Understanding the NDIS webinar - Applying to the NDIS: Access and eligibility
+-Event Date
+-Tuesday, 10 November 2026
+-Category
+ Provider Engagement
+ Introducing changes to the NDIS laws for all providers
+ Event Date
+@@ -30,6 +25,11 @@
+ Introducing changes to the NDIS laws for all providers
+ Event Date
+ Wednesday, 28 October 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++Event Date
++Thursday, 22 October 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

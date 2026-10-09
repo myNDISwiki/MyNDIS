@@ -478,3 +478,67 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `e2b42f09203173aec0d9af5b8622a18bce20e490b0240a4f0dbeb581d713a07d`
+- New SHA-256: `94b8c0bbe8e06a0479e192dde5cb688d79df2d4560d816d366db710f73cca81f`
+- Visible text lines added: 14
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,7 +21,7 @@
+ NT
+ (1)
+ October 2026
+-(1)
++(3)
+ September 2026
+ (4)
+ August 2026
+@@ -108,6 +108,19 @@
+ Search
+ Category
+ Media release
++News
++Sydney man charged for alleged role in $1.8 million NDIS fraud
++A Sydney man, 36, has been charged over his alleged role in a sophisticated $1.8 million fraud, following an investigation by the Australian Government Fraud Fusion Taskforce (FFT).
++Date
++9 October 2026
++Category
++Media release
++Trusted local NDIS support expands across remote Australia
++More First Nations people with disability in remote communities will get trusted local, face-to-face help to understand and make the most of their NDIS supports closer to home.
++Date
++7 October 2026
++Category
++Media release
+ Media release from the Minister
+ First phase of Thriving Kids supports start today
+ Families of children with extra developmental needs can now access expanded information and supports, as part of the Australian Government’s Thriving Kids program.
+@@ -134,20 +147,6 @@
+ The Australian Government welcomes 2 prison sentences handed down this week as unprecedented integrity actions continue to strengthen NDIS systems and protect participants.
+ Date
+ 11 September 2026
+-Category
+-Media release
+-News
+-Final man jailed over NSW fraud syndicate
+-A Chester Hill man, 37, was sentenced by the Paramatta District Court yesterday (7 September, 2026) to four years’ imprisonment for his role in a multimillion-dollar fraud against the NDIS and Australian Taxation Office (ATO).
+-Date
+-8 September 2026
+-Category
+-Media release
+-News
+-Victorian man arrested following alleged $700K NDIS fraud
+-A Victorian man has been arrested after he allegedly defrauded the NDIS of around $700,000 over a two-year period.
+-Date
+-27 August 2026
+ Pagination
+ 1
+ 2
+```

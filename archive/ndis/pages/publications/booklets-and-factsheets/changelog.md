@@ -738,3 +738,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Factsheet: Check-ins
  (DOCX 326KB)
 ```
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `70a0f2b38a502e5787dbebaa0fa0f55d0a8ed9bf46f4842247add2529a13cf86`
+- New SHA-256: `d5710f8736e6e9ed92c8a5f6825a463b4e29700b775fdce698f1185610a57ff3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

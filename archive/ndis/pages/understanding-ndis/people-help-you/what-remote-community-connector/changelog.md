@@ -609,3 +609,52 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `00e4faae9eb0ac2f239570c3aa341e0f14d281b9f386336ce9a4005a8bee3fbf`
+- New SHA-256: `029ee1d54787172d5956a5c78cc7d5eac690821880c3167cc6feeba687b6e769`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -9,16 +9,16 @@
+ What a remote community connector (RCC) is
+ What a remote community connector (RCC) is for
+ What working with a remote community connector (RCC) is like
+-Finding an RCC
++Find an RCC
+ On this page:
+ 1 - What a remote community connector (RCC) is
+ 2 - What a remote community connector (RCC) is for
+ 3 - What working with a remote community connector (RCC) is like
+-4 - Finding an RCC
++4 - Find an RCC
+ What a remote community connector (RCC) is
+ Remote community connectors (RCCs) help people with disability in remote or very remote communities.
+ They understand the local community, culture and language and work for First Nations community organisations.
+-There’s a network of about 200 RCCs helping people across 480 remote communities.
++There's a network of RCCs helping people across more than 540 remote communities.
+ What a remote community connector (RCC) is for
+ What RCCs can do
+ RCCs can help you:
+@@ -52,12 +52,12 @@
+ Connection with your RCC
+ Once you’ve connected with an RCC in your area they’ll get to know you by asking you questions.
+ They’ll also let you know how they can help you and let you know what services are available in your area.
+-Finding an RCC
++Find an RCC
+ Search for an
+ NDIS partner
+ in your area.
+ You can look for an RCC from the list below if you can’t find an NDIS partner in your area.
+-Find an RCC in your area
++Find a remote community connector (RCC) in your area
+ List of state and territories remote community connectors
+ NT
+ Central Australian Aboriginal Congress Aboriginal Corporation
+```

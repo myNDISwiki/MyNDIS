@@ -339,3 +339,25 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for Sharing information
  Access to information
 ```
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `0359381540b6e3610d1070bf26e199bfa5bc0892b41303d85d0c54424eab51fd`
+- New SHA-256: `73b2a2f4d61cfa60d8b8d34b224c2b03268605ffae3cbb02f4ddac8dae6ae945`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -117,6 +117,7 @@
+ Participant Service Charter
+ Safe and respectful interactions
+ Participant Service Guarantee
++Participant Service Improvement Plan
+ Sharing information
+ Expand or collapse sub-menu for Sharing information
+ Access to information
+```

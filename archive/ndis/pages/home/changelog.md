@@ -732,3 +732,41 @@ The page bytes changed, but no visible main-content wording change was detected.
  This page current as of
  29 June 2026
 ```
+
+## 2026-10-09T20:55:54Z — changed
+
+- Previous SHA-256: `8fd55962d7798583c8b37a6f0aa01760cf234e05f2885aafbd675bf02af28e73`
+- New SHA-256: `6168c7d3274471b3f3d62603b672d71d51294f799302f500841cb998b9a93fe0`
+- Visible text lines added: 6
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -32,17 +32,18 @@
+ Latest news
+ Category
+ Media release
++News
++Sydney man charged for alleged role in $1.8 million NDIS fraud
++Date
++9 October 2026
++Category
++Media release
+ Trusted local NDIS support expands across remote Australia
+ Date
+ 7 October 2026
+ Category
+ News
+ Provider Quarterly Report - Youth Employment now available
+-Date
+-5 October 2026
+-Category
+-News
+-Increasing integrity checks on older claims
+ Date
+ 5 October 2026
+ Read more news
+```
