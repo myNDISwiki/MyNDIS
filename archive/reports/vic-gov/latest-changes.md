@@ -1,3 +1,8 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
 
-No changes detected in this run.
+Checked: 2026-10-09T00:16:04Z
+
+## MODIFIED
+
+- https://www.vic.gov.au/early-childhood-language-program
+
