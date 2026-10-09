@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:56:33Z",
+  "generated_at": "2026-10-09T21:21:02Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -75,13 +75,13 @@
       "id": "reports/aph",
       "name": "Reports / Aph",
       "status": "recorded changes",
-      "last_checked": "2026-10-08T21:33:45Z",
+      "last_checked": "2026-10-09T21:21:01Z",
       "tracked_pages": 0,
       "registry": "aph/change-ledger.csv",
       "latest": "aph/changes.html",
       "changes": {
         "NEW": 3,
-        "MODIFIED": 90,
+        "MODIFIED": 93,
         "REMOVED": 0
       }
     },
@@ -89,13 +89,13 @@
       "id": "reports/engage-ndis",
       "name": "Reports / Engage Ndis",
       "status": "recorded changes",
-      "last_checked": "2026-10-08T21:33:45Z",
+      "last_checked": "2026-10-09T21:21:01Z",
       "tracked_pages": 0,
       "registry": "engage-ndis/change-ledger.csv",
       "latest": "engage-ndis/changes.html",
       "changes": {
         "NEW": 10,
-        "MODIFIED": 214,
+        "MODIFIED": 224,
         "REMOVED": 0
       }
     },
@@ -117,13 +117,13 @@
       "id": "reports/ndia",
       "name": "Reports / Ndia",
       "status": "recorded changes",
-      "last_checked": "2026-10-08T21:33:45Z",
+      "last_checked": "2026-10-09T21:21:01Z",
       "tracked_pages": 0,
       "registry": "ndia/change-ledger.csv",
       "latest": "ndia/changes.html",
       "changes": {
         "NEW": 16,
-        "MODIFIED": 300,
+        "MODIFIED": 312,
         "REMOVED": 0
       }
     },
@@ -131,13 +131,13 @@
       "id": "reports/ndis-commission",
       "name": "Reports / Ndis Commission",
       "status": "recorded changes",
-      "last_checked": "2026-10-08T21:33:45Z",
+      "last_checked": "2026-10-09T21:21:01Z",
       "tracked_pages": 0,
       "registry": "ndis-commission/change-ledger.csv",
       "latest": "ndis-commission/changes.html",
       "changes": {
         "NEW": 1,
-        "MODIFIED": 21,
+        "MODIFIED": 22,
         "REMOVED": 0
       }
     },
@@ -145,13 +145,13 @@
       "id": "reports/ndis-review",
       "name": "Reports / Ndis Review",
       "status": "recorded changes",
-      "last_checked": "2026-10-08T21:33:45Z",
+      "last_checked": "2026-10-09T21:21:01Z",
       "tracked_pages": 0,
       "registry": "ndis-review/change-ledger.csv",
       "latest": "ndis-review/changes.html",
       "changes": {
         "NEW": 116,
-        "MODIFIED": 609,
+        "MODIFIED": 638,
         "REMOVED": 0
       }
     },
@@ -159,7 +159,7 @@
       "id": "reports/vic-gov",
       "name": "Reports / Vic Gov",
       "status": "recorded changes",
-      "last_checked": "2026-10-09T07:29:14Z",
+      "last_checked": "2026-10-09T21:21:01Z",
       "tracked_pages": 0,
       "registry": "vic-gov/change-ledger.csv",
       "latest": "vic-gov/changes.html",

@@ -683,3 +683,48 @@ Page bytes changed, but no visible-text change was detected.
  More stories and videos
  This page current as of
 ```
+
+## 2026-10-09T21:18:39Z — changed
+
+- Previous SHA-256: `41e588bb1c70196587cd9ccfe7c0233eb5bd0915e7c4fb43a3cbe138564b010f`
+- New SHA-256: `510bf888ff04960913df08c418e912a24ec6b7a6fa528f8f320a27b52263576f`
+- Visible text lines added: 7
+- Visible text lines removed: 6
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-08/10/2026, 11:54
++09/10/2026, 12:29
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -124,17 +124,18 @@
+ Latest news
+ Category
+ Media release
++News
++Sydney man charged for alleged role in $1.8 million NDIS fraud
++Date
++9 October 2026
++Category
++Media release
+ Trusted local NDIS support expands across remote Australia
+ Date
+ 7 October 2026
+ Category
+ News
+ Provider Quarterly Report - Youth Employment now available
+-Date
+-5 October 2026
+-Category
+-News
+-Increasing integrity checks on older claims
+ Date
+ 5 October 2026
+ Read more news
+```
