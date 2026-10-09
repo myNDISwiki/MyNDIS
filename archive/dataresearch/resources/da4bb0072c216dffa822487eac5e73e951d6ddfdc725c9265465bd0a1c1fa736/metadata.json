@@ -1,5 +1,5 @@
 {
-  "bytes": 63882,
+  "bytes": 63881,
   "content_type": "application/pdf",
   "directory": "resources/da4bb0072c216dffa822487eac5e73e951d6ddfdc725c9265465bd0a1c1fa736",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3702",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-08T23:23:59Z",
+  "last_changed": "2026-10-09T22:43:55Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  SA.pdf\""
   },
-  "sha256": "fab7032f9c417ceb75b22aed46ab79396b7f4681b863ddc3c9c3ac91a120e00a",
+  "sha256": "910f5e283aad69bef78b8d05d1fd6cd41e97deca85cf9c67d4a019dbd230bc71",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3702"
 }

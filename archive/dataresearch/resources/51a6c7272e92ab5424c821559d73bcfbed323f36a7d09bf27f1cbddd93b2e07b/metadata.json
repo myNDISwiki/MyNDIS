@@ -1,5 +1,5 @@
 {
-  "bytes": 64864,
+  "bytes": 64865,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/51a6c7272e92ab5424c821559d73bcfbed323f36a7d09bf27f1cbddd93b2e07b",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-08T23:23:59Z",
+  "last_changed": "2026-10-09T22:43:55Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -152,7 +152,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 07 Oct 2026 22:55:35 GMT"
   },
-  "sha256": "9f6212204949605ba33756eaad3e2ff95f6047ce821436b4bb5f58aa7aa717da",
+  "sha256": "c5a8b625b08127c8df0b6912d228c60d17bfed9ac6abeddce1e3906a09817b96",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism"
 }
