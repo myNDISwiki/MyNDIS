@@ -2,7 +2,7 @@
   "seeds": [
     "https://www.ndisreview.gov.au/"
   ],
-  "checked_at": "2026-10-08T23:17:27Z",
+  "checked_at": "2026-10-09T22:34:40Z",
   "status": "partial",
   "fetch_failures": [
     "https://www.ndisreview.gov.au/terms-of-reference.html: curl: (22) The requested URL returned error: 404\ncurl: (22) The requested URL returned error: 404\ncurl: (22) The requested URL returned error: 404",
@@ -71,19 +71,19 @@
   ],
   "items": {
     "https://www.ndisreview.gov.au/": {
-      "sha256": "3cb8a3f9b754e7faf062f5bb18329d7114aede925796cbee759fb6dc30875eba",
+      "sha256": "4e223902a2c6e8b2da6ca2c1344290d4b7ce8fd15f1f4a8f878e22f472241cdb",
       "path": "archive/gov/ndis-review/index/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/"
     },
     "https://www.ndisreview.gov.au/about": {
-      "sha256": "c74897d6b062fb2ea1b71dd89aa48e9f918ae16de688441138040d7c8f98492f",
+      "sha256": "bed54a62304a2e2ec68e1ee77a670c41255529341f59e209fc08324e8688be16",
       "path": "archive/gov/ndis-review/about/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/about"
     },
     "https://www.ndisreview.gov.au/accessibility": {
-      "sha256": "c414f500e0afc7b4000117af14bac34aed5fd74f0df1d70d8d41c8063b2b9026",
+      "sha256": "acf5de77dfdb9dd0dfe8c4890c6822e96f3006eaafefc3a162a47019e9ac61cc",
       "path": "archive/gov/ndis-review/accessibility/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/accessibility"
@@ -96,7 +96,7 @@
     },
     "https://www.ndisreview.gov.au/changing-participant-experience.html": {},
     "https://www.ndisreview.gov.au/contact-us": {
-      "sha256": "cd01a15a46e54abda6a82156d31656899bac411e30337de105f7cad434b721da",
+      "sha256": "51a14ef207a4e72a14c083c27a4465f82deb4754cdbbc6283a00bc445b9676fe",
       "path": "archive/gov/ndis-review/contact-us/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/contact-us"
@@ -108,7 +108,7 @@
       "canonical_url": "https://www.ndisreview.gov.au/contact-us.html"
     },
     "https://www.ndisreview.gov.au/copyright-and-disclaimer": {
-      "sha256": "26d144c92da6870863506b7dba9afdba94eb9ac1fb08333be1212d855d67fa6d",
+      "sha256": "eeef149a4060bebe9f410d0019024d663782463a5891ba5ccc4fbc010e270621",
       "path": "archive/gov/ndis-review/copyright-and-disclaimer/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/copyright-and-disclaimer"
@@ -121,13 +121,13 @@
     },
     "https://www.ndisreview.gov.au/ecosystem-supports.html": {},
     "https://www.ndisreview.gov.au/events": {
-      "sha256": "fe28b6008e8a8a25822dce4026ba307409cc914e24b270aa9b2462edf9078223",
+      "sha256": "aa70d08ed5167429e1d77ba16a1aaef64c817a3a739cf8732ce6bac1b435b660",
       "path": "archive/gov/ndis-review/events/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/events"
     },
     "https://www.ndisreview.gov.au/events.html": {
-      "sha256": "efacf269809515e7310506386355c8036477393d52547654851f13b56f70858f",
+      "sha256": "f7ea2999eee4825a2e3636766adeae7fba70b269f8c3d450cbbbd7262fcd5cd5",
       "path": "archive/gov/ndis-review/events.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/events.html"
@@ -155,19 +155,19 @@
     "https://www.ndisreview.gov.au/index-5.html": {},
     "https://www.ndisreview.gov.au/index-6.html": {},
     "https://www.ndisreview.gov.au/news": {
-      "sha256": "00ca0cb984ab5ae784b019766c30cb98ad277baa215dc008cead30cb1324a017",
+      "sha256": "c9ae1920053434c21d6c39a2d0314678fb9120778408471111706aae8da047b1",
       "path": "archive/gov/ndis-review/news/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/news"
     },
     "https://www.ndisreview.gov.au/news/final-report-has-been-published.html": {
-      "sha256": "e02cf252af1dd6c2e198cbcf4636e13ba39bdc3ba1b7e2990b178ee2555db43d",
+      "sha256": "aa05a4f963c9fe6196fddd42fa9b5d85a83521946ea90ea344868f158cda7dcd",
       "path": "archive/gov/ndis-review/news/final-report-has-been-published.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/news/final-report-has-been-published.html"
     },
     "https://www.ndisreview.gov.au/privacy": {
-      "sha256": "3833273de45b96b5a5b5bc3fbe3f58060a52f1c91bd745de385be2bee552a835",
+      "sha256": "bc1c3ecf55c142a67463a7b727de0932d805eaf8f840e9ce34388b3dd31e219a",
       "path": "archive/gov/ndis-review/privacy/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/privacy"
@@ -176,13 +176,13 @@
     "https://www.ndisreview.gov.au/reports/our-final-report-guide-people-disability-and-their-families-2023": {},
     "https://www.ndisreview.gov.au/reports/working-together-deliver-ndis.html": {},
     "https://www.ndisreview.gov.au/resources": {
-      "sha256": "e42eeeaaa3a4cd39f041daae83f363ad28f875eb8a85ab28c6f0db8d1cce6cc1",
+      "sha256": "f2c667d6c8310ffe577b67b7a9cc696c488cebca16994a46ab6c7d063db00152",
       "path": "archive/gov/ndis-review/resources/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources"
     },
     "https://www.ndisreview.gov.au/resources.html": {
-      "sha256": "ecd17358f680097a2b0cbe334e5b0cfb0bbd25f897eeec68dae8becae596f12f",
+      "sha256": "69f0745a7096f6aa454cbf60e887e9a50599ed7d3fa6938cb9d6cecc6311704b",
       "path": "archive/gov/ndis-review/resources.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources.html"
@@ -199,73 +199,73 @@
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/access-support-needs-assessment-and-budget-setting.html": {
-      "sha256": "de5caa9eb61ee99fc869619c7320cf48f88eb8fdbeb1bf3d9a5a4c1833889e73",
+      "sha256": "224833ea73c617bdec1986fa55322aa5bb19f4fb88dfcfa2d91e27b241b53e5f",
       "path": "archive/gov/ndis-review/resources/fact-sheet/access-support-needs-assessment-and-budget-setting.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/access-support-needs-assessment-and-budget-setting.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/commissioned-reports.html": {
-      "sha256": "7b851fa5f81b271b31bf75e4a2ccd390e69a8d374cbe2ce910e6e8e0bad93211",
+      "sha256": "c7243d5b5d7be1c505cc960f58e7ce76bdac5475d5374bdffc79f183189bb991",
       "path": "archive/gov/ndis-review/resources/fact-sheet/commissioned-reports.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/commissioned-reports.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/connected-system-supports-all-people-disability.html": {
-      "sha256": "bb4f15124d16b0f1a4be2306ff37ed2a9cb3641ae93e2b360b8c598c31de8598",
+      "sha256": "c950bacbe5780609f12fb6ce3056bf3b4e6e53d78b8a38be87f8f30db6d84eef",
       "path": "archive/gov/ndis-review/resources/fact-sheet/connected-system-supports-all-people-disability.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/connected-system-supports-all-people-disability.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/disability-service-providers.html": {
-      "sha256": "63c876f5f2afee3c769f67ec9e3e33b78258290c78e032b953787bd35d5d1987",
+      "sha256": "18971f61aa23d4904065b66c4ab2eb3d807304b3f707252a32593a6a7e12646a",
       "path": "archive/gov/ndis-review/resources/fact-sheet/disability-service-providers.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/disability-service-providers.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/disability-support-workers.html": {
-      "sha256": "8de1b3cc552b25942d30db37ab62809972aedd6809e49e7106b684716601e2c5",
+      "sha256": "e90bf73063f9ed5c349e47b24954e1e8f7099cc5444d6b02431a5552fb7380d9",
       "path": "archive/gov/ndis-review/resources/fact-sheet/disability-support-workers.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/disability-support-workers.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/finding-your-way-around-help-navigator.html": {
-      "sha256": "d46fbe66561a6977d0c6cb2194110309d0036cd68a3dde62276867dbdbb86b0d",
+      "sha256": "5c09c28318fe423993ee1ccc27f85b3ff208294adae7dc440ba8ab198fdfe8f8",
       "path": "archive/gov/ndis-review/resources/fact-sheet/finding-your-way-around-help-navigator.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/finding-your-way-around-help-navigator.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/first-nations-communities.html": {
-      "sha256": "a696ad163a261a96973b62f74f60b3dba9d334a10ddf785a3d92c96a4858e7e5",
+      "sha256": "4a0be25aa7387a13e58a8961cb72d5aa983b97562907777ecb079c1376d22359",
       "path": "archive/gov/ndis-review/resources/fact-sheet/first-nations-communities.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/first-nations-communities.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/foundational-supports-all-people-disability.html": {
-      "sha256": "e7f383c2628d86f18b2c27de41026e4e90311ddacd27b06ffcf985ce1fe78481",
+      "sha256": "22baca695c1adcd97ab4d74a16a5e37c01245069971f63157dbfe01b2b6e8a08",
       "path": "archive/gov/ndis-review/resources/fact-sheet/foundational-supports-all-people-disability.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/foundational-supports-all-people-disability.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/frequently-asked-questions.html": {
-      "sha256": "2bbdc555ed3563de1b68169850c6be0243e567bba7d570ba08dd8d2d16b20d44",
+      "sha256": "8e8b184c8201ec0396e3ac16218b7c639b8c048a476e939e37b5ec58a32b3c9c",
       "path": "archive/gov/ndis-review/resources/fact-sheet/frequently-asked-questions.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/frequently-asked-questions.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/housing-and-living-supports.html": {
-      "sha256": "b2d8a3a97a762e1c2f38ec523f7e56626ecac34964deb29fcdccb631cdfcff1e",
+      "sha256": "93e8addd4ef6e3a3b02c8c8dbe5dfb942571a538450df1aa554f2303e845faaa",
       "path": "archive/gov/ndis-review/resources/fact-sheet/housing-and-living-supports.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/housing-and-living-supports.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/new-connected-system-support-and-new-early-intervention-ndis-pathway.html": {
-      "sha256": "cd35f34a22f5692890d170efa38b787770e04ac3024840e4ab077b2e5db54461",
+      "sha256": "830f43675b022acbb394810d2abbbf4965d938a31e593be22068072d613f1502",
       "path": "archive/gov/ndis-review/resources/fact-sheet/new-connected-system-support-and-new-early-intervention-ndis-pathway.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/new-connected-system-support-and-new-early-intervention-ndis-pathway.html"
     },
     "https://www.ndisreview.gov.au/resources/fact-sheet/psychosocial-supports.html": {
-      "sha256": "130ffab626d9612f60734a2c55f16e307994ec870cfb53bb0959e9ba69f4ca64",
+      "sha256": "bbb033dbc297667bbb56c031a58cf23c29a20ad6ea0f7cf2a58bd750afd6e6bd",
       "path": "archive/gov/ndis-review/resources/fact-sheet/psychosocial-supports.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/fact-sheet/psychosocial-supports.html"
@@ -282,7 +282,7 @@
     "https://www.ndisreview.gov.au/resources/reports/endnotes": {},
     "https://www.ndisreview.gov.au/resources/reports/endnotes.html": {},
     "https://www.ndisreview.gov.au/resources/reports/our-final-report-guide-people-disability-and-their-families-2023.html": {
-      "sha256": "b4eafd8bb54c5b1b634e09c87be008a6ccca3fa91ded820d34a800e82736fb0a",
+      "sha256": "dc9aa5518fa0ed6ef671cc43bd2df6e6d2e9cf4adcc218006a88b3a68d514c7e",
       "path": "archive/gov/ndis-review/resources/reports/our-final-report-guide-people-disability-and-their-families-2023.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/reports/our-final-report-guide-people-disability-and-their-families-2023.html"
@@ -296,13 +296,13 @@
       "canonical_url": "https://www.ndisreview.gov.au/resources/reports/working-together-deliver-ndis"
     },
     "https://www.ndisreview.gov.au/resources/reports/working-together-deliver-ndis-supporting-analysis.html": {
-      "sha256": "6cac6fa778731a8ea6e1b2c454df54d79ce3a8b2c0d4036e8f556d7ca267b82d",
+      "sha256": "03e62ce95ba4cf8ab7bfb487b0ee3178a7f992d4804f4ef1a0f22b988b6932f6",
       "path": "archive/gov/ndis-review/resources/reports/working-together-deliver-ndis-supporting-analysis.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/reports/working-together-deliver-ndis-supporting-analysis.html"
     },
     "https://www.ndisreview.gov.au/resources/reports/working-together-deliver-ndis.html": {
-      "sha256": "fb618b43b4117cbbe34ae4132c349dc85bc0101799ba8ea9452673f7e823d020",
+      "sha256": "c150df7f9ef718fa871a3f0315499392052d11099eeb7e12e5ed35adfeea23e9",
       "path": "archive/gov/ndis-review/resources/reports/working-together-deliver-ndis.html/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/resources/reports/working-together-deliver-ndis.html"
@@ -813,7 +813,7 @@
       "canonical_url": "https://www.ndisreview.gov.au/sites/default/files/resource/download/working-together-ndis-review-final-report.pdf"
     },
     "https://www.ndisreview.gov.au/sites/default/files/terms-of-reference-easy-read": {
-      "sha256": "46b5b308bd120f4aaded1196acb9e45c71a09554995a9fc3d3d9f939682ebfd4",
+      "sha256": "3454b7bc56e997de8ebc0d28bec0cb4ae1575c055d74ab582eb8726dc45561aa",
       "path": "archive/gov/ndis-review/sites/default/files/terms-of-reference-easy-read/current.html",
       "content_type": "text/html",
       "canonical_url": "https://www.ndisreview.gov.au/sites/default/files/terms-of-reference-easy-read"
