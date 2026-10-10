@@ -658,3 +658,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  NT
  Central Australian Aboriginal Congress Aboriginal Corporation
 ```
+
+## 2026-10-10T20:06:46Z — changed
+
+- Previous SHA-256: `029ee1d54787172d5956a5c78cc7d5eac690821880c3167cc6feeba687b6e769`
+- New SHA-256: `04aa496ca8462fe9933a11d5fb6a82ff895e89660f547981fd0f0a839ee32a9f`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
