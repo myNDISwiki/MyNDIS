@@ -1,5 +1,5 @@
 {
-  "bytes": 56942,
+  "bytes": 56943,
   "content_type": "application/pdf",
   "directory": "resources/1de185ce3582d560ef8197c263ca19f91c6abc219ea56a3ea328f3b863572c95",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3932",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-09T22:43:55Z",
+  "last_changed": "2026-10-10T21:42:56Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  WA.pdf\""
   },
-  "sha256": "2bfc1f9524d3f70352cd5ff2d600cc7f5470d6ebedfea579cd425e22888d95bc",
+  "sha256": "d21fee1d880db548f4f166168c60a7ab4bd5de32dc8b6dfcf4f5a755c01611eb",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3932"
 }
