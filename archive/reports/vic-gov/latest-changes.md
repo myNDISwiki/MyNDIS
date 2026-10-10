@@ -1,6 +1,6 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-10T07:16:30Z
+Checked: 2026-10-10T13:50:44Z
 
 ## MODIFIED
 
@@ -8,5 +8,4 @@ Checked: 2026-10-10T07:16:30Z
 - https://www.vic.gov.au/early-childhood-career-support
 - https://www.vic.gov.au/early-childhood-education-care
 - https://www.vic.gov.au/early-childhood-update-december-2025/free-public-transport
-- https://www.vic.gov.au/early-childhood-update-february-2024/building-our-workforce-through-early-childhood-tertiary
 
