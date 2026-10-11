@@ -17,7 +17,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/social-inclusion-and-community-access-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-10T21:42:56Z",
+  "last_changed": "2026-10-11T21:57:59Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fimproving-outcomes-participants%2Fsocial-inclusion-and-community-access-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -173,7 +173,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 07 Oct 2026 22:18:26 GMT"
   },
-  "sha256": "56cc3ba1a3fd8c7e8bb098982f6c3cc9b606810fa44ac1d0eb450baa0fd19da1",
+  "sha256": "adc2010427af664d618df35228011df98b184c0e2e4f861bd81e9961903eaa39",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/social-inclusion-and-community-access-research"
 }

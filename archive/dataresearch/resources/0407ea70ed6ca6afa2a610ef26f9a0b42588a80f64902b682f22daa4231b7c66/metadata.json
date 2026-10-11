@@ -1,5 +1,5 @@
 {
-  "bytes": 58735,
+  "bytes": 58734,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/0407ea70ed6ca6afa2a610ef26f9a0b42588a80f64902b682f22daa4231b7c66",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-family-and-carer-outcomes-reports",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-10T21:42:56Z",
+  "last_changed": "2026-10-11T21:57:59Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fprevious-family-and-carer-outcomes-reports",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -162,7 +162,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 07 Oct 2026 23:59:22 GMT"
   },
-  "sha256": "f0e75b4d8bd49c71ff36bc65c061f8be99bd27d674eb29c04a399cd58b962a5e",
+  "sha256": "04cb7cbfdb0b9cb460423b373cbb376bff201f60bf4e06c97b2ea13624e2fc8d",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-family-and-carer-outcomes-reports"
 }
