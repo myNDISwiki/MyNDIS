@@ -747,3 +747,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-12T23:00:19Z — changed
+
+- Previous SHA-256: `d5710f8736e6e9ed92c8a5f6825a463b4e29700b775fdce698f1185610a57ff3`
+- New SHA-256: `fb06eebd7457d2160533b61b9d23fe1cd9e96c8b227d395320333799a7c1463d`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -120,7 +120,7 @@
+ Support categories
+ Factsheet: Support categories
+ (DOCX 287KB)
+-Easy Read: Support categories
++Factsheet: Support categories
+ (PDF 3MB)
+ Recording my providers
+ Factsheet: Recording my providers
+```

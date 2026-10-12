@@ -286,3 +286,35 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-12T23:00:19Z — changed
+
+- Previous SHA-256: `5ccd1cf28ef65d25172e98290ddecff9fe34d8e25b6f60bbd8519bcd98f0c43b`
+- New SHA-256: `03e6ba5ca099c62704190fb779ca36067295140c5b9743ea429d04b99209055e`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -47,7 +47,7 @@
+ manage your working relationship with your providers.
+ You may also choose to engage or employ your own support staff.
+ Learn more about engaging your own staff in the guide to directly engaging your own staff.
+-Download the guide to directly engaging your own staff
++Download the guide to directly engaging your own staff:
+ Directly engaging your own staff
+ (PDF 313KB)
+ Directly engaging your own staff
+@@ -67,7 +67,7 @@
+ You should keep records such as receipts, invoices, payroll records, dates and any notes you have about a particular support you received for 5 years.
+ We review claims before and after we pay them.
+ You should submit a claim as soon as possible after receiving an NDIS support.
+-We may hold a claim for review if you submit it more than 6 months after receiving an NDIS support. The review may take up to 28 days.
++We may hold a claim for review if you submit it more than 90 days after the support is delivered. The review may take up to 28 days.
+ We may ask you to provide evidence of the NDIS support you’ve received to make sure it matches your claim or payment request.
+ We check that funds are being spent on NDIS supports and in line with your plan.
+ You can choose to keep track of payments by keeping hard copies or digital versions of your records, but your records need to have:
+```

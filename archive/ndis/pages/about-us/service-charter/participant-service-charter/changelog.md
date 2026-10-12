@@ -367,3 +367,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-12T23:00:19Z — changed
+
+- Previous SHA-256: `c2cc44dc9d4b10d80cf7841884c60f9f7890c894a25df82c924a2778700c188e`
+- New SHA-256: `3d3732cb41b94485b82776b2cacd8e0f810f72fe3353a0b554237bb0efb0543a`
+- Visible text lines added: 0
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,12 +48,6 @@
+ Participant Service Charter (PDF 1.3MB)
+ Participant Service Charter (DOCX 91KB)
+ The Participant Service Charter is current as at October 2026.
+-Transcript for '
+-Participant Service Charter and Participant Service Improvement Plan - Auslan
+-'
+-Transcript for '
+-Participant Service Charter and Participant Service Improvement Plan
+-'
+ Main navigation sidebar
+ About
+ About the NDIA
+```

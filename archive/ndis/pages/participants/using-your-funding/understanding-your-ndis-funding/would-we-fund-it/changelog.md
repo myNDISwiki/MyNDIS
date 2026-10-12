@@ -341,3 +341,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Nursing in the home
  WWFI - Nursing in the home (PDF 126KB)
 ```
+
+## 2026-10-12T23:00:19Z — changed
+
+- Previous SHA-256: `4de9c33c19b513cada2b0f03e84c47ad41cbeec44d859a4516fd02eec07ed548`
+- New SHA-256: `a993f05448c81fa4a64ea7eaae9798a2ac6931c58c0e2e0c4d2d91ff5d9315c8`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

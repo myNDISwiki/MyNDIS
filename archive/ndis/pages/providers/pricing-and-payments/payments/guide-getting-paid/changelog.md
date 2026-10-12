@@ -278,3 +278,102 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-12T23:00:19Z — changed
+
+- Previous SHA-256: `e26d7310e11ce0eadeb3799f9afd014887a5bf98137ea6812913e1e43e07172d`
+- New SHA-256: `24a375e04894e68dbfbf9702e025d0241ec8cd570b054251c85424eec1e5ace6`
+- Visible text lines added: 22
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,15 +31,16 @@
+ Getting paid is different for different management types
+ How your participant manages their NDIS budget will determine how you get paid.
+ Option 1: Self-managed
+-Send your invoice to self-managed participants and they’ll pay it.
+-After they’ve paid your invoice, send them a receipt to acquit the expense against their plan.
+-They do this by entering your receipt or paid invoice into the participant portal.
++Send your invoice to self-managed participants and they’ll pay it through the participant portal.
++After they’ve paid your invoice, send them a receipt to acquit the expense against their plan. They do this by entering your receipt or paid invoice into the participant portal.
+ Option 2: Plan-managed
+ You need to send invoices directly to a participant’s plan manager if they have a plan manager helping them.
+-The invoice must include a valid Australian Business Number (ABN) – unless you are exempt from providing an ABN.
++The invoice must include a valid Australian Business Number (ABN) – unless you’re exempt from providing an ABN.
+ You must include a
+ statement by a supplier form
+-if you are exempt from providing an ABN. This form is available from the Australian Taxation Office’s website.
++if you’re exempt from providing an ABN. This form is available from the
++Australian Taxation Office
++website.
+ The plan manager will process the claim for payment after they receive your invoice.
+ The plan manager enters your claim into the relevant provider portal.
+ Plan managers must keep all invoices and
+@@ -47,7 +48,9 @@
+ for claims they submit.
+ Option 3: NDIA-managed
+ You’ll need to submit a payment request through the myplace provider portal if your participant has NDIA-managed funding.
+-You need to submit a payment request within 90 days from the end of a service booking.
++Submit claims within 90 days of a support being delivered in full to help avoid processing delays.
++We’ll do extra checks on claims made more than 90 days after the support is delivered.
++We may ask for more information and evidence before the claim can be paid.
+ You also need to be recorded as a my provider before you submit your payment request.
+ Learn
+ how to be recorded as a my provider
+@@ -57,7 +60,7 @@
+ Valid claims from
+ my providers
+ are usually paid within 2 to 3 business days.
+-Payment can take about 10 business days if you are not recorded as a my provider, or if we need to need to check your payment claim is accurate.
++Payment can take about 10 business days if you're not recorded as a my provider, or if we need to need to check your payment claim is accurate.
+ For example, if you submit a valid claim:
+ on Monday before 12 midnight, generally it will be processed into your bank account by Wednesday.
+ on Friday, Saturday or Sunday before 12 midnight, generally it will be paid by Tuesday.
+@@ -66,17 +69,18 @@
+ .
+ Claims and payment reviews
+ Sometimes we may review claims before or after we process payments.
+-The claim will be put on hold while we review it, if we need more information to verify a claim.
++The claim will be put on hold while we review it, if we need more information to verify it.
+ We'll let you know in writing if we need more information.
+-You'll have at least 14 business days to provide this information.
+-You need to let us know in writing if you need more time. Your claim will be paid within 2 to 3 business days if it is approved.
++You should keep records that support your claims in case we ask for it.
++You’ll have at least 14 days to provide this information. You need to let us know in writing if you need more time.
++Your claim will be paid within 2 to 3 business days if it is approved.
+ Your claim will be rejected and not paid if it isn’t compliant or valid. We’ll contact you in writing to let you know your claim has been rejected and the reasons why.
+-We may hold the claim for review if you submit a claim more than 6 months after delivering a service.
+-The review can take up to 28 days. Only the specific claim under review will remain open if your claim is part of a bulk upload. All other claims will be paid in line with our payment terms.
++We may hold the claim for review if you submit a claim more than 90 days after a support has been delivered. The review can take up to 28 days.
++Only the specific claim under review will remain open if your claim is part of a bulk upload. All other claims will be paid in line with our payment terms.
+ Your responsibilities when requesting payment
+ Make sure your claim details are accurate and in line with the approved funding in the participant's plan when you request a payment.
+-You also need to make sure you are compliant and follow the rules and regulations in the
+-NDIS pricing arrangements and price limits
++You also need to make sure you're compliant and follow the rules and regulations in the
++NDIS pricing schedule
+ .
+ Price limits are the maximum prices registered providers can charge NDIS participants for specific supports. You can negotiate with your participants for lower prices.
+ Registered providers must follow the rules in this document when supports are delivered to NDIA-managed or plan-managed participants.
+@@ -84,12 +88,12 @@
+ responsibilities as a provider
+ .
+ Registered provider manual claim form
+-You can submit a claim using the manual claim form if you're a registered provider and unable to submit the claim via the provider portal.
+-Download the form:
++You can submit a claim using the manual claim form if you’re a registered provider and unable to submit the claim through the provider portal.
++Download the registered provider manual claim form:
+ Registered provider manual claim form
+-(PDF 173.16KB)
++(PDF 173KB)
+ Registered provider manual claim form
+-(DOCX 52.84KB)
++(DOCX 53KB)
+ Main navigation sidebar
+ For providers
+ Pricing and payments
+```

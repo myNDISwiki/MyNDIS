@@ -964,3 +964,81 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-12T23:00:19Z — changed
+
+- Previous SHA-256: `6ae976ec5f09705be9103fb09bc93e182e0f118905c89937512eff7594cbb809`
+- New SHA-256: `872950c84d4772b12eef665d992f46a7f5d59d0834fc31d72955409317937c16`
+- Visible text lines added: 45
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -95,6 +95,39 @@
+ Two documents were produced under s 17 of the Freedom of Information Act.
+ Full access was granted to a document showing the number of MLO complaints received by the NDIA in the 2025/26 year.
+ Partial access was granted to a document showing the number of MLO complaints upheld by the NDIA in the 2025/26 year.
++FOI 26/27-0454
++31/08/2026
++Documents that provide an evidence base for occupational therapy hours in NDIS plans for adult participants.
++FOI 26/27-0454 (PDF 3MB)
++3 documents released in part – under section 47F of the FOI Act
++1. Research paper - Therapy Best Practice
++2. Research paper - Therapy for chronic incomplete cervical spinal cord injury
++3. Research paper - Length of High Intensity Intervention for ABI, SCI and Amputees
++FOI 25/26-3534
++25/08/2026
++Guides and procedures relevant to planning and provision of supports for children aged over 7 years with Autism Spectrum Disorder.
++FOI 25/26-3534 (PDF 4MB)
++11 documents released in full.
++8 documents released in part under sections 47E(d) and 22 of the FOI Act.
++1. Knowledge Article - EC Understand the key worker role in the delivery of early childhood intervention support v4.0 – full release
++2. Knowledge Article - EC PEC – General overview v3.0 – full release
++3. Knowledge Article - EC PEC – Capacity building – How to complete early childhood intervention supports questions v3.0 – partial release
++4. Knowledge Article - EC PEC – Carers – Sustaining informal supports v5.0 – partial release
++5. Knowledge Article_ EC PEC - Capacity building - Regulated restrictive practices – partial release
++6. Knowledge Article - EC Recording support justifications for children younger than 9 – partial release
++7. Knowledge Article - EC Interpreting provider reports and recommendations – partial release
++8. Knowledge Article - EC PEC – Daily support (mainstream participation) – partial release
++9. Knowledge Article - EC PEC – Core – Equipment and Consumables – v3.0 – partial release
++10. Knowledge Article - EC Understand goals for children younger than 9 - v6.0
++11. Knowledge Article - EC Record goals for children younger than 9 - v3.0
++12. Knowledge Article - EC Conversation guide – How to talk about progression towards goals - v5.0
++13. Knowledge Article - EC Complete a community connections case for a child younger than 9 in a non-partnered area
++14. Knowledge Article - EC Measure or close goals for children younger than 9
++15. Knowledge Article - EC Record progress notes for early supports
++16. Knowledge Article - EC PEC – Carers – Support coordination – partial release
++17. Operational Guidelines - Early childhood approach
++18. Operational Guidelines - Reasonable and Necessary Supports
++19. Operational Guidelines- Creating your plan
+ FOI 25/26-3592
+ 24/08/2026
+ Request for Knowledge Articles that include Level of Function and Key Performance Indicators for NDIS Planners.
+@@ -159,6 +192,17 @@
+ Ministerial Submission MS24-000024 – dated 2 October 2024 – released in part
+ Ministerial Submission MS24-000024 – dated 4 October 2024 – released in part
+ Ministerial Submission MS-25-000159 – released in part
++FOI 26/27-0099
++18/08/2026
++Guides and evidence base for funding home enteral nutrition and dietitian hours.
++FOI 26/27-0099 (PDF 2.3MB)
++2 documents released in full.
++2 documents released in part – under section 22 of the FOI Act
++1. Knowledge Article - Understand disability-related health supports – capital supports v6 – partial release
++2. Knowledge Article - Understand disability-related health supports – capacity building supports v7.0 – partial release
++3. Research Paper-  Average cost and consumption of Home Enteral Nutrition Formula –
++full release
++4. Research Paper -  Blenderised Tube Feeds – full release
+ FOI 25/26-3231
+ 18/08/2026
+ This request contains:
+@@ -8926,4 +8970,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-6 October 2026
++12 October 2026
+```
