@@ -770,3 +770,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Recording my providers
  Factsheet: Recording my providers
 ```
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `fb06eebd7457d2160533b61b9d23fe1cd9e96c8b227d395320333799a7c1463d`
+- New SHA-256: `0b8f806344fe8bd98926d26da7f22413339b838482741b2a220a5d6f5ff25df4`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

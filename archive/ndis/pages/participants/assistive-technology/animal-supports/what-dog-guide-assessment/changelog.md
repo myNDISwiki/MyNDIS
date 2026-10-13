@@ -286,3 +286,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `01c70b9d006948c0aeb95fc1ff0e76dfbe51dcb5bc5d6c39bb009cc2ae1c152b`
+- New SHA-256: `4a70e3da6c682ceede5392e0cbeab33ee10a0f3ca1fa5e29d5e82f5e1b4b5ffc`
+- Visible text lines added: 2
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -42,6 +42,8 @@
+ We have templates available to help with dog guide assessments. You don’t have to use the dog guide assessment templates if you don’t want to, but the evidence you provide must include all the information the template asks for.
+ Dog guide assessment templates
+ Download the dog guide assessment templates:
++Dog guide assessment template for a first time handler
++(PDF 231KB)
+ Dog guide assessment template for a first time handler
+ (DOCX 109.01KB)
+ Dog guide assessment template for an experienced handler
+```

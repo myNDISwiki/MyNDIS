@@ -286,3 +286,121 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `ef51b0e933dee010da19342f1af41a39569ef0488c838455a8376fca56159491`
+- New SHA-256: `0b413c12a39ca8c73a3c304824857c4bd8bb4531bf81b0f00e100a491f7168d3`
+- Visible text lines added: 38
+- Visible text lines removed: 42
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -11,65 +11,61 @@
+ What service agreements are for
+ What a service agreement is like
+ Video
++Easy Read
+ On this page:
+ 1 - What a service agreement is
+ 2 - What service agreements are for
+ 3 - What a service agreement is like
+ 4 - Video
++5 - Easy Read
+ What a service agreement is
+-A service agreement is a signed agreement between you and
++A service agreement is an agreement between you and
+ your provider
+ .
+-It describes what you and your provider have agreed about your NDIS supports, including:
+-how the provider will deliver your supports
+-what those supports are
+-how much they cost how your provider will get paid
+-how to make changes.
++It describes what you and your provider have agreed to about your NDIS supports.
++Service agreements are different from your
++NDIS plan
++. They’re not the same as a
++service booking
++or a tenancy agreement.
++Tip: When a service agreement is needed.
++You must have a service agreement with your
++specialist disability accommodation
++(SDA) providers. Service agreements are encouraged for supported independent living (SIL) providers. You don’t need one for other supports, but we recommend creating one when you start working with a new provider or if your needs change.
+ What service agreements are for
++Understanding your support needs
++A service agreement should outline how your providers will help you with your support needs.
++Protecting your rights
+ Service agreements are created to protect you.
+-Having a service agreement means you and your provider will have a shared understanding about your NDIS supports, your responsibilities and what to do if something goes wrong.
+-Your service agreement can also include your written consent to begin working together.
+-A service agreement can help to manage the relationship you have with your providers.
+-You can refer to your service agreement if a provider does something you didn’t agree to, such as charging you more. You can also make a complaint to the
+-NDIS Quality and Safeguards Commission
++Having a service agreement means you and your provider will have a shared understanding of your rights and responsibilities.
++It can help manage risk by including information about what to do if something goes wrong.
++What a service agreement is like
++A good service agreement includes:
++who the service agreement is for
++what NDIS supports are being provided
++how the supports are being provided
++how much the supports cost
++how the provider gets paid
++important dates and reviews
++you and your provider’s rights and responsibilities
++what to do when you disagree or something goes wrong.
++Tip: Your providers can’t contract out their responsibilities.
++Your providers can’t use a service agreement to contract out of their responsibilities under the NDIS Code of Conduct or Australian Consumer Law.
++Learn
++how to make a service agreement
+ .
+-Tip: You don’t have to create one, but we recommend it.
+-You aren’t required to create a written service agreement, in most cases. We recommend creating one every time you start working with a new provider. Written service agreements are only mandatory for
+-specialist disability accommodation
+-(SDA) supports.
+-What a service agreement is like
+-A good service agreement includes
+-What NDIS supports are being provided
+-how the NDIS support will be provided
+-when and where the NDIS support will be provided.
+-The cost of the NDIS supports
+-the price you will pay
+-any costs for materials or products
+-the cost of travel for your provider
+-any other fees or charges
+-whether you need to pay GST
+-how your provider will be paid (by you, through direct claims on NDIA-managed plans or by a plan manager).
+-Responsibilities
+-your provider’s cancellation policy
+-the rules your provider needs to follow
+-the rules you need to follow
+-what you or your provider can do if either of you aren't meeting your responsibilities.
+-When you disagree
+-what to do if you are unhappy with a situation or service
+-how you can raise any concerns or issues
+-who to contact if an issue can’t be resolved or you have a complaint.
+-Further considerations when making a service agreement
+-the service agreement is in a format and uses language you understand
+-you know how long the service agreement goes for
+-you know when the service agreement will be reviewed
+-you understand how changes to the service agreement will be managed
+-you understand how to end the service agreement.
+ Video
+ What is a service agreement?
+ Learn what a service agreement is in this video.
+ Transcript for '
+ What is a service agreement
+ '
++Easy Read
++Download what is a service agreement in Easy Read:
++What is a service agreement
++(PDF 59MB)
++What is a service agreement
++(DOCX 46KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

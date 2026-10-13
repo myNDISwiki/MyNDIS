@@ -1132,3 +1132,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `46f335fd7bd369f3d7267199e3218d3307a910534dca25e8c4f8c7fb49434c64`
+- New SHA-256: `40012a88ea4ffeed3ff2212d8f49b191d3bf3d118de5265d591f446ccbb50181`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Public interest disclosure
+-6 October 2026
+-Booklets and factsheets
+-6 October 2026
+-FOI disclosure log
+-6 October 2026
+-Find specialist disability accommodation (SDA)
+-6 October 2026
+-Bryden’s work is changing lives and shifting mindsets
+-6 October 2026
+-Our guidelines
+-6 October 2026
+-Organisational structure
+-5 October 2026
+-Employment provider reports
+-5 October 2026
+-Increasing integrity checks on older claims
+-5 October 2026
+-Provider Quarterly Report - Youth Employment now available
+-5 October 2026
++What is a service agreement
++13 October 2026
++How to make a service agreement
++13 October 2026
++What is a dog guide assessment
++13 October 2026
++What is a plan variation
++13 October 2026
++New service agreement resources available
++13 October 2026
++Local Area Coordinator (LAC) partner, Murray Bridge, 5253
++13 October 2026
++What are home modifications
++13 October 2026
++Local Area Coordinator (LAC) partner, Berri, 5343
++13 October 2026
++Local Area Coordinator (LAC) partner, Victor Harbor, 5211
++13 October 2026
++Local Area Coordinator (LAC) partner, Mount Barker, 5251
++13 October 2026
+```

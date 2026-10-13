@@ -779,3 +779,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `aa50903f5a993626833c5b5aa6cabf900ba4a1ea808fe1347dba65c9e24187c9`
+- New SHA-256: `907dc51d9745d1e9f1268997fda02f2c7f380e1673f2bec72aaec8f3e008544e`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++News
++New service agreement resources available
++Date
++13 October 2026
++Category
+ Media release
+ News
+ Sydney man charged for alleged role in $1.8 million NDIS fraud
+@@ -41,11 +46,6 @@
+ Trusted local NDIS support expands across remote Australia
+ Date
+ 7 October 2026
+-Category
+-News
+-Provider Quarterly Report - Youth Employment now available
+-Date
+-5 October 2026
+ Read more news
+ Participant experiences
+ Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+```

@@ -318,3 +318,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We check that funds are being spent on NDIS supports and in line with your plan.
  You can choose to keep track of payments by keeping hard copies or digital versions of your records, but your records need to have:
 ```
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `03e6ba5ca099c62704190fb779ca36067295140c5b9743ea429d04b99209055e`
+- New SHA-256: `3d022e5ba787bc92fc12a92e45b4f064ccd4be90bb01a6f3b9e61421407f4375`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

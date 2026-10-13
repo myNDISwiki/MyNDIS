@@ -1120,3 +1120,84 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `77ed08c35f88296c4cc911a3049d1d15504c7433fbd633c54deffc1cbabdb6b4`
+- New SHA-256: `2f79c455cde7bcee746afc85d3b8a603db3ee0335f67e88dac5f7552ad18df35`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,7 +12,7 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(17)
++(16)
+ Provider Engagement
+ (7)
+ No states available
+@@ -22,27 +22,9 @@
+ November 2026
+ (8)
+ October 2026
+-(15)
++(14)
+ Search
+ Search
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+-Event Date
+-Wednesday, 7 October 2026
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Friday, 9 October 2026
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Monday, 12 October 2026
+ Category
+ Community Engagement
+ An overview of changes to the NDIS laws
+@@ -57,10 +39,28 @@
+ Wednesday, 14 October 2026
+ Category
+ Provider Engagement
++Changes to NDIS support budgets - an overview for supported independent living (SIL) providers
++On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
++Event Date
++Thursday, 15 October 2026
++Category
++Provider Engagement
+ Introducing changes to the NDIS laws for all providers
+ In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+ Event Date
+ Thursday, 15 October 2026
++Category
++Provider Engagement
++Changes to NDIS support budgets - an overview for support coordinators
++On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
++Event Date
++Monday, 19 October 2026
++Category
++Provider Engagement
++Introducing changes to the NDIS laws for all providers
++In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
++Event Date
++Tuesday, 20 October 2026
+ Pagination
+ 1
+ 2
+```

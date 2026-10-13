@@ -313,3 +313,180 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `fd0d4434a53e0c8618e63514cf36fee0edca6e6da03dd134432e0c4df12019c0`
+- New SHA-256: `6052b81a47e3712a53c13c79f2c0e5400921ee621f4deee47e64b5fbc14977b4`
+- Visible text lines added: 123
+- Visible text lines removed: 28
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -8,39 +8,134 @@
+ Save page as PDF
+ On this page:
+ Step 1: Learn about service agreements
+-Step 2: Work with your provider to create a service agreement
+-Step 3: Know when to change your service agreement
++Step 2: Consider what information to include in your service agreement
++Step 3: Work with your provider to create a service agreement
++Step 4: Finalise the service agreement
++Easy Read
+ On this page:
+ 1 - Step 1: Learn about service agreements
+-2 - Step 2: Work with your provider to create a service agreement
+-3 - Step 3: Know when to change your service agreement
++2 - Step 2: Consider what information to include in your service agreement
++3 - Step 3: Work with your provider to create a service agreement
++4 - Step 4: Finalise the service agreement
++5 - Easy Read
+ Step 1: Learn about service agreements
+-What a service agreement is
+-A
++You should understand what a
+ service agreement
+-is a signed agreement between you and
+-your provider
+-.
+-Service agreements help make sure you and your provider have the same expectations of what NDIS supports will be delivered and how.
+-Step 2: Work with your provider to create a service agreement
+-Your provider may have a standard service agreement template they use. They may also work with you to create a new one.
+-Your provider should support you to understand what it means when you receive your service agreement. You can also ask a family member, friend, support coordinator or recovery coach for help. You can also ask that the service agreement is in the language, preferred communication method and terms you understand.
+-Step 3: Know when to change your service agreement
+-You can make suggestions to change a service agreement
+-You should read your service agreement carefully before signing. You can make suggestions to change the service agreement to suit your needs.
+-New NDIS supports means a new agreement
+-You may need to create a new service agreement if you’re about to start receiving new NDIS supports from a regular provider. This is even if you’re happy with their service.
+-You should always make sure your agreements are up to date.
+-A new provider means a new service agreement
+-You should create a new service agreement whenever you start to work with a new provider.
+-This might be because you’re looking for new and different NDIS supports your current provider doesn’t offer. Or it could be that you’re unhappy with your current provider and want to switch.
+-Changing providers is normal. Who you work with is up to you, and you can switch providers at any time.
++is before making one.
++You should also understand when you need a service agreement and who can help you make one.
++Learn about
++your rights and responsibilities
++when working with providers before you make your service agreement.
++Step 2: Consider what information to include in your service agreement
++You and your provider should work together to make a service agreement. You can ask to change terms to suit your needs.
++You can ask for the service agreement to be in the format you like and use words you understand. Ask your provider to arrange an interpreter if you need one.
++You should understand the information you’re providing and how it’s being kept private before finalising the agreement.
++There’s some important information you should include in your service agreement. You and your provider can use the information on this page as a guide to make sure it’s included.
++A service agreement should include:
++You and your provider’s details
++Including:
++your names
++contact information
++any other representatives like guardians
++your goals and NDIS plan.
++Your NDIS supports and costs
++Your service agreement should include details of your supports and their costs. This should include the support:
++category
++item name or number
++description
++the quantity or hours
++unit price
++total cost
++GST component if required.
++It should also include information on how, where and how often you’ll get each support. It should outline any extra charges like travel or other fees.
++Your service agreement should include details on what NDIS supports are being provided, like:
++how the NDIS supports will be provided
++when and where the supports are provided.
++Important dates and reviews
++This includes the date the agreements starts and ends, and when the agreement is reviewed.
++How you’ll work together
++Your service agreement should include details of how you and your provider will work together to make sure your support needs and goals are met. This should include:
++Your provider’s responsibilities to:
++treat you with respect and communicate clearly and on time
++work with you to provide supports that meet your needs
++explain complaints, changes, privacy, records, safety rules and conflicts of interest.
++Your rights to:
++be treated with dignity, respect and fairness
++get safe and quality supports that meet your needs
++have choice, ask questions, make complaints, get support and have your privacy protected.
++Your responsibilities to:
++work with your provider and treat staff with respect
++share information, raise concerns and help keep supports safe
++pay invoices on time and tell your provider if your needs or NDIS plan changes.
++Your cultural safety is respected and that:
++you’re getting information that works for you
++your provider organises an interpreter if needed
++you have a choice to involve your family, carers or community
++your provider understands and respects cultural practices and beliefs that are important to you.
++Cancelling your supports
++It’s important to understand the cancellation rules and how much notice is needed.
++The cancellation policy should include:
++any cancellation fees
++what happens if your provider cancels a support or needs to pause or replace a support.
++Changing or ending your service agreement
++You should understand important details once your service agreement starts, including:
++that your agreement can change if your needs change
++how to end your agreement and the notice you need to provide
++making sure the end date is not later than your plan reassessment date.
++Small changes
++You can include small changes in documents, such as a variation. These are extra documents that can be added to the original service agreement to outlines the changes.
++Big changes
++We recommend you make a new service agreement if you have big changes. Big changes could include:
++new or significant changes to your NDIS supports
++changing and getting a new provider
++getting a new NDIS plan.
++You may also need to make a new service agreement if your old agreement has expired or gone past the end date.
++Communication
++You should know who to contact if you have any questions about your service agreement.
++When you disagree
++Your service agreement should have a clear complaints process. It’s important you understand:
++what to do if you’re unhappy with a situation or service
++how to raise concerns or issues
++who to contact if an issue can’t be resolved or you have a complaint.
+ Learn more about
+-how to change providers
+-.
+-A new NDIS plan means new agreements
+-It’s a good idea to create new service agreements with your providers when you get a new plan.
+-You might want to change providers, have more, less or different supports in your new plan, or your goals might be different.
++what to do when something is wrong, such as
++:
++if you think a mistake has been made
++not getting supports as agreed
++being charged for supports you didn't receive.
++Step 3: Work with your provider to create a service agreement
++You and your provider can create a service agreement once you’re ready and have the information you need.
++You can use the service agreement template we created with the
++NDIS Quality and Safeguards Commission
++. The template is a guide. It’s not legal advice.
++You don’t have to use the service agreement template. If you do use it, make sure:
++it suits you and your provider
++you read and understand the disclaimer
++you add the details where the template asks you to
++you check that you and your provider understand it before you agree
++you get advice if you need it.
++It’s important to know neither us nor the NDIS Commission:
++are a part of service agreements
++keep records of service agreements
++can enforce what’s in service agreements.
++Service agreement template
++Download the service agreement template:
++Service agreement template
++(DOCX 101KB)
++Step 4: Finalise the service agreement
++Understand your agreement
++It’s important to review the agreement to make sure you have included everything before you finalise it. It’s important that:
++you’ve had time to read and understand the agreement
++the agreement is in a format you like with words you understand
++you’ve had time to get help to understand it, if needed
++you can say no or ask for changes.
++Keep the service agreement for your records when finalised.
++Easy Read
++Download making a service agreement in Easy Read:
++Making a service agreement
++(PDF 54MB)
++Making a service agreement
++(DOCX 42KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

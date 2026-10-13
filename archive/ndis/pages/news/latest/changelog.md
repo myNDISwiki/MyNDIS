@@ -1406,3 +1406,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-13T21:19:33Z — changed
+
+- Previous SHA-256: `efdef2cadcf3647501ae5a64b0e899b6f5b4d5ad4450cc002b36f7471021dee5`
+- New SHA-256: `13fd0cd0bf5bd500dc978844d4671c4817c96ea7a743f7c481e8e25ac0aa94c9`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(329)
++(330)
+ Notification
+ (43)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(8)
++(9)
+ September 2026
+ (13)
+ August 2026
+@@ -360,6 +360,12 @@
+ Search
+ Search
+ Category
++News
++New service agreement resources available
++The NDIA has released new service agreement resources to help participants and providers develop clear, easy to understand service agreements.
++Date
++13 October 2026
++Category
+ Media release
+ News
+ Sydney man charged for alleged role in $1.8 million NDIS fraud
+@@ -388,13 +394,6 @@
+ From 15 October 2026, we’ll do extra checks on claims submitted more than 90 days after a support is delivered.
+ Date
+ 5 October 2026
+-Category
+-Changes to the NDIS
+-News
+-Changes to support budgets from 1 October
+-Starting from 1 October, some NDIS support budgets will be reduced over the coming 12 months.
+-Date
+-1 October 2026
+ Pagination
+ 1
+ 2
+```
