@@ -1,5 +1,5 @@
 {
-  "bytes": 7368,
+  "bytes": 7367,
   "content_type": "application/pdf",
   "directory": "resources/17e9d63e31a20c989e495d9a8ed4eb673dcafba5173f9b655dae4f7a2c0307da",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4041",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-11T21:57:59Z",
+  "last_changed": "2026-10-13T00:40:48Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"The impact of COVID19 on NDIS allied healthcare services and consumer experiences transitioning to telehealth.pdf\""
   },
-  "sha256": "96b57741378a4933b461cf7ff1d7cd5eed7741e9dca15c969f47e1d475da15cc",
+  "sha256": "9332ed0171a41b0cb6b15289fc05908cf88325c64381b3f3f68c239ac9d0e371",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4041"
 }
