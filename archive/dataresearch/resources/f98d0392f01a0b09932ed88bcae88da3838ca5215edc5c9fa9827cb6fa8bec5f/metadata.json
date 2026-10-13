@@ -1,5 +1,5 @@
 {
-  "bytes": 89805,
+  "bytes": 89806,
   "content_type": "application/pdf",
   "directory": "resources/f98d0392f01a0b09932ed88bcae88da3838ca5215edc5c9fa9827cb6fa8bec5f",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4008",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-13T00:40:48Z",
+  "last_changed": "2026-10-13T22:46:11Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Quarterly report supplements.pdf\""
   },
-  "sha256": "ebe4a795e0298fe3db81d11a712137605d0bfdeb160dd664d51f4bd4ea649a78",
+  "sha256": "1d7ed18034fec1bcfc2e388677ca8eb628fe4fad2d52cb45554898fc7c34c1da",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4008"
 }
