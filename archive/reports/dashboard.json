@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:28:08Z",
+  "generated_at": "2026-10-13T08:08:36Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -46,14 +46,14 @@
     {
       "id": "vic-gov",
       "name": "Victorian Government reforms",
-      "status": "partial",
-      "last_checked": "2026-10-12T21:47:34Z",
+      "status": "complete",
+      "last_checked": "2026-10-13T07:49:24Z",
       "tracked_pages": 250,
       "registry": "vic-gov/page-registry.csv",
       "latest": "vic-gov/latest-changes.md",
       "changes": {
         "NEW": 0,
-        "MODIFIED": 2,
+        "MODIFIED": 33,
         "REMOVED": 0
       }
     },
@@ -159,13 +159,13 @@
       "id": "reports/vic-gov",
       "name": "Reports / Vic Gov",
       "status": "recorded changes",
-      "last_checked": "2026-10-12T23:16:54Z",
+      "last_checked": "2026-10-13T07:49:24Z",
       "tracked_pages": 0,
       "registry": "vic-gov/change-ledger.csv",
       "latest": "vic-gov/changes.html",
       "changes": {
         "NEW": 251,
-        "MODIFIED": 1354,
+        "MODIFIED": 1387,
         "REMOVED": 1
       }
     }
@@ -194,12 +194,6 @@
       "severity": "warning",
       "message": "Tracker status is partial.",
       "href": "../archive/reports/health/changes.html"
-    },
-    {
-      "project": "Victorian Government reforms",
-      "severity": "warning",
-      "message": "Tracker status is partial.",
-      "href": "../archive/reports/vic-gov/changes.html"
     }
   ]
 }
