@@ -482,3 +482,32 @@ Page bytes changed, but no visible-text change was detected.
 - Visible text lines removed: 0
 
 Page bytes changed, but no visible-text change was detected.
+
+## 2026-10-13T21:34:07Z — changed
+
+- Previous SHA-256: `4cf8094effcf38dffc4bda09665594dae388af78ad2a5de40f10733be25682be`
+- New SHA-256: `cdeb7f0e78ad7a3c5f82c59b2fe6c1f04ed0b4faa84e5b9ea813ff9a86ac5aec`
+- Visible text lines added: 1
+- Visible text lines removed: 2
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Independent Advisory Council
+-06/10/2026, 04:00
++13/10/2026, 05:53
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -177,7 +177,6 @@
+ Participant Service Charter
+ Safe and respectful interactions
+ Participant Service Guarantee
+-Participant Service Improvement Plan
+ Sharing information
+ Expand or collapse sub-menu for Sharing information
+ Access to information
+```
