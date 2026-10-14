@@ -291,3 +291,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-14T20:15:45Z — changed
+
+- Previous SHA-256: `4e9cc76ae4d18f84d73ce11375d9b30011f58479e1abc423ee895717bd546da7`
+- New SHA-256: `755d06e55da04a15b473e203281a2a90bcb62b6ae8debacd3f342e9b758039c2`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -13,6 +13,7 @@
+ The DRCO Forum meets quarterly to discuss Scheme improvements and experiences of participants across Australia.
+ Members of the DRCO take part in co-design with the NDIA, working with NDIA staff, NDIS participants and members of the Independent Advisory Council (IAC)
+ DRCO Forum summaries
++DRCO Forum summary - 27 August 2026
+ DRCO Forum summary - 28 May 2026
+ DRCO Forum summary - 18 February 2026
+ DRCO Forum summary - 20 November 2025
+```
