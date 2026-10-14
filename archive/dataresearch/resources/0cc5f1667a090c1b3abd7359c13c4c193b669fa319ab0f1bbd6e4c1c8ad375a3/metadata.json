@@ -1,5 +1,5 @@
 {
-  "bytes": 60824,
+  "bytes": 60833,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/0cc5f1667a090c1b3abd7359c13c4c193b669fa319ab0f1bbd6e4c1c8ad375a3",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/transitions-group-homes-institutional-care-and-residential-aged-care",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-13T22:46:11Z",
+  "last_changed": "2026-10-14T21:44:06Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fhome-and-living-supports%2Ftransitions-group-homes-institutional-care-and-residential-aged-care",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -149,9 +149,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 08 Oct 2026 00:00:56 GMT"
+    "Last-Modified": "Wed, 14 Oct 2026 22:31:20 GMT"
   },
-  "sha256": "01e6b1a24ebc373a9fee8bdb15f1bd40db4f01e2ccc6ac0cd1e38ce6a20a5afc",
+  "sha256": "0631e46edce1360ccf270311bd0272097d7ec12fbe63b1048b6078f5bcbbe557",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/transitions-group-homes-institutional-care-and-residential-aged-care"
 }

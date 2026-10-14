@@ -1,5 +1,5 @@
 {
-  "bytes": 56245,
+  "bytes": 56252,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/2e5a6e87b1b9d08a6e432bd0ffc95488854e959af85968cd4ec3e0677681d366",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-13T22:46:11Z",
+  "last_changed": "2026-10-14T21:44:06Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fimproving-outcomes-participants",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -140,9 +140,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 07 Oct 2026 22:52:00 GMT"
+    "Last-Modified": "Wed, 14 Oct 2026 21:40:13 GMT"
   },
-  "sha256": "c4143938ef371b00e54ae3d2e93ac118ec148fa3ae4c58499de9d54bde08785b",
+  "sha256": "ccd76794a3819ed65639799855dfa1810d3649d8eca8fbb3ef043898107fd8b5",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants"
 }

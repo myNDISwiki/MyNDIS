@@ -1,5 +1,5 @@
 {
-  "bytes": 62540,
+  "bytes": 62549,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/467c61db8a6152053200f023d7f483200c02f7f09de290745ef163b31a415acc",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning/independent-review-art-and-music-supports",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-13T22:46:11Z",
+  "last_changed": "2026-10-14T21:44:06Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fdecision-making-access-and-planning%2Findependent-review-art-and-music-supports",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -159,9 +159,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 07 Oct 2026 22:32:45 GMT"
+    "Last-Modified": "Wed, 14 Oct 2026 22:11:50 GMT"
   },
-  "sha256": "b15bfd9d93621c23b2306439b271ffb67e9aef1bfbd66dbdce7c9d02e9f1d65d",
+  "sha256": "352a168c5f4e83dc8b7c7dff39df1258a51778cef143753096ca24f1f6598330",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning/independent-review-art-and-music-supports"
 }
