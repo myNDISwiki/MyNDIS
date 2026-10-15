@@ -1,0 +1,27 @@
+{
+  "bytes": 23480,
+  "content_type": "text/css",
+  "directory": "resources/225c4d60da2e57713e870ca7601bd24fd84c1ed4b61c86ac10d2c0d82f3ff57c",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/editor.css?tmxkgr=",
+  "first_seen": "2026-10-15T21:25:19Z",
+  "kind": "file",
+  "last_changed": "2026-10-15T21:25:19Z",
+  "links": [
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.eot",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.ttf",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.woff",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/fonts/list-icons.woff2",
+    "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/images/list-icons.svg"
+  ],
+  "response_headers": {
+    "ETag": "\"69efd14c-5bb8\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:44 GMT"
+  },
+  "sha256": "2f293e8b9932e2ab57a6e821a6baad9aaaf53ec1b312c7b19c2bffd4f53004e4",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/editor.css?tmxkgr="
+}

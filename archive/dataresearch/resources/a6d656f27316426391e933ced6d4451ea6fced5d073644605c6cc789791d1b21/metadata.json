@@ -1,0 +1,22 @@
+{
+  "bytes": 429481,
+  "content_type": "application/pdf",
+  "directory": "resources/a6d656f27316426391e933ced6d4451ea6fced5d073644605c6cc789791d1b21",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4600/download?attachment=",
+  "first_seen": "2026-10-15T21:25:19Z",
+  "kind": "file",
+  "last_changed": "2026-10-15T21:25:19Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIS Summary of Statistics September 2026.pdf\"",
+    "ETag": "\"1792013582:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Wed, 14 Oct 2026 21:33:01 GMT"
+  },
+  "sha256": "e25c4d7680d749288e669d52adaf50d62cc46f0bb76d527d1cbdb1e40a02e8bb",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4600/download?attachment="
+}

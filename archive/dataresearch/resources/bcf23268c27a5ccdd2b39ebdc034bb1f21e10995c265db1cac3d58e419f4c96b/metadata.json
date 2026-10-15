@@ -1,0 +1,21 @@
+{
+  "bytes": 150636,
+  "content_type": "text/css",
+  "directory": "resources/bcf23268c27a5ccdd2b39ebdc034bb1f21e10995c265db1cac3d58e419f4c96b",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/vendors.css?tmxkgr=",
+  "first_seen": "2026-10-15T21:25:19Z",
+  "kind": "file",
+  "last_changed": "2026-10-15T21:25:19Z",
+  "links": [],
+  "response_headers": {
+    "ETag": "\"69efd14c-24c6c\"",
+    "Last-Modified": "Mon, 27 Apr 2026 21:12:44 GMT"
+  },
+  "sha256": "900cb97f4c590b1f82242fc1b1bd5be75388ce6dfd326bb78fc389d4be9fec37",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/vendors.css?tmxkgr="
+}
