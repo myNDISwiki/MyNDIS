@@ -344,3 +344,23 @@ Page bytes changed, but no visible-text change was detected.
 - Visible text lines removed: 0
 
 Page bytes changed, but no visible-text change was detected.
+
+## 2026-10-15T20:03:46Z — changed
+
+- Previous SHA-256: `1c582da398e36b3b87ed3c34e143debd19719df36bbb084a8dd32997d67af38b`
+- New SHA-256: `80cef3e6fd58ba89112f7e8b48006fbc63386fa326a83b6031f5f741b00995c3`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+```diff
+--- before
++++ after
+@@ -43,6 +43,7 @@
+ Sitting Calendar
+ Visit Parliament
+ What's on
++Tours
+ Things to Do
+ Art at Parliament
+ Dining
+```
