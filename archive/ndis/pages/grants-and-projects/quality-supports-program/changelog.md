@@ -471,3 +471,111 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-15T19:56:29Z — changed
+
+- Previous SHA-256: `75c9430ab015c1982d734d370605dac031a5168d696edbf12af7cb1e4fc830a9`
+- New SHA-256: `d8fed956ded1c5c27cd8c6655c6bbb270ecdfc4e9eb986b9467359ad71d1b283`
+- Visible text lines added: 30
+- Visible text lines removed: 30
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,17 +12,20 @@
+ 1 - Supported Independent Living (SIL) pilot
+ 2 - Support coordination (SC) pilot
+ 3 - Therapy pilot
+-The Quality supports program is part of the NDIA’s plans to ensure every NDIS participant can access quality and value for money services.
+-The program will establish several pilots, each dedicated to the delivery of a NDIS support. Selected NDIS providers of therapy supports, supported independent living, and support coordination will share in more than $45 million in grant funding to participant in three pilots which commenced in 2025.
+-As part of the program, the National Disability Insurance Agency (NDIA) will work closely with selected providers who met the eligibility requirements to evaluate the characteristics of quality service provision, including the costs and outcomes that come from providing quality services.
++The Quality supports program is part of the NDIA commitment to strengthen the NDIS pricing model ensuring NDIS participants can access quality services that deliver value for money.
++The program started in mid-2025 and is focused on three targeted pilots that explore what quality service delivery looks like across different NDIS support types. The Government has invested $45 million in grant funding to support 68 selected NDIS providers of therapy supports, supported independent living, and support coordination to participant in three 12-month pilots.
++The pilot findings will be considered alongside broader evidence, including Annual Price Review submissions, administrative and utilisation data, external benchmarks, and targeted engagement to inform future pricing reviews as part of the NDIA’s Three-Year Pricing Workplan (2025–28).
++The Three-Year Pricing Workplan outlines the NDIA’s commitment to transparent, staged pricing improvements that respond to emerging market pressures while maintaining participant choice and provider sustainability. Visit the
++Pricing Workplan
++page to learn more.
+ Supported Independent Living (SIL) pilot
+-Forty-four registered providers from across Australia are participating in the Supported Independent Living (SIL) pilot (Table One). The pilot will operate for 12 months, with the first quarter finalised in October 2025.
+-During the first three months, SIL pilot providers shared detailed financial and operational information with the NDIA and joined a series of Community of Practice workshops.
+-The workshops focused on building a shared understanding about how SIL supports are delivered in today’s market, common challenges faced by providers in delivering quality supports and new ways of working to tackle these challenges.
+-Lived experience is also informing pilot findings. The pilot has heard from about 50 participants, guardians, parents and carers so far. We have heard about how providers are supporting positive experiences for participants, as well as how participants and providers work together when things go wrong.
+-Quarter 2 of the SIL pilot is underway. This quarter will continue to deepen the Agency’s understanding of service delivery costs and the experience of SIL pilot providers in the current environment.
+-Learnings from the pilot will contribute to the Agency’s review of current NDIS pricing models as part of its commitment to revised pricing approaches that ensure every NDIS participant can access quality and value for money services.
+-A second SIL pilot originally anticipated for release in 2025 will now commence after the first SIL pilot is completed. Timing the delivery in this way will ensure the findings from the first SIL pilot are understood and inform the design and implementation of the second SIL pilot.
++The data collection phase of the SIL pilot has now ended. Over the 12-month pilot, 44 participating providers have shared detailed financial and operational information about the cost of delivering SIL supports.
++Providers have shared examples of key challenges and their commitment to delivering quality supports as they work with participants, their families, and the broader service system to ensure that participants receive the support that they need.
++Participant voice has also played an important role in the SIL pilot. Throughout the pilot, we heard from over 100 participants and families. We have heard that choice, control, and autonomy to live well makes a real and positive difference for participants. We also heard that having a suitable home, familiar support workers and support tailored to their needs directly impact their experience and wellbeing.
++Learnings from the pilot will contribute to the Agency’s review of current NDIS pricing models. This is part of our commitment to revised pricing approaches that ensure every NDIS participant can access quality and value for money services.
++The pilot data will also provide a foundational evidence base to help inform possible commissioning approaches for part of the SIL market. Insights on service costs, operating models, quality service delivery, workforce considerations, and participant outcomes will complement the consultation, research and market analysis being undertaken by the Department of Health, Disability and Ageing (DHDA). Together, this evidence will help inform the design of potential future SIL commissioning approaches. Learn more about SIL commissioning at
++DHDA’s Citizen Space
++website.
+ Table 1: SIL pilot providers
+ Grant Award Number
+ Grantee
+@@ -159,7 +162,7 @@
+ GA499154
+ Yooralla
+ Vic
+-*Grantee delivery state information is provided in accordance with grantee SIL Pilot Grant Opportunity information as at March 2025
++*Grantee delivery state information is provided in accordance with grantee SIL Pilot Grant Opportunity information as at March 2025.
+ More information about the providers participating in the SIL pilot can be found by searching their GA number on
+ GrantConnect
+ .
+@@ -167,37 +170,34 @@
+ [email protected]
+ .
+ Support coordination (SC) pilot
+-The NDIA invited eligible providers of Support coordination (SC) to apply for a closed, non-competitive SC pilot grant.
+-Only providers who met the criteria set out in the Quality Supports SC Pilot Grant Opportunity Guidelines and NDIA due diligence review, were eligible to be invited to apply for the grant.
+-SC providers were required to meet the Agency’s compliance thresholds to be awarded funding under the grant program.
+-The SC pilot has commenced and will run for 12 months with the Agency working with selected providers to identify features of quality service provision and cost models associated with providing quality support coordination services.
+-Up to $2 million in grant funding was available with individual funding amounts based on a proportion of the grantee’s Level 2 SC claims acquitted for the financial year 2023-2024.
+-Three registered SC providers were eligible for the initial grant opportunity and are currently participating in the SC pilot.
++The 12-month Quality Supports Support Coordination (SC) Pilot has now ended.
++The SC Pilot was established under the NDIA Quality Supports Program to improve the Agency’s understanding of the characteristics, and costs associated with the delivery of high-quality SC. The pilot started in July 2025, finished in June 2026 and involved three registered SC providers operating across Victoria and Tasmania.
++The pilot objectives were to:
++define what constitutes quality SC
++better understand how support coordinators deliver services in practice
++identify the factors that drive the cost of delivering quality services
++generate insights to inform the future design of NDIS SC services.
++The pilot evaluation drew on multiple sources of information, including participant focus groups, support coordinator surveys, workshops, operational and financial data provided by participating SC providers, and a targeted review of academic and grey literature.
++While the small number of SC providers who participated in the pilot limited the extent findings can be applied across the broader SC market, the pilot generated insights into SC practice and participant experiences that will be utilised to inform future reforms.
+ Grant Award Number
+ Grantee
+ Delivery State
+-​
+-GA499175
++​GA499175
+ Annie Curtis Consulting
+ Tasmania
+-​
+-GA499176
++​GA499176
+ Disability Support Coordination Tasmania​
+ Tasmania
+-​
+-GA499174
++​GA499174
+ PiP Consultants​
+ Victoria
+-The Agency is anticipating more support coordinators will be awarded grants in the coming months.
+ For further information email
+ [email protected]
+ Therapy pilot
+-The Therapy pilot has now commenced with 27 registered providers across Australia selected to share up to $20 million in grant funding to work with the NDIA over the next 12-months to identify features of quality service provision and the costs associated with delivery of these services (see Table One).
+-The Therapy pilot will contribute to the NDIA’s future pricing reform, ensuring price settings reflect the service delivery, workforce mix, and participant outcomes associated with delivering high quality therapy supports.
+-The pilot findings will be considered alongside broader evidence, including the 2025-26 Annual Price Review submissions, administrative and utilisation data, external benchmarks, and targeted engagement to inform future pricing reviews as part of the NDIA’s Three-Year Pricing Workplan (2025–28).
+-The Three-Year Pricing Workplan outlines the NDIA’s commitment to transparent, staged pricing improvements that respond to emerging market pressures while maintaining participant choice and provider sustainability, visit the
+-Pricing Workplan
+-page to learn more.
++The Therapy pilot started in early 2026 with 27 registered providers across Australia. Selected providers will share up to $20 million in grant funding to work with the NDIA over 12-months to identify features of quality service provision and the costs associated with delivery of these services.
++Pilot providers have completed a range of project deliverables in the first 6 months of the pilot, including financial reports, provider questionnaires, case studies, and a participant survey. Together, these activities provide financial insights with operational service delivery information and participant experience.
++The second half of the pilot will collect information on service quality, governance, innovation, research, and continuous improvement practices. This work will help strengthen the NDIA’s understanding of the costs and requirements associated with delivering safe, effective, and high-quality therapy supports to NDIS participants.
++The Therapy pilot will contribute to the NDIA’s future pricing reform, ensuring price settings reflect the service delivery, workforce mix, and participant outcomes associated with delivering high-quality therapy supports.
+ Provider Name
+ Grant Delivery State
+ ​Ability Centre Australasia Ltd
+```

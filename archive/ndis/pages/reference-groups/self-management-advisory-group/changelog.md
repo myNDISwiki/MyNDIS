@@ -313,3 +313,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-15T19:56:29Z — changed
+
+- Previous SHA-256: `071eae3b476ef3e62cdffb84ce70a1546b9a772be74b7aebb662dabdcf7d5b76`
+- New SHA-256: `75e688a795e76aa4741fc177dfd85b87c8baa41136717b0bd74a7fee55813085`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,6 +21,7 @@
+ Dariane McLean – Inclusion Australia
+ Jan Kruger – Imagine More
+ Suzanne Gearing – Physical Disability Australia (PDA)
++Dr George Taleporos – Self Manager Hub
+ Meeting summaries
+ 2026 Meetings
+ 17 September 2026 meeting summary
+```

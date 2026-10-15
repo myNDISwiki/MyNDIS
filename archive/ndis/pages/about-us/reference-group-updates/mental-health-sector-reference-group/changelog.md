@@ -291,3 +291,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-15T19:56:29Z — changed
+
+- Previous SHA-256: `4f7691d1503a534b04b48f3c1c4758f5f74779bb2bc49cb814790be415b722cf`
+- New SHA-256: `a9ea9704170df7ca796ed1eb0363a9b029a62e47207d08f0140ff28537ca8a92`
+- Visible text lines added: 0
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -26,7 +26,6 @@
+ Derek James – Department Health, Disability and Ageing
+ Phil Watson – Victorian Department of Health
+ Vince Ponzio – NSW Ministry of Health
+-Ivan Frkovic – Queensland Mental Health Commissioner
+ Dr Donna Gillies – NDIS Quality and Safeguards Commission
+ Dr Bill Pring – The Royal Australian and New Zealand College of Psychiatrists
+ Dr Leighton Jay – NDIS Independent Advisory Council
+```
