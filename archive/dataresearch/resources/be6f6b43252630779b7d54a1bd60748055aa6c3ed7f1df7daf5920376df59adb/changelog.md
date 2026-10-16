@@ -311,3 +311,9 @@ SHA-256: `12a514088724d5b46a07029a25d15a80cf1db67c897cdf8f18e6aca8c05faa87`
  2 October 2026
  Evaluation of NDIS supports lists and shorter funding periods
 ```
+
+## 2026-10-16T21:06:52Z — changed
+
+SHA-256: `b362146cdc617fb8085c409ec36dfe29bda65751b80c59cd9e5fc421b5bc0bad`
+
+No visible wording change; HTML bytes changed.

@@ -1,5 +1,5 @@
 {
-  "bytes": 56691,
+  "bytes": 56692,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/b3b76be70272203ad433e54b8a4fb985c99f102ed206a6e316e4a783161305b0",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/covid-19-impact-participant-and-familycarer-outcomes-30-june-2020",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-15T21:25:19Z",
+  "last_changed": "2026-10-16T21:06:52Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fcovid-19-impact-participant-and-familycarer-outcomes-30-june-2020",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -159,7 +159,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 15 Oct 2026 17:11:08 GMT"
   },
-  "sha256": "2b236fd140f6fa54715bc8720b6a56620d6303300d5651f7d7edde47641b9c02",
+  "sha256": "8b7c6b5c3565eea937378a1cd9e48da863a505f3d4e6a2de8ec55e1bbecaf725",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/covid-19-impact-participant-and-familycarer-outcomes-30-june-2020"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 55872,
+  "bytes": 55871,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/a8bdc5074224f4f736c81583f72f56e5680874d8e715720a7b13fab18ff08fd0",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/assistive-technology-interventions-support-children",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-15T21:25:19Z",
+  "last_changed": "2026-10-16T21:06:52Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fassistive-technology-interventions-support-children",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -144,7 +144,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 15 Oct 2026 09:42:36 GMT"
   },
-  "sha256": "25247deb0ff6481f79d26c23eb4233c979ffe27ff9f217eb6fda4f55d7f63df3",
+  "sha256": "e97c434da6d575a4a734014b1fa78e5391ed8119c3323e38d277244728d1d27f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/assistive-technology-interventions-support-children"
 }
