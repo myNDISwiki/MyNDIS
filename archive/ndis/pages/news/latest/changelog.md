@@ -1465,3 +1465,81 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-10-16T19:37:08Z — changed
+
+- Previous SHA-256: `13fd0cd0bf5bd500dc978844d4671c4817c96ea7a743f7c481e8e25ac0aa94c9`
+- New SHA-256: `f132c8bfc473d034d7bd7b636116ef241b5552a4ab4edd7d4afe304f18c1f850`
+- Visible text lines added: 13
+- Visible text lines removed: 11
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,9 +56,9 @@
+ Media statements
+ (5)
+ News
+-(330)
++(331)
+ Notification
+-(43)
++(45)
+ News State or Territory
+ ACT
+ (12)
+@@ -78,11 +78,11 @@
+ (29)
+ News date
+ October 2026
+-(9)
++(10)
+ September 2026
+ (13)
+ August 2026
+-(14)
++(15)
+ July 2026
+ (15)
+ June 2026
+@@ -360,6 +360,12 @@
+ Search
+ Search
+ Category
++Notification
++Planned system updates 17-18 October 2026
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
++Date
++16 October 2026
++Category
+ News
+ New service agreement resources available
+ The NDIA has released new service agreement resources to help participants and providers develop clear, easy to understand service agreements.
+@@ -372,8 +378,10 @@
+ A Sydney man, 36, has been charged over his alleged role in a sophisticated $1.8 million fraud, following an investigation by the Australian Government Fraud Fusion Taskforce (FFT).
+ Date
+ 9 October 2026
++Category
++Notification
+ Planned system updates 11 October 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems. Impacted systems: my NDIS participant portal my NDIS provider portal myplace participant portal myplace provider portal my NDIS App NAPIC Gateway Digital Partner Portal Integrity Portal APIC Provider API Start date and time Saturday 10 October 2026, 11:30 pm AEDT Finish date and time Sunday 11 October 2026, 6:30 am AEDT * Please note: Services may be returned earlier if technically possible. Outage window 7 hours Impact on users These systems will be down during the outage window. Please plan around this if required. We are sorry for the disruption.
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+ Date
+ 8 October 2026
+ Category
+@@ -386,12 +394,6 @@
+ News
+ Provider Quarterly Report - Youth Employment now available
+ The Provider Quarterly Report – Youth Employment (January-December 2025) is now available. The report provides insight into employment supports delivered to 9,215 young participants and the outcomes they achieved.
+-Date
+-5 October 2026
+-Category
+-News
+-Increasing integrity checks on older claims
+-From 15 October 2026, we’ll do extra checks on claims submitted more than 90 days after a support is delivered.
+ Date
+ 5 October 2026
+ Pagination
+```
