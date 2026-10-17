@@ -299,3 +299,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for Sharing information
  Access to information
 ```
+
+## 2026-10-17T18:31:57Z — changed
+
+- Previous SHA-256: `12c2ab7b543e5e186e44b28861892ec308d11d5d86d3d1f3c04f4a54b1e6c1a0`
+- New SHA-256: `097d41abf8ccbf35240c654188cf6ff635bc5f0fba79e9647fd3bc8cd62cf7e7`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

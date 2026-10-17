@@ -542,3 +542,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  This page current as of
  4 May 2026
 ```
+
+## 2026-10-17T18:31:57Z — changed
+
+- Previous SHA-256: `bbca13144ab1f6188adee86788338c4e7dead4293d9e82649a28440adc51554c`
+- New SHA-256: `29658c6f471afece57b5508faea73d1b0c462a6c32096836fba2e202b5bdaafa`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

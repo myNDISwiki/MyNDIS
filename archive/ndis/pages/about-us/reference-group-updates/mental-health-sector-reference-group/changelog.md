@@ -313,3 +313,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Dr Bill Pring – The Royal Australian and New Zealand College of Psychiatrists
  Dr Leighton Jay – NDIS Independent Advisory Council
 ```
+
+## 2026-10-17T18:31:57Z — changed
+
+- Previous SHA-256: `a9ea9704170df7ca796ed1eb0363a9b029a62e47207d08f0140ff28537ca8a92`
+- New SHA-256: `d23829519874625ccbad4840143e4ca16e8dd8caf1ed2a6721c1eff52772194f`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
