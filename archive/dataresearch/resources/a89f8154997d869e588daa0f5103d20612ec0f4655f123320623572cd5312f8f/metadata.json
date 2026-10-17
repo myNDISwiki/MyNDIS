@@ -1,5 +1,5 @@
 {
-  "bytes": 8211,
+  "bytes": 8210,
   "content_type": "application/pdf",
   "directory": "resources/a89f8154997d869e588daa0f5103d20612ec0f4655f123320623572cd5312f8f",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3920",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-16T21:06:52Z",
+  "last_changed": "2026-10-17T20:38:07Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Employment outcomes  participants their families and carers.pdf\""
   },
-  "sha256": "3c5cad7ec97d34e9b122eb38a08089842791991dde961a071cfab16c6e6ecb71",
+  "sha256": "805d0ac01d23a2a00b7f7a8cde08af4ae3d09b1d4ca10509fb3584b2cf20278d",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3920"
 }

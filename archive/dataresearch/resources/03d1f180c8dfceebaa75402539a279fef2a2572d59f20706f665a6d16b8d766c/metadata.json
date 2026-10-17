@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/participant-families-and-carer-outcomes-reports",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-16T21:06:52Z",
+  "last_changed": "2026-10-17T20:38:07Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fparticipant-families-and-carer-outcomes-reports",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -200,7 +200,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 15 Oct 2026 04:54:37 GMT"
   },
-  "sha256": "1416265c0ed91e72376cb473846685246f0de6ce49acfc414cdc1eb5f07891ba",
+  "sha256": "0b4424aaf4820367347f9f13a16a1625c7e3815f58e5e086ad5627561ac1349e",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/participant-families-and-carer-outcomes-reports"
 }

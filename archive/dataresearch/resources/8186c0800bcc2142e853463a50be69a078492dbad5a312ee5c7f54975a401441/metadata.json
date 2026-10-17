@@ -1,5 +1,5 @@
 {
-  "bytes": 61757,
+  "bytes": 61755,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/8186c0800bcc2142e853463a50be69a078492dbad5a312ee5c7f54975a401441",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-16T21:06:52Z",
+  "last_changed": "2026-10-17T20:38:07Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fmarkets-and-innovations-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -149,7 +149,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 15 Oct 2026 07:24:44 GMT"
   },
-  "sha256": "1ea928fcc049cc465b9fa87bc69caf286a319f2ceec0289cb8116d9860bbda01",
+  "sha256": "dfea175757a799f603eb5d857c2b8b5f0712516aa4c0dea78390a7039ab6cdea",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research"
 }
