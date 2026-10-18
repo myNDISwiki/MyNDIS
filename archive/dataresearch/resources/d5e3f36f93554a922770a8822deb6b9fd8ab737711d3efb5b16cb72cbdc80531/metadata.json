@@ -1,5 +1,5 @@
 {
-  "bytes": 56128,
+  "bytes": 56130,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/d5e3f36f93554a922770a8822deb6b9fd8ab737711d3efb5b16cb72cbdc80531",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/culturally-and-linguistically-diverse",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-17T20:38:07Z",
+  "last_changed": "2026-10-18T20:41:32Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fculturally-and-linguistically-diverse",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -160,7 +160,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 15 Oct 2026 04:53:38 GMT"
   },
-  "sha256": "dbdbd61aeef6bb47866002dc04df06a4bb33d064971d77ee2f230445f0a82556",
+  "sha256": "3f1a7214931979053fa4f9e96f33bdc953c7e9d24b56ed373aeca256055d2f99",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/culturally-and-linguistically-diverse"
 }

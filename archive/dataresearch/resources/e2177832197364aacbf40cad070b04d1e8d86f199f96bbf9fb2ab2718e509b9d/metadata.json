@@ -1,5 +1,5 @@
 {
-  "bytes": 69463,
+  "bytes": 69461,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e2177832197364aacbf40cad070b04d1e8d86f199f96bbf9fb2ab2718e509b9d",
   "embeds": [
@@ -17,7 +17,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/social-inclusion-and-community-access-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-17T20:38:07Z",
+  "last_changed": "2026-10-18T20:41:32Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fimproving-outcomes-participants%2Fsocial-inclusion-and-community-access-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -173,7 +173,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 15 Oct 2026 04:08:02 GMT"
   },
-  "sha256": "afa246c266295b58b608b7c54844b0208432f06eaa32fb11ec8ad06e2a266beb",
+  "sha256": "43b713bdc80369042e734465d4dc92bfa8bd7e2d54f83c1fac00d84823796f02",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/social-inclusion-and-community-access-research"
 }
