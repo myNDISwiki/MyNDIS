@@ -1,5 +1,5 @@
 {
-  "bytes": 20383,
+  "bytes": 20382,
   "content_type": "application/pdf",
   "directory": "resources/daeb019bfb9755d5ff021a1bde0b3a573ab493a4cc79f4a59bf005ab7495bf40",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4083",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-18T20:41:32Z",
+  "last_changed": "2026-10-19T22:25:04Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Evaluation of NDIS supports lists and shorter funding periods.pdf\""
   },
-  "sha256": "42a754ab934759cbd7b6797c6054997d19f9a5985f73e36e3e87b1a4773e7b57",
+  "sha256": "a6b3040723c6807e85433de163d9f25b09e4f7db0e4a7bd69be8b57e7d327863",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4083"
 }
