@@ -1,7 +1,5 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
 
-## MODIFIED
+Checked: 2026-10-19T23:14:36Z
 
-- `archive/gov/vic-gov/pages/early-childhood-services-child-safety-knowledge-skills-and-awareness/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-update-december-2025/get-ready-new-kindergarten-year/current.html`
-
+No page changes detected in this run.
