@@ -1199,3 +1199,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-19T21:06:36Z — changed
+
+- Previous SHA-256: `2ee5c08583fa5f9997fa09f804fa7fa967e10b5173227266e120b1cdf862e26b`
+- New SHA-256: `98d64101e5a1fcd56a18dec590afcd7907df259ac02861962d299c5e2fdbf83b`
+- Visible text lines added: 19
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-What is a service agreement
+-13 October 2026
+-How to make a service agreement
+-13 October 2026
+-What is a dog guide assessment
+-13 October 2026
+ What is a plan variation
+-13 October 2026
+-New service agreement resources available
+-13 October 2026
+-Local Area Coordinator (LAC) partner, Murray Bridge, 5253
+-13 October 2026
+-What are home modifications
+-13 October 2026
+-Local Area Coordinator (LAC) partner, Berri, 5343
+-13 October 2026
+-Local Area Coordinator (LAC) partner, Victor Harbor, 5211
+-13 October 2026
+-Local Area Coordinator (LAC) partner, Mount Barker, 5251
+-13 October 2026
++19 October 2026
++What is an NDIS plan
++19 October 2026
++FOI disclosure log
++19 October 2026
++Support workers and recovery coaches
++19 October 2026
++Strategies
++19 October 2026
++Our commitment to inclusive language
++19 October 2026
++NDIA gifts and benefits policy and register
++19 October 2026
++Find specialist disability accommodation (SDA)
++19 October 2026
++NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
++19 October 2026
++National Disability Insurance Scheme (NDIS), Katherine, 0850
++16 October 2026
+```

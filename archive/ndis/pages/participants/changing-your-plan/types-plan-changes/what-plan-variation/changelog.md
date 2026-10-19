@@ -469,3 +469,38 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-19T21:06:36Z — changed
+
+- Previous SHA-256: `0a6e827f1e6700b37dfbb8bc0b225403b0d70b4c588527b954a90e7a0f97f018`
+- New SHA-256: `34e48540e0dd4690f1b4b8ebdcbc326919fc15c2479c2d8336583c206f4648c0`
+- Visible text lines added: 6
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -39,7 +39,7 @@
+ You need to give
+ consent
+ for someone else, like a support coordinator, to ask for a plan variation.
+-You can use this form when you need changes to a part of your current plan. You can also speak to your
++You can use this form to ask for a plan variation. You can also speak to your
+ my NDIS contact
+ or
+ contact us
+@@ -68,6 +68,11 @@
+ .
+ We may decide not to change your plan. We’ll let you know and explain why.
+ You’ll get a copy of your varied plan within 7 days if we vary your plan.
++High support needs variation
++We’ll decide within 21 days if you meet the criteria for
++high support needs
++if you’ve asked for this type of variation.
++We’ll decide within a further 21 days if we’ll vary your plan under the high support needs criteria.
+ If you don’t agree with our decision
+ You can request an internal
+ review of a decision
+```

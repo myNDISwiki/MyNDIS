@@ -309,3 +309,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-19T21:06:36Z — changed
+
+- Previous SHA-256: `1b43bf05c343068a9db368f77da62abe51b10e1ca4b260d92dae774a88f9fe35`
+- New SHA-256: `a222bd0c0cfe53654ee1b0256d51542b0aec8ed54824497dc6b57cc485622fbc`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,10 +5,10 @@
+ Listen
+ Print this page
+ Save page as PDF
+-Working with support workers and recover coaches
++Working with support workers and recovery coaches
+ What is a support worker
+ Support workers and recovery coaches
+ What is a recovery coach
+ Support workers and recovery coaches
+ This page current as of
+-3 May 2026
++19 October 2026
+```

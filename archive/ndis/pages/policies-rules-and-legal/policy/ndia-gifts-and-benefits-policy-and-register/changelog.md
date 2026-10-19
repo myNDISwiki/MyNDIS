@@ -291,3 +291,63 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-19T21:06:36Z — changed
+
+- Previous SHA-256: `26dbe52e4a606fb2f984982dbbe7ab56713fb77c9d28b062e35fca5545cd4245`
+- New SHA-256: `0ddb65e84a3ab7382cf9a38757b59edec0ad6ddcc2986c3b34a48b61ef5bc8fc`
+- Visible text lines added: 19
+- Visible text lines removed: 13
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -18,7 +18,7 @@
+ (DOCX 143KB)
+ NDIA Gifts and Benefits Register
+ This register shows gifts and benefits valued at more than $AUD50 (including GST) that have been received and accepted by NDIA officials. The register is updated quarterly.
+-01 April 2026 – 30 June 2026
++01 July 2026 – 30 September 2026
+ Table 1: Gifts and benefits register showing gifts and benefits valued at more than $AUD50 (including GST) that have been received and accepted by NDIA officials.
+ Date received
+ Date recorded
+@@ -26,18 +26,24 @@
+ Presented by (giver's name, organisation / country)
+ Occasion
+ Estimated value in $AUD (wholesale value on country of origin or current market value in Australia)
+-15 April 2026
+-06 May 2026
+-AI in Procurement seminar – x1 ticket
+-Laura Ogden, Hall & Wilcox
+-Legal panel event exploring AI
+-$79
+-15 April 2026
+-06 May 2026
+-AI in Procurement seminar – x1 ticket
+-Laura Ogden, Hall & Wilcox
+-Legal panel event exploring AI
+-$79
++05 August 2026
++01 September 2026
++CPA Pilot Management Accounting Course
++CPA Australia
++A pilot course to complete the 'Management Accounting' CPA foundations subject
++$650
++26 August 2026
++01 September 2026
++Annual Future for Geelong Awards - x1 ticket
++Committee for Geelong
++Future for Geelong leadership awards
++$180
++26 August 2026
++01 September 2026
++Annual Future for Geelong Awards - x1 ticket
++Committee for Geelong
++Future for Geelong leadership awards
++$180
+ Main navigation sidebar
+ Policies, rules and legal
+ About Freedom of Information (FOI)
+```

@@ -300,3 +300,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-19T21:06:36Z — changed
+
+- Previous SHA-256: `6b52fd12386d67e0d7cb6b191d817f688dd90ceb1d81e7f053e3c3b058d31373`
+- New SHA-256: `74c5c592b1e4a865eba5bfa1a179e62d509e23f4e66b880c23ffa0549c5b3393`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -20,7 +20,9 @@
+ Strategies
+ Pricing work plan
+ Strategies
++Our commitment to inclusive language
++Strategies
+ NDIS support lists available
+ Learn more
+ This page current as of
+-14 July 2026
++19 October 2026
+```

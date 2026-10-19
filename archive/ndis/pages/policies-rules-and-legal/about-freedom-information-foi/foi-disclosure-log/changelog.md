@@ -1096,3 +1096,223 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-19T21:06:36Z — changed
+
+- Previous SHA-256: `0668c484ad549fd7bf21d78dfebfb9174ca342f541ebfa74d850cd9efca1f680`
+- New SHA-256: `843812c6a1c9774b8f8ee49a30f6205562b74adb53c3aa899c0e4da1b660469e`
+- Visible text lines added: 134
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,10 +27,75 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3590
++9/10/2026
++Documents issued as NDIA Indexation Policy, Methodology and Decision-Making Framework
++FOI 25/26-3590 (PDF 12MB)
++10 documents released in part and 7 documents released in full
++Financial Impact of Indexation of Participants’ Plans 2022 – dated 25 August 2022
++Financial Impact of Indexation of Participants' Plans 2023 – dated 26 July 2023
++Financial impact of indexation of participants' plans 2024 – dated 26 July 2024
++Financial impact of indexation of participants' plans 2025 – dated 7 August 2025
++APR – dated 3 June 2025
++DRAFT - Scheme Projections Exec Brief – Negative Indexation – dated 3 June 2025
++Subject: Re: for your endorsement – Indexation Factors – dated 26 June 2026
++Annual Indexation EOFY Run Plan - 2022-23
++Annual Indexation EOFY Run Plan - 2024-25
++Annual Indexation EOFY Run Plan - 2025-26
++Annual Indexation EOFY Run Plan - 2026-27
++Exec Brief - indexation impact of APR recommendations – final – dated 17 March 2026
++Indexation – step by step guide
++Indexation Factors Methodology Paper – dated June 2026
++Indexation Policy Position – dated March 2026
++NDIA Policy Committee meeting – dated 14 April 2026
++DRAFT - Annual Indexation Changes FY2020-21 – dated 17 June 2020
++FOI 26/27-0494
++6/10/2026
++From February 2026 to July 2026, documents issued as emails, criteria draft and checklist regarding Administrative Review Tribunal appeals
++FOI 26/27-0494 (PDF 4MB)
++13 documents released in part
++ABC Story about NDIS Appeals – dated 9 July 2026
++RE_ ABC story about NDIS appeals – dated 9 July 2026
++RE_ ABC story about NDIS appeals – dated 10 July 2026
++RE_ ABC story about NDIS appeals – dated 22 July 2026
++RE_ ABC story about NDIS appeals – dated 22 July 2026
++FW_ ABC story about NDIS appeals – dated 22 July 2026
++RE_ ABC story about NDIS appeals – dated 24 July 2026
++RE_ ABC story about NDIS appeals – dated 24 July 2026
++RE_ ABC story about NDIS appeals – dated 24 July 2026
++RE_ ABC story about NDIS appeals – dated 24 July 2026
++RE_ ABC story about NDIS appeals – dated 27 July 2026
++Criteria to treat decision as favourable – draft – dated February 2026
++Post ART decision checklist for adverse substantive ART decisions
++FOI 26/27-0684
++18/09/2026
++30 June 2026, document issued as revocation data for the last four quarters in 2025/26
++FOI 26/27-0684 (PDF 856KB)
++1 document released in full
++Revocations Data – dated 30 June 2026
++FOI 25/26-2465
++18/09/2026
++Technical Advice and Practice Improvement Branch (TAPIB) documents on:
++Applied Behaviour Analysis (ABA)
++Positive Behaviour Support (PBS)
++FOI 25/26-2465 (PDF 2MB)
++3 documents released in full, 9 documents released in part:
++1. Research Paper - Home Modifications and Behaviours of Concern
++2. Research Paper - Applied Behaviour Analysis for Adults with ASD
++3. Research Paper - Applied Behaviour Analysis and Positive Behaviour Support
++4. Advice Support Tool - CB Relationships and Restrictive Practices
++5. Guide - Restrictive Practice Processes by Australian State and Territory
++6. Guide - DRAFT Capacity Building (Restrictive Practice) Technical Advice Guidance Document
++8. Literature Review - Reducing Applied Behaviour Analysis Over Time
++9. Research Paper - Gemiini Program and Video Modelling: Evidence of Efficacy (Autism and Other Conditions)
++10. Research Paper - Sexual Services and Sexualised Behaviours of Concern
++11. Research Paper - Home and Living Supports for People with Dementia
++12. Research Paper - Staffing Strategies in Positive Behaviour Support
++13. Guidance Material - ASD Stocktake of Resources
+ FOI 26/27-0238
+ 14/09/2026
+ Guidance and tools used by planners to evaluate evidence supplied by participants.
+-FOI 26/27-0238
++FOI 26/27-0238 (PDF 6MB)
+ 12 documents released in full:
+ Guide – Identify Home and Living Solutions Appendix B – Allied Health Practitioners v2.0
+ Knowledge Article – Check Treating Professional Details v2.0
+@@ -88,6 +153,12 @@
+ FOI 25/26-1244 (PDF 2MB)
+ 1 Document released in full:
+ 1. Dashboard – Hospital Discharge Monthly Dashboard October 2025
++FOI 26/27-0739
++9/09/2026
++As at September 2026, documents issued as contracts exceeding $10,000 by financial year.
++FOI 26/27-0739 (PDF 1MB)
++1 document released in full
++Report of Contracts Exceeding $10,000 by Financial Year – dated as at September 2026
+ FOI 26/27-0197
+ 02/09/2026
+ Request for the number of Model Litigant Obligations complaints received by the NDIA in the 2025/26 financial year and the number of MLO complaints that were investigated by the NDIA and subsequently upheld.
+@@ -260,6 +331,12 @@
+ Knowledge Article - Understand Self-Care and Community Access Supports v5.0
+ Knowledge Article - Understand Self-Care and Community Access Supports v6.0
+ Knowledge Article - Understand Self-Care and Community Access Supports v7.0
++FOI 25/26-3012
++14/08/2026
++From September 2023 to April 2026, documents issued as Fraud Fusion Taskforce New Party Addendum
++FOI 25/26-3012 (PDF 4MB)
++1 document released in part
++Fraud Fusion Taskforce New Party Addendum – dated September 2023 to April 2026
+ FOI 25/26-3612
+ 12/08/2026
+ Data regarding use of AUSLAN and interpreting service per financial years (19/20-25/26) including a breakdown of these individuals by:
+@@ -388,6 +465,12 @@
+ I-CAN v6 Workshop 1 - Cognitive Disability and Communication Support Needs – released in full
+ I-CAN v6 Workshop 2 - Physical Disability – released in full
+ I-CAN v6 Workshop 3 Psychosocial Disability – released in full
++FOI 25/26-3456
++24/07/2026
++From 18 March 2026, documents issued as Fraud Fusion Taskforce Operation Armchair
++FOI 25/26-3456 (PDF 1MB)
++1 document released in part
++Fraud Fusion Taskforce Operation Armchair – dated 18 March 2026
+ FOI 26/26-3477
+ 23/07/2026
+ Document containing data on Participant - Assistance Animal Maintenance support for Financial Year 2025/26
+@@ -568,6 +651,26 @@
+ 2 Documents released – 1 in part and 1 in full
+ Document 1. Standard Operating Procedure: Model Litigant Obligation Complaints
+ Document 2. Legal Services Direction 2017 The Model Litigant Obligations
++FOI 25/26-2443
++22/05/2026
++Ministerial briefing documents dated from 1 January 2026, prepared for the Minister for the NDIS, where Matthew Swainson is identified as the contact officer or approving officer.
++FOI 25/26-2443 (PDF 1.1MB)
++1 document released in full and 1 document released in part subject to sections 42, 45, 47E(d) and 47F
++Executive Brief: EC25-005297 – dated 23 February 2026 – released in full
++Executive Brief: EC25-000292 – dated 2 February 2026 – released in part
++FOI 25/26-2343
++22/05/2026
++Presentations, talking points and transcripts relating to the NDIA co-design group briefing on 5 March 2026, covering the Support Needs Assessment and i‑CAN assessment process, including participant engagement and communication.
++25/26-2343 (PDF 7.2MB)
++4 documents released in full and 3 documents released in part subject to sections 47F and 47E(d)
++NDIS Support Needs Assessment Presentation – dated March 2026 – released in full
++NDIS Support Needs Assessment Presentation – dated March 2026 – released in part
++NDIS Support Needs Assessment – Accessible
++Presentation – dated March 2026 – released in full
++Talking Points – Briefing on the Support Needs Assessment – dated 5 March 2026 – released in part
++SNA and ICAN briefing – Transcript – dated 5 March 2026 – released in full
++Email Subject: SNA Briefing transcript – dated 6 March 2026 – released in part
++Attachment to document 6- Transcript – released in full
+ FOI 24/25-1692
+ 22/05/2026
+ Documents about hearing or audiology supports for participants without hearing loss/deafness as their primary disability.
+@@ -591,6 +694,12 @@
+ Deed of Variation. LCHS Contract
+ Contract for provision for LAC and EC in Central Highlands Current from 01 July 2025
+ Deed of Variation. Current from 01 July 2025
++FOI 25/26-0741
++15/05/2026
++Framework outlining performance management and feedback processes for external legal service providers on ART matters.
++25/26-0741 (PDF 3MB)
++1 document released in part, subject to section 47E(d)
++Legal Provider Management Framework – dated October 2024 – released In part
+ FOI 25/26-1391 MR25-02685
+ 5/05/2026
+ “All documents relating to [personal information]…and associated with the draft decision and quality review.”
+@@ -780,6 +889,17 @@
+ 23. Presentation – FOI Exemptions on LEX
+ 24. Presentation – FOI Training Sections 4, 12, 24AA and 24AB
+ 25. Transcript – Training Video – Practical Refusals with Rebecca [REDACTED]
++FOI 24/25-2308
++30/03/2026
++Agendas, ministerial submission notes, and communications and engagement plans relating to the Independent Pricing Committee.
++FOI 24/25-2308 (PDF 4MB)
++6 documents released in part.
++Document 1 - Agenda Item:5.3a - Independent Pricing Committee Final Report
++Document 2 - Agenda - NDIA Board Meeting of 8 May 2025
++Document 3 - Ministerial Submission MS25-000064
++Document 4 - Ministerial Submission MS25-000058
++Document 5 - Communications and Engagement Plan
++Document 6 - Annual Pricing Review/IPC Report Release
+ FOI 25/26-2067
+ 23/03/2026
+ SDA pipeline data as at 31 December 2025 showing:
+@@ -812,6 +932,12 @@
+ Requesting home and living supports
+ SDA Design Standard
+ SDA pricing and payments
++FOI 25/26-0933
++20/03/2026
++Non-Medical Hospital Admission to Discharge Data
++FOI 25/26-0933 (PDF 590KB)
++1 document released in full
++Average & Median days from Admission to Discharge – Non-Medical Admission – released in full
+ FOI 25/26-1818
+ 16/03/2026
+ This request contains:
+@@ -952,6 +1078,12 @@
+ IRT – Intake of an internal review case
+ IRT – Complete a specialist disability accommodation dwelling enrolment internal review case
+ List of case numbers for section 48 plan change requests that had been cancelled due to lapsing beyond the 21-day timeframe (Period: June to December 2025)
++FOI 25/26-0139
++6/03/2026
++Communication referencing the NDIA Board ‘People and Outcomes’ meeting held on 15 July 2025.
++25/26-0139 (PDF 535KB)
++1 document released in part
++Email, Subject: Info: Weekly SES update – 14 July 2025 – released in part
+ FOI 25/26-0424
+ 6/03/2026
+ Document explaining the purpose of the review on NDIA payment datasets published on the NDIA’s Data website.
+@@ -8970,4 +9102,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-12 October 2026
++19 October 2026
+```
