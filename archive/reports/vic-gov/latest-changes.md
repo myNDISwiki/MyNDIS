@@ -1,9 +1,11 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-18T21:37:27Z
+Checked: 2026-10-19T06:19:17Z
 
 ## MODIFIED
 
-- https://www.vic.gov.au/early-childhood-services-child-safety-knowledge-skills-and-awareness
-- https://www.vic.gov.au/early-childhood-update-december-2025/get-ready-new-kindergarten-year
+- https://www.vic.gov.au/early-childhood-update-december-2024/accessing-arrival-2025
+- https://www.vic.gov.au/early-childhood-update-december-2024/applications-open-building-blocks-capacity-building-grants
+- https://www.vic.gov.au/early-childhood-update-december-2024/applications-open-toy-library-grants-program
+- https://www.vic.gov.au/early-childhood-update-december-2024/reflections-2024-and-looking-ahead-year-come
 
