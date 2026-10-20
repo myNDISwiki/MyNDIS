@@ -836,3 +836,24 @@ Page bytes changed, but no visible-text change was detected.
  Participant experiences
  Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
 ```
+
+## 2026-10-20T20:09:12Z — changed
+
+- Previous SHA-256: `84b45d63677e3ed0d293a3874d33ca69eafd425fb8a4262db7fb39b93235ea4d`
+- New SHA-256: `258089a77dc8bf83d41cd475e6249325440226f4b8382e3b4d0b1204e6429da0`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-19/10/2026, 10:23
++20/10/2026, 04:14
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+```
