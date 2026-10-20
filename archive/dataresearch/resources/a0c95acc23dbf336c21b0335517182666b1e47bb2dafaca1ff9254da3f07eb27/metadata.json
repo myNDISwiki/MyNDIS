@@ -1,5 +1,5 @@
 {
-  "bytes": 57646,
+  "bytes": 57645,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/a0c95acc23dbf336c21b0335517182666b1e47bb2dafaca1ff9254da3f07eb27",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/evaluation-ndia-thin-market-trials",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fevaluation-ndia-thin-market-trials",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -147,9 +147,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 14:04:10 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 07:30:07 GMT"
   },
-  "sha256": "c4a07c254b2cc075ba66122f0a4956a9020f60615ba8e708b36cd5cd534c0dbb",
+  "sha256": "cef1a4a59a59e9ed3597b2e3d20954f2ce8ae7921dba3a1115114c46d1a2bdf2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/evaluation-ndia-thin-market-trials"
 }

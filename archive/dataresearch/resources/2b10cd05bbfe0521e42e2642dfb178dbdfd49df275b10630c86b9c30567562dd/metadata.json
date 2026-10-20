@@ -1,5 +1,5 @@
 {
-  "bytes": 36459,
+  "bytes": 36460,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/2b10cd05bbfe0521e42e2642dfb178dbdfd49df275b10630c86b9c30567562dd",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/copyright",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fcopyright",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -109,9 +109,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 06:07:59 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 06:45:23 GMT"
   },
-  "sha256": "8b5f6313d31f6aef570b6a5e6c43d2ce2733d2f11e6f672efd91680f90f2b6ec",
+  "sha256": "25a08542b3a4d10d80cc777f22b1070d30ad3659586e4df97639131f8acc05d9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/copyright"
 }

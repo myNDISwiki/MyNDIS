@@ -1,5 +1,5 @@
 {
-  "bytes": 61791,
+  "bytes": 61790,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/ee433f16579bffefc6bac2edece4e171acfb1663bb1f49e398cfb55918237ec9",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fsupport-researchers",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -156,9 +156,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 04:28:26 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 05:46:27 GMT"
   },
-  "sha256": "b90ea5e0abe73fddaa26acd39bf6f1dbc1f4594b1e832d2e6c7b1b2af7dd52b7",
+  "sha256": "fd310a75731ba49db4a5a6b7d0c61bf7f5432ae9032203eaaefdee3e47dd834b",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 64494,
+  "bytes": 64497,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/814316908e9c65d58e97b00bc7c6374449f85f808003f902f17b156fdfe0266e",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/intellectual-disability",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fintellectual-disability",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -176,9 +176,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 04:10:56 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 05:42:21 GMT"
   },
-  "sha256": "a029cd4a0d931c88cb1953e821f4eb75f38455f940b3fb58cb51fc12b2929bfd",
+  "sha256": "c9faf8a9f640ca0d3e57bdd2fa34fb26ac12a822b822f822ee5beace1dee0a5f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/intellectual-disability"
 }

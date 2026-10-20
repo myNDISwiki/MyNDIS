@@ -1,5 +1,5 @@
 {
-  "bytes": 55183,
+  "bytes": 55182,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e811bcfc386713380339ec0e2bdfe36a24983b954c9e637bedf16679397601e2",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/measure-wellbeing-people-disability",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fmeasure-wellbeing-people-disability",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -141,9 +141,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 05:50:16 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 06:44:44 GMT"
   },
-  "sha256": "e369775e50518fbca314a865c2d3187ba46ef363e18c10dfcb5ea484983635f1",
+  "sha256": "fa171823ab28bac7243c367d1a4b2fbc9e312d08e3be314ebfcd79e28b59ba11",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/measure-wellbeing-people-disability"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 59368,
+  "bytes": 59369,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/04c5ab1716a4565854699af35274f646dea1d57f8e73ad59db3cefe5c915f505",
   "embeds": [
@@ -13,7 +13,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Femployment-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -151,9 +151,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 08:25:33 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 08:20:00 GMT"
   },
-  "sha256": "4aa8968396deeedb0bdcad2d8a33c8f5d34eaa409b421e3aadb9780dde156371",
+  "sha256": "8280d4633997769178a1c30cee7f09ba3085964642ae0ed5b1fd824514f0b385",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research"
 }

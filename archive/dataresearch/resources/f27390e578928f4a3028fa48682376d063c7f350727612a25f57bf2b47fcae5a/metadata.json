@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/employment-outcomes-participants-their-families-and-carers",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-19T22:25:04Z",
+  "last_changed": "2026-10-20T21:40:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Femployment-outcomes-participants-their-families-and-carers",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -166,9 +166,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 15 Oct 2026 05:12:29 GMT"
+    "Last-Modified": "Tue, 20 Oct 2026 07:23:42 GMT"
   },
-  "sha256": "e7fc7bc2675f90a1315523ee73c2ccab105dc2335d73b1a531680fa27102bc6f",
+  "sha256": "58e898fa0bf509f6fbfe4757d4ada65236ccfc8dfe407c35aeaaba691998378c",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/employment-outcomes-participants-their-families-and-carers"
 }
