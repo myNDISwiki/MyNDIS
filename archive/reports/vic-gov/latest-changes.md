@@ -1,9 +1,5 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
 
-## MODIFIED
+Checked: 2026-10-20T22:35:20Z
 
-- `archive/gov/vic-gov/pages/early-childhood-language-program/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-reform/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-school-closures/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-services-and-parents-taking-part-premiers-reading-challenge/current.html`
-
+No page changes detected in this run.
