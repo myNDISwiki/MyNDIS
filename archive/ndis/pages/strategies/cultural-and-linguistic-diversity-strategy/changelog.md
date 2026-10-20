@@ -309,3 +309,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `2bf958ee43e5f2d895e7b18b8903ce4f76927b031acefabe9c1f566238d1c3a1`
+- New SHA-256: `5779802e590eb8cb4312d3a9e8bb991ac9b56a73f1db230b43035142fa6be1b1`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -145,6 +145,7 @@
+ Main navigation sidebar
+ Strategies
+ Australia's Disability Strategy
++Our commitment to inclusive language
+ Assistive Technology Strategy
+ Cultural and Linguistic Diversity Strategy
+ First Nations Strategy
+```

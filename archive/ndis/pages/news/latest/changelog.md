@@ -1561,3 +1561,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `1132483e43bfcb8d037fb416dfef709bbd2b6cd532e9268119381ae1591df5b8`
+- New SHA-256: `9bafd4891a54181775f5461399f4dfaadcc89c01ce184a48b1c50eef4d0ebd90`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(331)
++(332)
+ Notification
+ (45)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(10)
++(11)
+ September 2026
+ (13)
+ August 2026
+@@ -360,6 +360,12 @@
+ Search
+ Search
+ Category
++News
++NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
++From 1 December 2026, the maximum prices for four NDIS support items will increase.
++Date
++19 October 2026
++Category
+ Notification
+ Planned system updates 17-18 October 2026
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+@@ -390,12 +396,6 @@
+ More First Nations people with disability in remote communities will get trusted local, face-to-face help to understand and make the most of their NDIS supports closer to home.
+ Date
+ 7 October 2026
+-Category
+-News
+-Provider Quarterly Report - Youth Employment now available
+-The Provider Quarterly Report – Youth Employment (January-December 2025) is now available. The report provides insight into employment supports delivered to 9,215 young participants and the outcomes they achieved.
+-Date
+-5 October 2026
+ Pagination
+ 1
+ 2
+```

@@ -1256,3 +1256,36 @@ The page bytes changed, but no visible main-content wording change was detected.
 +National Disability Insurance Scheme (NDIS), Katherine, 0850
 +16 October 2026
 ```
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `98d64101e5a1fcd56a18dec590afcd7907df259ac02861962d299c5e2fdbf83b`
+- New SHA-256: `d2703090809bda188802b1c6632bc235bccacb3da9a2434fc4f83064e71f64b7`
+- Visible text lines added: 4
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,6 +5,10 @@
+ Save page as PDF
+ Page title
+ Updated
++Our guidelines
++20 October 2026
++Changes to plan management
++20 October 2026
+ What is a plan variation
+ 19 October 2026
+ What is an NDIS plan
+@@ -21,7 +25,3 @@
+ 19 October 2026
+ Find specialist disability accommodation (SDA)
+ 19 October 2026
+-NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
+-19 October 2026
+-National Disability Insurance Scheme (NDIS), Katherine, 0850
+-16 October 2026
+```

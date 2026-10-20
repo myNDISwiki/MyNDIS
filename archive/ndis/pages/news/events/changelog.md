@@ -1219,3 +1219,111 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `7a07224244ff315761732aa25a51a2b2b6ae73e914ffed26e591b6472e08e7a2`
+- New SHA-256: `c74ee186450f502257cc8e2e640f8e261e82d2b33c106e13600fa2ceeeb05332`
+- Visible text lines added: 33
+- Visible text lines removed: 34
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,9 +12,9 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(16)
++(14)
+ Provider Engagement
+-(7)
++(4)
+ No states available
+ Event date
+ December 2026
+@@ -22,50 +22,49 @@
+ November 2026
+ (8)
+ October 2026
+-(14)
++(9)
+ Search
+ Search
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+-Event Date
+-Wednesday, 14 October 2026
+-Category
+-Community Engagement
+-Understanding the NDIS webinar: Using your NDIS plan
+-When we talk about using your NDIS plan, we mean understanding how to make the most of the supports and funding available to you.
+-Event Date
+-Wednesday, 14 October 2026
+-Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for supported independent living (SIL) providers
+-On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
+-Event Date
+-Thursday, 15 October 2026
+-Category
+-Provider Engagement
+-Introducing changes to the NDIS laws for all providers
+-In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+-Event Date
+-Thursday, 15 October 2026
+-Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for support coordinators
+-On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
+-Event Date
+-Monday, 19 October 2026
+ Category
+ Provider Engagement
+ Introducing changes to the NDIS laws for all providers
+ In this session we will deliver an overview of the NDIS Bill amendments and provide information on some of the key changes for all providers.
+ Event Date
+ Tuesday, 20 October 2026
++Category
++Community Engagement
++An overview of changes to the NDIS laws
++The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
++Event Date
++Wednesday, 21 October 2026
++Category
++Community Engagement
++Understanding the NDIS webinar: Pathways to post school life
++When an NDIS participant leaves school, there are a range of pathways and supports that can help them transition smoothly into employment and adult life.
++Event Date
++Thursday, 22 October 2026
++Category
++Provider Engagement
++Changes to NDIS support budgets - an overview for supported independent living (SIL) providers
++On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
++Event Date
++Friday, 23 October 2026
++Category
++Community Engagement
++Understanding the NDIS webinar: Pathways to post school life
++When an NDIS participant leaves school, there are a range of pathways and supports that can help them transition smoothly into employment and adult life.
++Event Date
++Tuesday, 27 October 2026
++Category
++Provider Engagement
++Changes to NDIS support budgets - an overview for support coordinators
++On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
++Event Date
++Tuesday, 27 October 2026
+ Pagination
+ 1
+ 2
+ 3
+-4
+ ›
+ ››
+ »
+```

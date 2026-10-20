@@ -603,3 +603,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `b2b89bbf3ceb03b15396b1be223d0bdfb63d948f1c801be5196758e7063cbc39`
+- New SHA-256: `da07e98827cc6ef16f0c8eff8363aa2bf40e03a4f0dd662f7971842cedafb1ea`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -136,7 +136,7 @@
+ Appointing a nominee
+ (PDF 319KB)
+ Appointing a nominee
+-(DOCX 93KB)
++(DOCX 104KB)
+ Supports you can access
+ NDIS support lists and replacement supports
+ You can view these lists:
+```

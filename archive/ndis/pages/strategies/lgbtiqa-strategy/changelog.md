@@ -340,3 +340,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Cultural and Linguistic Diversity Strategy
  First Nations Strategy
 ```
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `25d95b1419ebe5d61c55c76ba60dddbac0cb504f8424e2617f455556984407eb`
+- New SHA-256: `8b9e7def8421e751c7de996c8459a4daf4c3b8a81dc838aeb33460d9057c16c0`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

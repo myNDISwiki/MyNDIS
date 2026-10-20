@@ -351,3 +351,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Policies, rules and legal
  About Freedom of Information (FOI)
 ```
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `0ddb65e84a3ab7382cf9a38757b59edec0ad6ddcc2986c3b34a48b61ef5bc8fc`
+- New SHA-256: `bf09866af73c273f5f4e64d600a12a5727a83b91c1db1182f82689bbf197317e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -165,3 +165,79 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `cb10236bb639f0dfcb379f47c20bb16a0c6bcec4df8390bc377ccf16dc0d100c`
+- New SHA-256: `3ade92d8b65db64f5aec0e645f3d500b9090b5a1cdec6149e27b3652eb06b3df`
+- Visible text lines added: 22
+- Visible text lines removed: 21
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,39 +5,40 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-What is the change
+-Why we’re making the change
+-How we’ll make the change
++What are the changes
++Why we’re making the changes
++How we’ll make the changes
+ On this page:
+-1 - What is the change
+-2 - Why we’re making the change
+-3 - How we’ll make the change
++1 - What are the changes
++2 - Why we’re making the changes
++3 - How we’ll make the changes
+ We’re making
+ changes to the NDIS
+-to improve the quality of plan management services, encourage innovation and be more responsive to participant needs.
+-What is the change
+-We’re changing how plan management services are priced, designed and delivered to participants.
+-We’ll establish a trusted panel of plan managers by 1 October 2027. Participants will need to use a plan manager from the panel. They’ll be supported to transition to a provider on the panel over 6 months.
++to improve the quality and integrity of plan management services and be more responsive to participant needs.
++What are the changes
++We’re changing how plan management services are priced and designed for participants.
++We’ll establish a trusted panel of plan managers from 1 October 2027. Participants will need to use a plan manager from the panel. Affected participants will be supported to transition to a provider on the panel over 6 months.
+ Plan managers on the panel will continue to play an important role in supporting participants to manage their NDIS budgets.
+-Why we’re making the change
+-We’re making the changes to help:
+-improve the quality of plan management services
+-improve integrity standards
+-reduce fraud.
+-How we’ll make the change
++Why we’re making the changes
++We’re making the changes to:
++make it easier for participants to pay providers and manage their NDIS funding
++strengthen how we detect and address fraud and participant safety concerns
++make sure providers are only paid for services delivered to participants.
++How we’ll make the changes
+ This timeline explains when the changes will happen:
+ 2026
+ From October
+ We’ll explain the expected changes to plan management, including how the changes may affect participants, plan management businesses and other providers.
+-We’ll ask for feedback from plan managers in a request for information (RFI). The RFI will be published on the Government’s AusTender website and will be open for 5 weeks. The RFI will ask for feedback about the design and implementation of the plan management panel. We’ll use this feedback to help plan the tender and support people through the change.
+ 2027
+ From April
+-We’ll publish a request for tender (RFT) for the plan management panel on the AusTender website. If plan managers want to join the panel, they must apply through the RFT process.
+-The RFT will include the requirements plan managers must meet to be selected for the panel.
++We’ll publish an approach to market for the plan management panel on the
++NDIS Engage
++website. If plan managers want to join the panel, they must apply through this process.
++The approach to market will include the requirements plan managers must meet to be selected for the panel.
+ From June
+-The RFT closes. We’ll assess applications and tell providers whether they are on the panel or not.
++The approach to market closes. We’ll assess applications and tell providers whether they are on the panel or not.
+ From October
+-We’ll launch the plan management panel. There’ll be a 6-month transition period. During the transition period, we’ll support participants to move to a plan manager on the panel if their current plan manager isn’t on the panel.
++We’ll launch the plan management panel. There’ll be a 6-month transition period. During the transition period, we’ll support affected participants to move to a plan manager on the panel if their current plan manager isn’t on the panel.
+ 2028
+ From April
+ The transition period ends. The new plan management panel is in place.
+```

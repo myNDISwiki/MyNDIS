@@ -392,3 +392,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-20T20:04:46Z — changed
+
+- Previous SHA-256: `a45017a2de1cdff57a13e01cb3990d4dd43d86ac00cb7f83724d94cf3d9de9f6`
+- New SHA-256: `d7ee9fdbac4487946e2847f1d372119d573ef49c16c56317eda25926f4565716`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -448,6 +448,7 @@
+ Glossary
+ National Mental Health Sector Reference Group
+ Office locations
++Our commitment to inclusive language
+ Rural and Remote Advisory Group
+ Supported Decision Making Advisory Group
+ Assistive Technology Strategy
+```
