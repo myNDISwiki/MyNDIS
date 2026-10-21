@@ -331,3 +331,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-21T20:14:58Z — changed
+
+- Previous SHA-256: `da1fa6eff9a67fd1c9e7f040e300a0a2531eb4727f2aa77251613ebfb526ad07`
+- New SHA-256: `17eba30b205ee75398e8b43731977f1031fb17c12156fec018349fb1ede8985f`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -45,7 +45,7 @@
+ What it is like when we ask for your evidence of identity
+ We usually only need to check your evidence of identity once.
+ We check your identity documents in 2 ways
+-We need to check you’re the person the identity documents belong to. To do this, we complete a face-to-face identity check.
++We need to check you’re the person the identity documents belong to. To do this, we complete a face to photo identity document check.
+ We also need to make sure your identity documents are real. The quickest way to do this is to give us
+ consent
+ to use the Document Verification Service (DVS).
+```

@@ -1289,3 +1289,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 -National Disability Insurance Scheme (NDIS), Katherine, 0850
 -16 October 2026
 ```
+
+## 2026-10-21T20:14:58Z — changed
+
+- Previous SHA-256: `d2703090809bda188802b1c6632bc235bccacb3da9a2434fc4f83064e71f64b7`
+- New SHA-256: `fcc4fb1bac2a554ba3b54e38a94bd819c5e19d1b71db0513ec65abbaf94fda26`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

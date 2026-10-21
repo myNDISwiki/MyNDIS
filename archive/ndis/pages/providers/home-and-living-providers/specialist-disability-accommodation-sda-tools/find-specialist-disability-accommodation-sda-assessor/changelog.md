@@ -932,3 +932,65 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-21T20:14:58Z — changed
+
+- Previous SHA-256: `5164153bb174cf042dbd19d6824fd8c9eb027f975189bb5b843ae212a4a520cc`
+- New SHA-256: `8b7c4762c4a7d0f6b2b60799bd152f1069d53c8176cc976df8311b568d919a52`
+- Visible text lines added: 18
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -499,6 +499,17 @@
+ Web
+ :
+ https://aedconsulting.com.au
++Mardiros Tatian
++SDA00155
++Building Innovations Australia Pty Ltd
++Mobile:
++0450 278 007
++Phone:
++(02) 9099 0370
++Email:
++[email protected]
++Web:
++www.buildinginnovations.com.au
+ Shakur Wais
+ SDA00154
+ Access Right Pty Ltd
+@@ -1311,15 +1322,6 @@
+ Web
+ :
+ https://www.enable-access.com.au/
+-Peter Samon
+-SDA00094
+-Crossover Architecture
+-Mobile
+-:
+-0439 324 586
+-Email
+-:
+-[email protected]
+ Mark Krause
+ SDA00098
+ Equal Access Group Pty Ltd
+@@ -1780,6 +1782,13 @@
+ Urban Nest Occupational Therapy
+ Mobile:
+ 0401 807 007
++Email:
++[email protected]
++Grace Hewson
++SDA00184
++GH Therapy Services
++Mobile:
++0439 273 009
+ Email:
+ [email protected]
+ Main navigation sidebar
+```

@@ -430,3 +430,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-21T20:14:58Z — changed
+
+- Previous SHA-256: `9a0ffcff78c702b4e68ea35cee45cf5004d3385b43314086e037f6c5524b5f1e`
+- New SHA-256: `6deca844061b60297f9001344e9db9710b5b9d8a10e91b9c3fbaa94cae54f949`
+- Visible text lines added: 9
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -60,18 +60,23 @@
+ The total amount for each funding component will be made available to you in specific time intervals. We call these funding periods.
+ Each funding component has its own funding periods.
+ Funding periods will usually be 3 months.
++Funding periods help you to:
++manage your funding over the length of your plan
++avoid running out of funding too early.
+ Funding periods help give you flexibility and manage your budget. They don’t change the total funding amount in your plan. They only change when you can access your funds.
++It’s important to carefully manage your funding in line with the total funding amount of your plan. This includes making sure supports claimed are in line with the funding available for each funding period.
++Once all funds in a funding period are used, no further claims can be paid until funds are available in the next funding period of your plan.
+ Your funding must be spent within the current plan. Any unused funding won’t roll over to a new plan.
+-It’s important to carefully manage your funding in line with the total funding amount of your plan. This includes making sure supports claimed are in line with the funding available for each funding period. We can't pay additional claims if there's no funding left in that period. Additional claims can’t be paid if the funding in that period is all used.
+ Using funding flexibly over funding periods
+ Your support needs may change and won’t always line up with your funding periods.
+-Your funding will roll over to the next funding period within the same plan, if you don’t use all your funding in a funding period. You might still be able to claim for an NDIS support, if you need more supports than expected in a funding period.
++You have the option to use your funding flexibly over funding periods in the same plan, if you need to. You might still be able to claim for an NDIS support, if you need more supports than expected in a funding period. This means you’ll have less funding for supports in the next funding period.
+ You can claim for your NDIS support in your next funding period if:
++you have enough funding to cover the supports needed for that period and in the rest of your plan
+ you and your providers agree to claim in the next funding period
+-you have enough funding to cover the supports needed for that period and in the rest of your plan
+ your provider agrees to wait for their payment until your next funding period.
++Funding will roll over to the next funding period within the same plan if you don’t use all your funding in a funding period.
+ Delaying claims
+-You may choose to delay your claim.
++You may choose to delay your claim until the next funding period. Delaying claims will reduce the amount of funding you have to use in that funding period. Make sure you submit your claim within the required timeframe after receiving the support.
+ If you claim from the next funding period, you should:
+ review your service agreement and delivery schedule with your providers
+ adjust the service agreement or delivery schedule to make sure you can cover your supports until the end of your plan.
+```
