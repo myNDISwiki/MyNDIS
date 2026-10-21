@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3932",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-20T21:40:00Z",
+  "last_changed": "2026-10-21T21:41:49Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  WA.pdf\""
   },
-  "sha256": "1ef0dcd09e7c3c505454440ddbdc206cad4e602fe6d356e556bfabe8d7cb8a51",
+  "sha256": "b51dd45790bd3997af07a09ed3d7ea40841f457b7b85676c99d6cddf29e26494",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3932"
 }
