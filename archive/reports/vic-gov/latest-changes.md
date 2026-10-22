@@ -1,9 +1,9 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
+
+Checked: 2026-10-22T22:34:48Z
 
 ## MODIFIED
 
-- `archive/gov/vic-gov/pages/about-thriving-kids/current.html`
-- `archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform/current.html`
-- `archive/gov/vic-gov/pages/child-safety-early-childhood-parents/current.html`
-- `archive/gov/vic-gov/pages/choose-early-childhood-service/current.html`
+- https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform
+- https://www.vic.gov.au/early-childhood-update-april-2024/toy-library-grants-program-recipients-announced
 
