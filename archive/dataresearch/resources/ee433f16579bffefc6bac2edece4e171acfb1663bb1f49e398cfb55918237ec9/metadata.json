@@ -1,5 +1,5 @@
 {
-  "bytes": 61791,
+  "bytes": 61792,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/ee433f16579bffefc6bac2edece4e171acfb1663bb1f49e398cfb55918237ec9",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-21T21:41:49Z",
+  "last_changed": "2026-10-22T21:38:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fsupport-researchers",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -158,7 +158,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 21 Oct 2026 17:03:31 GMT"
   },
-  "sha256": "5e0e5f1e0b4d6895c8f30b25d5931ae9bef7465868d3fcd190909c459a552200",
+  "sha256": "18aff58e33cf611b6186224e192bd8a7ec756e29d2fc6e3176c4dc1ee66058ef",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 104531,
+  "bytes": 104527,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/05a6c8c47e696c0c4fc419e98cef13797cfacfef503ca60adac88dda23b48808",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-sa",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-21T21:41:49Z",
+  "last_changed": "2026-10-22T21:38:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-sa",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -291,9 +291,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 21 Oct 2026 22:30:22 GMT"
+    "Last-Modified": "Thu, 22 Oct 2026 22:29:39 GMT"
   },
-  "sha256": "9da87c1fd65ce345d7ad26191b08a40d28914f027972e4a3d26d5fa3021d0f43",
+  "sha256": "1e32d6d3da090e0afd9d7d1fd814e8c426d2ad640c4db219639a9230c4b1b50f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-sa"
 }

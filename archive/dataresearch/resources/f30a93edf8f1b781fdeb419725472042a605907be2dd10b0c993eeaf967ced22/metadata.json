@@ -1,5 +1,5 @@
 {
-  "bytes": 55475,
+  "bytes": 55474,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f30a93edf8f1b781fdeb419725472042a605907be2dd10b0c993eeaf967ced22",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/sda-market-information-statement",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-21T21:41:49Z",
+  "last_changed": "2026-10-22T21:38:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fsda-market-information-statement",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -161,7 +161,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 21 Oct 2026 18:55:51 GMT"
   },
-  "sha256": "09857dabedd75d9ea5bb463c8e1006e08786dcaa4a17cd58c1001372082603ad",
+  "sha256": "106094924daef0cc305d03c6a49e47d7d9bc3e101d4d542340327c80679dce4f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/sda-market-information-statement"
 }

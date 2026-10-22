@@ -1,5 +1,5 @@
 {
-  "bytes": 77217,
+  "bytes": 77216,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/a5c57864ecc1b584219649e4126d9b6d5005c7112ad08e156d16ec9369f81f90",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/previous-annual-financial-sustainability-reports",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-21T21:41:49Z",
+  "last_changed": "2026-10-22T21:38:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fprevious-annual-financial-sustainability-reports",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -208,7 +208,7 @@
   "response_headers": {
     "Last-Modified": "Wed, 21 Oct 2026 17:03:59 GMT"
   },
-  "sha256": "abc852af2ac03dd6b2574c34da0615740bec84f9c1a50c7f8abfd6cd9ebd7a10",
+  "sha256": "77c02fa3a00d32356ecf8fdd035aa3e8f197d5c8cb5a53a755bfc4051731bfa2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/previous-annual-financial-sustainability-reports"
 }
