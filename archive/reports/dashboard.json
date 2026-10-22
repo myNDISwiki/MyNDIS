@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:54:25Z",
+  "generated_at": "2026-10-22T06:33:59Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -47,7 +47,7 @@
       "id": "vic-gov",
       "name": "Victorian Government reforms",
       "status": "complete",
-      "last_checked": "2026-10-21T22:36:36Z",
+      "last_checked": "2026-10-22T06:10:45Z",
       "tracked_pages": 250,
       "registry": "vic-gov/page-registry.csv",
       "latest": "vic-gov/latest-changes.md",
@@ -159,13 +159,13 @@
       "id": "reports/vic-gov",
       "name": "Reports / Vic Gov",
       "status": "recorded changes",
-      "last_checked": "2026-10-21T22:36:36Z",
+      "last_checked": "2026-10-22T06:10:45Z",
       "tracked_pages": 0,
       "registry": "vic-gov/change-ledger.csv",
       "latest": "vic-gov/changes.html",
       "changes": {
         "NEW": 252,
-        "MODIFIED": 1504,
+        "MODIFIED": 1506,
         "REMOVED": 2
       }
     }
