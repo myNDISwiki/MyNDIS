@@ -578,3 +578,47 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-22T20:09:30Z — changed
+
+- Previous SHA-256: `7b0142c520ca5390a885c9f2e91cb83347b8789da8cbc56ddf643edab0a56458`
+- New SHA-256: `2378cf92c187a7448c37a8688041aefad2f70140bb592fd7dd323b7c469305a2`
+- Visible text lines added: 9
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,20 +16,20 @@
+ '
+ Events and information sessions
+ Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for supported independent living (SIL) providers
++Community Engagement
++An overview of changes to the NDIS laws
+ Event Date
+-Wednesday, 28 October 2026
++Wednesday, 16 December 2026
+ Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for support coordinators
++Community Engagement
++An overview of changes to the NDIS laws
+ Event Date
+-Tuesday, 27 October 2026
++Tuesday, 1 December 2026
+ Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for supported independent living (SIL) providers
++Community Engagement
++An overview of changes to the NDIS laws
+ Event Date
+-Friday, 23 October 2026
++Tuesday, 17 November 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

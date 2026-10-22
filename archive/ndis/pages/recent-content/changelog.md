@@ -1298,3 +1298,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-22T20:09:30Z — changed
+
+- Previous SHA-256: `fcc4fb1bac2a554ba3b54e38a94bd819c5e19d1b71db0513ec65abbaf94fda26`
+- New SHA-256: `22a3b4eef49d87860bb5e7cd88cdcccb471ec0a0acf04ae0b1f2ee342ecb2ffd`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Our guidelines
+-20 October 2026
+-Changes to plan management
+-20 October 2026
+-What is a plan variation
+-19 October 2026
+-What is an NDIS plan
+-19 October 2026
+-FOI disclosure log
+-19 October 2026
+-Support workers and recovery coaches
+-19 October 2026
+-Strategies
+-19 October 2026
+-Our commitment to inclusive language
+-19 October 2026
+-NDIA gifts and benefits policy and register
+-19 October 2026
+-Find specialist disability accommodation (SDA)
+-19 October 2026
++Local Area Coordinator (LAC) partner, Mount Barker, 5251
++22 October 2026
++Changes to how SDA funding appears in NDIS plans
++22 October 2026
++An overview of changes to the NDIS laws
++21 October 2026
++An overview of changes to the NDIS laws
++21 October 2026
++An overview of changes to the NDIS laws
++21 October 2026
++Local Area Coordinator (LAC) partner, Mareeba, 4880
++21 October 2026
++Early Childhood partner, Mareeba, 4880
++21 October 2026
++Local Area Coordinator (LAC) partner, Narellan, 2567
++21 October 2026
++Local Area Coordinator (LAC) partner, Bathurst, 2795
++21 October 2026
++Find a specialist disability accommodation (SDA) assessor
++21 October 2026
+```

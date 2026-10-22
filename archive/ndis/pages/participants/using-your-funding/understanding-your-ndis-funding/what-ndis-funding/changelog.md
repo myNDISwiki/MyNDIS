@@ -472,3 +472,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  review your service agreement and delivery schedule with your providers
  adjust the service agreement or delivery schedule to make sure you can cover your supports until the end of your plan.
 ```
+
+## 2026-10-22T20:09:30Z — changed
+
+- Previous SHA-256: `6deca844061b60297f9001344e9db9710b5b9d8a10e91b9c3fbaa94cae54f949`
+- New SHA-256: `23b3145db25fd26d81781a024a3d788ed6014c30569c5df51db9e8fb5294846b`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -1628,3 +1628,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-22T20:09:30Z — changed
+
+- Previous SHA-256: `c983d2a98fa1252f29220efe0d3702cf0437ce84af6f5467d4230f6e12b9ad8b`
+- New SHA-256: `e360f4ee2adc5d4f2b592a6fa0ff02916ef3f94e9a6edd2fd8e84ba89f6b2132`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(332)
++(333)
+ Notification
+ (45)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(11)
++(12)
+ September 2026
+ (13)
+ August 2026
+@@ -361,6 +361,12 @@
+ Search
+ Category
+ News
++Changes to how SDA funding appears in NDIS plans
++From 19 October 2026, the full amount of Specialist Disability Accommodation funding a participant is eligible for will be included in their NDIS plan when it is approved.
++Date
++22 October 2026
++Category
++News
+ NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
+ From 1 December 2026, the maximum prices for four NDIS support items will increase.
+ Date
+@@ -390,12 +396,6 @@
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+ Date
+ 8 October 2026
+-Category
+-Media release
+-Trusted local NDIS support expands across remote Australia
+-More First Nations people with disability in remote communities will get trusted local, face-to-face help to understand and make the most of their NDIS supports closer to home.
+-Date
+-7 October 2026
+ Pagination
+ 1
+ 2
+```

@@ -882,3 +882,42 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-22T20:09:30Z — changed
+
+- Previous SHA-256: `34e2711d474004607de36e753ec12d315f0ed02d4ae0a83378674229206c6cb1`
+- New SHA-256: `587c8f45d2e6b4fe18baca58d3fddf9b0abbba9f91ee5340ed860ea18ebaab6e`
+- Visible text lines added: 5
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -32,6 +32,11 @@
+ Latest news
+ Category
+ News
++Changes to how SDA funding appears in NDIS plans
++Date
++22 October 2026
++Category
++News
+ NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
+ Date
+ 19 October 2026
+@@ -40,12 +45,6 @@
+ New service agreement resources available
+ Date
+ 13 October 2026
+-Category
+-Media release
+-News
+-Sydney man charged for alleged role in $1.8 million NDIS fraud
+-Date
+-9 October 2026
+ Read more news
+ Participant experiences
+ Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+```
