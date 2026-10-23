@@ -1686,3 +1686,61 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-10-23T20:01:47Z — changed
+
+- Previous SHA-256: `e360f4ee2adc5d4f2b592a6fa0ff02916ef3f94e9a6edd2fd8e84ba89f6b2132`
+- New SHA-256: `455bdfff435072b2023bab0baa3c1f1f7313cad984650f8092359d58bc8900b9`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -58,7 +58,7 @@
+ News
+ (333)
+ Notification
+-(45)
++(46)
+ News State or Territory
+ ACT
+ (12)
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(12)
++(13)
+ September 2026
+ (13)
+ August 2026
+@@ -360,6 +360,12 @@
+ Search
+ Search
+ Category
++Notification
++Planned system updates 24-25 October 2026
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
++Date
++23 October 2026
++Category
+ News
+ Changes to how SDA funding appears in NDIS plans
+ From 19 October 2026, the full amount of Specialist Disability Accommodation funding a participant is eligible for will be included in their NDIS plan when it is approved.
+@@ -390,12 +396,6 @@
+ A Sydney man, 36, has been charged over his alleged role in a sophisticated $1.8 million fraud, following an investigation by the Australian Government Fraud Fusion Taskforce (FFT).
+ Date
+ 9 October 2026
+-Category
+-Notification
+-Planned system updates 11 October 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+-Date
+-8 October 2026
+ Pagination
+ 1
+ 2
+```

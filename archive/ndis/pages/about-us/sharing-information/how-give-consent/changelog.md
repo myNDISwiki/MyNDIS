@@ -615,3 +615,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-23T20:01:47Z — changed
+
+- Previous SHA-256: `be0cf0422b6e2057c734784e7a29b5794b1124fc630e7fd710c42878f19eda7a`
+- New SHA-256: `b6a5dfb94ab531dd823aa6b320049d549534c559a8ab31df75a839697d82fa04`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -61,7 +61,7 @@
+ Consent for your NDIS information form
+ (PDF 589KB)
+ Consent for your NDIS information form
+-(DOCX 124KB)
++(DOCX 87KB)
+ You can return your consent form by:
+ emailing it to
+ [email protected]
+```

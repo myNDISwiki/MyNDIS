@@ -372,3 +372,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-23T20:01:47Z — changed
+
+- Previous SHA-256: `ae2f2bf2b28f6b0624a8c30f491c08e46460a7ef5a23ea05712ab4b16ba178a7`
+- New SHA-256: `7944b406f861affa3ea206f27a78f5321dd2fdd3833b60c30cc5be9599543860`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -53,7 +53,7 @@
+ Consent for your NDIS information form
+ (PDF 589KB)
+ Consent for your NDIS information form
+-(DOCX 124KB)
++(DOCX 87KB)
+ Step 3: Send your completed form to us
+ You can send your completed form (and evidence if you need to provide it) to us in the way that suits you best.
+ Use our service hub
+```

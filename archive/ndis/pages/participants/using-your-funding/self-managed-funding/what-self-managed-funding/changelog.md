@@ -349,3 +349,58 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-23T20:01:47Z — changed
+
+- Previous SHA-256: `9dcc096660a31875f6e22a3f710352646ae6f8c7cde833555ab34e4706ff0557`
+- New SHA-256: `3f6dc7ef037297bb7d9ce1f08c2f6ff9b727336c618caf4fed272701da84158a`
+- Visible text lines added: 6
+- Visible text lines removed: 14
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -23,8 +23,7 @@
+ choice to decide what NDIS supports you purchase, who provides these supports, and how they’re delivered
+ flexibility to use both registered and unregistered NDIS providers that will best help you meet your needs and pursue
+ your goals
+-ability to negotiate costs of your NDIS supports above or below the
+-NDIS pricing arrangements and price limits
++ability to negotiate the prices of your NDIS supports
+ ability to directly employ or contract staff to provide your NDIS supports
+ control and responsibility over your NDIS funding by managing budgets, payments for supports and record keeping.
+ ability to be innovative when arranging your NDIS supports by researching which NDIS supports give you the best value and meet your needs.
+@@ -42,8 +41,11 @@
+ We can typically do a
+ plan variation
+ without a full
+-plan reassessment
+-, if this is the only change you need to your plan.
++plan reassessment, if this is the only change you need to your plan
++.
++A
++plan nominee
++can also help you self-manage your plan.
+ Learn how to use the portal and app
+ Using the
+ participant portals
+@@ -71,16 +73,6 @@
+ show us how you’ve used your funding to pursue your goals when your plan ends
+ let us know if you have a change of situation.
+ You can still self-manage your funding even if you need some help to meet these responsibilities. We can include supports or strategies in your plan that help reduce the risk.
+-Guide to self-management
+-Download the guide to self-management to learn more:
+-Guide to self-management
+-(PDF 1.68MB)
+-Guide to self-management
+-(DOCX 214.57KB)
+-Guide to self-management
+-- Easy Read (PDF 7.18MB)
+-Guide to self-management
+-- Easy Read (DOCX 60.37KB)
+ When can’t you self-manage
+ You won’t be able to self-manage any of your funding if:
+ you're currently an insolvent under administration
+```

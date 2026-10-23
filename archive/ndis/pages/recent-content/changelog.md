@@ -1356,3 +1356,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Find a specialist disability accommodation (SDA) assessor
 +21 October 2026
 ```
+
+## 2026-10-23T20:01:47Z — changed
+
+- Previous SHA-256: `22a3b4eef49d87860bb5e7cd88cdcccb471ec0a0acf04ae0b1f2ee342ecb2ffd`
+- New SHA-256: `1dc1a787ff8f83d87b8267b324810fa4fe06745fcff7fcccbc216076981117ea`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Local Area Coordinator (LAC) partner, Mount Barker, 5251
+-22 October 2026
+-Changes to how SDA funding appears in NDIS plans
+-22 October 2026
+-An overview of changes to the NDIS laws
+-21 October 2026
+-An overview of changes to the NDIS laws
+-21 October 2026
+-An overview of changes to the NDIS laws
+-21 October 2026
+-Local Area Coordinator (LAC) partner, Mareeba, 4880
+-21 October 2026
+-Early Childhood partner, Mareeba, 4880
+-21 October 2026
+-Local Area Coordinator (LAC) partner, Narellan, 2567
+-21 October 2026
+-Local Area Coordinator (LAC) partner, Bathurst, 2795
+-21 October 2026
+-Find a specialist disability accommodation (SDA) assessor
+-21 October 2026
++Early Childhood partner, Rhodes, 2138
++23 October 2026
++Local Area Coordinator (LAC) partner, Sale, 3850
++23 October 2026
++How to update your name, pronouns or gender
++23 October 2026
++How to give consent
++23 October 2026
++Local Area Coordinator (LAC) partner, Moe, 3825
++23 October 2026
++Provider finder
++23 October 2026
++Early Childhood partner, Emerald, 4720
++23 October 2026
++Local Area Coordinator (LAC) partner, Mile End, 5031
++23 October 2026
++Local Area Coordinator (LAC) partner, Campbelltown, 5074
++23 October 2026
++Early Childhood partner, Glen Waverley, 3150
++23 October 2026
+```

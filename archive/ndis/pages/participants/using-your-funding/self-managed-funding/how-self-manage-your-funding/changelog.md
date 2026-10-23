@@ -372,3 +372,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-23T20:01:47Z — changed
+
+- Previous SHA-256: `26972366f9e37ffc5d2475d850e722082544603d6d24253714ebb0ff1ed2740b`
+- New SHA-256: `2ac828acba34b2ba8768ca63402e79779f8108464cf0c6c4907a28b6563a5e02`
+- Visible text lines added: 16
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -13,6 +13,7 @@
+ Step 4: Keep records of your spending
+ Step 5: Know how much funding you have left
+ Videos
++Resources
+ On this page:
+ 1 - Step 1: Setting up your bank account
+ 2 - Step 2: Choose who to work with
+@@ -20,6 +21,7 @@
+ 4 - Step 4: Keep records of your spending
+ 5 - Step 5: Know how much funding you have left
+ 6 - Videos
++7 - Resources
+ Step 1: Setting up your bank account
+ When
+ self-managing your NDIS funding
+@@ -98,6 +100,9 @@
+ budgeting calculator
+ can help you work out how many hours of support you can have.
+ Videos
++Learn more about self-managing in the videos below. You can find more videos about self-managing your funding on our
++YouTube channel
++.
+ Finding good supports while self-managing
+ Learn how to find supports that are a good fit for you in this video.
+ Transcript for '
+@@ -108,6 +113,17 @@
+ Transcript for '
+ Making claims and paying providers
+ '
++Resources
++Download the guide to self-management:
++Guide to self-management
++(PDF 1.68MB)
++Guide to self-management
++(DOCX 214.57KB)
++Download the guide to self-management Easy Read:
++Guide to self-management - Easy Read
++(PDF 7.18MB)
++Guide to self-management - Easy Read
++(DOCX 60.37KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```
