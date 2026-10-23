@@ -3319,3 +3319,4 @@ timestamp,event,url,sha256_before,sha256_after
 2026-10-23T12:42:36Z,MODIFIED,https://www.vic.gov.au/early-childhood-language-program,8140ff7940a7d8d890ffef4fe862ad142856d9448f666f886e7dee381db88487,c2da2811ee9fd15eadf3478a61de17d3d869e0bea628602170e79718f02e68eb
 2026-10-23T12:42:36Z,MODIFIED,https://www.vic.gov.au/early-childhood-reform,868d210bc0ddb63ec7fcd1b3b745a1fa869f61d4edf4b2c7ba32b9e4fc6d65a6,5e18b41c3d72a7aba5134285b1d994b6f7dfd1a1d79faf93ea6a5de74ce2ae8e
 2026-10-23T12:42:36Z,MODIFIED,https://www.vic.gov.au/early-childhood-services-and-parents-taking-part-premiers-reading-challenge,223c363b30e8e273721725d7c12cdcabd228c41612ccb587560c5fc75da5a742,2ffdb9606013531c8521bbb1da124afd197b36e3519a7811b78e6ab50be04e2e
+2026-10-23T17:54:30Z,MODIFIED,https://www.vic.gov.au/early-childhood-school-closures,99007b1850bb527829643c4fea1844afadb66c799ec5bd872cb67db9876b71ed,b9b88dcdec35f1c182021dad2ecf7def3e30bc1bb8081ea38a6a3f841ffe3a7e
