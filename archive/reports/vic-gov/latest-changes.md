@@ -1,8 +1,10 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-23T06:06:19Z
+Checked: 2026-10-23T12:42:36Z
 
 ## MODIFIED
 
-- https://www.vic.gov.au/early-childhood-update-april-2024/toy-library-grants-program-recipients-announced
+- https://www.vic.gov.au/early-childhood-language-program
+- https://www.vic.gov.au/early-childhood-reform
+- https://www.vic.gov.au/early-childhood-services-and-parents-taking-part-premiers-reading-challenge
 
