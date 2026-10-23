@@ -1,10 +1,9 @@
-# vic-gov latest archive changes
+# Victorian Government latest changes
+
+Checked: 2026-10-23T22:20:51Z
 
 ## MODIFIED
 
-- `archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life-reform/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-language-program/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-reform/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-school-closures/current.html`
-- `archive/gov/vic-gov/pages/early-childhood-services-and-parents-taking-part-premiers-reading-challenge/current.html`
+- https://www.vic.gov.au/early-childhood-services-diversity-and-equity
+- https://www.vic.gov.au/early-childhood-update
 
