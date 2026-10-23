@@ -245,3 +245,21 @@ SHA-256: `7077e961db6e3db19589569ffabb1cd17a36ce4d24df5b7e07f2213cbf6fdbbd`
 SHA-256: `d611a779434d11561251837834a2e0b8d04c58b81a0ac3a924d357d00481b592`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-23T21:27:29Z — changed
+
+SHA-256: `34532048951e804a1ce596647c1de322812bc439edf1570bbf28ee661944251e`
+
+```diff
+--- before
++++ after
+@@ -160,6 +160,8 @@
+ The NDIS in focus
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
++This page current as of
++10 June 2026
+ Social Menu
+ Facebook
+ (External website)
+```

@@ -245,3 +245,122 @@ No visible wording change; HTML bytes changed.
 SHA-256: `73e9fe261397cfba63f51408b2fe1ad23ea00e6644dd44aa34e3d7cdbadb7a29`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-23T21:27:29Z — changed
+
+SHA-256: `c8fddbb0baf944bf72f07b085dd2e8a4389656ca9e7e866108264846ea6b06c8`
+
+```diff
+--- before
++++ after
+@@ -63,49 +63,21 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-How families can participate in the Inklings WA pilot
+-How the NDIA will evaluate the Inklings WA pilot
+ How Inklings is working with First Nations communities
+-How Inklings is working in other locations
++Inklings pilot evaluation
+ On this page:
+-1 - How families can participate in the Inklings WA pilot
+-2 - How the NDIA will evaluate the Inklings WA pilot
+-3 - How Inklings is working with First Nations communities
+-4 - How Inklings is working in other locations
+-The NDIA Inklings pilot is available to Western Australian (WA) parents and caregivers of babies and toddlers aged 6 to 18 months who are showing early differences in how they connect and communicate with others.
+-The Inklings program aims to support caregivers to adapt their own communication and play styles to their baby’s early developmental differences.
+-This helps babies to learn in a social environment that is adapted to meet their individual and unique needs.
+-The Inklings pilot in WA is funded by a grant from the NDIA to The Kids Research Institute Australia (The Kids).
+-The pilot is being delivered in partnership with WA Child and Adolescent Health Services (CAHS) and WA Country Health Service (WACHS).
+-The pilot started in November 2023 and will end in November 2026, with last intake into the pilot at the end of May 2026.
++1 - How Inklings is working with First Nations communities
++2 - Inklings pilot evaluation
++The Inklings WA pilot program ended in November 2026 following a 3-year pilot.
++The program was made available to Western Australian (WA) parents and caregivers of babies and toddlers aged 6 to 18 months who are showing early differences in how they connect and communicate with others.
++The Inklings program aims to support caregivers to understand and respond to their baby’s unique communication cues. This helps babies to learn and develop within a responsive social environment that meets their individual needs.
++The Inklings pilot in WA was funded by a grant from the National Disability Insurance Agency (NDIA) to The Kids Research Institute Australia (The Kids).
++It was delivered in partnership with WA Child and Adolescent Health Services (CAHS) and WA Country Health Service (WACHS).
+ An independent evaluation will assess if Inklings can be delivered at a larger scale. It will also look at how it should be adjusted for different settings.
+ The evaluation will provide insights on program implementation and effectiveness and will support future decisions.
+ Find out more about the Inklings program on the
+ Inklings website
+ .
+-How families can participate in the Inklings WA pilot
+-Families interested in learning more about the pilot or its final stages can speak with their local CAHS or WACHS office or contact Inklings directly for further information.
+-Child and Adolescent Health Service
+-WA Country Health Service - Contact us
+-Inklings - Check My Eligibility
+-How the NDIA will evaluate the Inklings WA pilot
+-The NDIA is evaluating how the Inklings program works in real-world settings using a 3-phase approach.
+-The evaluation is guided by an Evaluation Reference Group including people with disability.
+-Findings will offer insights on how best to support families needing early childhood intervention.
+-The evaluation aims to:
+-evaluate if the Inklings program can be implemented and delivered at scale in real-world settings
+-identify the benefits Inklings can deliver for infants showing signs of social or communication differences, and their caregivers
+-identify lessons and approaches for promoting integration between the NDIS and mainstream health services in early childhood intervention.
+-The NDIA is delivering Phase 1 of the evaluation which will look at:
+-the number of people accessing Inklings in WA
+-how Inklings is delivered using different approaches for example, telehealth
+-the experiences and satisfaction of caregivers, clinicians, and providers with Inklings
+-considerations for delivering Inklings successfully on a larger scale.
+-Following a competitive procurement process La Trobe University was appointed to conduct Phase 2 and 3 of this evaluation. La Trobe University is an independent organisation that is not involved in the delivery of the Inklings program.
+-These phases of the evaluation will assess:
+-whether Inklings delivers better outcomes for children and caregivers compared to other currently available supports
+-how Inklings can work with other early childhood support services to ensure the best outcomes for children and their caregivers.
+-The final evaluation report for the Inklings pilot is planned for release in late 2027.
+ How Inklings is working with First Nations communities
+ As part of the pilot, The Kids consulted with First Nations communities in WA to understand how Inklings can be more culturally safe and accessible.
+ The consultations focused on how Inklings can better support Aboriginal and Torres Strait Islander families in the early years.
+@@ -119,10 +91,38 @@
+ The summary consultation report is available on the
+ Inklings website
+ .
+-How Inklings is working in other locations
+-Inklings is an initiative of The Kids.
+-The NDIA has no direct involvement in Inklings being run elsewhere.
+-The Kids may make independent decisions about the application and operation of Inklings outside of the currently funded pilots.
++Inklings pilot evaluation
++Evaluation approach
++The NDIA is evaluating how the Inklings program works in real-world settings using a 3-phase approach.
++An Evaluation Reference Group, which includes people with disability, guides the evaluation.
++Findings will offer insights on how best to support families needing early childhood intervention.
++The evaluation aims to:
++evaluate if the Inklings program can be implemented and delivered at scale in real-world settings
++identify the benefits Inklings can deliver for infants showing signs of social or communication differences, and their caregivers
++identify lessons and approaches for promoting integration between the NDIS and mainstream health services in early childhood supports.
++The NDIA is delivering Phase 1 of the evaluation which will look at:
++the number of people accessing Inklings in WA
++how Inklings is delivered using different approaches. For example, telehealth
++the experiences and satisfaction of caregivers, clinicians, and providers with Inklings
++considerations for delivering Inklings successfully on a larger scale.
++Following a competitive procurement process, La Trobe University was appointed to conduct Phase 2 and 3 of this evaluation. La Trobe University is an independent organisation that is not involved in the delivery of the Inklings program.
++These phases of the evaluation will assess:
++whether Inklings delivers better outcomes for children and caregivers compared to other currently available supports
++how families access early childhood supports to ensure the best outcomes for children and the barriers and enablers to access support.
++Early insights on the implementation of the Inklings WA Pilot
++The NDIA has completed a progress update on the Phase 1 implementation evaluation. It provides early observations of participants referred to the pilot from 1 October 2023 to 30 November 2024 and who participated in the pilot through to August 2025. Where possible, observations have been extended to include the first 2 full years of the pilot participants. The insights are informed by a range of data sources including:
++an environmental scan of the existing early child support system in WA
++pilot data including program, referral and practitioner data
++surveys of caregivers and practitioners
++interviews with referring clinicians, practitioners, delivery partner management, and The Kids management.
++Some of the early findings include:
++Most referrals (51%) have been by caregivers self-referring to the pilot.
++Overall numbers of commencements are lower than expected.
++Caregivers who have completed Inklings see it as helpful for them and their children.
++Practitioners who have delivered Inklings anticipate positive impacts for participating children and their caregivers, based on their experiences delivering the Inklings pilot.
++Early childhood clinicians consider the Inklings WA Pilot a valuable addition to the early child health service system. Clinicians also noted it is an intensive model that may not suit everyone.
++Having multiple delivery modes, such as in-clinic, tele-health and in-home appears to support participation.
++Final evaluation reporting with findings from Phase 2 and 3 and updated findings from program implementation will be available once complete.
+ Main navigation sidebar
+ Research
+ Research webinars
+@@ -179,7 +179,7 @@
+ Self-management research
+ Support for researchers
+ This page current as of
+-3 June 2026
++23 October 2026
+ Social Menu
+ Facebook
+ (External website)
+```

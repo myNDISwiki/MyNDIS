@@ -353,3 +353,30 @@ No visible wording change; HTML bytes changed.
 SHA-256: `62d24282e04730afda5e34f854bbf98b288f6941ca4cc04d7d171d9547204d43`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-23T21:27:29Z — changed
+
+SHA-256: `cbb92172d6fc1621e3f447595d0d5c3df64cdfb2f4b4751e739effea0ac5caf5`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,8 @@
+ Save page as PDF
+ Page title
+ Updated
++The Inklings WA pilot program
++23 October 2026
+ The NDIS in focus
+ 15 October 2026
+ Specialist Disability Accommodation (SDA) Data
+@@ -79,8 +81,6 @@
+ Intellectual Disability
+ 31 August 2026
+ Other Physical
+-31 August 2026
+-Visual impairment
+ 31 August 2026
+ Social Menu
+ Facebook
+```
