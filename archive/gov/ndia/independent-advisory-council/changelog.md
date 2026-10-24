@@ -637,3 +637,12 @@ Page bytes changed, but no visible-text change was detected.
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-10-24T19:01:50Z — changed
+
+- Previous SHA-256: `3a06cc4119381d61089e4de7fd6efeffb46377db4a7e6b5057aa69aaba06895d`
+- New SHA-256: `b25f880dbd11a135da1f7c80c6760d5def9087c2d58dde62d3e33b1f99ba62bc`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+Page bytes changed, but no visible-text change was detected.
