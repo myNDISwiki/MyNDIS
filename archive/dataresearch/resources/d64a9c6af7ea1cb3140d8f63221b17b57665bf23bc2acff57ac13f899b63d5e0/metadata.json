@@ -1,5 +1,5 @@
 {
-  "bytes": 64058,
+  "bytes": 64059,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/d64a9c6af7ea1cb3140d8f63221b17b57665bf23bc2acff57ac13f899b63d5e0",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/acquired-brain-injury",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-23T21:27:29Z",
+  "last_changed": "2026-10-24T20:48:17Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Facquired-brain-injury",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -177,7 +177,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 23 Oct 2026 08:18:57 GMT"
   },
-  "sha256": "a81521a3027c06651ff5c83dc064c66de2af6f906c3d85ae840005ce7c449eb8",
+  "sha256": "6ab17cdba1e5d21e0ad0d387c3906046e4efd232e1feb3a7283414b2b9f3b2f1",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/acquired-brain-injury"
 }

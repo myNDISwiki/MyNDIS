@@ -1,5 +1,5 @@
 {
-  "bytes": 38390,
+  "bytes": 38389,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/d37f4181444502bb89eaf9ec155063e147669e55dd7dfff1960e0518361d5688",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-23T21:27:29Z",
+  "last_changed": "2026-10-24T20:48:17Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fdata-and-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -114,7 +114,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 23 Oct 2026 05:40:54 GMT"
   },
-  "sha256": "de763524c146e3e59cf297f433c9e741b20c98dda1fbdc67a4128dbd215010b6",
+  "sha256": "3bcd4ee19b2a5a84784f3cb785555e0fd986e35ab14b45b916538396f84c5eb6",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/data-and-research"
 }

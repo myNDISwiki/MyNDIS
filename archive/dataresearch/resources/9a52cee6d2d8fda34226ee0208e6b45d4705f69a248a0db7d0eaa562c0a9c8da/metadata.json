@@ -1,5 +1,5 @@
 {
-  "bytes": 98931,
+  "bytes": 98930,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/9a52cee6d2d8fda34226ee0208e6b45d4705f69a248a0db7d0eaa562c0a9c8da",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-wa",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-23T21:27:29Z",
+  "last_changed": "2026-10-24T20:48:17Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-wa",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -277,7 +277,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 23 Oct 2026 11:35:54 GMT"
   },
-  "sha256": "104c9310535e59bc32b903356cd5932590b53b4fa4163cbfe8c89042f33296eb",
+  "sha256": "8df2582158398640adb52213ce35d6b61bcb06b8092e6713a7885cfcb4e0eeb8",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-wa"
 }
