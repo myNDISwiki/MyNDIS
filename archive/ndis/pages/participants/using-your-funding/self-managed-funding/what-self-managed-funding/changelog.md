@@ -404,3 +404,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You won’t be able to self-manage any of your funding if:
  you're currently an insolvent under administration
 ```
+
+## 2026-10-24T18:50:28Z — changed
+
+- Previous SHA-256: `3f6dc7ef037297bb7d9ce1f08c2f6ff9b727336c618caf4fed272701da84158a`
+- New SHA-256: `b1ff0b18ccf1bc3aaf74208e62159251d7f1bb88214f8485bc8dfe37eba490bb`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

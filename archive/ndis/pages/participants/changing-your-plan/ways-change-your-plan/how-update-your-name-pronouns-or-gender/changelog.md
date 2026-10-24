@@ -395,3 +395,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You can send your completed form (and evidence if you need to provide it) to us in the way that suits you best.
  Use our service hub
 ```
+
+## 2026-10-24T18:50:28Z — changed
+
+- Previous SHA-256: `7944b406f861affa3ea206f27a78f5321dd2fdd3833b60c30cc5be9599543860`
+- New SHA-256: `236ccc8f57ba18847ad538dc4809fbf1ec921e703d9621b1261473c9e5738ca7`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

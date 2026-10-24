@@ -1414,3 +1414,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Early Childhood partner, Glen Waverley, 3150
 +23 October 2026
 ```
+
+## 2026-10-24T18:50:28Z — changed
+
+- Previous SHA-256: `1dc1a787ff8f83d87b8267b324810fa4fe06745fcff7fcccbc216076981117ea`
+- New SHA-256: `b719b203b914707159f3614a342716d50702f6d1beedb70421b19f07fc0326e3`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,8 +5,6 @@
+ Save page as PDF
+ Page title
+ Updated
+-Early Childhood partner, Rhodes, 2138
+-23 October 2026
+ Local Area Coordinator (LAC) partner, Sale, 3850
+ 23 October 2026
+ How to update your name, pronouns or gender
+@@ -25,3 +23,5 @@
+ 23 October 2026
+ Early Childhood partner, Glen Waverley, 3150
+ 23 October 2026
++Local Area Coordinator (LAC) partner, Kadina, 5554
++23 October 2026
+```
