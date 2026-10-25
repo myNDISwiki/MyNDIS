@@ -1,5 +1,8 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-24T21:43:31Z
+Checked: 2026-10-25T06:16:01Z
 
-No page changes detected in this run.
+## MODIFIED
+
+- https://www.vic.gov.au/children-additional-needs-early-childhood
+
