@@ -3832,3 +3832,4 @@ timestamp,event,url,sha256_before,sha256_after
 2026-10-24T19:04:11Z,vic-gov,MODIFIED,archive/gov/vic-gov/pages/early-childhood-update-july-2026/current.html,b4b7bd9b0a0d8fc9bf5e721855fbcf275332f9f582e3ce3a7532d72d456adf49,bf4c25907707cd85c0604c542125b1477c2e349d6331f031b714010c75e1fde0
 2026-10-24T19:04:11Z,vic-gov,MODIFIED,archive/gov/vic-gov/pages/early-childhood-update/current.html,f59f7bfacfa18e2da40ab7e12322439f85b5b600e9d5f7de13c1533163dc8405,bf0d0b09504ecb723544b4e433c1e4a31e55eb5c33bbb76a3ff0b7f1027f03ab
 2026-10-25T06:16:01Z,MODIFIED,https://www.vic.gov.au/children-additional-needs-early-childhood,39291d28bcacb22aafaf2c804b67d15c3389755f04a800b22955aede37cae484,413d413f9a48848881f3f82e3f769ec5f6c445ffd2b393966ac767c2097571f1
+2026-10-25T12:38:42Z,MODIFIED,https://www.vic.gov.au/children-additional-needs-early-childhood,413d413f9a48848881f3f82e3f769ec5f6c445ffd2b393966ac767c2097571f1,39291d28bcacb22aafaf2c804b67d15c3389755f04a800b22955aede37cae484
