@@ -1,8 +1,8 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-25T12:38:42Z
+Checked: 2026-10-25T17:06:24Z
 
 ## MODIFIED
 
-- https://www.vic.gov.au/children-additional-needs-early-childhood
+- https://www.vic.gov.au/career-opportunities-early-childhood-education-vietnamese
 
