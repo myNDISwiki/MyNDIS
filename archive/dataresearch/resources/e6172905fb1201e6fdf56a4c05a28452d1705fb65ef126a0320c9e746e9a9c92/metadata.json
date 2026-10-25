@@ -1,5 +1,5 @@
 {
-  "bytes": 63714,
+  "bytes": 63711,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e6172905fb1201e6fdf56a4c05a28452d1705fb65ef126a0320c9e746e9a9c92",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/stroke",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-24T20:48:17Z",
+  "last_changed": "2026-10-25T20:52:14Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fstroke",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -178,7 +178,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 23 Oct 2026 13:11:58 GMT"
   },
-  "sha256": "5155f9b67d01b3f03ccef6bb3e77ed08bcc548e9c9501ca1b5ad61f1ce09fe9c",
+  "sha256": "c1b1958353cceacec07ad8cc2b9348d3e8545687a67509f78bb591d3c32223ca",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/stroke"
 }

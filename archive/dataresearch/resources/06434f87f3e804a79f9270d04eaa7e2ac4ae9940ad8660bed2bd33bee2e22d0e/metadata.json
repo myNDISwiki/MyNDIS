@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4027",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-10-24T20:48:17Z",
+  "last_changed": "2026-10-25T20:52:14Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"TEACCH interventions.pdf\""
   },
-  "sha256": "9b1a2e8ae84240808a8f97db080670093d5088c263dc17d8b8fae8b2f7bc2df9",
+  "sha256": "3891a16813d81c17f446ff22f9373ea9c8a10e4c9f4b8756d38c341b92e0d90a",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4027"
 }
