@@ -1,8 +1,6 @@
-# Victorian Government latest changes
-
-Checked: 2026-10-25T17:06:24Z
+# vic-gov latest archive changes
 
 ## MODIFIED
 
-- https://www.vic.gov.au/career-opportunities-early-childhood-education-vietnamese
+- `archive/gov/vic-gov/pages/career-opportunities-early-childhood-education-vietnamese/current.html`
 
