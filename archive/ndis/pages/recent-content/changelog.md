@@ -1472,3 +1472,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 -Local Area Coordinator (LAC) partner, Kadina, 5554
 -23 October 2026
 ```
+
+## 2026-10-26T21:04:59Z — changed
+
+- Previous SHA-256: `1dc1a787ff8f83d87b8267b324810fa4fe06745fcff7fcccbc216076981117ea`
+- New SHA-256: `e2498fef395137fca4f00ef5fa8c2e43b0899ee794ccba75689f1fac288c77c8`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Early Childhood partner, Rhodes, 2138
+-23 October 2026
+-Local Area Coordinator (LAC) partner, Sale, 3850
+-23 October 2026
+-How to update your name, pronouns or gender
+-23 October 2026
+-How to give consent
+-23 October 2026
+-Local Area Coordinator (LAC) partner, Moe, 3825
+-23 October 2026
+-Provider finder
+-23 October 2026
+-Early Childhood partner, Emerald, 4720
+-23 October 2026
+-Local Area Coordinator (LAC) partner, Mile End, 5031
+-23 October 2026
+-Local Area Coordinator (LAC) partner, Campbelltown, 5074
+-23 October 2026
+-Early Childhood partner, Glen Waverley, 3150
+-23 October 2026
++Early Childhood partner, Albury, 2640
++26 October 2026
++Local Area Coordinator (LAC) partner, Windsor, 2756
++26 October 2026
++Local Area Coordinator (LAC) partner, Wollongong, 2500
++26 October 2026
++Local Area Coordinator (LAC) partner, Tweed Heads South, 2486
++26 October 2026
++Early Childhood partner, Taree, 2430
++26 October 2026
++Early Childhood partner, Grafton, 2460
++26 October 2026
++Local Area Coordinator (LAC) partner, Murray Bridge, 5253
++26 October 2026
++Local Area Coordinator (LAC) partner, Mirrabooka, 6061
++26 October 2026
++NDIS laws
++26 October 2026
++Early Childhood partner, Devonport, 7310
++26 October 2026
+```

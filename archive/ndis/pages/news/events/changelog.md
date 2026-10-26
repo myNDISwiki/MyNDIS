@@ -1487,3 +1487,56 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-26T21:04:59Z — changed
+
+- Previous SHA-256: `fa67f830aa0c29e3389936f59a2aef736214402cd283f2cca00a89cfbf58e8a1`
+- New SHA-256: `2164547f106dda6149ebd284de4b6196f7f973d4b0f542c2b73d5a0a80b05493`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,7 +14,7 @@
+ Community Engagement
+ (15)
+ Provider Engagement
+-(3)
++(2)
+ No states available
+ Event date
+ December 2026
+@@ -22,15 +22,9 @@
+ November 2026
+ (9)
+ October 2026
+-(6)
++(5)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for supported independent living (SIL) providers
+-On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
+-Event Date
+-Friday, 23 October 2026
+ Category
+ Community Engagement
+ Understanding the NDIS webinar: Pathways to post school life
+@@ -61,6 +55,12 @@
+ The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
+ Event Date
+ Thursday, 29 October 2026
++Category
++Community Engagement
++Changes to NDIS support budgets - an overview for community and participants
++The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
++Event Date
++Tuesday, 3 November 2026
+ Pagination
+ 1
+ 2
+```
