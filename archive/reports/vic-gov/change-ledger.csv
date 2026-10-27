@@ -3875,3 +3875,4 @@ timestamp,event,url,sha256_before,sha256_after
 2026-10-27T06:25:01Z,MODIFIED,https://www.vic.gov.au/early-childhood-literacy-teaching-toolkit-explained,f31027664be0d5be84fb0216922705bf07df5c62e5e68ce8543a121f48e9a76f,2f24c8af0f8f6b46513e0c1ea865a069537393eb5c28897fe2b334d6ca889301
 2026-10-27T06:25:01Z,MODIFIED,https://www.vic.gov.au/early-childhood-provisionally-registered-teacher-prt-grants-program,275807f837db4aa620f02a61ccf7a5a0efa00d84573988638752116b723d2a56,821054f3514f121f0186a57bd095b4d8653587d85e58d56379ac7a3380f05d3e
 2026-10-27T06:25:01Z,MODIFIED,https://www.vic.gov.au/early-childhood-school-additional-needs,320afc6e3ccb1b372b13086a99b641bd50a73ccc9b6c7834fb40acb28f54ae8e,204ad05ff44365ece32a94bc0c8fa1601e47130121e99c0cc8dae0e06d355e44
+2026-10-27T13:22:01Z,MODIFIED,https://www.vic.gov.au/early-childhood-education-care,42540198476d2a9a7554fea5d00bf7fda850d45dfab3c8e387c39aa1ec71da60,c05456affd9a6599f0ca36133ff574714e76c28356e9c1b7ba3a8c734bb53690
