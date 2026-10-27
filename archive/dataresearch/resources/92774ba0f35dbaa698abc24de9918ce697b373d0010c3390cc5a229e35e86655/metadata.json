@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/down-syndrome",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-26T22:43:31Z",
+  "last_changed": "2026-10-27T22:15:18Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fdown-syndrome",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -176,9 +176,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 23 Oct 2026 05:57:19 GMT"
+    "Last-Modified": "Tue, 27 Oct 2026 18:10:23 GMT"
   },
-  "sha256": "cb3ef48c4f9006814564964fecc028305e2487773425ca536d573bb1d1f1c92e",
+  "sha256": "4c236eaab160635b31fe090a4d63491955a039bdb4b7a3acf7f52d8b28d724fd",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/down-syndrome"
 }

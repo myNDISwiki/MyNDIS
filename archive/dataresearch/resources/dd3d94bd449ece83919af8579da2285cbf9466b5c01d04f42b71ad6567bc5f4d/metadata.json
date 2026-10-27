@@ -1,5 +1,5 @@
 {
-  "bytes": 58562,
+  "bytes": 58557,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/dd3d94bd449ece83919af8579da2285cbf9466b5c01d04f42b71ad6567bc5f4d",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/impact-covid-19-ndis-allied-healthcare-services-and-consumer-experiences-transitioning-telehealth",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-26T22:43:31Z",
+  "last_changed": "2026-10-27T22:15:18Z",
   "links": [
     "http://www.chesm-ndis-study.com/",
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fimpact-covid-19-ndis-allied-healthcare-services-and-consumer-experiences-transitioning-telehealth",
@@ -145,9 +145,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 23 Oct 2026 06:39:28 GMT"
+    "Last-Modified": "Tue, 27 Oct 2026 08:06:27 GMT"
   },
-  "sha256": "10bec984a15e5eb01ddc6981f44055537d353a7a338719f1f86fb03d1e0c6a94",
+  "sha256": "098c18f079a8bf82e531e9e6386fc9115c0d7170ad94397f1a2773785818e811",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/impact-covid-19-ndis-allied-healthcare-services-and-consumer-experiences-transitioning-telehealth"
 }
