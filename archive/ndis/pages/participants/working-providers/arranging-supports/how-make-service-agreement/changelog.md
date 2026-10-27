@@ -571,3 +571,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-27T20:45:21Z — changed
+
+- Previous SHA-256: `6e55d79ffa424b1a09b596e77af34623f78553425461ec6e1b4c7521c8485708`
+- New SHA-256: `3b68aaeb55fae1672c26ab739640dbc1c1aee7baea8b7cd54c95b7635cd9e1de`
+- Visible text lines added: 0
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -81,7 +81,6 @@
+ You should understand important details once your service agreement starts, including:
+ that your agreement can change if your needs change
+ how to end your agreement and the notice you need to provide
+-making sure the end date is not later than your plan reassessment date.
+ Small changes
+ You can include small changes in documents, such as a variation. These are extra documents that can be added to the original service agreement to outlines the changes.
+ Big changes
+```

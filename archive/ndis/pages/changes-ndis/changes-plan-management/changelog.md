@@ -295,3 +295,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-27T20:45:21Z — changed
+
+- Previous SHA-256: `16ad8c2c97b96543affc33fb9e82ac53db96b5e53710986e4726ae3f35fd90e8`
+- New SHA-256: `260699b6c40f49f534950152811ab87d82233ca4289018a3d224ee7a43929794`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,8 +27,10 @@
+ How we’ll make the changes
+ This timeline explains when the changes will happen:
+ 2026
+-From October
+ We’ll explain the expected changes to plan management, including how the changes may affect participants, plan management businesses and other providers.
++We’ll ask plan managers for feedback through a request for information (RFI), which will be published on the
++NDIS Engage
++website. The RFI will seek feedback on the design and implementation of the plan management panel. We’ll use this feedback to help inform the approach to market and support plan managers and participants through the change.
+ 2027
+ From April
+ We’ll publish an approach to market for the plan management panel on the
+```

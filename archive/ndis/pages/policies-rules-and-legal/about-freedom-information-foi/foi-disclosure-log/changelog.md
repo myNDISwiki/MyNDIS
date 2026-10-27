@@ -1379,3 +1379,50 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-27T20:45:21Z — changed
+
+- Previous SHA-256: `5d0ceb437222cd476c7e0732cdfc08e76f3abaf9bbdfa52bda138c6b1c31333e`
+- New SHA-256: `4aece76a19dfcf7c95b5ea78f9af5b19f5f25b685c5185485d86b249fff6f587`
+- Visible text lines added: 14
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -49,6 +49,12 @@
+ Indexation Policy Position – dated March 2026
+ NDIA Policy Committee meeting – dated 14 April 2026
+ DRAFT - Annual Indexation Changes FY2020-21 – dated 17 June 2020
++FOI 26/27-0738
++8/10/2026
++Aggregated payment data for NDIS support item 05_221315811_0124_1_2 (Communication AT - Face to Face Electronic Devices) for the period 1 July 2025 to 30 June 2026, including the number of claims, total value paid and number of participants, with results also provided by specified claim-value bands.
++FOI 26/27-0738 (PDF 133KB)
++1 document was released in full:
++1. S17 – Data – Summary Statistics for Support Item Communication AT – Face to Face Electronic Devices Between 1 July 2025 and 30 June 2026
+ FOI 26/27-0494
+ 6/10/2026
+ From February 2026 to July 2026, documents issued as emails, criteria draft and checklist regarding Administrative Review Tribunal appeals
+@@ -67,6 +73,13 @@
+ RE_ ABC story about NDIS appeals – dated 27 July 2026
+ Criteria to treat decision as favourable – draft – dated February 2026
+ Post ART decision checklist for adverse substantive ART decisions
++FOI 25/26-2830
++23/09/2026
++Total number of convictions in relation to fraud by financial year (based on the date the conviction was recorded).
++Total number of plans based on active participants and distribution of plans by percent.
++FOI 25/26-2830 (PDF 157KB)
++1 document was released in full:
++1. S17 – Data – Convictions in Relation to Fraud & Total Number of Plans Based on Active Participants
+ FOI 26/27-0684
+ 18/09/2026
+ 30 June 2026, document issued as revocation data for the last four quarters in 2025/26
+@@ -9102,4 +9115,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-19 October 2026
++27 October 2026
+```
