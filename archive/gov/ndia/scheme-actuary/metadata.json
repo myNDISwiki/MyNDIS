@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-26T21:12:52Z",
+  "checked_at": "2026-10-27T20:59:37Z",
   "id": "ndia-scheme-actuary",
-  "sha256": "e06522688efc693820d19433c0abb49d2587d0cb1de43f0150477ebb09a9eea9",
+  "sha256": "5564abd022989a2fb318d0c4499ea18a599e2960378287ce6c6f9425c4a8dd64",
   "snapshot_note": "SHA-256 is calculated before credential redaction.",
   "snapshot_redactions": [],
   "title": "National Disability Insurance Scheme Actuary",
