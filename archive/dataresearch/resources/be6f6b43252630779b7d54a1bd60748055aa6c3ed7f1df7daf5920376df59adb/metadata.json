@@ -1,5 +1,5 @@
 {
-  "bytes": 36553,
+  "bytes": 36592,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/be6f6b43252630779b7d54a1bd60748055aa6c3ed7f1df7daf5920376df59adb",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/recent-content",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-27T22:15:18Z",
+  "last_changed": "2026-10-28T22:37:08Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Frecent-content",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -65,8 +65,6 @@
     "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards",
     "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/developmental-delay",
     "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/hearing-impairment",
-    "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/intellectual-disability",
-    "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/other-physical",
     "https://dataresearch.ndis.gov.au/reports-and-analyses/previous-annual-financial-sustainability-reports",
     "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements",
     "https://dataresearch.ndis.gov.au/reports-and-analyses/specialist-disability-accommodation-sda-data",
@@ -78,6 +76,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods",
+    "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/justice-advisory-panel-advice",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
@@ -111,9 +110,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 27 Oct 2026 05:17:28 GMT"
+    "Last-Modified": "Wed, 28 Oct 2026 22:43:29 GMT"
   },
-  "sha256": "3eb302d187940de0a4cbd5b2dd6de556cd224d8a8e0204c4ca0c627385b5ac7b",
+  "sha256": "bcae280c8ec021cd3ed01fa6e0b647e026c88a84e3f96018b8ac8a07019c409b",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/recent-content"
 }

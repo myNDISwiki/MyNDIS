@@ -1,5 +1,5 @@
 {
-  "bytes": 128875,
+  "bytes": 128877,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/0f57a3adb87dba6bea70e14f86536a2f74c35d2617d44c2e6ccab47e1db40e69",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-27T22:15:18Z",
+  "last_changed": "2026-10-28T22:37:08Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fquarterly-report-supplements",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -372,9 +372,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 27 Oct 2026 04:50:17 GMT"
+    "Last-Modified": "Wed, 28 Oct 2026 21:42:08 GMT"
   },
-  "sha256": "559ef34f16407024aa016aefedd085050822c1b7dbf41f701434aa9c8d3fbaa3",
+  "sha256": "c17f445262865c242aa570bbb7738217e52acf603f6c3b052fcbd80eaf5a385f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements"
 }

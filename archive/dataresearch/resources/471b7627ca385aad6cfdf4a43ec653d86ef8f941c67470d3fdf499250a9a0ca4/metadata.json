@@ -1,0 +1,22 @@
+{
+  "bytes": 473769,
+  "content_type": "application/pdf",
+  "directory": "resources/471b7627ca385aad6cfdf4a43ec653d86ef8f941c67470d3fdf499250a9a0ca4",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4607/download?attachment=",
+  "first_seen": "2026-10-28T22:37:08Z",
+  "kind": "file",
+  "last_changed": "2026-10-28T22:37:08Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIA Justice Advisory Panel Advice _ Youth Justice.pdf\"; filename*=utf-8''NDIA%20Justice%20Advisory%20Panel%20Advice%20%E2%80%93%20Youth%20Justice.pdf",
+    "ETag": "\"1793144719:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Tue, 27 Oct 2026 23:45:18 GMT"
+  },
+  "sha256": "2491cab380c3bb5c85c1b0d618ba6930be1a839fabb2aa477e5d89c131041fd1",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4607/download?attachment="
+}

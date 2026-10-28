@@ -1,5 +1,5 @@
 {
-  "bytes": 63713,
+  "bytes": 63711,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e6172905fb1201e6fdf56a4c05a28452d1705fb65ef126a0320c9e746e9a9c92",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/stroke",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-27T22:15:18Z",
+  "last_changed": "2026-10-28T22:37:08Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fstroke",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -176,9 +176,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 27 Oct 2026 06:59:54 GMT"
+    "Last-Modified": "Wed, 28 Oct 2026 23:26:36 GMT"
   },
-  "sha256": "7ea72070682d9445660b47b08deb482c4653755200f446b7362881e4692a33cc",
+  "sha256": "1910c9b98804186023e98a28a4a287d8735a10e82ce28291abc42fbc0c6f55e9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/stroke"
 }

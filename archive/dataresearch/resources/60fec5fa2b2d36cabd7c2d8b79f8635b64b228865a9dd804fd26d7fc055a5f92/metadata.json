@@ -1,0 +1,22 @@
+{
+  "bytes": 625275,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/60fec5fa2b2d36cabd7c2d8b79f8635b64b228865a9dd804fd26d7fc055a5f92",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4603/download?attachment=",
+  "first_seen": "2026-10-28T22:37:08Z",
+  "kind": "file",
+  "last_changed": "2026-10-28T22:37:08Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIA Justice Advisory Panel Advice _ Education and Engagement.docx\"; filename*=utf-8''NDIA%20Justice%20Advisory%20Panel%20Advice%20%E2%80%93%20Education%20and%20Engagement.docx",
+    "ETag": "\"1793144707:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Tue, 27 Oct 2026 23:45:06 GMT"
+  },
+  "sha256": "c9abcbe7b19539b7446c36dc58f29a8fbb28ac281d27ed11d638a30382d03a30",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4603/download?attachment="
+}

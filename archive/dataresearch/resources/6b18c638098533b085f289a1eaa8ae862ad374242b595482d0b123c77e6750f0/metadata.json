@@ -1,0 +1,22 @@
+{
+  "bytes": 598861,
+  "content_type": "application/pdf",
+  "directory": "resources/6b18c638098533b085f289a1eaa8ae862ad374242b595482d0b123c77e6750f0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4605/download?attachment=",
+  "first_seen": "2026-10-28T22:37:08Z",
+  "kind": "file",
+  "last_changed": "2026-10-28T22:37:08Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIA Justice Advisory Panel Advice _ Providers and Markets Advice.pdf\"; filename*=utf-8''NDIA%20Justice%20Advisory%20Panel%20Advice%20%E2%80%93%20Providers%20and%20Markets%20Advice.pdf",
+    "ETag": "\"1793144714:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Tue, 27 Oct 2026 23:45:13 GMT"
+  },
+  "sha256": "cb3032ac4aaf06ee54c1eecc480946c3d3bd3d6c7f3681ed287b6cd02b04a5d9",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4605/download?attachment="
+}

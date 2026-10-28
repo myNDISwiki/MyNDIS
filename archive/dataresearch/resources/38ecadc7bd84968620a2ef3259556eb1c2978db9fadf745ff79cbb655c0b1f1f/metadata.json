@@ -1,5 +1,5 @@
 {
-  "bytes": 63029,
+  "bytes": 63028,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/38ecadc7bd84968620a2ef3259556eb1c2978db9fadf745ff79cbb655c0b1f1f",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-27T22:15:18Z",
+  "last_changed": "2026-10-28T22:37:08Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -165,9 +165,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 27 Oct 2026 04:56:42 GMT"
+    "Last-Modified": "Wed, 28 Oct 2026 22:07:47 GMT"
   },
-  "sha256": "00345b6fe9f32b4b287a5ca4de13293a49f0cd673364098ce75a88756c054134",
+  "sha256": "fe61e15c1990cfa01d9bdb3dac89577f11b2ba81ec2333f86a88f44b25c14de7",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals"
 }

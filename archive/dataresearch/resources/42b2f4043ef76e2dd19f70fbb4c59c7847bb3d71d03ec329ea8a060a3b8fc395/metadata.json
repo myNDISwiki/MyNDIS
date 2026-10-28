@@ -1,0 +1,22 @@
+{
+  "bytes": 595880,
+  "content_type": "application/pdf",
+  "directory": "resources/42b2f4043ef76e2dd19f70fbb4c59c7847bb3d71d03ec329ea8a060a3b8fc395",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4601/download?attachment=",
+  "first_seen": "2026-10-28T22:37:08Z",
+  "kind": "file",
+  "last_changed": "2026-10-28T22:37:08Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"NDIA Justice Advisory Panel Advice _ Information and Data Sharing.pdf\"; filename*=utf-8''NDIA%20Justice%20Advisory%20Panel%20Advice%20%E2%80%93%20Information%20and%20Data%20Sharing.pdf",
+    "ETag": "\"1793144701:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Tue, 27 Oct 2026 23:45:00 GMT"
+  },
+  "sha256": "ac422baf01f9f6b370dd154477d5956e1c107f24009239e29a626acc441a42e5",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4601/download?attachment="
+}

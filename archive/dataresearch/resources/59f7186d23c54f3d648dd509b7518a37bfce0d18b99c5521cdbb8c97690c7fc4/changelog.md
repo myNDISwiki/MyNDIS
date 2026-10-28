@@ -275,3 +275,20 @@ No visible wording change; HTML bytes changed.
 SHA-256: `8e7a023b1e465838cb76d1cc4470a3f46bc0a5f28ab96b62420b24ae743e235b`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-28T22:37:08Z — changed
+
+SHA-256: `a3e655084ecd1d5baf6a0d9d91ac5e56f38bfa123d10cdef5b9cf173f62fdc87`
+
+```diff
+--- before
++++ after
+@@ -372,6 +372,7 @@
+ Evidence that helps us improve the NDIS
+ Expand or collapse sub-menu for Evidence that helps us improve the NDIS
+ Evaluation of NDIS supports lists and shorter funding periods
++Justice Advisory Panel advice
+ Examining the links between disability support, risk and release from custody: Desktop review summary
+ Measure of wellbeing for people with disability
+ Support coordination and LAC models to best implement plans
+```

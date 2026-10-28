@@ -404,3 +404,34 @@ No visible wording change; HTML bytes changed.
 SHA-256: `3eb302d187940de0a4cbd5b2dd6de556cd224d8a8e0204c4ca0c627385b5ac7b`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-28T22:37:08Z — changed
+
+SHA-256: `bcae280c8ec021cd3ed01fa6e0b647e026c88a84e3f96018b8ac8a07019c409b`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,10 @@
+ Save page as PDF
+ Page title
+ Updated
++Justice Advisory Panel advice
++29 October 2026
++Evidence that helps us improve the NDIS
++29 October 2026
+ The Inklings WA pilot program
+ 23 October 2026
+ The NDIS in focus
+@@ -77,10 +81,6 @@
+ Developmental Delay
+ 31 August 2026
+ Hearing Impairment
+-31 August 2026
+-Intellectual Disability
+-31 August 2026
+-Other Physical
+ 31 August 2026
+ Social Menu
+ Facebook
+```

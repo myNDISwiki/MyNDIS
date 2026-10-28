@@ -275,3 +275,40 @@ No visible wording change; HTML bytes changed.
 SHA-256: `82cd61327ec6d035e7bb09a59512b3cb1bff54848e449e76e27dd3d6d3dce3cd`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-28T22:37:08Z — changed
+
+SHA-256: `c6af131622d4e4b0536d71ba2f5c0f297ebd371b5836ceaa26d913931893a80a`
+
+```diff
+--- before
++++ after
+@@ -65,6 +65,10 @@
+ Research and evaluation contributes to the discovery of new ways of working and innovation to improve the lives of people with disability.
+ This enables the NDIS to be effective, now and into the future.
+ Completed NDIA research in this area
++Justice Advisory Panel advice
++The Justice Advisory Panel provided the NDIA with advice about policy and systemic issues affecting people with disability interacting with the justice system.
++Together, the 4 advice papers highlight practical actions to improve outcomes.
++Find out more
+ NDIS reform evaluation Summary reports
+ We’re looking at how the new NDIS supports lists, funding amounts, funding periods and funding components are working. These reports will:
+ show what is working well
+@@ -132,6 +136,7 @@
+ Evidence that helps us improve the NDIS
+ Expand or collapse sub-menu for Evidence that helps us improve the NDIS
+ Evaluation of NDIS supports lists and shorter funding periods
++Justice Advisory Panel advice
+ Examining the links between disability support, risk and release from custody: Desktop review summary
+ Measure of wellbeing for people with disability
+ Support coordination and LAC models to best implement plans
+@@ -143,7 +148,7 @@
+ Self-management research
+ Support for researchers
+ This page current as of
+-14 May 2026
++29 October 2026
+ Social Menu
+ Facebook
+ (External website)
+```

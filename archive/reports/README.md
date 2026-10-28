@@ -1,10 +1,10 @@
 # Tracking dashboard
 
-Generated: 2026-10-28T21:30:50Z
+Generated: 2026-10-28T23:29:14Z
 
 | Tracker | Status | Last checked | Pages | New | Modified | Removed | Registry | Latest |
 |---|---:|---:|---:|---:|---:|---:|---|---|
-| NDIS data and research | partial | 2026-10-27T22:15:18Z | 129 | 0 | 249 | 0 | [open](../dataresearch/manifest.json) | [open](../dataresearch/latest-run.json) |
+| NDIS data and research | partial | 2026-10-28T22:37:08Z | 130 | 10 | 249 | 0 | [open](../dataresearch/manifest.json) | [open](../dataresearch/latest-run.json) |
 | NDIS website | active | — | 0 | 0 | 0 | 0 | [open](../ndis/manifest.json) | [open](../ndis/changes/) |
 | Health.gov.au NDIS material | partial | 2026-10-11T20:58:25Z | 86 | 0 | 6 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
 | Victorian Government reforms | complete | 2026-10-28T14:07:39Z | 250 | 0 | 49 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
