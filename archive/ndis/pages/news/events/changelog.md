@@ -1549,3 +1549,71 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `e31e82a4ab689cf2bb5e79680151be36d8115e88c7176725116b2ea6f60b680c`
+- New SHA-256: `9ffb416807fbc7ae59e4ea03b4816ab6eb232cf5a107c807f2a02b110802da15`
+- Visible text lines added: 15
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,9 +12,9 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(15)
++(14)
+ Provider Engagement
+-(2)
++(1)
+ No states available
+ Event date
+ December 2026
+@@ -22,21 +22,9 @@
+ November 2026
+ (9)
+ October 2026
+-(5)
++(3)
+ Search
+ Search
+-Category
+-Community Engagement
+-Understanding the NDIS webinar: Pathways to post school life
+-When an NDIS participant leaves school, there are a range of pathways and supports that can help them transition smoothly into employment and adult life.
+-Event Date
+-Tuesday, 27 October 2026
+-Category
+-Provider Engagement
+-Changes to NDIS support budgets - an overview for support coordinators
+-On 27 August 2026, the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026 came into effect.
+-Event Date
+-Tuesday, 27 October 2026
+ Category
+ Community Engagement
+ An overview of changes to the NDIS laws
+@@ -61,6 +49,18 @@
+ The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
+ Event Date
+ Tuesday, 3 November 2026
++Category
++Community Engagement
++An overview of changes to the NDIS laws
++The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
++Event Date
++Wednesday, 4 November 2026
++Category
++Community Engagement
++Understanding the NDIS webinar - Applying to the NDIS: Access and eligibility
++Applying to the NDIS means taking steps to find out if you can become a participant and start receiving supports under the scheme.
++Event Date
++Tuesday, 10 November 2026
+ Pagination
+ 1
+ 2
+```

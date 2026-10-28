@@ -588,3 +588,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `1153942954dd1e95d10d3fe5335ff6d4f47ca4187ec1a5851e75ad3239ed0a1a`
+- New SHA-256: `32c13ff5be94a1346a5365f8e35cbfb1061b65019b6d55eb448a6afb98177588`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -187,6 +187,7 @@
+ How to serve court orders
+ Senate Order 12 for Indexed List of Departmental or Agency Files
+ Senate Order 13 for Entity Contracts
++Actuarial model for compensation
+ Using our websites and social media
+ Expand or collapse sub-menu for Using our websites and social media
+ Privacy
+```

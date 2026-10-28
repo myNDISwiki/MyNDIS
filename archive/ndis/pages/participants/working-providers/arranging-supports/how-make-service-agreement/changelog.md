@@ -593,3 +593,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  You can include small changes in documents, such as a variation. These are extra documents that can be added to the original service agreement to outlines the changes.
  Big changes
 ```
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `3b68aaeb55fae1672c26ab739640dbc1c1aee7baea8b7cd54c95b7635cd9e1de`
+- New SHA-256: `071126f56ff911f132110130119d3f6af6c6431421b6678ea9078899d4813fef`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -80,7 +80,7 @@
+ Changing or ending your service agreement
+ You should understand important details once your service agreement starts, including:
+ that your agreement can change if your needs change
+-how to end your agreement and the notice you need to provide
++how to end your agreement and the notice you need to provide.
+ Small changes
+ You can include small changes in documents, such as a variation. These are extra documents that can be added to the original service agreement to outlines the changes.
+ Big changes
+```

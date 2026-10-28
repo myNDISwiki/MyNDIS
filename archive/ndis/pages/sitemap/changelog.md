@@ -477,3 +477,33 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `88f6b7810216e824939dae345f869ad0363b2a66251ca69939aa5341df959fc2`
+- New SHA-256: `f54504a8ef133a7c72297b6aeaf98c8965aa0f5d7d3bd5230ddb92cd057df0f6`
+- Visible text lines added: 2
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -247,6 +247,7 @@
+ For providers
+ New way of planning
+ Annual Report
++Annual Report 2024-25
+ Annual Report 2023-24
+ Annual Report 2022-23
+ Annual Report 2021-22
+@@ -474,6 +475,7 @@
+ How to serve court orders
+ Senate Order 12 for Indexed List of Departmental or Agency Files
+ Senate Order 13 for Entity Contracts
++Actuarial model for compensation
+ Reporting fraud
+ How to report fraud
+ Fraud reporting form
+```

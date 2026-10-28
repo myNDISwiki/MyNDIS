@@ -381,3 +381,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `21afe36efba11c15730be04b064e12c7c4b3d2e4b332dcc56fbdb16c8f4a7c0b`
+- New SHA-256: `dab1358ed7208a8512f6a58aeedff63232ea1d40e41d435d2b607fa0fa6a071a`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -159,6 +159,7 @@
+ Publications
+ Annual Report
+ Expand or collapse sub-menu for Annual Report
++Annual Report 2024-25
+ Annual Report 2023-24
+ Annual Report 2022-23
+ Annual Report 2021-22
+```

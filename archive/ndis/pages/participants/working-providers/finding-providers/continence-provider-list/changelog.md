@@ -618,3 +618,1242 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `2f949249039130b1008ffa5f89f41af505a8c6964bba4f0c462e52e701e34ae3`
+- New SHA-256: `af97412290b5715c453f35d89632e7b34e5875dcd566158d322d31b76a76b305`
+- Visible text lines added: 554
+- Visible text lines removed: 605
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -37,6 +37,327 @@
+ The NDIA doesn’t accept liability for any claims or losses arising directly or indirectly from services provided by third-party platform providers.
+ The NDIS is not responsible for providing accessible content on third-party sites.
+ Providers
++Atlas McNeil Healthcare
++amhcommunity.com.au
++Provider Registration Number: 4050007260.
++ABN: 70097973290.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++subscription.
++Delivery
++Australia wide.
++See website for further delivery information and timeframes.
++Additional information
++Continence, urology, skincare, bedding protection, washables, odour and stain removal, bed wetting alarms, continence support and product support.
++BedGuard
++bedguard.com.au/shop/
++Provider Registration Number: 4050011906.
++ABN: 38124024620.
++Products
++bed/chair/floor protection.
++Order methods available
++online
++phone
++email.
++Delivery
++Australia wide.
++metro: 5 business days
++regional: 7 business days
++remote: 10 business days.
++See website for further delivery information.
++Additional information
++Selection per participant weight.
++Medical Store
++medicalstore.com.au
++Provider Registration Number: 4050102286.
++ABN: 63095196562.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++subscription
++mail out.
++Delivery
++Australia wide.
++metro: 1-7 days
++regional: 2-7 days
++remote: 2-10 days.
++See website for further delivery information.
++Additional information
++Medical Store provides phone, online and in person (by appt) support with product advice and technical support, as well as providing samples and images to assist with your selection.
++Day & Night Healthcare Pty Ltd
++dnhc.com.au
++Provider Registration Number: 4050015080.
++ABN: 59763173024.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++in person.
++Delivery
++Australia wide.
++metro: Next day
++regional: 2-7 days
++remote: 3-7 days.
++See website for further delivery information.
++Additional information
++Day & Night Healthcare works with all major continence brands to provide exceptional service, support and product offerings. Support is available online, over the phone or in person.
++Aleva Continence & Health Care Products
++aleva.com.au
++Provider Registration Number: 4050006497.
++ABN: 82105367342.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++subscription.
++Delivery
++Australia wide.
++ACT and NSW: 3-4 days
++Vic and Qld: 3-5 days
++SA and Tas: 4-6 days
++NT: 5-7 days
++WA: 6-7 days.
++See website for further delivery information.
++Additional information
++Aleva offers a comprehensive range of technically advanced continence and related products, together with personalised product guidance to meet individual needs.
++Independence Australia
++www.independenceaustralia.com.au/
++Provider Registration Number: 4050000274.
++ABN: 80973805243.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone.
++Delivery
++Australia wide.
++metro: orders placed on a business day with be dispatched withing 24-36 hours. Orders placed on a weekend or public holiday with be processed the next business day
++regional: all orders will be processed within 3 business days if processed by 2pm
++remote: delivery to very remote areas may take a little longer due to services being limited to 1 delivery per week.
++See website for further delivery information.
++Additional information
++Product details and informative reference material is available on our website to assist NDIS participants with the selection and ordering of products as well as managing funding, whether Agency, plan or self-managed.
++Conni Australia
++shop.conni.com.au
++Provider Registration Number: 4050005135.
++ABN: 27078006569.
++Products
++re-usable/washable personal protection
++disposable personal protection
++continence consumables
++bed/chair/floor protection.
++Order methods available
++online
++phone.
++Delivery
++Australia wide.
++metro: orders processed withing 1 business day of receipt of order
++regional: orders processed withing 1 business day of receipt of order
++remote: orders processed withing 1 business day of receipt of order.
++See website for further delivery information.
++Additional information
++Providing continence support products for NDIS participants.
++Prime 1 Care
++Prime1care.com.au
++Provider Registration Number: 4050096236.
++ABN: 93642687474.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email.
++Delivery
++NSW metro
++Vic metro.
++See website for further delivery information.
++Country Care Group
++countrycaregroup.com.au/products/continence
++Provider Registration Number: 4050002686.
++ABN: 26088222226.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bed/chair/floor protection.
++Order methods available
++online
++phone
++email
++in person.
++Delivery
++Australia wide.
++metro: next day
++regional: 1-2 days
++remote: 5-10 days.
++See website for further delivery information.
++Additional information
++We offer a comprehensive range of adult continence products available from any one of our 44 showroom locations across Australia and via our expansive personalised home delivery service.
++Livingstone
++ndis.livingstone.com.au
++Provider Registration Number: 4050034589.
++ABN: 66052001144.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++in person
++subscription
++mail out.
++Delivery
++Australia wide.
++metro: 1-3 business days
++regional: 3-7 business days
++remote: 7-14 business days.
++See website for further delivery information.
++Additional information
++Your provider for incontinence, SIL and home care needs.
++Staydry
++staydry.com.au
++Provider Registration Number: 4050008527.
++ABN: 67167519039.
++Products
++re-usable/washable personal protection
++continence consumables
++bed/chair/floor protection.
++Order methods available
++online
++phone
++email
++subscription
++mail out.
++Delivery
++Australia wide.
++metro: 1-2 days
++regional: 3-4 days
++remote: 5-7 days.
++See website for further delivery information.
++Additional information
++Staydry offer a premium range of bedding protection and washable continence underwear for kids, teens and adults in a wide range of styles, colours and sizes. We offer customer support via phone, email, website chat and an exclusive NDIS checkout for a smooth ordering process.
++Surgical House
++surgicalhouse.com.au
++Provider Registration Number: 4050002615.
++ABN: 23149499614.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email.
++Delivery
++Australia wide.
++metro: 3-5 days
++regional: 5-10 days
++remote: 10-14 days.
++See website for further delivery information.
++Additional information
++View our complete range of continence products, including pricing or call one of our well-trained customer service team.
++Alpha Medical Solutions
++alphamedicalsolutions.com.au/ndis-registered-provider
++Provider Registration Number: 4050086066.
++ABN: 57643006366.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email.
++Delivery
++Australia wide.
++metro: 3-10 business days
++regional: 3-10 business days
++remote: 3-10 business days.
++See website for further delivery information.
++Additional information
++NDIS consumables and assistive technology products including incontinence aids.
+ First Aid Distributions
+ Firstaiddistributions.com.au
+ Provider Registration Number: 4050081670.
+@@ -64,37 +385,10 @@
+ See website for further delivery information.
+ Additional information
+ Absorbent pads, mats, liners, urinary catheters, urinary care and continence management. Phone, email and live chat available.
+-Homehealth & Medical Supplies
+-hhmedicalsupplies.com.au
+-Provider Registration Number: 4050149140.
+-ABN: 91639810281.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-subscription
+-email
+-in person.
+-Delivery
+-Australia wide.
+-metro: next day
+-regional: 2-7 days
+-remote: 3-7 days.
+-See website for further delivery information.
+-Additional information
+-We offer an expansive range of continence products from all leading brands. Product support is available online, over the phone or in person at our retail store.
+-Caremmunity
+-caremmunity.com.au/shop/
+-Provider Registration Number: 4050000418.
+-ABN: 35947860028.
++My Online Medical Supplies
++myonlinemedicalsupplies.com.au
++Provider Registration Number: 4050090057.
++ABN: 80646138383.
+ Products
+ re-usable/washable personal protection
+ disposable personal protection
+@@ -108,134 +402,15 @@
+ online
+ phone
+ email
+-in person
+ subscription.
+ Delivery
+ Australia wide.
+-metro: 1-2 days
++metro: 1-3 days
+ regional: 3-5 days
+-remote: 3-5 days.
+-See website for further delivery information.
+-Additional information
+-Supply and delivery of continence aids, nutrition, skincare to clients' homes. Backed by a national team of nurse continence specialists conducting continence assessments in-home and by telehealth.
+-Staydry
+-staydry.com.au
+-Provider Registration Number: 4050008527.
+-ABN: 67167519039.
+-Products
+-re-usable/washable personal protection
+-continence consumables
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone
+-email
+-subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 1-2 days
+-regional: 3-4 days
+-remote: 5-7 days.
+-See website for further delivery information.
+-Additional information
+-Staydry offer a premium range of bedding protection and washable continence underwear for kids, teens and adults in a wide range of styles, colours and sizes. We offer customer support via phone, email, website chat and an exclusive NDIS checkout for a smooth ordering process.
+-Down Under Care
+-downundercare.com.au
+-Provider Registration Number: 4050014983.
+-ABN: 37982177550.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-continence consumables.
+-Order methods available
+-online
+-phone
+-email
+-subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 3 business days
+-regional: 7 business days
+-remote: 10 business days.
+-See website for further delivery information.
+-Additional information
+-Huge selections of high-capacity nappies in either white or fun designs.
+-Bedding for All
+-beddingforall.com.au
+-Provider Registration Number: 4050102147.
+-ABN: 20274511313.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-continence consumables
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-email.
+-Delivery
+-Australia wide.
+-metro: 5-10 days
+-regional: 10-12 days
+-remote: 10-15 days.
+-See website for further delivery information.
+-Additional information
+-Disposable and washable mats, waterproof bedding and contingency products. Support via Whatsapp and email.
+-Day & Night Healthcare Pty Ltd
+-dnhc.com.au
+-Provider Registration Number: 4050015080.
+-ABN: 59763173024.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-in person.
+-Delivery
+-Australia wide.
+-metro: Next day
+-regional: 2-7 days
+-remote: 3-7 days.
+-See website for further delivery information.
+-Additional information
+-Day & Night Healthcare works with all major continence brands to provide exceptional service, support and product offerings. Support is available online, over the phone or in person.
+-Country Care Group
+-countrycaregroup.com.au/products/continence
+-Provider Registration Number: 4050002686.
+-ABN: 26088222226.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone
+-email
+-in person.
+-Delivery
+-Australia wide.
+-metro: next day
+-regional: 1-2 days
+ remote: 5-10 days.
+ See website for further delivery information.
+ Additional information
+-We offer a comprehensive range of adult continence products available from any one of our 44 showroom locations across Australia and via our expansive personalised home delivery service.
++Premium continence management products.
+ Joya Medical Australia Pty Ltd
+ joyamedicalsupplies.com.au/shop
+ Provider Registration Number: 4050087251
+@@ -262,6 +437,33 @@
+ Remote: 5-10 days
+ Additional information:
+ 24/7 customer service support via email live chat. Customer service phone line Mon – Fri: 08:30am – 04:30pm. Nurse available to answer any product related query within the scope.
++Caremmunity
++caremmunity.com.au/shop/
++Provider Registration Number: 4050000418.
++ABN: 35947860028.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection.
++Order methods available
++online
++phone
++email
++in person
++subscription.
++Delivery
++Australia wide.
++metro: 1-2 days
++regional: 3-5 days
++remote: 3-5 days.
++See website for further delivery information.
++Additional information
++Supply and delivery of continence aids, nutrition, skincare to clients' homes. Backed by a national team of nurse continence specialists conducting continence assessments in-home and by telehealth.
+ HECSA
+ hecsa.com.au
+ Provider Registration Number: 4050092429.
+@@ -288,6 +490,58 @@
+ See website for further delivery information.
+ Additional information
+ We offer a large range of brands and products complimented by a team offering amazing customer service.
++mySupply Store
++mysupplystore.com.au
++Provider Registration Number: 4050005463.
++ABN: 27130845224.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email.
++Delivery
++Australia wide.
++metro: 1-4 days
++regional: 4-5 days
++remote: 7-10 days.
++See website for further delivery information.
++Additional information
++Extensive product range, superior customer service.
++Health N Home
++https://shop.healthnhome.com.au/
++Provider Registration Number: 4050072995.
++ABN: 23140988549.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++subscription.
++Delivery
++Australia wide.
++metro: 1 week
++regional: 1-2 weeks
++remote: 2 weeks.
++See website for further delivery information.
++Additional information
++All continence, catheter and wound care related products. Continence Nurse to help with suitability of the products.
+ Topcat Healthcare Pty Ltd
+ Topcathealthcare.com.au/collections/all
+ Provider Registration Number: 4050041185.
+@@ -316,6 +570,56 @@
+ See website for further delivery information.
+ Additional information
+ Contact Us page – can advise of technical issues and or discuss product choice – no current online chat function. Products display with line item numbers they represent.
++Invizi / Nundies
++confidenceclub.com.au/ndis-continence-provider
++Provider Registration Number: 4050032704.
++ABN: 45622222959.
++Products
++re-usable/washable personal protection
++disposable personal protection
++continence consumables
++bed/chair/floor protection.
++Order methods available
++online
++phone
++email
++subscription.
++Delivery
++Australia wide.
++metro: 1-3 business days
++regional: 2-5 business days
++remote: 3-12 business days.
++See website for further delivery information.
++Additional information
++Comprehensive advice from Product Specialists and AI tools to assist in product selection and returns (if applicable).
++Brightsky Australia
++brightsky.com.au
++Provider Registration Number: 4050001090.
++ABN: 42000355948.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection.
++Order methods available
++online
++phone
++email
++in person
++subscription
++mail out.
++Delivery
++Australia wide.
++metro: 2-10 business days
++regional: 2-10 business days
++remote: 2-10 business days.
++See website for further delivery information.
++Additional information
++Over 7,500 consumable items available in small and bulk quantities.
+ IncontinenceProducts.com.au
+ incontinenceproducts.com.au
+ Provider Registration Number: 4050000940.
+@@ -345,32 +649,78 @@
+ See website for further delivery information.
+ Additional information
+ Absorbent pads, mats, liners, urinary catheters and related products and services like urinary care and continence management; technical support.
+-My Online Medical Supplies
+-myonlinemedicalsupplies.com.au
+-Provider Registration Number: 4050090057.
+-ABN: 80646138383.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone
+-email
+-subscription.
+-Delivery
+-Australia wide.
+-metro: 1-3 days
+-regional: 3-5 days
+-remote: 5-10 days.
+-See website for further delivery information.
+-Additional information
+-Premium continence management products.
++Medisa
++medisa.com.au
++Provider Registration Number: 4050086102.
++ABN: 64169434244.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++phone
++email
++in person
++subscription
++mail out.
++Delivery
++Australia wide.
++metro: 1-3 business days
++regional: 2-5 business days
++remote: 3-10 business days.
++See website for further delivery information.
++Bedding for All
++beddingforall.com.au
++Provider Registration Number: 4050102147.
++ABN: 20274511313.
++Products
++re-usable/washable personal protection
++disposable personal protection
++continence consumables
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
++email.
++Delivery
++Australia wide.
++metro: 5-10 days
++regional: 10-12 days
++remote: 10-15 days.
++See website for further delivery information.
++Additional information
++Disposable and washable mats, waterproof bedding and contingency products. Support via Whatsapp and email.
++Ausmed Health
++Ausmedhealth.com.au
++Provider Registration Number: 4050117044.
++ABN: 71643436177.
++Products
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care.
++Order methods available
++online
++phone
++email
++in person.
++Delivery
++Australia wide.
++metro: 1-2 days
++regional: 1-2 days
++remote: 2-3 days.
++See website for further delivery information.
++Additional information
++Absorbent pads, mats and liners, urinary catheters, care and urinary continence management, wound care and related products.
+ Noble Healthcare
+ noblehealthcare.com.au/
+ Provider Registration Number: 4050009725
+@@ -400,436 +750,35 @@
+ See website for further delivery information.
+ Additional Information
+ Highly personalised service and high quality to NDIS participants needing continence, nutritional and medical consumables, backed by an ever reliable pre and post-sale customer experience team.
+-The Chooze Shop
+-www.chooze.com.au/continence-and-toileting-aids
+-Provider Registration Number: 4050125273.
+-ABN: 76643602617.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
++Homehealth & Medical Supplies
++hhmedicalsupplies.com.au
++Provider Registration Number: 4050149140.
++ABN: 91639810281.
++Products
++re-usable/washable personal protection
++disposable personal protection
++catheters/sheaths
++drain/leg bags
++continence consumables
++urinary collection items and accessories
++bowel care
++bed/chair/floor protection
++continence control/monitoring.
++Order methods available
++online
+ subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 2-3 days
+-regional: 3-4 days
+-remote: 4-5 days.
+-See website for further delivery information.
+-Additional information
+-Customer success team can support directly or obtain relevant info.
+-Medical Store
+-medicalstore.com.au
+-Provider Registration Number: 4050102286.
+-ABN: 63095196562.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 1-7 days
++email
++in person.
++Delivery
++Australia wide.
++metro: next day
+ regional: 2-7 days
+-remote: 2-10 days.
+-See website for further delivery information.
+-Additional information
+-Medical Store provides phone, online and in person (by appt) support with product advice and technical support, as well as providing samples and images to assist with your selection.
+-Prime 1 Care
+-Prime1care.com.au
+-Provider Registration Number: 4050096236.
+-ABN: 93642687474.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email.
+-Delivery
+-NSW metro
+-Vic metro.
+-See website for further delivery information.
+-Livingstone
+-ndis.livingstone.com.au
+-Provider Registration Number: 4050034589.
+-ABN: 66052001144.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-in person
+-subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 1-3 business days
+-regional: 3-7 business days
+-remote: 7-14 business days.
+-See website for further delivery information.
+-Additional information
+-Your provider for incontinence, SIL and home care needs.
+-Conni Australia
+-shop.conni.com.au
+-Provider Registration Number: 4050005135.
+-ABN: 27078006569.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-continence consumables
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone.
+-Delivery
+-Australia wide.
+-metro: orders processed withing 1 business day of receipt of order
+-regional: orders processed withing 1 business day of receipt of order
+-remote: orders processed withing 1 business day of receipt of order.
+-See website for further delivery information.
+-Additional information
+-Providing continence support products for NDIS participants.
+-Ausmed Health
+-Ausmedhealth.com.au
+-Provider Registration Number: 4050117044.
+-ABN: 71643436177.
+-Products
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care.
+-Order methods available
+-online
+-phone
+-email
+-in person.
+-Delivery
+-Australia wide.
+-metro: 1-2 days
+-regional: 1-2 days
+-remote: 2-3 days.
+-See website for further delivery information.
+-Additional information
+-Absorbent pads, mats and liners, urinary catheters, care and urinary continence management, wound care and related products.
+-Atlas McNeil Healthcare
+-amhcommunity.com.au
+-Provider Registration Number: 4050007260.
+-ABN: 70097973290.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-subscription.
+-Delivery
+-Australia wide.
+-See website for further delivery information and timeframes.
+-Additional information
+-Continence, urology, skincare, bedding protection, washables, odour and stain removal, bed wetting alarms, continence support and product support.
+-Medisa
+-medisa.com.au
+-Provider Registration Number: 4050086102.
+-ABN: 64169434244.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-in person
+-subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 1-3 business days
+-regional: 2-5 business days
+-remote: 3-10 business days.
+-See website for further delivery information.
+-Confidence Club
+-confidenceclub.com.au/ndis-continence-provider
+-Provider Registration Number: 4050032704.
+-ABN: 45622222959.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-continence consumables
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone
+-email
+-subscription.
+-Delivery
+-Australia wide.
+-metro: 1-3 business days
+-regional: 2-5 business days
+-remote: 3-12 business days.
+-See website for further delivery information.
+-Additional information
+-Comprehensive advice from Product Specialists and AI tools to assist in product selection and returns (if applicable).
+-Independence Australia
+-www.independenceaustralia.com.au/
+-Provider Registration Number: 4050000274.
+-ABN: 80973805243.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone.
+-Delivery
+-Australia wide.
+-metro: orders placed on a business day with be dispatched withing 24-36 hours. Orders placed on a weekend or public holiday with be processed the next business day
+-regional: all orders will be processed within 3 business days if processed by 2pm
+-remote: delivery to very remote areas may take a little longer due to services being limited to 1 delivery per week.
+-See website for further delivery information.
+-Additional information
+-Product details and informative reference material is available on our website to assist NDIS participants with the selection and ordering of products as well as managing funding, whether Agency, plan or self-managed.
+-Alpha Medical Solutions
+-alphamedicalsolutions.com.au/ndis-registered-provider
+-Provider Registration Number: 4050086066.
+-ABN: 57643006366.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email.
+-Delivery
+-Australia wide.
+-metro: 3-10 business days
+-regional: 3-10 business days
+-remote: 3-10 business days.
+-See website for further delivery information.
+-Additional information
+-NDIS consumables and assistive technology products including incontinence aids.
+-mySupply Store
+-mysupplystore.com.au
+-Provider Registration Number: 4050005463.
+-ABN: 27130845224.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email.
+-Delivery
+-Australia wide.
+-metro: 1-4 days
+-regional: 4-5 days
+-remote: 7-10 days.
+-See website for further delivery information.
+-Additional information
+-Extensive product range, superior customer service.
+-Brightsky Australia
+-brightsky.com.au
+-Provider Registration Number: 4050001090.
+-ABN: 42000355948.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone
+-email
+-in person
+-subscription
+-mail out.
+-Delivery
+-Australia wide.
+-metro: 2-10 business days
+-regional: 2-10 business days
+-remote: 2-10 business days.
+-See website for further delivery information.
+-Additional information
+-Over 7,500 consumable items available in small and bulk quantities.
+-Surgical House
+-surgicalhouse.com.au
+-Provider Registration Number: 4050002615.
+-ABN: 23149499614.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email.
+-Delivery
+-Australia wide.
+-metro: 3-5 days
+-regional: 5-10 days
+-remote: 10-14 days.
+-See website for further delivery information.
+-Additional information
+-View our complete range of continence products, including pricing or call one of our well-trained customer service team.
+-Health N Home
+-https://shop.healthnhome.com.au/
+-Provider Registration Number: 4050072995.
+-ABN: 23140988549.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-subscription.
+-Delivery
+-Australia wide.
+-metro: 1 week
+-regional: 1-2 weeks
+-remote: 2 weeks.
+-See website for further delivery information.
+-Additional information
+-All continence, catheter and wound care related products. Continence Nurse to help with suitability of the products.
+-BedGuard
+-bedguard.com.au/shop/
+-Provider Registration Number: 4050011906.
+-ABN: 38124024620.
+-Products
+-bed/chair/floor protection.
+-Order methods available
+-online
+-phone
+-email.
+-Delivery
+-Australia wide.
+-metro: 5 business days
+-regional: 7 business days
+-remote: 10 business days.
+-See website for further delivery information.
+-Additional information
+-Selection per participant weight.
+-Aleva Continence & Health Care Products
+-aleva.com.au
+-Provider Registration Number: 4050006497.
+-ABN: 82105367342.
+-Products
+-re-usable/washable personal protection
+-disposable personal protection
+-catheters/sheaths
+-drain/leg bags
+-continence consumables
+-urinary collection items and accessories
+-bowel care
+-bed/chair/floor protection
+-continence control/monitoring.
+-Order methods available
+-online
+-phone
+-email
+-subscription.
+-Delivery
+-Australia wide.
+-ACT and NSW: 3-4 days
+-Vic and Qld: 3-5 days
+-SA and Tas: 4-6 days
+-NT: 5-7 days
+-WA: 6-7 days.
+-See website for further delivery information.
+-Additional information
+-Aleva offers a comprehensive range of technically advanced continence and related products, together with personalised product guidance to meet individual needs.
++remote: 3-7 days.
++See website for further delivery information.
++Additional information
++We offer an expansive range of continence products from all leading brands. Product support is available online, over the phone or in person at our retail store.
+ List of continence providers (DOCX 300.2KB)
+-List of continence providers (PDF 436.09KB)
++List of continence providers (PDF 403.19KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

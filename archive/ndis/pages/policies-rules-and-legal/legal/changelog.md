@@ -399,3 +399,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `1f2bdbb9f183814243c971612d8781e9bdf424f2ee89a02ac5d656cc92148441`
+- New SHA-256: `9c88313022f4fbb9bdca473457b6a6357619533e87c6919bfdcdbe96df8564bd`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -9,6 +9,8 @@
+ Legal matters
+ Legal
+ Our model litigant guidelines
++Legal
++Actuarial model for compensation
+ Legal
+ Court orders
+ How to serve court orders
+@@ -22,4 +24,4 @@
+ Senate Order 13 requires that, twice a year, Commonwealth entities publish details of individual contracts with a total value of $100,000 (GST inclusive) or more.
+ Read Senate order 13 for Entity Contracts
+ This page current as of
+-12 May 2026
++28 October 2026
+```

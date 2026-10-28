@@ -372,3 +372,65 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `42046adb305d29b53039075bf7dcc66282fc8875eba65ad053030978e12b7b29`
+- New SHA-256: `2097d8944933bf38730e44380580f984704d98ab6d7daaa8998025dc845b1c25`
+- Visible text lines added: 10
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,25 +5,25 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-Annual Report 2024-25
++Annual Report 2025-26
+ Easy Read
+ Past Annual Reports
+ On this page:
+-1 - Annual Report 2024-25
++1 - Annual Report 2025-26
+ 2 - Easy Read
+ 3 - Past Annual Reports
+-Annual Report 2024-25
+-The NDIA 2024-25 Annual Report was tabled on 5 November 2025.
+-You can download the annual report below:
+-NDIA 2024-25 Annual Report (PDF 4.7MB)
+-NDIA 2024-25 Annual Report (DOCX 5MB)
++Annual Report 2025-26
++The NDIA Annual Report 2025-26 was tabled on 28 October 2026.
++Note: tagged PDF and Easy Read versions will be available in the coming weeks.
++NDIA Annual Report 2025-26 (PDF 4.3MB)
++NDIA Annual Report 2025-26 (DOCX 5.5MB)
+ Easy Read
+-Easy Read NDIA 2024-25 Annual Report (PDF 2.7MB)
+-Easy Read NDIA 2024-25 Annual Report (DOCX 7.8MB)
++Available soon
+ The NDIA has also published its Annual Report on the
+ Government's Transparency Portal
+ , a central portal for all available corporate information for all Commonwealth bodies.
+ Past Annual Reports
++NDIA Annual Report 2024-25
+ NDIA Annual Report 2023-24
+ NDIA Annual Report 2022-23
+ NDIA Annual Report 2021-22
+@@ -35,11 +35,11 @@
+ NDIA Annual Report 2015-16
+ NDIA Annual Report 2014-15
+ NDIA Annual Report 2013-14
+-.
+ Main navigation sidebar
+ Publications
+ Annual Report
+ Expand or collapse sub-menu for Annual Report
++Annual Report 2024-25
+ Annual Report 2023-24
+ Annual Report 2022-23
+ Annual Report 2021-22
+```

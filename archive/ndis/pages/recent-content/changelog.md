@@ -1539,3 +1539,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `270275d159b71d95f37c0d5d32a4e424ab7fa7cb95ab7bb63e0059c7fb28baa4`
+- New SHA-256: `7c95079a4472156a4a8386656340e1c7f2831e74e1f180de2bf2b06e6ca6c9f7`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Early Childhood partner, Albury, 2640
+-26 October 2026
+-Local Area Coordinator (LAC) partner, Windsor, 2756
+-26 October 2026
+-Local Area Coordinator (LAC) partner, Wollongong, 2500
+-26 October 2026
+-Local Area Coordinator (LAC) partner, Tweed Heads South, 2486
+-26 October 2026
+-Early Childhood partner, Taree, 2430
+-26 October 2026
+-Early Childhood partner, Grafton, 2460
+-26 October 2026
+-Local Area Coordinator (LAC) partner, Murray Bridge, 5253
+-26 October 2026
+-Local Area Coordinator (LAC) partner, Mirrabooka, 6061
+-26 October 2026
+-NDIS laws
+-26 October 2026
+-Early Childhood partner, Devonport, 7310
+-26 October 2026
++Annual Report
++28 October 2026
++Annual Report 2024-25
++28 October 2026
++Changes to plan management
++28 October 2026
++Legal
++28 October 2026
++Actuarial model for compensation
++28 October 2026
++Continence provider list
++28 October 2026
++How to make a service agreement
++28 October 2026
++Early Childhood partner, Box Hill, 3128
++28 October 2026
++Booklets and factsheets
++28 October 2026
++Local Area Coordinator (LAC) partner, Gympie, 4570
++27 October 2026
+```

@@ -321,3 +321,26 @@ The page bytes changed, but no visible main-content wording change was detected.
  From April
  We’ll publish an approach to market for the plan management panel on the
 ```
+
+## 2026-10-28T21:06:40Z — changed
+
+- Previous SHA-256: `260699b6c40f49f534950152811ab87d82233ca4289018a3d224ee7a43929794`
+- New SHA-256: `39ba410d204412c654640e24a441fb1c443560fb2fcf2809a93542243c287b47`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -34,7 +34,7 @@
+ 2027
+ From April
+ We’ll publish an approach to market for the plan management panel on the
+-NDIS Engage
++AusTender
+ website. If plan managers want to join the panel, they must apply through this process.
+ The approach to market will include the requirements plan managers must meet to be selected for the panel.
+ From June
+```
