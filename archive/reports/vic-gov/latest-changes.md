@@ -1,30 +1,28 @@
 # Victorian Government latest changes
 
-Checked: 2026-10-27T23:07:59Z
+Checked: 2026-10-28T06:55:15Z
 
 ## MODIFIED
 
+- https://www.vic.gov.au/STEM-in-early-childhood
 - https://www.vic.gov.au/best-start-best-life-transforming-early-childhood-education-together/best-start-best-life
-- https://www.vic.gov.au/early-childhood-educator
-- https://www.vic.gov.au/early-childhood-provisionally-registered-teacher-prt-grants-program
+- https://www.vic.gov.au/child-protection-early-childhood-privacy-and-information-sharing
+- https://www.vic.gov.au/contact-early-childhood-improvement-branch
+- https://www.vic.gov.au/early-childhood-agreement-children-out-home-care
+- https://www.vic.gov.au/early-childhood-education-leadership-training
+- https://www.vic.gov.au/early-childhood-education-programs-supporting-aboriginal-children
+- https://www.vic.gov.au/early-childhood-education-training-health-wellbeing
+- https://www.vic.gov.au/early-childhood-education-training-support-children-additional-needs
+- https://www.vic.gov.au/early-childhood-induction-toolkit
+- https://www.vic.gov.au/early-childhood-literacy-teaching-toolkit-explained
+- https://www.vic.gov.au/early-childhood-reform
+- https://www.vic.gov.au/early-childhood-service-funding-and-grants
+- https://www.vic.gov.au/early-childhood-teacher-professional-standards-and-supports
+- https://www.vic.gov.au/early-childhood-tertiary-partnerships-program
+- https://www.vic.gov.au/early-childhood-update
 - https://www.vic.gov.au/early-childhood-update-august-2026/training-information-sharing-and-maram-reforms
+- https://www.vic.gov.au/early-childhood-update-december-2025/victorian-early-years-awards-2025-winners
 
 ## Fetch failures
 
-- https://www.vic.gov.au/early-childhood-update-july-2024/professional-development-all-career-stages: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2024/reconciliation-symposium-focuses-improving-outcomes-children: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2024/reflecting-year-so-far: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2024/victorian-school-design-awards-nominations-open: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2024/what-you-need-know-about-pre-prep-2025-and-beyond: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/arrival-kindergarten-attendance-data-collection: HTTP Error 500: Internal Server Error
-- https://www.vic.gov.au/early-childhood-update-july-2025/building-cultural-understanding-through-yarning-networks: HTTP Error 500: Internal Server Error
-- https://www.vic.gov.au/early-childhood-update-july-2025/complying-australias-foreign-relations-act: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/helping-children-priority-groups-access-more-hours-kindergarten: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/helping-multicultural-families-access-kindergarten: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/looking-back-year-so-far: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/naidoc-week-2025: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/national-aboriginal-and-torres-strait-islander-childrens-day: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2025/no-jab-no-play-legislation: HTTP Error 500: Internal Server Error
-- https://www.vic.gov.au/early-childhood-update-july-2025/supporting-first-nations-students-studying-early-childhood-education: The read operation timed out
-- https://www.vic.gov.au/early-childhood-update-july-2026: The read operation timed out
+- https://www.vic.gov.au/career-opportunities-early-childhood-education-karen: HTTP Error 404: Sorry, we couldn't find the page you were looking for.
