@@ -292,3 +292,9 @@ SHA-256: `f95df3a0701211644858c69a5e446f74be83aa0c5af15ed41da1193231d6a541`
  Measure of wellbeing for people with disability
  Support coordination and LAC models to best implement plans
 ```
+
+## 2026-10-29T22:49:36Z — changed
+
+SHA-256: `6d05fd3d48eca437a6c501e0433bf4fde58de581546f4259810a6502caec0a51`
+
+No visible wording change; HTML bytes changed.

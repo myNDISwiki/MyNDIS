@@ -1,5 +1,5 @@
 {
-  "bytes": 600608,
+  "bytes": 596104,
   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "directory": "resources/a9d06296d774c6f4172ade54eac158b981289b47e87ec1fbb7a80e632e366686",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4608/download?attachment=",
   "first_seen": "2026-10-28T22:37:08Z",
   "kind": "file",
-  "last_changed": "2026-10-28T22:37:08Z",
+  "last_changed": "2026-10-29T22:49:36Z",
   "links": [],
   "response_headers": {
-    "Content-Disposition": "attachment; filename=\"NDIA Justice Advisory Panel Advice _ Youth Justice.docx\"; filename*=utf-8''NDIA%20Justice%20Advisory%20Panel%20Advice%20%E2%80%93%20Youth%20Justice.docx",
-    "ETag": "\"1793144723:dtagent10347260902154543+BHX\"",
-    "Last-Modified": "Tue, 27 Oct 2026 23:45:22 GMT"
+    "Content-Disposition": "attachment; filename=\"NDIA Justice Advisory Panel Advice - Supporting Young People with Disability in the Justice System_0.docx\"",
+    "ETag": "\"1793235211:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Thu, 29 Oct 2026 00:53:30 GMT"
   },
-  "sha256": "fd5a946d73635461e4acf70988392175799dc21404bfc345de583cbac55ed0d5",
+  "sha256": "abecdc87fba5555c73b34df4946de10fdde2c818da46f9614768d2eb05f2d3c7",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4608/download?attachment="
 }
