@@ -1,11 +1,11 @@
 {
   "domain": "vic.gov.au",
   "seed": "https://www.vic.gov.au/thriving-kids",
-  "checked_at": "2026-10-29T07:14:32Z",
+  "checked_at": "2026-10-29T14:28:49Z",
   "status": "complete",
   "tracked_pages": 250,
-  "new": 14,
-  "modified": 14,
-  "removed": 14,
+  "new": 0,
+  "modified": 2,
+  "removed": 0,
   "fetch_failures": 0
 }
