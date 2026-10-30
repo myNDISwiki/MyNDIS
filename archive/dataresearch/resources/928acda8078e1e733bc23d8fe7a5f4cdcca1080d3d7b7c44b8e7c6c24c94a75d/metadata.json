@@ -1,5 +1,5 @@
 {
-  "bytes": 61529,
+  "bytes": 61527,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/928acda8078e1e733bc23d8fe7a5f4cdcca1080d3d7b7c44b8e7c6c24c94a75d",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/ade-open-employment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-29T22:49:36Z",
+  "last_changed": "2026-10-30T22:21:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Fade-open-employment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -153,9 +153,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 29 Oct 2026 03:52:18 GMT"
+    "Last-Modified": "Fri, 30 Oct 2026 08:07:01 GMT"
   },
-  "sha256": "7960fcac2fbbcf707f1b9c3252da501b3ec05c41ecb7f71ad95637f1183065aa",
+  "sha256": "8c5b020459a823c710340717c545fe47c276c8e93e1a23c2924b402a748f90bd",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/ade-open-employment"
 }

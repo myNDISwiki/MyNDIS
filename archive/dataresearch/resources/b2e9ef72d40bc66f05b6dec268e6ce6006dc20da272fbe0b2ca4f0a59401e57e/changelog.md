@@ -275,3 +275,49 @@ No visible wording change; HTML bytes changed.
 SHA-256: `4aae30ad684d5e021f44708f31a2ca99213ab6ced2aa956315815835b2425aad`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-30T22:21:00Z — changed
+
+SHA-256: `045c7a175e91a43ba93062a0a5cca8e4b494ef09b9b9644630c72c0026cb21cb`
+
+```diff
+--- before
++++ after
+@@ -62,8 +62,10 @@
+ Save page as PDF
+ On this page:
+ Public Data Sharing Policy
++Publishing Participant Service Guarantee results
+ On this page:
+ 1 - Public Data Sharing Policy
++2 - Publishing Participant Service Guarantee results
+ Data sharing is critical to the success of the NDIS.
+ Public data sharing and open data allows people with disabilities, and their families and carers to benefit more from the Scheme. Transparency of this data will drive continuous improvement in participant outcomes and support a financially sustainable NDIS.
+ The privacy of participants is of paramount importance. The NDIA has applied de-identification methods so the only data being released is non-personal and does not identify individuals.
+@@ -88,11 +90,24 @@
+ Public Data Sharing Policy (PDF 1.1MB)
+ Public Data Sharing Policy (DOCX 482KB)
+ Public Data Sharing Policy – Summary (PDF 605KB)
++Publishing Participant Service Guarantee results
++The Agency shares information about the performance results achieved under the Participant Service Guarantee (PSG).
++The
++Participant Service Charter
++includes timeframes for Agency processes – set out under the Participant Service Guarantee. The Participant Service Guarantee sets clear timeframes for key NDIS processes.
++This policy discusses how the Agency publishes the Participant Service Guarantee measures performance results.
++Publishing the performance results of the Participant Service Guarantee Policy
++This document explains:
++agency responsibilities for the publication of the PSG results
++where and when PSG performance information is published
++what PSG performance information is published.
++Publishing the performance results of the Participant Service Guarantee Policy (PDF 150MB)
++Publishing the performance results of the Participant Service Guarantee Policy (DOCX 74MB)
+ Main navigation sidebar
+ Public data sharing
+ Data disclaimer
+ This page current as of
+-25 February 2022
++30 October 2026
+ Social Menu
+ Facebook
+ (External website)
+```

@@ -1,5 +1,5 @@
 {
-  "bytes": 35494,
+  "bytes": 37554,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/c812c57d99c7a40283a1b1ebfe4cf83cb9f59bd04d7a371d9745748180dd0d7d",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/public-data-sharing",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-29T22:49:36Z",
+  "last_changed": "2026-10-30T22:21:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fpublic-data-sharing",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -53,6 +53,8 @@
     "https://dataresearch.ndis.gov.au/media/1679/download?attachment=",
     "https://dataresearch.ndis.gov.au/media/1680/download?attachment=",
     "https://dataresearch.ndis.gov.au/media/1953/download?attachment=",
+    "https://dataresearch.ndis.gov.au/media/4609/download?attachment=",
+    "https://dataresearch.ndis.gov.au/media/4610/download?attachment=",
     "https://dataresearch.ndis.gov.au/modules/contrib/cacheflush/css/cacheflush.menu.css?tnn95z=",
     "https://dataresearch.ndis.gov.au/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?tnn95z=",
     "https://dataresearch.ndis.gov.au/modules/contrib/toc_api/css/toc.css?tnn95z=",
@@ -106,13 +108,14 @@
     "https://www.ndis.gov.au/about-us/policies/disclaimers",
     "https://www.ndis.gov.au/about-us/policies/privacy",
     "https://www.ndis.gov.au/about-us/policies/terms-use",
+    "https://www.ndis.gov.au/about-us/service-charter/participant-service-guarantee",
     "https://www.ndis.gov.au/contact",
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 29 Oct 2026 01:35:46 GMT"
+    "Last-Modified": "Fri, 30 Oct 2026 05:28:52 GMT"
   },
-  "sha256": "db3c0a96c26f01d745d76b461c0cb3df177e9dad9cca3e37e9acbd1214715dd5",
+  "sha256": "a09798cf1037d95868aef2df7210b7ae92fef0014555458c203690a6ace0090d",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/public-data-sharing"
 }

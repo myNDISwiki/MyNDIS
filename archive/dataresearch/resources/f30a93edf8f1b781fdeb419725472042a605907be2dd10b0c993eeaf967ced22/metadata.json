@@ -1,5 +1,5 @@
 {
-  "bytes": 55476,
+  "bytes": 55472,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f30a93edf8f1b781fdeb419725472042a605907be2dd10b0c993eeaf967ced22",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/sda-market-information-statement",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-29T22:49:36Z",
+  "last_changed": "2026-10-30T22:21:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fsda-market-information-statement",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -159,9 +159,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 29 Oct 2026 06:16:39 GMT"
+    "Last-Modified": "Fri, 30 Oct 2026 07:04:55 GMT"
   },
-  "sha256": "40b1524ea937e13e92fc5ffb3b85c22d1b37130023c1fc81f67aa0eb35718b57",
+  "sha256": "c502b4cca1bf8ace07086c366f2bc0884481316ef53e34a3e74f4bd5ae1530bd",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/sda-market-information-statement"
 }

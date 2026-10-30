@@ -441,3 +441,30 @@ SHA-256: `bcae280c8ec021cd3ed01fa6e0b647e026c88a84e3f96018b8ac8a07019c409b`
 SHA-256: `062ca8a27f6f458a79b97eaaf5cba1de692af79fded65d288e4298f9b0dc1b72`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-10-30T22:21:00Z — changed
+
+SHA-256: `c0578a12e59c3a9c60362ffc4a2e69d9b65cda5f41690f5aca374a541294714c`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,8 @@
+ Save page as PDF
+ Page title
+ Updated
++Public data sharing
++30 October 2026
+ Justice Advisory Panel advice
+ 29 October 2026
+ Evidence that helps us improve the NDIS
+@@ -79,8 +81,6 @@
+ Research and evaluation
+ 9 September 2026
+ Developmental Delay
+-31 August 2026
+-Hearing Impairment
+ 31 August 2026
+ Social Menu
+ Facebook
+```

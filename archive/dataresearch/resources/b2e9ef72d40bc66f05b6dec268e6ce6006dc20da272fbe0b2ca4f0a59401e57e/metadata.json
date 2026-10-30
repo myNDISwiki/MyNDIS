@@ -1,5 +1,5 @@
 {
-  "bytes": 35495,
+  "bytes": 37551,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/b2e9ef72d40bc66f05b6dec268e6ce6006dc20da272fbe0b2ca4f0a59401e57e",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/public-data-sharing",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-29T22:49:36Z",
+  "last_changed": "2026-10-30T22:21:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fpublic-data-sharing",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -53,6 +53,8 @@
     "https://dataresearch.ndis.gov.au/media/1679/download?attachment=",
     "https://dataresearch.ndis.gov.au/media/1680/download?attachment=",
     "https://dataresearch.ndis.gov.au/media/1953/download?attachment=",
+    "https://dataresearch.ndis.gov.au/media/4609/download?attachment=",
+    "https://dataresearch.ndis.gov.au/media/4610/download?attachment=",
     "https://dataresearch.ndis.gov.au/modules/contrib/cacheflush/css/cacheflush.menu.css?tnn95z=",
     "https://dataresearch.ndis.gov.au/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?tnn95z=",
     "https://dataresearch.ndis.gov.au/modules/contrib/toc_api/css/toc.css?tnn95z=",
@@ -106,13 +108,14 @@
     "https://www.ndis.gov.au/about-us/policies/disclaimers",
     "https://www.ndis.gov.au/about-us/policies/privacy",
     "https://www.ndis.gov.au/about-us/policies/terms-use",
+    "https://www.ndis.gov.au/about-us/service-charter/participant-service-guarantee",
     "https://www.ndis.gov.au/contact",
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 29 Oct 2026 01:35:46 GMT"
+    "Last-Modified": "Fri, 30 Oct 2026 05:28:52 GMT"
   },
-  "sha256": "4aae30ad684d5e021f44708f31a2ca99213ab6ced2aa956315815835b2425aad",
+  "sha256": "045c7a175e91a43ba93062a0a5cca8e4b494ef09b9b9644630c72c0026cb21cb",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/node/3295"
 }

@@ -1,0 +1,22 @@
+{
+  "bytes": 74976,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/a8c8c86eeca31abc3b0af0d1211de7631bbc7adbaa76c11e94fc54baa3cba0e8",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4610/download?attachment=",
+  "first_seen": "2026-10-30T22:21:00Z",
+  "kind": "file",
+  "last_changed": "2026-10-30T22:21:00Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Publishing the performance results of the Participant Service Guarantee - Policy.docx\"",
+    "ETag": "\"1793336529:dtagent10347260902154543+BHX\"",
+    "Last-Modified": "Fri, 30 Oct 2026 05:02:08 GMT"
+  },
+  "sha256": "2957762777d5b8a9037b0b66e344b78fb8aab6fea72f2256188ce91753f9105f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4610/download?attachment="
+}

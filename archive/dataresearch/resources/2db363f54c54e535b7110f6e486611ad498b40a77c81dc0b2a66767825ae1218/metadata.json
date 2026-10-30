@@ -1,5 +1,5 @@
 {
-  "bytes": 59952,
+  "bytes": 59951,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/2db363f54c54e535b7110f6e486611ad498b40a77c81dc0b2a66767825ae1218",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/self-management-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-29T22:49:36Z",
+  "last_changed": "2026-10-30T22:21:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fimproving-outcomes-participants%2Fself-management-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -150,9 +150,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 29 Oct 2026 03:02:58 GMT"
+    "Last-Modified": "Fri, 30 Oct 2026 05:31:54 GMT"
   },
-  "sha256": "265105ddb78231e0af71bd5d53a98fa2946351ea2beed07e65ed3a7abd539812",
+  "sha256": "6854f7ec39170db16b9dec7cba24d15f4632258583384fb9409376cf0ca90e39",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/improving-outcomes-participants/self-management-research"
 }

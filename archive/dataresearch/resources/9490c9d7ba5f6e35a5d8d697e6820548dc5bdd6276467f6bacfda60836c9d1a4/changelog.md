@@ -35,3 +35,9 @@ SHA-256: `888cecf1285d5ebc7e26d6ecee05c6126be7db6360ffdd7ecf3eb317ae12dcc4`
  Information and data sharing
  The Panel identified:
 ```
+
+## 2026-10-30T22:21:00Z — changed
+
+SHA-256: `6aa18910b9356a4f909178ed43ab8400a450c2d421df1c523388f313ea492489`
+
+No visible wording change; HTML bytes changed.
