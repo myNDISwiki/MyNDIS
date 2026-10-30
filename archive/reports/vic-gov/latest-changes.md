@@ -1,8 +1,9 @@
-# Victorian Government latest changes
-
-Checked: 2026-10-30T14:19:31Z
+# vic-gov latest archive changes
 
 ## MODIFIED
 
-- https://www.vic.gov.au/early-childhood-update-december-2024/applications-open-toy-library-grants-program
+- `archive/gov/vic-gov/pages/contact-early-childhood-improvement-branch/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-language-program/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-learning-teaching-play/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-tertiary-partnerships-program/current.html`
 
