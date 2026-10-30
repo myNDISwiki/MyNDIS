@@ -421,3 +421,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-30T20:50:05Z — changed
+
+- Previous SHA-256: `1989a8b90d752b3e6c60cf2a5407fd29a5cda183208a6ff32de8a743862a9285`
+- New SHA-256: `a3c5baa7a4c2cd3814e61aac4bd83702baa8b6303856e4021a8204d50a1b2919`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -36,9 +36,9 @@
+ Can you buy it with your NDIS funding
+ (DOCX 284KB)
+ Other resources
+-The following websites may provide helpful information and advice on self-management. These organisations received grant funding from the
++These organisations received grant funding from the
+ Information Linkages and Capacity Building (ILC)
+-program for self-management resources.
++program.
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

@@ -1597,3 +1597,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Local Area Coordinator (LAC) partner, Gympie, 4570
 +27 October 2026
 ```
+
+## 2026-10-30T20:50:05Z — changed
+
+- Previous SHA-256: `7c95079a4472156a4a8386656340e1c7f2831e74e1f180de2bf2b06e6ca6c9f7`
+- New SHA-256: `c8b17a51a59f33ccb5a34d16cf1489115b1dc4cd69d41b4110784da988186d9e`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,6 +5,8 @@
+ Save page as PDF
+ Page title
+ Updated
++Local Area Coordinator (LAC) partner, Southport, 4215
++28 October 2026
+ Annual Report
+ 28 October 2026
+ Annual Report 2024-25
+@@ -23,5 +25,3 @@
+ 28 October 2026
+ Booklets and factsheets
+ 28 October 2026
+-Local Area Coordinator (LAC) partner, Gympie, 4570
+-27 October 2026
+```

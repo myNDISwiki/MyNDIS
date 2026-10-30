@@ -975,3 +975,36 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-30T20:50:05Z — changed
+
+- Previous SHA-256: `bb3e01f40f8fef62ec76c6f0a3ebcd110ce08e1f65e48d4e373d1b66f6f25baf`
+- New SHA-256: `59b09034c8247bf6df7ce23d29babc0fe40504fa0ee56776183283244ded858a`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -47,15 +47,15 @@
+ 13 October 2026
+ Read more news
+ Participant experiences
++Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
++NDIS supports Andy to live with pride and purpose
++30 October 2026
+ Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+ NDIS support helps Jack find his place in the workforce
+ 8 October 2026
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+ Charlie’s NDIS supports help him build a bigger future
+ 11 September 2026
+-Living in specialist disability accommodation (SDA) has helped build Geelong NDIS participant Tom’s independence and improved his safety.
+-Tom’s home gives him independence and choice
+-11 September 2026
+ More stories and videos
+ This page current as of
+ 29 June 2026
+```

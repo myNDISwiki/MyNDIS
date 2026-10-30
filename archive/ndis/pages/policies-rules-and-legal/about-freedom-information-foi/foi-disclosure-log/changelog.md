@@ -1444,3 +1444,100 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-30T20:50:05Z — changed
+
+- Previous SHA-256: `06fb793fa8c4188487113d0bd04a6c1f57bfe39ff6c756c09fcd5fad9e5c8bc8`
+- New SHA-256: `2d38469b81681642468c9be0e952cbe7f6da6bc1d87a61f5fe27836f97381b9a`
+- Visible text lines added: 1
+- Visible text lines removed: 50
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -2161,14 +2161,6 @@
+ .
+ The following document was released in full:
+ Circles of Support and Microboards: Results of an environmental scan.
+-FOI 25/26-0138
+-22/09/2025
+-List of the largest 1000 providers for 12 month period ending 30 June 2025.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The following 1 document was located and released as follows:
+-Section 17 document – Top 1,000 Provider Payments – Indirect – released in full.
+ FOI 24/25-1088
+ 19/09/2025
+ List of current internal policies, knowledge articles, standard operating procedures, checklists, and templates pertaining to:
+@@ -4020,29 +4012,6 @@
+ Date: 21 February 2025.
+ 24 PIA Email Templates v1.1
+ Date: 22 November 2023.
+-FOI 24/25-0775
+-11/03/2025
+-Top 1000 NDIS Providers by Total Agency Payments and Plan Managed Payments in
+-2020, 2021, 2022 and 2023.
+-The documents are available on request by emailing the Freedom of Information Team at
+-[email protected]
+-8 documents created under section 17 of the Freedom of Information Act 1982 and released in full.
+-Direct Payments
+-Financial Year 2019-2020.
+-Direct Payments
+-Financial Year 2020-2021.
+-Direct Payments
+-Financial Year 2021-2022.
+-Direct Payments
+-Financial Year 2022-2023.
+-Direct Payments
+-Financial Year 2023-2024.
+-Indirect Payments
+-Financial Year 2021-2022.
+-Indirect Payments
+-Financial Year 2022-2023.
+-Indirect Payments
+-Financial Year 2023-2024.
+ FOI 24/25-0933
+ 28/02/2025
+ Quarterly Data on total number of Access Requests and Decisions for 1 July 2024 – 30 September 2024.
+@@ -4660,17 +4629,6 @@
+ FOI Request consultation process Template
+ FOI Communication Template
+ FOI Notification of Decision Template.
+-FOI 24/25-0149
+-17/01/2025
+-The largest 1,500 NDIS providers in order of total payments for the 12-month period ending 30 June 2024.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The following document was released in full:
+-S17 - “Top 1500 Direct Payments to Providers in Financial Year 2023-2024” and “Top 1500 Indirect Payments to Providers in Financial Year 2023-2024”.
+-Document created under section 17 of the
+-Freedom of Information Act 1982
+-.
+ IR 24/25-017
+ 6/01/2025
+ A copy of an advice described as “HPRM – NED 19/100608 – Adv 2018/2867 regarding ABA therapy for a 6 year old”.
+@@ -5225,13 +5183,6 @@
+ For the number of participants who had Dementia/Early Onset Dementia/Alzheimer's listed as a primary disability, how many of them have 1:1 SIL funding.
+ For the number of participants who had Dementia/Early Onset Dementia/Alzheimer's listed as a primary disability, how many of them are over 65 years of age.
+ For the number of participants who had Dementia/Early Onset Dementia/Alzheimer's listed as a primary disability, how many of them have Behaviour Support Funding in their plans.
+-IR 24/25-009
+-30/10/2024
+-The largest 1000 providers by total payments for the 12-month period ending 30 June 2024.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The FOI team created a document titled “Paid Providers FY 2023-24 – Agency & Plan Managed – Top 1,000 providers".
+ FOI 24/25-0253
+ 29/10/2024
+ Average number of days a matter was at hearing in the Administrative Appeals Tribunal and the average daily cost incurred by the NDIA in participating in those hearings.
+@@ -9115,4 +9066,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-27 October 2026
++30 October 2026
+```

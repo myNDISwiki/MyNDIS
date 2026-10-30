@@ -425,3 +425,38 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-30T20:50:05Z — changed
+
+- Previous SHA-256: `39a58149a4d9a22de4a2bacbeef96ffeb23cfcc6a622907e43d2b63e93b5d3a6`
+- New SHA-256: `e80b9e0c367098e512c94a139497c9a3470a105d23bb2c8bc31c3fdc04294274`
+- Visible text lines added: 4
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,9 +27,8 @@
+ Each quarter, the Agency reports against Participant Service Guarantee (PSG) timeframes in the
+ Quarterly Report
+ .
+-The NDIA continued to monitor and report on 18 PSG measures throughout the quarter. Reporting for PSG measures 3, 5 and 15 remains unavailable. Of the 18 PSG measures, 9 (50%) met or exceeded their target timeframes at least 95% of the time (PSGs 1, 2, 6, 7, 9, 10, 16, 17b and 19)
++The NDIA continued to monitor and report on 18 PSG measures throughout the quarter. Reporting for PSG measures 3, 5 and 15 remains unavailable. Of the 18 PSG measures, 9 (50%) met or exceeded their target timeframes at least 95% of the time (PSGs 1, 2, 6, 7, 9, 10, 16, 17b and 19).
+ 17
+-.
+ A further 4 measures (22%) achieved results above 80% (PSGs 8, 13, 18 and 20).
+ Scheme eligibility and access (PSGs 2 and 4)
+ PSG 2 performance improved by 14 percentage points this quarter to 96%, driven by the NDIA’s ongoing focus on improving our performance in access decisions. PSG 4 performance improved by 11 percentage points to 79%, reflecting both the continued focus on improving our performance in making access decisions and improvements to the process for returning evidence.
+@@ -43,6 +42,9 @@
+ 17
+ The unrounded performance of PSG 20 is 94.8%. Meeting the target is measured using unrounded performance.
+ The tables below show the timeframes for each of the key NDIS processes, which have been pulled from the latest Quarterly Report.
++How the Agency publishes the performance results of the Participant Service Guarantee is detailed
++in this policy
++.
+ Use the ‘Print this Page’ function to download a PDF or print a copy of the current status of the Participant Service Guarantee timeframes.
+ Getting started with the NDIS
+ What we will do
+```

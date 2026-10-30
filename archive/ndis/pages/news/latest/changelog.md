@@ -1789,3 +1789,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-10-30T20:50:05Z — changed
+
+- Previous SHA-256: `c580dc262740c81f0f523f4e6bf05f6cf11a7bc4397dc8dabaf57f68f2352084`
+- New SHA-256: `dceced785cde34b6c6498e3e4fc210b595694459affedbcec52f9bfa1654cde9`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(333)
++(335)
+ Notification
+ (46)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ October 2026
+-(13)
++(15)
+ September 2026
+ (13)
+ August 2026
+@@ -360,6 +360,12 @@
+ Search
+ Search
+ Category
++News
++Justice Advisory Panel advice
++The NDIA has published advice provided by the Justice Advisory Panel, which is focused on improving outcomes for people with disability who interact with the justice system.
++Date
++29 October 2026
++Category
+ Notification
+ Planned system updates 24-25 October 2026
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+@@ -389,13 +395,6 @@
+ The NDIA has released new service agreement resources to help participants and providers develop clear, easy to understand service agreements.
+ Date
+ 13 October 2026
+-Category
+-Media release
+-News
+-Sydney man charged for alleged role in $1.8 million NDIS fraud
+-A Sydney man, 36, has been charged over his alleged role in a sophisticated $1.8 million fraud, following an investigation by the Australian Government Fraud Fusion Taskforce (FFT).
+-Date
+-9 October 2026
+ Pagination
+ 1
+ 2
+```
