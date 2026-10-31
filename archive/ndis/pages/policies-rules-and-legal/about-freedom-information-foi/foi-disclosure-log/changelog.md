@@ -1541,3 +1541,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 -27 October 2026
 +30 October 2026
 ```
+
+## 2026-10-31T20:01:40Z — changed
+
+- Previous SHA-256: `2d38469b81681642468c9be0e952cbe7f6da6bc1d87a61f5fe27836f97381b9a`
+- New SHA-256: `6d19442155947ed774494f4c212be311dfed075b4d0f66f729362c7f17332e02`
+- Visible text lines added: 8
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -2161,6 +2161,14 @@
+ .
+ The following document was released in full:
+ Circles of Support and Microboards: Results of an environmental scan.
++FOI 25/26-0138
++22/09/2025
++List of the largest 1000 providers for 12 month period ending 30 June 2025.
++The document is available on request to the Freedom of Information Team of the Agency at
++[email protected]
++.
++The following 1 document was located and released as follows:
++Section 17 document – Top 1,000 Provider Payments – Indirect – released in full.
+ FOI 24/25-1088
+ 19/09/2025
+ List of current internal policies, knowledge articles, standard operating procedures, checklists, and templates pertaining to:
+```
