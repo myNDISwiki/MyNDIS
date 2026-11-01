@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-31T20:18:57Z",
+  "checked_at": "2026-11-01T20:50:43Z",
   "id": "ndia-iac-site",
-  "sha256": "f352530efb60f635e8f0d271d956de90d81bec1df54dae2b7b870af9f3ef81ab",
+  "sha256": "f1ea8344382d796619a2a248d00c2ef44e8fbc6f0d5046a5fefa11d41684323f",
   "snapshot_note": "SHA-256 is calculated before credential redaction.",
   "snapshot_redactions": [],
   "title": "NDIS Independent Advisory Council website",
