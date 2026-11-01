@@ -1,5 +1,5 @@
 {
-  "bytes": 64481,
+  "bytes": 64480,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/c871f06411bf88ad60329f9b4388f12cd9fae973e1d3ad0968fa73146c4fe2d4",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/spinal-cord-injury",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-10-31T21:33:44Z",
+  "last_changed": "2026-11-01T22:05:16Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Fspinal-cord-injury",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -178,7 +178,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 07:15:33 GMT"
   },
-  "sha256": "1d173b8576264e8f7c351edadc2d604ffcb856d24e6fc35a69bde348421b5cc0",
+  "sha256": "31d9c936bd80f9259ec1dd05d3fd700f8ad67d301d5b38dec28fa442aa4b3728",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/spinal-cord-injury"
 }
