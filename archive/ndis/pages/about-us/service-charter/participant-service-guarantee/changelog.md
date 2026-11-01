@@ -460,3 +460,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Getting started with the NDIS
  What we will do
 ```
+
+## 2026-11-01T20:33:33Z — changed
+
+- Previous SHA-256: `e80b9e0c367098e512c94a139497c9a3470a105d23bb2c8bc31c3fdc04294274`
+- New SHA-256: `f82b1a701d0a967614372d50ff299ccc58b21f3881c4bb54e296533f9456bf20`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
