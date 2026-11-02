@@ -1,5 +1,7 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-11-02T22:23:04Z
+## MODIFIED
 
-No page changes detected in this run.
+- `archive/gov/vic-gov/pages/best-start-best-life-transforming-early-childhood-education-together/why-play-based-learning/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-career-support/current.html`
+
