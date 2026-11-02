@@ -1655,3 +1655,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Local Area Coordinator (LAC) partner, Gympie, 4570
 +27 October 2026
 ```
+
+## 2026-11-02T23:39:02Z — changed
+
+- Previous SHA-256: `7c95079a4472156a4a8386656340e1c7f2831e74e1f180de2bf2b06e6ca6c9f7`
+- New SHA-256: `9c60fe548fda61271c5b1f817eb6525f0e18eb240287a2e8381fb6ac404e155c`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Annual Report
+-28 October 2026
+-Annual Report 2024-25
+-28 October 2026
+-Changes to plan management
+-28 October 2026
+-Legal
+-28 October 2026
+-Actuarial model for compensation
+-28 October 2026
+-Continence provider list
+-28 October 2026
+-How to make a service agreement
+-28 October 2026
+-Early Childhood partner, Box Hill, 3128
+-28 October 2026
+-Booklets and factsheets
+-28 October 2026
+-Local Area Coordinator (LAC) partner, Gympie, 4570
+-27 October 2026
++Early Childhood partner, Rockhampton, 4700
++3 November 2026
++A friendship renewed, a future embraced
++2 November 2026
++The NDIS helps Samah and Rawah build brighter futures
++2 November 2026
++John’s built the confidence to pursue his life goals
++2 November 2026
++CALD Expert Advisory Group
++2 November 2026
++FOI disclosure log
++2 November 2026
++Local Area Coordinator (LAC) partner, Broken Hill, 2880
++2 November 2026
++Find specialist disability accommodation (SDA)
++30 October 2026
++Participant Service Guarantee
++30 October 2026
++Justice Advisory Panel advice
++30 October 2026
+```

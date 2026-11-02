@@ -412,3 +412,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-02T23:39:02Z — changed
+
+- Previous SHA-256: `0d291a42a3dc24b0bae89f179c22836c347cd8838834f915041c5b8e21762446`
+- New SHA-256: `ef0a3636a291ab58a155082bd49524f773b8cd85d10cef0587694bb9d25370e3`
+- Visible text lines added: 0
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -10,12 +10,10 @@
+ What a support coordinator is
+ What a support coordinator is for
+ What working with a support coordinator is like
+-Video
+ On this page:
+ 1 - What a support coordinator is
+ 2 - What a support coordinator is for
+ 3 - What working with a support coordinator is like
+-4 - Video
+ What a support coordinator is
+ A support coordinator helps you use your plan effectively.
+ They can help you:
+@@ -92,12 +90,6 @@
+ Level 3: specialist support coordination
+ This is a higher level of support coordination if you have a more complex situation.
+ A specialist support coordinator makes sure you have consistent services during any challenges in your support environment.
+-Video
+-What is support coordination
+-Learn more about what support coordination is in this video.
+-Transcript for '
+-What is support coordination
+-'
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

@@ -421,3 +421,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-02T23:39:02Z — changed
+
+- Previous SHA-256: `5a93020dd2c9eefa4e610e0cb1ef023838ec8d5aecb61e2be3f606cd1b81f8a0`
+- New SHA-256: `c502a6f979ffe1841b620a83e501dd9902f6b798804244a66ac6f259d6fd963b`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -18,7 +18,7 @@
+ Members of the Advisory Group must have lived experience or expert knowledge of people with disabilities from CALD communities. Members will have a diversity of experiences and backgrounds. This will allow different needs and perspectives of people with disabilities from CALD communities to be represented.
+ Current Members
+ Alicia Rodriquez - Multicultural Disability Advocacy Association NSW (MDAA)
+-Ange Boyd - Amparo Advocacy Inc
++Dr Claire Brolan - Amparo Advocacy Inc
+ Crystal Paniccia – Mental Health Australia (MHA)
+ David Boden – TASC National
+ Dina Petrakis – Ethnic Communities Services (ECSC)
+```

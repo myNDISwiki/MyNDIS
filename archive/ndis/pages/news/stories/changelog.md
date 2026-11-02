@@ -503,3 +503,63 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-02T23:39:02Z — changed
+
+- Previous SHA-256: `5443ec1703dd831695b9e3a91c8d99f59c62a5a5fc4f618052d87d3f790436aa`
+- New SHA-256: `61d8dbd0506eccfabbea365230bdb30c157e1f711f0bb3695cfb851c4b4ec77e`
+- Visible text lines added: 13
+- Visible text lines removed: 13
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -36,7 +36,7 @@
+ Providers
+ (13)
+ Stories
+-(268)
++(271)
+ Translated videos + Auslan
+ (6)
+ Understanding the NDIS
+@@ -47,24 +47,24 @@
+ (56)
+ Search
+ Search
++Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
++NDIS supports Andy to live with pride and purpose
++30 October 2026
++Sarah and Glenys first met as children through their families. Although life eventually took them in different directions, their connection was immediate when they met again.
++A friendship renewed, a future embraced
++30 October 2026
++When sisters Samah and Rawah arrived in Australia from Iraq in 2019, they could not have imagined how much their lives would change.
++The NDIS helps Samah and Rawah build brighter futures
++30 October 2026
++The 44-year-old NDIS participant from Queensland is thriving in his community and embracing opportunities he once felt were out of reach.
++John’s built the confidence to pursue his life goals
++30 October 2026
+ Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+ NDIS support helps Jack find his place in the workforce
+ 8 October 2026
+ Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+ Charlie’s NDIS supports help him build a bigger future
+ 11 September 2026
+-Living in specialist disability accommodation (SDA) has helped build Geelong NDIS participant Tom’s independence and improved his safety.
+-Tom’s home gives him independence and choice
+-11 September 2026
+-The NDIS supported Bryden to build his job and life skills. Now he’s a teacher’s aide at a local state school and happy living independently.
+-Bryden’s work is changing lives and shifting mindsets
+-11 September 2026
+-With NDIS support, 31-year-old Nic is enjoying greater independence, stronger friendships and a purpose-built SDA home, designed around his needs and goals.
+-Nic’s new life built on friendship and independence
+-14 August 2026
+-With NDIS hearing supports behind him, Lee is helping build much-needed homes for Australians. The construction professional is contributing to the economy while building a future with his wife and planning to start a family.
+-NDIS supports help Lee build his life
+-14 August 2026
+ Pagination
+ 1
+ 2
+```

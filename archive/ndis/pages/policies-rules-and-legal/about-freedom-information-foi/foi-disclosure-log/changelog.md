@@ -1579,3 +1579,208 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-02T23:39:02Z — changed
+
+- Previous SHA-256: `604215cdc346636f2e36500055c7143932a70de22baa8214b80b7a07446e2919`
+- New SHA-256: `4daff9c9c5eaeada04a8b007fa727cdb1121493b5496e76005156adea9a06852`
+- Visible text lines added: 49
+- Visible text lines removed: 81
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,35 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3514
++15/10/2026
++From 1 November 2022, documents issued as fraud fusion taskforce governance memorandum of understanding
++FOI 25/26-3514 (PDF 4MB)
++14 documents released in part
++Email - Subject: For Action: COB 10/07 FFT MOU -Extension of existing MOU – dated 3 July 2026
++Email - Subject: FW: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 13 July 2026
++Email - Subject: RE: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 15 July 2026
++Email - Subject: RE: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 6 July 2026
++Email - Subject: FW: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 7 July 2026
++Email - Subject: FW: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 6 July 2026
++Email - Subject: RE: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 10 July 2026
++Email - Subject: RE: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 03 July 2026
++Email - Subject: RE: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 10 July 2026
++Email - Subject: RE: For Action: COB 10/07 | FFT MOU - Extension of existing MOU – dated 16 July 2026
++Email - Co-Chair Update | FFT MOU - Extension of existing MOU – dated 16 July 2026
++Email - Fw: FFT Memorandum of Understanding Extension Endorsed by Inter-Departmental Committee – dated 16 July 2026
++Fraud Fusion Taskforce Inter-Departmental Committee Meeting Minutes – dated 13 June 2024
++Fraud Fusion Taskforce Data Governance Framework – dated June 2024
++FOI 26/27-0722
++9/10/2026
++Documents issued as briefs, drafts and communication schedule regarding payment and funding policy review as well as integrity transformation and technology services
++FOI 26/27-0722 (PDF 3MB)
++3 documents released in part and 2 documents released in full
++Ministerial Brief - MS26-000066 – dated 30 June 2026
++Draft - Collateral pack- Funding Period Updates
++Draft – Communications Strategy – Funding Period Policy Amendments
++Draft – Key Messages – Funding Period Policy Changes
++Communication Schedule – Funding Periods – dated June 2026
+ FOI 25/26-3590
+ 9/10/2026
+ Documents issued as NDIA Indexation Policy, Methodology and Decision-Making Framework
+@@ -73,6 +102,14 @@
+ RE_ ABC story about NDIS appeals – dated 27 July 2026
+ Criteria to treat decision as favourable – draft – dated February 2026
+ Post ART decision checklist for adverse substantive ART decisions
++FOI 26/27-0759
++24/09/2026
++Recruitment documents for the Technical Advice and Practice Improvement Branch.
++FOI 26/27-0759 (PDF 1MB)
++3 documents released in full:
++1. Recruitment Documents - APS6 Technical Advisor Professional Stream Candidate Pack
++2. Recruitment Documents - APS5 Planner Position Description
++3. Recruitment Documents - APS5 Internal Review Officer Position Description
+ FOI 25/26-2830
+ 23/09/2026
+ Total number of convictions in relation to fraud by financial year (based on the date the conviction was recorded).
+@@ -440,19 +477,18 @@
+ Attachment to meeting paper: Detailed commentary on draft June 2025 Scheme projections
+ Paper for the 5 September 2025 meeting of the NDIA Sustainability Committee
+ FOI 25/26-1368
++FOI 25/26-1684
++FOI 25/26-1784
++FOI 25/26-2549
+ 31/07/2026
+-Documents relating to the procurement, evaluation, implementation and use of the I-CAN v6 Participant Needs Assessment Tool, including scoring and assessment methodologies, assessor guidance and workshop materials, disability expert advice, technical evaluations, procurement and contract documentation, and records supporting the NDIA’s consideration and adoption of I-CAN v6 for participant needs assessment and planning purposes.
+-FOI 25/26-1368 (PDF 2.9MB)
+-3 documents released in full
+-5 documents released in part.
+-PROC-4807: Disability Expert Advice Report – released in part
+-Expert advice to support evaluation of the component one technical requirements – released in part
+-Proposal to undertake a procurement OVER $400,000 – released in part
+-Approval to ENTER INTO an Agreement – released in part
+-PROC-4807 – Contract for the provision of a Participant Needs Assessment Tool – released in part
+-I-CAN v6 Workshop 1 - Cognitive Disability and Communication Support Needs – released in full
+-I-CAN v6 Workshop 2 - Physical Disability – released in full
+-I-CAN v6 Workshop 3 Psychosocial Disability – released in full
++From August 2025, document issued as contract for the provision of a participant needs assessment tool
++FOI 25/26-1368
++FOI 25/26-1684
++FOI 25/26-1784
++FOI 25/26-2549
++PDF (3 MB)
++1 document released in part
++PROC-4807 – Contract for the provision of a Participant Needs Assessment Tool – dated August 2025
+ FOI 25/26-1465
+ 31/07/2026
+ Documents relating to expert review, evaluation and risk management associated with the implementation of the I-CAN v6 tool.
+@@ -1984,22 +2020,6 @@
+ The following 2 documents were released in full:
+ Employment related line items - Direct Payments to Providers in Financial Year 2024-25
+ Employment related line items - Indirect Payments to Providers in Financial Year 2024-25.
+-FOI 25/26-0624
+-08/10/2025
+-I request the following details for the top 1000 NDIS providers:
+-Provider name
+-ABN or provider registration number
+-Annual revenue or claims paid through the Scheme
+-Ranking position.
+-The documents are available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The following 2 documents were released in full:
+-Section 17 Document – Top 1,000 Provider Payments – Indirect - Date: 01 July 2024 – 30 June 2025
+-Section 17 Document – Top 1,000 Provider Payments – Direct - Date: 01 July 2024 – 30 June 2025.
+-These documents were created pursuant to section 17 of the
+-Freedom of Information Act 1982
+-.
+ 24/25-1953
+ 3/10/2025
+ Applied Behavioural Analysis (ABA) Therapy ART case management guidelines – various draft and current versions and internal NDIA correspondence regarding ABA guidelines development.
+@@ -2161,14 +2181,6 @@
+ .
+ The following document was released in full:
+ Circles of Support and Microboards: Results of an environmental scan.
+-FOI 25/26-0138
+-22/09/2025
+-List of the largest 1000 providers for 12 month period ending 30 June 2025.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The following 1 document was located and released as follows:
+-Section 17 document – Top 1,000 Provider Payments – Indirect – released in full.
+ FOI 24/25-1088
+ 19/09/2025
+ List of current internal policies, knowledge articles, standard operating procedures, checklists, and templates pertaining to:
+@@ -2225,20 +2237,6 @@
+ .
+ The following 1 document was released in full:
+ Model Litigant Obligations (MLO) Deep Dive
+-24/25-2034
+-15/09/2025
+-A list of Home and Living SIL payments made to service providers for the financial year ending 2024 (Indirect and Direct Payments).
+-A list of the top 1000 providers who billed the NDIA in the financial year ending 2024 (along with the corresponding trading names that are publicly known).
+-A copy of the Young People in Residential Aged Care (YPIRAC) Practice Guidelines.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The following 4 documents were released in full:
+-Direct Home and Living - Supported Independent Living Payments - Date: 01 July 2023 – 31 June 2024
+-Indirect Home and Living - Supported Independent Living Payments Date: 01 July 2023 – 31 June 2024
+-Paid Providers – Financial Year 2023-24 - Agency & Plan Managed - Top 1,000 providers - Date: 01 July 2023 – 31 June 2024
+-Practice Guide – Younger People in Residential Aged Care – Version 21.0 - Date: 27 March 2020
+-Documents 1-3 created pursuant to section 17 of the FOI Act.
+ FOI 25/26-0003
+ 10/09/2025
+ Data regarding all law firms engaged by the NDIA in the 2024-25 financial year for matters in which the NDIA was the respondent at the Administrative Review Tribunal.
+@@ -2333,18 +2331,6 @@
+ The following document was released in full:
+ Section 17 Document – Data and Analytics – Active Internal Reviews - Date: 31 March 2025.
+ Document created pursuant to section 17 of the
+-Freedom of Information Act 1982
+-.
+-FOI 25/26-0014
+-22/08/2025
+-A list of the top 1,000 Direct Payments to Providers from 1 July 2024 to 1 July 2025 and a list of the Top 1,000 Direct Payments to Providers from 1 July 2023 to 1 July 2024.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-The following 2 documents were released in full:
+-Section 17 Document – Top 1,000 Providers by Direct Payments - Date: 01 July 2024 - 01 July 2025
+-Section 17 Document - Top 1,000 Providers by Direct Payments - Date: 01 July 2023 - 01 July 2024
+-Documents created pursuant to section 17 of the
+ Freedom of Information Act 1982
+ .
+ FOI 24/25-1937
+@@ -3814,24 +3800,6 @@
+ 6. Specialist Disability Accommodation Eligibility Guidance v1.0 – dated 22 April 2024
+ The following document was refused in full pursuant to section 47E(d) of the FOI Act:
+ 3. HALO Decision Guide – H&L Planning v2.3
+-FOI 24/25-1022
+-31/03/2025
+-Top 1000 providers that billed NDIA from 1 July 2023 to 30 June 2024.
+-The document is available on request to the Freedom of Information Team of the Agency at
+-[email protected]
+-.
+-8 documents were released in full:
+-1. Top providers of Employment Related Assessment, Counselling and Advice
+-2. Top providers of Employment Assistance
+-3. Top providers of School Leaver Employment Supports (transitional)
+-4. Top providers of Supports in Employment - Weekday Daytime
+-5. Top providers of Supports in Employment - Weekday Evening
+-6. Top providers of Supports in Employment - Saturday
+-7. Top providers of Supports in Employment – Sunday
+-8. Top providers of Supports in Employment - Public Holiday.
+-Documents were created under section 17 of the
+-Freedom of Information Act 1982
+-.
+ FOI 24/25-0913
+ 27/03/2025
+ …any guidance material prepared by the Legal Practice and Capability Branch that mentions Applied Behaviour Analysis (ABA).
+@@ -9074,4 +9042,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-30 October 2026
++2 November 2026
+```

@@ -421,3 +421,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-02T23:39:02Z — missing
+
+- Previous SHA-256: `86ba6091c51b0718d14672201fb09b894795c0891d67c578b6b6e71b6961fb09`
+- New SHA-256: `86ba6091c51b0718d14672201fb09b894795c0891d67c578b6b6e71b6961fb09`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page disappeared from the current NDIS sitemap. Its last archived copy remains preserved.

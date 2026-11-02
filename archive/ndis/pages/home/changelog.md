@@ -1017,3 +1017,36 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-02T23:39:02Z — changed
+
+- Previous SHA-256: `bea639b25f21f2566d4400a2c038387e1bef5d30d010de3db015f912803e7c1a`
+- New SHA-256: `d79d020a86ee04c67da39d8aca7fc1af9f3c82fe47c018bc27e472fa66163177`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -50,12 +50,12 @@
+ Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
+ NDIS supports Andy to live with pride and purpose
+ 30 October 2026
+-Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+-NDIS support helps Jack find his place in the workforce
+-8 October 2026
+-Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+-Charlie’s NDIS supports help him build a bigger future
+-11 September 2026
++Sarah and Glenys first met as children through their families. Although life eventually took them in different directions, their connection was immediate when they met again.
++A friendship renewed, a future embraced
++30 October 2026
++When sisters Samah and Rawah arrived in Australia from Iraq in 2019, they could not have imagined how much their lives would change.
++The NDIS helps Samah and Rawah build brighter futures
++30 October 2026
+ More stories and videos
+ This page current as of
+ 29 June 2026
+```
