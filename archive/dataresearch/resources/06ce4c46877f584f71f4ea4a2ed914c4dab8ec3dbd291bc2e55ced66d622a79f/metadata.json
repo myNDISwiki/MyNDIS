@@ -1,5 +1,5 @@
 {
-  "bytes": 25870,
+  "bytes": 25869,
   "content_type": "application/pdf",
   "directory": "resources/06ce4c46877f584f71f4ea4a2ed914c4dab8ec3dbd291bc2e55ced66d622a79f",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3986",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-01T22:05:16Z",
+  "last_changed": "2026-11-03T01:01:39Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Previous Annual Financial Sustainability Reports.pdf\""
   },
-  "sha256": "459b95383360e634874f2527f2504215d364cd14033fd20d4cbc96acbf459762",
+  "sha256": "41c6ed8f0383b5aad9a7bc1ff1c420ecb662400ca4e706875a98cd92ee4dc50b",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3986"
 }
