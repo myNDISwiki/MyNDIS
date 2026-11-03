@@ -1717,3 +1717,65 @@ The page bytes changed, but no visible main-content wording change was detected.
  ››
  »
 ```
+
+## 2026-11-03T21:59:44Z — changed
+
+- Previous SHA-256: `b65644960ded3fd950c7a2bc1cf94d5f4948b1c683785be0d5e3b3611f82ae51`
+- New SHA-256: `7a44c1f1e8087f8c0a5f4c7f243eb4526e24b2d71789841cb6cc8fe6250078f0`
+- Visible text lines added: 14
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,13 +12,15 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(12)
+-No states available
++(13)
++Event State or Territory
++WA
++(1)
+ Event date
+ December 2026
+ (3)
+ November 2026
+-(9)
++(10)
+ Search
+ Search
+ Category
+@@ -47,19 +49,22 @@
+ Wednesday, 11 November 2026
+ Category
+ Community Engagement
++NDIS Community Forum in Perth
++Join us at a community forum in Perth on 17 November 2026. At the forum, you can learn about what changes to the NDIS might mean for you. You’ll have the chance to ask questions about what’s happening and what you need to do.
++Event Date
++Tuesday, 17 November 2026
++Event address
++South Perth, WA 6151
++Category
++Community Engagement
+ An overview of changes to the NDIS laws
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+ Tuesday, 17 November 2026
+-Category
+-Community Engagement
+-Understanding the NDIS webinar: Working with Providers
+-This session will explore how participants can work effectively with NDIS providers, from choosing the right supports to communicating expectations and managing changes so supports work the way they’re intended to.
+-Event Date
+-Wednesday, 18 November 2026
+ Pagination
+ 1
+ 2
++3
+ ›
+ ››
+ »
+```

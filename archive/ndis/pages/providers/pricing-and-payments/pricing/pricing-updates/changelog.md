@@ -706,3 +706,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-03T21:59:44Z — changed
+
+- Previous SHA-256: `99b4987e2a80647df916423f64b28e706cbd1821f33daf6ddd18537310b171b8`
+- New SHA-256: `ad458967143104f2e4b2de2dd8581e1126f2ad51fef0563e6317464a89e672dd`
+- Visible text lines added: 0
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,10 +12,6 @@
+ On this page:
+ 1 - Minister’s pricing determination
+ 2 - Previous pricing updates
+-Update:
+-Consultation is now open for annual pricing review for 2027-28 prices. Consultation closes on 1 November 2026. Learn more at
+-NDIS Engage
+-.
+ Minister’s pricing determination
+ We’ve published updated pricing schedules following the Minister for Disability and the National Disability Insurance Scheme’s pricing determination for NDIS supports. The pricing determination has been made in line with NDIS laws.
+ The maximum prices in the pricing schedules reflect our guidance on recommended prices published in June 2026. Participants and providers don’t need to do anything.
+```

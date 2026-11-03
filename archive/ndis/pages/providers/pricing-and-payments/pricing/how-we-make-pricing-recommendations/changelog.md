@@ -500,3 +500,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-03T21:59:44Z — changed
+
+- Previous SHA-256: `931042fb847179dc6ac7cad8d05492228a21b393b3e9369cef195b021bd9cb1d`
+- New SHA-256: `8a3283c72ac438a2a2520c4b189ea189b6f2543a550102f2d41860443da825b4`
+- Visible text lines added: 0
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -42,10 +42,6 @@
+ annual pricing review
+ quality supports program
+ Annual pricing review (APR)
+-Update:
+-Consultation is now open for annual pricing review for 2027-28 prices. Consultation closes on 1 November 2026. Learn more at
+-NDIS Engage
+-.
+ Each year we review NDIS prices to understand whether any changes should be considered. This process is called the annual pricing The review considers a range of factors, including supply and demand in the market, prices in other markets, wage rates and labour conditions, and broader economic factors.
+ The APR is informed by research and data from a range of sources including NDIS and market data such as private health insurance and comparable government programs such as Medicare, as well as public consultation.
+ Public consultation is an important part of the APR process.
+```

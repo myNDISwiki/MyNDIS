@@ -456,3 +456,42 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-03T21:59:44Z — changed
+
+- Previous SHA-256: `b87475e74e0b27c48333422c67695dbaadf9a011e99b4850b06800e7e1b6a2fd`
+- New SHA-256: `14296e3159a9235c3e62aab4a32426fda827652ec3a1aa8e89e0ade6adbfc3eb`
+- Visible text lines added: 4
+- Visible text lines removed: 7
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -14,11 +14,6 @@
+ 1 - What the annual pricing review (APR) is
+ 2 - What the annual pricing review (APR) is for
+ 3 - The annual pricing review (APR) for 2026-27 prices report
+-Update:
+-The Minister for Disability and the National Disability Insurance Scheme has made his first pricing determination for NDIS supports. This is set out in the pricing schedules.
+-Consultation for the annual pricing review for 2027-28 prices and pricing arrangements is now open. Feedback will help shape future pricing arrangements and ensure they reflect the needs and experiences of people who rely on and deliver NDIS supports every day. Learn more on
+-NDIS Engage
+-.
+ What the annual pricing review (APR) is
+ Each year we review NDIS prices to understand whether any pricing changes should be considered. This process is called the annual pricing review (APR). The review considers a range of factors, including supply and demand in the market, prices in other markets, wage rates and labour conditions, and broader economic factors.
+ We’ll use the APR process to inform our pricing advice to the Minister for the purpose of making a pricing determination.
+@@ -35,8 +30,10 @@
+ applying the changes.
+ The annual pricing review (APR) for 2026-27 prices report
+ Download the APR for 2026-27 prices report:
+-Annual pricing review for 2026-27 prices report (PDF 5.9MB)
+-Annual pricing review for 2026-27 prices report (DOCX 4MB)
++Annual pricing review for 2026-27 prices report
++(PDF 5.9MB)
++Annual pricing review for 2026-27 prices report
++(DOCX 4MB)
+ Main navigation sidebar
+ For providers
+ Pricing and payments
+```

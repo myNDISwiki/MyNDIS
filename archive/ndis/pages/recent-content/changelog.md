@@ -1713,3 +1713,57 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Justice Advisory Panel advice
 +30 October 2026
 ```
+
+## 2026-11-03T21:59:44Z — changed
+
+- Previous SHA-256: `9c60fe548fda61271c5b1f817eb6525f0e18eb240287a2e8381fb6ac404e155c`
+- New SHA-256: `ce02d4e6c2a32aea4af7abbb97958837002a6a163924044367e6ba287afef98b`
+- Visible text lines added: 16
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++Would we fund it
++3 November 2026
++Early Childhood partner, Innisfail, 4860
++3 November 2026
++Local Area Coordinator (LAC) partner, Innisfail, 4860
++3 November 2026
++Local Area Coordinator (LAC) partner, Mareeba, 4880
++3 November 2026
++Early Childhood partner, Mareeba, 4880
++3 November 2026
++What is the annual pricing review (APR)
++3 November 2026
++How we make pricing recommendations
++3 November 2026
++Pricing updates
++3 November 2026
+ Early Childhood partner, Rockhampton, 4700
+ 3 November 2026
+ A friendship renewed, a future embraced
+ 2 November 2026
+-The NDIS helps Samah and Rawah build brighter futures
+-2 November 2026
+-John’s built the confidence to pursue his life goals
+-2 November 2026
+-CALD Expert Advisory Group
+-2 November 2026
+-FOI disclosure log
+-2 November 2026
+-Local Area Coordinator (LAC) partner, Broken Hill, 2880
+-2 November 2026
+-Find specialist disability accommodation (SDA)
+-30 October 2026
+-Participant Service Guarantee
+-30 October 2026
+-Justice Advisory Panel advice
+-30 October 2026
+```
