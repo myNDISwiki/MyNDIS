@@ -1875,3 +1875,71 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `6cbc8ee22ec950b9954b7e95d6961bc121551bdf2a6ea1ed21324c2ef204337d`
+- New SHA-256: `61d6a9ea47cdf97c1af63ceccab38eba2182f8180a9bd73f01bc0c5663d9ac22`
+- Visible text lines added: 11
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,7 +48,7 @@
+ Provider news
+ (3)
+ Media release
+-(64)
++(65)
+ Media release from the Minister
+ (94)
+ News - housing
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(335)
++(336)
+ Notification
+ (46)
+ News State or Territory
+@@ -77,6 +77,8 @@
+ WA
+ (29)
+ News date
++November 2026
++(1)
+ October 2026
+ (15)
+ September 2026
+@@ -360,6 +362,13 @@
+ Search
+ Search
+ Category
++Media release
++News
++Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
++The Australian Government’s Fraud Fusion Taskforce (FFT) has charged five people with fraud-related offences during a coordinated national operation targeting entities which allegedly took $235 million in fraudulent Australian Government Payments and Programs (AGPPs) claims.
++Date
++4 November 2026
++Category
+ News
+ Justice Advisory Panel advice
+ The NDIA has published advice provided by the Justice Advisory Panel, which is focused on improving outcomes for people with disability who interact with the justice system.
+@@ -389,12 +398,6 @@
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+ Date
+ 16 October 2026
+-Category
+-News
+-New service agreement resources available
+-The NDIA has released new service agreement resources to help participants and providers develop clear, easy to understand service agreements.
+-Date
+-13 October 2026
+ Pagination
+ 1
+ 2
+```

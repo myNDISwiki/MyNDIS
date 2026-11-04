@@ -525,3 +525,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  The APR is informed by research and data from a range of sources including NDIS and market data such as private health insurance and comparable government programs such as Medicare, as well as public consultation.
  Public consultation is an important part of the APR process.
 ```
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `8a3283c72ac438a2a2520c4b189ea189b6f2543a550102f2d41860443da825b4`
+- New SHA-256: `11b74ca0ed6afcaadee6254c04ce59ba95ad7de8efbf0a29569cf097c4b0a20a`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

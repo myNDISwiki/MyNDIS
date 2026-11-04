@@ -1767,3 +1767,40 @@ The page bytes changed, but no visible main-content wording change was detected.
 -Justice Advisory Panel advice
 -30 October 2026
 ```
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `ce02d4e6c2a32aea4af7abbb97958837002a6a163924044367e6ba287afef98b`
+- New SHA-256: `e07168ff10193c0351d168e1a3f38ba141266d99176846e71c2d0360ca866a93`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,6 +5,12 @@
+ Save page as PDF
+ Page title
+ Updated
++Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
++4 November 2026
++Local Area Coordinator (LAC) partner, Southport, 4215
++4 November 2026
++NDIS Community Forum in Perth
++3 November 2026
+ Would we fund it
+ 3 November 2026
+ Early Childhood partner, Innisfail, 4860
+@@ -19,9 +25,3 @@
+ 3 November 2026
+ How we make pricing recommendations
+ 3 November 2026
+-Pricing updates
+-3 November 2026
+-Early Childhood partner, Rockhampton, 4700
+-3 November 2026
+-A friendship renewed, a future embraced
+-2 November 2026
+```

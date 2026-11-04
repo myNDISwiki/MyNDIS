@@ -1793,3 +1793,44 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `949d7b42fe1a30ff61808116f849b18a254f0504f8f3013557370cd2205b7562`
+- New SHA-256: `67e54eb5a3798a0d6e3343d92c51f8a1ce43f101ce7895875c61f186e5fefeb0`
+- Visible text lines added: 1
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -2148,20 +2148,6 @@
+ Complex Support Needs Branch Monitoring Framework
+ Complex Support Needs Branch (CSN) Monitoring Work Instructions
+ Trauma Informed Approach Fact Sheet
+-FOI 25/26-0178
+-25/09/2025
+-A dataset listing the 2,000 largest NDIS providers by total payments received in the 2024-2025 financial year, including:
+-Provider name or trading name;
+-ABN (if held);
+-Total payments received under NDIA-managed plans;
+-Total payments received under plan-managed plans;
+-The total combined value of all NDIS payments made to each provider during FY2024-25.
+-The document is available on request to the Freedom of Information Team of the Agency at ;
+-[email protected]
+-.
+-The following 2 documents were released in full:
+-Section 17 Document – Top 2,000 Providers –Direct Payments
+-Section 17 Document – Top 2,000 Providers –Indirect Payments
+ FOI 25/26-0019
+ 25/09/2025
+ The total number of access requests that are currently awaiting an access decision.
+@@ -9042,4 +9028,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-2 November 2026
++4 November 2026
+```

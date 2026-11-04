@@ -712,3 +712,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `cd2bc09049ca7df48f9b7dd9ae0276a477d38cc9a17a71e2e85fa3d6cf95eee7`
+- New SHA-256: `de06547c7c537789383d361d939d935cf092ca772a853fb6cc18e3ac4f0c1ad6`
+- Visible text lines added: 7
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,6 +17,13 @@
+ Events and information sessions
+ Category
+ Community Engagement
++NDIS Community Forum in Perth
++Event Date
++Tuesday, 17 November 2026
++Event address
++South Perth, WA 6151
++Category
++Community Engagement
+ An overview of changes to the NDIS laws
+ Event Date
+ Wednesday, 16 December 2026
+@@ -25,11 +32,6 @@
+ An overview of changes to the NDIS laws
+ Event Date
+ Tuesday, 1 December 2026
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-Event Date
+-Tuesday, 17 November 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

@@ -731,3 +731,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We’ve published updated pricing schedules following the Minister for Disability and the National Disability Insurance Scheme’s pricing determination for NDIS supports. The pricing determination has been made in line with NDIS laws.
  The maximum prices in the pricing schedules reflect our guidance on recommended prices published in June 2026. Participants and providers don’t need to do anything.
 ```
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `ad458967143104f2e4b2de2dd8581e1126f2ad51fef0563e6317464a89e672dd`
+- New SHA-256: `ff750f1c610283cf02471ae0bef167916a6aabbf16235688a1b9206078c4ea8e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

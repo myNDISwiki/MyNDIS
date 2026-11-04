@@ -444,3 +444,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `696c252106a946a32a0aedffe99755d29afdf71704803bf966bb6dae91216f9f`
+- New SHA-256: `c41508c252b1c3e318e6bfecc70760036df98954fbebf80ad05f42d03ddcf2d7`
+- Visible text lines added: 0
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,8 +27,6 @@
+ Your feedback
+ You can also provide feedback in the shown box below. Please do not include any personal or financial information.
+ Do you have any suggestions for improvement?
+-Email
+-If you'd like to be contacted to discuss your feedback, you can leave us your email address.
+ Submit
+ Leave this field blank
+ Main navigation sidebar
+```

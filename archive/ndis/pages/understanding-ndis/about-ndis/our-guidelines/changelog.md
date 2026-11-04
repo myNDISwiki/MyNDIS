@@ -734,3 +734,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-04T21:56:13Z — changed
+
+- Previous SHA-256: `0774ccc7dc9ec8df33d4f176b75cb243e873bdb44eae32d44e9f543f473dc1b8`
+- New SHA-256: `d9588edf330ad27c74f57d0b2d99a0a05cfcba3fb00207e26c0b85dd6f6442c6`
+- Visible text lines added: 0
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -111,8 +111,6 @@
+ Plan variations (DOCX 283KB)
+ Your plan
+ Creating your plan
+-Creating your plan
+-(PDF 527 KB)
+ Creating your plan
+ (DOCX 444KB)
+ Your plan
+```
