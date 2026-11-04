@@ -1135,3 +1135,49 @@ Page bytes changed, but no visible-text change was detected.
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-11-04T22:13:08Z — changed
+
+- Previous SHA-256: `bccc5096efffcd8768317db80a484a3f01cb27d5e0db1b489a3542a1ba8c8ccd`
+- New SHA-256: `107edf7414d2cacf36a2e781cf90776950bb38c4bb61b80b8a12a990b5e5fb53`
+- Visible text lines added: 7
+- Visible text lines removed: 6
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-03/11/2026, 11:59
++04/11/2026, 10:05
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -123,6 +123,12 @@
+ Learn more
+ Latest news
+ Category
++Media release
++News
++Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
++Date
++4 November 2026
++Category
+ News
+ Changes to how SDA funding appears in NDIS plans
+ Date
+@@ -132,11 +138,6 @@
+ NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
+ Date
+ 19 October 2026
+-Category
+-News
+-New service agreement resources available
+-Date
+-13 October 2026
+ Read more news
+ Participant experiences
+ Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
+```
