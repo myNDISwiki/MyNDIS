@@ -746,3 +746,76 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-05T22:03:13Z — changed
+
+- Previous SHA-256: `9674575471a9b28ce5bce51492a6a32410d32e370d3dff1e56b9ac5f7d2f5afb`
+- New SHA-256: `291d48fe2540c5083cd879814e9b8b1eb955b9a8cba34e84cf890d079551c1d7`
+- Visible text lines added: 20
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -11,11 +11,13 @@
+ Step 2: Understand the difference between the provider portals
+ Option 1: The my NDIS provider portal
+ Option 2: The myplace provider portal
++Option 3: The integrity portal
+ On this page:
+ 1 - Step 1: Create a myID and link it to your business
+ 2 - Step 2: Understand the difference between the provider portals
+ 3 - Option 1: The my NDIS provider portal
+ 4 - Option 2: The myplace provider portal
++5 - Option 3: The integrity portal
+ Step 1: Create a myID and link it to your business
+ As a provider, you need to create a myID and link it to your business in Relationship Authorisation Manager (RAM) before you can access the provider portals.
+ myID
+@@ -34,19 +36,23 @@
+ Tip: Your organisation’s principal authority needs to link their myID to RAM first.
+ Your organisation’s principal authority must be the first person to link their myID to the business’s ABN. They can then create and manage authorisations for others.
+ Step 2: Understand the difference between the provider portals
+-There are 2 portals that providers can use to access participant information.
++There are 3 portals available for providers to use. They are the:
+ The
+ my NDIS provider portal
+ .
+ The
+ myplace provider portal
+ .
+-The my NDIS provider portal is used for participants on our new computer system. The myplace provider portal is used for participants on our old computer system.
+-There are some functions that can only be completed in one portal. This is regardless of if a participant has a plan on the old or new computer system.
++Integrity portal
++The my NDIS provider portal is used for participants on our new computer system.
++The myplace provider portal is used for participants on our old computer system. Providers can also use the portals to access participant information.
++Some tasks can only be completed in one portal regardless of which system a participant's plan is on.
+ All:
+ specialist disability accommodation (SDA) dwellings are enrolled with us through the my NDIS provider portal
+ claim and payment enquiries are submitted through the my NDIS provider portal
+ claims and payments are submitted through the myplace provider portal.
++Tip: Some providers may need to use the integrity portal as well.
++The integrity portal is for providers who need to supply extra information to support their claims. We’ll send you a letter if we need you to use the integrity portal.
+ Option 1: The my NDIS provider portal
+ Use the my NDIS provider portal to:
+ select and switch between active organisations
+@@ -202,6 +208,17 @@
+ (PDF 89KB)
+ myplace provider portal terms and conditions
+ (DOCX 52KB)
++Option 3: The integrity portal
++You may be asked to provide us with extra information and evidence through the integrity portal.
++We’ll send you a letter if you need to use the portal. It’ll explain how to use it and what information we need.
++Learn to use the integrity portal
++The integrity portal step-by-step guide is a comprehensive resource that guides you through how to navigate and complete tasks in the integrity portal.
++It includes screenshots of the portal to show you how to complete tasks.
++Download the step-by-step guide to using the integrity portal:
++Step-by-step guide to using the integrity portal
++(PDF 1.1MB)
++Step-by-step guide to using the integrity portal
++(DOCX 1.9MB)
+ Main navigation sidebar
+ For providers
+ Pricing and payments
+```

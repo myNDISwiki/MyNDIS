@@ -1804,3 +1804,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 -A friendship renewed, a future embraced
 -2 November 2026
 ```
+
+## 2026-11-05T22:03:13Z — changed
+
+- Previous SHA-256: `e07168ff10193c0351d168e1a3f38ba141266d99176846e71c2d0360ca866a93`
+- New SHA-256: `934908ab18f22eeed92ba494734ba547d2eaf82a42d64d1a3edbac3868c89067`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,8 +5,6 @@
+ Save page as PDF
+ Page title
+ Updated
+-Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
+-4 November 2026
+ Local Area Coordinator (LAC) partner, Southport, 4215
+ 4 November 2026
+ NDIS Community Forum in Perth
+@@ -25,3 +23,5 @@
+ 3 November 2026
+ How we make pricing recommendations
+ 3 November 2026
++Pricing updates
++3 November 2026
+```
