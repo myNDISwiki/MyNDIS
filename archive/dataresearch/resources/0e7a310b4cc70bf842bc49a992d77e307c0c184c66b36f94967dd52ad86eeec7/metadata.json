@@ -1,5 +1,5 @@
 {
-  "bytes": 62289,
+  "bytes": 62288,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/0e7a310b4cc70bf842bc49a992d77e307c0c184c66b36f94967dd52ad86eeec7",
   "embeds": [
@@ -12,7 +12,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research/exploring-participant-experiences-achieving-sense-purpose",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-03T23:21:23Z",
+  "last_changed": "2026-11-04T23:42:13Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Femployment-research%2Fexploring-participant-experiences-achieving-sense-purpose",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -155,7 +155,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 17:14:19 GMT"
   },
-  "sha256": "0d104b9fa03acefd13a3e38fe9ab94f9807f73c8192c98cfdd1b84cddf6cb7c7",
+  "sha256": "fc7aa65cf33fecb1aef5d6ec1d04748a9043f798785077cede61dc94e276f958",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research/exploring-participant-experiences-achieving-sense-purpose"
 }

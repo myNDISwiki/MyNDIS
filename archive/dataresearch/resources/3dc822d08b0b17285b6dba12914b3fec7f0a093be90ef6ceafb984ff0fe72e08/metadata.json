@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-nsw",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-03T23:21:23Z",
+  "last_changed": "2026-11-04T23:42:13Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-nsw",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -326,7 +326,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 09:25:05 GMT"
   },
-  "sha256": "a9151a9af4ceda0a6d44ae7c51ba56a5557ccee2788db66f462492f63d85613b",
+  "sha256": "310bbc614a01d86b8c5644dd94e65e77e629bc6634819b7ec0a9ca6ccb9aaa8e",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-nsw"
 }
