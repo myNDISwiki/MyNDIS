@@ -7768,3 +7768,200 @@ curl: (22) The requested URL returned error: 422
 curl: (22) The requested URL returned error: 422
 curl: (22) The requested URL returned error: 422
 
+
+## 2026-11-05T22:40:40Z
+
+Status: **partial** — 20 fetch failure(s). Successful captures from this run were retained.
+
+### Added
+
+- http://www.health.gov.au/committees-and-groups/ndis-reform-advisory-committee?language=en — `jina-reader-fallback`
+- http://www.health.gov.au/our-work/ndis-legislation-changes — `jina-reader-fallback`
+- http://www.health.gov.au/our-work/ndis-legislation-changes/amendments/funding-changes-for-ndis-supports — `jina-reader-fallback`
+- http://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis — `jina-reader-fallback`
+- http://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation — `jina-reader-fallback`
+- http://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en — `jina-reader-fallback`
+- http://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en — `jina-reader-fallback`
+- http://www.health.gov.au/resources/publications/ndis-provider-and-worker-registration-taskforce-advice — `jina-reader-fallback`
+- http://www.health.gov.au/resources/publications/technical-advisory-group-for-ndis-functional-capacity-communique-november-2026?language=en — `jina-reader-fallback`
+- http://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-auslan — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/ndis-reforms — `direct`
+- https://consultations.health.gov.au/disability-and-carers-group/ndis-reforms/consult_view — `direct`
+- https://www.health.gov.au/committees-and-groups/ndis-reform-advisory-committee?language=en — `jina-reader-fallback`
+- https://www.health.gov.au/our-work/ndis-legislation-changes — `jina-reader-fallback`
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/funding-changes-for-ndis-supports — `jina-reader-fallback`
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis — `jina-reader-fallback`
+- https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation — `jina-reader-fallback`
+- https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en — `jina-reader-fallback`
+- https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en — `jina-reader-fallback`
+- https://www.health.gov.au/resources/publications/ndis-provider-and-worker-registration-taskforce-advice — `jina-reader-fallback`
+- https://www.health.gov.au/resources/publications/technical-advisory-group-for-ndis-functional-capacity-communique-november-2026?language=en — `jina-reader-fallback`
+- https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-auslan — `jina-reader-fallback`
+
+### Changed
+
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf — `jina-reader-fallback`
+- http://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports — `direct`
+- https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view — `direct`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view — `direct`
+- https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf — `jina-reader-fallback`
+- https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx — `jina-reader-fallback`
+- https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en — `jina-reader-fallback`
+
+### Fetch failures
+
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/securing-the-ndis-for-future-generations: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/about: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/news/new-price-limits-set-for-ndis-supports?language=en: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/news?sort_by=field_h_date_published_value&sort_order=DESC: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/publications/technical-advisory-group-for-ndis-functional-capacity-communique-october-2026?language=en: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-safeguards-for-high-support-needs-participants-auslan: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-safeguards-for-high-support-needs-participants-auslan?language=en: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-auslan?language=en: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/resources?sort_by=field_h_resource_date_value&sort_order=DESC: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/publications/securing-the-ndis-for-future-generations-timeline: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/publications/securing-the-ndis-for-future-generations-timeline-0: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/committees-and-groups/ndis-reform-advisory-committee: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/resources/collections/engagements-on-ndis-rules: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+- https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+curl: (22) The requested URL returned error: 422
+
