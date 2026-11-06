@@ -819,3 +819,43 @@ The page bytes changed, but no visible main-content wording change was detected.
  For providers
  Pricing and payments
 ```
+
+## 2026-11-06T21:32:25Z — changed
+
+- Previous SHA-256: `291d48fe2540c5083cd879814e9b8b1eb955b9a8cba34e84cf890d079551c1d7`
+- New SHA-256: `ce08ff6854b379a4895d391af1fba6366b2faff46598281f09194b60f9b0f389`
+- Visible text lines added: 4
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -19,7 +19,7 @@
+ 4 - Option 2: The myplace provider portal
+ 5 - Option 3: The integrity portal
+ Step 1: Create a myID and link it to your business
+-As a provider, you need to create a myID and link it to your business in Relationship Authorisation Manager (RAM) before you can access the provider portals.
++As a provider, you need to create a myID and link it to your business in Relationship Authorisation Manager (RAM) to access the provider portals.
+ myID
+ myID is the Australian Government’s Digital ID app. It provides a convenient and secure way for you to prove who you are online.
+ All provider employees who use the provider portals need to set up their own Digital ID with myID.
+@@ -37,13 +37,11 @@
+ Your organisation’s principal authority must be the first person to link their myID to the business’s ABN. They can then create and manage authorisations for others.
+ Step 2: Understand the difference between the provider portals
+ There are 3 portals available for providers to use. They are the:
+-The
+ my NDIS provider portal
++myplace provider portal
++i
++ntegrity portal
+ .
+-The
+-myplace provider portal
+-.
+-Integrity portal
+ The my NDIS provider portal is used for participants on our new computer system.
+ The myplace provider portal is used for participants on our old computer system. Providers can also use the portals to access participant information.
+ Some tasks can only be completed in one portal regardless of which system a participant's plan is on.
+```

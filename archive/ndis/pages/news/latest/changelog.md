@@ -1952,3 +1952,65 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-06T21:32:25Z — changed
+
+- Previous SHA-256: `72dd07b38c506ff10f1d57b7deeca697d672c49523be33789f5a5028619bfdff`
+- New SHA-256: `b040f0ea49a37f159c3b73e9e354bc477bfd3b2afcf7507bcb9d0a3ab58010d1`
+- Visible text lines added: 10
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,9 +56,9 @@
+ Media statements
+ (5)
+ News
+-(336)
++(337)
+ Notification
+-(46)
++(47)
+ News State or Territory
+ ACT
+ (12)
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ November 2026
+-(1)
++(2)
+ October 2026
+ (15)
+ September 2026
+@@ -362,6 +362,13 @@
+ Search
+ Search
+ Category
++News
++Notification
++Planned system updates 8 November 2026
++There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
++Date
++6 November 2026
++Category
+ Media release
+ News
+ Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
+@@ -392,12 +399,6 @@
+ From 1 December 2026, the maximum prices for four NDIS support items will increase.
+ Date
+ 19 October 2026
+-Category
+-Notification
+-Planned system updates 17-18 October 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+-Date
+-16 October 2026
+ Pagination
+ 1
+ 2
+```
