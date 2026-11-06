@@ -1,5 +1,5 @@
 {
-  "bytes": 9637,
+  "bytes": 9636,
   "content_type": "application/pdf",
   "directory": "resources/4653a08d599eba103f36ee46d399612579d61d76227d4d40e17d8f8b793bf973",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3962",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-04T23:42:13Z",
+  "last_changed": "2026-11-05T23:41:15Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Outcomes and goals.pdf\""
   },
-  "sha256": "25777e4764870c54382d3c12238e297f7c0c04d88da788b5ba327365329ebbfe",
+  "sha256": "a2e15c9f15dcf1b844b4acb0fc0398c1bb611037c4632828685512afdd1b0cfb",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3962"
 }
