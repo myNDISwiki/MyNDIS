@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/sensory-based-interventions",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-05T23:41:15Z",
+  "last_changed": "2026-11-06T23:08:52Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Fsensory-based-interventions",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -158,7 +158,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 05:54:01 GMT"
   },
-  "sha256": "983e8e483f292bdcd5cbbafd839555bf7333cb8a96b958ce06c4ddef6f513d43",
+  "sha256": "d37b19fdc8382d30d89f4ec05597f446f9369cd07d22cf4ad6aa9fc367048059",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/sensory-based-interventions"
 }
