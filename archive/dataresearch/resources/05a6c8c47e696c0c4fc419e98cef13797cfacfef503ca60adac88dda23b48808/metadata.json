@@ -1,5 +1,5 @@
 {
-  "bytes": 104529,
+  "bytes": 104528,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/05a6c8c47e696c0c4fc419e98cef13797cfacfef503ca60adac88dda23b48808",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-sa",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-06T23:08:52Z",
+  "last_changed": "2026-11-07T21:51:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-sa",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -293,7 +293,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 06 Nov 2026 00:31:44 GMT"
   },
-  "sha256": "b1d192419beedab1e68be1a1751fea0ccf0c69b9865ca87d7b4a8b3de857ba3b",
+  "sha256": "b7451d0ad8a20a42c0c6f655b9237b20662a2c75100aeb13fedf2640249fbfc4",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-sa"
 }

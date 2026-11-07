@@ -1,5 +1,5 @@
 {
-  "bytes": 19089,
+  "bytes": 19090,
   "content_type": "application/pdf",
   "directory": "resources/14c7849a2bbb50c9e48d4c03323fa54b978dd9af42a7a82c9a20e3c6f031b9eb",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4050",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-06T23:08:52Z",
+  "last_changed": "2026-11-07T21:51:00Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Support for researchers.pdf\""
   },
-  "sha256": "41d5da51b420700ddb3648b543b2acb50b5562c01de200e261f295424e939d6d",
+  "sha256": "af4264b34155a1fba69b7b95d53c009a8d93c821d2f2acf96f2a6612e7dbd558",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4050"
 }

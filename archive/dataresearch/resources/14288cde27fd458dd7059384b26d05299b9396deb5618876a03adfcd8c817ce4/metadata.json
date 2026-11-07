@@ -1,5 +1,5 @@
 {
-  "bytes": 60961,
+  "bytes": 60962,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/14288cde27fd458dd7059384b26d05299b9396deb5618876a03adfcd8c817ce4",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/inklings-wa-pilot-program",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-06T23:08:52Z",
+  "last_changed": "2026-11-07T21:51:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Finklings-wa-pilot-program",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -148,7 +148,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 06:32:09 GMT"
   },
-  "sha256": "e3ed71f7c5617c58ba4e81cb19e4ce1a72908139f3fec9227c9b33bc76679085",
+  "sha256": "8455a0148b5b027f8cc61a7c3cffd6804c4c70187da600dc6c54438afa3f6d7f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/inklings-wa-pilot-program"
 }

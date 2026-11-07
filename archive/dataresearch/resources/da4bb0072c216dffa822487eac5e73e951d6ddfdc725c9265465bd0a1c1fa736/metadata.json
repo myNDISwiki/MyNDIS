@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3702",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-06T23:08:52Z",
+  "last_changed": "2026-11-07T21:51:00Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  SA.pdf\""
   },
-  "sha256": "55f7c8bffb4aea593588ce6480dc26aa1e37cac14aa9140b439f4151bbd6cd9f",
+  "sha256": "3785005ab4d700691021d3e8925199d0999485def0cc7cbe6aaa4a36887d1b5d",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3702"
 }

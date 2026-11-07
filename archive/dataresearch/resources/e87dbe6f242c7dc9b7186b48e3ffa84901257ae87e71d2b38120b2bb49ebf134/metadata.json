@@ -1,5 +1,5 @@
 {
-  "bytes": 58219,
+  "bytes": 58221,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/e87dbe6f242c7dc9b7186b48e3ffa84901257ae87e71d2b38120b2bb49ebf134",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-06T23:08:52Z",
+  "last_changed": "2026-11-07T21:51:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fhome-and-living-supports",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -143,7 +143,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 06:08:20 GMT"
   },
-  "sha256": "c51d343755fe2803b200b5328414b3771a6126b9f99916d94a9faa1ae956bc49",
+  "sha256": "8f6ec4db60a0b97f2b52e749d6b983adcc5619e9e16192f9a9355d26aaaf871e",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports"
 }
