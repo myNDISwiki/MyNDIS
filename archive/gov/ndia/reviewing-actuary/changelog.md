@@ -1236,3 +1236,12 @@ Page bytes changed, but no visible-text change was detected.
  Participant experiences
  Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
 ```
+
+## 2026-11-07T20:31:14Z — changed
+
+- Previous SHA-256: `7990a26f7b078806748a8587482dbb90fc386e73bb7cb59f5dfda1d586af35b4`
+- New SHA-256: `645bfbf9a663279cfc33a4e7f04ce3d843b622db500c153d3198d23ff32aea2e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+Page bytes changed, but no visible-text change was detected.
