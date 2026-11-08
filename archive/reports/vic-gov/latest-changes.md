@@ -1,8 +1,6 @@
-# Victorian Government latest changes
-
-Checked: 2026-11-08T18:24:56Z
+# vic-gov latest archive changes
 
 ## MODIFIED
 
-- https://www.vic.gov.au/choose-early-childhood-service
+- `archive/gov/vic-gov/pages/choose-early-childhood-service/current.html`
 
