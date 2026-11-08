@@ -1,5 +1,5 @@
 {
-  "bytes": 4803,
+  "bytes": 4804,
   "content_type": "application/pdf",
   "directory": "resources/321526c03df4049aa8b27516904d345c13155e2e2e1c05058ff7935d0dfbaa1a",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4049",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-07T21:51:00Z",
+  "last_changed": "2026-11-08T22:05:50Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Improving outcomes for participants.pdf\""
   },
-  "sha256": "12489e84f02bf3512a248fd83a705191683a72500771e583a11b6cc1e6257a0d",
+  "sha256": "f43d83ee25ffc1dd0681c31fa9c41e890f1788e28f2154ccf324fb856bab3f78",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4049"
 }

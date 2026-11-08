@@ -1,5 +1,5 @@
 {
-  "bytes": 78970,
+  "bytes": 78971,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/18abd598329158690344043fe385ddf6c1f4e9feef3321570896fbcacd996f0a",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/cognitive-behaviour-therapy",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-07T21:51:00Z",
+  "last_changed": "2026-11-08T22:05:50Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Fcognitive-behaviour-therapy",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -157,7 +157,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 06:19:47 GMT"
   },
-  "sha256": "ee50d05a62c0803f3f313fd47b72cf6b03d998542658990d675c92aa1688b043",
+  "sha256": "062bc8b5eba94ec700c24ff6acfb1c3f8cf88d544d05542c9acaa4f17e546b64",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/cognitive-behaviour-therapy"
 }

@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4033",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-07T21:51:00Z",
+  "last_changed": "2026-11-08T22:05:50Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market stewardship and employment.pdf\""
   },
-  "sha256": "a2463cf61f7dbfaf60d2573bf934db1caa101f152b6f9f843746dd7e7d48026e",
+  "sha256": "81cefcf89223f47aa03ad75090eee130ca1d8a94169f1838c57840a76580ed4a",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4033"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 58043,
+  "bytes": 58042,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/5555ed3fd9cfc6d3cf55875760cbd7aa92e1458e7f95eafa3ebbe9c29fa3bc43",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/home-and-living-demonstration-project-evaluation",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-07T21:51:00Z",
+  "last_changed": "2026-11-08T22:05:50Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fhome-and-living-supports%2Fhome-and-living-demonstration-project-evaluation",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -150,7 +150,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 30 Oct 2026 08:42:50 GMT"
   },
-  "sha256": "ecf98c8db7129bbcc4bdb5d599c9f6819559b4743d1439cde727e0ef9f232a0c",
+  "sha256": "14a21193a9f1c4c8ead969060f0b7eb97e98b0dc220aa02e398751caf054bebe",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/home-and-living-demonstration-project-evaluation"
 }

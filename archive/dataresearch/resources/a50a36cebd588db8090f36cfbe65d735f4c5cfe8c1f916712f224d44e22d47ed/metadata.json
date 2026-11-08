@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4048",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-07T21:51:00Z",
+  "last_changed": "2026-11-08T22:05:50Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Measure of wellbeing for people with disability.pdf\""
   },
-  "sha256": "354c206d599cb7783855af9e405d18b298a8d6a68590c96071f4bb36790a5f46",
+  "sha256": "8958c6236fc6b58cdce12f8ee009d29e03f70bf18e500fe4f845c94c48e255b9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4048"
 }
