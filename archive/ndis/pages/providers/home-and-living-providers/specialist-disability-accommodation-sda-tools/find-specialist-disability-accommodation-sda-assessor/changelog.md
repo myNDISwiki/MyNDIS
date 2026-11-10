@@ -1156,3 +1156,151 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-10T00:18:29Z — changed
+
+- Previous SHA-256: `b92d1741c586ee321cf965bcbb3a93007445026e8b2cab6e75a72904a71cd2c2`
+- New SHA-256: `6268d72d2ce86e374485e95ae734b78214b0662aee4687262ea5394cccb79bd8`
+- Visible text lines added: 71
+- Visible text lines removed: 14
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -126,18 +126,6 @@
+ Web
+ :
+ https://www.accessarchitects.com.au
+-Vanessa Griffin
+-SDA00009
+-Vista Access Architects
+-Mobile
+-:
+-0437 131 076
+-Email
+-:
+-[email protected]
+-Web
+-:
+-https://www.accessarchitects.com.au
+ George Saliba
+ SDA00012
+ Access Mobility Solutions
+@@ -391,7 +379,7 @@
+ [email protected]
+ Suwat Phonsawat
+ SDA00125
+-Western Sydney Accessibility
++Vista Access Architects
+ Mobile
+ :
+ 0435 791 474
+@@ -662,6 +650,18 @@
+ :
+ [email protected]
+ Queensland (Qld)
++Vanessa Griffin
++SDA00009
++Vista Access Architects
++Mobile
++:
++0437 131 076
++Email
++:
++[email protected]
++Web
++:
++https://www.accessarchitects.com.au
+ Paul McCarthy
+ SDA00018
+ Maccess Consulting Group
+@@ -824,6 +824,21 @@
+ Web
+ :
+ https://forwardaccess.com.au
++Emma Keith
++SDA00066
++All in Access Pty Ltd
++Mobile
++:
++0458 474 101
++Phone
++:
++07 4222 9889
++Email
++:
++[email protected]
++Web
++:
++https://www.allinaccess.com.au
+ Troy Richardson
+ SDA00067
+ All in Access Pty Ltd
+@@ -954,6 +969,21 @@
+ Web
+ :
+ www.accessconsultant.com.au
++Emily Sproule
++SDA00186
++Elevation Architecture
++Mobile
++:
++0457 611 789
++Phone
++:
++07 3251 6900
++Email
++:
++[email protected]
++Web
++:
++https://www.elevationarchitecture.com.au
+ South Australia (SA)
+ Warwick Gregg
+ SDA00027
+@@ -1059,7 +1089,7 @@
+ [email protected]
+ Web:
+ https://saaarchitects.com.au/
+-Mathew Sanders
++Matthew Sanders
+ SDA00159
+ Buildsurv
+ Mobile
+@@ -1582,6 +1612,33 @@
+ Web
+ :
+ https://architectureandaccess.com.au
++Ian Parkinson
++SDA00185
++Equal Access Group Pty Ltd
++Mobile
++:
++0490 797 227
++Phone
++:
++03 9001 5805
++Email
++:
++[email protected]
++Carl Mauric
++SDA00187
++BSA Building Surveyors
++Mobile
++:
++0458 076 241
++Phone
++:
++03 5241 2559
++Email
++:
++[email protected]
++Web
++:
++www.bsabs.com.au
+ Western Australia
+ Lauren Hart
+ SDA00010
+```

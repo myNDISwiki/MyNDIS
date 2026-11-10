@@ -1870,3 +1870,50 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-10T00:18:29Z — changed
+
+- Previous SHA-256: `d265dc87b8d9ed4d88e38326756e25b27e0f4dba7f0c05c3cb9225eeaa753815`
+- New SHA-256: `695afd182ed9c4d7d592bdc47faf25199874c7d982351dd4fe7b92c8456f50f1`
+- Visible text lines added: 21
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,26 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-2476
++27/10/2026
++Operational guidelines, internal guidance/advice, policies and decision-making tools held by the NDIA between 31 May 2024 until 18 March 2026
++FOI 25/26-2476 (PDF 7MB)
++8 documents released – 5 in full and 3 in part:
++Enacting a planning review decision – dated 20 October 2025
++Knowledge Article: IRT – Conduct a desktop review – dated 6 February 2025
++Knowledge Article: IRT – Conduct a desktop review – dated 22 March 2024
++Knowledge Article: IRT – Conduct a desktop review – dated 21 June 2024
++Knowledge Article: IRT – Enacting a planning review decision – dated 21 June 2024
++Knowledge Article: IRT – Enacting a planning review decision – dated 13 October 2025
++Guidelines – Principles of s100 Planning Review – dated 27 March 2024
++Guidelines – Principles of s100 Planning Review – dated 20 November 2024
++FOI 25/26-3357
++20/10/2026
++Personal documents and Data
++Participants with a primary impairment of Autism who have 01_004_0107_1_1 Assistance with Personal Domestic Activities the funded in FY 2025-26.
++FOI 25/26-3357 (PDF 661KB)
++5 documents released, 2 in full, 3 in part. 4 documents are personal information and are unsuitable for disclosure log.
++S17 - Data - Participants with a primary impairment of Autism who have 01_004_0107_1_1 Assistance with Personal Domestic Activities the funded in FY 2025-26.
+ FOI 25/26-3514
+ 15/10/2026
+ From 1 November 2022, documents issued as fraud fusion taskforce governance memorandum of understanding
+@@ -9028,4 +9048,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-4 November 2026
++9 November 2026
+```

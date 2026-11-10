@@ -963,3 +963,35 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-10T00:18:29Z — changed
+
+- Previous SHA-256: `11bad2da5abd9d9b967f3ac108c61c7b198d01f8d15411eb2db52f4c45b93eda`
+- New SHA-256: `cd4f05228aba6d767ea9c56a889d41836c09fde8bd7cf954b6c7ddb775f4c0d2`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -116,7 +116,7 @@
+ Factsheet: Your plan meeting
+ (PDF 179KB)
+ Factsheet: Your plan meeting
+-(DOCX 284KB)
++(DOCX 281KB)
+ Support categories
+ Factsheet: Support categories
+ (DOCX 287KB)
+@@ -197,7 +197,7 @@
+ Guide to self-management
+ (PDF 346KB)
+ Guide to self-management
+-(DOCX 214KB)
++(DOCX 97KB)
+ Participant journey booklet
+ Download the participant journey map:
+ Participant journey
+```

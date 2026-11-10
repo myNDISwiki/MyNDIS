@@ -547,3 +547,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-10T00:18:29Z — changed
+
+- Previous SHA-256: `16a79764e2c6d440eaecae8bced60e239eab1ffa30a18a1860e20b205dade581`
+- New SHA-256: `98384166c515e21eecce9540533d0211f610bf69fd0d61241538357325a81c7e`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -118,7 +118,7 @@
+ Guide to self-management
+ (PDF 1.68MB)
+ Guide to self-management
+-(DOCX 214.57KB)
++(DOCX 97KB)
+ Download the guide to self-management Easy Read:
+ Guide to self-management - Easy Read
+ (PDF 7.18MB)
+```
