@@ -1,5 +1,5 @@
 {
-  "bytes": 3443,
+  "bytes": 3442,
   "content_type": "application/pdf",
   "directory": "resources/5d666e623ca276217a00bdae67a5cd4d269c773d0b07c6def916314f8b3d3821",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4061",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-08T22:05:50Z",
+  "last_changed": "2026-11-10T01:34:11Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Culturally and Linguistically Diverse.pdf\""
   },
-  "sha256": "47374a08ac0e86159d4256ef0f82ea0cf57bbaf05965b1a2128eb955d3a43bae",
+  "sha256": "fc1601562cd968ccd890cc398f332ceb8aba9f18e9845166ffdf8074ae571cd2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4061"
 }

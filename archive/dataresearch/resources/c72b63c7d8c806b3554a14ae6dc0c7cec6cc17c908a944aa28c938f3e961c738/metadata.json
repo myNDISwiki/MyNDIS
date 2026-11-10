@@ -1,5 +1,5 @@
 {
-  "bytes": 68972,
+  "bytes": 68970,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/c72b63c7d8c806b3554a14ae6dc0c7cec6cc17c908a944aa28c938f3e961c738",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-participant-outcomes-reports/participant-family-and-carer-outcomes-vic",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-08T22:05:50Z",
+  "last_changed": "2026-11-10T01:34:11Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fprevious-participant-outcomes-reports%2Fparticipant-family-and-carer-outcomes-vic",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -166,7 +166,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10347260902154543.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10349261020121938.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1yjEOgDAIQNEL1fRIDbaEkiA0gIO3N7o5uP28fB0clcR2kC3yElYq-pgjDPS3G5xp3Y4lmFj7BCVsy4KTTUsgeJ8NFn-_H78B6XctEQ&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_LbBO86F3tqhL8vHl4Pt-jIUhf1oS_gmmbcdU_TkkZNU.js?delta=2&include=eJx1yjEOgDAIQNEL1fRIDbaEkiA0gIO3N7o5uP28fB0clcR2kC3yElYq-pgjDPS3G5xp3Y4lmFj7BCVsy4KTTUsgeJ8NFn-_H78B6XctEQ&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tnn95z=",
@@ -194,9 +194,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 30 Oct 2026 14:59:41 GMT"
+    "Last-Modified": "Mon, 09 Nov 2026 23:50:07 GMT"
   },
-  "sha256": "c0cdaac75828732500b321f6c30472b5e9a1da7eac96870f516665ca24a62df6",
+  "sha256": "9502e1448cb6e9583474874aa6d32254df5dd47c791d4729abaa42c353e75e6f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-participant-outcomes-reports/participant-family-and-carer-outcomes-vic"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 63026,
+  "bytes": 63028,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/38ecadc7bd84968620a2ef3259556eb1c2978db9fadf745ff79cbb655c0b1f1f",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-08T22:05:50Z",
+  "last_changed": "2026-11-10T01:34:11Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -130,7 +130,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10347260902154543.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10349261020121938.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-doctor.svg",
     "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-ecei-needs.svg",
     "https://dataresearch.ndis.gov.au/sites/default/files/icons/2018-11/illustration-ecei.svg",
@@ -165,9 +165,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 30 Oct 2026 05:34:15 GMT"
+    "Last-Modified": "Mon, 09 Nov 2026 23:36:52 GMT"
   },
-  "sha256": "495ff860ec43aa12d545481eacc8fd79f716fc732acd49b9f1fe45e42c946600",
+  "sha256": "04dfec75d3ffc8b5baa2cf459490d341d93da1b78349f560effa751742f3cadf",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals"
 }

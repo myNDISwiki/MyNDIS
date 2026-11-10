@@ -1,5 +1,5 @@
 {
-  "bytes": 9585,
+  "bytes": 9584,
   "content_type": "application/pdf",
   "directory": "resources/43658f86235e5403fe0a8e6f55bd0c2d8bbebcfb708136dfe1f50248a67816b9",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4086",
   "first_seen": "2026-10-28T22:37:08Z",
   "kind": "file",
-  "last_changed": "2026-11-08T22:05:50Z",
+  "last_changed": "2026-11-10T01:34:11Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Justice Advisory Panel advice.pdf\""
   },
-  "sha256": "839ff36017351c5f94853140ead322e4974f91108ee1c848b10899e54d7c9332",
+  "sha256": "5421253fc15153bbc15def27d9e48e5af908c66c5bb06b2604b0cc4c9e822ede",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4086"
 }

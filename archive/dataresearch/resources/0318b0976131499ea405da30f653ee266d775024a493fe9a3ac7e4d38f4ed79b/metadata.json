@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/naturalistic-developmental-behavioural-interventions",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-08T22:05:50Z",
+  "last_changed": "2026-11-10T01:34:11Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Fnaturalistic-developmental-behavioural-interventions",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -116,7 +116,7 @@
     "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/markets-and-innovations-research",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
     "https://dataresearch.ndis.gov.au/research-and-evaluation/support-researchers",
-    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10347260902154543.js",
+    "https://dataresearch.ndis.gov.au/ruxitagentjs_ICA7NQVfqrux_10349261020121938.js",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_3JQ2JL_gRek1sBMirTDO562QpeKpQGJicRDxWEYfRJE.js?delta=0&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/sites/default/files/js/js_jcnQ3ju0Zgd-ZhMoEKENDUWT75AtKmbSlp4f7oHyetQ.js?delta=2&include=eJx1ykEOgCAMRNELoRyJVGigCbSEloW3F9y5cDU_L8OJ1OcqF9RD7a7E2fG2gZBwvB1gmkRpvaKhjwU4Y-iiZCTsFGHEEqDT9_fjbuVGv_ZsyPMBH_AzdA&language=en&scope=footer&theme=ndis",
     "https://dataresearch.ndis.gov.au/themes/custom/ndis/assets/dist/css/app.css?tnn95z=",
@@ -155,9 +155,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Fri, 30 Oct 2026 05:54:51 GMT"
+    "Last-Modified": "Tue, 10 Nov 2026 02:19:00 GMT"
   },
-  "sha256": "3affe02369fb3577c53d56cfd439d6f778e1d70f1c3f3265f07bff80951cb949",
+  "sha256": "dc8f0a298a5d09b02507d0df6bb73c078d0cb033851481bd7b045a38e2212fad",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/naturalistic-developmental-behavioural-interventions"
 }
