@@ -857,3 +857,54 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-11-11T22:44:40Z — changed
+
+- Previous SHA-256: `fd5b4385dd6ac4717009fc7c592ea3ed505229205f5cf4c647ef616f9d60007b`
+- New SHA-256: `8eb76b0e9251be60898a754e98b466235d708435c7b2067d4927a17eab651824`
+- Visible text lines added: 7
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -19,8 +19,6 @@
+ News
+ Media Release State or Territory
+ NT
+-(1)
+-November 2026
+ (1)
+ October 2026
+ (3)
+@@ -111,13 +109,6 @@
+ Category
+ Media release
+ News
+-Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
+-The Australian Government’s Fraud Fusion Taskforce (FFT) has charged five people with fraud-related offences during a coordinated national operation targeting entities which allegedly took $235 million in fraudulent Australian Government Payments and Programs (AGPPs) claims.
+-Date
+-4 November 2026
+-Category
+-Media release
+-News
+ Sydney man charged for alleged role in $1.8 million NDIS fraud
+ A Sydney man, 36, has been charged over his alleged role in a sophisticated $1.8 million fraud, following an investigation by the Australian Government Fraud Fusion Taskforce (FFT).
+ Date
+@@ -149,6 +140,13 @@
+ Stronger NDIS integrity systems put in place by the Australian Government have delivered $2.1 billion in savings and benefits through stopping non-compliant payments and protecting participant funding from misuse.
+ Date
+ 23 September 2026
++Category
++Media release
++Media release from the Minister
++Pair jailed as NDIS integrity systems protect participants
++The Australian Government welcomes 2 prison sentences handed down this week as unprecedented integrity actions continue to strengthen NDIS systems and protect participants.
++Date
++11 September 2026
+ Pagination
+ 1
+ 2
+```

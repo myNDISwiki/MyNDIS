@@ -995,3 +995,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Download the participant journey map:
  Participant journey
 ```
+
+## 2026-11-11T22:44:40Z — changed
+
+- Previous SHA-256: `cd4f05228aba6d767ea9c56a889d41836c09fde8bd7cf954b6c7ddb775f4c0d2`
+- New SHA-256: `d9da2c6c3540582fe8488428bac9c60c08d67e7805ff6fd5283e04191ba5f065`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

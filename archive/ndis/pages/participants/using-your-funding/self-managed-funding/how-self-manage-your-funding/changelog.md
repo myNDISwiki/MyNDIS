@@ -570,3 +570,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Guide to self-management - Easy Read
  (PDF 7.18MB)
 ```
+
+## 2026-11-11T22:44:40Z — changed
+
+- Previous SHA-256: `98384166c515e21eecce9540533d0211f610bf69fd0d61241538357325a81c7e`
+- New SHA-256: `099dd5cb2914864549bd76296d4f5da7b19d2625ea39eedf950d610cae96eb50`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
