@@ -1,5 +1,5 @@
 {
-  "bytes": 56581,
+  "bytes": 56582,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/5a37f3b694cd743bcad4c12485388c561f640592a1c18ee404be1b4657d71cba",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-10T01:34:11Z",
+  "last_changed": "2026-11-10T23:19:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fresearch-webinars",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -151,7 +151,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 10 Nov 2026 00:52:43 GMT"
   },
-  "sha256": "91230b7e85b6701cad3bf34eeee622f66c6db1c6fc7f6f71d9a1ee333dc32042",
+  "sha256": "667e169b2d0ea5271628d4ce93479800d0ca70b0eebc657dbda0c66ba4a0e274",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/research-webinars"
 }

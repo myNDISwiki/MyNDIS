@@ -1,5 +1,5 @@
 {
-  "bytes": 77307,
+  "bytes": 77308,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/1af26674230080e1f5b42e167a25c388b69c34af4085ff4f956ead61e7b2fc42",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/technology-based-interventions",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-10T01:34:11Z",
+  "last_changed": "2026-11-10T23:19:31Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Ftechnology-based-interventions",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -157,7 +157,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 09 Nov 2026 23:30:54 GMT"
   },
-  "sha256": "79bfff178e83bdf94e99631b5d963fb5342b9ea119178596fd09dceabaf93d68",
+  "sha256": "4beb620e88eda379b4bbb2a86569af0f32db56f090d85cbf3ff2aa82c649baab",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/technology-based-interventions"
 }
