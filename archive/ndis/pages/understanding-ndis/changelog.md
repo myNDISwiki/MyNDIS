@@ -788,3 +788,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-12T22:30:37Z — changed
+
+- Previous SHA-256: `de06547c7c537789383d361d939d935cf092ca772a853fb6cc18e3ac4f0c1ad6`
+- New SHA-256: `79180de36531f28e6a5c93f178ab465f64c8d7f799523bd83d4308ab3eac3b0b`
+- Visible text lines added: 7
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,6 +17,13 @@
+ Events and information sessions
+ Category
+ Community Engagement
++NDIS Community Forum in Kalgoorlie
++Event Date
++Tuesday, 24 November 2026
++Event address
++Kalgoorlie, WA 6430
++Category
++Community Engagement
+ NDIS Community Forum in Perth
+ Event Date
+ Tuesday, 17 November 2026
+@@ -27,11 +34,6 @@
+ An overview of changes to the NDIS laws
+ Event Date
+ Wednesday, 16 December 2026
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-Event Date
+-Tuesday, 1 December 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```
