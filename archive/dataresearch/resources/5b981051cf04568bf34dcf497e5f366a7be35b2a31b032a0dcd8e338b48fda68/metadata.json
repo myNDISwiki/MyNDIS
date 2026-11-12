@@ -1,5 +1,5 @@
 {
-  "bytes": 5434,
+  "bytes": 5433,
   "content_type": "application/pdf",
   "directory": "resources/5b981051cf04568bf34dcf497e5f366a7be35b2a31b032a0dcd8e338b48fda68",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/view/pdf/content_recent/page_1",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Recent content.pdf\""
   },
-  "sha256": "89190d89cb1d3a6bdbc58fc6f950ec4c405c63273cbc39a91da647e4a4a81697",
+  "sha256": "51bc7c8e1684c0f621e55883766be5dbe79470fff754d60a5976e7d7c2f095be",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/view/pdf/content_recent/page_1"
 }

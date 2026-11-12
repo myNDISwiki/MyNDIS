@@ -1,5 +1,5 @@
 {
-  "bytes": 54715,
+  "bytes": 54717,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/1831c8af4239e586232fc25615526c8cda9dbe9c8bd6ad65c4ea2b9b3dabf0e3",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/support-coordination-and-lac-models-best-implement-plans",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fsupport-coordination-and-lac-models-best-implement-plans",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -141,9 +141,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 10 Nov 2026 00:11:23 GMT"
+    "Last-Modified": "Thu, 12 Nov 2026 00:12:03 GMT"
   },
-  "sha256": "7a886cb0d6b129f4ad0abd70e693a041269537efc289f05387574f0a5c7b6cdc",
+  "sha256": "f50a9b82db93afa5090db34ae556130b6edc60b6a35df48f17df7e6b109802d3",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/support-coordination-and-lac-models-best-implement-plans"
 }

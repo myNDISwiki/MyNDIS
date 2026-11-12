@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -112,9 +112,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Mon, 09 Nov 2026 23:55:15 GMT"
+    "Last-Modified": "Thu, 12 Nov 2026 00:29:01 GMT"
   },
-  "sha256": "0208d7af4a2e0cd8daba02a1422b56d684e3198165d93f126e4a331bfeda2ed9",
+  "sha256": "971004a5d275e0c69f2618faf6af3e0260496526c89460bf07f131abf451c407",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses"
 }

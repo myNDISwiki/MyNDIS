@@ -12,7 +12,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research/interventions-support-economic-participation-and-employment",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Femployment-research%2Finterventions-support-economic-participation-and-employment",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -152,9 +152,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 10 Nov 2026 01:27:53 GMT"
+    "Last-Modified": "Thu, 12 Nov 2026 01:30:46 GMT"
   },
-  "sha256": "42e739bad918b82e48eeea37135730907cb6d6eef2f68ed120c2bdcda5010916",
+  "sha256": "86b150c0e4f6bf3439c93b6ce8c686d6906b9be4bfb87cdfecff66795c4f2c70",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research/interventions-support-economic-participation-and-employment"
 }

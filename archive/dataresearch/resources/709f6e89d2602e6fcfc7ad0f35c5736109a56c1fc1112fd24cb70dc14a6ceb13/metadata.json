@@ -1,5 +1,5 @@
 {
-  "bytes": 10440,
+  "bytes": 10439,
   "content_type": "application/pdf",
   "directory": "resources/709f6e89d2602e6fcfc7ad0f35c5736109a56c1fc1112fd24cb70dc14a6ceb13",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4030",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Environmental scan of specialist disability accommodation.pdf\""
   },
-  "sha256": "32d48a8884f353376b81eb1305dbad751056d7b95201f6c390a8329086020ce7",
+  "sha256": "a34d92c3897678089f8dc0fae19a423659d7a9bcf975779c87c197393dd2b377",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4030"
 }

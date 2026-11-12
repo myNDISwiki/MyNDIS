@@ -1,5 +1,5 @@
 {
-  "bytes": 8786,
+  "bytes": 8785,
   "content_type": "application/pdf",
   "directory": "resources/c737167242f137af2844e205e55003f6466822a7653c1f305f7e824b89fd7053",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4063",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Assistance dogs for people with autism.pdf\""
   },
-  "sha256": "e4c48ab28425b3620940b78ff8735893725a63a9116a8d78f7dc30b37a036db2",
+  "sha256": "5853f086ab21c7e6612d76bc9e3fb83dbd163c8d694aff2c09b838280081d2c8",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4063"
 }

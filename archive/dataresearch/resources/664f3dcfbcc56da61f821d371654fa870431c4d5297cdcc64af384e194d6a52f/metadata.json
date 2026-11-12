@@ -1,5 +1,5 @@
 {
-  "bytes": 6097,
+  "bytes": 6096,
   "content_type": "application/pdf",
   "directory": "resources/664f3dcfbcc56da61f821d371654fa870431c4d5297cdcc64af384e194d6a52f",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4014",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-10T23:19:31Z",
+  "last_changed": "2026-11-12T00:40:02Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Research webinars.pdf\""
   },
-  "sha256": "aa1a830de70e4a837d8c83a99e4516ea6ed7e401fc0bbd0e17554b682dc1da75",
+  "sha256": "128a636d7ee68f98418b3c25e58d874c9f93331306087a4afe2c9059c6271b7f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4014"
 }
