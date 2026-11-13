@@ -1,5 +1,5 @@
 {
-  "bytes": 59447,
+  "bytes": 59446,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/9961be815cdac90cde0b943965e63422f4fd3419de06523d61cab37a63ed123a",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-12T00:40:02Z",
+  "last_changed": "2026-11-12T23:38:15Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -141,9 +141,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 12 Nov 2026 00:40:31 GMT"
+    "Last-Modified": "Thu, 12 Nov 2026 09:00:49 GMT"
   },
-  "sha256": "7b97325160642167a347373a7dfae5a90b353188dce9c2848561c71df60097fd",
+  "sha256": "3ef35ea8b0e7dec4ae55b56c1e499478b204f9366fe7ba2da916785fecec5e0e",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis"
 }

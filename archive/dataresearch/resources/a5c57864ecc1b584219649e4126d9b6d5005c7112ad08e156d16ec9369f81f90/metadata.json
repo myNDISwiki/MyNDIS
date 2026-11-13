@@ -1,5 +1,5 @@
 {
-  "bytes": 77215,
+  "bytes": 77214,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/a5c57864ecc1b584219649e4126d9b6d5005c7112ad08e156d16ec9369f81f90",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/previous-annual-financial-sustainability-reports",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-12T00:40:02Z",
+  "last_changed": "2026-11-12T23:38:15Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fprevious-annual-financial-sustainability-reports",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -206,9 +206,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Thu, 12 Nov 2026 00:32:39 GMT"
+    "Last-Modified": "Thu, 12 Nov 2026 07:25:51 GMT"
   },
-  "sha256": "5e6f327176d814b53a6ce12c942a074f6a9e20ef752d2751c23984291d27e7ed",
+  "sha256": "1b4bc7ae4b65939db30a7fd90e8e66beac7df6aa988835056e18668a8b0b36ea",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/previous-annual-financial-sustainability-reports"
 }
