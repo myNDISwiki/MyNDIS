@@ -9,6 +9,18 @@ Published Time: 2026-10-26T09:30:43+11:00
 Markdown Content:
 On this page
 
+*   [Have your say](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#have-your-say)
+*   [How we engage](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#how-we-engage)
+*   [Delivery partners](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#delivery-partners)
+*   [Advisory groups and committees](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#advisory-groups-and-committees)
+*   [How we seek feedback](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#how-we-seek-feedback)
+*   [Accessibility](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#accessibility)
+*   [What you can expect](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#what-you-can-expect)
+*   [How you can have your say](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#how-you-can-have-your-say)
+*   [Previous consultations](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#previous-consultations)
+*   [Related links](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#related-links)
+*   [Contact](https://www.health.gov.au/our-work/ndis-legislation-changes/engagement-consultation#contact)
+
 In the 2026-27 Budget the Australian Government announced changes to protect the NDIS for people with permanent and significant disability now and into the future.
 
 Your feedback, experience and advice are important to us. We will keep engaging with you as we plan and prepare for the changes needed to guide the reforms.
@@ -156,10 +168,6 @@ When we open a consultation, you can give us your feedback in a few ways. Depend
 *   [Defining Therapy Supports – Allied Health Peak Bodies](https://www.health.gov.au/resources/publications/defining-therapy-supports-consultation-with-allied-health-peak-bodies "Defining Therapy Supports consultation with Allied Health Peak Bodies")
 *   [Engagements on NDIS rules](https://www.health.gov.au/resources/collections/engagements-on-ndis-rules "Engagements on NDIS rules")
 
-## Related links
-
 Find consultations and provide feedback at the [Consultation Hub](https://consultations.health.gov.au/).
 
 Help shape the future of NDIS policies, services, templates, communication and more by [joining Participant First](https://myform.ndis.gov.au/?src=https://forms.ndis.gov.au/external/participantfirstinformationform).
-
-## Contact
