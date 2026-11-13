@@ -961,3 +961,24 @@ Page bytes changed, but no visible-text change was detected.
  We are updating information on this website to reflect
  new NDIS legislation
 ```
+
+## 2026-11-13T22:12:32Z — changed
+
+- Previous SHA-256: `dae421de48075fe1e003fe9aa037e6f6b2f8dfced2132fbd51ba660abcaafb6b`
+- New SHA-256: `7109cad8f81e13a0516e814fc64aa9df4f7ef6be552d6b3590eade300957c8cc`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Independent Advisory Council
+-04/11/2026, 12:06
++13/11/2026, 04:20
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+```

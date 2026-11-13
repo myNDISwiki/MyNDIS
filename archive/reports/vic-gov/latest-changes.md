@@ -1,5 +1,3 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-11-13T20:31:59Z
-
-No page changes detected in this run.
+No changes detected in this run.
