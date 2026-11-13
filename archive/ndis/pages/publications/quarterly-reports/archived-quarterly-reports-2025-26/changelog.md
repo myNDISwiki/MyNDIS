@@ -502,3 +502,59 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `7ceadfb8829ed51258bcaf9fc81132d48b0440666ce0b13af2652ee9f9b4d881`
+- New SHA-256: `7d425c9a287f9d7d003c2dc6a77b14070ae5aeced1421ac328809a5aa059713d`
+- Visible text lines added: 35
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,6 +5,41 @@
+ Listen
+ Print this page
+ Save page as PDF
++Quarterly report: 2025-26 Q4
++Quarterly report to disability ministers Q4 2025-26 Summary Part A (PDF 12.18MB)
++Quarterly report to disability ministers Q4 2025-26 Full report (PDF 14MB)
++Quarterly report to disability ministers Q4 2025-26 Appendices (PDF 449KB)
++Quarterly report to disability ministers Q4 2025-26 Presentation (PDF 2.74MB)
++Quarterly report to disability ministers Q4 2025-26 Easy Read (PDF 12.6MB)
++Quarterly report to disability ministers Q4 2025-26 Easy Read (DOCX 77KB)
++National Dashboard as at 30 June 2026 (PDF 207KB)
++National Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
++Supplement to Quarterly Report Appendices 2025-26
++A range of state-specific information about the NDIS performance in this quarter has been compiled and can be found below.
++ACT performance
++ACT Dashboard as at 30 June 2026 (PDF 172KB)
++ACT Dashboard as at 30 June 2026 - Transcript (DOCX 38KB)
++NSW performance
++NSW Dashboard as at 30 June 2026 (PDF 391KB)
++NSW Dashboard as at 30 June 2026 - Transcript (DOCX 35KB)
++NT performance
++NT Dashboard as at 30 June 2026 (PDF 231KB)
++NT Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
++Qld performance
++Qld Dashboard as at 30 June 2026 (PDF 320KB)
++Qld Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
++SA performance
++SA Dashboard as at 30 June 2026 (PDF 380KB)
++SA Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
++Tas performance
++Tas Dashboard as at 30 June 2026 (PDF 216KB)
++Tas Dashboard as at 30 June 2026 - Transcript (DOCX 36KB)
++Vic performance
++Vic Dashboard as at 30 June 2026 (PDF 405KB)
++Vic Dashboard as at 30 June 2026 - Transcript (DOCX 38KB)
++WA performance
++WA Dashboard as at 30 June 2026 (PDF 350KB)
++WA Dashboard as at 30 June 2026 - Transcript (DOCX 38KB)
+ Quarterly report: 2025-26 Q3
+ Quarterly report to disability ministers Q3 2025-26 Summary Part A (PDF 5MB)
+ Quarterly report to disability ministers Q3 2025-26 Full report (PDF 12.67MB)
+```

@@ -1949,3 +1949,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Pricing updates
 +3 November 2026
 ```
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `934908ab18f22eeed92ba494734ba547d2eaf82a42d64d1a3edbac3868c89067`
+- New SHA-256: `c4a31436566398cb2aa76542d7dfe33c3d6302217be1a4ce93f9fa61b4fd4f92`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Local Area Coordinator (LAC) partner, Southport, 4215
+-4 November 2026
+-NDIS Community Forum in Perth
+-3 November 2026
+-Would we fund it
+-3 November 2026
+-Early Childhood partner, Innisfail, 4860
+-3 November 2026
+-Local Area Coordinator (LAC) partner, Innisfail, 4860
+-3 November 2026
+-Local Area Coordinator (LAC) partner, Mareeba, 4880
+-3 November 2026
+-Early Childhood partner, Mareeba, 4880
+-3 November 2026
+-What is the annual pricing review (APR)
+-3 November 2026
+-How we make pricing recommendations
+-3 November 2026
+-Pricing updates
+-3 November 2026
++Tarsha’s willpower opens up world of possibilities
++13 November 2026
++Hani finds freedom, strength with NDIS support
++13 November 2026
++Naomi helps participants leave hospital safely
++13 November 2026
++Participant Service Guarantee
++13 November 2026
++Quarterly Reports
++13 November 2026
++Planned system updates 15 November 2026
++13 November 2026
++Guide to NDIS support budgets
++12 November 2026
++National Disability Insurance Scheme (NDIS), Melton, 3337
++12 November 2026
++Archived quarterly reports 2025-26
++12 November 2026
++Local Area Coordinator (LAC) partner, Yarrabah, 4871
++11 November 2026
+```

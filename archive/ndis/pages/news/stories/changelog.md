@@ -626,3 +626,39 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `5de64b7bc6fb38f07c05a2b4f72115a1b43223ea45fcf84b97705d8e8b588071`
+- New SHA-256: `816b43038a6cde3234880d2402d567cefabd0695a0d1f883bb2030c48e8aa9b5`
+- Visible text lines added: 4
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -30,7 +30,7 @@
+ NDIS in the community
+ (19)
+ Participant stories
+-(258)
++(261)
+ Planning
+ (2)
+ Providers
+@@ -62,9 +62,9 @@
+ Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+ NDIS support helps Jack find his place in the workforce
+ 8 October 2026
+-Charlie’s NDIS supports are helping him build confidence, independence and a future full of possibilities.
+-Charlie’s NDIS supports help him build a bigger future
+-11 September 2026
++For much of Tarsha’s childhood, her parents Jackie and Matt were more than mum and dad. They were also her carers, therapy coordinators and constant supporters, while younger sister Lara played an important role too.
++Tarsha’s willpower opens up world of possibilities
++30 September 2026
+ Pagination
+ 1
+ 2
+```

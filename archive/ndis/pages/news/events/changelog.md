@@ -1894,3 +1894,70 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `99e2e5b9298eb62cd1d70e9b52251eb314199e06cd9ce80dd51c02cb1c66b4b7`
+- New SHA-256: `a5c87c438702988e3278d17eafe170e96f0720a62e88af1725db36b1353347b6`
+- Visible text lines added: 16
+- Visible text lines removed: 14
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,7 +12,7 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(12)
++(10)
+ Event State or Territory
+ WA
+ (2)
+@@ -20,21 +20,9 @@
+ December 2026
+ (3)
+ November 2026
+-(9)
++(7)
+ Search
+ Search
+-Category
+-Community Engagement
+-Understanding the NDIS webinar - Applying to the NDIS: Access and eligibility
+-Applying to the NDIS means taking steps to find out if you can become a participant and start receiving supports under the scheme.
+-Event Date
+-Tuesday, 10 November 2026
+-Category
+-Community Engagement
+-Changes to NDIS support budgets - an overview for community and participants
+-The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
+-Event Date
+-Wednesday, 11 November 2026
+ Category
+ Community Engagement
+ NDIS Community Forum in Perth
+@@ -61,6 +49,20 @@
+ The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
+ Event Date
+ Thursday, 19 November 2026
++Category
++Community Engagement
++Changes to NDIS support budgets - an overview for community and participants
++The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
++Event Date
++Tuesday, 24 November 2026
++Category
++Community Engagement
++NDIS Community Forum in Kalgoorlie
++Join us at a community forum in Kalgoorlie on 24 November 2026. At the forum, you can learn about what changes to the NDIS might mean for you. You’ll have the chance to ask questions about what’s happening and what you need to do.
++Event Date
++Tuesday, 24 November 2026
++Event address
++Kalgoorlie, WA 6430
+ Pagination
+ 1
+ 2
+```

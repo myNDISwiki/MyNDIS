@@ -2041,3 +2041,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `22e17d06a5aae9801e9e99f96c7b09fa75e60493162888ba1a6fb4bd422ed010`
+- New SHA-256: `5549459634ed22c360f4aea6f8f35e02df08c6baba0c56eb3c52b3b2c67d5065`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(337)
++(338)
+ Notification
+ (47)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ November 2026
+-(2)
++(3)
+ October 2026
+ (15)
+ September 2026
+@@ -363,6 +363,12 @@
+ Search
+ Category
+ News
++Planned system updates 15 November 2026
++There are upcoming multi-system updates.
++Date
++13 November 2026
++Category
++News
+ Notification
+ Planned system updates 8 November 2026
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+@@ -393,12 +399,6 @@
+ From 19 October 2026, the full amount of Specialist Disability Accommodation funding a participant is eligible for will be included in their NDIS plan when it is approved.
+ Date
+ 22 October 2026
+-Category
+-News
+-NDIS price increase from 1 December 2026: Gender-based undervaluation priority awards review
+-From 1 December 2026, the maximum prices for four NDIS support items will increase.
+-Date
+-19 October 2026
+ Pagination
+ 1
+ 2
+```

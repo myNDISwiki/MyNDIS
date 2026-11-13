@@ -550,3 +550,179 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `e4de9ec085daa3ec659abee5bc91769913545b811b29fcb1f4b8d6b42c56fe3a`
+- New SHA-256: `9a1feee51e88bdb7ab2192aa15e6c90e17147ed10f47e5a11320583a51fc1ea1`
+- Visible text lines added: 42
+- Visible text lines removed: 42
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,91 +27,91 @@
+ Each quarter, the Agency reports against Participant Service Guarantee (PSG) timeframes in the
+ Quarterly Report
+ .
+-The NDIA continued to monitor and report on 18 PSG measures throughout the quarter. Reporting for PSG measures 3, 5 and 15 remains unavailable. Of the 18 PSG measures, 9 (50%) met or exceeded their target timeframes at least 95% of the time (PSGs 1, 2, 6, 7, 9, 10, 16, 17b and 19).
++The NDIA continued to monitor and report on 18 PSG measures throughout the quarter. Reporting for PSG measures 3, 5 and 15 remains unavailable.
++Of the 18 PSG measures, 10 (56%) met or exceeded their target timeframes at least 95% of the time (PSGs 2, 6, 7, 9, 10, 12, 16, 17b, 19 and 20).
+ 17
+-A further 4 measures (22%) achieved results above 80% (PSGs 8, 13, 18 and 20).
++A further 5 measures (28%) achieved results above 80% (PSGs 1, 8, 13, 14 and 18).
++On 27 August 2026, amendments to the NDIS laws came into effect. The changes included updated timeframes for access decisions (PSG 2) and plan reassessments (PSG 12), with both moving from 21 days to 90 days. In this report, performance for PSGs 2 and 12 is measured for requests on or after 27 August 2026.
+ Scheme eligibility and access (PSGs 2 and 4)
+-PSG 2 performance improved by 14 percentage points this quarter to 96%, driven by the NDIA’s ongoing focus on improving our performance in access decisions. PSG 4 performance improved by 11 percentage points to 79%, reflecting both the continued focus on improving our performance in making access decisions and improvements to the process for returning evidence.
++PSG 2 performance was 100%, with all requests submitted on or after 27 August 2026 completed within the timeframe. PSG 4 performance was consistent at 79%, reflecting both the continued focus on improving our performance in making access decisions and improvements to the process for participants returning evidence.
+ First plans (PSGs 6 and 7)
+-Another focus for the NDIA has been ensuring participants receive their first plan in a timely manner. More than 97% of participants received their first plan within the PSG timeframe this quarter.
++Another focus for the NDIA has been ensuring participants receive their first plan in a timely manner. More than 98% of participants received their first plan within the PSG timeframe this quarter.
+ Reviews and reassessments (PSGs 12, 13, 14, 17a, 17b and 18)
+-The high volume of participants seeking reassessments of their NDIS plans (PSGs 12, 13 and 14) has continued to impact performance. Despite this, PSG 12 improved to 32%, an increase of 3 percentage points, and PSG 14 improved by 5 percentage points to 44%. PSG 13 decreased by 1 percentage point to 86%.
+-The NDIA is committed to improving the timeliness of reassessments. More staff have been allocated to reviewing unscheduled reassessments, with a focus on finalising the oldest requests first, while also ensuring review requests are prioritised based on participant risk and urgency.
+-Performance for internal review decisions (PSG 17a) improved significantly to 48%, a 14 percentage point increase from the previous quarter. PSG 17b improved slightly to 99%, and PSG 18 maintained strong performance at 90%.
+-Improving performance for conducting reviews will remain a focus in the first quarter of the 2026–27 financial year.
++PSG 12 performance was 100% with all requests submitted on or after 27 August 2026 completed within the timeframe. PSG 14 improved by 37 percentage points to 82%. PSG 13 reduced slightly to 82%.
++We are committed to improving the timeliness of reassessments. More staff have been allocated to reviewing unscheduled reassessments, with a focus on finalising the oldest requests first, while also ensuring review requests are prioritised based on participant risk and urgency.
++Performance for internal review decisions (PSG 17a) improved significantly to 66%, an 18 percentage point increase from the previous quarter. This improvement is also the result of a focus on reducing the oldest work first. PSG 17b remains consistent at 99%, and PSG 18 maintained strong performance at 91%. Improving performance for conducting reviews will remain a focus in the second quarter of 2026–27.
+ 17
+-The unrounded performance of PSG 20 is 94.8%. Meeting the target is measured using unrounded performance.
+-The tables below show the timeframes for each of the key NDIS processes, which have been pulled from the latest Quarterly Report.
+-How the Agency publishes the performance results of the Participant Service Guarantee is detailed
++Meeting the target is measured using unrounded performance.
++The tables below show the timeframes for each of the key NDIS processes, which have been pulled from the latest Quarterly Report. How the Agency publishes the performance results of the Participant Service Guarantee is detailed
+ in this policy
+ .
+ Use the ‘Print this Page’ function to download a PDF or print a copy of the current status of the Participant Service Guarantee timeframes.
+ Getting started with the NDIS
+ What we will do
+ The most days it will take us
+-Performance at June 2026 quarter (most current data)
+-How does this compare to last quarter (March 2026)
++Performance at September 2026 quarter (most current data)
++How does this compare to last quarter (June 2026)
+ Explain a decision
+ 28 days
+-96%
++94%
+ Within 3 percentage points
+ Decide who can use the NDIS
+ 90 days
+-96%
+-More than 3 percentage points higher
++100%
++PSG timeframe has been updated since the previous quarter
+ Make a decision about who can use the NDIS after we've been given more information
+ 14 days
+ 79%
+-More than 3 percentage points higher
++Within 3 percentage points
+ Getting a plan
+ What we will do
+ The most days it will take us
+-Performance at June 2026 quarter (most current data)
+-How does this compare to last quarter (March 2026)
++Performance at September 2026 quarter (most current data)
++How does this compare to last quarter (June 2026)
+ Approve a plan
+ 56 days
+-96%
++97%
+ Within 3 percentage points
+ Approve a plan for a child under 9 years
+ 56 days
+-100%
++99%
+ Within 3 percentage points
+ Make a time to have a meeting to start your plan if you want to
+ 7 days
+-89%
+-More than 3 percentage points higher
++90%
++Within 3 percentage points
+ Have a meeting to start your plan if you want to
+ 28 days
+-98%
++99%
+ Within 3 percentage points
+ Give you a copy of your approved plan †
+ 7 days
+-99%
++100%
+ Within 3 percentage points
+ Changing a plan
+ What we will do
+ The most days it will take us
+-Performance at June 2026 quarter (most current data)
+-How does this compare to last quarter (March 2026)
++Performance at September 2026 quarter (most current data)
++How does this compare to last quarter (June 2026)
+ Start setting up a plan reassessment†
+ 56 days before the review date
+-45%
++42%
+ Within 3 percentage points
+ Decide whether to do a plan reassessment, if you ask us to
+ 90 days
+-32%
+-Within 3 percentage points
++100%
++PSG timeframe has been updated since the previous quarter
+ Do a plan reassessment we have agreed to
+ 28 days
+-86%
+-Within 3 percentage points
++82%
++More than 3 percentage points lower
+ Make changes to a plan †
+ 28 days
+-44%
++82%
+ More than 3 percentage points higher
+ Review our decisions if we need to
+ 60 days
+-48%
++66%
+ More than 3 percentage points higher
+ Make changes according to the review of a decision
+ 28 days
+@@ -119,27 +119,27 @@
+ Within 3 percentage points
+ Put changes into place when the Administrative Review Tribunal asks us to †
+ 28 days
+-90%
++91%
+ Within 3 percentage points
+ Cancel a participant-requested nominee
+ 14 days
+-99%
++100%
+ Within 3 percentage points
+ Cancel a CEO-initiated nominee
+ 14 days
+-95%
+-Within 3 percentage points
+-Note: The NDIA's new participant check-in process ensures that every scheduled reassessment begins with contact from the planner or partner to discuss reassessment options well before and scheduled reassessment date. Plans are extended automatically if they have not been reassessed before expiry so participants have continuity of support. That is, participants do not stop receiving supports.
++100%
++More than 3 percentage points higher
++Note: The NDIA's participant check-in process ensures that every scheduled reassessment begins with contact from the planner or partner to discuss reassessment options well before and scheduled reassessment date. Plans are extended automatically if they have not been reassessed before expiry so participants have continuity of support. That is, participants do not stop receiving supports.
+ †From the September 2025 quarter, performance of most PSGs is measured from milestones built into the new computer system. PSGs 10 and 16 are captured within the same milestone. For PSGs 11, 14 and 18, performance is being measured from available data on processes and dates in the new computer system.
+ Making a complaint
+ What we will do
+ The most days it will take us
+-Performance at June 2026 quarter (most current data)
+-How does this compare to last quarter (March 2026)
++Performance at September 2026 quarter (most current data)
++How does this compare to last quarter (June 2026)
+ Fix your complaint if we can
+ 21 days
+ 96%
+-More than 3 percentage points higher
++Within 3 percentage points
+ Main navigation sidebar
+ About
+ About the NDIA
+```

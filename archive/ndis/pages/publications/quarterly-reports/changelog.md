@@ -502,3 +502,78 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-13T22:02:43Z — changed
+
+- Previous SHA-256: `33709332f7a25dfaaf23029352e6f3fab9e83ac5e78fb93b6875fb6ea4d02ac0`
+- New SHA-256: `f8581035eed0c17bf17ab854c3d81cc89d3073dd7c4445596c21028b23f17218`
+- Visible text lines added: 13
+- Visible text lines removed: 38
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,47 +5,22 @@
+ Print this page
+ Save page as PDF
+ The quarterly reports provide the disability ministers with information (including statistics) about participants in each jurisdiction and the funding or provision of supports by the NDIA in each jurisdiction.
+-The NDIA provides these reports to disability ministers within 42 days of the end of each quarter.
+-Following consideration by the NDIA Board, the quarterly reports are made available here.
+-Note: there have been some minor amendments to the versions of these reports provided to the NDIA Board to de-identify personal data within small population figures.
++Following consideration by the NDIA Board, the reports are provided to disability ministers within 42 days of the end of each quarter and published on this website within 45 days of the end of each quarter.
++Supplement D (State and Territory comparison), Supplement E (National), Supplement P (Specialist Disability Accommodation) and Supplement S (Performance measures and targets) are published quarterly. Supplement S, introduced in Q1 2026–27, presents results against the Agency’s performance measures.
++Supplements covering state and territory statistics (F–M), participants by service district (O), utilisation (Q), and access decisions and first plans (R) are published every six months. The next release of these publications is scheduled for Q2 2026–27.
++The National and state and territory performance dashboards are also published every six months.
+ Previous Quarterly Reports can be found on the
+ archive page
+ .
+-Quarterly report: 2025-26 Q4
+-Quarterly report to disability ministers Q4 2025-26 Summary Part A (PDF 12.18MB)
+-Quarterly report to disability ministers Q4 2025-26 Full report (PDF 14MB)
+-Quarterly report to disability ministers Q4 2025-26 Appendices (PDF 449KB)
+-Quarterly report to disability ministers Q4 2025-26 Presentation (PDF 2.74MB)
+-Quarterly report to disability ministers Q4 2025-26 Easy Read (PDF 12.6MB)
+-Quarterly report to disability ministers Q4 2025-26 Easy Read (DOCX 77KB)
+-National Dashboard as at 30 June 2026 (PDF 207KB)
+-National Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
+-Supplement to Quarterly Report Appendices 2025-26
+-A range of state-specific information about the NDIS performance in this quarter has been compiled and can be found below.
+-ACT performance
+-ACT Dashboard as at 30 June 2026 (PDF 172KB)
+-ACT Dashboard as at 30 June 2026 - Transcript (DOCX 38KB)
+-NSW performance
+-NSW Dashboard as at 30 June 2026 (PDF 391KB)
+-NSW Dashboard as at 30 June 2026 - Transcript (DOCX 35KB)
+-NT performance
+-NT Dashboard as at 30 June 2026 (PDF 231KB)
+-NT Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
+-Qld performance
+-Qld Dashboard as at 30 June 2026 (PDF 320KB)
+-Qld Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
+-SA performance
+-SA Dashboard as at 30 June 2026 (PDF 380KB)
+-SA Dashboard as at 30 June 2026 - Transcript (DOCX 37KB)
+-Tas performance
+-Tas Dashboard as at 30 June 2026 (PDF 216KB)
+-Tas Dashboard as at 30 June 2026 - Transcript (DOCX 36KB)
+-Vic performance
+-Vic Dashboard as at 30 June 2026 (PDF 405KB)
+-Vic Dashboard as at 30 June 2026 - Transcript (DOCX 38KB)
+-WA performance
+-WA Dashboard as at 30 June 2026 (PDF 350KB)
+-WA Dashboard as at 30 June 2026 - Transcript (DOCX 38KB)
++Quarterly report: 2026-27 Q1
++Quarterly report to disability ministers Q1 2026-27 Summary Part A
++(PDF 7MB)
++Quarterly report to disability ministers Q1 2026-27 Full report
++(PDF 10MB)
++Quarterly report to disability ministers Q1 2026-27 Appendices
++(PDF 819KB)
++Supplement to Quarterly Report Appendices 2026-27
++The 2026-27 Q1 presentation and Easy Read version of the quarterly report will also be available soon.
+ Main navigation sidebar
+ Publications
+ Annual Report
+```
