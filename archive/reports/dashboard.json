@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:31:57Z",
+  "generated_at": "2026-11-13T08:28:26Z",
   "domains": [
     {
       "id": "dataresearch",
@@ -47,7 +47,7 @@
       "id": "vic-gov",
       "name": "Victorian Government reforms",
       "status": "complete",
-      "last_checked": "2026-11-12T20:57:38Z",
+      "last_checked": "2026-11-13T08:09:29Z",
       "tracked_pages": 250,
       "registry": "vic-gov/page-registry.csv",
       "latest": "vic-gov/latest-changes.md",
