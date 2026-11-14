@@ -558,3 +558,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Quarterly report to disability ministers Q3 2025-26 Summary Part A (PDF 5MB)
  Quarterly report to disability ministers Q3 2025-26 Full report (PDF 12.67MB)
 ```
+
+## 2026-11-14T20:45:24Z — changed
+
+- Previous SHA-256: `7d425c9a287f9d7d003c2dc6a77b14070ae5aeced1421ac328809a5aa059713d`
+- New SHA-256: `7c654874b5612ec349fb67302cb7e5b98b64b8ae651eb442e08a0409dcd67168`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
