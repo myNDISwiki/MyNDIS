@@ -13,7 +13,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/about/insights-forums",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-13T23:35:33Z",
+  "last_changed": "2026-11-14T22:23:55Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fabout%2Finsights-forums",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -122,7 +122,7 @@
   "response_headers": {
     "Last-Modified": "Fri, 13 Nov 2026 05:14:31 GMT"
   },
-  "sha256": "ed309df179c5f1134868a2af8dbfb394630a154744833c3a66f304d639f618cc",
+  "sha256": "01960b82c9751ae6fbcca64263ec0e45ac7d15e0afdf465ea44e8c78ec1835bd",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/about/insights-forums"
 }
