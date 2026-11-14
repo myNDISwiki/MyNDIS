@@ -1,0 +1,22 @@
+{
+  "bytes": 27216,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/0a00b45f9fee79a5fee3a2dadb033222e612b6a3c357b758b4dd4b6198deb7f9",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4628/download?attachment=",
+  "first_seen": "2026-11-13T23:35:33Z",
+  "kind": "file",
+  "last_changed": "2026-11-13T23:35:33Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Supplement S Performance measures and targets 2026-27 Q1.xlsx\"",
+    "ETag": "\"1794454987:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Thu, 12 Nov 2026 03:43:06 GMT"
+  },
+  "sha256": "ebd4d80312cc74e609246672cec29f10322cf9c03c17d0d912cc7fc566b2b89f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4628/download?attachment="
+}

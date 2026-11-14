@@ -546,3 +546,38 @@ No visible wording change; HTML bytes changed.
 SHA-256: `ccbaea88261bf49500b304691be01cae030cfacf91fbdc114f25449cf674610b`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-13T23:35:33Z — changed
+
+SHA-256: `3b006da6777f7070587ff41e9fc1a340dbe56182c17e746d9ad3d2bd334944cb`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,10 @@
+ Save page as PDF
+ Page title
+ Updated
++Quarterly report supplements
++13 November 2026
++The NDIS in focus
++12 November 2026
+ Public data sharing
+ 30 October 2026
+ Justice Advisory Panel advice
+@@ -70,14 +74,10 @@
+ 29 October 2026
+ The Inklings WA pilot program
+ 23 October 2026
+-The NDIS in focus
+-15 October 2026
+ Specialist Disability Accommodation (SDA) Data
+ 2 October 2026
+ Evaluation of NDIS supports lists and shorter funding periods
+ 23 September 2026
+-Quarterly report supplements
+-17 September 2026
+ Research and evaluation
+ 9 September 2026
+ Developmental Delay
+```

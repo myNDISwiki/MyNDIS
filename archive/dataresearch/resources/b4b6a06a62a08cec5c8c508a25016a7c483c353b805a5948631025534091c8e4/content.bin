@@ -1,0 +1,12 @@
+/**
+ * @file
+ * Styles for cacheflush admin menu.
+ */
+
+.toolbar-icon-cacheflush-presets:before {
+  background-image: url(/core/misc/icons/787878/cog.svg);
+}
+.toolbar-icon-cacheflush-presets:active:before,
+.toolbar-icon-cacheflush-presets.is-active:before {
+  background-image: url(/core/misc/icons/787878/cog.svg);
+}

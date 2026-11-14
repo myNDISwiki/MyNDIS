@@ -380,3 +380,53 @@ No visible wording change; HTML bytes changed.
 SHA-256: `5fc99834819b36904cdd39dec0e55de7b3a3941fa6886077aa8a968ccc027850`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-13T23:35:33Z — changed
+
+SHA-256: `d663bbafb0cd26fa34a64e5b1bf47da95bce0fb7f30fccdb1c71ed20e3cfa2d7`
+
+```diff
+--- before
++++ after
+@@ -62,13 +62,19 @@
+ Print this page
+ Save page as PDF
+ The Quarterly Reports provide the disability ministers with information (including statistics) about participants in each jurisdiction and the funding or provision of supports by the NDIA in each area.
+-Following a recent review, some publications will move to a six-monthly cycle from Q3 2025–26. This includes supplements covering state and territory statistics (F–M), participants by service district (O), utilisation (Q), and access decisions and first plans (R).
+-The first six-monthly release of these publications is scheduled for Q4 2025–26.
+-Supplement D (State and Territory comparison), Supplement E (National) and Supplement P (Specialist Disability Accommodation) will continue to be published quarterly.
+-Quarterly Report to Disability Ministers 2025-26 Q4
++Supplement D (state and territory comparison), Supplement E (National), Supplement P (specialist disability accommodation) and Supplement S (Performance measures and targets) are published quarterly. Supplement S, introduced in Q1 2026–27, presents results against the Agency’s performance measures.
++Supplements covering state and territory statistics (F–M), participants by service district (O), utilisation (Q), and access decisions and first plans (R) are published every six months. The next release of these publications is scheduled for Q2 2026–27.
++Quarterly Report to Disability Ministers 2026-27 Q1
+ View the current
+ Quarterly Report to Disability Ministers
+ .
++Supplement to Quarterly Report 2026-27 Q1
++Report to disability ministers for Q1 of 2026-27 Supplement (PDF 1.5MB)
++Supplement D State and Territory comparison 2026-27 Q1 (XLSX 249KB)
++Supplement E National 2026-27 Q1 (XLSX 246KB)
++Supplement P Specialist Disability Accommodation 2026-27 Q1 (XLSX 1.1MB)
++Supplement S Performance measures and targets 2026-27 Q1 (XLSX 27KB)
++Supplement to Quarterly Report 2025-26
+ Supplement to Quarterly Report 2025-26 Q4
+ Report to disability ministers for Q4 of 2025-26 Supplement (PDF 4.9MB)
+ Supplement D State and Territory comparison 2025-26 Q4 (XLSX 240KB)
+@@ -86,7 +92,6 @@
+ Supplement P Specialist Disability Accommodation 2025-26 Q4 (XLSX 4MB)
+ Supplement Q Utilisation 2025-26 Q4 (XLSX 40KB)
+ Supplement R Access decisions and first plans 2025-26 Q4 (XLSX 37KB)
+-Supplement to Quarterly Report 2025-26
+ Supplement to Quarterly Report 2025-26 Q3
+ Quarterly report to disability ministers Q3 2025-26 Supplement (PDF 1.78MB)
+ Supplement D State and Territory comparison 2025-26 Q3 (XLSX 960KB)
+@@ -418,7 +423,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-17 September 2026
++13 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```
