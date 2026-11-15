@@ -1,4 +1,102 @@
 RprtDt,StateCd,SA4Cd2016,SA4Nm2016,PrtcpntCnt
+30SEP2026,ACT,801,Australian Capital Territory,12833
+30SEP2026,ACT,Other,ACT - Other,<11
+30SEP2026,MIS,Other,MIS - Other,12
+30SEP2026,NSW,101,Capital Region,7029
+30SEP2026,NSW,102,Central Coast,13489
+30SEP2026,NSW,103,Central West,6969
+30SEP2026,NSW,104,Coffs Harbour - Grafton,5222
+30SEP2026,NSW,105,Far West and Orana,3936
+30SEP2026,NSW,106,Hunter Valley exc Newcastle,13060
+30SEP2026,NSW,107,Illawarra,10130
+30SEP2026,NSW,108,Mid North Coast,9579
+30SEP2026,NSW,109,Murray,4623
+30SEP2026,NSW,110,New England and North West,5960
+30SEP2026,NSW,111,Newcastle and Lake Macquarie,15546
+30SEP2026,NSW,112,Richmond - Tweed,9313
+30SEP2026,NSW,113,Riverina,4988
+30SEP2026,NSW,114,Southern Highlands and Shoalhaven,4925
+30SEP2026,NSW,115,Sydney - Baulkham Hills and Hawkesbury,5835
+30SEP2026,NSW,116,Sydney - Blacktown,12982
+30SEP2026,NSW,117,Sydney - City and Inner South,5148
+30SEP2026,NSW,118,Sydney - Eastern Suburbs,4150
+30SEP2026,NSW,119,Sydney - Inner South West,14000
+30SEP2026,NSW,120,Sydney - Inner West,5085
+30SEP2026,NSW,121,Sydney - North Sydney and Hornsby,6765
+30SEP2026,NSW,122,Sydney - Northern Beaches,4578
+30SEP2026,NSW,123,Sydney - Outer South West,11603
+30SEP2026,NSW,124,Sydney - Outer West and Blue Mountains,12970
+30SEP2026,NSW,125,Sydney - Parramatta,12030
+30SEP2026,NSW,126,Sydney - Ryde,3783
+30SEP2026,NSW,127,Sydney - South West,14239
+30SEP2026,NSW,128,Sydney - Sutherland,5454
+30SEP2026,NSW,Other,NSW - Other,<11
+30SEP2026,NT,701,Darwin,3968
+30SEP2026,NT,702,Northern Territory - Outback,3027
+30SEP2026,NT,Other,NT - Other,<11
+30SEP2026,OT,901,Other Territories,96
+30SEP2026,QLD,301,Brisbane - East,8033
+30SEP2026,QLD,302,Brisbane - North,6253
+30SEP2026,QLD,303,Brisbane - South,8928
+30SEP2026,QLD,304,Brisbane - West,4689
+30SEP2026,QLD,305,Brisbane Inner City,5118
+30SEP2026,QLD,306,Cairns,7398
+30SEP2026,QLD,307,Darling Downs - Maranoa,3880
+30SEP2026,QLD,308,Central Queensland,8906
+30SEP2026,QLD,309,Gold Coast,17776
+30SEP2026,QLD,310,Ipswich,15463
+30SEP2026,QLD,311,Logan - Beaudesert,15357
+30SEP2026,QLD,312,Mackay - Isaac - Whitsunday,4802
+30SEP2026,QLD,313,Moreton Bay - North,11841
+30SEP2026,QLD,314,Moreton Bay - South,7542
+30SEP2026,QLD,315,Queensland - Outback,1983
+30SEP2026,QLD,316,Sunshine Coast,12504
+30SEP2026,QLD,317,Toowoomba,6169
+30SEP2026,QLD,318,Townsville,8361
+30SEP2026,QLD,319,Wide Bay,12936
+30SEP2026,QLD,Other,QLD - Other,<11
+30SEP2026,SA,401,Adelaide - Central and Hills,8582
+30SEP2026,SA,402,Adelaide - North,22701
+30SEP2026,SA,403,Adelaide - South,14849
+30SEP2026,SA,404,Adelaide - West,8404
+30SEP2026,SA,405,Barossa - Yorke - Mid North,4089
+30SEP2026,SA,406,South Australia - Outback,2788
+30SEP2026,SA,407,South Australia - South East,7137
+30SEP2026,SA,Other,SA - Other,<11
+30SEP2026,TAS,601,Hobart,7563
+30SEP2026,TAS,602,Launceston and North East,4843
+30SEP2026,TAS,603,South East,1003
+30SEP2026,TAS,604,West and North West,3768
+30SEP2026,TAS,Other,TAS - Other,<11
+30SEP2026,VIC,201,Ballarat,7011
+30SEP2026,VIC,202,Bendigo,8044
+30SEP2026,VIC,203,Geelong,14324
+30SEP2026,VIC,204,Hume,6881
+30SEP2026,VIC,205,Latrobe - Gippsland,11624
+30SEP2026,VIC,206,Melbourne - Inner,12446
+30SEP2026,VIC,207,Melbourne - Inner East,7749
+30SEP2026,VIC,208,Melbourne - Inner South,9853
+30SEP2026,VIC,209,Melbourne - North East,18373
+30SEP2026,VIC,210,Melbourne - North West,15573
+30SEP2026,VIC,211,Melbourne - Outer East,17081
+30SEP2026,VIC,212,Melbourne - South East,25517
+30SEP2026,VIC,213,Melbourne - West,31504
+30SEP2026,VIC,214,Mornington Peninsula,11803
+30SEP2026,VIC,215,North West,5765
+30SEP2026,VIC,216,Shepparton,5474
+30SEP2026,VIC,217,Warrnambool and South West,4614
+30SEP2026,VIC,Other,VIC - Other,<11
+30SEP2026,WA,501,Bunbury,5714
+30SEP2026,WA,502,Mandurah,3423
+30SEP2026,WA,503,Perth - Inner,3205
+30SEP2026,WA,504,Perth - North East,8774
+30SEP2026,WA,505,Perth - North West,14831
+30SEP2026,WA,506,Perth - South East,14205
+30SEP2026,WA,507,Perth - South West,12853
+30SEP2026,WA,509,Western Australia - Wheat Belt,3403
+30SEP2026,WA,510,Western Australia - Outback (North),2190
+30SEP2026,WA,511,Western Australia - Outback (South),3009
+30SEP2026,WA,Other,WA - Other,40
 30JUN2026,ACT,801,Australian Capital Territory,12694
 30JUN2026,ACT,Other,ACT - Other,<11
 30JUN2026,MIS,Other,MIS - Other,16

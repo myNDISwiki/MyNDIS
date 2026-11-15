@@ -1,4 +1,408 @@
 RprtDt,StateCd,SrvcDstrctNm,SuppClass,PymntShareOfTop10,PymntBnd
+30SEP2026,ACT,ACT~ACT,ALL,23%,300m - 500m
+30SEP2026,ACT,ACT~ACT,Capacity Building,23%,40m - 50m
+30SEP2026,ACT,ACT~ACT,Capital,76%,5m - 10m
+30SEP2026,ACT,ACT~ACT,Core,28%,200m - 300m
+30SEP2026,ACT,ALL,ALL,23%,300m - 500m
+30SEP2026,ACT,ALL,Capacity Building,23%,40m - 50m
+30SEP2026,ACT,ALL,Capital,76%,5m - 10m
+30SEP2026,ACT,ALL,Core,28%,200m - 300m
+30SEP2026,ALL,ALL,ALL,5%,> 4b
+30SEP2026,ALL,ALL,Capacity Building,8%,3.5m - 4b
+30SEP2026,ALL,ALL,Capital,25%,500m - 700m
+30SEP2026,ALL,ALL,Core,6%,> 4b
+30SEP2026,ALL,ALL,SuppClass_Missing,100%,< 1m
+30SEP2026,NSW,ALL,ALL,9%,> 4b
+30SEP2026,NSW,ALL,Capacity Building,9%,1b - 1.5b
+30SEP2026,NSW,ALL,Capital,39%,100m - 200m
+30SEP2026,NSW,ALL,Core,11%,> 4b
+30SEP2026,NSW,Central Coast~NSW,ALL,18%,300m - 500m
+30SEP2026,NSW,Central Coast~NSW,Capacity Building,20%,50m - 100m
+30SEP2026,NSW,Central Coast~NSW,Capital,56%,10m - 20m
+30SEP2026,NSW,Central Coast~NSW,Core,21%,200m - 300m
+30SEP2026,NSW,Far West~NSW,ALL,53%,30m - 40m
+30SEP2026,NSW,Far West~NSW,Capacity Building,42%,5m - 10m
+30SEP2026,NSW,Far West~NSW,Capital,91%,< 1m
+30SEP2026,NSW,Far West~NSW,Core,60%,20m - 30m
+30SEP2026,NSW,Hunter New England~NSW,ALL,15%,1b - 1.5b
+30SEP2026,NSW,Hunter New England~NSW,Capacity Building,14%,100m - 200m
+30SEP2026,NSW,Hunter New England~NSW,Capital,59%,30m - 40m
+30SEP2026,NSW,Hunter New England~NSW,Core,18%,700m - 1b
+30SEP2026,NSW,Illawarra Shoalhaven~NSW,ALL,28%,300m - 500m
+30SEP2026,NSW,Illawarra Shoalhaven~NSW,Capacity Building,19%,50m - 100m
+30SEP2026,NSW,Illawarra Shoalhaven~NSW,Capital,57%,10m - 20m
+30SEP2026,NSW,Illawarra Shoalhaven~NSW,Core,33%,300m - 500m
+30SEP2026,NSW,Mid North Coast~NSW,ALL,20%,200m - 300m
+30SEP2026,NSW,Mid North Coast~NSW,Capacity Building,22%,40m - 50m
+30SEP2026,NSW,Mid North Coast~NSW,Capital,63%,5m - 10m
+30SEP2026,NSW,Mid North Coast~NSW,Core,23%,200m - 300m
+30SEP2026,NSW,Murrumbidgee~NSW,ALL,35%,200m - 300m
+30SEP2026,NSW,Murrumbidgee~NSW,Capacity Building,22%,40m - 50m
+30SEP2026,NSW,Murrumbidgee~NSW,Capital,58%,5m - 10m
+30SEP2026,NSW,Murrumbidgee~NSW,Core,41%,200m - 300m
+30SEP2026,NSW,Nepean Blue Mountains~NSW,ALL,17%,300m - 500m
+30SEP2026,NSW,Nepean Blue Mountains~NSW,Capacity Building,16%,50m - 100m
+30SEP2026,NSW,Nepean Blue Mountains~NSW,Capital,48%,10m - 20m
+30SEP2026,NSW,Nepean Blue Mountains~NSW,Core,20%,300m - 500m
+30SEP2026,NSW,North Sydney~NSW,ALL,30%,300m - 500m
+30SEP2026,NSW,North Sydney~NSW,Capacity Building,16%,50m - 100m
+30SEP2026,NSW,North Sydney~NSW,Capital,44%,10m - 20m
+30SEP2026,NSW,North Sydney~NSW,Core,35%,300m - 500m
+30SEP2026,NSW,Northern NSW~NSW,ALL,18%,300m - 500m
+30SEP2026,NSW,Northern NSW~NSW,Capacity Building,13%,50m - 100m
+30SEP2026,NSW,Northern NSW~NSW,Capital,53%,5m - 10m
+30SEP2026,NSW,Northern NSW~NSW,Core,21%,200m - 300m
+30SEP2026,NSW,Other~NSW,ALL,81%,< 1m
+30SEP2026,NSW,Other~NSW,Capacity Building,62%,< 1m
+30SEP2026,NSW,Other~NSW,Capital,100%,< 1m
+30SEP2026,NSW,Other~NSW,Core,94%,< 1m
+30SEP2026,NSW,South Eastern Sydney~NSW,ALL,20%,300m - 500m
+30SEP2026,NSW,South Eastern Sydney~NSW,Capacity Building,14%,50m - 100m
+30SEP2026,NSW,South Eastern Sydney~NSW,Capital,55%,10m - 20m
+30SEP2026,NSW,South Eastern Sydney~NSW,Core,24%,300m - 500m
+30SEP2026,NSW,South Western Sydney~NSW,ALL,9%,1b - 1.5b
+30SEP2026,NSW,South Western Sydney~NSW,Capacity Building,11%,200m - 300m
+30SEP2026,NSW,South Western Sydney~NSW,Capital,44%,20m - 30m
+30SEP2026,NSW,South Western Sydney~NSW,Core,10%,700m - 1b
+30SEP2026,NSW,Southern NSW~NSW,ALL,32%,100m - 200m
+30SEP2026,NSW,Southern NSW~NSW,Capacity Building,24%,20m - 30m
+30SEP2026,NSW,Southern NSW~NSW,Capital,71%,1m - 5m
+30SEP2026,NSW,Southern NSW~NSW,Core,38%,100m - 200m
+30SEP2026,NSW,Sydney~NSW,ALL,15%,200m - 300m
+30SEP2026,NSW,Sydney~NSW,Capacity Building,15%,40m - 50m
+30SEP2026,NSW,Sydney~NSW,Capital,52%,5m - 10m
+30SEP2026,NSW,Sydney~NSW,Core,17%,200m - 300m
+30SEP2026,NSW,Western NSW~NSW,ALL,27%,200m - 300m
+30SEP2026,NSW,Western NSW~NSW,Capacity Building,22%,40m - 50m
+30SEP2026,NSW,Western NSW~NSW,Capital,65%,5m - 10m
+30SEP2026,NSW,Western NSW~NSW,Core,33%,200m - 300m
+30SEP2026,NSW,Western Sydney~NSW,ALL,13%,700m - 1b
+30SEP2026,NSW,Western Sydney~NSW,Capacity Building,11%,100m - 200m
+30SEP2026,NSW,Western Sydney~NSW,Capital,47%,20m - 30m
+30SEP2026,NSW,Western Sydney~NSW,Core,16%,700m - 1b
+30SEP2026,NT,ALL,ALL,27%,300m - 500m
+30SEP2026,NT,ALL,Capacity Building,25%,50m - 100m
+30SEP2026,NT,ALL,Capital,79%,5m - 10m
+30SEP2026,NT,ALL,Core,32%,200m - 300m
+30SEP2026,NT,Barkly~NT,ALL,77%,5m - 10m
+30SEP2026,NT,Barkly~NT,Capacity Building,62%,1m - 5m
+30SEP2026,NT,Barkly~NT,Capital,100%,< 1m
+30SEP2026,NT,Barkly~NT,Core,90%,5m - 10m
+30SEP2026,NT,Central Australia~NT,ALL,46%,50m - 100m
+30SEP2026,NT,Central Australia~NT,Capacity Building,35%,10m - 20m
+30SEP2026,NT,Central Australia~NT,Capital,99%,1m - 5m
+30SEP2026,NT,Central Australia~NT,Core,53%,50m - 100m
+30SEP2026,NT,Darwin Remote~NT,ALL,46%,10m - 20m
+30SEP2026,NT,Darwin Remote~NT,Capacity Building,49%,1m - 5m
+30SEP2026,NT,Darwin Remote~NT,Capital,100%,< 1m
+30SEP2026,NT,Darwin Remote~NT,Core,61%,5m - 10m
+30SEP2026,NT,Darwin Urban~NT,ALL,34%,100m - 200m
+30SEP2026,NT,Darwin Urban~NT,Capacity Building,35%,20m - 30m
+30SEP2026,NT,Darwin Urban~NT,Capital,77%,1m - 5m
+30SEP2026,NT,Darwin Urban~NT,Core,40%,100m - 200m
+30SEP2026,NT,East Arnhem~NT,ALL,61%,10m - 20m
+30SEP2026,NT,East Arnhem~NT,Capacity Building,64%,1m - 5m
+30SEP2026,NT,East Arnhem~NT,Capital,100%,< 1m
+30SEP2026,NT,East Arnhem~NT,Core,77%,5m - 10m
+30SEP2026,NT,Katherine~NT,ALL,75%,20m - 30m
+30SEP2026,NT,Katherine~NT,Capacity Building,55%,1m - 5m
+30SEP2026,NT,Katherine~NT,Capital,99%,< 1m
+30SEP2026,NT,Katherine~NT,Core,87%,20m - 30m
+30SEP2026,NT,Other~NT,ALL,66%,5m - 10m
+30SEP2026,NT,Other~NT,Capacity Building,59%,1m - 5m
+30SEP2026,NT,Other~NT,Capital,100%,< 1m
+30SEP2026,NT,Other~NT,Core,82%,5m - 10m
+30SEP2026,OT,ALL,ALL,60%,1m - 5m
+30SEP2026,OT,ALL,Capacity Building,65%,< 1m
+30SEP2026,OT,ALL,Capital,100%,< 1m
+30SEP2026,OT,ALL,Core,75%,1m - 5m
+30SEP2026,OT,Other~OT,ALL,60%,1m - 5m
+30SEP2026,OT,Other~OT,Capacity Building,65%,< 1m
+30SEP2026,OT,Other~OT,Capital,100%,< 1m
+30SEP2026,OT,Other~OT,Core,75%,1m - 5m
+30SEP2026,QLD,ALL,ALL,8%,> 4b
+30SEP2026,QLD,ALL,Capacity Building,8%,700m - 1b
+30SEP2026,QLD,ALL,Capital,37%,100m - 200m
+30SEP2026,QLD,ALL,Core,10%,3.5m - 4b
+30SEP2026,QLD,Beenleigh~QLD,ALL,9%,500m - 700m
+30SEP2026,QLD,Beenleigh~QLD,Capacity Building,13%,100m - 200m
+30SEP2026,QLD,Beenleigh~QLD,Capital,48%,20m - 30m
+30SEP2026,QLD,Beenleigh~QLD,Core,11%,300m - 500m
+30SEP2026,QLD,Brisbane~QLD,ALL,13%,700m - 1b
+30SEP2026,QLD,Brisbane~QLD,Capacity Building,10%,100m - 200m
+30SEP2026,QLD,Brisbane~QLD,Capital,38%,30m - 40m
+30SEP2026,QLD,Brisbane~QLD,Core,16%,700m - 1b
+30SEP2026,QLD,Bundaberg~QLD,ALL,39%,100m - 200m
+30SEP2026,QLD,Bundaberg~QLD,Capacity Building,24%,10m - 20m
+30SEP2026,QLD,Bundaberg~QLD,Capital,63%,5m - 10m
+30SEP2026,QLD,Bundaberg~QLD,Core,46%,100m - 200m
+30SEP2026,QLD,Caboolture-Strathpine~QLD,ALL,10%,500m - 700m
+30SEP2026,QLD,Caboolture-Strathpine~QLD,Capacity Building,14%,50m - 100m
+30SEP2026,QLD,Caboolture-Strathpine~QLD,Capital,49%,10m - 20m
+30SEP2026,QLD,Caboolture-Strathpine~QLD,Core,12%,300m - 500m
+30SEP2026,QLD,Cairns~QLD,ALL,20%,200m - 300m
+30SEP2026,QLD,Cairns~QLD,Capacity Building,19%,40m - 50m
+30SEP2026,QLD,Cairns~QLD,Capital,78%,5m - 10m
+30SEP2026,QLD,Cairns~QLD,Core,24%,200m - 300m
+30SEP2026,QLD,Ipswich~QLD,ALL,11%,300m - 500m
+30SEP2026,QLD,Ipswich~QLD,Capacity Building,13%,50m - 100m
+30SEP2026,QLD,Ipswich~QLD,Capital,50%,10m - 20m
+30SEP2026,QLD,Ipswich~QLD,Core,14%,300m - 500m
+30SEP2026,QLD,Mackay~QLD,ALL,32%,100m - 200m
+30SEP2026,QLD,Mackay~QLD,Capacity Building,29%,20m - 30m
+30SEP2026,QLD,Mackay~QLD,Capital,70%,5m - 10m
+30SEP2026,QLD,Mackay~QLD,Core,37%,100m - 200m
+30SEP2026,QLD,Maroochydore~QLD,ALL,12%,300m - 500m
+30SEP2026,QLD,Maroochydore~QLD,Capacity Building,11%,50m - 100m
+30SEP2026,QLD,Maroochydore~QLD,Capital,43%,10m - 20m
+30SEP2026,QLD,Maroochydore~QLD,Core,14%,300m - 500m
+30SEP2026,QLD,Maryborough~QLD,ALL,22%,100m - 200m
+30SEP2026,QLD,Maryborough~QLD,Capacity Building,18%,30m - 40m
+30SEP2026,QLD,Maryborough~QLD,Capital,50%,5m - 10m
+30SEP2026,QLD,Maryborough~QLD,Core,27%,100m - 200m
+30SEP2026,QLD,Other~QLD,ALL,100%,< 1m
+30SEP2026,QLD,Other~QLD,Capacity Building,100%,< 1m
+30SEP2026,QLD,Other~QLD,Core,100%,< 1m
+30SEP2026,QLD,Robina~QLD,ALL,11%,500m - 700m
+30SEP2026,QLD,Robina~QLD,Capacity Building,12%,50m - 100m
+30SEP2026,QLD,Robina~QLD,Capital,40%,10m - 20m
+30SEP2026,QLD,Robina~QLD,Core,14%,300m - 500m
+30SEP2026,QLD,Rockhampton~QLD,ALL,29%,200m - 300m
+30SEP2026,QLD,Rockhampton~QLD,Capacity Building,22%,30m - 40m
+30SEP2026,QLD,Rockhampton~QLD,Capital,56%,5m - 10m
+30SEP2026,QLD,Rockhampton~QLD,Core,35%,100m - 200m
+30SEP2026,QLD,Toowoomba~QLD,ALL,16%,300m - 500m
+30SEP2026,QLD,Toowoomba~QLD,Capacity Building,20%,40m - 50m
+30SEP2026,QLD,Toowoomba~QLD,Capital,57%,10m - 20m
+30SEP2026,QLD,Toowoomba~QLD,Core,19%,200m - 300m
+30SEP2026,QLD,Townsville~QLD,ALL,21%,200m - 300m
+30SEP2026,QLD,Townsville~QLD,Capacity Building,25%,40m - 50m
+30SEP2026,QLD,Townsville~QLD,Capital,61%,5m - 10m
+30SEP2026,QLD,Townsville~QLD,Core,26%,200m - 300m
+30SEP2026,SA,ALL,ALL,15%,1.5b - 2b
+30SEP2026,SA,ALL,Capacity Building,14%,300m - 500m
+30SEP2026,SA,ALL,Capital,46%,50m - 100m
+30SEP2026,SA,ALL,Core,18%,1.5b - 2b
+30SEP2026,SA,ALL,SuppClass_Missing,100%,< 1m
+30SEP2026,SA,Adelaide Hills~SA,ALL,31%,50m - 100m
+30SEP2026,SA,Adelaide Hills~SA,Capacity Building,17%,10m - 20m
+30SEP2026,SA,Adelaide Hills~SA,Capital,72%,1m - 5m
+30SEP2026,SA,Adelaide Hills~SA,Core,39%,40m - 50m
+30SEP2026,SA,Barossa  Light and Lower North,ALL,22%,50m - 100m
+30SEP2026,SA,Barossa  Light and Lower North,Capacity Building,23%,10m - 20m
+30SEP2026,SA,Barossa  Light and Lower North,Capital,62%,1m - 5m
+30SEP2026,SA,Barossa  Light and Lower North,Core,28%,40m - 50m
+30SEP2026,SA,Eastern Adelaide~SA,ALL,18%,100m - 200m
+30SEP2026,SA,Eastern Adelaide~SA,Capacity Building,13%,20m - 30m
+30SEP2026,SA,Eastern Adelaide~SA,Capital,62%,5m - 10m
+30SEP2026,SA,Eastern Adelaide~SA,Core,21%,100m - 200m
+30SEP2026,SA,Eyre and Western~SA,ALL,31%,50m - 100m
+30SEP2026,SA,Eyre and Western~SA,Capacity Building,49%,10m - 20m
+30SEP2026,SA,Eyre and Western~SA,Capital,86%,< 1m
+30SEP2026,SA,Eyre and Western~SA,Core,35%,30m - 40m
+30SEP2026,SA,Far North (SA)~SA,ALL,48%,10m - 20m
+30SEP2026,SA,Far North (SA)~SA,Capacity Building,35%,1m - 5m
+30SEP2026,SA,Far North (SA)~SA,Capital,91%,< 1m
+30SEP2026,SA,Far North (SA)~SA,Core,59%,10m - 20m
+30SEP2026,SA,Fleurieu and Kangaroo Island~S,ALL,32%,50m - 100m
+30SEP2026,SA,Fleurieu and Kangaroo Island~S,Capacity Building,17%,10m - 20m
+30SEP2026,SA,Fleurieu and Kangaroo Island~S,Capital,69%,1m - 5m
+30SEP2026,SA,Fleurieu and Kangaroo Island~S,Core,40%,40m - 50m
+30SEP2026,SA,Limestone Coast~SA,ALL,45%,50m - 100m
+30SEP2026,SA,Limestone Coast~SA,Capacity Building,35%,5m - 10m
+30SEP2026,SA,Limestone Coast~SA,Capital,83%,1m - 5m
+30SEP2026,SA,Limestone Coast~SA,Core,55%,40m - 50m
+30SEP2026,SA,Murray and Mallee~SA,ALL,40%,50m - 100m
+30SEP2026,SA,Murray and Mallee~SA,Capacity Building,31%,10m - 20m
+30SEP2026,SA,Murray and Mallee~SA,Capital,70%,1m - 5m
+30SEP2026,SA,Murray and Mallee~SA,Core,48%,50m - 100m
+30SEP2026,SA,Murray and Mallee~SA,SuppClass_Missing,100%,< 1m
+30SEP2026,SA,Northern Adelaide~SA,ALL,14%,700m - 1b
+30SEP2026,SA,Northern Adelaide~SA,Capacity Building,16%,100m - 200m
+30SEP2026,SA,Northern Adelaide~SA,Capital,45%,20m - 30m
+30SEP2026,SA,Northern Adelaide~SA,Core,17%,500m - 700m
+30SEP2026,SA,Other~SA,ALL,72%,1m - 5m
+30SEP2026,SA,Other~SA,Capacity Building,66%,< 1m
+30SEP2026,SA,Other~SA,Capital,100%,< 1m
+30SEP2026,SA,Other~SA,Core,88%,< 1m
+30SEP2026,SA,Southern Adelaide~SA,ALL,25%,300m - 500m
+30SEP2026,SA,Southern Adelaide~SA,Capacity Building,16%,50m - 100m
+30SEP2026,SA,Southern Adelaide~SA,Capital,56%,10m - 20m
+30SEP2026,SA,Southern Adelaide~SA,Core,29%,300m - 500m
+30SEP2026,SA,Western Adelaide~SA,ALL,16%,100m - 200m
+30SEP2026,SA,Western Adelaide~SA,Capacity Building,15%,30m - 40m
+30SEP2026,SA,Western Adelaide~SA,Capital,63%,1m - 5m
+30SEP2026,SA,Western Adelaide~SA,Core,19%,100m - 200m
+30SEP2026,SA,Yorke and Mid North~SA,ALL,33%,50m - 100m
+30SEP2026,SA,Yorke and Mid North~SA,Capacity Building,43%,10m - 20m
+30SEP2026,SA,Yorke and Mid North~SA,Capital,65%,1m - 5m
+30SEP2026,SA,Yorke and Mid North~SA,Core,39%,40m - 50m
+30SEP2026,State_Missing,ALL,ALL,19%,1m - 5m
+30SEP2026,State_Missing,ALL,Capacity Building,15%,1m - 5m
+30SEP2026,State_Missing,ALL,Capital,38%,< 1m
+30SEP2026,State_Missing,ALL,Core,79%,< 1m
+30SEP2026,State_Missing,ALL,SuppClass_Missing,100%,< 1m
+30SEP2026,State_Missing,Other~State_Missing,ALL,21%,1m - 5m
+30SEP2026,State_Missing,Other~State_Missing,Capacity Building,15%,1m - 5m
+30SEP2026,State_Missing,Other~State_Missing,Capital,100%,< 1m
+30SEP2026,State_Missing,Other~State_Missing,Core,94%,< 1m
+30SEP2026,State_Missing,Region_Missing~State_Missing,ALL,35%,1m - 5m
+30SEP2026,State_Missing,Region_Missing~State_Missing,Capacity Building,63%,< 1m
+30SEP2026,State_Missing,Region_Missing~State_Missing,Capital,38%,< 1m
+30SEP2026,State_Missing,Region_Missing~State_Missing,Core,90%,< 1m
+30SEP2026,State_Missing,Region_Missing~State_Missing,SuppClass_Missing,100%,< 1m
+30SEP2026,TAS,ALL,ALL,26%,500m - 700m
+30SEP2026,TAS,ALL,Capacity Building,19%,50m - 100m
+30SEP2026,TAS,ALL,Capital,65%,10m - 20m
+30SEP2026,TAS,ALL,Core,30%,300m - 500m
+30SEP2026,TAS,TAS North West~TAS,ALL,47%,100m - 200m
+30SEP2026,TAS,TAS North West~TAS,Capacity Building,30%,10m - 20m
+30SEP2026,TAS,TAS North West~TAS,Capital,77%,1m - 5m
+30SEP2026,TAS,TAS North West~TAS,Core,54%,100m - 200m
+30SEP2026,TAS,TAS North~TAS,ALL,33%,100m - 200m
+30SEP2026,TAS,TAS North~TAS,Capacity Building,32%,20m - 30m
+30SEP2026,TAS,TAS North~TAS,Capital,84%,1m - 5m
+30SEP2026,TAS,TAS North~TAS,Core,39%,100m - 200m
+30SEP2026,TAS,TAS South East~TAS,ALL,32%,100m - 200m
+30SEP2026,TAS,TAS South East~TAS,Capacity Building,28%,10m - 20m
+30SEP2026,TAS,TAS South East~TAS,Capital,71%,1m - 5m
+30SEP2026,TAS,TAS South East~TAS,Core,40%,50m - 100m
+30SEP2026,TAS,TAS South West~TAS,ALL,38%,100m - 200m
+30SEP2026,TAS,TAS South West~TAS,Capacity Building,26%,20m - 30m
+30SEP2026,TAS,TAS South West~TAS,Capital,75%,1m - 5m
+30SEP2026,TAS,TAS South West~TAS,Core,44%,100m - 200m
+30SEP2026,VIC,ALL,ALL,9%,> 4b
+30SEP2026,VIC,ALL,Capacity Building,11%,1b - 1.5b
+30SEP2026,VIC,ALL,Capital,32%,100m - 200m
+30SEP2026,VIC,ALL,Core,11%,> 4b
+30SEP2026,VIC,Barwon~VIC,ALL,25%,300m - 500m
+30SEP2026,VIC,Barwon~VIC,Capacity Building,24%,50m - 100m
+30SEP2026,VIC,Barwon~VIC,Capital,51%,10m - 20m
+30SEP2026,VIC,Barwon~VIC,Core,31%,200m - 300m
+30SEP2026,VIC,Bayside Peninsula~VIC,ALL,13%,500m - 700m
+30SEP2026,VIC,Bayside Peninsula~VIC,Capacity Building,14%,100m - 200m
+30SEP2026,VIC,Bayside Peninsula~VIC,Capital,39%,20m - 30m
+30SEP2026,VIC,Bayside Peninsula~VIC,Core,16%,500m - 700m
+30SEP2026,VIC,Brimbank Melton~VIC,ALL,10%,300m - 500m
+30SEP2026,VIC,Brimbank Melton~VIC,Capacity Building,14%,50m - 100m
+30SEP2026,VIC,Brimbank Melton~VIC,Capital,44%,10m - 20m
+30SEP2026,VIC,Brimbank Melton~VIC,Core,12%,300m - 500m
+30SEP2026,VIC,Central Highlands~VIC,ALL,27%,200m - 300m
+30SEP2026,VIC,Central Highlands~VIC,Capacity Building,26%,30m - 40m
+30SEP2026,VIC,Central Highlands~VIC,Capital,56%,5m - 10m
+30SEP2026,VIC,Central Highlands~VIC,Core,33%,100m - 200m
+30SEP2026,VIC,Goulburn~VIC,ALL,17%,100m - 200m
+30SEP2026,VIC,Goulburn~VIC,Capacity Building,21%,30m - 40m
+30SEP2026,VIC,Goulburn~VIC,Capital,46%,5m - 10m
+30SEP2026,VIC,Goulburn~VIC,Core,22%,100m - 200m
+30SEP2026,VIC,Hume Moreland~VIC,ALL,9%,300m - 500m
+30SEP2026,VIC,Hume Moreland~VIC,Capacity Building,13%,50m - 100m
+30SEP2026,VIC,Hume Moreland~VIC,Capital,45%,5m - 10m
+30SEP2026,VIC,Hume Moreland~VIC,Core,11%,300m - 500m
+30SEP2026,VIC,Inner East Melbourne~VIC,ALL,26%,300m - 500m
+30SEP2026,VIC,Inner East Melbourne~VIC,Capacity Building,14%,50m - 100m
+30SEP2026,VIC,Inner East Melbourne~VIC,Capital,50%,10m - 20m
+30SEP2026,VIC,Inner East Melbourne~VIC,Core,31%,300m - 500m
+30SEP2026,VIC,Inner Gippsland~VIC,ALL,20%,100m - 200m
+30SEP2026,VIC,Inner Gippsland~VIC,Capacity Building,18%,30m - 40m
+30SEP2026,VIC,Inner Gippsland~VIC,Capital,60%,5m - 10m
+30SEP2026,VIC,Inner Gippsland~VIC,Core,24%,100m - 200m
+30SEP2026,VIC,Loddon~VIC,ALL,23%,200m - 300m
+30SEP2026,VIC,Loddon~VIC,Capacity Building,24%,40m - 50m
+30SEP2026,VIC,Loddon~VIC,Capital,71%,5m - 10m
+30SEP2026,VIC,Loddon~VIC,Core,28%,100m - 200m
+30SEP2026,VIC,Mallee~VIC,ALL,41%,50m - 100m
+30SEP2026,VIC,Mallee~VIC,Capacity Building,30%,10m - 20m
+30SEP2026,VIC,Mallee~VIC,Capital,78%,1m - 5m
+30SEP2026,VIC,Mallee~VIC,Core,51%,50m - 100m
+30SEP2026,VIC,North East Melbourne~VIC,ALL,16%,500m - 700m
+30SEP2026,VIC,North East Melbourne~VIC,Capacity Building,14%,50m - 100m
+30SEP2026,VIC,North East Melbourne~VIC,Capital,44%,10m - 20m
+30SEP2026,VIC,North East Melbourne~VIC,Core,19%,300m - 500m
+30SEP2026,VIC,Other~VIC,ALL,89%,< 1m
+30SEP2026,VIC,Other~VIC,Capacity Building,71%,< 1m
+30SEP2026,VIC,Other~VIC,Capital,100%,< 1m
+30SEP2026,VIC,Other~VIC,Core,99%,< 1m
+30SEP2026,VIC,Outer East Melbourne~VIC,ALL,23%,300m - 500m
+30SEP2026,VIC,Outer East Melbourne~VIC,Capacity Building,16%,50m - 100m
+30SEP2026,VIC,Outer East Melbourne~VIC,Capital,39%,10m - 20m
+30SEP2026,VIC,Outer East Melbourne~VIC,Core,28%,200m - 300m
+30SEP2026,VIC,Outer Gippsland~VIC,ALL,27%,50m - 100m
+30SEP2026,VIC,Outer Gippsland~VIC,Capacity Building,28%,10m - 20m
+30SEP2026,VIC,Outer Gippsland~VIC,Capital,80%,1m - 5m
+30SEP2026,VIC,Outer Gippsland~VIC,Core,33%,50m - 100m
+30SEP2026,VIC,Ovens Murray~VIC,ALL,29%,100m - 200m
+30SEP2026,VIC,Ovens Murray~VIC,Capacity Building,23%,20m - 30m
+30SEP2026,VIC,Ovens Murray~VIC,Capital,58%,1m - 5m
+30SEP2026,VIC,Ovens Murray~VIC,Core,36%,50m - 100m
+30SEP2026,VIC,Southern Melbourne~VIC,ALL,11%,500m - 700m
+30SEP2026,VIC,Southern Melbourne~VIC,Capacity Building,17%,100m - 200m
+30SEP2026,VIC,Southern Melbourne~VIC,Capital,35%,20m - 30m
+30SEP2026,VIC,Southern Melbourne~VIC,Core,14%,300m - 500m
+30SEP2026,VIC,Western District~VIC,ALL,35%,100m - 200m
+30SEP2026,VIC,Western District~VIC,Capacity Building,29%,20m - 30m
+30SEP2026,VIC,Western District~VIC,Capital,63%,1m - 5m
+30SEP2026,VIC,Western District~VIC,Core,42%,100m - 200m
+30SEP2026,VIC,Western Melbourne~VIC,ALL,8%,500m - 700m
+30SEP2026,VIC,Western Melbourne~VIC,Capacity Building,13%,100m - 200m
+30SEP2026,VIC,Western Melbourne~VIC,Capital,40%,10m - 20m
+30SEP2026,VIC,Western Melbourne~VIC,Core,10%,300m - 500m
+30SEP2026,WA,ALL,ALL,16%,2b - 2.5b
+30SEP2026,WA,ALL,Capacity Building,18%,300m - 500m
+30SEP2026,WA,ALL,Capital,40%,50m - 100m
+30SEP2026,WA,ALL,Core,19%,1.5b - 2b
+30SEP2026,WA,Central North Metro~WA,ALL,23%,200m - 300m
+30SEP2026,WA,Central North Metro~WA,Capacity Building,18%,40m - 50m
+30SEP2026,WA,Central North Metro~WA,Capital,50%,5m - 10m
+30SEP2026,WA,Central North Metro~WA,Core,26%,200m - 300m
+30SEP2026,WA,Central South Metro~WA,ALL,17%,200m - 300m
+30SEP2026,WA,Central South Metro~WA,Capacity Building,20%,40m - 50m
+30SEP2026,WA,Central South Metro~WA,Capital,45%,5m - 10m
+30SEP2026,WA,Central South Metro~WA,Core,21%,100m - 200m
+30SEP2026,WA,Goldfields-Esperance~WA,ALL,60%,40m - 50m
+30SEP2026,WA,Goldfields-Esperance~WA,Capacity Building,40%,5m - 10m
+30SEP2026,WA,Goldfields-Esperance~WA,Capital,82%,< 1m
+30SEP2026,WA,Goldfields-Esperance~WA,Core,73%,30m - 40m
+30SEP2026,WA,Great Southern~WA,ALL,50%,40m - 50m
+30SEP2026,WA,Great Southern~WA,Capacity Building,31%,5m - 10m
+30SEP2026,WA,Great Southern~WA,Capital,79%,1m - 5m
+30SEP2026,WA,Great Southern~WA,Core,60%,30m - 40m
+30SEP2026,WA,Kimberley-Pilbara~WA,ALL,47%,50m - 100m
+30SEP2026,WA,Kimberley-Pilbara~WA,Capacity Building,47%,10m - 20m
+30SEP2026,WA,Kimberley-Pilbara~WA,Capital,74%,1m - 5m
+30SEP2026,WA,Kimberley-Pilbara~WA,Core,58%,50m - 100m
+30SEP2026,WA,Midwest-Gascoyne~WA,ALL,38%,40m - 50m
+30SEP2026,WA,Midwest-Gascoyne~WA,Capacity Building,40%,10m - 20m
+30SEP2026,WA,Midwest-Gascoyne~WA,Capital,81%,1m - 5m
+30SEP2026,WA,Midwest-Gascoyne~WA,Core,52%,30m - 40m
+30SEP2026,WA,North East Metro~WA,ALL,23%,300m - 500m
+30SEP2026,WA,North East Metro~WA,Capacity Building,24%,50m - 100m
+30SEP2026,WA,North East Metro~WA,Capital,51%,10m - 20m
+30SEP2026,WA,North East Metro~WA,Core,26%,200m - 300m
+30SEP2026,WA,North Metro~WA,ALL,19%,200m - 300m
+30SEP2026,WA,North Metro~WA,Capacity Building,23%,50m - 100m
+30SEP2026,WA,North Metro~WA,Capital,45%,10m - 20m
+30SEP2026,WA,North Metro~WA,Core,23%,100m - 200m
+30SEP2026,WA,Other~WA,ALL,66%,< 1m
+30SEP2026,WA,Other~WA,Capacity Building,53%,< 1m
+30SEP2026,WA,Other~WA,Capital,100%,< 1m
+30SEP2026,WA,Other~WA,Core,94%,< 1m
+30SEP2026,WA,South East Metro~WA,ALL,24%,200m - 300m
+30SEP2026,WA,South East Metro~WA,Capacity Building,25%,40m - 50m
+30SEP2026,WA,South East Metro~WA,Capital,51%,10m - 20m
+30SEP2026,WA,South East Metro~WA,Core,28%,200m - 300m
+30SEP2026,WA,South Metro~WA,ALL,18%,300m - 500m
+30SEP2026,WA,South Metro~WA,Capacity Building,22%,50m - 100m
+30SEP2026,WA,South Metro~WA,Capital,41%,10m - 20m
+30SEP2026,WA,South Metro~WA,Core,22%,200m - 300m
+30SEP2026,WA,South West~WA,ALL,39%,100m - 200m
+30SEP2026,WA,South West~WA,Capacity Building,31%,20m - 30m
+30SEP2026,WA,South West~WA,Capital,64%,1m - 5m
+30SEP2026,WA,South West~WA,Core,48%,100m - 200m
+30SEP2026,WA,Wheat Belt~WA,ALL,30%,20m - 30m
+30SEP2026,WA,Wheat Belt~WA,Capacity Building,27%,5m - 10m
+30SEP2026,WA,Wheat Belt~WA,Capital,67%,1m - 5m
+30SEP2026,WA,Wheat Belt~WA,Core,39%,10m - 20m
 30JUN2026,ACT,ACT~ACT,ALL,24%,200m - 300m
 30JUN2026,ACT,ACT~ACT,Capacity Building,22%,40m - 50m
 30JUN2026,ACT,ACT~ACT,Capital,80%,5m - 10m

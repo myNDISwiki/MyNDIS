@@ -587,3 +587,38 @@ SHA-256: `3b006da6777f7070587ff41e9fc1a340dbe56182c17e746d9ad3d2bd334944cb`
 SHA-256: `553e83af664e144b4d4505656cc02adc216ad7d7f095d3642b178e77ea6d2016`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-15T22:51:29Z — changed
+
+SHA-256: `2ba8733e4e508e9705f038ce550814292a9675963e050b3b0741fec5b6f54f5a`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,12 @@
+ Save page as PDF
+ Page title
+ Updated
++Participant datasets
++16 November 2026
++Payments datasets
++16 November 2026
++Provider datasets
++16 November 2026
+ Quarterly report supplements
+ 13 November 2026
+ The NDIS in focus
+@@ -76,12 +82,6 @@
+ 23 October 2026
+ Specialist Disability Accommodation (SDA) Data
+ 2 October 2026
+-Evaluation of NDIS supports lists and shorter funding periods
+-23 September 2026
+-Research and evaluation
+-9 September 2026
+-Developmental Delay
+-31 August 2026
+ Social Menu
+ Facebook
+ (External website)
+```

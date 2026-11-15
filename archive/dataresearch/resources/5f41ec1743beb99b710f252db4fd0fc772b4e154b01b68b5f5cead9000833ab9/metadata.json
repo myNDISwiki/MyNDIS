@@ -1,5 +1,5 @@
 {
-  "bytes": 91387,
+  "bytes": 91359,
   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "directory": "resources/5f41ec1743beb99b710f252db4fd0fc772b4e154b01b68b5f5cead9000833ab9",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4275/download?attachment=",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-09T19:20:17Z",
+  "last_changed": "2026-11-15T22:51:29Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "attachment; filename=\"Baseline Outcome data rules.docx\"",
-    "ETag": "\"1786682617:dtagent10349261020121938+8L7\"",
-    "Last-Modified": "Fri, 14 Aug 2026 04:43:36 GMT"
+    "ETag": "\"1794782987:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Sun, 15 Nov 2026 22:49:46 GMT"
   },
-  "sha256": "8c477e8fbc1a9911f72ffb4c85ddb24682d9ba612eee5001258f345a127944d1",
+  "sha256": "9f3fb89fbb4f3960629453b333e9d4cf2d79d698480586fd23335584d39de283",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4275/download?attachment="
 }

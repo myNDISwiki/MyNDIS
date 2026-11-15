@@ -1,5 +1,5 @@
 {
-  "bytes": 92569,
+  "bytes": 92687,
   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "directory": "resources/f99fd9c2b99b6839c438a92541db9fc54652f8f613f0266a1c4798ea1a61eceb",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4259/download?attachment=",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-09T19:20:17Z",
+  "last_changed": "2026-11-15T22:51:29Z",
   "links": [],
   "response_headers": {
-    "Content-Disposition": "attachment; filename=\"Market Concentration data rules_0.docx\"",
-    "ETag": "\"1786686067:dtagent10349261020121938+8L7\"",
-    "Last-Modified": "Fri, 14 Aug 2026 05:41:06 GMT"
+    "Content-Disposition": "attachment; filename=\"Market Concentration data rules.docx\"",
+    "ETag": "\"1794785025:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Sun, 15 Nov 2026 23:23:44 GMT"
   },
-  "sha256": "fbac72543196c099255f82f3d8f459f4c1ffd6f857884422ef399cc316506087",
+  "sha256": "01c28f2d46a6d4b3feaf3b71cc59fbdc632bc7ac02228b659b5097b94cdd7033",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4259/download?attachment="
 }

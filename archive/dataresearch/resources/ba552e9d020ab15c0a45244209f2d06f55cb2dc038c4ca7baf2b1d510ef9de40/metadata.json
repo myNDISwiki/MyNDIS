@@ -1,5 +1,5 @@
 {
-  "bytes": 89767,
+  "bytes": 89570,
   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "directory": "resources/ba552e9d020ab15c0a45244209f2d06f55cb2dc038c4ca7baf2b1d510ef9de40",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4264/download?attachment=",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-09T19:20:17Z",
+  "last_changed": "2026-11-15T22:51:29Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "attachment; filename=\"Participants by SA3 data rules.docx\"",
-    "ETag": "\"1786683097:dtagent10349261020121938+8L7\"",
-    "Last-Modified": "Fri, 14 Aug 2026 04:51:36 GMT"
+    "ETag": "\"1794783430:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Sun, 15 Nov 2026 22:57:09 GMT"
   },
-  "sha256": "fe8d027dc4078bbfcd2b9016fa48e3dc90567612711a283853b77677dcc43ef8",
+  "sha256": "c87fa73867d17fd5a50a8d1b1589bb86aed5cb1619380292d819ce406ea41a8d",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4264/download?attachment="
 }

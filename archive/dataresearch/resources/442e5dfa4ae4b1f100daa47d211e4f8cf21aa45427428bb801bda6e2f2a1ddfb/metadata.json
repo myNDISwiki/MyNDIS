@@ -1,5 +1,5 @@
 {
-  "bytes": 2753095,
+  "bytes": 2850367,
   "content_type": "text/csv; charset=utf-8",
   "directory": "resources/442e5dfa4ae4b1f100daa47d211e4f8cf21aa45427428bb801bda6e2f2a1ddfb",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4319/download?attachment=",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-09T19:20:17Z",
+  "last_changed": "2026-11-15T22:51:29Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "attachment; filename=\"Participants by SA2 data.csv\"",
-    "ETag": "\"1786682811:dtagent10349261020121938+8L7\"",
-    "Last-Modified": "Fri, 14 Aug 2026 04:46:50 GMT"
+    "ETag": "\"1794783272:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Sun, 15 Nov 2026 22:54:31 GMT"
   },
-  "sha256": "9694b394431ec15a98500c888c3c82c97490e21766bf506f947a501d5f53211e",
+  "sha256": "7a37302e2f20d711014fad3e1273c64a54e5c87268bffef32146b0115f408815",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4319/download?attachment="
 }

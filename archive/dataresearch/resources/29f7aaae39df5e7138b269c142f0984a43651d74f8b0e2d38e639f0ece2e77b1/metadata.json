@@ -1,5 +1,5 @@
 {
-  "bytes": 94006,
+  "bytes": 88262,
   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "directory": "resources/29f7aaae39df5e7138b269c142f0984a43651d74f8b0e2d38e639f0ece2e77b1",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4474/download?attachment=",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-09T19:20:17Z",
+  "last_changed": "2026-11-15T22:51:29Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "attachment; filename=\"Payment data rules.docx\"",
-    "ETag": "\"1786684999:dtagent10349261020121938+8L7\"",
-    "Last-Modified": "Fri, 14 Aug 2026 05:23:18 GMT"
+    "ETag": "\"1794785464:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Sun, 15 Nov 2026 23:31:03 GMT"
   },
-  "sha256": "f00448313a4b3c0608f54cfa5c34200b3e0db3e2f92a61dc13f683d0e146e7b3",
+  "sha256": "dd60e6fae491f5302720d179415423e0f482af94ff8b74f0f7612254a4090117",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4474/download?attachment="
 }

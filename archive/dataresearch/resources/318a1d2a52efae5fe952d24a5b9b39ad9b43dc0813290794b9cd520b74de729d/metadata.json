@@ -1,5 +1,5 @@
 {
-  "bytes": 97180,
+  "bytes": 100272,
   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "directory": "resources/318a1d2a52efae5fe952d24a5b9b39ad9b43dc0813290794b9cd520b74de729d",
   "embeds": [],
@@ -9,14 +9,14 @@
   "final_url": "https://dataresearch.ndis.gov.au/media/4267/download?attachment=",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-09-09T19:20:17Z",
+  "last_changed": "2026-11-15T22:51:29Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "attachment; filename=\"Plan Management types data rules.docx\"",
-    "ETag": "\"1786681938:dtagent10349261020121938+8L7\"",
-    "Last-Modified": "Fri, 14 Aug 2026 04:32:17 GMT"
+    "ETag": "\"1794782625:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Sun, 15 Nov 2026 22:43:44 GMT"
   },
-  "sha256": "4d835b0add7741ca42e160e92bb1443d418520f74dbe6387e6ec6a99ba44c860",
+  "sha256": "822b97cda9d8fbd19139f2e25f5418a92fe50d5b164dfc7b31533459b5a806ce",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/media/4267/download?attachment="
 }

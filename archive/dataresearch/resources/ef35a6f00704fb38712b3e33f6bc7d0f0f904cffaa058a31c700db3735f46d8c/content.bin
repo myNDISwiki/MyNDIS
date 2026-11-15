@@ -1,4 +1,553 @@
 ReportDt,StateCd,RsdsInSrvcDstrctNm,LGANm2020,PrtcpntCnt
+30SEP2026,ACT,ACT,Unincorporated ACT,12833
+30SEP2026,ACT,Other,ACT - Other,<11
+30SEP2026,MIS,Other,MIS - Other,12
+30SEP2026,NSW,Central Coast,Central Coast (C) (NSW),13489
+30SEP2026,NSW,Far West,Balranald (A),65
+30SEP2026,NSW,Far West,Broken Hill (C),710
+30SEP2026,NSW,Far West,Central Darling (A),41
+30SEP2026,NSW,Far West,Wentworth (A),240
+30SEP2026,NSW,Hunter New England,Armidale Regional (A),959
+30SEP2026,NSW,Hunter New England,Cessnock (C),3243
+30SEP2026,NSW,Hunter New England,Dungog (A),298
+30SEP2026,NSW,Hunter New England,Glen Innes Severn (A),244
+30SEP2026,NSW,Hunter New England,Gunnedah (A),381
+30SEP2026,NSW,Hunter New England,Gwydir (A),100
+30SEP2026,NSW,Hunter New England,Inverell (A),609
+30SEP2026,NSW,Hunter New England,Lake Macquarie (C),8815
+30SEP2026,NSW,Hunter New England,Liverpool Plains (A),223
+30SEP2026,NSW,Hunter New England,Maitland (C),5030
+30SEP2026,NSW,Hunter New England,Mid-Coast (A),3303
+30SEP2026,NSW,Hunter New England,Moree Plains (A),328
+30SEP2026,NSW,Hunter New England,Muswellbrook (A),665
+30SEP2026,NSW,Hunter New England,Narrabri (A),326
+30SEP2026,NSW,Hunter New England,Newcastle (C),6361
+30SEP2026,NSW,Hunter New England,Port Stephens (A),2867
+30SEP2026,NSW,Hunter New England,Singleton (A),880
+30SEP2026,NSW,Hunter New England,Tamworth Regional (A),2423
+30SEP2026,NSW,Hunter New England,Tenterfield (A),164
+30SEP2026,NSW,Hunter New England,Upper Hunter Shire (A),344
+30SEP2026,NSW,Hunter New England,Uralla (A),164
+30SEP2026,NSW,Hunter New England,Walcha (A),41
+30SEP2026,NSW,Illawarra Shoalhaven,Kiama (A),438
+30SEP2026,NSW,Illawarra Shoalhaven,Shellharbour (C),2864
+30SEP2026,NSW,Illawarra Shoalhaven,Shoalhaven (C),3588
+30SEP2026,NSW,Illawarra Shoalhaven,Wollongong (C),6831
+30SEP2026,NSW,Mid North Coast,Bellingen (A),404
+30SEP2026,NSW,Mid North Coast,Coffs Harbour (C),2754
+30SEP2026,NSW,Mid North Coast,Kempsey (A),1593
+30SEP2026,NSW,Mid North Coast,Nambucca Valley (A),800
+30SEP2026,NSW,Mid North Coast,Port Macquarie-Hastings (A),3980
+30SEP2026,NSW,Murrumbidgee,Albury (C),2584
+30SEP2026,NSW,Murrumbidgee,Berrigan (A),264
+30SEP2026,NSW,Murrumbidgee,Bland (A),117
+30SEP2026,NSW,Murrumbidgee,Carrathool (A),48
+30SEP2026,NSW,Murrumbidgee,Coolamon (A),115
+30SEP2026,NSW,Murrumbidgee,Cootamundra-Gundagai Regional (A),326
+30SEP2026,NSW,Murrumbidgee,Edward River (A),299
+30SEP2026,NSW,Murrumbidgee,Federation (A),383
+30SEP2026,NSW,Murrumbidgee,Greater Hume Shire (A),425
+30SEP2026,NSW,Murrumbidgee,Griffith (C),635
+30SEP2026,NSW,Murrumbidgee,Hay (A),76
+30SEP2026,NSW,Murrumbidgee,Hilltops (A),592
+30SEP2026,NSW,Murrumbidgee,Junee (A),213
+30SEP2026,NSW,Murrumbidgee,Leeton (A),303
+30SEP2026,NSW,Murrumbidgee,Lockhart (A),101
+30SEP2026,NSW,Murrumbidgee,Murray River (A),275
+30SEP2026,NSW,Murrumbidgee,Murrumbidgee (A),76
+30SEP2026,NSW,Murrumbidgee,Narrandera (A),200
+30SEP2026,NSW,Murrumbidgee,Snowy Valleys (A),400
+30SEP2026,NSW,Murrumbidgee,Temora (A),165
+30SEP2026,NSW,Murrumbidgee,Wagga Wagga (C),2417
+30SEP2026,NSW,Nepean Blue Mountains,Blue Mountains (C),2895
+30SEP2026,NSW,Nepean Blue Mountains,Hawkesbury (C),2182
+30SEP2026,NSW,Nepean Blue Mountains,Lithgow (C),745
+30SEP2026,NSW,Nepean Blue Mountains,Penrith (C),8617
+30SEP2026,NSW,North Sydney,Hornsby (A),3106
+30SEP2026,NSW,North Sydney,Hunters Hill (A),216
+30SEP2026,NSW,North Sydney,Ku-ring-gai (A),1994
+30SEP2026,NSW,North Sydney,Lane Cove (A),601
+30SEP2026,NSW,North Sydney,Mosman (A),295
+30SEP2026,NSW,North Sydney,North Sydney (A),787
+30SEP2026,NSW,North Sydney,Northern Beaches (A),4578
+30SEP2026,NSW,North Sydney,Ryde (C),2652
+30SEP2026,NSW,North Sydney,Willoughby (C),1105
+30SEP2026,NSW,Northern NSW,Ballina (A),1712
+30SEP2026,NSW,Northern NSW,Byron (A),844
+30SEP2026,NSW,Northern NSW,Clarence Valley (A),2064
+30SEP2026,NSW,Northern NSW,Kyogle (A),319
+30SEP2026,NSW,Northern NSW,Lismore (C),2146
+30SEP2026,NSW,Northern NSW,Richmond Valley (A),1025
+30SEP2026,NSW,Northern NSW,Tweed (A),3267
+30SEP2026,NSW,Other,NSW - Other,<11
+30SEP2026,NSW,Other,Unincorporated NSW,18
+30SEP2026,NSW,South Eastern Sydney,Bayside (A),3329
+30SEP2026,NSW,South Eastern Sydney,Georges River (A),3040
+30SEP2026,NSW,South Eastern Sydney,Randwick (C),2669
+30SEP2026,NSW,South Eastern Sydney,Sutherland Shire (A),5464
+30SEP2026,NSW,South Eastern Sydney,Waverley (A),896
+30SEP2026,NSW,South Eastern Sydney,Woollahra (A),544
+30SEP2026,NSW,South Western Sydney,Camden (A),4455
+30SEP2026,NSW,South Western Sydney,Campbelltown (C) (NSW),7315
+30SEP2026,NSW,South Western Sydney,Canterbury-Bankstown (A),9692
+30SEP2026,NSW,South Western Sydney,Fairfield (C),5449
+30SEP2026,NSW,South Western Sydney,Liverpool (C),7303
+30SEP2026,NSW,South Western Sydney,Wingecarribee (A),1341
+30SEP2026,NSW,South Western Sydney,Wollondilly (A),1974
+30SEP2026,NSW,Southern NSW,Bega Valley (A),1058
+30SEP2026,NSW,Southern NSW,Eurobodalla (A),1207
+30SEP2026,NSW,Southern NSW,Goulburn Mulwaree (A),1360
+30SEP2026,NSW,Southern NSW,Queanbeyan-Palerang Regional (A),1663
+30SEP2026,NSW,Southern NSW,Snowy Monaro Regional (A),451
+30SEP2026,NSW,Southern NSW,Upper Lachlan Shire (A),217
+30SEP2026,NSW,Southern NSW,Yass Valley (A),478
+30SEP2026,NSW,Sydney,Burwood (A),654
+30SEP2026,NSW,Sydney,Canada Bay (A),1377
+30SEP2026,NSW,Sydney,Inner West (A),3458
+30SEP2026,NSW,Sydney,Strathfield (A),707
+30SEP2026,NSW,Sydney,Sydney (C),2704
+30SEP2026,NSW,Western NSW,Bathurst Regional (A),1608
+30SEP2026,NSW,Western NSW,Blayney (A),185
+30SEP2026,NSW,Western NSW,Bogan (A),85
+30SEP2026,NSW,Western NSW,Bourke (A),92
+30SEP2026,NSW,Western NSW,Brewarrina (A),32
+30SEP2026,NSW,Western NSW,Cabonne (A),314
+30SEP2026,NSW,Western NSW,Cobar (A),99
+30SEP2026,NSW,Western NSW,Coonamble (A),157
+30SEP2026,NSW,Western NSW,Cowra (A),424
+30SEP2026,NSW,Western NSW,Dubbo Regional (A),1924
+30SEP2026,NSW,Western NSW,Forbes (A),293
+30SEP2026,NSW,Western NSW,Gilgandra (A),148
+30SEP2026,NSW,Western NSW,Lachlan (A),163
+30SEP2026,NSW,Western NSW,Mid-Western Regional (A),738
+30SEP2026,NSW,Western NSW,Narromine (A),183
+30SEP2026,NSW,Western NSW,Oberon (A),124
+30SEP2026,NSW,Western NSW,Orange (C),1740
+30SEP2026,NSW,Western NSW,Parkes (A),419
+30SEP2026,NSW,Western NSW,Walgett (A),152
+30SEP2026,NSW,Western NSW,Warren (A),62
+30SEP2026,NSW,Western NSW,Warrumbungle Shire (A),256
+30SEP2026,NSW,Western NSW,Weddin (A),81
+30SEP2026,NSW,Western Sydney,Blacktown (C),12894
+30SEP2026,NSW,Western Sydney,Cumberland (A),6047
+30SEP2026,NSW,Western Sydney,Parramatta (C),5306
+30SEP2026,NSW,Western Sydney,The Hills Shire (A),4316
+30SEP2026,NT,Barkly,Barkly (R),193
+30SEP2026,NT,Central Australia,Alice Springs (T),968
+30SEP2026,NT,Central Australia,Central Desert (R),85
+30SEP2026,NT,Central Australia,MacDonnell (R),172
+30SEP2026,NT,Darwin Remote,Roper Gulf (R),175
+30SEP2026,NT,Darwin Remote,Tiwi Islands (R),145
+30SEP2026,NT,Darwin Remote,Victoria Daly (R),72
+30SEP2026,NT,Darwin Remote,West Arnhem (R),198
+30SEP2026,NT,Darwin Remote,West Daly (R),99
+30SEP2026,NT,Darwin Urban,Belyuen (S),<11
+30SEP2026,NT,Darwin Urban,Coomalie (S),29
+30SEP2026,NT,Darwin Urban,Darwin (C),1998
+30SEP2026,NT,Darwin Urban,Litchfield (M),570
+30SEP2026,NT,Darwin Urban,Palmerston (C),1369
+30SEP2026,NT,Darwin Urban,Wagait (S),<11
+30SEP2026,NT,East Arnhem,East Arnhem (R),298
+30SEP2026,NT,Katherine,Katherine (T),400
+30SEP2026,NT,Other,NT - Other,<11
+30SEP2026,NT,Other,Unincorporated NT,212
+30SEP2026,OT,Other,Unincorp. Other Territories,96
+30SEP2026,QLD,Beenleigh,Logan (C),14663
+30SEP2026,QLD,Beenleigh,Redland (C),5720
+30SEP2026,QLD,Brisbane,Brisbane (C),30398
+30SEP2026,QLD,Bundaberg,Bundaberg (R),4218
+30SEP2026,QLD,Caboolture/Strathpine,Moreton Bay (R),19240
+30SEP2026,QLD,Cairns,Aurukun (S),70
+30SEP2026,QLD,Cairns,Cairns (R),5029
+30SEP2026,QLD,Cairns,Cassowary Coast (R),777
+30SEP2026,QLD,Cairns,Cook (S),84
+30SEP2026,QLD,Cairns,Croydon (S),<11
+30SEP2026,QLD,Cairns,Douglas (S),258
+30SEP2026,QLD,Cairns,Etheridge (S),<11
+30SEP2026,QLD,Cairns,Hope Vale (S),29
+30SEP2026,QLD,Cairns,Kowanyama (S),38
+30SEP2026,QLD,Cairns,Lockhart River (S),16
+30SEP2026,QLD,Cairns,Mapoon (S),12
+30SEP2026,QLD,Cairns,Mareeba (S),643
+30SEP2026,QLD,Cairns,Napranum (S),24
+30SEP2026,QLD,Cairns,Northern Peninsula Area (R),72
+30SEP2026,QLD,Cairns,Pormpuraaw (S),25
+30SEP2026,QLD,Cairns,Tablelands (R),767
+30SEP2026,QLD,Cairns,Torres (S),65
+30SEP2026,QLD,Cairns,Torres Strait Island (R),74
+30SEP2026,QLD,Cairns,Weipa (T),63
+30SEP2026,QLD,Cairns,Wujal Wujal (S),<11
+30SEP2026,QLD,Cairns,Yarrabah (S),75
+30SEP2026,QLD,Ipswich,Ipswich (C),10418
+30SEP2026,QLD,Ipswich,Lockyer Valley (R),1477
+30SEP2026,QLD,Ipswich,Scenic Rim (R),1464
+30SEP2026,QLD,Ipswich,Somerset (R),928
+30SEP2026,QLD,Mackay,Isaac (R),341
+30SEP2026,QLD,Mackay,Mackay (R),3643
+30SEP2026,QLD,Mackay,Whitsunday (R),818
+30SEP2026,QLD,Maroochydore,Gympie (R),2497
+30SEP2026,QLD,Maroochydore,Noosa (S),1367
+30SEP2026,QLD,Maroochydore,Sunshine Coast (R),11137
+30SEP2026,QLD,Maryborough,Cherbourg (S),78
+30SEP2026,QLD,Maryborough,Fraser Coast (R),4618
+30SEP2026,QLD,Maryborough,North Burnett (R),249
+30SEP2026,QLD,Maryborough,South Burnett (R),1276
+30SEP2026,QLD,Other,QLD - Other,<11
+30SEP2026,QLD,Robina,Gold Coast (C),17318
+30SEP2026,QLD,Rockhampton,Banana (S),374
+30SEP2026,QLD,Rockhampton,Barcaldine (R),51
+30SEP2026,QLD,Rockhampton,Barcoo (S),<11
+30SEP2026,QLD,Rockhampton,Blackall-Tambo (R),35
+30SEP2026,QLD,Rockhampton,Central Highlands (R) (Qld),753
+30SEP2026,QLD,Rockhampton,Diamantina (S),<11
+30SEP2026,QLD,Rockhampton,Gladstone (R),2378
+30SEP2026,QLD,Rockhampton,Livingstone (S),1279
+30SEP2026,QLD,Rockhampton,Longreach (R),92
+30SEP2026,QLD,Rockhampton,Rockhampton (R),4085
+30SEP2026,QLD,Rockhampton,Winton (S),31
+30SEP2026,QLD,Rockhampton,Woorabinda (S),37
+30SEP2026,QLD,Toowoomba,Balonne (S),108
+30SEP2026,QLD,Toowoomba,Bulloo (S),<11
+30SEP2026,QLD,Toowoomba,Goondiwindi (R),220
+30SEP2026,QLD,Toowoomba,Maranoa (R),344
+30SEP2026,QLD,Toowoomba,Murweh (S),152
+30SEP2026,QLD,Toowoomba,Paroo (S),38
+30SEP2026,QLD,Toowoomba,Quilpie (S),22
+30SEP2026,QLD,Toowoomba,Southern Downs (R),1352
+30SEP2026,QLD,Toowoomba,Toowoomba (R),6332
+30SEP2026,QLD,Toowoomba,Western Downs (R),1067
+30SEP2026,QLD,Townsville,Boulia (S),<11
+30SEP2026,QLD,Townsville,Burdekin (S),446
+30SEP2026,QLD,Townsville,Burke (S),<11
+30SEP2026,QLD,Townsville,Carpentaria (S),49
+30SEP2026,QLD,Townsville,Charters Towers (R),324
+30SEP2026,QLD,Townsville,Cloncurry (S),57
+30SEP2026,QLD,Townsville,Doomadgee (S),55
+30SEP2026,QLD,Townsville,Flinders (S) (Qld),34
+30SEP2026,QLD,Townsville,Hinchinbrook (S),320
+30SEP2026,QLD,Townsville,McKinlay (S),<11
+30SEP2026,QLD,Townsville,Mornington (S),36
+30SEP2026,QLD,Townsville,Mount Isa (C),543
+30SEP2026,QLD,Townsville,Palm Island (S),128
+30SEP2026,QLD,Townsville,Richmond (S),12
+30SEP2026,QLD,Townsville,Townsville (C),7143
+30SEP2026,SA,Adelaide Hills,Adelaide Hills (DC),1064
+30SEP2026,SA,Adelaide Hills,Mount Barker (DC),1871
+30SEP2026,SA,"Barossa, Light and Lower North",Adelaide Plains (DC),523
+30SEP2026,SA,"Barossa, Light and Lower North",Barossa (DC),1019
+30SEP2026,SA,"Barossa, Light and Lower North",Gawler (T),1441
+30SEP2026,SA,"Barossa, Light and Lower North",Light (RegC),727
+30SEP2026,SA,Eastern Adelaide,Adelaide (C),631
+30SEP2026,SA,Eastern Adelaide,Burnside (C),993
+30SEP2026,SA,Eastern Adelaide,Campbelltown (C) (SA),1565
+30SEP2026,SA,Eastern Adelaide,Norwood Payneham St Peters (C),849
+30SEP2026,SA,Eastern Adelaide,Prospect (C),567
+30SEP2026,SA,Eastern Adelaide,Unley (C),867
+30SEP2026,SA,Eastern Adelaide,Walkerville (M),175
+30SEP2026,SA,Eyre and Western,Ceduna (DC),103
+30SEP2026,SA,Eyre and Western,Cleve (DC),51
+30SEP2026,SA,Eyre and Western,Elliston (DC),27
+30SEP2026,SA,Eyre and Western,Franklin Harbour (DC),23
+30SEP2026,SA,Eyre and Western,Kimba (DC),24
+30SEP2026,SA,Eyre and Western,Lower Eyre Peninsula (DC),172
+30SEP2026,SA,Eyre and Western,Port Lincoln (C),599
+30SEP2026,SA,Eyre and Western,Streaky Bay (DC),39
+30SEP2026,SA,Eyre and Western,Tumby Bay (DC),91
+30SEP2026,SA,Eyre and Western,Whyalla (C),835
+30SEP2026,SA,Eyre and Western,Wudinna (DC),34
+30SEP2026,SA,Far North (SA),Anangu Pitjantjatjara (AC),110
+30SEP2026,SA,Far North (SA),Coober Pedy (DC),31
+30SEP2026,SA,Far North (SA),Flinders Ranges (DC),39
+30SEP2026,SA,Far North (SA),Port Augusta (C),484
+30SEP2026,SA,Far North (SA),Roxby Downs (M),67
+30SEP2026,SA,Fleurieu and Kangaroo Island,Alexandrina (DC),1146
+30SEP2026,SA,Fleurieu and Kangaroo Island,Kangaroo Island (DC),134
+30SEP2026,SA,Fleurieu and Kangaroo Island,Victor Harbor (C),633
+30SEP2026,SA,Fleurieu and Kangaroo Island,Yankalilla (DC),178
+30SEP2026,SA,Limestone Coast,Grant (DC),244
+30SEP2026,SA,Limestone Coast,Kingston (DC) (SA),49
+30SEP2026,SA,Limestone Coast,Mount Gambier (C),1223
+30SEP2026,SA,Limestone Coast,Naracoorte and Lucindale (DC),194
+30SEP2026,SA,Limestone Coast,Robe (DC),21
+30SEP2026,SA,Limestone Coast,Tatiara (DC),128
+30SEP2026,SA,Limestone Coast,Wattle Range (DC),338
+30SEP2026,SA,Murray and Mallee,Berri and Barmera (DC),477
+30SEP2026,SA,Murray and Mallee,Karoonda East Murray (DC),32
+30SEP2026,SA,Murray and Mallee,Loxton Waikerie (DC),421
+30SEP2026,SA,Murray and Mallee,Mid Murray (DC),289
+30SEP2026,SA,Murray and Mallee,Murray Bridge (RC),1115
+30SEP2026,SA,Murray and Mallee,Renmark Paringa (DC),317
+30SEP2026,SA,Murray and Mallee,Southern Mallee (DC),51
+30SEP2026,SA,Murray and Mallee,The Coorong (DC),144
+30SEP2026,SA,Northern Adelaide,Playford (C),7499
+30SEP2026,SA,Northern Adelaide,Port Adelaide Enfield (C),5497
+30SEP2026,SA,Northern Adelaide,Salisbury (C),6477
+30SEP2026,SA,Northern Adelaide,Tea Tree Gully (C),3667
+30SEP2026,SA,Other,Unincorporated SA,62
+30SEP2026,SA,Southern Adelaide,Holdfast Bay (C),1081
+30SEP2026,SA,Southern Adelaide,Marion (C),3660
+30SEP2026,SA,Southern Adelaide,Mitcham (C),1987
+30SEP2026,SA,Southern Adelaide,Onkaparinga (C),8130
+30SEP2026,SA,Western Adelaide,Charles Sturt (C),4063
+30SEP2026,SA,Western Adelaide,West Torrens (C),1739
+30SEP2026,SA,Yorke and Mid North,Barunga West (DC),72
+30SEP2026,SA,Yorke and Mid North,Clare and Gilbert Valleys (DC),252
+30SEP2026,SA,Yorke and Mid North,Copper Coast (DC),581
+30SEP2026,SA,Yorke and Mid North,Goyder (DC),129
+30SEP2026,SA,Yorke and Mid North,Mount Remarkable (DC),62
+30SEP2026,SA,Yorke and Mid North,Northern Areas (DC),112
+30SEP2026,SA,Yorke and Mid North,Orroroo/Carrieton (DC),17
+30SEP2026,SA,Yorke and Mid North,Peterborough (DC),57
+30SEP2026,SA,Yorke and Mid North,Port Pirie City and Dists (M),691
+30SEP2026,SA,Yorke and Mid North,Wakefield (DC),283
+30SEP2026,SA,Yorke and Mid North,Yorke Peninsula (DC),278
+30SEP2026,TAS,Other,TAS - Other,<11
+30SEP2026,TAS,TAS North,Break O'Day (M),211
+30SEP2026,TAS,TAS North,Dorset (M),162
+30SEP2026,TAS,TAS North,Flinders (M) (Tas.),19
+30SEP2026,TAS,TAS North,George Town (M),289
+30SEP2026,TAS,TAS North,Launceston (C),2461
+30SEP2026,TAS,TAS North,Meander Valley (M),580
+30SEP2026,TAS,TAS North,Northern Midlands (M),398
+30SEP2026,TAS,TAS North,West Tamar (M),723
+30SEP2026,TAS,TAS North West,Burnie (C),769
+30SEP2026,TAS,TAS North West,Central Coast (M) (Tas.),652
+30SEP2026,TAS,TAS North West,Circular Head (M),176
+30SEP2026,TAS,TAS North West,Devonport (C),1035
+30SEP2026,TAS,TAS North West,Kentish (M),169
+30SEP2026,TAS,TAS North West,King Island (M),21
+30SEP2026,TAS,TAS North West,Latrobe (M) (Tas.),330
+30SEP2026,TAS,TAS North West,Waratah/Wynyard (M),510
+30SEP2026,TAS,TAS North West,West Coast (M),106
+30SEP2026,TAS,TAS South East,Brighton (M),896
+30SEP2026,TAS,TAS South East,Central Highlands (M) (Tas.),36
+30SEP2026,TAS,TAS South East,Clarence (C),1824
+30SEP2026,TAS,TAS South East,Derwent Valley (M),435
+30SEP2026,TAS,TAS South East,Glamorgan/Spring Bay (M),83
+30SEP2026,TAS,TAS South East,Sorell (M),445
+30SEP2026,TAS,TAS South East,Southern Midlands (M),176
+30SEP2026,TAS,TAS South East,Tasman (M),48
+30SEP2026,TAS,TAS South West,Glenorchy (C),1991
+30SEP2026,TAS,TAS South West,Hobart (C),1105
+30SEP2026,TAS,TAS South West,Huon Valley (M),503
+30SEP2026,TAS,TAS South West,Kingborough (M),1024
+30SEP2026,VIC,Barwon,Colac-Otway (S),850
+30SEP2026,VIC,Barwon,Greater Geelong (C),12636
+30SEP2026,VIC,Barwon,Queenscliffe (B),49
+30SEP2026,VIC,Barwon,Surf Coast (S),898
+30SEP2026,VIC,Bayside Peninsula,Bayside (C),1960
+30SEP2026,VIC,Bayside Peninsula,Frankston (C),6086
+30SEP2026,VIC,Bayside Peninsula,Glen Eira (C),3640
+30SEP2026,VIC,Bayside Peninsula,Kingston (C) (Vic.),4333
+30SEP2026,VIC,Bayside Peninsula,Mornington Peninsula (S),5717
+30SEP2026,VIC,Bayside Peninsula,Port Phillip (C),2166
+30SEP2026,VIC,Bayside Peninsula,Stonnington (C),1551
+30SEP2026,VIC,Brimbank Melton,Brimbank (C),6032
+30SEP2026,VIC,Brimbank Melton,Melton (C),8805
+30SEP2026,VIC,Central Highlands,Ararat (RC),431
+30SEP2026,VIC,Central Highlands,Ballarat (C),4999
+30SEP2026,VIC,Central Highlands,Golden Plains (S),1038
+30SEP2026,VIC,Central Highlands,Hepburn (S),457
+30SEP2026,VIC,Central Highlands,Moorabool (S),1438
+30SEP2026,VIC,Central Highlands,Pyrenees (S),242
+30SEP2026,VIC,Goulburn,Greater Shepparton (C),2945
+30SEP2026,VIC,Goulburn,Mitchell (S),2303
+30SEP2026,VIC,Goulburn,Moira (S),1095
+30SEP2026,VIC,Goulburn,Murrindindi (S),380
+30SEP2026,VIC,Goulburn,Strathbogie (S),276
+30SEP2026,VIC,Hume Moreland,Hume (C),9943
+30SEP2026,VIC,Hume Moreland,Moreland (C),4912
+30SEP2026,VIC,Inner East Melbourne,Boroondara (C),3144
+30SEP2026,VIC,Inner East Melbourne,Manningham (C),2660
+30SEP2026,VIC,Inner East Melbourne,Monash (C),3763
+30SEP2026,VIC,Inner East Melbourne,Whitehorse (C),4267
+30SEP2026,VIC,Inner Gippsland,Bass Coast (S),1302
+30SEP2026,VIC,Inner Gippsland,Baw Baw (S),2256
+30SEP2026,VIC,Inner Gippsland,Latrobe (C) (Vic.),3710
+30SEP2026,VIC,Inner Gippsland,South Gippsland (S),911
+30SEP2026,VIC,Loddon,Campaspe (S),1434
+30SEP2026,VIC,Loddon,Central Goldfields (S),594
+30SEP2026,VIC,Loddon,Greater Bendigo (C),6413
+30SEP2026,VIC,Loddon,Loddon (S),211
+30SEP2026,VIC,Loddon,Macedon Ranges (S),1870
+30SEP2026,VIC,Loddon,Mount Alexander (S),751
+30SEP2026,VIC,Mallee,Buloke (S),167
+30SEP2026,VIC,Mallee,Gannawarra (S),273
+30SEP2026,VIC,Mallee,Mildura (RC),2521
+30SEP2026,VIC,Mallee,Swan Hill (RC),740
+30SEP2026,VIC,North East Melbourne,Banyule (C),4054
+30SEP2026,VIC,North East Melbourne,Darebin (C),4676
+30SEP2026,VIC,North East Melbourne,Nillumbik (S),1934
+30SEP2026,VIC,North East Melbourne,Whittlesea (C),7756
+30SEP2026,VIC,North East Melbourne,Yarra (C),1842
+30SEP2026,VIC,Other,Unincorporated Vic,<11
+30SEP2026,VIC,Other,VIC - Other,<11
+30SEP2026,VIC,Outer East Melbourne,Knox (C),4868
+30SEP2026,VIC,Outer East Melbourne,Maroondah (C),4337
+30SEP2026,VIC,Outer East Melbourne,Yarra Ranges (S),5569
+30SEP2026,VIC,Outer Gippsland,East Gippsland (S),1744
+30SEP2026,VIC,Outer Gippsland,Wellington (S),1697
+30SEP2026,VIC,Ovens Murray,Alpine (S),281
+30SEP2026,VIC,Ovens Murray,Benalla (RC),569
+30SEP2026,VIC,Ovens Murray,Indigo (S),531
+30SEP2026,VIC,Ovens Murray,Mansfield (S),221
+30SEP2026,VIC,Ovens Murray,Towong (S),171
+30SEP2026,VIC,Ovens Murray,Wangaratta (RC),1225
+30SEP2026,VIC,Ovens Murray,Wodonga (C),2253
+30SEP2026,VIC,Southern Melbourne,Cardinia (S),4372
+30SEP2026,VIC,Southern Melbourne,Casey (C),12166
+30SEP2026,VIC,Southern Melbourne,Greater Dandenong (C),4411
+30SEP2026,VIC,Western District,Corangamite (S),515
+30SEP2026,VIC,Western District,Glenelg (S),650
+30SEP2026,VIC,Western District,Hindmarsh (S),150
+30SEP2026,VIC,Western District,Horsham (RC),793
+30SEP2026,VIC,Western District,Moyne (S),471
+30SEP2026,VIC,Western District,Northern Grampians (S),374
+30SEP2026,VIC,Western District,Southern Grampians (S),549
+30SEP2026,VIC,Western District,Warrnambool (C),1579
+30SEP2026,VIC,Western District,West Wimmera (S),84
+30SEP2026,VIC,Western District,Yarriambiack (S),239
+30SEP2026,VIC,Western Melbourne,Hobsons Bay (C),2906
+30SEP2026,VIC,Western Melbourne,Maribyrnong (C),2578
+30SEP2026,VIC,Western Melbourne,Melbourne (C),2010
+30SEP2026,VIC,Western Melbourne,Moonee Valley (C),3240
+30SEP2026,VIC,Western Melbourne,Wyndham (C),10648
+30SEP2026,WA,Central North Metro,Cambridge (T),509
+30SEP2026,WA,Central North Metro,Claremont (T),195
+30SEP2026,WA,Central North Metro,Cottesloe (T),90
+30SEP2026,WA,Central North Metro,Mosman Park (T),155
+30SEP2026,WA,Central North Metro,Nedlands (C),448
+30SEP2026,WA,Central North Metro,Peppermint Grove (S),13
+30SEP2026,WA,Central North Metro,Perth (C),374
+30SEP2026,WA,Central North Metro,Stirling (C),4971
+30SEP2026,WA,Central North Metro,Subiaco (C),307
+30SEP2026,WA,Central North Metro,Vincent (C),701
+30SEP2026,WA,Central South Metro,Cockburn (C),3405
+30SEP2026,WA,Central South Metro,East Fremantle (T),117
+30SEP2026,WA,Central South Metro,Fremantle (C),760
+30SEP2026,WA,Central South Metro,Kwinana (C),1750
+30SEP2026,WA,Central South Metro,Melville (C),2194
+30SEP2026,WA,Central South Metro,South Perth (C),801
+30SEP2026,WA,Goldfields-Esperance,Coolgardie (S),82
+30SEP2026,WA,Goldfields-Esperance,Dundas (S),<11
+30SEP2026,WA,Goldfields-Esperance,Esperance (S),349
+30SEP2026,WA,Goldfields-Esperance,Kalgoorlie/Boulder (C),676
+30SEP2026,WA,Goldfields-Esperance,Laverton (S),<11
+30SEP2026,WA,Goldfields-Esperance,Leonora (S),12
+30SEP2026,WA,Goldfields-Esperance,Menzies (S),<11
+30SEP2026,WA,Goldfields-Esperance,Ngaanyatjarraku (S),39
+30SEP2026,WA,Goldfields-Esperance,Ravensthorpe (S),30
+30SEP2026,WA,Great Southern,Albany (C),1192
+30SEP2026,WA,Great Southern,Broomehill-Tambellup (S),30
+30SEP2026,WA,Great Southern,Cranbrook (S),31
+30SEP2026,WA,Great Southern,Denmark (S),116
+30SEP2026,WA,Great Southern,Gnowangerup (S),24
+30SEP2026,WA,Great Southern,Jerramungup (S),21
+30SEP2026,WA,Great Southern,Katanning (S),79
+30SEP2026,WA,Great Southern,Kent (S),<11
+30SEP2026,WA,Great Southern,Kojonup (S),32
+30SEP2026,WA,Great Southern,Plantagenet (S),127
+30SEP2026,WA,Great Southern,Woodanilling (S),11
+30SEP2026,WA,Kimberley-Pilbara,Ashburton (S),114
+30SEP2026,WA,Kimberley-Pilbara,Broome (S),544
+30SEP2026,WA,Kimberley-Pilbara,Derby-West Kimberley (S),241
+30SEP2026,WA,Kimberley-Pilbara,East Pilbara (S),108
+30SEP2026,WA,Kimberley-Pilbara,Halls Creek (S),99
+30SEP2026,WA,Kimberley-Pilbara,Karratha (C),561
+30SEP2026,WA,Kimberley-Pilbara,Port Hedland (T),312
+30SEP2026,WA,Kimberley-Pilbara,Wyndham-East Kimberley (S),211
+30SEP2026,WA,Midwest-Gascoyne,Carnamah (S),12
+30SEP2026,WA,Midwest-Gascoyne,Carnarvon (S),112
+30SEP2026,WA,Midwest-Gascoyne,Chapman Valley (S),33
+30SEP2026,WA,Midwest-Gascoyne,Coorow (S),13
+30SEP2026,WA,Midwest-Gascoyne,Cue (S),<11
+30SEP2026,WA,Midwest-Gascoyne,Exmouth (S),36
+30SEP2026,WA,Midwest-Gascoyne,Greater Geraldton (C),1350
+30SEP2026,WA,Midwest-Gascoyne,Irwin (S),77
+30SEP2026,WA,Midwest-Gascoyne,Meekatharra (S),<11
+30SEP2026,WA,Midwest-Gascoyne,Mingenew (S),11
+30SEP2026,WA,Midwest-Gascoyne,Morawa (S),13
+30SEP2026,WA,Midwest-Gascoyne,Mount Magnet (S),19
+30SEP2026,WA,Midwest-Gascoyne,Northampton (S),72
+30SEP2026,WA,Midwest-Gascoyne,Perenjori (S),<11
+30SEP2026,WA,Midwest-Gascoyne,Shark Bay (S),14
+30SEP2026,WA,Midwest-Gascoyne,Three Springs (S),<11
+30SEP2026,WA,Midwest-Gascoyne,Upper Gascoyne (S),<11
+30SEP2026,WA,Midwest-Gascoyne,Wiluna (S),<11
+30SEP2026,WA,Midwest-Gascoyne,Yalgoo (S),<11
+30SEP2026,WA,North East Metro,Bassendean (T),584
+30SEP2026,WA,North East Metro,Bayswater (C),1617
+30SEP2026,WA,North East Metro,Kalamunda (C),1536
+30SEP2026,WA,North East Metro,Mundaring (S),1147
+30SEP2026,WA,North East Metro,Swan (C),5443
+30SEP2026,WA,North Metro,Joondalup (C),3820
+30SEP2026,WA,North Metro,Wanneroo (C),6434
+30SEP2026,WA,Other,WA - Other,40
+30SEP2026,WA,South East Metro,Belmont (C),1023
+30SEP2026,WA,South East Metro,Canning (C),2183
+30SEP2026,WA,South East Metro,Gosnells (C),3785
+30SEP2026,WA,South East Metro,Victoria Park (T),817
+30SEP2026,WA,South Metro,Armadale (C),3090
+30SEP2026,WA,South Metro,Mandurah (C),2856
+30SEP2026,WA,South Metro,Murray (S),579
+30SEP2026,WA,South Metro,Rockingham (C),4609
+30SEP2026,WA,South Metro,Serpentine-Jarrahdale (S),990
+30SEP2026,WA,South West,Augusta-Margaret River (S),445
+30SEP2026,WA,South West,Boyup Brook (S),36
+30SEP2026,WA,South West,Bridgetown-Greenbushes (S),194
+30SEP2026,WA,South West,Bunbury (C),1172
+30SEP2026,WA,South West,Busselton (C),1197
+30SEP2026,WA,South West,Capel (S),591
+30SEP2026,WA,South West,Collie (S),265
+30SEP2026,WA,South West,Dardanup (S),449
+30SEP2026,WA,South West,Donnybrook-Balingup (S),178
+30SEP2026,WA,South West,Harvey (S),816
+30SEP2026,WA,South West,Manjimup (S),255
+30SEP2026,WA,South West,Nannup (S),24
+30SEP2026,WA,South West,Waroona (S),92
+30SEP2026,WA,Wheat Belt,Beverley (S),34
+30SEP2026,WA,Wheat Belt,Boddington (S),42
+30SEP2026,WA,Wheat Belt,Brookton (S),17
+30SEP2026,WA,Wheat Belt,Bruce Rock (S),20
+30SEP2026,WA,Wheat Belt,Chittering (S),145
+30SEP2026,WA,Wheat Belt,Corrigin (S),15
+30SEP2026,WA,Wheat Belt,Cuballing (S),23
+30SEP2026,WA,Wheat Belt,Cunderdin (S),39
+30SEP2026,WA,Wheat Belt,Dalwallinu (S),11
+30SEP2026,WA,Wheat Belt,Dandaragan (S),56
+30SEP2026,WA,Wheat Belt,Dowerin (S),17
+30SEP2026,WA,Wheat Belt,Dumbleyung (S),<11
+30SEP2026,WA,Wheat Belt,Gingin (S),132
+30SEP2026,WA,Wheat Belt,Goomalling (S),13
+30SEP2026,WA,Wheat Belt,Kellerberrin (S),26
+30SEP2026,WA,Wheat Belt,Kondinin (S),13
+30SEP2026,WA,Wheat Belt,Koorda (S),<11
+30SEP2026,WA,Wheat Belt,Kulin (S),13
+30SEP2026,WA,Wheat Belt,Lake Grace (S),19
+30SEP2026,WA,Wheat Belt,Merredin (S),69
+30SEP2026,WA,Wheat Belt,Moora (S),54
+30SEP2026,WA,Wheat Belt,Mount Marshall (S),<11
+30SEP2026,WA,Wheat Belt,Mukinbudin (S),<11
+30SEP2026,WA,Wheat Belt,Narembeen (S),<11
+30SEP2026,WA,Wheat Belt,Narrogin (S),116
+30SEP2026,WA,Wheat Belt,Northam (S),377
+30SEP2026,WA,Wheat Belt,Nungarin (S),<11
+30SEP2026,WA,Wheat Belt,Pingelly (S),34
+30SEP2026,WA,Wheat Belt,Quairading (S),16
+30SEP2026,WA,Wheat Belt,Tammin (S),<11
+30SEP2026,WA,Wheat Belt,Toodyay (S),118
+30SEP2026,WA,Wheat Belt,Trayning (S),11
+30SEP2026,WA,Wheat Belt,Victoria Plains (S),13
+30SEP2026,WA,Wheat Belt,Wagin (S),29
+30SEP2026,WA,Wheat Belt,Wandering (S),<11
+30SEP2026,WA,Wheat Belt,West Arthur (S),<11
+30SEP2026,WA,Wheat Belt,Westonia (S),<11
+30SEP2026,WA,Wheat Belt,Wickepin (S),13
+30SEP2026,WA,Wheat Belt,Williams (S),15
+30SEP2026,WA,Wheat Belt,Wongan-Ballidu (S),29
+30SEP2026,WA,Wheat Belt,Wyalkatchem (S),12
+30SEP2026,WA,Wheat Belt,Yilgarn (S),20
+30SEP2026,WA,Wheat Belt,York (S),98
 30JUN2026,ACT,ACT,Unincorporated ACT,12694
 30JUN2026,ACT,Other,ACT - Other,<11
 30JUN2026,MIS,Other,MIS - Other,16
