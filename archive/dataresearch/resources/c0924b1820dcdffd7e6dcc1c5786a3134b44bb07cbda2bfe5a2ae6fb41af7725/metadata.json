@@ -1,0 +1,22 @@
+{
+  "bytes": 101062,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "directory": "resources/c0924b1820dcdffd7e6dcc1c5786a3134b44bb07cbda2bfe5a2ae6fb41af7725",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4620/download?attachment=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA dwellings data rules_1.docx\"",
+    "ETag": "\"1794796293:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Mon, 16 Nov 2026 02:31:32 GMT"
+  },
+  "sha256": "9b71402e28c5487941b86377be9eb0a48487934758970cbb747755ace4f129c6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4620/download?attachment="
+}

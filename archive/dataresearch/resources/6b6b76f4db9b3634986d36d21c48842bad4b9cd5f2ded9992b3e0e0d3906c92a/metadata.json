@@ -1,0 +1,22 @@
+{
+  "bytes": 192144,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/6b6b76f4db9b3634986d36d21c48842bad4b9cd5f2ded9992b3e0e0d3906c92a",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4619/download?attachment=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Future SDA dwellings data.xlsx\"",
+    "ETag": "\"1794796250:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Mon, 16 Nov 2026 02:30:49 GMT"
+  },
+  "sha256": "47044ed2bc6d2ca23c50d9c0f84ea1ac98f2cd760488365146790b76d6e36a5f",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4619/download?attachment="
+}

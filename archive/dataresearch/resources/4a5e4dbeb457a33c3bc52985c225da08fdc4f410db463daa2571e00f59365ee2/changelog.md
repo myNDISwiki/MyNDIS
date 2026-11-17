@@ -377,3 +377,48 @@ No visible wording change; HTML bytes changed.
 SHA-256: `23a97395784bee6ee7822fb01f6fbf329a2a8b9e5eee2d8059385cbf7a5caf47`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-17T01:57:14Z — changed
+
+SHA-256: `5662b7afdd8d2267f267d87732c202849b0aa0392f5e076b08a73e607b350261`
+
+```diff
+--- before
++++ after
+@@ -71,8 +71,9 @@
+ The accompanying
+ data rules
+ for this dataset explains information about the data that may be helpful.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
+ Please note that historical data is available on request.
++Active providers data as at 30 September 2026 (CSV 3.9MB)
+ Active providers data as at 30 June 2026 (CSV 3.9MB)
+ Active providers data as at 31 March 2026 (CSV 3.8MB)
+ Active providers data as at 31 December 2025 (CSV 4MB)
+@@ -80,12 +81,11 @@
+ Active providers data as at 30 June 2025 (CSV 4.11MB)
+ Active providers data as at 31 March 2025 (CSV 4.2MB)
+ Active providers data as at 31 December 2024 (CSV 4.2 MB)
+-Active providers data as at 30 September 2024 (CSV 4.2 MB)
+-Active providers data rules (DOCX 96KB)
++Active providers data rules (DOCX 98KB)
+ Provider datasets
+ The dataset provides percentage of payments to the top 10 largest providers in terms of payments made by the NDIS for the supports received.
+-Data current as at: 30 June 2026
+-Market Concentration data (CSV 767KB)
++Data current as at: 30 September 2026
++Market Concentration data (CSV 788KB)
+ Market Concentration data rules (DOCX 91KB)
+ You can now also find, download and compare more quarterly data through the
+ interactive explore data tool
+@@ -112,7 +112,7 @@
+ Provider datasets
+ Payments datasets
+ This page current as of
+-14 August 2026
++16 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```

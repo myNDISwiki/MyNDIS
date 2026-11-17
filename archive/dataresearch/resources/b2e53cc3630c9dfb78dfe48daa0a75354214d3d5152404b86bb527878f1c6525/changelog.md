@@ -528,3 +528,226 @@ No visible wording change; HTML bytes changed.
 SHA-256: `774d990ba9242c9d172e74c8c90e8f88f446a9d36ceab849aca4154692c720f8`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-17T01:57:14Z — changed
+
+SHA-256: `9f8f7a8fa2eff2cfedd2d32610dee4c0b814febc63e06fa82ac02ac3b93ce4a0`
+
+```diff
+--- before
++++ after
+@@ -63,86 +63,126 @@
+ Save page as PDF
+ On this page:
+ Latest SDA data releases
+-SDA data improvements
+ SDA reports
+-Historical SDA quarterly reports
+ SDA datasets
+ SDA tools
+-SDA pricing review technical reports 2023
+-To learn more about SDA
+ On this page:
+ 1 - Latest SDA data releases
+-2 - SDA data improvements
+-3 - SDA reports
+-4 - Historical SDA quarterly reports
+-5 - SDA datasets
+-6 - SDA tools
+-7 - SDA pricing review technical reports 2023
+-8 - To learn more about SDA
++2 - SDA reports
++3 - SDA datasets
++4 - SDA tools
+ SDA is a range of housing designed for people with extreme functional impairment or very high support needs. SDA is designed to be more accessible for participants based on their disability-related support needs. It assists participants to live more independently in their home and allows other supports to be delivered better or more safely.
+ Explore SDA insights and data developed using the Agency's current data capabilities and resources.
+ Latest SDA data releases
+-We have released the 2026 Specialist Disability Accommodation Report:
++New SDA datasets
++We have released 5 new SDA datasets that provide detailed information on SDA participants and dwellings. These datasets will be updated and released quarterly from Q1 2026-27.
++SDA Participant Datasets
++SDA Dwelling Datasets
++The datasets provide more detailed demographic data, helping providers, researchers and investors better understand the SDA market.
++While Supplement P to the Quarterly Report will continue to provide summary tables and key indicators, the content may change over time to reduce duplication with the SDA datasets and improve readability.
++SDA Report 2026
++The 2026 report gives an overview of SDA data from our systems up to 31 December 2025 and includes previously unreleased participant focused data to expand information about SDA demand.
+ Specialist Disability Accommodation Report 2026
+ (PDF 1MB)
+-The report gives an overview of SDA data from our systems up to 31 December 2025 and includes previously unreleased participant focused data to expand information about SDA demand.
+ Accompanying data tables for this report are available to download:
+ SDA Report 2026 Data Tables
+ (DOCX 100KB)
+-SDA data improvements
++SDA reports
++SDA reports build on data released in the
++Quarterly reports
++to provide a general point in time overview of the SDA market.
++The 2025 report gives an overview of SDA data from our systems up to 31 December 2024.
++Specialist Disability Accommodation Report (May 2025)
++(PDF 2MB)
++SDA datasets
++The SDA datasets provide the most detailed SDA data published by the Agency to support providers, researchers, investors and other stakeholders understand the SDA market.
++SDA Participants
++These datasets provide information about active NDIS participants with SDA funding. They support analysis of SDA demand, usage and participant characteristics, including location, age, disability group, SDA and SIL status, remoteness, First Nations status, culturally and linguistically diverse status, and eligible SDA dwelling.
++Geographic data is available down to Statistical Area Level 3 (SA3). Data is available from the September 2024 quarter onwards.
++Data current as at 30 September 2026
++SDA participants demographics data
++(CSV 222KB)
++SDA participants characteristics data
++(CSV 293KB)
++SDA participants demand and usage
++(CSV 7.4MB)
++SDA participants data rules
++(DOCX 88KB)
++Further information on SDA demand is provided within
++Supplement P
++.
++SDA Dwellings
++These datasets provide detailed information on enrolled SDA dwellings and dwellings currently in the development pipeline.
++The datasets include the location at Statistical Area 3 (SA3) and Statistical Area 4 (SA4) detail and characteristics of enrolled SDA dwellings such as design category and building type.
++Data current as at 30 September 2026
++Enrolled SDA dwellings data
++(CSV 6.5MB)
++Future SDA dwellings data
++(CSV 188KB)
++SDA dwellings data rules
++(DOCX 99KB)
++Further information on SDA supply is provided within
++Supplement P
++.
++SDA tools
++SDA finder | NDIS
++, this tool helps participants find SDA dwellings and SDA providers to register a dwelling vacancy
++SDA demand data | NDIS
++helps providers understand the demand for SDA dwellings. It is a helpful tool that shows demand data of SDA-eligible participants that have access to funding, and participants who are currently in SDA.
++SDA pricing review technical reports 2023
++Ernst & Young (EY) was engaged by the NDIA to undertake independent technical research and analysis to support the
++2022-2023 SDA Pricing Review
++.
++SDA demand projections were also completed as part of a review of SDA pricing in 2022-2023. The report is available on the
++SDA pricing review page
++.
++EY Technical Reports
++The 8 Technical Reports completed by Ernst & Young (EY) are provided here:
++EY Technical Report - Benchmark Construction Costs
++(PDF 1.3MB)
++1.1.
++SDA KA Reference Designs: Part 1
++(PDF 15MB)
++1.2.
++SDA KA Reference Designs: Part 2
++(PDF 17MB)
++1.3.
++Detailed Cost Estimate Report – MBM Quantity Surveying
++(PDF 887KB)
++EY Technical Report - Land Costs
++(PDF 1.4MB)
++EY Technical Report - Geographic Variation in Construction Costs
++(PDF 1.1MB)
++EY Technical Report - Sprinkler Cost
++(PDF 843KB)
++EY Technical Report - Exit Costs
++(PDF 1.2MB)
++EY Technical Report - Vacancy Rates
++(PDF 1MB)
++EY Technical Report - Ownership Costs
++(PDF 1.5MB)
++EY Technical Report - Capital Asset Pricing Model
++(PDF 1.4MB)
++To learn more about SDA pricing, including demand projections, visit the
++SDA pricing review
++page.
++Historical SDA quarterly reports
++SDA 2021-22 quarter 4 report
++(DOCX 255KB)
++SDA 2021-22 quarter 3 report
++(DOCX 263KB)
++SDA 2021-22 quarter 2 report
++(DOCX 240KB)
++SDA 2021-22 quarter 1 report
++(DOCX 244KB)
++SDA 2020-21 quarter 4 report
++(DOCX 169KB)
++About this data
+ Between 2024-2025 the NDIA undertook the SDA Data Project to review the accessibility and reliability of SDA data. The project included consultation with over 100 SDA stakeholders to understand their SDA data needs.
+ The SDA data
+ consultation summary report
+ is available to download.
+-The improvements needed to boost SDA data quality are part of a longer-term initiative that will establish a strong foundation for more reliable SDA data in future.
+-SDA reports
+-SDA reports build on data released in the
+-Quarterly reports
+-to provide a general point in time overview of the SDA market.
+-Specialist Disability Accommodation Report (May 2025) (PDF 2MB)
+-Historical SDA quarterly reports
+-SDA 2021-22 quarter 4 report (DOCX 255KB)
+-SDA 2021-22 quarter 3 report (DOCX 263KB)
+-SDA 2021-22 quarter 2 report (DOCX 240KB)
+-SDA 2021-22 quarter 1 report (DOCX 244KB)
+-SDA 2020-21 quarter 4 report (DOCX 169KB)
+-SDA datasets
+-SDA participants data (CSV 67KB)
+-SDA Enrolled dwellings and NDIS demand data (XLSX 1.1MB)
+-SDA tools
+-SDA finder | NDIS
+-, this tool helps participants find SDA dwellings and SDA providers to register a dwelling vacancy
+-SDA demand data | NDIS
+-this tool helps providers understand the demand for SDA dwellings
+-SDA pricing review technical reports 2023
+-Ernst & Young (EY) was engaged by the NDIA to undertake independent technical research and analysis to support the 2022-2023 SDA Pricing Review.
+-SDA demand projections were also completed as part of a review of SDA pricing in 2022-2023. The report is available on the
+-SDA pricing review page
+-.
+-The 8 Technical Reports are provided here:
+-EY Technical Report - Benchmark Construction Costs (1.3MB PDF)
+-i. SDA KA Reference Designs: Part 1 (PDF 15MB)
+-ii. SDA KA Reference Designs: Part 2 (PDF 17MB)
+-1b. Detailed Cost Estimate Report – MBM Quantity Surveying (887KB PDF)
+-EY Technical Report - Land Costs (1.4MB PDF)
+-EY Technical Report - Geographic Variation in Construction Costs (1.1MB PDF)
+-EY Technical Report - Sprinkler Cost (843KB PDF)
+-EY Technical Report - Exit Costs (1.2MB PDF)
+-EY Technical Report - Vacancy Rates (1MB PDF)
+-EY Technical Report - Ownership Costs (1.5MB PDF)
+-EY Technical Report - Capital Asset Pricing Model (1.4MB PDF)
+-2022-2023 To learn more about SDA pricing, including demand projections, visit the
+-SDA pricing review
+-page
+-To learn more about SDA
+-Investment in SDA
+-SDA explained
+-Specialist disability accommodation
+-Subscribe to the quarterly SDA Bulletin
+-The SDA Bulletin shares the latest Agency SDA news, including upcoming webinars, SDA data releases, investment information and more.
+-If you would like to receive the latest SDA updates, contact us at
+-[email protected]
+-to join the mailing list.
++The improvements needed to boost SDA data quality are part of a longer-term initiative that will establish a strong foundation for more reliable SDA data over time.
+ Disclaimer
+ The information on these pages is subject to a
+ Data disclaimer
+@@ -155,6 +195,14 @@
+ For more information relating to the data, please email
+ [email protected]
+ .
++To learn more about SDA
++Investment in SDA
++SDA explained
++Subscribe to the quarterly SDA Bulletin
++The SDA Bulletin shares the latest Agency SDA news, including upcoming webinars, SDA data releases and more.
++If you would like to receive the latest SDA updates, contact us at
++[email protected]
++to join the mailing list.
+ Main navigation sidebar
+ Reports and analyses
+ Market monitoring
+@@ -224,7 +272,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-2 October 2026
++17 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```

@@ -377,3 +377,213 @@ No visible wording change; HTML bytes changed.
 SHA-256: `f681b43dfa62bc54be86154af01ecf8b5ef8b8138b27772ab7805f0b515acfdd`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-17T01:57:14Z — changed
+
+SHA-256: `e77b388a675ee8159b8829cf8399e5868a5fb78955fbf6718ac07e82b787a682`
+
+```diff
+--- before
++++ after
+@@ -71,8 +71,9 @@
+ The accompanying
+ data rules
+ for this dataset explains information about the data that may be helpful.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
+ Please note that historical data is available on request.
++Participant numbers and plan budgets data September 2026 (CSV 6.7MB)
+ Participant numbers and plan budgets data June 2026 (CSV 6.8MB)
+ Participant numbers and plan budgets data March 2026 (CSV 6.9MB)
+ Participant numbers and plan budgets data December 2025 (CSV 6.9MB)
+@@ -80,15 +81,15 @@
+ Participant numbers and plan budgets data June 2025 (CSV 7.1MB)
+ Participant numbers and plan budgets data March 2025 (CSV 6.95MB)
+ Participant numbers and plan budgets data December 2024 (CSV 7MB)
+-Participant numbers and plan budgets data September 2024 (CSV 6.9MB)
+-Participant numbers and plan budgets data rules (DOCX 95KB)
++Participant numbers and plan budgets data rules (DOCX 98KB)
+ Utilisation of plan budgets data
+ This dataset provides utilisation rates by different variable combinations. Utilisation refers to the amount of the plan budget that a participant uses.
+ The accompanying
+ data rules
+ for this dataset explains information about the data that may be helpful.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
+ Please note that historical data is available on request.
++Utilisation of Plan budgets data September 2026 (CSV 9.2MB)
+ Utilisation of Plan budgets data June 2026 (CSV 9.1MB)
+ Utilisation of Plan budgets data March 2026 (CSV 9.3MB)
+ Utilisation of Plan budgets data December 2025 (CSV 9.2MB)
+@@ -96,21 +97,21 @@
+ Utilisation of Plan budgets data June 2025 (CSV 9.3MB)
+ Utilisation of Plan budgets data March 2025 (CSV 9.2MB)
+ Utilisation of Plan budgets data December 2024 (CSV 4.8MB)
+-Utilisation of Plan budgets data September 2024 (CSV 8.9MB)
+-Utilisation of plan budget data rules (DOCX 96KB)
++Utilisation of plan budget data rules (DOCX 98KB)
+ Participant diagnosis, goals and plan management
+ Participants by diagnosis
+ The dataset provides information on the count of participants split by disabilities that are reported by participants. It includes disabilities that are reported as primary as well as non-primary.
+-Data current as at: 30 June 2026
+-Participants count by diagnosis data (CSV 1.7MB)
+-Participants count by diagnosis data rules (DOCX 96KB)
++Data current as at: 30 September 2026
++Participants count by diagnosis data (CSV 1.8MB)
++Participants count by diagnosis data rules (DOCX 94KB)
+ Plan management types
+ This dataset provides insight into the choices participants make for managing their plans.
+ The accompanying
+ data rules
+ for this dataset explains information about the data that may be helpful.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
+ Please note that historical data is available on request.
++Plan Management types data September 2026 (CSV 7.6MB)
+ Plan Management types data June 2026 (CSV 7.4MB)
+ Plan Management types data March 2026 (CSV 7.5MB)
+ Plan Management types data December 2025 (CSV 7.6MB)
+@@ -118,8 +119,7 @@
+ Plan Management types data June 2025 (CSV 7.6MB)
+ Plan Management types data March 2025 (ZIP 7.7MB)
+ Plan Management types data December 2024 (CSV 7.7MB)
+-Plan Management types data September 2024 (ZIP 2.0MB)
+-Plan Management types data rules (DOCX 95KB)
++Plan Management types data rules (DOCX 98KB)
+ Participant goals
+ This dataset provides information on participants’ goal domains by age group and disability group.
+ Data current as at: 30 June 2024
+@@ -129,15 +129,15 @@
+ First Nations and Culturally and Linguistically Diverse participants
+ First Nations participants
+ This dataset includes information about First Nations participant numbers broken down by State/Territory, remoteness and average annualised committed support.
+-Data current as at: 30 June 2026
+-First Nations participants (CSV 53KB)
+-First Nations participants data rules (DOCX 89KB)
++Data current as at: 30 September 2026
++First Nations participants (CSV 55KB)
++First Nations participants data rules (DOCX 90KB)
+ Culturally and linguistically diverse participants
+ This dataset includes information about Cultural and Linguistically Diverse (CALD) participant numbers broken down by State/Territory, remoteness and average annualised committed support.
+ From December 2021 quarter, this report does not include participants who identify as Aboriginal and Torres Strait Islander. In previous reports, Aboriginal and Torres Strait Islander participants were included if their main language spoken at home was not English.
+-Data current as at: 30 June 2026
+-Culturally and linguistically diverse participants (CSV 37KB)
+-Culturally and linguistically diverse participants data rules (DOCX 96KB)
++Data current as at: 30 September 2026
++Culturally and linguistically diverse participants (CSV 39KB)
++Culturally and linguistically diverse participants data rules (DOCX 95KB)
+ Participant numbers and outcomes
+ Projected participants by service district data
+ This dataset provides information about projected participants’ numbers by service district and by states and territories. The assumptions underpinning this projection are discussed in
+@@ -149,40 +149,40 @@
+ Projected participant numbers data rules (DOCX 92KB)
+ Baseline outcomes data
+ This dataset provides information on key outcome indicators at baseline (entry to the Scheme), for participants and families/carers, by questionnaire version and State/Territory.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
+ Baseline Outcomes data (CSV 67KB)
+ Baseline Outcomes data rules (DOCX 90KB)
+ Longitudinal outcomes data
+ This dataset provides information on key outcome indicators at baseline (entry to the Scheme) and approximately one, two and three years after entry to the Scheme, for participants and families/carers responding at baseline and at least one later time point, by questionnaire version and State/Territory.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
+ Longitudinal Outcomes data (CSV 1.4MB)
+ Longitudinal Outcomes data rules (DOCX 97KB)
+ Participants by Service District and Local Government Areas
+ Participants by SA2
+ This table states the number of participants split by Statistical Area 2 (SA2s), along with the State/Territory that each are located within. Information on the extent to which the NDIS has rolled out in each SA2 is also included.
+-Data current as at: 30 June 2026
+-Participants by SA2 data (CSV 2.7MB)
++Data current as at: 30 September 2026
++Participants by SA2 data (CSV 2.8MB)
+ Participants by SA2 data rules (DOCX 88KB)
+ Participants by SA3 data
+ This table states the number of participants split by Statistical Area 3 (SA3s), along with the State/Territory that each are located within. Information on the extent to which the NDIS has rolled out in each SA3 is also included.
+-Data current as at: 30 June 2026
+-Participants by SA3 data (CSV 361KB)
++Data current as at: 30 September 2026
++Participants by SA3 data (CSV 375KB)
+ Participants by SA3 data rules (DOCX 88KB)
+ Participants by SA4 data
+ This table states the number of participants split by Statistical Area 4 (SA4s), along with the State/Territory that each are located within. Information on the extent to which the NDIS has rolled out in each SA4 is also included.
+-Data current as at: 30 June 2026
+-Participants by SA4 data (CSV 108KB)
+-Participants by SA4 data rules (DOCX 89KB)
++Data current as at: 30 September 2026
++Participants by SA4 data (CSV 113KB)
++Participants by SA4 data rules (DOCX 88KB)
+ Participants by CED data
+ This table states the number of participants and the number of providers split by Commonwealth Electorate Divisions (CEDs), along with the State/Territory that each are located within. Information on the extent to which the NDIS has rolled out in each CED is also included.
+-Data current as at: 30 June 2026
+-Participants by CED data (CSV 72KB)
+-Participants by CED data rules (DOCX 89KB)
++Data current as at: 30 September 2026
++Participants by CED data (CSV 78KB)
++Participants by CED data rules (DOCX 87KB)
+ Participants by Local Government Areas
+ Participants by Local Government Areas
+ This table states the number of participants split by Local Government Areas (LGAs), along with the service district and State/Territory that each are located within. Information on the extent to which the NDIS has rolled out in the LGA is also included.
+-Data current as at: 30 June 2026
+-Participants by LGA data (CSV 473KB)
++Data current as at: 30 September 2026
++Participants by LGA data (CSV 498KB)
+ Participants by LGA data rules (DOCX 89KB)
+ Service District to LGA 2011 Mapping
+ This table provides mapping from NDIA service districts to the ABS classified Local Government Areas (LGA) 2011. This will allow the user to map external stats at LGA level to NDIA service districts.
+@@ -199,25 +199,30 @@
+ Service District to LGA 2021 data rules (DOCX 80KB)
+ Participants with home and living supports
+ SDA participants data
+-From 30 June 2026, this dataset provides the count of active participants by service district with Specialist Disability Accommodation (SDA) funding in use and the count of active participants by service district who are SDA eligible, but not yet using SDA. This information is available from the September 2024 quarter onwards.
+-Data current as at: 30 June 2026
+-SDA participants data (CSV 67KB)
+-SDA participants data rules (DOCX 85KB)
++These datasets provide information on active NDIS participants with Specialist Disability Accommodation (SDA) funding. The datasets support analysis of participant demographics, characteristics, demand and usage, including participant location, age, disability group, SDA status, Supported Independent Living (SIL) status, remoteness, First Nations status, and eligible SDA dwelling. Geographic reporting is available down to Statistical Area Level 3 (SA3) for SDA demand and usage analysis.
++Data current as at: 30 September 2026
++SDA participants demographics data (CSV 222KB)
++SDA participants characteristics data (CSV 293KB)
++SDA participants demand and usage (CSV 7.4MB)
++SDA participants data rules (DOCX 88KB)
+ SDA Enrolled dwellings and NDIS demand data
+-Data current as at: 30 June 2026
+-SDA Enrolled dwellings and NDIS demand data (XLSX 1.1MB)
+-This additional Excel spreadsheet includes data on SDA enrolled dwellings and NDIS demand data to 30 June 2026. It contains the SDA data tables from ‘Appendix P’ that are published in the
+-Quarterly reports
+-to the disability ministers.
+-Appendix P in this spreadsheet sets out data on:
+-the number of active participants in each service district receiving SDA and Supported Independent Living (SIL)
+-the number and types of dwellings
+-the demand for SDA within the NDIS in each Statistical Area 3 (SA3) and Statistical Area 4 (SA4) region.
+-Further detailed tables relating to enrolled SDA dwellings and SDA demand within the NDIS are set out on a separate tabs in the spreadsheet.
++These datasets provide detailed information on Specialist Disability Accommodation (SDA) supply across Australia, including enrolled SDA dwellings and dwellings currently in the development pipeline.
++Data current as at: 30 September 2026
++Enrolled SDA dwellings data (CSV 6.5MB)
++Future SDA dwellings data (CSV 188KB)
++SDA dwellings data rules (DOCX 99KB)
++The datasets support analysis of:
++the location and characteristics of enrolled SDA dwellings, including Statistical Area 3 (SA3) and Statistical Area 4 (SA4) detail, design category, building type, dwelling characteristics and enrolment information
++the location and characteristics of SDA dwellings in the development pipeline, including Statistical Area 3 (SA3) and Statistical Area 4 (SA4) detail, design category, building type and dwelling characteristics.
++Further information on enrolled SDA dwellings, SDA pipeline dwellings and SDA demand within the NDIS is available in
++SDA data
++and
++Supplement P
++.
+ SIL participants data
+ This dataset provides the number of active participants with Supported Independent Living (SIL) funding in their current NDIS plan.
+-Data current as at: 30 June 2026
+-SIL participants data (CSV 74KB)
++Data current as at: 30 September 2026
++SIL participants data (CSV 77KB)
+ SIL participants data rules (DOCX 86KB)
+ Commonly used data terms
+ The definitions listed in the
+@@ -241,7 +246,7 @@
+ Provider datasets
+ Payments datasets
+ This page current as of
+-24 August 2026
++16 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```

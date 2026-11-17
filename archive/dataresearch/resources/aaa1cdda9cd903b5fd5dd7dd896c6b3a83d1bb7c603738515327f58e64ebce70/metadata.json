@@ -1,0 +1,22 @@
+{
+  "bytes": 7757618,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/aaa1cdda9cd903b5fd5dd7dd896c6b3a83d1bb7c603738515327f58e64ebce70",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4616/download?attachment=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA participants demand and usage.csv\"",
+    "ETag": "\"1794439023:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Wed, 11 Nov 2026 23:17:02 GMT"
+  },
+  "sha256": "f928922b4e922a913eaf88bd22ded7c748964b147d3fbc401d7683b66508fa74",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4616/download?attachment="
+}

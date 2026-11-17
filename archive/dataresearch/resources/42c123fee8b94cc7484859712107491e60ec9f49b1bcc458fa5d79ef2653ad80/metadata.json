@@ -1,0 +1,22 @@
+{
+  "bytes": 299189,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/42c123fee8b94cc7484859712107491e60ec9f49b1bcc458fa5d79ef2653ad80",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4615/download?attachment=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA participants characteristics data.csv\"",
+    "ETag": "\"1794438961:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Wed, 11 Nov 2026 23:16:00 GMT"
+  },
+  "sha256": "62a88cb259eb43e64dae66acc685e17911337d534e34aa5cb0abba39835864be",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4615/download?attachment="
+}

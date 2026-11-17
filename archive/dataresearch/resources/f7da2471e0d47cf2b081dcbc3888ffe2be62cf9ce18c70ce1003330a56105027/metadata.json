@@ -1,0 +1,22 @@
+{
+  "bytes": 6748073,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/f7da2471e0d47cf2b081dcbc3888ffe2be62cf9ce18c70ce1003330a56105027",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4618/download?attachment=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Enrolled SDA dwellings data.csv\"",
+    "ETag": "\"1794439621:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Wed, 11 Nov 2026 23:27:00 GMT"
+  },
+  "sha256": "3f2b4bc93bec23c83310b0c3ccec1a01c47cd3631e2c98635df11c1266a6b3cc",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4618/download?attachment="
+}

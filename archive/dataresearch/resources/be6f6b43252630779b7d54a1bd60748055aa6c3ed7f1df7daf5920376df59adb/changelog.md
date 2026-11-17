@@ -622,3 +622,30 @@ SHA-256: `2ba8733e4e508e9705f038ce550814292a9675963e050b3b0741fec5b6f54f5a`
  Facebook
  (External website)
 ```
+
+## 2026-11-17T01:57:14Z — changed
+
+SHA-256: `95e17edae6d167f9078b71dd671a7f9bb6bb1cc1502c0019c9fa3f2b376c98a0`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,8 @@
+ Save page as PDF
+ Page title
+ Updated
++Specialist Disability Accommodation (SDA) Data
++17 November 2026
+ Participant datasets
+ 16 November 2026
+ Payments datasets
+@@ -80,8 +82,6 @@
+ 29 October 2026
+ The Inklings WA pilot program
+ 23 October 2026
+-Specialist Disability Accommodation (SDA) Data
+-2 October 2026
+ Social Menu
+ Facebook
+ (External website)
+```

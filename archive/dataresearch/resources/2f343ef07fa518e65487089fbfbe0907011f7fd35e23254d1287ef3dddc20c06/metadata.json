@@ -1,0 +1,22 @@
+{
+  "bytes": 226513,
+  "content_type": "text/csv; charset=utf-8",
+  "directory": "resources/2f343ef07fa518e65487089fbfbe0907011f7fd35e23254d1287ef3dddc20c06",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4614/download?attachment=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"SDA participants demographics data.csv\"",
+    "ETag": "\"1794438825:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Wed, 11 Nov 2026 23:13:44 GMT"
+  },
+  "sha256": "ef6b2a7cafba6dc6801592789b0507462cf14eab4ebb256b732f9a3f85e8bada",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4614/download?attachment="
+}

@@ -1,0 +1,23 @@
+{
+  "bytes": 757,
+  "content_type": "text/css",
+  "directory": "resources/00ed655f56d311698e13f85048903eddd3104bbd385f856d5e4a614389af4398",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?tokpti=",
+  "first_seen": "2026-11-17T01:57:14Z",
+  "kind": "file",
+  "last_changed": "2026-11-17T01:57:14Z",
+  "links": [
+    "https://dataresearch.ndis.gov.au/modules/contrib/video_embed_field/css/icons/play.svg"
+  ],
+  "response_headers": {
+    "ETag": "\"6ad8d92f-2f5\"",
+    "Last-Modified": "Wed, 21 Oct 2026 15:24:31 GMT"
+  },
+  "sha256": "ecc512f9f935fb64c91e7fd40178ea25ff0bf58d90c70dd2ef340639ca23e763",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?tokpti="
+}

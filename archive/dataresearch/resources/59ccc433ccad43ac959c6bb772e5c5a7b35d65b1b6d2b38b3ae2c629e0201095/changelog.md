@@ -377,3 +377,41 @@ No visible wording change; HTML bytes changed.
 SHA-256: `758dac75d170b4d94e4507a12593d37f3b2f45846d840f4251f624698b68f1f2`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-17T01:57:14Z — changed
+
+SHA-256: `cada5c9f8739aa2dc9f1be51d8e43336ad5cf40df3f8226d9783c7544a63d7ae`
+
+```diff
+--- before
++++ after
+@@ -68,7 +68,8 @@
+ The accompanying
+ data rules
+ for this dataset explains information about the data that may be helpful.
+-Data current as at: 30 June 2026
++Data current as at: 30 September 2026
++Payments data September 2026 (CSV 17.8MB)
+ Payments data June 2026 (CSV 13.7MB)
+ Payments data March 2026 (CSV 13.7MB)
+ Payments data December 2025 (CSV 14MB)
+@@ -76,8 +77,7 @@
+ Payments data June 2025 (CSV 12.9MB)
+ Payments data March 2025 (CSV 12.9MB)
+ Payments data December 2024 (CSV 13MB)
+-Payments data September 2024 (CSV 13.1MB)
+-Payments data rules (DOCX 92KB)
++Payments data rules (DOCX 87KB)
+ Commonly used data terms
+ The definitions listed in the
+ commonly used data terms (DOCX 80KB)
+@@ -100,7 +100,7 @@
+ Provider datasets
+ Payments datasets
+ This page current as of
+-14 August 2026
++16 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```
