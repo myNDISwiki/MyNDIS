@@ -560,3 +560,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Our commitment to inclusive language
  Assistive Technology Strategy
 ```
+
+## 2026-11-17T23:34:08Z — changed
+
+- Previous SHA-256: `4694a44a370387cf570c8fcc4622703dae8a7905d0bc9849b7949aa57c049c15`
+- New SHA-256: `0fb0db27073f52f67cd7dd15971226930a45524877d9ab24b18f50d5cd62f812`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

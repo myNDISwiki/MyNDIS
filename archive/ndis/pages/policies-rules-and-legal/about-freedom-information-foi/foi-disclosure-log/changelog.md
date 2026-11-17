@@ -2013,3 +2013,37 @@ The page bytes changed, but no visible main-content wording change was detected.
 -9 November 2026
 +16 November 2026
 ```
+
+## 2026-11-17T23:34:08Z — changed
+
+- Previous SHA-256: `89aeeab6bfc8c52cb6eaa384be96c26b354deb85f30f3905afc4d351e461c75b`
+- New SHA-256: `05f09e438060aba6cb872f0cd6b3aca16b45ce441aa4d31b50a57960edca6eb0`
+- Visible text lines added: 8
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,13 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3235
++9/11/2026
++Documents from the last two years regarding pay and conditions for National Contact Centre (NCC) staff employed via Serco.
++FOI 25/26-3235
++2 documents released in part, one document refused in full:
++1. Email - Psycho-Social Safety
++3. Email – Re: ATO Contact Centre - Same Job Same Pay Case
+ FOI 25/26-2476
+ 27/10/2026
+ Operational guidelines, internal guidance/advice, policies and decision-making tools held by the NDIA between 31 May 2024 until 18 March 2026
+@@ -9063,4 +9070,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-16 November 2026
++17 November 2026
+```

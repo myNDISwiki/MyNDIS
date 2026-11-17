@@ -768,3 +768,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T23:34:08Z — changed
+
+- Previous SHA-256: `88560873a7692bd5aaae2bdb89574231885e26dab6789c9d82d6c472543aec37`
+- New SHA-256: `728d53206827f8be23bbf3f233653ab597dd4ffec80c0d659037c000774ace68`
+- Visible text lines added: 0
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,8 +7,6 @@
+ Media enquiries
+ For all media enquiries, please email
+ [email protected]
+-or call the media duty officer on
+-0477 703 960
+ .
+ For all other enquiries please phone
+ 1800 800 110
+```

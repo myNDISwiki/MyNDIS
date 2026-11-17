@@ -1000,3 +1000,171 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T23:34:08Z — changed
+
+- Previous SHA-256: `bedc8d97ad763da76bb78c41653de28e54296cadc76afec513d79b7423ad220e`
+- New SHA-256: `d57b7df03877b9bd1dc492c3de153ffbaff73d47533f8ced2f084e2f641ae24d`
+- Visible text lines added: 48
+- Visible text lines removed: 12
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -66,14 +66,14 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Alice Springs, Amoonguna, Apmere Mwerre, Araluen, Arumbera, Braitling, Ciccone, Connellan, Desert Springs, Docker River, East Side, Flynn, Gillen, Hermannsburg (Ntaria), Ilparpa, Imanpa, Kilgariff, Larapinta, Ltyentye Apurte (Santa Teresa), Mount Johns, Mutitjulu (Uluru), Ross, Sadadeen, Stuart, The Gap, Titjikala, Utju (Areyonga), Wallace Rockhole, White Gums, Yulara.
++Alice Springs, Amoonguna, Apmere Mwerre, Aputula (Finke), Araluen, Arumbera, Braitling, Ciccone, Connellan, Desert Springs, Docker River, East Side, Flynn, Gillen, Hermannsburg (Ntaria), Ilparpa, Imanpa, Kilgariff, Larapinta, Ltyentye Apurte (Santa Teresa), Mount Johns, Mutitjulu (Uluru), Ross, Sadadeen, Stuart, The Gap, Titjikala, Utju (Areyonga), Wallace Rockhole, White Gums, Yulara.
+ East Arnhem Regional Council
+ Phone:
+ (08) 8986 8986
+ Email:
+ [email protected]
+ Communities serviced
+-Elcho Island (Galiwinku), Gapuwiyak (Lake Evella), Gunyangara (Ski Beach), Milingimbi, Nhulunbuy (Gove), Ramingining, Yirrkala, Surrounding Homelands.
++Gapuwiyak (Lake Evella), Milingimbi, Ramingining.
+ Katherine West Health Board Aboriginal Corporation
+ Phone:
+ (08) 8971 9300
+@@ -81,20 +81,34 @@
+ [email protected]
+ Communities serviced
+ Amanbidji (Mialuni/Kildirk), Baines, Bulla, Daguragu, Kalkarindji, Lajamanu, Lingara, Pigeon Hole (Nitipurru), Timber Creek, Victoria River, Yarralin.
++Mala’la Health Service Aboriginal Corporation
++Phone:
++(08) 8979 5474
++Email:
++[email protected]
++Communities serviced
++Maningrida.
+ Miwatj Health Aboriginal Corporation
+ Phone:
+ (08) 8939 1900
+ Email:
+ [email protected]
+ Communities serviced
+-Balma, Bunhanura, Elcho Island (Galiwinku), Gapuwiyak (Lake Evella), Gulungurr (Dhoyndji), Gunyangara (Ski Beach), Milingimbi, Nhulunbuy (Gove), Ramingining, Yirrkala, Surrounding Homelands.
++Alyangula, Angurugu, Balma, Baniyala, East Arnhem Region Surrounding Homelands, Elcho Isl (Galiwin'ku), Gan Gan, Groote Eylandt, Groote Eylandt Region Surrounding Homelands, Gulungurr (Dhoyndji), Gunyangara (Ski Beach), Milyakburra, Nhulunbuy (Gove), Umbakumba.
++Numburindi Development Aboriginal Corporation
++Phone:
++0436 852 402
++Email:
++[email protected]
++Communities serviced
++Numbulwar.
+ Sunrise Health Service Aboriginal Corporation
+ Phone:
+ (08) 8971 9500
+ Email:
+ [email protected]
+ Communities serviced
+-Ngukurr.
++Barunga, Beswick, Bulman Weemol, Jilkminggan, Manyallaluk, Mataranka, Minyerri, Ngukurr, Urapunga.
+ Tennant Creek Mob Aboriginal Corporation
+ Phone:
+ 0499 800 980
+@@ -110,7 +124,7 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Palumpa (Nganmarriyanga), Wadeye.
++Palumpa (Nganmarriyanga), Peppimenarti, Wadeye.
+ Waltja Tjutangku Palyapayi Aboriginal Corporation
+ Phone:
+ (08) 8953 4488
+@@ -124,8 +138,15 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Djirrbiyak, Gunbalanya (Oenpelli), Jabiru, Kapalga, Minjilang (Croker Island), Mudginberri, Mumakala, Patonga (Airstrip), Patonga (Homestead), Spring Peak, Warruwi (Goulburn Island), Whistle Duck.
++Djirrbiyak, Gunbalanya (Oenpelli), Jabiru, Jabiru Communities, Jabiru Town Camp, Kapalga, Minjilang (Croker Island), Mudginberri Outstation, Mumakala Outstation, Patonga Airstrip, Patonga Homestead, Spring Peak Outstation, Warruwi (Goulburn Island), Whistle Duck.
+ QLD
++Apunipima Cape York Health Council Limitied
++Phone:
++(07) 4037 7116
++Email:
++[email protected]
++Communities serviced
++Aurukun, Ayton, Bloomfield, China Camp (Buru), Coen, Cooktown, Degarra, Kowanyanma, Shiptons Flat, Wujal Wujal.
+ Charleville and Western Areas ATSI Community Health Ltd
+ Phone:
+ (07) 4654 3277
+@@ -135,7 +156,7 @@
+ Charleville, Quilpie.
+ Cunnamulla Aboriginal Corporation for Health
+ Phone:
+-0436 331 276
++(07) 4655 8800
+ Email:
+ [email protected]
+ Communities serviced
+@@ -182,7 +203,7 @@
+ [email protected]
+ Communities serviced
+ Palm Island.
+-Pormpur Paanthu Aboriginal Corporation
++Pormpur Ngamplin Pam Mongthak Aboriginal Corporation
+ Phone:
+ (07) 4060 4260
+ Email:
+@@ -232,7 +253,7 @@
+ Email:
+ [email protected]
+ Communities Serviced
+-Boulder, Broadwood, Coolgardie, Esperance, Hannans, Hopetoun, Kalgoorlie, Kambalda, Karlkurla, Kurrawang, Lamington, Laverton, Leinster, Leonora, Menzies, Mulga Queen, Mullingar, Nambi, Ningamia Community, Norseman, Piccadilly, Ravensthorpe, Somerville, South Boulder, South Kalgoorlie, Victory Heights, West Lamington, Wongutha.
++Boulder, Broadwood, Coolgardie, Esperance, Hannans, Hopetoun, Kalgoorlie, Kambalda, Karlkurla, Kurrawang, Lamington, Laverton, Leinster, Leonora, Menzies, Mulga Queen, Mullingar, Nambi, Ninga Mia, Norseman, Piccadilly, Ravensthorpe, Somerville, South Boulder, South Kalgoorlie, Victory Heights, West Lamington, Wongatha.
+ Geraldton Regional Aboriginal Medical Service
+ Phone:
+ (08) 9956 6555
+@@ -246,7 +267,7 @@
+ Email:
+ [email protected]
+ Communities serviced
+-Ardyaloon, Balgo, Beagle Bay, Bidyadanga, Bilingurr, Billiluna, Broome, Cable Beach, Camballin, Dampier Peninsula, Derby, Djarindjin, Djugun, Doon Doon (Woolah), Durack, Gibb River Road, Glen Hill (Mandangala), Halls Creek, Imintji, Kalumburu, Kundat Djaru, Kununurra, Kupungarri, Kutjungka, Lagrange, Lombadins, Looma, Minyirr, Mowanjum, Mueller Ranges, Mulan, Nelson Station, Ngallagunda, Pandanus Park, Roebuck, Sturt Creek, Tanami, Warmun, Waterbank, Willare, Wyndham, Yulumbu (Tableland).
++Ardyaloon, Balgo, Beagle Bay, Bidyadanga, Bilingurr, Billiluna, Broome, Cable Beach, Camballin, Dampier Peninsula, Derby, Djarindjin, Djugun, Doon Doon (Woolah), Durack, Gibb River Road, Glen Hill (Mandangala), Halls Creek, Imintji, Kalumburu, Kundat Djaru, Kununurra, Kupungarri, Kutjungka, Lagrange, Lombadina, Looma, Minyirr, Mowanjum, Mueller Ranges, Mulan, Nelson Station, Ngallagunda, Pandanus Park, Roebuck, Sturt Creek, Tanami, Warmun, Waterbank, Willare, Wyndham, Yulumbu (Tableland).
+ Marra Worra Worra Aboriginal Corporation
+ Phone:
+ (08) 9191 5333
+@@ -289,13 +310,13 @@
+ [email protected]
+ Communities serviced
+ Innawonga Community, Jigalong, Kunawarritji, Newman, Nullagine, Pannawonica, Paraburdoo,  Parnngurr (Cotton Creek), Parnpajinya, Punmu, Telfer, Tom Price, Wakathuni, Youngaleena Bunjima Community.
+-South West Aboriginal Medical Service Aboriginal Corporation.
++South West Aboriginal Medical Service Ltd.
+ Phone:
+ (08) 9797 8111
+ Email:
+ [email protected]
+ Communities serviced
+-Broomehill-Tambellup, Cuballing, Dumbleyung, Gnowangerup, Kent, Kulin, Lake Grace, Narrogin, Pingelly, Wagin, Wandering, West Arthur, Wickepin, Williams.
++Cuballing, Dumbleyung, Hyden, Kent, Kondinin, Kulin, Lake Grace, Narrogin, Pingelly, Wagin, Wandering, West Arthur, Wickepin, Williams.
+ Wirraka Maya Health Service Aboriginal Corporation
+ Phone:
+ (08) 9172 0410
+@@ -305,6 +326,21 @@
+ [email protected]
+ Communities serviced
+ Boodarie, Marble Bar, Pippingarra, Port Hedland, Redbank, South Hedland, Strelley, Warralong, Wedgefield, Yandeyarra.
++NSW
++Maari Ma Health Aboriginal Corporation
++Phone:
++(08) 8091 5122
++Email:
++[email protected]
++Communities serviced
++Wilcannia
++Walgett Cultural and Community Aboriginal Corporation
++Phone:
++0474 387 401
++Email:
++[email protected]
++Communities serviced
++Brewarrina, Goodooga, Walgett
+ Main navigation sidebar
+ Understanding the NDIS
+ About the NDIS
+```

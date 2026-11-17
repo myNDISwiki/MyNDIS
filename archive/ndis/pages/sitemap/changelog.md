@@ -655,3 +655,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Autism Advisory Group
  CALD Expert Advisory Group
 ```
+
+## 2026-11-17T23:34:08Z — changed
+
+- Previous SHA-256: `f8b5d5d46c11bcd752cf074b5402d2198cd94e6245374beea3225942a68b17ec`
+- New SHA-256: `bf9be2cfcffeeed74714a5145e82b57ae086469368f96591e804972a8722b1b3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -558,3 +558,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 -19 October 2026
 +16 November 2026
 ```
+
+## 2026-11-17T23:34:08Z — changed
+
+- Previous SHA-256: `ec465b917236ae93032b035309c18c6eadd81c60c8dfd56e8e22d2b918488db3`
+- New SHA-256: `08863cc1f78589e2a73cfab562df858b3c8b5361a571f4780a2ae2bea06ba85c`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
