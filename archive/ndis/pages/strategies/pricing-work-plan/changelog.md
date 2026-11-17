@@ -520,3 +520,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `0015bf867a74ab4402b6c934d2c521c7b731331f998901c437a5e68bd35374dd`
+- New SHA-256: `c06c5553e8f7eafa62e9947498f0d647b0d72ff30f16c9951a7bbe165f6bbe61`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -53,6 +53,7 @@
+ We will provide updates via NDIS Engage, our newsletters and our website.
+ Main navigation sidebar
+ Strategies
++Artificial intelligence (AI)
+ Australia's Disability Strategy
+ Our commitment to inclusive language
+ Assistive Technology Strategy
+```

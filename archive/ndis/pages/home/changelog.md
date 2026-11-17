@@ -1200,3 +1200,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `c36b391be59439bb756ef91079649b218400d3aec54c1682be86707874147780`
+- New SHA-256: `36bd2ff34e7acbcef68a5b137ce59e48d0cd865669dfc035c58250645708b98f`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,7 +27,7 @@
+ Offices and
+ contacts in your area
+ Office finder
+-NDIS support lists available
++Join us at an in-person community forum
+ Learn more
+ Latest news
+ Category
+```

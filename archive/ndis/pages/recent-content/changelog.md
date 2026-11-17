@@ -2025,3 +2025,59 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `c4a31436566398cb2aa76542d7dfe33c3d6302217be1a4ce93f9fa61b4fd4f92`
+- New SHA-256: `f8e27cf0bfc144d3bd7fd1e5154778cd4ac9706b68ae5bd49e7a25dbde760fb7`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++Find specialist disability accommodation (SDA)
++16 November 2026
++Strategies
++16 November 2026
++Artificial intelligence (AI)
++16 November 2026
++How to self-manage your funding
++16 November 2026
++FOI disclosure log
++16 November 2026
++Cultural and Linguistic Diversity Expert Advisory Group meeting summary September 2026
++16 November 2026
++SDA Vacancy Payments Webinar
++16 November 2026
++National Disability Insurance Scheme (NDIS), Esperance, 6450
++16 November 2026
++Quarterly Reports
++13 November 2026
+ Tarsha’s willpower opens up world of possibilities
+ 13 November 2026
+-Hani finds freedom, strength with NDIS support
+-13 November 2026
+-Naomi helps participants leave hospital safely
+-13 November 2026
+-Participant Service Guarantee
+-13 November 2026
+-Quarterly Reports
+-13 November 2026
+-Planned system updates 15 November 2026
+-13 November 2026
+-Guide to NDIS support budgets
+-12 November 2026
+-National Disability Insurance Scheme (NDIS), Melton, 3337
+-12 November 2026
+-Archived quarterly reports 2025-26
+-12 November 2026
+-Local Area Coordinator (LAC) partner, Yarrabah, 4871
+-11 November 2026
+```

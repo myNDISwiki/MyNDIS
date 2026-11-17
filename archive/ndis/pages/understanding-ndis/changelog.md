@@ -855,3 +855,48 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `e067e0e7d28400a7f905b39a6d201c6419c3a9023260bbc580c949764ade4072`
+- New SHA-256: `d40230a9ffb857d0c0f8a651a5c691c7075c94fa6d05c507b5850d41655f29cb`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -9,12 +9,17 @@
+ Understanding the NDIS
+ People that help you
+ Understanding the NDIS
+-NDIS support lists available
++Join us at an in-person community forum
+ Learn more
+ Transcript for '
+ What is the NDIS
+ '
+ Events and information sessions
++Category
++Provider Engagement
++SDA Vacancy Payments Webinar
++Event Date
++Thursday, 10 December 2026
+ Category
+ Community Engagement
+ NDIS Community Forum in Kalgoorlie
+@@ -29,11 +34,6 @@
+ Tuesday, 17 November 2026
+ Event address
+ South Perth, WA 6151
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-Event Date
+-Wednesday, 16 December 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

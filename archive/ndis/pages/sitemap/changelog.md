@@ -633,3 +633,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `979a11b29b7822c1e3f887fd384443d2408257299969ef7c38b887d2ba64c0af`
+- New SHA-256: `f8b5d5d46c11bcd752cf074b5402d2198cd94e6245374beea3225942a68b17ec`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -433,6 +433,7 @@
+ FOI disclosure log
+ Information Publication Scheme
+ Acronyms
++Artificial intelligence (AI)
+ Australia's Disability Strategy
+ Autism Advisory Group
+ CALD Expert Advisory Group
+```

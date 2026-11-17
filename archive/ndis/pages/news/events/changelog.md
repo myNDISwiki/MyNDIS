@@ -1979,3 +1979,33 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `a5c87c438702988e3278d17eafe170e96f0720a62e88af1725db36b1353347b6`
+- New SHA-256: `87de072d3f9e08c66ab34549c397d9e3d3fb37e75b9f028339e27d597685a0c3`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -13,12 +13,14 @@
+ Event Category
+ Community Engagement
+ (10)
++Provider Engagement
++(1)
+ Event State or Territory
+ WA
+ (2)
+ Event date
+ December 2026
+-(3)
++(4)
+ November 2026
+ (7)
+ Search
+```

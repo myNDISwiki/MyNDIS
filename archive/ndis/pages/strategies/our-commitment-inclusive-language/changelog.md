@@ -201,3 +201,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `3d2a2b3ba5f9f3325bfb338ad4fcc25901612165b24c74bb42a8c2f6896d8701`
+- New SHA-256: `06c1f7d9396e88f25f7903e0cce6c8f3056798e3e9f0bf70c236b1c8ff597301`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -23,6 +23,7 @@
+ We will listen, learn and collaborate with people with disability, their families and supporters to make sure the language we use is right.
+ Main navigation sidebar
+ Strategies
++Artificial intelligence (AI)
+ Australia's Disability Strategy
+ Our commitment to inclusive language
+ Assistive Technology Strategy
+```

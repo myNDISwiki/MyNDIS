@@ -1971,3 +1971,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `88fea490ea5c95ecbfe85c0bed7fb025b6edb5e0db8f9622e41dd6575492c394`
+- New SHA-256: `89aeeab6bfc8c52cb6eaa384be96c26b354deb85f30f3905afc4d351e461c75b`
+- Visible text lines added: 16
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -66,6 +66,21 @@
+ Email - Fw: FFT Memorandum of Understanding Extension Endorsed by Inter-Departmental Committee – dated 16 July 2026
+ Fraud Fusion Taskforce Inter-Departmental Committee Meeting Minutes – dated 13 June 2024
+ Fraud Fusion Taskforce Data Governance Framework – dated June 2024
++FOI 26/27-0534
++14/09/2026
++Current internal guidance documents used by NDIA staff when reviewing supports or reports from allied health professionals.
++FOI 26/27-0534 (PDF 2.4 MB)
++3 documents released in full;
++3 documents released in part – under section 47E(d) of the FOI Act
++1. Knowledge Article – Understand therapy supports v7.0
++– released in part
++2. Knowledge Article - Guide – Identify home and living solutions Appendix B – Allied health practitioners V2.0
++3. Knowledge Article - What evidence of disability is required V7.0
++4. Knowledge Article - Complete checks for vehicle modifications v5.0  -
++released in part
++5. Knowledge Article - Create and submit a home and living application v11.0
++6. Knowledge Article - Understand personal care for younger people in residential aged care (YPIRAC) v3.0 –
++released in part
+ FOI 26/27-0722
+ 9/10/2026
+ Documents issued as briefs, drafts and communication schedule regarding payment and funding policy review as well as integrity transformation and technology services
+@@ -9048,4 +9063,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-9 November 2026
++16 November 2026
+```

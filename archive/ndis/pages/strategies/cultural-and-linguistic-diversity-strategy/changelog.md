@@ -529,3 +529,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `ce48ff3abd2c1f0680f60413ed900f3fa5adb04baad60131b222daf9b3cf1a14`
+- New SHA-256: `c2cf3cc317f39d92fd7cb152dcd43eb51bba174bbfa93001152d08766ef93294`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -144,6 +144,7 @@
+ Tải xuống bản tóm tắt báo cáo tiến độ hàng năm của Chiến lược CALD 2025 bằng tiếng Việt (DOCX 1.9MB)
+ Main navigation sidebar
+ Strategies
++Artificial intelligence (AI)
+ Australia's Disability Strategy
+ Our commitment to inclusive language
+ Assistive Technology Strategy
+```

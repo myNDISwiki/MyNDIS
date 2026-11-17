@@ -649,3 +649,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `f18008668fd408adcae631afa8d2eb312c534f87318b82cfe76b623150a490ad`
+- New SHA-256: `89638e39ea92c17750def4b5494a68b5d74358dcb59ef97995f29ce3644b2b26`
+- Visible text lines added: 0
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,12 +16,6 @@
+ 2 - Know how to ask for a change to your plan
+ 3 - Our decision-making process
+ 4 - Our Guidelines
+-Update:
+-Changes have been made to plan reassessments due to
+-new NDIS laws
+-. Participants can ask for changes outside of regular plan reassessments when there are significant or ongoing changes to their situation or support needs. Learn more about the
+-legislation changes
+-.
+ Understand the ways a plan can change
+ There are 2 ways we can change your plan:
+ a plan variation (small change)
+```

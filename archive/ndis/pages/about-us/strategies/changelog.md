@@ -532,3 +532,29 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `2ca486ffa1e93245f7bb4087286f3ebd2d90e07459db32ba19c807c0bc3a2b37`
+- New SHA-256: `ec465b917236ae93032b035309c18c6eadd81c60c8dfd56e8e22d2b918488db3`
+- Visible text lines added: 4
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -22,7 +22,9 @@
+ Strategies
+ Our commitment to inclusive language
+ Strategies
+-NDIS support lists available
++Artificial intelligence (AI)
++Strategies
++Join us at an in-person community forum
+ Learn more
+ This page current as of
+-19 October 2026
++16 November 2026
+```

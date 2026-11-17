@@ -538,3 +538,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-17T00:17:42Z — changed
+
+- Previous SHA-256: `d17b55ddf939b6fec58eb2ea76e64f19e832e538f6f650f4ac499061493f1576`
+- New SHA-256: `4694a44a370387cf570c8fcc4622703dae8a7905d0bc9849b7949aa57c049c15`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -55,6 +55,7 @@
+ Chiến lược LGBTIQA+ (DOCX 2.7MB)
+ Main navigation sidebar
+ Strategies
++Artificial intelligence (AI)
+ Australia's Disability Strategy
+ Our commitment to inclusive language
+ Assistive Technology Strategy
+```
