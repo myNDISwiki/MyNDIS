@@ -1,5 +1,5 @@
 {
-  "bytes": 30566,
+  "bytes": 30565,
   "content_type": "application/pdf",
   "directory": "resources/39640312414a0a90bfaf727e684aafd9f52bbd5368d98cac0ec7992820fe20d4",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4024",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-17T01:57:14Z",
+  "last_changed": "2026-11-18T01:04:36Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Developmental interventions.pdf\""
   },
-  "sha256": "75281a9728c3458545c4a7452a29c9c7c9af3a67cbad0497ae278158f2832915",
+  "sha256": "8c4fa0cbfc87f9290c360db8734ee03f48281cab63f8bef172361815c560ada2",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4024"
 }

@@ -751,3 +751,9 @@ SHA-256: `991c99c336746751da56d8bfb7e57f93fc0eef549de05c011034dd44a7a3adac`
  Facebook
  (External website)
 ```
+
+## 2026-11-18T01:04:36Z — changed
+
+SHA-256: `5121e770be2d47e70dbaa8f9bd7943cf8148dfb9dd7aafce32d00210cd9c1515`
+
+No visible wording change; HTML bytes changed.

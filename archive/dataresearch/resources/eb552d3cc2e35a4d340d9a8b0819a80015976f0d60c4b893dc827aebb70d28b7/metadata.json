@@ -1,5 +1,5 @@
 {
-  "bytes": 5296,
+  "bytes": 5295,
   "content_type": "application/pdf",
   "directory": "resources/eb552d3cc2e35a4d340d9a8b0819a80015976f0d60c4b893dc827aebb70d28b7",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4015",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-17T01:57:14Z",
+  "last_changed": "2026-11-18T01:04:36Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Decisionmaking for access and planning.pdf\""
   },
-  "sha256": "fdc3f0f80df13555c3a02fe5f1b73097e0eaac778203c8a69e905bcf09367363",
+  "sha256": "b285c6e1bb531863f73bd2f956a0ed2a76abf18742cece37277a922ea75fd708",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4015"
 }

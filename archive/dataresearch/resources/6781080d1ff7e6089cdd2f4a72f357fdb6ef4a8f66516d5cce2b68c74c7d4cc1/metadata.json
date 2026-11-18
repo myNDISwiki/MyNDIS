@@ -1,5 +1,5 @@
 {
-  "bytes": 33409,
+  "bytes": 33408,
   "content_type": "application/pdf",
   "directory": "resources/6781080d1ff7e6089cdd2f4a72f357fdb6ef4a8f66516d5cce2b68c74c7d4cc1",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3698",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-17T01:57:14Z",
+  "last_changed": "2026-11-18T01:04:36Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  Tas ACT and other territories.pdf\""
   },
-  "sha256": "350a12c6ab2d6022bc29d7b2e104f1b227a31aac950bd1b08d1a7117fd1c6c24",
+  "sha256": "da0bbb7008a9bd9f54b0ab729c690282c26336a0501f0a3521a869b30506ab13",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3698"
 }
