@@ -909,3 +909,53 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `5bd2aa537aa1deb1c3931db7eba7095f0c11d23979470724703f2607dadf63db`
+- New SHA-256: `a4bcab9af6a975a4f8c6a5ef80159f84c97b8cb49b3d98f523ac16997dfb832a`
+- Visible text lines added: 11
+- Visible text lines removed: 14
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,24 +16,21 @@
+ '
+ Events and information sessions
+ Category
++Community Engagement
++Online Event
++Understanding the NDIS Webinar Series: Applying to the NDIS: Community Connections
++Event Date
++Wednesday, 9 December 2026
++Category
++Provider Engagement
++Sector Briefing – Plan Management Request for Information
++Event Date
++Wednesday, 25 November 2026
++Category
+ Provider Engagement
+ SDA Vacancy Payments Webinar
+ Event Date
+ Thursday, 10 December 2026
+-Category
+-Community Engagement
+-NDIS Community Forum in Kalgoorlie
+-Event Date
+-Tuesday, 24 November 2026
+-Event address
+-Kalgoorlie, WA 6430
+-Category
+-Community Engagement
+-NDIS Community Forum in Perth
+-Event Date
+-Tuesday, 17 November 2026
+-Event address
+-South Perth, WA 6151
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

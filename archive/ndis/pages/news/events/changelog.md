@@ -2018,3 +2018,76 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `ae800caa8821f57806308ea385a8bb9a74eaa7f84d429d88eadfc9b7a35585b4`
+- New SHA-256: `a932bd02557b47163b942d99514d3b159118d36932d9e97663d347f4fe136e8e`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,33 +12,21 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(10)
++(9)
+ Provider Engagement
++(2)
++Online Event
+ (1)
+ Event State or Territory
+ WA
+-(2)
++(1)
+ Event date
+ December 2026
+-(4)
++(5)
+ November 2026
+-(7)
++(6)
+ Search
+ Search
+-Category
+-Community Engagement
+-NDIS Community Forum in Perth
+-Join us at a community forum in Perth on 17 November 2026. At the forum, you can learn about what changes to the NDIS might mean for you. You’ll have the chance to ask questions about what’s happening and what you need to do.
+-Event Date
+-Tuesday, 17 November 2026
+-Event address
+-South Perth, WA 6151
+-Category
+-Community Engagement
+-An overview of changes to the NDIS laws
+-The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+-Event Date
+-Tuesday, 17 November 2026
+ Category
+ Community Engagement
+ Understanding the NDIS webinar: Working with Providers
+@@ -65,6 +53,18 @@
+ Tuesday, 24 November 2026
+ Event address
+ Kalgoorlie, WA 6430
++Category
++Provider Engagement
++Sector Briefing – Plan Management Request for Information
++The NDIA invites you to attend a Sector Briefing for Plan Management Providers to discuss the Plan Management reform Request for Information.
++Event Date
++Wednesday, 25 November 2026
++Category
++Community Engagement
++Understanding the NDIS webinar - Ways of managing your NDIS funding
++There are different ways you can manage the funding in your NDIS plan. Understanding your options can help you decide how you want your supports to be managed and what works best for you.
++Event Date
++Thursday, 26 November 2026
+ Pagination
+ 1
+ 2
+```

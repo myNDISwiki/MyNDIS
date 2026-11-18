@@ -2090,3 +2090,60 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `ba13bfa5b46b71b4016d137662ff76c509c82fb631eb69f94702e156feb9ba0a`
+- New SHA-256: `40c49c62c4f0aa76436b8acb43d5825ae72d8e22c20fd8e6e22726a9eefad340`
+- Visible text lines added: 19
+- Visible text lines removed: 19
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Find specialist disability accommodation (SDA)
+-16 November 2026
+-Strategies
+-16 November 2026
+-Artificial intelligence (AI)
+-16 November 2026
+-How to self-manage your funding
+-16 November 2026
++Work starts on commissioning NDIS plan management services
++19 November 2026
++Changes to plan management
++19 November 2026
++Understanding the NDIS Webinar Series: Applying to the NDIS: Community Connections
++18 November 2026
++Sector Briefing – Plan Management Request for Information
++18 November 2026
++Request for tender for Disability Representative and Carer Organisation Forum
++18 November 2026
+ FOI disclosure log
+-16 November 2026
+-Cultural and Linguistic Diversity Expert Advisory Group meeting summary September 2026
+-16 November 2026
+-SDA Vacancy Payments Webinar
+-16 November 2026
+-National Disability Insurance Scheme (NDIS), Esperance, 6450
+-16 November 2026
+-Quarterly Reports
+-13 November 2026
+-Tarsha’s willpower opens up world of possibilities
+-13 November 2026
++18 November 2026
++Participant Service Guarantee
++18 November 2026
++Plan renewals starting from 1 February 2027
++18 November 2026
++New 90-day claiming timeframe starts 1 December 2026
++18 November 2026
++Local Area Coordinator (LAC) partner, Northam, 6401
++18 November 2026
+```

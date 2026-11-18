@@ -1232,3 +1232,51 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `3d8f8094eedb41682d689df22e516d122dd26eb7d5898b96c60bc3f1d3e78183`
+- New SHA-256: `5b40bf7b97d7f68a4da1ac361b63042349ff3758fd3e9f253b495876a948f186`
+- Visible text lines added: 11
+- Visible text lines removed: 12
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,22 +31,21 @@
+ Learn more
+ Latest news
+ Category
+-News
+-Notification
+-Planned system updates 8 November 2026
++Media release
++Media release from the Minister
++Work starts on commissioning NDIS plan management services
+ Date
+-6 November 2026
+-Category
+-Media release
+-News
+-Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
+-Date
+-4 November 2026
++19 November 2026
+ Category
+ News
+-Changes to how SDA funding appears in NDIS plans
++Request for tender for Disability Representative and Carer Organisation Forum
+ Date
+-22 October 2026
++18 November 2026
++Category
++News
++New 90-day claiming timeframe starts 1 December 2026
++Date
++18 November 2026
+ Read more news
+ Participant experiences
+ Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
+```

@@ -2047,3 +2047,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 -16 November 2026
 +17 November 2026
 ```
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `05f09e438060aba6cb872f0cd6b3aca16b45ce441aa4d31b50a57960edca6eb0`
+- New SHA-256: `0642819a314cb38fc671a791bb865520bea71495eaae462eb856d813cd9c805b`
+- Visible text lines added: 8
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,10 +27,16 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 26/27-0891
++10/11/26
++Aggregated data regarding participants involved in the voluntary trial of the Support Needs Assessment.
++FOI 26/27-0891 (PDF 275KB)
++1 document released in full:
++1. S17 - Data - Voluntary Trial of Support Needs Assessment
+ FOI 25/26-3235
+ 9/11/2026
+ Documents from the last two years regarding pay and conditions for National Contact Centre (NCC) staff employed via Serco.
+-FOI 25/26-3235
++FOI 25/26-3235 (PDF 749KB)
+ 2 documents released in part, one document refused in full:
+ 1. Email - Psycho-Social Safety
+ 3. Email – Re: ATO Contact Centre - Same Job Same Pay Case
+@@ -9070,4 +9076,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-17 November 2026
++18 November 2026
+```

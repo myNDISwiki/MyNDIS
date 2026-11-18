@@ -2135,3 +2135,109 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `9f18d42073a2b53829093c726ad4a663ac879018f684bbbae53e0523679326fa`
+- New SHA-256: `f98bda95a7870d3b37ccfbe1aae9c1f376bac17865a29b388b1126b3a4d727a5`
+- Visible text lines added: 29
+- Visible text lines removed: 29
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,15 +48,15 @@
+ Provider news
+ (3)
+ Media release
+-(65)
++(66)
+ Media release from the Minister
+-(94)
++(95)
+ News - housing
+ (2)
+ Media statements
+ (5)
+ News
+-(338)
++(341)
+ Notification
+ (47)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ November 2026
+-(3)
++(7)
+ October 2026
+ (15)
+ September 2026
+@@ -362,6 +362,31 @@
+ Search
+ Search
+ Category
++Media release
++Media release from the Minister
++Work starts on commissioning NDIS plan management services
++The Australian Government is charging ahead with strengthening the integrity of the National Disability Insurance Scheme (NDIS), with work beginning to commission plan management services by establishing a new Plan Management Panel.
++Date
++19 November 2026
++Category
++News
++Request for tender for Disability Representative and Carer Organisation Forum
++The NDIA has released an approach to market for membership to the Disability Representative and Carer Organisation (DRCO) Forum.
++Date
++18 November 2026
++Category
++News
++New 90-day claiming timeframe starts 1 December 2026
++Providers and plan managers must review outstanding claims now and submit eligible claims as soon as possible before the new 90-day claiming timeframe starts.
++Date
++18 November 2026
++Category
++News
++Plan renewals starting from 1 February 2027
++From 1 February, the NDIA will introduce plan renewals. Plan renewals will replace plan continuations, sometimes known as ‘plan rollovers’.
++Date
++18 November 2026
++Category
+ News
+ Planned system updates 15 November 2026
+ There are upcoming multi-system updates.
+@@ -374,31 +399,6 @@
+ There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+ Date
+ 6 November 2026
+-Category
+-Media release
+-News
+-Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
+-The Australian Government’s Fraud Fusion Taskforce (FFT) has charged five people with fraud-related offences during a coordinated national operation targeting entities which allegedly took $235 million in fraudulent Australian Government Payments and Programs (AGPPs) claims.
+-Date
+-4 November 2026
+-Category
+-News
+-Justice Advisory Panel advice
+-The NDIA has published advice provided by the Justice Advisory Panel, which is focused on improving outcomes for people with disability who interact with the justice system.
+-Date
+-29 October 2026
+-Category
+-Notification
+-Planned system updates 24-25 October 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+-Date
+-23 October 2026
+-Category
+-News
+-Changes to how SDA funding appears in NDIS plans
+-From 19 October 2026, the full amount of Specialist Disability Accommodation funding a participant is eligible for will be included in their NDIS plan when it is approved.
+-Date
+-22 October 2026
+ Pagination
+ 1
+ 2
+```

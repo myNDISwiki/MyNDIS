@@ -1004,3 +1004,54 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `a847d04d48ef94e0b239c62cb03a207730b4c21c25e67efb00c94a225e6d7adf`
+- New SHA-256: `c16fa7e626ac32a5a472b73ad8d4946e499ebe748d0ab15879a32bf0afa73e4c`
+- Visible text lines added: 8
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,7 +21,7 @@
+ NT
+ (1)
+ November 2026
+-(1)
++(2)
+ October 2026
+ (3)
+ September 2026
+@@ -110,6 +110,13 @@
+ Search
+ Category
+ Media release
++Media release from the Minister
++Work starts on commissioning NDIS plan management services
++The Australian Government is charging ahead with strengthening the integrity of the National Disability Insurance Scheme (NDIS), with work beginning to commission plan management services by establishing a new Plan Management Panel.
++Date
++19 November 2026
++Category
++Media release
+ News
+ Five people charged as investigations continue into alleged Commonwealth fraud of up to $235 million after AFP-led period of action
+ The Australian Government’s Fraud Fusion Taskforce (FFT) has charged five people with fraud-related offences during a coordinated national operation targeting entities which allegedly took $235 million in fraudulent Australian Government Payments and Programs (AGPPs) claims.
+@@ -142,13 +149,6 @@
+ As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
+ Date
+ 24 September 2026
+-Category
+-Media release
+-Media release from the Minister
+-Stronger NDIS integrity controls save billions
+-Stronger NDIS integrity systems put in place by the Australian Government have delivered $2.1 billion in savings and benefits through stopping non-compliant payments and protecting participant funding from misuse.
+-Date
+-23 September 2026
+ Pagination
+ 1
+ 2
+```

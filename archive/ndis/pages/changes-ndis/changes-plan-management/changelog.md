@@ -470,3 +470,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `c7bff587c4451f008d3cef6ebdf5952a291b3c972133565c8acd3273607505a4`
+- New SHA-256: `57d4a4105f157e608126d31d3e9a8714b20c6d8d9f417c22744f7362e7144bc5`
+- Visible text lines added: 10
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,13 +5,20 @@
+ Print this page
+ Save page as PDF
+ On this page:
++Find out when changes to plan management will happen.
+ What are the changes
+ Why we’re making the changes
+ How we’ll make the changes
+ On this page:
+-1 - What are the changes
+-2 - Why we’re making the changes
+-3 - How we’ll make the changes
++1 - Find out when changes to plan management will happen.
++2 - What are the changes
++3 - Why we’re making the changes
++4 - How we’ll make the changes
++Find out when changes to plan management will happen.
++Update:
++A
++request for information (RFI)
++is now open to help inform the design of the new plan management panel. Interested plan managers are encouraged to review the RFI and submit their response.
+ We’re making
+ changes to the NDIS
+ to improve the quality and integrity of plan management services and be more responsive to participant needs.
+```

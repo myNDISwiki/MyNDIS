@@ -1168,3 +1168,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Understanding the NDIS
  About the NDIS
 ```
+
+## 2026-11-18T23:06:31Z — changed
+
+- Previous SHA-256: `d57b7df03877b9bd1dc492c3de153ffbaff73d47533f8ced2f084e2f641ae24d`
+- New SHA-256: `3351aef4b7add57fb3a4cfbfd0913a2fe2adc49a93fc4fb7b6db00480d289c62`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
