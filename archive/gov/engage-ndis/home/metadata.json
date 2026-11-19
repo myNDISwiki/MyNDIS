@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-18T23:08:55Z",
+  "checked_at": "2026-11-19T23:14:53Z",
   "id": "engage-ndis-home",
-  "sha256": "3e578487c48d006525a26ca18ecdfa7f6f14c0ec41879538ada97f9fc3dbbf1d",
+  "sha256": "2f830136549f158d18b2d4e0bfd2201a541438d533afa78063e997806750223b",
   "snapshot_note": "SHA-256 is calculated before credential redaction.",
   "snapshot_redactions": [
     "mapbox_access_token:1"
