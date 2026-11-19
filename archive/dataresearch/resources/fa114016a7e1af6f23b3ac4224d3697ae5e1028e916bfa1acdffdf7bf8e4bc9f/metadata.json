@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4078",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-18T01:04:36Z",
+  "last_changed": "2026-11-19T00:23:24Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Copyright.pdf\""
   },
-  "sha256": "564202cc08d8bf8c8219170628e71c755ce2383cdfe94f451a88fb34b1b83166",
+  "sha256": "d7ecc03c91ae8769f2c1c7e30f40b46ec9ca503b693e2075d0a2e84c3edb5d2b",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4078"
 }

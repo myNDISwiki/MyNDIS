@@ -1,5 +1,5 @@
 {
-  "bytes": 67805,
+  "bytes": 67806,
   "content_type": "application/pdf",
   "directory": "resources/5e486e8890d913888a8cd604de899e49a603ebdbdec74c1c9a6f345c29d03527",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3701",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-18T01:04:36Z",
+  "last_changed": "2026-11-19T00:23:24Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Market monitoring  Qld.pdf\""
   },
-  "sha256": "0baf7451aabcd14ce550a8e1e3f9fdd6a5ba7e85d0a43fa163782bb52efd535c",
+  "sha256": "f53d250d007d71f566259aa038f7d6fb8b1a8bb349742a0a5252f24af3d47570",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3701"
 }

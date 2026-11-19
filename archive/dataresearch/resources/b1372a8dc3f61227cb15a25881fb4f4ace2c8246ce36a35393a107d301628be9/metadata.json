@@ -1,5 +1,5 @@
 {
-  "bytes": 57397,
+  "bytes": 57398,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/b1372a8dc3f61227cb15a25881fb4f4ace2c8246ce36a35393a107d301628be9",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/environmental-scan-specialist-disability-accommodation",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-18T01:04:36Z",
+  "last_changed": "2026-11-19T00:23:24Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fhome-and-living-supports%2Fenvironmental-scan-specialist-disability-accommodation",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -146,7 +146,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 17 Nov 2026 02:47:30 GMT"
   },
-  "sha256": "179fbfdcd5b4c7e0cbb39a7f65a0242422386611e42dc2c46c62aa3e6bb10c30",
+  "sha256": "e15516d6821824fdca1c4f9e9d06b4b9481e9c96af1fbe53f82e829163b13da9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/home-and-living-supports/environmental-scan-specialist-disability-accommodation"
 }

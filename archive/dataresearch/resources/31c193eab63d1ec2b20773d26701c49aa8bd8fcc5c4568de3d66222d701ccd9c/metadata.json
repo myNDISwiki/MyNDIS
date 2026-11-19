@@ -1,5 +1,5 @@
 {
-  "bytes": 19196,
+  "bytes": 19195,
   "content_type": "application/pdf",
   "directory": "resources/31c193eab63d1ec2b20773d26701c49aa8bd8fcc5c4568de3d66222d701ccd9c",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4047",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-18T01:04:36Z",
+  "last_changed": "2026-11-19T00:23:24Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Social inclusion and community access research.pdf\""
   },
-  "sha256": "34d275eac9b3e97dba995a9e164c845db7d63b67826e6592490b0215f40d157e",
+  "sha256": "f3d9e76117b468d5e0447698b871dc34b5fe67a9a311d69bb272e355cf6c1e75",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4047"
 }

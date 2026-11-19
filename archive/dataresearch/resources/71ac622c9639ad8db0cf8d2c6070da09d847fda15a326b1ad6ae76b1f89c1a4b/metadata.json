@@ -1,5 +1,5 @@
 {
-  "bytes": 3537,
+  "bytes": 3536,
   "content_type": "application/pdf",
   "directory": "resources/71ac622c9639ad8db0cf8d2c6070da09d847fda15a326b1ad6ae76b1f89c1a4b",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4075",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-18T01:04:36Z",
+  "last_changed": "2026-11-19T00:23:24Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"SDA Market Information Statement.pdf\""
   },
-  "sha256": "32fa87ff9f2550a94c53ad250739823a18dcfe118a85b8935e0127bf16c28215",
+  "sha256": "574b4fc094bd0cf96074a66f0211a99f34c6fe3529f78810d0cb1b6b0b1ebbed",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4075"
 }
