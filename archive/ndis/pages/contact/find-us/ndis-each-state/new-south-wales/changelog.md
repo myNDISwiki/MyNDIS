@@ -534,3 +534,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `d798dd211738edb0b1c906f6794f612c5ef29e04dd2bfdf7263335c001f96ce3`
+- New SHA-256: `5f92c24fad1b2515b4a19f0e67a1720beb596053a7dc48b0d48db5d9087e27ac`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -108,9 +108,9 @@
+ EACH
+ NDIS participants and disaster management
+ The following websites can help you prepare and respond to emergencies and disasters:
+-NSW Government Emergency website
+-Bushfire Survival Plan – NSW Rural Fire Service
+-Things you can do before a flood – NSW State Emergency Service
++Emergencies in NSW - NSW Government
++Plan and prepare - NSW Rural Fire Service
++Plan and prepare, flood or storm - NSW State Emergency Service
+ Carers - NSW SES
+ New South Wales statistics as at 30 June 2026
+ 230,427 people in New South Wales benefit from the NDIS
+```

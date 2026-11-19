@@ -534,3 +534,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `5e6424b20dec3cf4d743f2f9c855bbce5b246823c00b2d921bfcf4129cdb95a4`
+- New SHA-256: `add82fe493804f57b553e0e4f05f86847302a77b3f698ebba6485a68742202b9`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -53,7 +53,7 @@
+ NDIS participants and disaster management
+ The following websites can help you prepare and respond to emergencies and disasters:
+ Secure NT website
+-Cyclones – NT Police, Fire and Emergency Services
++Cyclones - NT Police, Fire and Emergency Services
+ Northern Territory Fire and Rescue Service
+ Road Report NT
+ BushTel - Community Profiles
+```

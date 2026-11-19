@@ -525,3 +525,26 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `edfe92776c90cc5e449ea16d3e79493d5b7b2e569f9cd4140dbf48f237c6e87d`
+- New SHA-256: `e1c8ef064646f4f306324d89ccef4d32e3045f13777ae5e28d484350b04d524e`
+- Visible text lines added: 2
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -85,6 +85,8 @@
+ NDIS participants and disaster management
+ The following website can help you prepare and respond to emergencies and disasters:
+ Department of Fire and Emergency Services
++Hazard Information – Department of Fire and Emergency Services
++What can you do to prepare? Emergency WA
+ Western Australia statistics as at 30 June 2026
+ 70,243 people in Western Australia benefiting from the NDIS
+ 51,991 people receiving support for the first time
+```

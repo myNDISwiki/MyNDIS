@@ -786,3 +786,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `ce6d13a6f6b40aa3d7687e9b8e9562117225504c96950265d0fec907d2b6e572`
+- New SHA-256: `b38f5ae24ea3d9a9022f53ac66183d7ac9744d6733cfb95737aea03f6385eb58`
+- Visible text lines added: 4
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -119,10 +119,10 @@
+ Intereach careers
+ NDIS participants and disaster management
+ The following websites can help you prepare and respond to emergencies and disasters:
+-Department of Health and Human Services ─ Vulnerable people in emergencies policy
+-Emergency Management Victoria
+-Fire management Planning ─ Emergency Management Victoria
+-Flood safe ─ Victoria State Emergency Service
++Emergency Management - Victorian Department of Families, Fairness and Housing
++Flood safe - Victoria State Emergency Service
++Plan and prepare for fire - Victorian Government
++Victoria State Emergency Service
+ Victoria statistics as at 30 June 2026
+ 210,846 people in Victoria benefiting from the NDIS
+ 145,017 people receiving support for the first time
+```

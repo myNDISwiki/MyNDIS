@@ -786,3 +786,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `eb6d6d514ff3f54221fdc9f158dc9c9b89e4037474b160c0e4f5488f8eced8c3`
+- New SHA-256: `be8117dea652f65ff8d8174514cdeac118aaf3db94a09fb6fad491fc5ef9bd4d`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -95,6 +95,7 @@
+ SA State Emergency Service
+ Be prepared for a flood – South Australian State Emergency Service
+ Prepare for a fire – South Australian Country Fire Service
++Resources – South Australian State Emergency Service
+ South Australia statistics as at 30 June 2026
+ 67,270 people in South Australia benefiting from the NDIS
+ 52,530 people receiving support for the first time
+```

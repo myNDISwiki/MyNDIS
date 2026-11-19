@@ -2085,3 +2085,53 @@ The page bytes changed, but no visible main-content wording change was detected.
 -17 November 2026
 +18 November 2026
 ```
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `0642819a314cb38fc671a791bb865520bea71495eaae462eb856d813cd9c805b`
+- New SHA-256: `4a389474cf6cb5cf7998c60356003383e52d7cb6544ce67822291d645ad905b5`
+- Visible text lines added: 22
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,8 +27,28 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 26/27-0105
++03/09/2026
++Internal guidance documents about applying human-rights and child-rights obligations in decisions affecting children with disability.
++FOI 26/27-0105 (PDF 3.2MB)
++3 documents released in part:
++1. Training material - NDIS Supports for Behaviour: Early Childhood – partial release under sections 47E(d) and 47F of FOI Act
++2. Knowledge Article - EC PEC - Capacity building - Regulated restrictive practices v3.0 - partial release under section 47E(d) of FOI Act
++3. Knowledge Article - EC PEC – Early childhood intervention supports overview - partial release under section 47E(d) of FOI Act
++FOI 26/27-0106
++10/11/2026
++Internal guidance documents about disability discrimination, reasonable adjustments and accessible service delivery.
++FOI 26/27-0106 (PDF 3MB)
++3 documents released in full. 4 documents released in part under section 47E(d) of the FOI Act:
++1. Guide – Safeguarding the participant’s interests v8.0 – released in part
++2. Guide - Conversation Style Guide v1.0
++3. Guide - Conversation Style Guide Appendix A v1.0
++4. Guide - Conversation style guide appendix B v2.0
++5. Guide-Assist Comms-Disability related interpreting translation supports V3.0 – released in part
++6. Guide–Assist communication–Accessible formats V4.0 – released in part
++7. Book or update disability related interpreting services for the participant V3.0 – released in part
+ FOI 26/27-0891
+-10/11/26
++10/11/2026
+ Aggregated data regarding participants involved in the voluntary trial of the Support Needs Assessment.
+ FOI 26/27-0891 (PDF 275KB)
+ 1 document released in full:
+@@ -9076,4 +9096,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-18 November 2026
++19 November 2026
+```

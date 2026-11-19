@@ -543,3 +543,31 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `47f6954e421c005dcfb4b3a66c6d6f6a847075ef537460d6b2d7833ee0d03345`
+- New SHA-256: `522cc27837e331c9ccdaf7c820d4246ee151e188e28fd63eea792acf7bacd7bf`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -58,10 +58,10 @@
+ Baptcare careers
+ NDIS participants and disaster management
+ The following websites can help you prepare and respond to emergencies and disasters:
+-State Emergency Management Committee ─ Emergency Management Framework for Vulnerable People
+ Tasmanian State Emergency Service
+-Flood preparation – Tasmanian State Emergency Services
+-Bushfire ready neighbourhoods – Tasmanian Government
++Storm and flood preparation – Tasmanian State Emergency Services
++Bushfires  – be prepared – Tasmanian Government
++Help for Tasmanians with disability – Tas State Emergency Services
+ Tasmania statistics as at 30 June 2026
+ 16,896 people in Tasmania benefiting from the NDIS
+ 12,665 people are now receiving support for the first time
+```

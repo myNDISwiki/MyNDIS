@@ -2241,3 +2241,62 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `f98bda95a7870d3b37ccfbe1aae9c1f376bac17865a29b388b1126b3a4d727a5`
+- New SHA-256: `360071f26cef012d146c14466d5c8cf0e2b3e3171c9ff930570ab9f993f617fc`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -46,7 +46,7 @@
+ Fraud and compliance
+ (29)
+ Provider news
+-(3)
++(4)
+ Media release
+ (66)
+ Media release from the Minister
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ November 2026
+-(7)
++(8)
+ October 2026
+ (15)
+ September 2026
+@@ -362,6 +362,12 @@
+ Search
+ Search
+ Category
++Provider news
++Help shape the Provider Newsletter
++Don’t currently subscribe to the Provider Newsletter? We’d like to hear from you.
++Date
++19 November 2026
++Category
+ Media release
+ Media release from the Minister
+ Work starts on commissioning NDIS plan management services
+@@ -392,13 +398,6 @@
+ There are upcoming multi-system updates.
+ Date
+ 13 November 2026
+-Category
+-News
+-Notification
+-Planned system updates 8 November 2026
+-There are upcoming multi-system updates. Planned outages allow us to update and improve our systems.
+-Date
+-6 November 2026
+ Pagination
+ 1
+ 2
+```

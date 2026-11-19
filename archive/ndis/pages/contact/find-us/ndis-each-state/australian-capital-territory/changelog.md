@@ -561,3 +561,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `4442b5638083e5778ad50c5e710a5763daf7735621610ec0c9eb0fa46d1603e8`
+- New SHA-256: `575b3a92b8dfe51b5157d68d7a2fb18461fe9c6531594e835eeca2c8164f52bd`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -55,6 +55,7 @@
+ ACT Emergency Services Agency
+ Fire and Rescue – ACT Emergency Services Agency
+ Floods – ACT Emergency Services Agency
++Be Emergency Ready – ACT Emergency Services Agency
+ Australian Capital Territory statistics as at 30 June 2026
+ 12,695 people in the ACT benefiting from the NDIS
+ 10,085 people receiving supports for the first time
+```

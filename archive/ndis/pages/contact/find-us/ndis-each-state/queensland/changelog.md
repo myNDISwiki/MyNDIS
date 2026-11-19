@@ -570,3 +570,31 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-19T23:06:32Z — changed
+
+- Previous SHA-256: `ee5bb145a7f9b7fa614ce6e4095343f4fb32390f7e451aaabd7437800c28d940`
+- New SHA-256: `914d597232f28f03362f51b1862d9e2b2fd43122ec6365875c918121e17fd7a1`
+- Visible text lines added: 3
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -100,10 +100,11 @@
+ Mission Australia Careers
+ NDIS participants and disaster management
+ The following websites can help you prepare and respond to emergencies and disasters:
+-Queensland Government’s Disaster and Emergencies webpage
++Support for people with vulnerabilities in disasters – Queensland Government
+ Get Ready Queensland
+ Cyclone and storm surge preparation checklist – Queensland Government
+-Queensland Fire and Emergency Services
++Disaster support and recovery – Queensland Government
++Disasters – Queensland State Government
+ Queensland statistics as at 30 June 2026
+ 166,633 people in Queensland benefiting from the NDIS
+ 123,803 people receiving support for the first time
+```
