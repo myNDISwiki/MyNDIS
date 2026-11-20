@@ -622,3 +622,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `a288e0747b35d7ae14d658ff52a8e37830b49fda9d78bce6900c99de97e197df`
+- New SHA-256: `54b084243c486f72b253037ce5151d43a261e63b197ebcdca844bda1b8469101`
+- Visible text lines added: 6
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -19,8 +19,13 @@
+ (PDF 10MB)
+ Quarterly report to disability ministers Q1 2026-27 Appendices
+ (PDF 819KB)
++Quarterly report to disability ministers Q1 2026-27 Presentation
++(PDF 1.6MB)
++Quarterly report to disability ministers Q1 2026-27 Easy Read
++(PDF 12MB)
++Quarterly report to disability ministers Q1 2026-27 Easy Read
++(DOCX 74KB)
+ Supplement to Quarterly Report Appendices 2026-27
+-The 2026-27 Q1 presentation and Easy Read version of the quarterly report will also be available soon.
+ Main navigation sidebar
+ Publications
+ Annual Report
+```

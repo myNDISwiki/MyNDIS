@@ -508,3 +508,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  changes to the NDIS
  to improve the quality and integrity of plan management services and be more responsive to participant needs.
 ```
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `57d4a4105f157e608126d31d3e9a8714b20c6d8d9f417c22744f7362e7144bc5`
+- New SHA-256: `a5ee762f336d0db573dd11966c22d3ebdb06fdf436024609b205df4e6d74ea52`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

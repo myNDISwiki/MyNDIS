@@ -808,3 +808,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  67,270 people in South Australia benefiting from the NDIS
  52,530 people receiving support for the first time
 ```
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `be8117dea652f65ff8d8174514cdeac118aaf3db94a09fb6fad491fc5ef9bd4d`
+- New SHA-256: `4c06d46efc24ea5b0dc7eb7d0ba469cdf9f48b505167c2fdd57c3495464015e9`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

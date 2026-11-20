@@ -815,3 +815,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  210,846 people in Victoria benefiting from the NDIS
  145,017 people receiving support for the first time
 ```
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `b38f5ae24ea3d9a9022f53ac66183d7ac9744d6733cfb95737aea03f6385eb58`
+- New SHA-256: `36f44b034080e7d1645d2b56f905603feeef2cd332219e586264416237413db0`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

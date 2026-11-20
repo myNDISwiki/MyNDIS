@@ -548,3 +548,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  70,243 people in Western Australia benefiting from the NDIS
  51,991 people receiving support for the first time
 ```
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `e1c8ef064646f4f306324d89ccef4d32e3045f13777ae5e28d484350b04d524e`
+- New SHA-256: `241d0c2a5faf0bd62d63bd2276d87b35e5d5a46425183e9e7f1731678d5bfea9`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

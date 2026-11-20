@@ -583,3 +583,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  12,695 people in the ACT benefiting from the NDIS
  10,085 people receiving supports for the first time
 ```
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `575b3a92b8dfe51b5157d68d7a2fb18461fe9c6531594e835eeca2c8164f52bd`
+- New SHA-256: `f1e5cfb95eed4cda203021e4f5562766b3b889fd2b6e62b8743d19e5cfcdbd6d`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

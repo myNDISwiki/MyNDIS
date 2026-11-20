@@ -581,3 +581,76 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `7f64625ea9171c8e3b18ded0d0dda52f42c08d9080f157b1bb7f5cfdd9933b9f`
+- New SHA-256: `3dfd8ce925d48cb295800254708c3d1307f089ea0c0a46816e71cabe10cba1c3`
+- Visible text lines added: 24
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -11,15 +11,19 @@
+ Step 2: Access your plan and budget
+ Step 3: Make a claim (for self-managed participants)
+ Step 4: Manage your plan
++Videos
++Privacy notice
++Terms and conditions
+ Accessibility statement
+-Videos
+ On this page:
+ 1 - Step 1: Download, install, and open the app
+ 2 - Step 2: Access your plan and budget
+ 3 - Step 3: Make a claim (for self-managed participants)
+ 4 - Step 4: Manage your plan
+-5 - Accessibility statement
+-6 - Videos
++5 - Videos
++6 - Privacy notice
++7 - Terms and conditions
++8 - Accessibility statement
+ Step 1: Download, install, and open the app
+ Before you get started
+ To use the my NDIS app, you’ll need to have:
+@@ -99,11 +103,6 @@
+ Keep a record of your claims
+ You need to keep records of things like invoices and receipts, dates and any notes you have about the NDIS supports you claim if you’re self-managed. We may ask you to provide evidence of your claims.
+ Keeping records also helps you keep track of how much money you’ve spent and how much funding you have left.
+-Accessibility statement
+-Learn about how we support accessibility and what the my NDIS app's accessibility features are in the accessibility statement.
+-Download the accessibility statement:
+-Accessibility statement
+-(DOCX 24KB)
+ Videos
+ my NDIS app overview
+ Learn about the my NDIS app in this video.
+@@ -118,6 +117,23 @@
+ You can find more
+ videos about the my NDIS app
+ on our YouTube channel.
++Privacy notice
++Download the privacy notice:
++Privacy notice
++(PDF 174KB)
++Privacy notice
++(DOCX 115KB)
++Terms and conditions
++Download the terms and conditions:
++Terms and conditions
++(PDF 203KB)
++Terms and conditions
++(DOCX 89KB)
++Accessibility statement
++Learn about how we support accessibility and what the my NDIS app's accessibility features are in the accessibility statement.
++Download the accessibility statement:
++Accessibility statement
++(DOCX 24KB)
+ Main navigation sidebar
+ For participants
+ Creating a plan
+```

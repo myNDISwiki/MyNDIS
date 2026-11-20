@@ -561,3 +561,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  New South Wales statistics as at 30 June 2026
  230,427 people in New South Wales benefit from the NDIS
 ```
+
+## 2026-11-20T22:43:39Z — changed
+
+- Previous SHA-256: `5f92c24fad1b2515b4a19f0e67a1720beb596053a7dc48b0d48db5d9087e27ac`
+- New SHA-256: `9976803d65d7725edbbf1dda983240af9b45e3180aed4080cf2efd352bc63ee3`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
