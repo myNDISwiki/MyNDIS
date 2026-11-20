@@ -1,5 +1,5 @@
 {
-  "bytes": 12535,
+  "bytes": 12534,
   "content_type": "application/pdf",
   "directory": "resources/7ca1bf025d67b5e6e111e0ce12af0559a70c8118a4061d9e93f4ac6a8d6e1d5a",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3994",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-19T00:23:24Z",
+  "last_changed": "2026-11-20T00:41:52Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Autism.pdf\""
   },
-  "sha256": "896352cd1643ec0478cc40c3535371ea5814bcb7ad816aab7cc04df45af1bcfc",
+  "sha256": "177a41394e6e6ed8c85e6120215550633dd59676e7144ff99fb3a821f1837cf6",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3994"
 }

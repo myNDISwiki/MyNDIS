@@ -1,5 +1,5 @@
 {
-  "bytes": 30482,
+  "bytes": 30483,
   "content_type": "application/pdf",
   "directory": "resources/a7b192d12e5374a24a6a0b9769a25ff8268e04bcfd840ff63c6c51554cf4ea98",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4009",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-19T00:23:24Z",
+  "last_changed": "2026-11-20T00:41:52Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Specialist Disability Accommodation SDA Data.pdf\""
   },
-  "sha256": "075f92122bbf02f71679c44374a7c9a1cd28b90f684d5c63f65cc9641fd3799a",
+  "sha256": "070febddc0e15070410edb19647beaa324a0e41ae5e218b62047a9aa7586c2bf",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4009"
 }

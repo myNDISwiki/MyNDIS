@@ -1,5 +1,5 @@
 {
-  "bytes": 105359,
+  "bytes": 105361,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/3fbcd31e8bd3c97b217aad53ec51312a9e927011d71d79793ccc55c4e2ebb630",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-qld",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-19T00:23:24Z",
+  "last_changed": "2026-11-20T00:41:52Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-qld",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -302,7 +302,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 17 Nov 2026 00:17:31 GMT"
   },
-  "sha256": "c6a2d1487edbc2f0195d4d441822bcba9bc9eb165a928cf660f8a99d13c692db",
+  "sha256": "04671449f10ac6dc7b0423ab340b89ede954bd21f2567d04508575839673d1e5",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-qld"
 }
