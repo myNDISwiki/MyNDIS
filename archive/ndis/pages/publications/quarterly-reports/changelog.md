@@ -651,3 +651,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Publications
  Annual Report
 ```
+
+## 2026-11-21T21:41:57Z — changed
+
+- Previous SHA-256: `54b084243c486f72b253037ce5151d43a261e63b197ebcdca844bda1b8469101`
+- New SHA-256: `8988731d4d996c115be45ce01c05c3150511a2bac3fb9b4156bea6315bc3ba60`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
