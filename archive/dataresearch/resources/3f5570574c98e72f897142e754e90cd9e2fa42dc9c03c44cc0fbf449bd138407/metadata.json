@@ -1,5 +1,5 @@
 {
-  "bytes": 12604,
+  "bytes": 12605,
   "content_type": "application/pdf",
   "directory": "resources/3f5570574c98e72f897142e754e90cd9e2fa42dc9c03c44cc0fbf449bd138407",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/3999",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-20T00:41:52Z",
+  "last_changed": "2026-11-21T00:04:38Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Hearing Impairment.pdf\""
   },
-  "sha256": "81f22a570e6e2e0088aa6a5a99361ba8cb53431daca62b3ad8619563a7e146c4",
+  "sha256": "01e345c288ea308e2fdfd5ce4d6a655d52d3dc484b57d060d0ac0aa86739175c",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/3999"
 }
