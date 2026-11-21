@@ -7,35 +7,27 @@
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/",
     "https://www.health.gov.au/resources/publications/thriving-kids-advisory-group-final-report"
   ],
-  "checked_at": "2026-11-13T22:35:17Z",
+  "checked_at": "2026-11-21T22:10:41Z",
   "status": "partial",
   "fetch_failures": [
+    "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/securing-the-ndis-for-future-generations: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/about: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/news/new-price-limits-set-for-ndis-supports?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/news?sort_by=field_h_date_published_value&sort_order=DESC: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/publications/technical-advisory-group-for-ndis-functional-capacity-communique-october-2026?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-safeguards-for-high-support-needs-participants-auslan: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-safeguards-for-high-support-needs-participants-auslan?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/videos/funding-changes-for-ndis-supports-auslan: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/resources?sort_by=field_h_resource_date_value&sort_order=DESC: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/funding-changes-for-ndis-supports: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/resources/publications/ndis-provider-and-worker-registration-taskforce-advice: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/committees-and-groups/ndis-reform-advisory-committee: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/collections/engagements-on-ndis-rules: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
+    "https://www.health.gov.au/resources/publications/securing-the-ndis-for-future-generations-timeline: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/committees-and-groups/ndis-reform-advisory-committee?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
+    "https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
     "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422"
+    "https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
+    "https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422"
   ],
   "items": {
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx": {
-      "sha256": "34e2650b698d565724e69c6aac82b32db196afd87e26e468f4519fd3bd9bf413",
+      "sha256": "f3419431d8e15069cf30ed6216f3aebc9b5f559fc68a6ad8812bedafeabb3d76",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx",
@@ -43,7 +35,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf": {
-      "sha256": "4cdc4341c3daf077fce52dbfe9b1a1d1723cbafbcc5e725d05fd6b51bb036145",
+      "sha256": "43c7f27c31e357b9636cf1023ffd396c5c32815204b4d9590237e870f6d46ae9",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf",
@@ -51,7 +43,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx": {
-      "sha256": "66fd29849fa38a25a977ba01dba0e69c32481eaac595fadd8f7042aee47b2a7e",
+      "sha256": "a0ce2c69b35b038c0590e3ad3462eefbf41476f79233a1ad32a31b33b23d8d41",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx",
@@ -59,7 +51,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf": {
-      "sha256": "f27d85f36477d7fb7d24cf787972fef1817a3aff98227436dc577063dabbacf8",
+      "sha256": "ef38a1e4be64dabc91c7919f352822dbbf018457e114ca2b8ec075438cdff36b",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf",
@@ -67,7 +59,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx": {
-      "sha256": "93b138bf4497c4cbf155a4bf9871de429f81bf826e718f1737c217981bb7aa3e",
+      "sha256": "6cd563e869abd014baa6e1f88bd11a114e60bf6de85962b37cdc2111fae669fa",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx",
@@ -75,7 +67,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf": {
-      "sha256": "275e11729a03043f7c4949d5fad34e2069085295ee9bba1d9836b9e35104bdff",
+      "sha256": "96b928a3711e1ba233671c7ddf1b87be2cf02c4a22340e4675eca66d7babd000",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf",
@@ -83,7 +75,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx": {
-      "sha256": "eeb3255bd725eac5e19c306fe3437563643660ef90cdffd37baa388c41dbf3b3",
+      "sha256": "39e11922b2208da15497389788fb1f428db8f05beee180afe761c3fbd6bef87f",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx",
@@ -91,7 +83,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf": {
-      "sha256": "4bc05feec20dfa128f9931d093f3bddf89bf276c2e3e2fd614fc2b8b22b44faf",
+      "sha256": "5571d2aff6dee16cc23400d35b31939d7d985a3302eb50ab2d5c236a5e0b6e89",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf",
@@ -99,7 +91,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx": {
-      "sha256": "bdb25a36197d4de2b2c3a5a11f82597bf030aadcd7855545554367dcfbe57cf4",
+      "sha256": "7b8eb786202bd890c3dbe15bb6b4700cfa230a3d8604bbc86d1978c2e74bfce2",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx",
@@ -107,7 +99,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf": {
-      "sha256": "4eb8eb0393cae134ddad414e0bbcd5d05706d93ddb8201242001680bab5bc814",
+      "sha256": "bde684e49ec1a3fcd4d1414896be19526721e9165269fd1c404dc375de4c486e",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf",
@@ -115,7 +107,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx": {
-      "sha256": "9314e6659e384f4f9d8a7781e5e55354294bbfc00b272a734f1e13a63db93c8e",
+      "sha256": "b3fd0894e52046145b3028ecd54bc88ff8fceee877ac1d2e1912ef90ddf14384",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx",
@@ -123,7 +115,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf": {
-      "sha256": "f3db22cff00c7e6b30867c05d913199d2d4b868da82496584841b2266416be7d",
+      "sha256": "f5e4423ca6d862af47d5ecb15fe14676d1123adc1669aaf891ebd25f802b4628",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf",
@@ -131,7 +123,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx": {
-      "sha256": "8bbcc1b974539f9ef18557330d9463c4e1a4eb94c440eb28fad4b8b22f99c49e",
+      "sha256": "f3a08e8e044e7e81f6c074fcb501ec9a7468b240597e75cd5d3fca6c459edc95",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx",
@@ -139,7 +131,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf": {
-      "sha256": "f868dc794b9bf0169ee8a77cc78ca414aa113aeb69348905244a7e191d08e35d",
+      "sha256": "2f3e0c55bb4b17b828034e194703767251cb0bd0398e6ef91db6ec202dec53a4",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf",
@@ -147,7 +139,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf": {
-      "sha256": "1851921f49f92c209bfd7fc35ab9a6500f1ee1d5a8e759df4e19832338cafb29",
+      "sha256": "a6628ba9488fba04979a81880101a480d025f71851cc4d2e63ad7591e5c7920c",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf",
@@ -155,7 +147,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx": {
-      "sha256": "ca3bbbaafd58e2a76b1cc490ea9e160bc44233a882b952b77771a2f954f22ed4",
+      "sha256": "8247049fa0204f94aade94294748882ea25c10e01cfd308e4770d9cfe83c8351",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx",
@@ -163,7 +155,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf": {
-      "sha256": "5d2a1fcee12ecabb38c88ccf1d0ac99dc6a42c05c2cbf8f49b606467239b0a21",
+      "sha256": "ae2fabd35878da4afd3ec1679ea57ae4ad7fa1c15d2fe218d21ae16f7f78d227",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf",
@@ -171,7 +163,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx": {
-      "sha256": "b1fb0c1c4b213ffd809b35c0281e58021f8889755ed8f7cc4e6a47c5e893a1e8",
+      "sha256": "0726e10052e83c9aa96a88ff4b2acd70dee95b84dde531b412f12af172d41385",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx",
@@ -179,7 +171,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf": {
-      "sha256": "e6d1ab53215c269cfa400e84910c6d4a50e6e5957e0d15e288aa55a0d2135b30",
+      "sha256": "6b350d0918e2d4d8686facc6d372c97ccd79a7dec860cc951c86818690199670",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf",
@@ -187,7 +179,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf": {
-      "sha256": "4d43083fc54d1ad6fe9b703d14a32c7173a55b28965d16eacb1762160da40d36",
+      "sha256": "402abc27ec9204e0990fdc36555aa92104ee0bab79d14bb74e148e756d368e67",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf",
@@ -195,7 +187,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx": {
-      "sha256": "a0463fa70d735dc984f3c561c507b0194a5ab0c07c077fef1157ad188e216a40",
+      "sha256": "63270678927c85008b149979512d3ebb1fdec4df1d479bd9aa4565e1801786bc",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx",
@@ -203,7 +195,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx": {
-      "sha256": "6039a2dd1dcd0c974b0de8f741cc7b58de93880c4431ca4ffe78403914617502",
+      "sha256": "16fc096c9ceea502683f97e9710d20278920af6b30e621fa81f0644eca3ace59",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx",
@@ -211,7 +203,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf": {
-      "sha256": "4fdde7dc39a122b43300f1cd0d2a362cf4c1619b2202e7805e0aa9f03eb86175",
+      "sha256": "897d3d20f2c0ac6038da2a7f6334800122f0e200bc41b6c807904113909e8c7c",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf",
@@ -219,7 +211,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx": {
-      "sha256": "37e5197c9e6d19c2e933eef495921cd7b32a1699841c6803b926f9359cc69480",
+      "sha256": "53f48a64d33868288c504ae71dabf70f2ead70871ed9e0d17680a32b9b221504",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---notice-of-impairments.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx",
@@ -227,7 +219,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf": {
-      "sha256": "a085f820cfdd7f7285e968bf1043c81d64e57f2965973b326e7dd4dfbc58a534",
+      "sha256": "89ec7abdf68bc8eb634c97649611be502175d5d98dc5d54126a3d37bf8590987",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf",
@@ -235,7 +227,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx": {
-      "sha256": "a8bf97d378328b11184f21bf32a35846184ddae6eea765389a18f2430c9ae0a0",
+      "sha256": "be5e7347bac463d7852517dc178ebf2c633a6099314296a60c689d0acdb8ab33",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---stated-supports-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx",
@@ -243,7 +235,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf": {
-      "sha256": "f339f1ed712c00f8a84292ba05c27c3a87b4d0ea97eb1f244ccbec959a56a443",
+      "sha256": "cab7733506a98f99b95347b47e4247e4ca6aa5d484e929d015d8cb49ee3ae719",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---stated-supports-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf",
@@ -251,7 +243,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx": {
-      "sha256": "945225d8c12c6da9a4267a070991513f9837fb895e308c9ba0065dbc16bba217",
+      "sha256": "26dce6c13f0f25ebc1293b5bddbc183377b86e4c1c17431f4767e215ed650b3b",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx",
@@ -259,7 +251,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf": {
-      "sha256": "dc0e2c4641cc408f8e8aecde60c609320c9787107df0e6663100bb844946526d",
+      "sha256": "096a006767d6dce49516fccffeef165d22039e17130cdc983db39bd639c99779",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf",
@@ -267,7 +259,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf": {
-      "sha256": "c440acc5a00a992ed2f32ebf04256ffeae6d32097cf0fdf2d0544410a69c3a79",
+      "sha256": "3f6e283e4fe96dae828bbd9a8f45e9bfe4151f882bf06857357d6a7a1e8969bb",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf",
@@ -275,7 +267,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx": {
-      "sha256": "1a9153a5a4057430ed41820dce0a78c219cd0e17555ba32ad29a6570cf831d92",
+      "sha256": "cdcdefab165217e6f62cc2c678bc0dab7da391309581e7674823be12874ba776",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx",
@@ -283,7 +275,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx": {
-      "sha256": "228bf881807e2a98b36980e26b6f19aa11cda660fabf6ac0d4e2dfd0f55ac5b5",
+      "sha256": "d837ac242ea83d5a9c50ea0b6b5060543aebda3f5f1732b5662366229751cba9",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx",
@@ -291,7 +283,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf": {
-      "sha256": "94906a36ecb701432f68fd8172683c0f3a6faba3ac7c14c4803cb1417729fb6d",
+      "sha256": "51d278ebf660c476ff7e59986a8a33fb22724e714186d9b5576463a74408f07f",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf",
@@ -299,7 +291,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf": {
-      "sha256": "644a79976517e97bdaff637c3d63d3de90ccc7d3ca9017877b2b444273f5f340",
+      "sha256": "2ea89d496791180378008dbdaa54d8f3b61eba08275c7e76a941b3324545a5c5",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf",
@@ -307,7 +299,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx": {
-      "sha256": "b3c6734d585be0bbbfa240c1e4cead11a816a6085c4aca75688d7a73bc7bd584",
+      "sha256": "f327d76e576e2479a958a10af3a966029017eda4b2d6bfecc0d612aef8d9d73c",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx",
@@ -315,7 +307,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx": {
-      "sha256": "9b5186880f8dfb1fc9511546eba2aae25920887a60491d1ed1afdbeebdf6e1c3",
+      "sha256": "2f31ec705850f8309d3c3ca898828fadf0f9f07e1f3da9ae668bef87b7fc070a",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx",
@@ -323,7 +315,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf": {
-      "sha256": "079f17d42e9cc63e94d8059935940b950eb77fb46352bc18293dc2bc88f66bc2",
+      "sha256": "21ba9f670d2a91416e49ba5806b51b0b07e365393b894c532f7e318917a22b14",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf",
@@ -331,7 +323,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx": {
-      "sha256": "493218c0671a8245a39c14574d1e65129ba80819e542a3751eabec770baa286f",
+      "sha256": "edf6a8e8f3f1027ed08e872f0451ded0af5eeded7c0986f01a8c314841de1930",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx",
@@ -339,7 +331,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf": {
-      "sha256": "19b20721af770613b98e7585d6020c168908786fcba15b2cf859b3084e5c4ed1",
+      "sha256": "7c8bffc95727e0c3ca1bd685b997bcde157bb9dca2a3bbbcee50a43a08bcf363",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf",
@@ -347,7 +339,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx": {
-      "sha256": "b1b58bd2a1a9d9ffe59cff6efdd593592c8df36af1450914a9bea0932a862f8d",
+      "sha256": "181599f89bfcde90c3b6565f5011a15067f9bf11dd8c93622e7819e4abb922ad",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx",
@@ -355,7 +347,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf": {
-      "sha256": "f5b73d5c0b8bf6b42a714e7a83f56cb3c733c2d5385bec575346fd15ae3cbc37",
+      "sha256": "61e2b4d524c00ea6c0484fdf91f58d7e3b8ce9c52d060619653aff5c27d85fea",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf",
@@ -363,7 +355,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx": {
-      "sha256": "082260720aa40a8073f2f729e20a8c5cadf04b5edaf8722ab73d7c8c3bab8452",
+      "sha256": "9550eefd47ad13105a2a4cd5f9b7c6b132fcf09910d7cd280cbb33e06a6c80da",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx",
@@ -371,7 +363,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf": {
-      "sha256": "c48f0d79882e951fadb7129fdd96904c4feb54bd8d18b34a09fdd3817cd71c03",
+      "sha256": "93e8c7e0e4315ecc8afb95efa4967726af143d969d44fc92d8614db65a82ca1b",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf",
@@ -379,7 +371,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx": {
-      "sha256": "528405cbda88e75e199bc73d591e23145f94d5653bb6ed5111585c45aed541cb",
+      "sha256": "f5d5c523e41415fead33ac56d16a71f1b87323b45f8b9184a1bcb31a263c5bb0",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx",
@@ -387,7 +379,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf": {
-      "sha256": "90f377e886f717bb2b342ea5ebb240a87a160b09d3f593f1bff9a1e9932cf93e",
+      "sha256": "91ca5bd2ff110d3149818c9c00c8c8897bdee495500f63b14e220327b2c8861e",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf",
@@ -395,7 +387,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx": {
-      "sha256": "87fca0fe8b8910f3feb05fcf74860309ba8bee0227f90fdb13698dd0d4dd919b",
+      "sha256": "5b6d9ef0068d1fa9605be0d575a0e604da26f7c698c60cbed53a16c636272c30",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx",
@@ -403,7 +395,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf": {
-      "sha256": "71359fee075962b69d60c02c18142769c1c2b0d607314e0282b128d7caebb67a",
+      "sha256": "d2579c2b016ad3efd7e2b459022d72918bb87704b96caae2f42ff9d53a85adcb",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf",
@@ -411,7 +403,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "http://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx": {
-      "sha256": "df61796d7be74a179084d49bc57bbc07fbcadb76b1e669983229907cb3b52d7c",
+      "sha256": "f4ca03157d5a47cd905bd1d069b87c4d16332a2ffae040cf787219288790d1c2",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "http://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx",
@@ -539,7 +531,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation": {
-      "sha256": "5ce9d889ad1bc830902707a668682129740af623f04e143cf3ed9c6cec0ad579",
+      "sha256": "de9f589acfdc44675ce3af0a8104c90a035f32a160d3595ea1b46f6d342383ca",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation",
@@ -547,7 +539,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consult_view": {
-      "sha256": "5ce9d889ad1bc830902707a668682129740af623f04e143cf3ed9c6cec0ad579",
+      "sha256": "de9f589acfdc44675ce3af0a8104c90a035f32a160d3595ea1b46f6d342383ca",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-access-changes-consultation/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-access-changes-consultation/consult_view",
@@ -619,7 +611,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/ndis-reforms": {
-      "sha256": "5a50b75b847220dce53267bdad2f1d2dab79742545fb17423d42b0c386b2e0e5",
+      "sha256": "3c3dc8cec46bab29bf881a485be363a43359074c91998e5e9fd410a1af16373b",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-reforms/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-reforms",
@@ -627,7 +619,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/ndis-reforms/consult_view": {
-      "sha256": "5a50b75b847220dce53267bdad2f1d2dab79742545fb17423d42b0c386b2e0e5",
+      "sha256": "3c3dc8cec46bab29bf881a485be363a43359074c91998e5e9fd410a1af16373b",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/ndis-reforms/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/ndis-reforms/consult_view",
@@ -635,7 +627,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports": {
-      "sha256": "5b2197c589d934eeca0125f4e8178751f20d75c335fde00db2cb819d24e2ea5c",
+      "sha256": "2785debe292f740cbcf9e20660d417370f29efbdee844c86a98cb1f8af110c98",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports",
@@ -643,7 +635,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view": {
-      "sha256": "8f61e359884b137d6c33003cd8dae835799492639dfe13c638d241ca39c42517",
+      "sha256": "7ad2d4f9ec98ded762b4bc54b3efa5e41993e6cb30f03ffe873772a768f32ad4",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view",
@@ -987,7 +979,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx": {
-      "sha256": "03780fccb66a12fc6fbd7a84809e66c47d3c25f15b839180a4053b100cb3735a",
+      "sha256": "077e49cb8b851ce339b5ed472e4a76650b477091482559d508332e039d1c75df",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx",
@@ -995,7 +987,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf": {
-      "sha256": "ff3937241dacf2dd9dcac0787b840728e8d5fa6c95a390ca7995033a1f03c18f",
+      "sha256": "fa6420917766e7ee08c9d775c507253332459fd2e6d1877bf67974e77fafec02",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf",
@@ -1003,7 +995,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx": {
-      "sha256": "878da9e1a2c62a4f3c9d70b99274579dc550e0d6f6b689df567e610703110cde",
+      "sha256": "1a63765c70f9070c0b4495a3b7b5c1a3951bd6303fffabebb0c6afb2df12498e",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx",
@@ -1011,7 +1003,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf": {
-      "sha256": "e1c74c15b473660c78d1cbbdb4099a5eb4a09d05cb5fd0f6aa49554d29650807",
+      "sha256": "657481a68f2ae16686d955e829cb56f8059253bc7af5fc6ef52d59caf9d06aad",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf",
@@ -1019,7 +1011,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx": {
-      "sha256": "77296bbde314505866f066b7430fb792503c6c4bb33c0c2cbac642f9eb24c15b",
+      "sha256": "eaa8f8d0e3eba24c7da86166c367d8da71adbbadf6fd47a49f9e2140955650f8",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx",
@@ -1027,7 +1019,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf": {
-      "sha256": "b08724b289f020fa11407d63a863c8dfdef9cca149e4442efd289f31e7923fb8",
+      "sha256": "b3821cea780b01786cf946068eae20a19893bbeb6f5c5671a2e2705e0ed4dd68",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf",
@@ -1035,7 +1027,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx": {
-      "sha256": "8bccff589543beba2206455f25ed5dd1de5a8d4f95f3dabbd8a7d88e9c38519b",
+      "sha256": "3dc969b6853d78f78e58df83f257818e15e4f3d74e07e67721751fda48ea902b",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx",
@@ -1043,7 +1035,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf": {
-      "sha256": "03f0db6b18b8829b0977de4b6f9327c3d2d918e8f2e183f1baf20bbca29826cf",
+      "sha256": "9e02217b3d26500a8a2453e77fee556f39dc4936d24523bad56a16794d70825a",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf",
@@ -1051,7 +1043,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx": {
-      "sha256": "6f2827efece93c7fbec6307ddf7a06d432004c53a0821178c6f59af201f20890",
+      "sha256": "b1917ecebab8ce484390342533b74d3035abc0925ab2bdcc59f835ee446f7415",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx",
@@ -1059,7 +1051,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf": {
-      "sha256": "ddad67ba3c83fac1c129ac618a7bcdaacb74c7c881b0aa5c5bc1bd604d1c2f5a",
+      "sha256": "3b6edc83bb32d7601dbfc338b4968be068d3ba41708858b6b1aa8161e9309fc9",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf",
@@ -1067,7 +1059,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx": {
-      "sha256": "efbfa8d5b737e12a18fead421034e93c8d8a012d323a80f2d8ad99008b30a4f8",
+      "sha256": "2c4e7d71c992ff17cc36c31e86d7bed04e1c7422e32dc1f3d64a38c9c8f233c0",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx",
@@ -1075,7 +1067,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf": {
-      "sha256": "41a9001cf72eabff91fce33705e554cd93f63d396b109abefbcebf8371b88fa9",
+      "sha256": "b92c29d4e24e4645210223c6f5ea68fb49855d7ba947b859a1bad17f3c689ba4",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf",
@@ -1083,7 +1075,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx": {
-      "sha256": "80f67ff2504bf238a3f0bcd526fc349ab1e7815ec51cd13f65b20e6e2737ddcb",
+      "sha256": "8bcf5f846fab9c4ccffb94a8edf99d4ffbdc2b77cda5327528ac6e3a28f38375",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx",
@@ -1091,7 +1083,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf": {
-      "sha256": "7dfaaefea86eb7398352dc1fe4076306671460af7e10b9e523904e60432edb80",
+      "sha256": "2abd934fd1905bca7bdce57181f1a19c9cb3135366a3513b1929cfd43c60780b",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf",
@@ -1099,7 +1091,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf": {
-      "sha256": "c563c325d671c8749ae0740751c5b4fe236b523f10d922249fe2b7012ae869ad",
+      "sha256": "d15279ee3c8692f8f25c2621eefb5359a62fd69163f073db02c9806e6189f511",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf",
@@ -1107,7 +1099,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx": {
-      "sha256": "165c5856bf35c6268efde5b82377e2084d0e91419426d0151a47875708cf198e",
+      "sha256": "35996a9e43005e62f77fdf79b79a72d22eec512b1955bae7adfc4e4627417f2f",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx",
@@ -1115,7 +1107,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf": {
-      "sha256": "05740dce5fb24af554fb8eb6fc364643e40f57a0bd2f35fbacf9849841008e3e",
+      "sha256": "06d2d11bc0b20557f61acae1780e963ae091ce09324d140863bf58704a6b419e",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf",
@@ -1123,7 +1115,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx": {
-      "sha256": "7fcba6b6c88e8cb44c2c53e359b477f4870ada808d29c47380017a9553434e83",
+      "sha256": "2e32090af451a574c7a41f270318e6fe60821a44142b74a105631fb7a62d8e77",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx",
@@ -1131,7 +1123,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf": {
-      "sha256": "dff751adc1598f5524767387dc2e9c679d81138c1c5b3b5ea1c3a8c9859738aa",
+      "sha256": "5989493721869f23280d95bef6103ec4e7b83c45fec1789276efd906ed7db79d",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf",
@@ -1139,7 +1131,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation": {
-      "sha256": "299b3abe578347032913b77731217ba0eac2d89a78b7dd799b0b0b238de6ffd9",
+      "sha256": "47fb453d1c5a22f4615ebd9f68b818ce3e73df0cca61ebf7b7712958a85c9094",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation",
@@ -1147,7 +1139,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view": {
-      "sha256": "3b8a188c48076d4b0ecf90af8d016e22f56e5de01f6bef6d3949c41f724c6836",
+      "sha256": "02bf83cc73217544568202122156552e1d9831e68f3a4a0d54eb93e80b3dc8dc",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view",
@@ -1395,7 +1387,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf": {
-      "sha256": "668cc239999b6fb5c996d79838ddd221226cf8edfb6ef014348df7b6422a4c43",
+      "sha256": "df5973e145fd36ce668d47344130b1387b9544f8787f1464d326d585d87d8976",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf",
@@ -1403,7 +1395,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx": {
-      "sha256": "c4ff24581365a6a602801ede7ab3081f5a118f643d79c1e548075b75f2d0418e",
+      "sha256": "09912e1a631f649d1c1aa3e524e8746591b27680b83a08d43aa571d58c5ed574",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx",
@@ -1411,7 +1403,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx": {
-      "sha256": "e8b95ff5f76dfcb605bdcb829e0a097ca0868df843b536d3c832520c4b497712",
+      "sha256": "c6346992469741278f249dba8d039a8fe9440a8b54cf9d53d1e4b122f1332c39",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx",
@@ -1419,7 +1411,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf": {
-      "sha256": "e4fe0bc8c74b348cd46e8e050bf79a33da91f752175bb90f1fe640290e8edb33",
+      "sha256": "2a120a66279f43c825e1935fbecef314280961de633244ff4acb6b5dfd6cc4e0",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf",
@@ -1427,7 +1419,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx": {
-      "sha256": "727a081ba3775135d720e7a5af656578862acfea093277ddb3f1623915a568a0",
+      "sha256": "ada5f79cde8e3fb81953080b15e61fbd2777eb82ff31ea7da71fd0f6635a5547",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---notice-of-impairments.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx",
@@ -1435,7 +1427,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf": {
-      "sha256": "f9a93a759082b0268f2471dac23d237dbd8abd70af5f8608e589ade82242c667",
+      "sha256": "bb4f5acbc5f78dcfc4d79f56a0000d88f9c2ba98aa649c32da6eb538aa79b887",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf",
@@ -1443,7 +1435,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx": {
-      "sha256": "369f5fb74a776a32b8b18f7102cffa1bc8c4ce24517c91904cb7a230d003119a",
+      "sha256": "1860616b69ee0aac722c83b13600b859e6f3f0f213630bfd1db08d7cd88db3c5",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---stated-supports-1.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx",
@@ -1451,7 +1443,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf": {
-      "sha256": "d7f57c6d52eb706a692773189f190b8e7093f88460e07d395c88e15e0909fa16",
+      "sha256": "59969cb7dc1fcd1a2971975c0bc0d26e08b3e0437942aa48a3bcf1a05ea9fe55",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---stated-supports-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf",
@@ -1459,7 +1451,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx": {
-      "sha256": "3c280606c630501f6bafaab7d050eebac909638c9171d55d80a41bf11c0dd6b2",
+      "sha256": "d9bf2a5a4ea37cf34edbd060befd129621147b761e81f52ac8745626337085b6",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx",
@@ -1467,7 +1459,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf": {
-      "sha256": "f40593fd9cd210304b1545d3733cfebbee7472b32be03928bbaa8fc39607f4f7",
+      "sha256": "e9c71b497696acfa45c9bcd89ee13cc93e848f3ce12d22ef1bc540e22ef3b738",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf",
@@ -1475,7 +1467,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf": {
-      "sha256": "10ab8cab640ec19d51895f04abce42747de233b36a68cf2faa8d9ea4a1042f4a",
+      "sha256": "08c9f62d0a8a7c8a9583da88335ef8a4610d278f66918a4a661c3aeddae73aef",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf",
@@ -1483,7 +1475,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx": {
-      "sha256": "5339b3dee898daa9d8a163be0220fd0e87463aca40e505a363544f5153724201",
+      "sha256": "f8b7c3539c98061ed69063f96eec0bc53354d2a7b529a015b7877f90be841270",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx",
@@ -1491,7 +1483,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx": {
-      "sha256": "9283d49f012faa13039fc6ca2ac3076622ca61a49b6a0d6b76caa954a662ba19",
+      "sha256": "6c7857c9a792f971e6b809ebf6adabcfcaffbcac791c561d3e3cac9cb087bd55",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx",
@@ -1499,7 +1491,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf": {
-      "sha256": "e7bf1cda28c1db45f252be2daed362c9baf4331e11f75c2558b9fab99a3dd252",
+      "sha256": "ea68ffe8cd620fd906431a0e8e757d1fcc2196413d8de2c86e7fae4058ab4227",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf",
@@ -1507,7 +1499,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf": {
-      "sha256": "15964e533465f2be00383faa1678b66025f546b4e57304bf91a09af7232d7e53",
+      "sha256": "b2e6340000d75536447f658e4cab857099778e94117cd20d8b8887d698d623c2",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf",
@@ -1515,7 +1507,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx": {
-      "sha256": "62bcdaf0781dbe3f807c4456833a7b07ceeecd5c8913d95dfdf084094b9648ec",
+      "sha256": "2e1c3914fff2ac2e7d491998fc013fcb77a525c9065fc5768894303e5f112923",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx",
@@ -1523,7 +1515,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx": {
-      "sha256": "16ccda6d48731448bdf6a7eb5d6d2d1307ac4b1ff9993af7741be90241483b8a",
+      "sha256": "9719ef6e369b4998b2bce2a3228b5b6c88e3372518f06a1aa187a3da142734e8",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx",
@@ -1531,7 +1523,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf": {
-      "sha256": "42f3b3a493e3d915e5a3759068cfdcd95a0108584605b9df015fc0812a2d80c9",
+      "sha256": "4aa5676a1b02ed9c4a9c1aaa47b0b3817dabd861a368bdf01f214db9f30eea50",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf",
@@ -1539,7 +1531,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx": {
-      "sha256": "12c5cd1141031de8721b148d7da482275dfd66497f91f096b6b20a60c8a3b013",
+      "sha256": "fbcbcfd62ea3925e67e1e321372d549be0a63b2ed5cc548d94b1899ce9f5c92d",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx",
@@ -1547,7 +1539,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf": {
-      "sha256": "d1550fb3a3156258f2d6380d17af42ab428760f9cbd8ea5c89cd5278ea1c0dfe",
+      "sha256": "888c9c11f485a8211d84db2a4cd985d14de05bdcd2a841f87ed70aff3910541b",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf",
@@ -1555,7 +1547,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx": {
-      "sha256": "f29f98373fa546cd49a72719687f39e452ebd09ea6ee5f28166eefa657fca245",
+      "sha256": "5449a64e823e9e1da5c7b784711bc9c97b48dd5a7ca9c3ebb2767b7105c49efb",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx",
@@ -1563,7 +1555,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf": {
-      "sha256": "abecca5295c01645218cc67b51451018f826e93713055d6664413325cdd1b1ee",
+      "sha256": "124ce0ce71c54b94fd86a99a87f0b153112e35836edcc5d1eae58b80aa952af4",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf",
@@ -1571,7 +1563,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx": {
-      "sha256": "ccd8eb954cc6d3261af636853697acdd0b04ba07af9bbd6144a66fc3f62b7dfd",
+      "sha256": "4f0e79ac7a58c12102f3b22bb2bceeeda34f447b78da241411105f7da25cceb3",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx",
@@ -1579,7 +1571,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf": {
-      "sha256": "3a7fc8c008f5d1762d3e9211aeace5d22c98fbe280a83b7afcc9f0b7cc58792e",
+      "sha256": "23e16f706395eb60a4b4763f2635f4f36c4f8d126afbb25ac65fabc01e5f8688",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf",
@@ -1587,7 +1579,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx": {
-      "sha256": "f25b3a0291fa865859c6aba5f37cf2c35a45004b25e8ebda70c85df2e692f66c",
+      "sha256": "5580f201932ae5aeef68d060ac07eea2e282abc8d2189349d42b741aebec05ab",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx",
@@ -1595,7 +1587,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf": {
-      "sha256": "9acfd397ae8cfa4eb3f779d87d076c5194e833b28434b559e71b428867af9aac",
+      "sha256": "8588ac41ee1827abc616f08b56c520eb16e84de023c6a11c35e259e2953eea69",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf",
@@ -1603,7 +1595,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx": {
-      "sha256": "ab822450d9d24c0995515debd3288f770375482f2304613ef907f9b2a8c286cd",
+      "sha256": "1e6bdb1f4dec870f9b5ec01ebb3566627a4d84c81c9eae320d8e623b4dbb029d",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx",
@@ -1611,7 +1603,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf": {
-      "sha256": "b593791ea05af107827f84a9406c79729e710a1b1b525ec836e3ded9f3b6995b",
+      "sha256": "f1163a66fda1bdc2e9dd4af0b2095607ed7e9b134f89728bb6f32f2cb0f5fa6d",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf",
@@ -1619,7 +1611,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx": {
-      "sha256": "825f3bc2a4269cdc944dfb6b58888a5bf96da269c7a77a0e0d188b7fed3682e1",
+      "sha256": "f19e20ed1ecebd3e2e2b8c90ca640371bc35e9d85fdf4dcac010bff02546395b",
       "path": "archive/gov/health/ndis/consultations/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx/current.md",
       "content_type": "text/markdown; charset=utf-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx",

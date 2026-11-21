@@ -1,17 +1,17 @@
 # Tracking dashboard
 
-Generated: 2026-11-21T21:56:51Z
+Generated: 2026-11-21T22:27:30Z
 
 | Tracker | Status | Last checked | Pages | New | Modified | Removed | Registry | Latest |
 |---|---:|---:|---:|---:|---:|---:|---|---|
 | NDIS data and research | partial | 2026-11-21T00:04:38Z | 130 | 0 | 251 | 0 | [open](../dataresearch/manifest.json) | [open](../dataresearch/latest-run.json) |
 | NDIS website | active | — | 0 | 0 | 0 | 0 | [open](../ndis/manifest.json) | [open](../ndis/changes/) |
-| Health.gov.au NDIS material | partial | 2026-11-13T22:35:17Z | 214 | 3 | 57 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
+| Health.gov.au NDIS material | partial | 2026-11-21T22:10:41Z | 214 | 0 | 58 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
 | Victorian Government reforms | complete | 2026-11-21T20:10:17Z | 250 | 0 | 0 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
 | Reports / .Gitkeep | recorded changes | 2026-09-04T09:54:31Z | 0 | 1 | 0 | 0 | [open](.gitkeep/change-ledger.csv) | [open](.gitkeep/changes.html) |
 | Reports / Aph | recorded changes | 2026-11-21T21:56:50Z | 0 | 3 | 222 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
 | Reports / Engage Ndis | recorded changes | 2026-11-21T21:56:50Z | 0 | 10 | 654 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
-| Reports / Health | recorded changes | 2026-11-13T23:00:49Z | 0 | 153 | 566 | 0 | [open](health/change-ledger.csv) | [open](health/changes.html) |
+| Reports / Health | recorded changes | 2026-11-21T22:27:28Z | 0 | 153 | 624 | 0 | [open](health/change-ledger.csv) | [open](health/changes.html) |
 | Reports / Ndia | recorded changes | 2026-11-21T21:56:50Z | 0 | 16 | 744 | 0 | [open](ndia/change-ledger.csv) | [open](ndia/changes.html) |
 | Reports / Ndis Commission | recorded changes | 2026-11-21T21:56:50Z | 0 | 1 | 65 | 0 | [open](ndis-commission/change-ledger.csv) | [open](ndis-commission/changes.html) |
 | Reports / Ndis Review | recorded changes | 2026-11-21T21:56:50Z | 0 | 116 | 1885 | 0 | [open](ndis-review/change-ledger.csv) | [open](ndis-review/changes.html) |
