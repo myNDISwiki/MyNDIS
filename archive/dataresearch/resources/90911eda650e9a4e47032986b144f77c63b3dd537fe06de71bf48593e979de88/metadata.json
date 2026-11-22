@@ -1,5 +1,5 @@
 {
-  "bytes": 3114,
+  "bytes": 3113,
   "content_type": "application/pdf",
   "directory": "resources/90911eda650e9a4e47032986b144f77c63b3dd537fe06de71bf48593e979de88",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4043",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-21T00:04:38Z",
+  "last_changed": "2026-11-21T23:13:53Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Support coordination and LAC models to best implement plans.pdf\""
   },
-  "sha256": "958728c6269428d35172be53d6b1c194af9c2e920da2aa10d54827ba359a81d6",
+  "sha256": "03c3a6878daef24abaf91ac636e119f7b1b6ef7178b3154ae06f6c145c4a30b4",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4043"
 }

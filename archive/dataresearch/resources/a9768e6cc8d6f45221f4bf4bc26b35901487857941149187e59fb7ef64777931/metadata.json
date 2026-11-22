@@ -1,5 +1,5 @@
 {
-  "bytes": 30072,
+  "bytes": 30073,
   "content_type": "application/pdf",
   "directory": "resources/a9768e6cc8d6f45221f4bf4bc26b35901487857941149187e59fb7ef64777931",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4021",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-21T00:04:38Z",
+  "last_changed": "2026-11-21T23:13:53Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"Animalassisted interventions.pdf\""
   },
-  "sha256": "f9f5781f4531a48f8be75a52156b97dbd46895cabfe0273c58568334ac2e8945",
+  "sha256": "496f6c3ca3a9206c9d1ecdcb2aab3e3f9ff6625b55fff9878ed4191ece80c638",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4021"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 70680,
+  "bytes": 70678,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/67381ed71a663c5c78d7ed825fc039c87f06235e8a1218dbd7cfe215ee62613e",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/teacch-interventions",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T00:04:38Z",
+  "last_changed": "2026-11-21T23:13:53Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fearly-interventions-and-high-volume-cohorts%2Fevidence-review-early-interventions-children-autism%2Fteacch-interventions",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -157,7 +157,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 16 Nov 2026 23:48:22 GMT"
   },
-  "sha256": "9ed9aa904c189f845d410cd42a8bec075fdccbb6ab7b5921fc6fb8bcaba830b5",
+  "sha256": "188ea8f80b3e8a409aff24a6fe6fe73fb5e9f466786792968490f09d283448f8",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/early-interventions-and-high-volume-cohorts/evidence-review-early-interventions-children-autism/teacch-interventions"
 }
