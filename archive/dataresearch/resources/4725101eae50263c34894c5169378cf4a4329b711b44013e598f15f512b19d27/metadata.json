@@ -1,5 +1,5 @@
 {
-  "bytes": 16277,
+  "bytes": 16276,
   "content_type": "application/pdf",
   "directory": "resources/4725101eae50263c34894c5169378cf4a4329b711b44013e598f15f512b19d27",
   "embeds": [],
@@ -9,12 +9,12 @@
   "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4073",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "file",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [],
   "response_headers": {
     "Content-Disposition": "inline; filename=\"From ADE to open employment.pdf\""
   },
-  "sha256": "2bed4b90876ba712bc380d12731c41c24664dd2f17c14df78d4ed59612d892bc",
+  "sha256": "2736268213d4b61dc7da313e4f88b6ea7228d6d76e0b6f468133bfa764b1a94f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4073"
 }

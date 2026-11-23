@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods",
   "first_seen": "2026-09-24T15:10:44Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fevaluation-ndis-supports-lists-and-shorter-funding-periods",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -158,7 +158,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 16 Nov 2026 23:03:56 GMT"
   },
-  "sha256": "c14c2a6199f75d0193ce5b059c43a5448962fb27473f67abef2910cfd2407818",
+  "sha256": "6673a42719c74d591e221f8c2f5348758b2b9f861d7797e5b9f93a5d584fc00c",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/evaluation-ndis-supports-lists-and-shorter-funding-periods"
 }

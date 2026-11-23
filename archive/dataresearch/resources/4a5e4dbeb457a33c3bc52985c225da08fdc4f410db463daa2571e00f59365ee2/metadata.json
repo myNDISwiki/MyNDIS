@@ -1,5 +1,5 @@
 {
-  "bytes": 38947,
+  "bytes": 38948,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/4a5e4dbeb457a33c3bc52985c225da08fdc4f410db463daa2571e00f59365ee2",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/datasets/provider-datasets",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fdatasets%2Fprovider-datasets",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -121,7 +121,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 16 Nov 2026 22:55:47 GMT"
   },
-  "sha256": "ef8471ba53c45c61ecf262f8c6e75dafeef90bcddbf50c57458db92a1ae59f47",
+  "sha256": "4bd9449a76db93be9c0be6a8ad0961c1d737a685e6a6e066c41e635ebe14a149",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/datasets/provider-datasets"
 }

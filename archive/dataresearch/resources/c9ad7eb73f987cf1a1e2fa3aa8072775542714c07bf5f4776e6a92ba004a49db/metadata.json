@@ -1,5 +1,5 @@
 {
-  "bytes": 55881,
+  "bytes": 55884,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/c9ad7eb73f987cf1a1e2fa3aa8072775542714c07bf5f4776e6a92ba004a49db",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/first-nations",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Ffirst-nations",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -160,7 +160,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 17 Nov 2026 01:52:57 GMT"
   },
-  "sha256": "ad1d22bb10e36864bae79642789c4f12a15c69959fbc45ccbc129b800a4a7438",
+  "sha256": "afd97f6dd311094594a4524efbf3d33cb0b211f8039432f4bc76b6b97860688f",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/first-nations"
 }

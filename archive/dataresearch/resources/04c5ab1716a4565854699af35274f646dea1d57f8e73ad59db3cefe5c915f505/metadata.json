@@ -13,7 +13,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fmarket-stewardship-and-employment%2Femployment-research",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -154,7 +154,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 17 Nov 2026 02:23:22 GMT"
   },
-  "sha256": "509d22761601424dfd877d730ab2b4267e6ad50f404ccf9ae4766d8178fae80f",
+  "sha256": "41277db862f955aeab0e2099344d797b4b8d52aaf32e8d285e73bd2f8a6632bb",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/market-stewardship-and-employment/employment-research"
 }

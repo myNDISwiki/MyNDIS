@@ -1,5 +1,5 @@
 {
-  "bytes": 61307,
+  "bytes": 61308,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f79df323e3df1b069116652a27209cbe8b14774bd6888ee82cfaeb993193337e",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -153,7 +153,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 16 Nov 2026 23:43:34 GMT"
   },
-  "sha256": "591e9849a774adf16e9c7cc0533ec8cac4b3a65fa1d0061bfcbb2b0754ccf729",
+  "sha256": "9410d6a4cc8063df89971c679b555bdd1700c2b9d75a0bc0df884a18f642fe54",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation"
 }

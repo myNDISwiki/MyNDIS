@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-action",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -147,7 +147,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 16 Nov 2026 23:03:29 GMT"
   },
-  "sha256": "9a9a4d0d6d53712191562ba700f3c573c868a11dc47a0d1aeb0be45dc66df43d",
+  "sha256": "531b6fbdbc06f5a3a7627caf65bcb0db75a5a04f74679f399cae999199d76f80",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-action"
 }

@@ -1,5 +1,5 @@
 {
-  "bytes": 58010,
+  "bytes": 58009,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/2c4af74ba9c4af6fd429a38ba7416ec724fddec71103e77f7c0f990a6e9960aa",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning/evidence-summary-art-and-music-therapy",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-21T23:13:53Z",
+  "last_changed": "2026-11-22T23:40:19Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fdecision-making-access-and-planning%2Fevidence-summary-art-and-music-therapy",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -150,7 +150,7 @@
   "response_headers": {
     "Last-Modified": "Mon, 16 Nov 2026 23:34:45 GMT"
   },
-  "sha256": "6ec24a5f733c9195ed284811005b60c535032d2f8c9bc725ccfa15819b5d21e3",
+  "sha256": "f64a28f65639053c934d953a09195f765c032fa4f32b53a5cdb55a6b0dae3be1",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/node/4080/"
 }
