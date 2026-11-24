@@ -2162,3 +2162,55 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `5c78f3d621e377eefcfb39195aea5722e03bb9b8185a6a602d3bb8890d3817c6`
+- New SHA-256: `66f2a3683346c9789e9c585383463afd472d799662265f89557319305af0d3f5`
+- Visible text lines added: 19
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,18 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 25/26-3233
++16/11/2026
++Documents from the last 2 years regarding psychosocial hazards for NDIA or NCC staff in public facing roles.
++FOI 25/26-3233 (PDF 17.3MB)
++4 documents released in full, 3 documents released in part, 1 document refused:
++1. Report - Draft NCC Recommendation Implementation Report
++2. Presentation - NCC Branch Psychosocial Hazard Presentation v0.1
++4. Summary - Summary of the 2025 NCC WHS Psychosocial Hazard Survey Results
++5. Summary - Executive Summary - Safety, Wellbeing and Security Strategy v2
++6. Talking Points - Deep Dive Psychosocial Hazards PPT
++7. Presentation - Deep Dive: Psychosocial Hazards and Risk Management
++8. Report - Findings Diversity Groups and All of Staff Psychosocial Hazard Workshops
+ FOI 26/27-0105
+ 03/09/2026
+ Internal guidance documents about applying human-rights and child-rights obligations in decisions affecting children with disability.
+@@ -73,6 +85,12 @@
+ Knowledge Article: IRT – Enacting a planning review decision – dated 13 October 2025
+ Guidelines – Principles of s100 Planning Review – dated 27 March 2024
+ Guidelines – Principles of s100 Planning Review – dated 20 November 2024
++FOI 26/27-0743
++20/10/2026
++Statistical data regarding public hospital patients who are current or prospective NDIS participants.
++FOI 26/27-0743 (PDF 1.8MB)
++1 document released in full
++1. NDIS participants in NSW public hospitals, including hospital-level data
+ FOI 25/26-3357
+ 20/10/2026
+ Personal documents and Data
+@@ -9096,4 +9114,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-19 November 2026
++23 November 2026
+```

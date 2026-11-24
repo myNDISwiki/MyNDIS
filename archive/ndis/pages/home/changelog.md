@@ -1298,3 +1298,41 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `5b40bf7b97d7f68a4da1ac361b63042349ff3758fd3e9f253b495876a948f186`
+- New SHA-256: `d13b50a15d7de68bf5c54c2203f679180d73a02cf0d6b3f2cc2e67c89532cd43`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -31,6 +31,11 @@
+ Learn more
+ Latest news
+ Category
++Provider news
++Help shape the Provider Newsletter
++Date
++19 November 2026
++Category
+ Media release
+ Media release from the Minister
+ Work starts on commissioning NDIS plan management services
+@@ -39,11 +44,6 @@
+ Category
+ News
+ Request for tender for Disability Representative and Carer Organisation Forum
+-Date
+-18 November 2026
+-Category
+-News
+-New 90-day claiming timeframe starts 1 December 2026
+ Date
+ 18 November 2026
+ Read more news
+```

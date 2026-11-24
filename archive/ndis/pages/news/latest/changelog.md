@@ -2318,3 +2318,82 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `360071f26cef012d146c14466d5c8cf0e2b3e3171c9ff930570ab9f993f617fc`
+- New SHA-256: `3cf6560e5828d6be15c7b79e2a949fb942058efa7eb858e84c41c5477dee2f93`
+- Visible text lines added: 15
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -48,7 +48,7 @@
+ Provider news
+ (4)
+ Media release
+-(66)
++(67)
+ Media release from the Minister
+ (95)
+ News - housing
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(341)
++(343)
+ Notification
+ (47)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ November 2026
+-(8)
++(11)
+ October 2026
+ (15)
+ September 2026
+@@ -362,6 +362,18 @@
+ Search
+ Search
+ Category
++Media release
++Tougher controls target NDIS fraud as offender jailed
++Stronger controls are making it harder to defraud the NDIS, with a Sydney man jailed last week.
++Date
++23 November 2026
++Category
++News
++NDIS online data updated
++The NDIA has updated our public data, now current as at 30 September 2026.
++Date
++23 November 2026
++Category
+ Provider news
+ Help shape the Provider Newsletter
+ Don’t currently subscribe to the Provider Newsletter? We’d like to hear from you.
+@@ -386,18 +398,6 @@
+ Providers and plan managers must review outstanding claims now and submit eligible claims as soon as possible before the new 90-day claiming timeframe starts.
+ Date
+ 18 November 2026
+-Category
+-News
+-Plan renewals starting from 1 February 2027
+-From 1 February, the NDIA will introduce plan renewals. Plan renewals will replace plan continuations, sometimes known as ‘plan rollovers’.
+-Date
+-18 November 2026
+-Category
+-News
+-Planned system updates 15 November 2026
+-There are upcoming multi-system updates.
+-Date
+-13 November 2026
+ Pagination
+ 1
+ 2
+```

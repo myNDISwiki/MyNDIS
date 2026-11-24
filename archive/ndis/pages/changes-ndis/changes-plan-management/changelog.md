@@ -526,3 +526,27 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `57d4a4105f157e608126d31d3e9a8714b20c6d8d9f417c22744f7362e7144bc5`
+- New SHA-256: `b3f5e6c39067befb43a3f2234c250d2d60715dde25ba4ab4a3789e304b095a8a`
+- Visible text lines added: 3
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -26,6 +26,9 @@
+ We’re changing how plan management services are priced and designed for participants.
+ We’ll establish a trusted panel of plan managers from 1 October 2027. Participants will need to use a plan manager from the panel. Affected participants will be supported to transition to a provider on the panel over 6 months.
+ Plan managers on the panel will continue to play an important role in supporting participants to manage their NDIS budgets.
++The NDIS Quality and Safeguards Commission has suspended
++registration applications for plan management services
++while the panel is created.
+ Why we’re making the changes
+ We’re making the changes to:
+ make it easier for participants to pay providers and manage their NDIS funding
+```

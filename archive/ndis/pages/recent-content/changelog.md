@@ -2165,3 +2165,59 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `40c49c62c4f0aa76436b8acb43d5825ae72d8e22c20fd8e6e22726a9eefad340`
+- New SHA-256: `5b10bf80bdd3be671943228b552b5ba84d6486d9eec36897d9118c5b0b8aae06`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-Work starts on commissioning NDIS plan management services
++Find specialist disability accommodation (SDA)
++23 November 2026
++APS Census
++23 November 2026
++Karan turns lived experience into laughter
++23 November 2026
++National Disability Insurance Scheme (NDIS), Lavington, 2641
++23 November 2026
++National Disability Insurance Scheme (NDIS), Port Pirie, 5540
++20 November 2026
++Quarterly Reports
++20 November 2026
++How to use the my NDIS app
++20 November 2026
++NDIS Community Forum in Mt Gambier
++20 November 2026
++Help shape the Provider Newsletter
+ 19 November 2026
+-Changes to plan management
++Northern Territory
+ 19 November 2026
+-Understanding the NDIS Webinar Series: Applying to the NDIS: Community Connections
+-18 November 2026
+-Sector Briefing – Plan Management Request for Information
+-18 November 2026
+-Request for tender for Disability Representative and Carer Organisation Forum
+-18 November 2026
+-FOI disclosure log
+-18 November 2026
+-Participant Service Guarantee
+-18 November 2026
+-Plan renewals starting from 1 February 2027
+-18 November 2026
+-New 90-day claiming timeframe starts 1 December 2026
+-18 November 2026
+-Local Area Coordinator (LAC) partner, Northam, 6401
+-18 November 2026
+```

@@ -647,3 +647,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `12296b862c96e0439ad0315c0cc5c8e1eb666d6aa311dbb5fe8264fd97a2e4b9`
+- New SHA-256: `88ffcfdf987985887cf2de484a62ffe3f293e590175e255d7ca1ef28e3735607`
+- Visible text lines added: 4
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,6 +16,10 @@
+ 2 - Payment terms
+ 3 - Claims and payment reviews
+ 4 - Your responsibilities when requesting payment
++Update: New 90-day claiming timeframe starts 1 December 2026.
++Claims for NDIS supports must be submitted within 90 days of the date the support was delivered from 1 December 2026. Claims submitted more than 90 days after a support is delivered won’t be paid unless exceptional circumstances apply. Learn more about
++what you need to do
++.
+ Getting paid as a provider
+ You need to submit payment requests within 2 years after an NDIS support has been delivered.
+ To make the payment claim, you need the following information:
+```

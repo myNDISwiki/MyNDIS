@@ -574,3 +574,68 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `0402556efe75e5b7db261cadd09396594ba35ccd05eeb1d55ee3f864ad8ed1d7`
+- New SHA-256: `73837798528938afd68f94d1b6db8e0eb4007040767f03de98f9b1cbf0464d4a`
+- Visible text lines added: 24
+- Visible text lines removed: 17
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -6,26 +6,33 @@
+ Save page as PDF
+ Australian Public Service (APS) Employee Census
+ The APS Employee Census (the Census) is an annual survey that collects anonymous employee feedback and provides valuable insights into employee experiences on key workplace matters such as wellbeing, leadership, capability development and engagement.
+-To find out more about the Census, visit the
+-APS Employee Census webpage
+-.
+-2025 NDIA APS Census results
+-The 2025 Census was conducted from 5 May to 6 June.
+-83% of NDIA staff participated, incorporating workforce growth, this equates to a 27% increase in responses from 2024.
+-The 2025 results show an increase in positive responses across multiple areas, including staff commitment to agency goals, job satisfaction, workplace inclusivity, safety, health and wellbeing, support for innovation, and flexible work practices.
+-Read the NDIA 2025 Census results:
++Visit
++APS Employee Census
++to learn more.
++2026 NDIA APS Census results
++The 2026 Census took place from 4 May to 5 June.
++Nearly 10,000 staff members took part. This represented 81% of the workforce.
++The results show we continue to score higher than the APS average across all areas. Strong results were recorded for connection to purpose,  employee engagement and wellbeing.
++Download the NDIA 2026 Census results to learn more:
++APS Employee Census 2026 – NDIA highlights report (PDF 1MB)
++APS Employee Census 2026 – NDIA highlights report (DOCX 117KB)
++2026 NDIA Census action plan
++We’ve developed the 2026-29 NDIA Census action plan.
++This is a 3-year plan that sets out actions, staff outcomes and measures. The action plan focuses on agency-wide priorities including change, communication and wellbeing.
++The plan will be reviewed each year to make sure it reflects Census results and staff feedback.
++Download the 2026 NDIA Census action plan:
++2026 NDIA Census action plan (PDF 153KB)
++2026 NDIA Census action plan (DOCX 337KB)
++Previous NDIA Census action plans and APS Census results
++Census action plans
++2025 NDIA Census Action Plan (PDF 91KB)
++2025 NDIA Census Action Plan (DOCX 337KB)
++NDIA 2024 Agency Action Plan (PDF 303KB)
++NDIA 2023 Agency Action Plan (PDF 166KB)
++APS Census results
+ 2025 APS Census: NDIA Highlights Report (PDF 1.5MB)
+ 2025 APS Census: NDIA Highlights Report (XLXS 48KB)
+ 2025 APS Census NDIA Highlights Report (DOCX 86KB)
+-2025 NDIA Census Action Plan
+-In response to the 2025 Census results, the NDIA has developed the 2025 NDIA Census Action Plan. This plan represents our commitment over the coming year to strengthen employee experience and workplace culture. Through targeted strategies and initiatives, we will address key insights from the Census, focusing on areas that matter most to our people.
+-2025 NDIA Census Action Plan (PDF 91KB)
+-2025 NDIA Census Action Plan (DOCX 337KB)
+-Previous NDIA Census Action Plans and APS Census Results
+-Census Action Plans
+-NDIA 2024 Agency Action Plan (PDF 303KB)
+-NDIA 2023 Agency Action Plan (PDF 166KB)
+-APS Census Results
+ APS Employee Census 2024 – NDIA Highlights Report (PDF 1.5MB)
+ APS Employee Census 2023 –
+ NDIA Highlights Report (PDF 1.3MB)
+```

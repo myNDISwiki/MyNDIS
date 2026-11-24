@@ -977,3 +977,56 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `a4bcab9af6a975a4f8c6a5ef80159f84c97b8cb49b3d98f523ac16997dfb832a`
+- New SHA-256: `89de9257ca383f207b6a6fce68f82389d566ad4c089bdb07b41735208cb16cdb`
+- Visible text lines added: 18
+- Visible text lines removed: 10
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,20 +17,28 @@
+ Events and information sessions
+ Category
+ Community Engagement
++Early Childhood
++Employment
++General information
++Participant
++Provider
++NDIS Community Forum in Mt Gambier
++Event Date
++Thursday, 10 December 2026
++Event address
++Mount Gambier , SA 5290
++Category
++Community Engagement
++Online Event
++Understanding the NDIS Webinar Series: NDIS Early childhood approach
++Event Date
++Tuesday, 15 December 2026
++Category
++Community Engagement
+ Online Event
+ Understanding the NDIS Webinar Series: Applying to the NDIS: Community Connections
+ Event Date
+ Wednesday, 9 December 2026
+-Category
+-Provider Engagement
+-Sector Briefing – Plan Management Request for Information
+-Event Date
+-Wednesday, 25 November 2026
+-Category
+-Provider Engagement
+-SDA Vacancy Payments Webinar
+-Event Date
+-Thursday, 10 December 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

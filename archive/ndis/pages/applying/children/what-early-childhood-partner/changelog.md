@@ -647,3 +647,95 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `13f872c598bbd021351bda5518955c4e1223818abd6dd03f0033e5f656165d0e`
+- New SHA-256: `9042fdd787dc21f3f708ba7a7e2ada29e40f61e5c3ea25aede39c360a59d4b6a`
+- Visible text lines added: 12
+- Visible text lines removed: 37
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,10 +12,9 @@
+ 1 - What early childhood partners are
+ 2 - What early childhood partners are for
+ What early childhood partners are
+-We fund and work with community-based organisations to help us deliver the NDIS. We call these organisations
+-NDIS partners
+-.
+-Early childhood partners are local organisations with teams of early childhood professionals. They have specialist knowledge and experience working with young children and their families.
++Early childhood partners are local organisations we fund to help deliver the early
++childhood
++approach. They have teams of early childhood professionals with specialist knowledge and experience working with young children and their families.
+ They can help if you have a child younger than 9 with delays in their development or disability. Your child doesn’t need a diagnosis for our early childhood partners to help.
+ Get help for your child from your health or education professional
+ Start by talking to your child’s health or education professional if you have a concern about your child's development. This person may be your:
+@@ -23,6 +22,13 @@
+ early childhood educator
+ child health nurse.
+ They might also suggest contacting an early childhood partner.
++Finding an early childhood partner in your area
++You can search for an early childhood partner near you using our
++office finder
++.
++Contact us
++if you’re not sure who your early childhood partner is.
++Aboriginal or Torres Strait Islander families can call First Nations Connect on 1800 411 640.
+ Tip: If there aren’t early childhood partners in your area.
+ Contact us
+ and we can help connect you to the supports and services you need.
+@@ -30,9 +36,9 @@
+ An early childhood partner helps you work out what supports you and your child might connect to. They work with you and your child to understand what support you both need.
+ This might include:
+ talking to you about your child’s daily life
+-reading reports or letters you have from professionals, like health professionals or educators observing your child in their usual environment
++reading reports or letters you have from professionals, like health professionals or educators
++observing your child in their everyday usual environments
+ using assessment and screening tools to understand your child’s development.
+-Once your early childhood partner understands both your and your child’s needs, they'll work with you to determine what kind of supports you can connect to.
+ Early childhood partners will connect you with the right supports
+ They help deliver early connections.
+ Early connections form a part of the
+@@ -45,37 +51,6 @@
+ connecting you with other families to assist with peer support
+ providing a period of early supports for children younger than 6 with developmental concerns
+ supporting you to apply to the NDIS.
+-Find an early childhood partner in your area
+-Australian Capital Territory
+-EACH
+-News South Wales
+-EACH
+-Intereach Limited
+-LaTrobe Community Health Service
+-Lifestart Cooperative Ltd
+-Mission Australia
+-Northcott
+-Northern Territory
+-Early Childhood Australia
+-Queensland
+-BUSHkids
+-EACH
+-Mission Australia
+-The Benevolent Society
+-South Australia
+-BaptistCare
+-Kudos
+-Mission Australia
+-Tasmania
+-BaptistCare
+-Mission Australia
+-Victoria
+-Brotherhood of St Laurence
+-Intereach Limited
+-LaTrobe Community Health Service
+-Meli
+-Western Australia
+-Mission Australia
+ Main navigation sidebar
+ Applying
+ Eligibility requirements
+```

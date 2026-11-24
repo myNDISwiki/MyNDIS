@@ -566,3 +566,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `45fde787f8b8cc15573e50ee1f54ce9f16ab23e2d3ce990f0a7b77e2fffaac4f`
+- New SHA-256: `64afd5520edac42c5826e0992d307e2811375da5d865dd27c72e6e17dbd6157d`
+- Visible text lines added: 4
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -20,6 +20,10 @@
+ 4 - Access the provider portals
+ 5 - How to get paid
+ 6 - Guide to plan management
++Update: New 90-day claiming timeframe starts 1 December 2026.
++Claims for NDIS supports must be submitted within 90 days of the date the support was delivered from 1 December 2026. Claims submitted more than 90 days after a support is delivered won’t be paid unless exceptional circumstances apply. Learn more about
++what you need to do
++.
+ Roles and responsibilities of a plan manager
+ A plan manager’s role is to help participants by managing their NDIS funding.
+ Their role relates to plan managed NDIS supports in a participant’s NDIS plan. It doesn’t include support with day-to-day administration or management of the whole plan.
+```

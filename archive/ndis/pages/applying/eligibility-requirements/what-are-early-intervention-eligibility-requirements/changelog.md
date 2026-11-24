@@ -565,3 +565,117 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `4a39a23d50fcfce9ed3385671a0b1b6b6c3d3fb67081f2c0448cd81df32c5f7d`
+- New SHA-256: `cf414679a0235fd9885b39d75e055439c81ada0968a0abcf66015518e1f11ec9`
+- Visible text lines added: 33
+- Visible text lines removed: 30
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,43 +7,40 @@
+ Save page as PDF
+ On this page:
+ What early intervention is
+-What having early interventions is like
++What the early intervention requirements are
+ On this page:
+ 1 - What early intervention is
+-2 - What having early interventions is like
++2 - What the early intervention requirements are
+ What early intervention is
+ Early intervention can improve your ability to do everyday tasks by providing you with support as early as possible.
+ It can reduce the impact your impairment has on your functional capacity. Functional capacity is your ability to do everyday tasks.
+ We think of an impairment as a significant change to your body’s structure or functions, or to how you think and learn. It could be intellectual, cognitive, neurological, sensory or physical.
+ Impairments can also cause psychosocial disability.
+-Early intervention can also build the skills of your carer. Getting supports early can mean you’ll likely need fewer supports in the future.
+-We’ll
+-check your eligibility
+-regularly when we review your plan, and at other times.
+-You can meet both the
+-disability
+-and early intervention requirements at the same time.
+-What having early interventions is like
++Early intervention can also build the skills of your family. Getting supports early can mean you’ll likely need fewer supports in the future.
++What the early intervention requirements are
+ You need to meet requirements to be eligible
+ This includes
+ age
+ and
+ residence requirements
+ .
+-You’ll have an impairment that’s likely to be permanent. This can also be a psychosocial disability caused by an impairment.
++You’ll have an impairment that’s likely to be permanent, this can also be a psychosocial disability caused by an impairment. Or, be a child younger than 6 with developmental delay.
+ Early intervention supports will help you with at least one of the following:
+-Improve how you move around, communicate, socialise, learn, look after yourself and organise your life.
+-Prevent your functional capacity from getting worse.
+-Improve your functional capacity.
+-Support your informal supports, which includes building their skills to help you.
++improve how you move around, communicate, socialise, learn, look after yourself and organise your life
++prevent your functional capacity from getting worse
++improve your functional capacity.
++support your informal supports, which includes building their skills to help you.
+ Informal supports can be your family or other people in your support network who help you.
+ The early intervention supports you need will be
+ NDIS supports
+ .
+-They'll also reduce your need for support in the future.
+-Early intervention is also for children
+-younger than 6 with developmental delay
+-.
++They’ll also reduce your need for support in the future.
++We’ll
++check your eligibility
++regularly when we review your plan and at other times.
++You can meet both the
++disability
++and early intervention requirements at the same time.
+ You need to give us evidence from your doctor, specialist or treating professional
+ This helps us decide if you’re eligible. The evidence needs to confirm you have a permanent impairment and that you need early intervention.
+ We also look at:
+@@ -58,22 +55,28 @@
+ shows you have auditory neuropathy or hearing loss of at least 25 decibels in either ear at 2 or more adjacent frequencies, that's likely to be permanent
+ includes electrophysiological testing, where required.
+ We’ll check if you’re eligible in the same way we consider all other impairments if you’re older than 26 with hearing loss.
+-If your child is under 6
+-There are different eligibility requirements for
+-children younger than 6
+-with developmental delay.
+-We need evidence that your child is aged under 6 and meets the residence requirements to help us decide if your child is eligible.
+-We also need evidence from your child’s doctor, specialist or treating professional showing your child has a developmental delay that:
++If your child is younger than 6 with developmental delay
++Children younger than 6 with developmental delay
++may be eligible for the NDIS under the early intervention requirements.
++We need to know your child is younger than 6 and meets the residence requirements to help us decide if your child is eligible.
++We need to know your child has a delay that:
+ is due to mental or physical impairments
+-substantially reduces your child’s functional capacity compared with other children the same age
+-means your child needs specialist services from more than one professional working as a team for longer than 12 months.
+-Tip: Unsure if you meet the requirements?
++substantially reduces your child’s functional capacity compared with other children the same age
++means your child needs specialist services from more than one professional working as a team for an extended period of time, usually longer than 12 months.
++We also need to know that your child will benefit from early childhood intervention supports that are NDIS supports.
++We need evidence from a health, allied health or early childhood professional, who uses multiple sources of information about the child’s ability to do everyday activities. This could be an
++early childhood partner
++.
++Learn more about the
++early childhood approach
++.
++Tip: If you’re not sure you meet the requirements
+ Get in touch with your local
+ NDIS partner
+ . They'll help you understand if you might meet the early intervention or disability requirements or both.
+-If you don’t meet the eligibility requirements for either, they can
++They can
+ connect you with supports
+-in your community.
++in your community if you don’t meet the eligibility requirements for either.
+ Learn more about
+ how to apply
+ .
+```

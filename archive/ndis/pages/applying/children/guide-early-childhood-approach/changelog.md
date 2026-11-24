@@ -579,3 +579,186 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `f9006c8f5fd690bc6cb24de20a1d9b8d360bfa9f898b1dc8bf62aee05b878e79`
+- New SHA-256: `a9958f584536c5b98bc153fd58a1f23f699354f5786bb01d948eb12035fd4877`
+- Visible text lines added: 79
+- Visible text lines removed: 41
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,7 +7,7 @@
+ Save page as PDF
+ On this page:
+ What the early childhood approach is
+-What makes the early childhood approach different
++Who you’ll work with for the early childhood approach
+ How the early childhood approach benefits your child
+ If you have concerns about your child’s development
+ Easy Reads
+@@ -15,52 +15,85 @@
+ Video
+ On this page:
+ 1 - What the early childhood approach is
+-2 - What makes the early childhood approach different
++2 - Who you’ll work with for the early childhood approach
+ 3 - How the early childhood approach benefits your child
+ 4 - If you have concerns about your child’s development
+ 5 - Easy Reads
+ 6 - Our Guidelines
+ 7 - Video
+ What the early childhood approach is
+-The early childhood approach is for children younger than 9 with delays in their development or disability.
+-It helps families get the support they need so their child can learn and develop to their full potential.
+-The early childhood approach aims to support young children early in their life to:
+-build their skills and capabilities
+-take part in daily activities
+-be included in their community.
++The early childhood approach is about giving your child the best possible start in life. It’s for children younger than 6 with delays in their development or younger than 9 with disability.
++It helps families support their child to build the skills they need to take part in everyday life and improve long term outcomes.
++It helps make sure children:
++get the right support as early as possible
++are supported to learn and develop as they go about their everyday activities
++are included in everyday activities in their home and community
++and their family get the support they need for their wellbeing.
++The early childhood approach also includes help to
++apply to the NDIS
++and help with using your
++NDIS plan
++, if your child becomes a participant.
+ What early connections are
+-Early connections forms part of the early childhood approach.
+-Early connections give you and your child quick access to supports to meet your child’s needs.
+-We can help you even if your child is not eligible for the NDIS.
+-Types of early connections available
+-An
+-early childhood partner
+-will talk with you about the different ways you and your child can get supports.
++Early connections are part of the early childhood approach. They’re delivered by
++early childhood partners
++and give you and your child quick access to supports to meet your child’s needs.
++Types of early connections
++An early childhood partner will talk with you about the different ways you and your child can get supports.
+ This might include connections:
+-with community and mainstream supports and services
++with
++community and mainstream supports and services
+ to practical information that’s relevant to your child’s development
+-with other families
+-with early supports if your child is younger than 6 with developmental concerns
++with other families for peer support
++with Early Supports if your child is younger than 6 with developmental concerns
+ to apply to the NDIS if your child has developmental delay or an impairment they’re likely to meet the eligibility requirements for.
+-What makes the early childhood approach different
+-You work with an early childhood partner
+-Early childhood partners are local organisations we fund to help deliver the early childhood approach.
+-Our early childhood partners have teams of professionals with experience and clinical expertise to help young children with delays in their development and their families.
++Early connections may be all you and your child need through the early childhood approach. Your child and family can keep getting support from community and mainstream supports and services when you finish early connections.
++What Early Supports are
++Early Supports are for children younger than 6 who have developmental concerns.
++Early Supports:
++are delivered by an early childhood partner
++will be for a short period, usually 3 to 6 months, but can be up to 12 months
++are designed to help you support your child to build skills in everyday settings.
++Who you’ll work with for the early childhood approach
++You’ll usually work with an early childhood partner
++Early childhood partners
++are local organisations we fund to help deliver the early childhood approach.
++Our early childhood partners have teams of professionals with experience and clinical expertise working with young children with delays in their development and disability, and their families.
++Early childhood partners also help you get the support your child needs if they’re an NDIS participant. This includes working with you to create your child’s NDIS plan and making changes to their plan, if needed during plan reassessments.
++You can connect with them directly by using our
++office finder
++.
++Contact us
++if you’re not sure who your early childhood partner is.
++If there aren’t any early childhood partners in your area
++We’ll work directly with you to connect you to the supports and services your child needs.
++You can
++contact us
++if you have concerns about your child’s development.
++Tip: What’s the difference between early childhood partners and providers?
++NDIS providers
++deliver NDIS early childhood intervention supports for you and your child, if your child is an NDIS participant. There are NDIS providers who provide other supports you can access depending on your child’s individual needs and funding in their NDIS plan.
+ Children aged 9 and above work with a local area coordinator instead
+-Children aged 9 and above, teenagers and adults don’t work with an early childhood partner.
+-They work with an
++Children aged 9 and above, teenagers and adults don’t work with an early childhood partner. They work with an
+ NDIS partner
+ that’s a local area coordinator.
+ How the early childhood approach benefits your child
+ It focuses on your child’s participation in everyday environments.
+-Children learn and develop in natural, everyday settings.
+-This includes their own home, childcare, playgroup, preschool and other places where they play with family or friends.
++Children learn and develop in natural, everyday settings. This includes their own home, childcare, playgroup, preschool and other places where they play with family or friends.
+ Focuses on supporting families
+ The important people in a child’s life have the biggest impact on their learning and development.
+ The early childhood approach is designed to work with families so they have information, tools and support to help their child’s development and participation.
+ Recognises the importance of inclusion for your child
+ It’s important your child has the same opportunities as all children to participate in childcare, playgroup and other activities.
+ If you have concerns about your child’s development
++You can contact an early childhood partner using our
++office finder
++if you’re worried about delays in your child’s development.
++Contact us
++if you’re not sure who your early childhood partner is.
++Aboriginal or Torres Strait Islander families can call First Nations Connect on
++1800 411 640
++.
+ Developmental concerns
+ Developmental concerns is a term used to describe delays in a child’s development that don’t meet our definition of developmental delay.
+ Developmental delay
+@@ -69,28 +102,33 @@
+ A child must be younger than 6 and their presentation must meet the definition in the NDIS Act 2013 to meet the NDIS early intervention requirements for developmental delay. They must also meet the
+ residence requirements
+ .
+-If you don’t have an early childhood partner in your area
+-We’ll work directly with you to connect you to the supports and services you need.
+-You can
+-contact us
+-if you have concerns about your child’s development.
+ Easy Reads
+ Download early connections Easy Read:
+-Early connections (DOCX 67.25KB)
+-Early connections (PDF 6.77MB)
++Early connections
++(DOCX 67.25KB)
++Early connections
++(PDF 6.77MB)
+ Download child representatives Easy Read:
+-Child representatives (DOCX 68.06KB)
+-Child representatives (PDF 7.44MB)
++Child representatives
++(DOCX 68.06KB)
++Child representatives
++(PDF 7.44MB)
+ Our Guidelines
+ Download the early childhood approach guideline:
+-Early childhood approach (DOCX 78.17KB)
+-Early childhood approach (PDF 177.74KB)
++Early childhood approach
++(DOCX 78.17KB)
++Early childhood approach
++(PDF 177.74KB)
+ Download the early connections guideline:
+-Early connections (DOCX 78.83KB)
+-Early connections (PDF 190.18KB)
++Early connections
++(DOCX 78.83KB)
++Early connections
++(PDF 190.18KB)
+ Download the child representatives guideline:
+-Child representatives (DOCX 108.52KB)
+-Child representatives (PDF 321.31KB)
++Child representatives
++(DOCX 108.52KB)
++Child representatives
++(PDF 321.31KB)
+ Video
+ Getting help for your child
+ Learn about getting help for your child younger than 9 in this video.
+```

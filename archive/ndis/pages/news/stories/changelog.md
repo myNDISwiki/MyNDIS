@@ -725,3 +725,43 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-24T02:58:33Z — changed
+
+- Previous SHA-256: `3040d2011f946214ca473f7390bf535e6af1586d8aded8a20b2e5b220253f959`
+- New SHA-256: `02e826b2b99fc2706034379e44f9cea03c7eebbda5950950f7f2cb57628977ab`
+- Visible text lines added: 6
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -47,6 +47,9 @@
+ (56)
+ Search
+ Search
++After a stroke left proud Aurukun Wik-Mungkan man Peter in hospital 1000km from his community, the NDIS helped him get back home to recover on Country with family, friends and culturally fit support.
++Peter is back on Country with support from his community
++31 October 2025
+ Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
+ NDIS supports Andy to live with pride and purpose
+ 30 October 2026
+@@ -59,12 +62,12 @@
+ The 44-year-old NDIS participant from Queensland is thriving in his community and embracing opportunities he once felt were out of reach.
+ John’s built the confidence to pursue his life goals
+ 30 October 2026
++From disability advocacy to stand-up comedy and red-carpet hosting, Karan is using his lived experience to challenge perceptions, start conversations and create plenty of laughs along the way.
++Karan turns lived experience into laughter
++28 October 2026
+ Finding it hard to secure work after school, Jack used his NDIS employment supports to build his confidence and  skills for work. Now he has two jobs – one at Optus Stadium and another at RAC Arena and he just loves them.
+ NDIS support helps Jack find his place in the workforce
+ 8 October 2026
+-For much of Tarsha’s childhood, her parents Jackie and Matt were more than mum and dad. They were also her carers, therapy coordinators and constant supporters, while younger sister Lara played an important role too.
+-Tarsha’s willpower opens up world of possibilities
+-30 September 2026
+ Pagination
+ 1
+ 2
+```
