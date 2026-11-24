@@ -1396,3 +1396,48 @@ Page bytes changed, but no visible-text change was detected.
  Participant experiences
  Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
 ```
+
+## 2026-11-24T03:04:00Z — changed
+
+- Previous SHA-256: `ddd7f3dd8e16059a46eaee58e284f07933627ebbf663967e2c4715a2e4c00740`
+- New SHA-256: `21f925514fe663d895cd698d15628e2177f666c7c18dedd5808e5c3d77f40dfb`
+- Visible text lines added: 6
+- Visible text lines removed: 6
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-19/11/2026, 08:55
++23/11/2026, 10:22
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -123,6 +123,11 @@
+ Learn more
+ Latest news
+ Category
++Provider news
++Help shape the Provider Newsletter
++Date
++19 November 2026
++Category
+ Media release
+ Media release from the Minister
+ Work starts on commissioning NDIS plan management services
+@@ -131,11 +136,6 @@
+ Category
+ News
+ Request for tender for Disability Representative and Carer Organisation Forum
+-Date
+-18 November 2026
+-Category
+-News
+-New 90-day claiming timeframe starts 1 December 2026
+ Date
+ 18 November 2026
+ Read more news
+```
