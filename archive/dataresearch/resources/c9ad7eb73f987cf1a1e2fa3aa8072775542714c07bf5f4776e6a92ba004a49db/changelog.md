@@ -419,3 +419,30 @@ No visible wording change; HTML bytes changed.
 SHA-256: `afd97f6dd311094594a4524efbf3d33cb0b211f8039432f4bc76b6b97860688f`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-24T04:03:31Z — changed
+
+SHA-256: `01b25692ac2836d4ccf31630b352e8e0f7cb7e7812970ec9d78300ab7f96d223`
+
+```diff
+--- before
++++ after
+@@ -73,6 +73,8 @@
+ Participant experience – various measures of the Scheme as experienced by First Nations participants, including the number of 'access met' decisions, participant satisfaction and complaints
+ Providers – number of providers supporting First Nations participants and payments to providers by type of plan management
+ Read the latest dashboard
++First Nations data to 30 September 2026 (XLSX 84KB)
++Previous First Nations reports and data 2025-26
+ First Nations data to 31 March 2026 (XLSX 85KB)
+ Main navigation sidebar
+ Reports and analyses
+@@ -143,7 +145,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-12 June 2026
++24 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```

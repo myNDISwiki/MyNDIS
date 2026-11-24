@@ -685,3 +685,42 @@ No visible wording change; HTML bytes changed.
 SHA-256: `a77af4861a001cdf603bb24b821e4649ae27a7944e1263fbc785952d2a526d1a`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-24T04:03:31Z — changed
+
+SHA-256: `637f6a7fa70b4aaea34c4030ed9b39d5148504190e34126175ebc31370c26334`
+
+```diff
+--- before
++++ after
+@@ -62,6 +62,14 @@
+ Save page as PDF
+ Page title
+ Updated
++Practice review into psychosocial disability and NDIA access
++24 November 2026
++Gender
++24 November 2026
++First Nations
++24 November 2026
++Culturally and Linguistically Diverse
++24 November 2026
+ Specialist Disability Accommodation (SDA) Data
+ 17 November 2026
+ Participant datasets
+@@ -74,14 +82,6 @@
+ 13 November 2026
+ The NDIS in focus
+ 12 November 2026
+-Public data sharing
+-30 October 2026
+-Justice Advisory Panel advice
+-29 October 2026
+-Evidence that helps us improve the NDIS
+-29 October 2026
+-The Inklings WA pilot program
+-23 October 2026
+ Social Menu
+ Facebook
+ (External website)
+```

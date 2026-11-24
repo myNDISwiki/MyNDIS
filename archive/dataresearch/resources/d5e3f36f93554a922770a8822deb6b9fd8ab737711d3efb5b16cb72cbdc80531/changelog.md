@@ -419,3 +419,30 @@ No visible wording change; HTML bytes changed.
 SHA-256: `1148910a18f2672c3149d4bfd0a5c18bdffc76d65550fa75d8afc372cbc74e3b`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-24T04:03:31Z — changed
+
+SHA-256: `35120a118c9075bce2ea2fdb7533f702e961c6bb5bf7a5411acfd662dae9a347`
+
+```diff
+--- before
++++ after
+@@ -75,6 +75,8 @@
+ Participant experience – various measures of the Scheme as experienced by CALD participants, including the number of 'access met' decisions, participant satisfaction and complaints
+ Providers – number of providers supporting CALD participants and payments to providers by type of plan management
+ Read the latest dashboard
++Culturally and Linguistically Diverse (CALD) data to 30 September 2026 (XLSX 86KB)
++Previous Culturally and Linguistically Diverse reports and data 2025-26
+ Culturally and Linguistically Diverse (CALD) data to 31 March 2026 (XLSX 85KB)
+ Main navigation sidebar
+ Reports and analyses
+@@ -145,7 +147,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-12 June 2026
++24 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```

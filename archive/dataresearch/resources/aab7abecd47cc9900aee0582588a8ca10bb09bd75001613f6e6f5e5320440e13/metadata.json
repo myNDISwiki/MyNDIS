@@ -1,0 +1,22 @@
+{
+  "bytes": 87372,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "directory": "resources/aab7abecd47cc9900aee0582588a8ca10bb09bd75001613f6e6f5e5320440e13",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4629/download?attachment=",
+  "first_seen": "2026-11-24T04:03:31Z",
+  "kind": "file",
+  "last_changed": "2026-11-24T04:03:31Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Culturally and linguistically diverse data to 30 September 2026.xlsx\"",
+    "ETag": "\"1795476236:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Mon, 23 Nov 2026 23:23:55 GMT"
+  },
+  "sha256": "dac53927c6f2093b8ea2f54f4dddd9244a606eaa3092e215dfd54e715073d6b6",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4629/download?attachment="
+}

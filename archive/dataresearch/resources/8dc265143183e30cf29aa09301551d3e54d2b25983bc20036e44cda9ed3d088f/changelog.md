@@ -419,3 +419,30 @@ No visible wording change; HTML bytes changed.
 SHA-256: `6d2db95a1d3e442082f9639e1f00bf3ba69c55650de841fd3b6023c3ab4ea8b2`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-24T04:03:31Z — changed
+
+SHA-256: `4846013d66b63a1eba55b22f3d43c75f28d871627834a8c90385dcebc7637974`
+
+```diff
+--- before
++++ after
+@@ -73,6 +73,8 @@
+ Participant experience – various measures of the Scheme as experienced by participants with different genders, including the number of 'access met' decisions, participant satisfaction and complaints
+ Providers – number of providers supporting participants with different genders and payments to providers by type of plan management.
+ Read the latest dashboard
++Gender data to 30 September 2026 (XLSX 111KB)
++Previous Gender reports and data 2025-26
+ Gender data to 31 March 2026 (XLSX 111KB)
+ Main navigation sidebar
+ Reports and analyses
+@@ -143,7 +145,7 @@
+ Quarterly report supplements
+ Specialist Disability Accommodation (SDA) Data
+ This page current as of
+-12 June 2026
++24 November 2026
+ Social Menu
+ Facebook
+ (External website)
+```

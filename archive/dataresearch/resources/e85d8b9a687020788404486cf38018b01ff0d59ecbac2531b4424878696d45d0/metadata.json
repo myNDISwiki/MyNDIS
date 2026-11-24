@@ -1,0 +1,20 @@
+{
+  "bytes": 6033,
+  "content_type": "application/pdf",
+  "directory": "resources/e85d8b9a687020788404486cf38018b01ff0d59ecbac2531b4424878696d45d0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/print/pdf/node/4087",
+  "first_seen": "2026-11-24T04:03:31Z",
+  "kind": "file",
+  "last_changed": "2026-11-24T04:03:31Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "inline; filename=\"Practice review into psychosocial disability and NDIA access.pdf\""
+  },
+  "sha256": "49aea06097d379ff56a1e7b253880cbed18b535f36bc1bb731d48150f93097ab",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/print/pdf/node/4087"
+}

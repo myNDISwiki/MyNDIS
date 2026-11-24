@@ -442,3 +442,20 @@ No visible wording change; HTML bytes changed.
 SHA-256: `c232f76e41b4b973c5f8d87311ec3ab304c03d57c4997d9663332b6c6cba46d9`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-24T04:03:31Z — changed
+
+SHA-256: `a50b55df735ed843121d14bc43ebd39bb74cd54d86a0c8582349b83d166a6100`
+
+```diff
+--- before
++++ after
+@@ -142,6 +142,7 @@
+ Evidence for action
+ Decision-making for access and planning
+ Independent review into art and music supports
++Practice review into psychosocial disability and NDIA access
+ Evidence Summary: Art and Music Therapy
+ Early interventions and high volume cohorts
+ The Inklings WA pilot program
+```

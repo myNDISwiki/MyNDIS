@@ -442,3 +442,20 @@ No visible wording change; HTML bytes changed.
 SHA-256: `531b6fbdbc06f5a3a7627caf65bcb0db75a5a04f74679f399cae999199d76f80`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-24T04:03:31Z — changed
+
+SHA-256: `37d0b6991efeafce03e7fb1b8dfe8d861f7b80e0037988d051a3508251a80162`
+
+```diff
+--- before
++++ after
+@@ -99,6 +99,7 @@
+ Decision-making for access and planning
+ Expand or collapse sub-menu for Decision-making for access and planning
+ Independent review into art and music supports
++Practice review into psychosocial disability and NDIA access
+ Evidence Summary: Art and Music Therapy
+ Early interventions and high volume cohorts
+ Expand or collapse sub-menu for Early interventions and high volume cohorts
+```
