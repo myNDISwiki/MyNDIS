@@ -1,5 +1,8 @@
 # Victorian Government latest changes
 
-Checked: 2026-11-24T11:06:49Z
+Checked: 2026-11-24T23:06:09Z
 
-No page changes detected in this run.
+## MODIFIED
+
+- https://www.vic.gov.au/early-childhood-update-april-2026/effective-mentoring-program-experienced-teachers
+
