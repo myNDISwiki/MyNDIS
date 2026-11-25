@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/support-coordination-and-lac-models-best-implement-plans",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-24T04:03:31Z",
+  "last_changed": "2026-11-25T02:26:40Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fsupport-coordination-and-lac-models-best-implement-plans",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -144,7 +144,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 24 Nov 2026 03:35:09 GMT"
   },
-  "sha256": "fbb32579d4dd143b67229426310c094630a981f336fbe9ceaf04e1d11be6a3d2",
+  "sha256": "f4cfdb1152c7509771538185d68746445b3ee1d43f869dd3e67d22c0a338beaf",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/support-coordination-and-lac-models-best-implement-plans"
 }

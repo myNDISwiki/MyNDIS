@@ -459,3 +459,9 @@ SHA-256: `c53fba09fa076d9d1bc361b0fc4c4f4cea3cf3bdb9547088faad6e217e58a0c2`
  Early interventions and high volume cohorts
  Expand or collapse sub-menu for Early interventions and high volume cohorts
 ```
+
+## 2026-11-25T02:26:40Z — changed
+
+SHA-256: `3efad93ab74c02a0dec5cfeb73b8358be5ed6657c8d9c860b6fe2564007d708e`
+
+No visible wording change; HTML bytes changed.

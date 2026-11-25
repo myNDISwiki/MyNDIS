@@ -1,5 +1,5 @@
 {
-  "bytes": 119883,
+  "bytes": 119884,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/cf8075527e5d79cba3e0193530fec2aff6fae28d81bdd1e349170849e780ad3e",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-vic",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-24T04:03:31Z",
+  "last_changed": "2026-11-25T02:26:40Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-vic",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -342,7 +342,7 @@
   "response_headers": {
     "Last-Modified": "Tue, 24 Nov 2026 04:56:18 GMT"
   },
-  "sha256": "a6d6766bb44e44a3d0d9bf5a763f8b7f4c78e592187df5f735a589b2f340f5c7",
+  "sha256": "360f9f782ef310112fe86a775358e6da187fa86ebbbd0d19a8742a09a23f0807",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-vic"
 }
