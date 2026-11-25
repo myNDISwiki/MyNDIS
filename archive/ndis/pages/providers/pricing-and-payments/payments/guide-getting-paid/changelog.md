@@ -672,3 +672,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  You need to submit payment requests within 2 years after an NDIS support has been delivered.
  To make the payment claim, you need the following information:
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `88ffcfdf987985887cf2de484a62ffe3f293e590175e255d7ca1ef28e3735607`
+- New SHA-256: `f1fc744725bbf3eefcd2811e0ce2a9cbcccb90a5a328cb3e2fb0f01ea79d0f73`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

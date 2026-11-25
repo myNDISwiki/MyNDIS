@@ -2221,3 +2221,35 @@ The page bytes changed, but no visible main-content wording change was detected.
 -Local Area Coordinator (LAC) partner, Northam, 6401
 -18 November 2026
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `5b10bf80bdd3be671943228b552b5ba84d6486d9eec36897d9118c5b0b8aae06`
+- New SHA-256: `38231bb427a32379f8e799801db9ee73339c9df0202199241e36246a86ee91f8`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,10 +5,8 @@
+ Save page as PDF
+ Page title
+ Updated
+-Find specialist disability accommodation (SDA)
+-23 November 2026
+ APS Census
+-23 November 2026
++20 November 2026
+ Karan turns lived experience into laughter
+ 23 November 2026
+ National Disability Insurance Scheme (NDIS), Lavington, 2641
+@@ -25,3 +23,5 @@
+ 19 November 2026
+ Northern Territory
+ 19 November 2026
++Victoria
++19 November 2026
+```

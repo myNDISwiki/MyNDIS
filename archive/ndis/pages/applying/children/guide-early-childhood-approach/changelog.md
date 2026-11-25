@@ -762,3 +762,27 @@ The page bytes changed, but no visible main-content wording change was detected.
  Getting help for your child
  Learn about getting help for your child younger than 9 in this video.
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `a9958f584536c5b98bc153fd58a1f23f699354f5786bb01d948eb12035fd4877`
+- New SHA-256: `868e109d78f373af4574690ea9c515a84bb708268a1219de740ee13cf5cfb5cf`
+- Visible text lines added: 1
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,8 +27,7 @@
+ It helps make sure children:
+ get the right support as early as possible
+ are supported to learn and develop as they go about their everyday activities
+-are included in everyday activities in their home and community
+-and their family get the support they need for their wellbeing.
++are included in everyday activities in their home and community, and their family get the support they need for their wellbeing.
+ The early childhood approach also includes help to
+ apply to the NDIS
+ and help with using your
+```

@@ -550,3 +550,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  We’re making the changes to:
  make it easier for participants to pay providers and manage their NDIS funding
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `b3f5e6c39067befb43a3f2234c250d2d60715dde25ba4ab4a3789e304b095a8a`
+- New SHA-256: `8ed8a2ae6662af07a1cc3626732bbf4d05ef858fb35b80a5c3a1e40f4476c4ba`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

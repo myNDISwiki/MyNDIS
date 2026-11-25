@@ -765,3 +765,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `02e826b2b99fc2706034379e44f9cea03c7eebbda5950950f7f2cb57628977ab`
+- New SHA-256: `3e9356103af689ec69e128302cd35658ec723ceba729746bf996169027347ba2`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

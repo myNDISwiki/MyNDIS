@@ -561,3 +561,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `d6e51d5cebc8e4b2727bf0ff26342b25247d6b0053b52e86646ba993772bef05`
+- New SHA-256: `915860f1d0258b6f8ad500abc134b809c4e54fff7f8b2ca54a3f4ed77530c8f8`
+- Visible text lines added: 3
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -13,6 +13,8 @@
+ Governance
+ Debt management and recovery
+ Governance
++Automated administrative action
++Governance
+ Fund recovery
+ Recovering funds owed to the NDIA
+ Fraud and non-compliance
+@@ -27,4 +29,4 @@
+ Senate Order 13 requires that, twice a year, Commonwealth entities publish details of individual contracts with a total value of $100,000 (GST inclusive) or more.
+ Read Senate Order 13 for Entity contracts
+ This page current as of
+-20 May 2026
++24 November 2026
+```

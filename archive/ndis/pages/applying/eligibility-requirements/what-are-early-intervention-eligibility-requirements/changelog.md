@@ -679,3 +679,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  how to apply
  .
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `cf414679a0235fd9885b39d75e055439c81ada0968a0abcf66015518e1f11ec9`
+- New SHA-256: `5dcd727853ecee9bb569eb451e99193ddeebe2253aaf5569e33217ab3b77e532`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

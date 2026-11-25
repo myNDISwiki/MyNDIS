@@ -739,3 +739,41 @@ The page bytes changed, but no visible main-content wording change was detected.
  Applying
  Eligibility requirements
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `9042fdd787dc21f3f708ba7a7e2ada29e40f61e5c3ea25aede39c360a59d4b6a`
+- New SHA-256: `371875460811ae53add2a04fead49f1f55634bc83bc9d57fd1d86ca7d66d55a7`
+- Visible text lines added: 6
+- Visible text lines removed: 4
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,9 +12,9 @@
+ 1 - What early childhood partners are
+ 2 - What early childhood partners are for
+ What early childhood partners are
+-Early childhood partners are local organisations we fund to help deliver the early
+-childhood
+-approach. They have teams of early childhood professionals with specialist knowledge and experience working with young children and their families.
++Early childhood partners are local organisations we fund to help deliver the
++early childhood approach
++. They have teams of early childhood professionals with specialist knowledge and experience working with young children and their families.
+ They can help if you have a child younger than 9 with delays in their development or disability. Your child doesn’t need a diagnosis for our early childhood partners to help.
+ Get help for your child from your health or education professional
+ Start by talking to your child’s health or education professional if you have a concern about your child's development. This person may be your:
+@@ -28,7 +28,9 @@
+ .
+ Contact us
+ if you’re not sure who your early childhood partner is.
+-Aboriginal or Torres Strait Islander families can call First Nations Connect on 1800 411 640.
++Aboriginal or Torres Strait Islander families can call First Nations Connect on
++1800 411 640
++.
+ Tip: If there aren’t early childhood partners in your area.
+ Contact us
+ and we can help connect you to the supports and services you need.
+```

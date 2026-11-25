@@ -2214,3 +2214,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 -19 November 2026
 +23 November 2026
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `66f2a3683346c9789e9c585383463afd472d799662265f89557319305af0d3f5`
+- New SHA-256: `3d4fa234f279822428582c55336694818d54dcaf83b1dae298c38364ef771cb7`
+- Visible text lines added: 33
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -85,6 +85,38 @@
+ Knowledge Article: IRT – Enacting a planning review decision – dated 13 October 2025
+ Guidelines – Principles of s100 Planning Review – dated 27 March 2024
+ Guidelines – Principles of s100 Planning Review – dated 20 November 2024
++FOI 26/27-0866
++26/10/2026
++Operational documents, procedures, knowledge articles, task cards and decision matrices governing the Participant Information Access (PIA) scheme
++FOI 26/27-0866 (PDF 24MB)
++27 documents released in full.
++1. Training Material – Service Delivery New Starter Training Package
++2. Training Material - Participant Information Access (PIA) Induction and Training Manua
++3. Planning material -Administrative Access Scheme
++4. Training Material - Actioning Officer (AO) Processing Checklist
++5. Process Guidance - Module 9 Team Specific Learning
++6. Process Checklist - Documents Available Through the Participant Information Access Scheme
++7. Training Material - Participant Information Access (PIA) for Team Leaders
++8. Training Material - Personal Information and Participant Information Access (PIA) for Action Officers
++9. Training Material - Risks and Sensitivities in Participant Information Access (PIA) documents
++10. Training Materials - Risks and Sensitivities in PIA documents
++11. Process Guidance - Assessing PIA requests for triage
++12. Process Checklist - Administrative Access Scheme
++13. Process Checklist - PIA Inbox Management
++14. Process Guidance - Comparison of Three Information Release Mechanisms
++15. Process Guidance - FOI - PIA vs APP12 vs FOI comparison
++16. Process Guidance - Validity criteria - PIA, APP12 and FOI requests
++17. Internal Training Package - NCC Training- PIA Document Extraction
++18. Process Guidance - Actioning Officer (AO) Processing Checklist
++19. Process Checklist - PIA vs FOI Determining Suitability
++20. Process Checklist - PIA Decision points
++21. Process Guidance - PIA Decision Matrix
++22. Process Guidance - PIA decision points
++23. Process Guidance - Release Mechanism Checklist
++24. SOP - Registering PIA matters on LEX
++25. SOP - Registering PIA matters on LEX FOI (for NCC)
++26. SOP - Release Mechanism Checklist (AA APP12 FOI)
++27. CRM document locations for PIA requested information
+ FOI 26/27-0743
+ 20/10/2026
+ Statistical data regarding public hospital patients who are current or prospective NDIS participants.
+@@ -9114,4 +9146,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-23 November 2026
++24 November 2026
+```

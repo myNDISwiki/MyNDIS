@@ -639,3 +639,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  APS Employee Census 2023 –
  NDIA Highlights Report (PDF 1.3MB)
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `73837798528938afd68f94d1b6db8e0eb4007040767f03de98f9b1cbf0464d4a`
+- New SHA-256: `3d62846838e4abca56fab08c675afda3651a234cd6cafd8a3cccceb01cd4f044`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

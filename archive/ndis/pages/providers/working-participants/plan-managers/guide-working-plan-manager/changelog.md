@@ -591,3 +591,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  A plan manager’s role is to help participants by managing their NDIS funding.
  Their role relates to plan managed NDIS supports in a participant’s NDIS plan. It doesn’t include support with day-to-day administration or management of the whole plan.
 ```
+
+## 2026-11-25T00:42:58Z — changed
+
+- Previous SHA-256: `64afd5520edac42c5826e0992d307e2811375da5d865dd27c72e6e17dbd6157d`
+- New SHA-256: `bf61e7687c15f5640c15e2fae8916b72e0e761d3446a0c9e66bdfd89b12bad81`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
