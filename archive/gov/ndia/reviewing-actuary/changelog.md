@@ -1441,3 +1441,53 @@ Page bytes changed, but no visible-text change was detected.
  18 November 2026
  Read more news
 ```
+
+## 2026-11-25T01:06:34Z — changed
+
+- Previous SHA-256: `21f925514fe663d895cd698d15628e2177f666c7c18dedd5808e5c3d77f40dfb`
+- New SHA-256: `0e31ad73d85efe51993ad68b4b94901f37b6357c20e07b8f850f6053bd3cfa9e`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+```diff
+--- before
++++ after
+@@ -2,7 +2,7 @@
+ Skip to main content
+ Skip to main navigation
+ Welcome to the new NDIS website
+-23/11/2026, 10:22
++24/11/2026, 02:35
+ Notice
+ We are updating information on this website to reflect
+ new NDIS legislation
+@@ -123,21 +123,20 @@
+ Learn more
+ Latest news
+ Category
+-Provider news
+-Help shape the Provider Newsletter
++News
++Improving how people with psychosocial disability apply to the NDIS
+ Date
+-19 November 2026
++24 November 2026
+ Category
+ Media release
+-Media release from the Minister
+-Work starts on commissioning NDIS plan management services
++Tougher controls target NDIS fraud as offender jailed
+ Date
+-19 November 2026
++23 November 2026
+ Category
+ News
+-Request for tender for Disability Representative and Carer Organisation Forum
++NDIS online data updated
+ Date
+-18 November 2026
++23 November 2026
+ Read more news
+ Participant experiences
+ Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
+```
