@@ -1,0 +1,1092 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js">
+    <head>
+        
+            <base href="https://consultations.health.gov.au/ndis/nfp-public-consultation/"/>
+        
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The site lists consultations that are run by the Department of Health, Disability and Ageing. On this site you can find, share or take part in consultations.">
+        
+        
+        <title>
+            Published responses for NDIS rules: Public consultation on new framework planning
+             - Australian Government Department of Health, Disability and Ageing
+            - Citizen Space
+        </title>
+        
+        <link rel="stylesheet" href="/static_frontend/vendor/lato-2.015/fonts.css">
+        <link type="text/css" href="/static_frontend/vendor/dlb-public-ui/css/bootstrap.css" rel="stylesheet">
+        
+        <link type="text/css" href="https://consultations.health.gov.au/static_frontend/vendor/dlb-public-ui/css/dlb-public-ui-compiled.css" rel="stylesheet">
+        <link type="text/css" href="https://consultations.health.gov.au/static_frontend/css/citizenspace.css" rel="stylesheet">
+
+        
+
+        
+        <script type="text/javascript">
+            var tr_auto_embed = true;
+        </script>
+
+        <!--jQuery -->
+        <script type="text/javascript" src="/static_frontend/vendor/dlb-public-ui/libraries/jquery/jquery.min.js"></script>
+        <!--/jQuery -->
+        <script type="text/javascript" src="/static_frontend/js/fluid-resize.js?version=8.21.0"></script>
+        
+        <script type="text/javascript" src="/static_frontend/js/tr-safe-embed.js?version=8.21.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/text-truncate.js?version=8.21.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/tr-pdf.js?version=8.21.0"></script>
+        <script type="text/javascript" src="/static_frontend/js/typeahead/typeahead.bundle.min.js?version=8.21.0"></script>
+        
+        
+        
+
+        <!--
+            Part of the Bootstrap 5 migration involves prefixing Bootstrap JS attributes with bs-
+            This has been done in our codebase, but copy/pasted content such as fact banks may still have old attributes.
+            Shim these attributes to allow these to remain working.
+        -->
+        <script>
+            const bootstrapEventShim = function() {
+                document.querySelectorAll('[data-toggle]').forEach((el) => {
+                    let attrVal = el.dataset.toggle;
+                    el.dataset.bsToggle = attrVal;
+                });
+                document.querySelectorAll('[data-target]').forEach((el) => {
+                    let attrVal = el.dataset.target;
+                    el.dataset.bsTarget = attrVal;
+                });
+            }
+            document.addEventListener("DOMContentLoaded", bootstrapEventShim);
+        </script>
+
+         <!-- Bootstrap JS Components -->
+        <script src="/static_frontend/vendor/dlb-public-ui/libraries/bootstrap-5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+        
+
+        <!-- Page-specific CSS and JS can go here -->
+        
+
+        
+            <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LXD4QN5RFW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LXD4QN5RFW');
+</script>
+        
+
+        <!-- Remove no-js class if scripts are enabled -->
+        <script>
+            document.documentElement.classList.remove('no-js')
+        </script>
+
+        <!-- Ensure collapsible content is displayed and misleading links are hidden if JS is disabled -->
+        <noscript>
+            <style>
+                .collapse {
+                    display: block;
+                }
+
+                .show-when-no-js {
+                    display:block;
+                }
+
+                .hide-when-no-js {
+                    display:none;
+                }
+            </style>
+        </noscript>
+
+    </head>
+
+    <body
+          data-site-root="https://consultations.health.gov.au">
+        <div id="skip">
+            <a href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/published_select_respondent?_b_index=120#page-content">Skip to Main Content</a>
+        </div>
+        
+
+<script>
+
+    jQuery(document).ready(function() {
+        
+
+        var options = {};
+        // used to disable the go button when the selected page is the current page
+        var cur_page = jQuery("#preview-navigation-page-select").val()
+
+        jQuery("#preview-navigation-page-select").change(function() {
+            var page = jQuery(this).val();
+            var button = jQuery("#preview-navigation button");
+            if (page != "" && page != cur_page) {
+                button.prop('disabled',false);
+            } else {
+                button.prop('disabled','disabled');
+            }
+        });
+
+        jQuery("#preview-navigation button").click(function(event) {
+            var page = jQuery("#preview-navigation-page-select").val();
+            var consultation_root = jQuery("#preview-navigation").data("consultation-root");
+            var survey_root = jQuery("#preview-navigation").data("survey-root");
+            var cookie_path = jQuery("#preview-navigation").data("cookie-path");
+
+            function set_state(state) {
+                document.cookie="preview_state="+state+";path="+cookie_path+";";
+            }
+
+            set_state("open");
+            if (page === "_hub") {
+                window.location = survey_root;
+            } else if (page == "_overview_open") {
+                window.location = consultation_root;
+            } else if (page == "_overview_closed") {
+                set_state("closed");
+                window.location = consultation_root;
+            } else if (page == "_overview_forthcoming") {
+                set_state("forthcoming");
+                window.location = consultation_root;
+            } else if (page == "_response_submitted") {
+                window.location = survey_root + "confirm_submit_thankyou";
+            } else if (page == "_published_responses") {
+                set_state("closed");
+                window.location = survey_root + "published_select_respondent";
+            } else if (page == "") {
+                // No-op, shouldn't get here (hah..).
+            } else {
+                window.location = survey_root + page;
+            }
+        });
+
+    });
+</script>
+
+        <div id="global-wrapper">
+
+            
+
+            <header id="global-nav" class="navbar navbar-default navbar-expand-md navbar-static-top dss-navbar">
+                <div class="container-fluid">
+                    <div class="row flex-grow-1 py-2 pb-md-0 pt-lg-1">
+                        <div class="mb-md-2 py-lg-1 col-md-8 ">
+                            <div class="navbar-header d-flex justify-content-between">
+                                <div id="global-nav-main-heading">
+                                    
+                                        <a id="global-nav-site-title" href="https://www.health.gov.au/">
+                                            <img src="https://consultations.health.gov.au/os-custom-logos/dohda-logo-inline-white-l.png"
+                                                alt="Department of Health, Disability and Ageing" class="global-nav-logo ms-3 ms-md-0" />
+                                        </a>
+                                    
+                                </div>
+                                <button class="navbar-toggler d-md-none align-self-center"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#global-navbar-collapse"
+                                    aria-expanded="false"
+                                    aria-controls="global-navbar-collapse">
+                                    <span class="fa-solid fa-caret-down"></span>
+                                    <span>Menu</span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="col align-content-center d-flex align-items-center">
+                            <div id="cs-global-search-container-md" class="d-none d-md-block flex-grow-1">
+                                <!-- Javascript puts the search form here for sm viewports -->
+                                <form id="cs-global-search" action="https://consultations.health.gov.au/consultation_finder/" method="GET">
+                                    
+                                    <div role="search">
+                                        
+                                        <label for="cs-global-search-input" class="visually-hidden">Search</label>
+                                        <div class="input-group">
+                                            <input class="form-control" size="27" id="cs-global-search-input" type="text" name="keyword" placeholder="Search"/>
+                                            <button class="btn btn-primary" aria-label="Search" id="cs-global-search-button">
+                                                <span class="fa-solid fa-magnifying-glass"></span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+
+                            
+                        </div>
+                        
+                        <div class="w-100"></div>
+                        <div>
+                            <nav class="collapse navbar-collapse navbar-left px-3 px-md-0"
+                                id="global-navbar-collapse"
+                                aria-label="primary">
+
+                                <div id="global-navbar-collapse-inner" class="py-2">
+
+                                    <div id="cs-global-search-container-xs" class="d-md-none">
+                                        <!-- Javascript puts the search form here for xs viewports -->
+                                    </div>
+                                    
+                                    <ul class="cs-navbar-nav-list">
+                                        <li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/">
+        <span class="cs-navbar-nav-link-text">Home</span>
+    </a>
+</li>
+<li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/consultation_finder/">
+        <span class="cs-navbar-nav-link-text">Find Activities</span>
+    </a>
+</li>
+<li class="cs-navbar-nav-list-item">
+    <a class="cs-navbar-nav-link" href="/we_asked_you_said/">
+        <span class="cs-navbar-nav-link-text">We Asked, You Said, We Did</span>
+    </a>
+</li>
+
+                                    </ul>
+                                    
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <main id="page-content-wrapper">
+                <div id="page-content" tabindex="-1">
+                    <div>
+        <section>
+
+    
+        <div
+                class="dss-rhino cs-consultation-banner"
+                style="background-image: url('https://consultations.health.gov.au/os-custom-logos/consultation-hub-banner.png')">
+            
+        </div>
+    
+
+    
+
+    
+
+    <div class="dss-rhino dss-rhino-brand-color dss-rhino-padding-bottom-15">
+        <div class="container-fluid dss-text-brand-color">
+            <div class="row">
+                <div>
+                    <h1 id="cs-consultation-title-in-banner">
+                        <a href="https://consultations.health.gov.au/ndis/nfp-public-consultation/">
+                            NDIS rules: Public consultation on new framework planning
+                        </a>
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+
+        <section class="dss-rhino dss-rhino dss-rhino-padding-top-5 dss-rhino-padding-bottom-25">
+            <div class="container-fluid">
+                <div class="row">
+                    <div>
+                        <div class="dss-easy-reading">
+                            <h2>Published responses</h2>
+                            <div><p><span><span>Between 23 January 2026 and 6 March 2026, we explained how some of the rules related to new framework planning will work and asked for feedback to support its development.</span></span></p>
+
+<p><span><span>Only written submissions from respondents who gave permission are published. We have redacted personal information from submissions (other than names where consent have been provided). If you have concerns about any redactions, please contact <a href="mailto:NDISConsultations@health.gov.au">NDISConsultations@health.gov.au</a>.</span></span></p>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="dss-rhino dss-rhino-2021-warm-light-grey dss-rhino-padding-bottom-40"
+                 style="border-bottom: solid 1px #ddd;">
+                 
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-3 order-md-2 cs-rp-col-search-form">
+                        <div class="cs-rp-search-form-container">
+                            <h3 class="cs-rp-search-form-header d-none d-md-block">Search responses</h3>
+                            <h3 class="cs-rp-search-form-header d-md-none">
+                                <a href="#responses-search-form-container"
+                                  id="toggle-responses"
+                                  role="button"
+                                  class="collapsed"
+                                  data-bs-toggle="collapse" aria-expanded="false" aria-controls="responses-search-form-container">Search responses</a>
+                            </h3>
+                            <div class="cs-rp-search-form-content" id="responses-search-form-container">
+                                
+                                <div class="cs-rp-search-form-content-inner">
+                                    <form class="dss-form" method="GET" action="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/published_select_respondent?_b_index=120">
+                                        <input type="hidden" name="show_all_questions" value="0">
+                                        <input type="hidden"
+                                            name="sort"
+                                            value="submitted"
+                                            />
+                                        <input type="hidden"
+                                            name="order"
+                                            value="ascending"
+                                            />
+                                        <div class="row">
+                                            <div>
+                                                <div class="mb-3">
+                                                    <label for="text-search">Keyword(s):</label>
+                                                    <input id="text-search" name="_q__text" type="text" class="form-control" value=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="cs-rp-filter-container">
+                                            <div class="cs-rp-filter">
+                                                <fieldset class="cs-rp-filter-responses-checkbox">
+                                                    <legend class="cs-rp-filter-header">
+                                                        
+                                                        <a role="button"
+                                                           style="display:none"
+                                                           class="collapsed"
+                                                           data-bs-toggle="collapse"
+                                                           href="#question-2026-01-09-7971361116-radiosubquestion-1767932835-13"
+                                                           aria-expanded="false"
+                                                           aria-controls="question-2026-01-09-7971361116-radiosubquestion-1767932835-13">
+                                                            Individual or Organistion
+                                                        </a>
+                                                        <span class="cs-rp-non-js-heading">
+                                                            Individual or Organistion
+                                                        </span>
+                                                    </legend>
+                                                    
+                                                    <div id="question-2026-01-09-7971361116-radiosubquestion-1767932835-13" class="cs-rp-filter-content collapse ">
+                                                        
+    
+    <div class="cs-rp-filter-content-inner">
+        <label for="question-2026-01-09-7971361116-radiosubquestion-1767932835-13-0">
+            <span class="cs-rp-filter-responses-checkbox-input">
+                <input type="checkbox"
+                    value="Individual"
+                    name="_q_question-2026-01-09-7971361116-radiosubquestion-1767932835-13"
+                    id="question-2026-01-09-7971361116-radiosubquestion-1767932835-13-0" />
+            </span>
+            <span class="cs-rp-filter-responses-checkbox-text">
+                Individual
+            </span>
+        </label>
+    </div>
+
+    
+    <div class="cs-rp-filter-content-inner">
+        <label for="question-2026-01-09-7971361116-radiosubquestion-1767932835-13-1">
+            <span class="cs-rp-filter-responses-checkbox-input">
+                <input type="checkbox"
+                    value="Organisation, group or service provider"
+                    name="_q_question-2026-01-09-7971361116-radiosubquestion-1767932835-13"
+                    id="question-2026-01-09-7971361116-radiosubquestion-1767932835-13-1" />
+            </span>
+            <span class="cs-rp-filter-responses-checkbox-text">
+                Organisation, group or service provider
+            </span>
+        </label>
+    </div>
+
+                                                    </div>
+                                                </fieldset>
+                                            </div>
+                                        </div>
+                                        <button class="dss-btn dss-btn-sm dss-btn-primary cs-rp-btn-submit"
+                                          aria-label="Search"
+                                          type="submit">
+                                            <span class="fa-solid fa-magnifying-glass"></span> Search
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-9 order-md-1">
+                        <h3>
+                            172 Published responses
+                        </h3>
+
+                        <form action="" id="cs-pr-sort-order-form">
+                            <label for="cs-pr-sort-order-select">Sort by:</label>
+                            <select name="sort-order" id="cs-pr-sort-order-select" class="form-select" style="width: auto; display: inline;">
+                                <option value="submitted-ascending" selected="selected">Date submitted: oldest to newest</option>
+                                <option value="submitted-descending">Date submitted: newest to oldest</option>
+                                <option value="excerpt-ascending">Alphabetical: A to Z</option>
+                                <option value="excerpt-descending">Alphabetical: Z to A</option>
+                            </select>
+                            <input type="submit" class="show-when-no-js" value="Submit" />
+                        </form>
+
+                        <div class="row" role="list">
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=189117208">
+                                        <span class="cs-rp-published-excerpt">Mito Foundation (legal name: The Australian Mitochondrial Disease Foundation)</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=835180275">
+                                        <span class="cs-rp-published-excerpt">See Differently with the Royal Society for the Blind</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=802919292">
+                                        <span class="cs-rp-published-excerpt">Professionals Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=872664531">
+                                        <span class="cs-rp-published-excerpt">Response 872664531</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=1019548798">
+                                        <span class="cs-rp-published-excerpt">Consumers of Mental Health WA</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=991138635">
+                                        <span class="cs-rp-published-excerpt">Response 991138635</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=767078665">
+                                        <span class="cs-rp-published-excerpt">Kin Disability Advocacy Inc.</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=1072424132">
+                                        <span class="cs-rp-published-excerpt">Response 1072424132</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=146119442">
+                                        <span class="cs-rp-published-excerpt">Grattan Institute</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=991200581">
+                                        <span class="cs-rp-published-excerpt">APM</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=802685302">
+                                        <span class="cs-rp-published-excerpt">Response 802685302</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=1052427936">
+                                        <span class="cs-rp-published-excerpt">Rare Voices Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=484223095">
+                                        <span class="cs-rp-published-excerpt">Parents of Deaf Children</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=367560462">
+                                        <span class="cs-rp-published-excerpt">Response 367560462</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=277256258">
+                                        <span class="cs-rp-published-excerpt">Response 277256258</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=41143155">
+                                        <span class="cs-rp-published-excerpt">Response 41143155</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=497928009">
+                                        <span class="cs-rp-published-excerpt">Response 497928009</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=990519269">
+                                        <span class="cs-rp-published-excerpt">Response 990519269</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=121561288">
+                                        <span class="cs-rp-published-excerpt">People with Disability Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=276203781">
+                                        <span class="cs-rp-published-excerpt">Physical Disability Council of NSW</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=831605689">
+                                        <span class="cs-rp-published-excerpt">Professor Jennifer Smith-Merry</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=47155055">
+                                        <span class="cs-rp-published-excerpt">Queensland Advocacy for Inclusion</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=421608345">
+                                        <span class="cs-rp-published-excerpt">Queensland Independent Disability Advocacy Network</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=180656407">
+                                        <span class="cs-rp-published-excerpt">Queenslanders with Disability Network Ltd</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=600899463">
+                                        <span class="cs-rp-published-excerpt">Uniting Communities</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=1002460770">
+                                        <span class="cs-rp-published-excerpt">Villamanta Disability Rights Legal Service</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=571467774">
+                                        <span class="cs-rp-published-excerpt">Aged and Disability Advocacy Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=121974793">
+                                        <span class="cs-rp-published-excerpt">Aspect</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=767315185">
+                                        <span class="cs-rp-published-excerpt">Association for Behaviour Analysis Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=6694818">
+                                        <span class="cs-rp-published-excerpt">Australian Autism Alliance </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=120262473">
+                                        <span class="cs-rp-published-excerpt">Dieticians Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=987264968">
+                                        <span class="cs-rp-published-excerpt">Endeavour Foundation</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=876311978">
+                                        <span class="cs-rp-published-excerpt">JFA Purple Orange</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=836315569">
+                                        <span class="cs-rp-published-excerpt">Mental Health Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=94583782">
+                                        <span class="cs-rp-published-excerpt">National Aboriginal Community Controlled Health Organisation</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=273939455">
+                                        <span class="cs-rp-published-excerpt">Occupational Therapy Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=390001944">
+                                        <span class="cs-rp-published-excerpt">Pedorthic Association of Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=769285259">
+                                        <span class="cs-rp-published-excerpt">Active Ability</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=609294770">
+                                        <span class="cs-rp-published-excerpt">Amity Support Services</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=493205538">
+                                        <span class="cs-rp-published-excerpt">Response 493205538</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=680556336">
+                                        <span class="cs-rp-published-excerpt">Response 680556336</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=8013177">
+                                        <span class="cs-rp-published-excerpt">Response 8013177</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=636564664">
+                                        <span class="cs-rp-published-excerpt">Response 636564664</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=989177993">
+                                        <span class="cs-rp-published-excerpt">Response 989177993</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=504592336">
+                                        <span class="cs-rp-published-excerpt">Response 504592336</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=507728264">
+                                        <span class="cs-rp-published-excerpt">Disability Solutions and Outcomes</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=475996774">
+                                        <span class="cs-rp-published-excerpt">Sisu Therapies</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=492313413">
+                                        <span class="cs-rp-published-excerpt">Australian Federation of Disability Organisations</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=406480922">
+                                        <span class="cs-rp-published-excerpt">Motor Neurone Disease Association of Victoria</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=964699068">
+                                        <span class="cs-rp-published-excerpt">Multicultural Disability Advocacy Australia</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=202286082">
+                                        <span class="cs-rp-published-excerpt">Occupational Therapy Society for Invisible Disabilities (OTSi)</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4" role="listitem">
+                                <div class="dss-card cs-rp-published-response">
+                                    <a
+                                       rel="nofollow" href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&amp;uuId=904650307">
+                                        <span class="cs-rp-published-excerpt">Solid Foundations Allied Health</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row" style="margin-top:30px">
+                            <div class="col-md-5">
+                                Page 3 of 3
+                            </div>
+
+                            <div class="col-md-7">
+                                <nav class="text-muted cs-pagination-widget" aria-label="pagination">
+                                    <ul class="list-unstyled">
+                                        <li style="display: inline;">
+                                            <a href="https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/published_select_respondent?_b_index=60"
+                                            aria-label="Previous page">
+                                                <span class="fa-solid fa-circle-chevron-left icon-space-right"></span>Previous page
+                                            </a>
+                                            <span class="d-none d-md-inline" aria-hidden="true">|</span>
+                                        </li>
+                                        <li style="display: inline;">
+                                            <span class="cs-pagination-widget-next">
+                                                
+                                                Next page<span class="fa-solid fa-circle-chevron-right icon-space-left"></span>
+                                                
+                                            </span>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var is_mobile = false;
+
+                function areWeAMobileSizeNow() {
+                    return $("#toggle-responses").is(":visible");
+                }
+
+                $(window).resize(function(){
+                    if (areWeAMobileSizeNow() && !is_mobile) {
+                        // We just transitioned to mobile
+                        is_mobile = true;
+                        $("#responses-search-form-container").addClass("collapse");
+                    } else if (!areWeAMobileSizeNow() && is_mobile) {
+                        // We just transitioned back to not-mobile
+                        is_mobile = false;
+                        $("#responses-search-form-container").removeClass("collapse");
+                    }
+                });
+
+                if (areWeAMobileSizeNow() && !is_mobile) {
+                    is_mobile = true;
+                    $("#responses-search-form-container").addClass("collapse");
+                }
+
+                $(".cs-rp-filter-header a").show();
+                $(".cs-rp-filter-header .cs-rp-non-js-heading").hide();
+
+                document.getElementById('cs-pr-sort-order-select').addEventListener('change', function () {
+                    document.getElementById('cs-pr-sort-order-form').submit();
+                });
+            });
+        </script>
+
+    </div>
+                </div>
+            </main>
+        </div>
+        <footer id="configurable-footer-wrapper">
+            <div class="cs-page-component-group">
+                
+                    <section class="dss-rhino cs-page-component-container dss-rhino-footer" style="">
+    <div class="container-fluid">
+        <div class="cs-page-component cs-page-component-contrast">
+    <div class="row" id="global-footer">
+            <div id="citizen-space-footer-nav" 
+                class="col-12 col-md-8 order-1 order-md-2" 
+                role="navigation"
+                aria-label="miscellaneous">
+                <ul class="list-inline">
+                    
+                        <li id="nav-item-accessibility_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/accessibility_policy/">Accessibility</a></li>
+                    
+                        <li id="nav-item-terms_and_conditions" class="list-inline-item"><a href="https://consultations.health.gov.au/terms_and_conditions/">Terms of Use</a></li>
+                    
+                        <li id="nav-item-cookie_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/cookie_policy/">Cookies</a></li>
+                    
+                        <li id="nav-item-privacy_policy" class="list-inline-item"><a href="https://consultations.health.gov.au/privacy_policy/">Privacy</a></li>
+                    
+                        <li id="nav-item-support" class="list-inline-item"><a href="https://consultations.health.gov.au/support/">Help / feedback</a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 order-2 order-md-1">
+                <span id="citizen-space-footer-logo">
+                <a href="https://www.delib.net/citizen_space">Citizen Space</a>
+                <span>from</span> 
+                <a href="https://www.delib.net">Delib</a>
+                </span>
+            </div>
+    </div>
+
+</div>
+
+        
+    </div>
+</section>
+
+
+                
+                    <section class="dss-rhino cs-page-component-container dss-rhino-footer" style="">
+    <div class="container-fluid">
+        <div class="cs-page-component cs-html-component">
+        <div class="row cs-html-component-one-column">
+            <div>
+                <div class="cs-page-component-contrast ">
+                    
+                    <hr><p>The Department of Health, Disability and Ageing acknowledges the traditional owners of country throughout Australia, and their continuing connection to land, sea and community. We pay our respects to them and their cultures, and to elders both past and present.</p>
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
+
+        
+    </div>
+</section>
+
+
+                
+            </div>
+        </footer>
+
+        
+        
+        
+
+        <script type="text/javascript">
+            $(function() {
+                // Skip to content workaround for absolute skip links
+                jQuery('#skip a').bind("click", function(event) {
+                    var target = jQuery(this).attr('href').split('#')[1];
+                    jQuery("#"+target+"").focus();
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+        //<!-- js contains some invalid HTML characters
+            $(function() {
+                // Global search
+                var search_form = $("#cs-global-search");
+                var search_form_input = $("#cs-global-search-input");
+
+                // Scroll to search results on submit of global search form
+                search_form.submit(function() {
+                    if (search_form_input.attr('placeholder') == search_form_input.val()) {
+                        search_form_input.val('');
+                    }
+                    sessionStorage.setItem('saved-scrollTop', '500');
+                });
+
+                // Move the global search form into the appropriate container depending on viewport size
+                function move_global_search_form() {
+                    // if global nav (and global search) are turned off, bail
+                    if(!search_form.length) {
+                        return;
+                    }
+
+                    var md_container = $("#cs-global-search-container-md");
+                    var xs_container = $("#cs-global-search-container-xs");
+
+                    // btw we can't test if xs_container is visible because it's hidden inside the burger menu
+
+                    if (md_container.is(":visible")) {
+                        if(!md_container.find("#cs-global-search").length) {
+                            md_container.append(search_form);
+                        }
+                    }
+                    else {
+                        if(!xs_container.find("#cs-global-search").length) {
+                            xs_container.append(search_form);
+                        }
+                    }
+                }
+                move_global_search_form();
+                $(window).resize(move_global_search_form);
+
+                // Function to update the query string
+                function updateQueryStringParameter(uri, key, value) {
+                    var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                    var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                    if (uri.match(re)) {
+                        return uri.replace(re, '$1' + key + "=" + value + '$2');
+                    } else {
+                        return uri + separator + key + "=" + value;
+                    }
+                }
+
+                // Event listener to detect changes in the large viewport language `select`
+                var languageSelect = document.getElementById('language-picker-select');
+                if (languageSelect) {
+                    languageSelect.addEventListener('change', function() {
+                        var form = document.getElementById('global-language-picker');
+                        form.submit();
+                    });
+                }
+
+            });
+
+            // a11y hax. There are some elements generated by the ol libraries that need some extra attributes for a11y.
+            // Putting them here was preferable to overriding masses of ol code.
+            $(window).on("load", function() {
+              var zoomins = document.getElementsByClassName('ol-zoom-in');
+              for (let i=0; i<zoomins.length; i++) {
+                zoomins[i].setAttribute('aria-label', 'Zoom in');
+              }
+              var zoomouts = document.getElementsByClassName('ol-zoom-out');
+              for (let j=0; j<zoomouts.length; j++) {
+                zoomouts[j].setAttribute('aria-label', 'Zoom out');
+              }
+              var attributions = document.getElementsByClassName('ol-attribution');
+              for (let k=0; k<attributions.length; k++) {
+                attributions[k].getElementsByTagName('button')[0].setAttribute('aria-label', 'Attribution');
+              }
+              var recentre = document.getElementsByClassName('cs-zoom-to-extent');
+              for (let m=0; m<recentre.length; m++) {
+                recentre[m].getElementsByTagName('button')[0].setAttribute('aria-label', 'Recentre map');
+              }
+              var search = document.getElementsByClassName('cs-map-postcode-popup');
+              for (let m=0; m<search.length; m++) {
+                search[m].getElementsByTagName('button')[0].setAttribute('aria-label', 'Go to a postcode');
+              }
+            }
+            );
+        //-->
+        </script>
+
+        
+          
+          <script type="text/javascript">    var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-33186073-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();  </script>
+
+
+          
+        
+    </body>
+</html>
+
