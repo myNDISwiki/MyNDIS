@@ -583,3 +583,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `555c6ce6c0d4b53e650211885e23c58045a9625eebd33ec599c6a87df8d79fac`
+- New SHA-256: `bab7b994e0bff901281f223490c5d72c3f21e45e12d895dc2e92cf59f6d3c6dc`
+- Visible text lines added: 1
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -245,9 +245,9 @@
+ How to set employment goals
+ Transitioning from other systems
+ Expand or collapse sub-menu for Transitioning from other systems
++Guide to the justice system
+ Guide to your hospital stay
+ What is a hospital liaison officer (HLO)
+-What is a justice liaison officer (JLO)
+ Guide to residential aged care
+ Leaving the NDIS
+ Expand or collapse sub-menu for Leaving the NDIS
+```

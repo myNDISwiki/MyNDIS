@@ -648,3 +648,27 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `f8aba99a43294d4c98c5fe2f11cd8b5e0d11d8a788c93b1ee4a8002d347243f3`
+- New SHA-256: `e10cd86779602d081249f834d37d8b9fafd641b6faadd195ee0f1cc3f595b33e`
+- Visible text lines added: 3
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -88,6 +88,9 @@
+ For early childhood providers
+ Expand or collapse sub-menu for For early childhood providers
+ How to write an early childhood provider report
++For providers and justice professionals
++Expand or collapse sub-menu for For providers and justice professionals
++Guide to the NDIS for providers and justice professionals
+ For GPs and health professionals
+ Expand or collapse sub-menu for For GPs and health professionals
+ Guide to the NDIS for GPs and health professionals
+```

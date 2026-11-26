@@ -2273,3 +2273,97 @@ The page bytes changed, but no visible main-content wording change was detected.
 -23 November 2026
 +24 November 2026
 ```
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `3d4fa234f279822428582c55336694818d54dcaf83b1dae298c38364ef771cb7`
+- New SHA-256: `2566dcae7caf4717aa140afba26af66cc85c9edd24af9fcabc95436a18752b6a`
+- Visible text lines added: 54
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -220,6 +220,32 @@
+ RE_ ABC story about NDIS appeals – dated 27 July 2026
+ Criteria to treat decision as favourable – draft – dated February 2026
+ Post ART decision checklist for adverse substantive ART decisions
++FOI 26/27-0113
++30/09/2026
++Internal guidance documents regarding funding of dietitian services for participants requiring dietetic supports, home enteral nutrition (HEN) or other forms of oral and enteral tube feeding.
++FOI 26/27-0113 (PDF 3.4MB)
++4 documents released in full
++6 documents in part – under sections 47E(d), 47F and 22 of the FOI Act
++1. Our Guidelines - Nutrition supports including meal preparation v5.0
++2. Our Guidelines – Disability-related health supports v7.0
++3. Our Guidelines – Dysphagia supports v5.0
++4. Knowledge Article – Understand disability-related health supports – core supports v8.0
++5. Knowledge Article – Add or Update disability-related health supports Appendix A – Guide to core supports v2.0
++–
++released in part
++6. Knowledge Article – Add or Update disability-related health supports – Appendix B – Guide to capacity building supports v2.0
++–
++released in part
++7. Knowledge Article – Understand supports for participants who need help to move around in shared living arrangements v3.0
++–
++released in part
++8. Knowledge Article – Understand supports for participants who can move independently in shared living arrangements v6.0
++–
++released in part
++9. Guide – HEN feeding consumables guide
++–
++released in part
++10. Research Paper - Average cost and consumption of Home Enteral Nutrition formula
+ FOI 26/27-0759
+ 24/09/2026
+ Recruitment documents for the Technical Advice and Practice Improvement Branch.
+@@ -235,6 +261,18 @@
+ FOI 25/26-2830 (PDF 157KB)
+ 1 document was released in full:
+ 1. S17 – Data – Convictions in Relation to Fraud & Total Number of Plans Based on Active Participants
++FOI 26/27-0110
++21/09/2026
++Internal guidance about transport support for children with disability.
++FOI 26/27-0110 (PDF 3.7MB)
++7 documents released in part under sections 47E(d) and 47F of the FOI Act
++1. Knowledge Article - EC PEC – Carers – Sustaining informal supports v5.0
++2. Knowledge Article – Understand transport supports v7.0
++3. Knowledge Article - Submit a referral to the Complex Support Needs (CSN) Branch v14.0
++4. Our Guidelines – Changing your plan v9.0
++5. Our Guidelines – Include specific types of supports in plans v3.0
++6. Our Guidelines – Reasonable and necessary supports v8.0
++7. Our Guidelines – Social and recreation support v7.0
+ FOI 26/27-0684
+ 18/09/2026
+ 30 June 2026, document issued as revocation data for the last four quarters in 2025/26
+@@ -260,6 +298,21 @@
+ 11. Research Paper - Home and Living Supports for People with Dementia
+ 12. Research Paper - Staffing Strategies in Positive Behaviour Support
+ 13. Guidance Material - ASD Stocktake of Resources
++FOI 26/27-0107
++14/09/2026
++Internal guidance that NDIA staff use to assess therapy and multidisciplinary capacity-building supports for children.
++FOI 26/27-0107 (PDF 4.4MB)
++1 document released in full
++7 documents released in part -under section 47E(d) of the FOI Act
++1. Knowledge Article - EC PEC - NDIS Pathway Hearing Stream-v3
++2. Operational Guidelines - OG - Early childhood approach-v6.0 –
++released in full
++3. Knowledge Article - EC PEC – Capacity building – How to complete early childhood intervention supports questions-v3
++4. Knowledge Article - EC Guide - Supporting children younger than 7 who are deaf or hard of hearing-v4
++5. Knowledge Article - EC Interpreting provider reports and recommendations-v3
++6. Knowledge Article - EC Early childhood intervention supports overview-v4
++7. Knowledge Article - EC PEC – Capacity building – Health and wellbeing (Disability related health supports)-v3
++8. Knowledge Article - EC PEC – Core – Equipment and consumables-v3
+ FOI 26/27-0238
+ 14/09/2026
+ Guidance and tools used by planners to evaluate evidence supplied by participants.
+@@ -9146,4 +9199,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-24 November 2026
++26 November 2026
+```

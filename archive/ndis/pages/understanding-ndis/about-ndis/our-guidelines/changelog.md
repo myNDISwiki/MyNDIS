@@ -906,3 +906,28 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `697a8fd74d905c0a3414eab5c7c93ff42d062f87fac3ca473ebf6e03aadfff9d`
+- New SHA-256: `a79b0fd31853e30292e316e6ffef6e388cb5f03ebfb1763c4e6aea0bc5bf3430`
+- Visible text lines added: 1
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -123,9 +123,7 @@
+ Reviewing a decision
+ Reviewing our decisions
+ Reviewing our decisions
+-(PDF 371KB)
+-Reviewing our decisions
+-(DOCX 112KB)
++(DOCX 113KB)
+ Having someone represent you
+ Child representatives
+ Child representatives
+```

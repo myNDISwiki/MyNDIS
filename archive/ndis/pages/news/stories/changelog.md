@@ -774,3 +774,27 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `3e9356103af689ec69e128302cd35658ec723ceba729746bf996169027347ba2`
+- New SHA-256: `68fc657eb3e21409a62704d37499a97b7740211ef0d8223451b724220adc39d5`
+- Visible text lines added: 0
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -47,9 +47,6 @@
+ (56)
+ Search
+ Search
+-After a stroke left proud Aurukun Wik-Mungkan man Peter in hospital 1000km from his community, the NDIS helped him get back home to recover on Country with family, friends and culturally fit support.
+-Peter is back on Country with support from his community
+-31 October 2025
+ Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
+ NDIS supports Andy to live with pride and purpose
+ 30 October 2026
+```

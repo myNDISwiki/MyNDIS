@@ -561,3 +561,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `1f465f86f8e14e32423f90ceffb4d2c4f6d43638ca06133efbe486ca486e9ef8`
+- New SHA-256: `08ea2b165d90c4e06130186be545fcc798dd5b8bb0d4c8548663ebcf6e4df743`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -39,6 +39,7 @@
+ Department of Communities (Disability Services)
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```

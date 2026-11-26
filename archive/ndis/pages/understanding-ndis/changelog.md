@@ -1039,3 +1039,50 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `a75e928a489b91794e098cff520555c4543e295b9f2250c819defbe897a1b150`
+- New SHA-256: `b1d6c5622860191b9cef821b11c1483d75568f0552800f2e8094d69eb699c5e8`
+- Visible text lines added: 13
+- Visible text lines removed: 6
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,6 +17,19 @@
+ Events and information sessions
+ Category
+ Community Engagement
++Consultation
++Early Childhood
++Employment
++General information
++New to the NDIS
++Participant
++NDIS Community Forum in Adelaide
++Event Date
++Tuesday, 1 December 2026
++Event address
++Adelaide, SA 5000
++Category
++Community Engagement
+ Early Childhood
+ Employment
+ General information
+@@ -33,12 +46,6 @@
+ Understanding the NDIS Webinar Series: NDIS Early childhood approach
+ Event Date
+ Tuesday, 15 December 2026
+-Category
+-Community Engagement
+-Online Event
+-Understanding the NDIS Webinar Series: Applying to the NDIS: Community Connections
+-Event Date
+-Wednesday, 9 December 2026
+ More events and information sessions
+ This page current as of
+ 4 May 2026
+```

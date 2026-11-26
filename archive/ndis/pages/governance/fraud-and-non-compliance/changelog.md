@@ -588,3 +588,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `ccbf575f7eda50f0f42bed4295a0c50b70dfbcda7614a9d491f61b9324f1e7d3`
+- New SHA-256: `baed68da7765d886c4e685465878fd475569aaeb0fff0a5891ccf0bb2ced311f`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -170,6 +170,7 @@
+ WA Police
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```

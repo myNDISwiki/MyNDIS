@@ -786,3 +786,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  apply to the NDIS
  and help with using your
 ```
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `868e109d78f373af4574690ea9c515a84bb708268a1219de740ee13cf5cfb5cf`
+- New SHA-256: `484c9d419241a57f8459311cceb13ae8b30e10df53cfbe24588f7950d514cafb`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

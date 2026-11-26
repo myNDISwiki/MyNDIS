@@ -561,3 +561,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `8e7c65b7487cd514a55a0801868aad8354acbe90edd9ce0d8640b21e54a19211`
+- New SHA-256: `2483fc3448c882d001c491b87f738810accd129e8169a8f228f994902836f88b`
+- Visible text lines added: 2
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -18,5 +18,6 @@
+ Working with participants
+ For assistive technology providers
+ Working with participants
++For providers and justice professionals
+ This page current as of
+-12 May 2026
++25 November 2026
+```

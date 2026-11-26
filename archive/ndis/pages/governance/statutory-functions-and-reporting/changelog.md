@@ -570,3 +570,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `31c25b182c42762b3f1dbe0c461d8b65990450b68c8062e020edf020f5620d78`
+- New SHA-256: `2978b4875fe6a17eab7cd9d11d5187bfec3fc3534bed477c55e36db3b07dcf12`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -42,6 +42,7 @@
+ Like most Australian Government agencies, the NDIA also administers incidental functions and powers, for example, those relating to freedom of information, financial matters and personnel decision-making.
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```

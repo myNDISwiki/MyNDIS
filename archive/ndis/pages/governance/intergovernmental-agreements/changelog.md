@@ -570,3 +570,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `621a5319aa7ad6a07992f6454ffcd330b05ab1ae9a9dd10e536495c92808cfc9`
+- New SHA-256: `ff5b0b5865800afab6416a53aa3a866092aaa310ec11eb2450a5a360828a6c4d`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -54,6 +54,7 @@
+ (except Western Australia)
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```

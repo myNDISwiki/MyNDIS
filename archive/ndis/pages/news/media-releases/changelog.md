@@ -1091,3 +1091,53 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `50069505de3cdd67393ba9657cf4cbf35d18b2b1d7008be0168392051cb57eee`
+- New SHA-256: `b3e653377cc2ddc3548a691c7243ab53d50d6d99730d9293e7f98776d0376f6e`
+- Visible text lines added: 7
+- Visible text lines removed: 8
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -21,7 +21,7 @@
+ NT
+ (1)
+ November 2026
+-(2)
++(3)
+ October 2026
+ (3)
+ September 2026
+@@ -110,6 +110,12 @@
+ Search
+ Category
+ Media release
++Tougher controls target NDIS fraud as offender jailed
++Stronger controls are making it harder to defraud the NDIS, with a Sydney man jailed last week.
++Date
++23 November 2026
++Category
++Media release
+ Media release from the Minister
+ Work starts on commissioning NDIS plan management services
+ The Australian Government is charging ahead with strengthening the integrity of the National Disability Insurance Scheme (NDIS), with work beginning to commission plan management services by establishing a new Plan Management Panel.
+@@ -142,13 +148,6 @@
+ Families of children with extra developmental needs can now access expanded information and supports, as part of the Australian Government’s Thriving Kids program.
+ Date
+ 1 October 2026
+-Category
+-Media release
+-News
+-New price limits set for NDIS supports
+-As the new statutory decision maker for NDIS price limits, the Minister for Disability and the National Disability Insurance Scheme, Mark Butler MP, has made the first NDIS pricing determination under changes introduced through the NDIS Amendments (Securing the NDIS for Future Generations) Act 2026.
+-Date
+-24 September 2026
+ Pagination
+ 1
+ 2
+```

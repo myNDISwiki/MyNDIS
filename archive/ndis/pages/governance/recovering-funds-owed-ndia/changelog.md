@@ -606,3 +606,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `9470c1cde9315d1cc16a08a55209a5c300d82a4f43cc42b85258ba92ec892ac7`
+- New SHA-256: `f54c5399c3a0f0e0a292eeed4284dd954f66e03cab74cbe8de820b4b0f258af6`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -101,6 +101,7 @@
+ Actions are proceeding against the family members with the ABN that made the claims.
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```

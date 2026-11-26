@@ -588,3 +588,30 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `ce7c9665e6e864177f41b752aba9cea2ce8b5f300fac6f775a000dc1f60a1ed8`
+- New SHA-256: `759dcc60b12d831d8b5c8f8d19bf8caf2c44d63dc55b2bf1a7c8706d9edfe0b6`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -10,9 +10,9 @@
+ Transitioning from other systems
+ What is a hospital liaison officer (HLO)
+ Transitioning from other systems
+-What is a justice liaison officer (JLO)
+-Transitioning from other systems
+ Guide to residential aged care
+ Transitioning from other systems
++Guide to the justice system
++Transitioning from other systems
+ This page current as of
+-3 May 2026
++25 November 2026
+```

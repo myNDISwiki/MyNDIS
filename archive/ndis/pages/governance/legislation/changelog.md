@@ -561,3 +561,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `45b3ea48deecd975156cda40f9030e884d72e423505e83ca8e4b1eedcb3c1113`
+- New SHA-256: `c55d87d7e6d8926a9a50090a08dff5bd614103a33a8f6fcb4ed76b9fec0f252e`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -33,6 +33,7 @@
+ Inter-governmental agreements
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```

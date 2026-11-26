@@ -574,3 +574,12 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `e33b5da2ca89c67e6eff0004236f92f2de2ab71ea92faba025cc20171422d936`
+- New SHA-256: `bc28537f3cb949487af580699b736c59a9b91ce40767a60dd8ef6029b7d92cf7`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

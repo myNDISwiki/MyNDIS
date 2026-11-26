@@ -1379,3 +1379,40 @@ The page bytes changed, but no visible main-content wording change was detected.
  Participant experiences
  Proud gay man and NDIS participant Andy is breaking down barriers around access and inclusion in the queer community and is enjoying a life he chooses to live.
 ```
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `c77a23a4612b23d76e010d3f5922fea36cb36ff88816de64b0e5cce21fb0e631`
+- New SHA-256: `096785ea1f09f91029f87778a5fb6287defe1970ffed0b9abc1dd7544c4cf70c`
+- Visible text lines added: 5
+- Visible text lines removed: 5
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -32,17 +32,17 @@
+ Latest news
+ Category
+ News
++Stronger NDIS claim checks stop millions in suspicious claims
++Date
++25 November 2026
++Category
++News
+ Improving how people with psychosocial disability apply to the NDIS
+ Date
+ 24 November 2026
+ Category
+ Media release
+ Tougher controls target NDIS fraud as offender jailed
+-Date
+-23 November 2026
+-Category
+-News
+-NDIS online data updated
+ Date
+ 23 November 2026
+ Read more news
+```

@@ -2406,3 +2406,78 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `fc9346f7a289003c0183959591bd587a07b634b065ced8adec52e7f78e896412`
+- New SHA-256: `c15537ddda3139ffed6622e0650b20cbddb6522107bd3c06ed69bef94f731990`
+- Visible text lines added: 15
+- Visible text lines removed: 15
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(343)
++(345)
+ Notification
+ (47)
+ News State or Territory
+@@ -78,11 +78,11 @@
+ (29)
+ News date
+ November 2026
+-(11)
++(13)
+ October 2026
+ (15)
+ September 2026
+-(13)
++(14)
+ August 2026
+ (15)
+ July 2026
+@@ -362,6 +362,18 @@
+ Search
+ Search
+ Category
++News
++Stronger NDIS claim checks stop millions in suspicious claims
++The NDIA is strengthening its checks on claims to protect participants’ NDIS funding from fraud, misuse and incorrect payments.
++Date
++25 November 2026
++Category
++News
++Improving how people with psychosocial disability apply to the NDIS
++The National Disability Insurance Agency (NDIA) reviewed how we support people with psychosocial disability to access the NDIS.
++Date
++24 November 2026
++Category
+ Media release
+ Tougher controls target NDIS fraud as offender jailed
+ Stronger controls are making it harder to defraud the NDIS, with a Sydney man jailed last week.
+@@ -386,18 +398,6 @@
+ The Australian Government is charging ahead with strengthening the integrity of the National Disability Insurance Scheme (NDIS), with work beginning to commission plan management services by establishing a new Plan Management Panel.
+ Date
+ 19 November 2026
+-Category
+-News
+-Request for tender for Disability Representative and Carer Organisation Forum
+-The NDIA has released an approach to market for membership to the Disability Representative and Carer Organisation (DRCO) Forum.
+-Date
+-18 November 2026
+-Category
+-News
+-New 90-day claiming timeframe starts 1 December 2026
+-Providers and plan managers must review outstanding claims now and submit eligible claims as soon as possible before the new 90-day claiming timeframe starts.
+-Date
+-18 November 2026
+ Pagination
+ 1
+ 2
+```

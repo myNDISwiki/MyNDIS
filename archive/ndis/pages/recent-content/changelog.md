@@ -2253,3 +2253,61 @@ The page bytes changed, but no visible main-content wording change was detected.
 +Victoria
 +19 November 2026
 ```
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `38231bb427a32379f8e799801db9ee73339c9df0202199241e36246a86ee91f8`
+- New SHA-256: `97099ed1de2ce6e1e41e9ed1a49bed135fd95a8b50571fc14edd5125f1bdabbf`
+- Visible text lines added: 20
+- Visible text lines removed: 20
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
+-APS Census
+-20 November 2026
+-Karan turns lived experience into laughter
+-23 November 2026
+-National Disability Insurance Scheme (NDIS), Lavington, 2641
+-23 November 2026
+-National Disability Insurance Scheme (NDIS), Port Pirie, 5540
+-20 November 2026
+-Quarterly Reports
+-20 November 2026
+-How to use the my NDIS app
+-20 November 2026
+-NDIS Community Forum in Mt Gambier
+-20 November 2026
+-Help shape the Provider Newsletter
+-19 November 2026
+-Northern Territory
+-19 November 2026
+-Victoria
+-19 November 2026
++FOI disclosure log
++26 November 2026
++For providers and justice professionals
++26 November 2026
++Stronger NDIS claim checks stop millions in suspicious claims
++25 November 2026
++Transitioning from other systems
++25 November 2026
++Guide to the justice system
++25 November 2026
++Guide to the NDIS for providers and justice professionals
++25 November 2026
++Working with participants
++25 November 2026
++Our guidelines
++25 November 2026
++Improving how people with psychosocial disability apply to the NDIS
++25 November 2026
++NDIS Community Forum in Adelaide
++25 November 2026
+```

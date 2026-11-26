@@ -709,3 +709,45 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `9d4273f173ba59eca117e92b0327e7c879c1e87bdd814a7ee58633e4434eec66`
+- New SHA-256: `788ca19eb01d1914bd9e61b79194b23dce5cce83279b51a5baeb67b41ed72e37`
+- Visible text lines added: 4
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -237,9 +237,9 @@
+ Guide to employment support for young participants
+ How to set employment goals
+ Transitioning from other systems
++Guide to the justice system
+ Guide to your hospital stay
+ What is a hospital liaison officer (HLO)
+-What is a justice liaison officer (JLO)
+ Guide to residential aged care
+ Leaving the NDIS
+ Guide to leaving the NDIS
+@@ -259,6 +259,7 @@
+ Annual Report 2015-16
+ Annual Report 2014-15
+ Annual Report 2013-14
++Automated administrative action
+ Changes to plan management
+ Getting the NDIS back on track
+ Summary of legislation changes
+@@ -320,6 +321,8 @@
+ Working with participants
+ For early childhood providers
+ How to write an early childhood provider report
++For providers and justice professionals
++Guide to the NDIS for providers and justice professionals
+ For GPs and health professionals
+ Guide to the NDIS for GPs and health professionals
+ How to determine whether your patient is eligible
+```

@@ -2278,3 +2278,77 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `b60a18567c006cbb6d5f5aca1405368d5ba8e481f7daa6924201fff4b60c2957`
+- New SHA-256: `690bf9cc0fc4301e424ba6b0e4bdb620a38924115c57ff9aec36021914f213b9`
+- Visible text lines added: 15
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -12,7 +12,7 @@
+ To filter, select an option and press the Apply button. Page will reload automatically.
+ Event Category
+ Community Engagement
+-(10)
++(8)
+ Early Childhood
+ (2)
+ General information
+@@ -34,29 +34,13 @@
+ Event State or Territory
+ SA
+ (2)
+-WA
+-(1)
+ Event date
+ December 2026
+ (8)
+ November 2026
+-(4)
++(2)
+ Search
+ Search
+-Category
+-Community Engagement
+-Changes to NDIS support budgets - an overview for community and participants
+-The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
+-Event Date
+-Tuesday, 24 November 2026
+-Category
+-Community Engagement
+-NDIS Community Forum in Kalgoorlie
+-Join us at a community forum in Kalgoorlie on 24 November 2026. At the forum, you can learn about what changes to the NDIS might mean for you. You’ll have the chance to ask questions about what’s happening and what you need to do.
+-Event Date
+-Tuesday, 24 November 2026
+-Event address
+-Kalgoorlie, WA 6430
+ Category
+ Provider Engagement
+ Sector Briefing – Plan Management Request for Information
+@@ -89,6 +73,19 @@
+ The NDIA is hosting a series of webinars to provide detailed information about changes introduced through the National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Bill 2026.
+ Event Date
+ Tuesday, 1 December 2026
++Category
++Community Engagement
++Changes to NDIS support budgets - an overview for community and participants
++The NDIA is hosting a series of webinars to provide information about changes to NDIS support budgets. The sessions will focus on budget reductions (also called Support Determinations).
++Event Date
++Tuesday, 8 December 2026
++Category
++Community Engagement
++Online Event
++Understanding the NDIS Webinar Series: Applying to the NDIS: Community Connections
++Community connections are all about helping you find the supports you need in your local community.
++Event Date
++Wednesday, 9 December 2026
+ Pagination
+ 1
+ 2
+```

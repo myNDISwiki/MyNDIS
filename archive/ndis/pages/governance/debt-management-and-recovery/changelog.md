@@ -840,3 +840,25 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-26T00:31:25Z — changed
+
+- Previous SHA-256: `73b5936ff1666df86602ba4bb8d0c8bacfee6686e522f55d5736b2a7c56616bf`
+- New SHA-256: `2fe03a0b2dd48d3fb6bb53c8a823f9d3620c374791325b2136a50080609809a9`
+- Visible text lines added: 1
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -99,6 +99,7 @@
+ Talk to your my NDIS contact or visit your local NDIA office in person.
+ Main navigation sidebar
+ Governance
++Automated administrative action
+ Government ministers and departments
+ Intergovernmental agreements
+ Legislation
+```
