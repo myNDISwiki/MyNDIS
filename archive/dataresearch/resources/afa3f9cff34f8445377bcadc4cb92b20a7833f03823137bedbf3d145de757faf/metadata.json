@@ -1,5 +1,5 @@
 {
-  "bytes": 65915,
+  "bytes": 65912,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/afa3f9cff34f8445377bcadc4cb92b20a7833f03823137bedbf3d145de757faf",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-participant-outcomes-reports/participant-family-and-carer-outcomes-qld",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-25T02:26:40Z",
+  "last_changed": "2026-11-26T01:52:29Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Foutcomes-and-goals%2Fprevious-participant-outcomes-reports%2Fparticipant-family-and-carer-outcomes-qld",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -185,9 +185,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 24 Nov 2026 04:56:45 GMT"
+    "Last-Modified": "Thu, 26 Nov 2026 02:36:36 GMT"
   },
-  "sha256": "5cff7abe7daabfb78432ac1f05b34547f8af7bd7b7c63964cadb7fd1dd00754b",
+  "sha256": "98512676b317ef83373f07741cb752383e5fa08df6087bafbf3ef3fb57e8d15a",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/outcomes-and-goals/previous-participant-outcomes-reports/participant-family-and-carer-outcomes-qld"
 }

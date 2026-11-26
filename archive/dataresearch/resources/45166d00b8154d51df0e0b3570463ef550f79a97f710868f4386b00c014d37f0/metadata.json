@@ -1,0 +1,22 @@
+{
+  "bytes": 160243,
+  "content_type": "application/pdf",
+  "directory": "resources/45166d00b8154d51df0e0b3570463ef550f79a97f710868f4386b00c014d37f0",
+  "embeds": [],
+  "files": [
+    "content.bin"
+  ],
+  "final_url": "https://dataresearch.ndis.gov.au/media/4632/download?attachment=",
+  "first_seen": "2026-11-26T01:52:29Z",
+  "kind": "file",
+  "last_changed": "2026-11-26T01:52:29Z",
+  "links": [],
+  "response_headers": {
+    "Content-Disposition": "attachment; filename=\"Psychosocial-Access-Practice Review-Summary.pdf\"",
+    "ETag": "\"1795577762:dtagent10349261020121938+8L7\"",
+    "Last-Modified": "Wed, 25 Nov 2026 03:36:01 GMT"
+  },
+  "sha256": "bed57bfb9a6e97101b0ab8231323863a94e58e47211308e02bb166ab213ace07",
+  "status": "active",
+  "url": "https://dataresearch.ndis.gov.au/media/4632/download?attachment="
+}

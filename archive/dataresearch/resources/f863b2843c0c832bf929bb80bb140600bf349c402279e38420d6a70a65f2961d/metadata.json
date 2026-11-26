@@ -1,5 +1,5 @@
 {
-  "bytes": 58007,
+  "bytes": 58653,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/f863b2843c0c832bf929bb80bb140600bf349c402279e38420d6a70a65f2961d",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning/practice-review-psychosocial-disability-and-ndia-access",
   "first_seen": "2026-11-24T04:03:31Z",
   "kind": "page",
-  "last_changed": "2026-11-25T02:26:40Z",
+  "last_changed": "2026-11-26T01:52:29Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fdecision-making-access-and-planning%2Fpractice-review-psychosocial-disability-and-ndia-access",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -52,6 +52,8 @@
     "https://dataresearch.ndis.gov.au/datasets/provider-datasets",
     "https://dataresearch.ndis.gov.au/explore-data",
     "https://dataresearch.ndis.gov.au/languages",
+    "https://dataresearch.ndis.gov.au/media/4632/download?attachment=",
+    "https://dataresearch.ndis.gov.au/media/4633/download?attachment=",
     "https://dataresearch.ndis.gov.au/modules/contrib/cacheflush/css/cacheflush.menu.css?tozbwt=",
     "https://dataresearch.ndis.gov.au/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?tozbwt=",
     "https://dataresearch.ndis.gov.au/print/pdf/node/4087",
@@ -143,9 +145,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Tue, 24 Nov 2026 03:32:30 GMT"
+    "Last-Modified": "Wed, 25 Nov 2026 03:43:59 GMT"
   },
-  "sha256": "7c240de8bc838aa204984737e9bb2113b80d7a6aa41c04be05918e975daae500",
+  "sha256": "3d12fb31405b011d20d29cf45d75cebd34740d71fe8961a4b033cd73a119eb93",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/decision-making-access-and-planning/practice-review-psychosocial-disability-and-ndia-access"
 }

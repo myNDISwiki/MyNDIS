@@ -465,3 +465,9 @@ SHA-256: `d3edce46748040574e256961d1a704fbe5c0d65083a200c0e885ed6ce9d1e71c`
 SHA-256: `42939d9dd16193b41729f5b7aeca4ef541b21feacbeecfed56f1a8a0c61ea615`
 
 No visible wording change; HTML bytes changed.
+
+## 2026-11-26T01:52:29Z — changed
+
+SHA-256: `0b5601213ef117f5a89f847a219d10d18d33282dcc092adf9dd1f745417db33a`
+
+No visible wording change; HTML bytes changed.
