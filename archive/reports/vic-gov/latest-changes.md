@@ -1,5 +1,8 @@
-# Victorian Government latest changes
+# vic-gov latest archive changes
 
-Checked: 2026-11-25T22:37:55Z
+## MODIFIED
 
-No page changes detected in this run.
+- `archive/gov/vic-gov/pages/early-childhood-update-april-2026/effective-mentoring-program-experienced-teachers/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-august-2024/building-blocks-grants-open-applications/current.html`
+- `archive/gov/vic-gov/pages/early-childhood-update-august-2024/helping-teachers-and-educators-return-sector/current.html`
+
