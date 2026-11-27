@@ -610,3 +610,127 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `cda88dc079b4973703a54ae74e533f0e8045b3018506605c3d12e4e2a2b47c90`
+- New SHA-256: `765cf8fe9ead9b60b77c68f3c1a75526c36f030d49806c5386c69c1179bb8127`
+- Visible text lines added: 36
+- Visible text lines removed: 21
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -7,14 +7,14 @@
+ Save page as PDF
+ On this page:
+ Step 1: Connect with an NDIS partner
+-Step 2: Work with your treating health professional to gather evidence
++Step 2: Work with your treating health professional or NDIS partner to gather evidence
+ Step 3: Complete your application
+ Step 4: Submit your application
+ Step 5: Wait for our decision
+ Our Guideline
+ On this page:
+ 1 - Step 1: Connect with an NDIS partner
+-2 - Step 2: Work with your treating health professional to gather evidence
++2 - Step 2: Work with your treating health professional or NDIS partner to gather evidence
+ 3 - Step 3: Complete your application
+ 4 - Step 4: Submit your application
+ 5 - Step 5: Wait for our decision
+@@ -23,15 +23,22 @@
+ Check if there is an NDIS partner near you
+ Use our
+ office finder
+-to find out if there’s an
++to see if there’s an
+ NDIS partner
+-near you.
++near you. You’ll need to connect with an
++early childhood partner
++if you’re applying for a child under 9.
+ Contact us
+-You can contact us on 1800 800 110 or visit us in person at your local office, if you’re not sure who your NDIS partner is. We'll connect you with an NDIS partner.
++You can contact us on
++1800 800 110
++or visit us in person at your local office, if you’re not sure who your NDIS partner is. We'll connect you with an NDIS partner.
+ We’ll connect you with someone at the NDIA in special circumstances or if there is no NDIS partner in your area.
+ Your NDIS partner will become your
+ my NDIS contact
+ if you apply and are eligible to become an NDIS participant.
++Aboriginal or Torres Strait Islander people can call our First Nations Connect service on
++1800 411 640
++.
+ Meet with your NDIS partner
+ Your NDIS partner can explain the application process, and the kinds of information and evidence we need to decide if you’re eligible to become a participant.
+ Your NDIS partner can also talk to you about the
+@@ -45,15 +52,22 @@
+ your needs
+ the NDIS eligibility requirements
+ the application process
+-the evidence you need to provide.
++the evidence you need to provide
++your
++identity
++your age
++whether you live in Australia
++whether you’re an Australian citizen, permanent resident or hold a special category visa
++people you give
++consent
++to act on your behalf.
+ Tip: You can take a support person with you to all your meetings.
+-You can take whoever you feel most comfortable with to any meeting with us.
+-This could be a family member, friend, support coordinator or recovery coach.
+-Step 2: Work with your treating health professional to gather evidence
+-You need to provide information and
+-evidence
+-from your treating health professional in your application.
+-You might need to book an appointment with your treating health professional to talk about what evidence you need for your application.
++You can take whoever you feel most comfortable with to any meeting with us. This could be a family member, friend, support coordinator or recovery coach.
++Step 2: Work with your treating health professional or NDIS partner to gather evidence
++You need to provide evidence about you and your disability or disabilities from your treating health professional to apply to the NDIS.
++Your NDIS partner can help you understand what type of health professionals you’ll need to get evidence from to support your application and what information they’ll need to provide.
++You might need to book an appointment with your treating health professional or NDIS partner to talk about what evidence you need for your application.
++Early childhood partners can give evidence for children younger than 6 with developmental delay.
+ Learn more about
+ how to gather evidence
+ for your application.
+@@ -82,16 +96,17 @@
+ .
+ Step 5: Wait for our decision
+ We’ll let you know within 90 days
+-We’ll tell you if you are
++We’ll tell you if you’re
+ eligible for the NDIS
+-in 90 days once your application and all your
+-supporting evidence
+-is submitted to us.
+-We tell you if you’ve met the
++in 90 days once we have your complete application.
++We may ask you for more information and evidence to help us decided if you’re eligible.
++We’ll tell you if you’ve met the
+ disability
+ or
+ early intervention requirements
+-or both if you become an NDIS participant. We also give you an impairment notice that describes this.
++or both if you become an NDIS participant. We’ll also give you
++information about your impairment
++categories.
+ If you're not eligible for the NDIS
+ We’ll send a letter to explain why you’re not eligible for the NDIS. You can call us on 1800 800 110 if you’d like to talk to us about our decision.
+ You can ask for us to review that decision if you don’t agree.
+@@ -105,9 +120,9 @@
+ Our Guideline
+ Download the applying to the NDIS guideline:
+ Applying to the NDIS
+-(PDF 580.69KB)
++(PDF 581KB)
+ Applying to the NDIS
+-(DOCX 143.18KB)
++(DOCX 143KB)
+ Main navigation sidebar
+ Applying
+ Eligibility requirements
+```

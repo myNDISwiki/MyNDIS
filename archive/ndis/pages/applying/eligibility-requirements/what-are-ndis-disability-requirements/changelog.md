@@ -717,3 +717,96 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `876b71340e9d77059386efd52d3166903384ed1559743725d545810713e5186a`
+- New SHA-256: `72950788c567911f0f94aa8dc176269642351f3be2d538c5e8d441287569f96f`
+- Visible text lines added: 14
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,23 +27,24 @@
+ The NDIS disability requirements are the same for everyone who applies. The requirements come from NDIS laws.
+ Not every person with disability in Australia will qualify for the NDIS. The NDIS is for people with disabilities that meet all the
+ eligibility requirements
+-. To be eligible you'll meet the age, residence and disability requirements.
++. To be eligible you'll meet the age, residence and requirements for disability, early intervention or both.
+ What the NDIS disability requirements are like
+-You’ll need to give us evidence from your doctor, specialist or treating professional. This will help us decide if you meet the disability requirements.
++You’ll need to give us evidence from your treating health professional, like your doctor or specialist. This will help us decide if you meet the disability requirements.
+ Learn more about
+ gathering evidence
+ .
+ You may meet both the disability and the
+ early intervention
+ requirements at the same time.
+-Your disability is caused by an impairment
+-To meet the disability requirements, we must have evidence that your disability is caused by one or more of the following impairments:
++Your disability is related to an impairment
++To meet the disability requirements, we must have evidence that your disability relates to one or more of the following impairment categories:
+ intellectual
+ cognitive
+ neurological
+ sensory
+ physical
+-relating to a psychosocial disability.
++psychosocial disability.
++A psychosocial disability means you have reduced capacity to do daily activities and tasks due to your mental health.
+ We consider an impairment a significant change in at least one of the following:
+ your body’s functions
+ your body’s structure
+@@ -52,31 +53,28 @@
+ Your impairment is likely to be permanent
+ We need to see evidence you’ll likely have your impairment for your whole life.
+ It’s okay if you have periods of life where there's a smaller impact on your daily life. We understand sometimes the impact of your impairment can go up and down and come in episodes.
+-There are some situations where a disability or diagnosis is permanent, but your impairment is temporary, is still being treated or there are more treatment options.
++Even when your condition or diagnosis is permanent, we’ll check if your resulting impairment is permanent too. For example, there are known, available and appropriate treatment options that are likely to remedy the impairment.
+ We usually consider whether your impairment is likely to be permanent after all available and appropriate treatment options have been considered.
++Your impairment will likely be permanent if your treating health professional tells us there are no further treatments that could remedy it.
+ Your impairment substantially reduces your functional capacity
+-Your permanent impairment needs to substantially reduce your
+-functional capacity
+-or ability to do daily activities.
+-This must be in one or more of the following areas:
++Your permanent impairment needs to substantially reduce your functional capacity in relation to one or more of the following activities:
+ communicating
+ socialising
+ learning
+ moving around
+ looking after yourself
+ managing your life.
+-Your permanent impairment must substantially reduce your ability to do everyday activities. This means you need disability-specific supports, such as:
++Your permanent impairment must substantially reduce your ability to do everyday activities. This means you need disability-related supports, such as:
+ a high level of support from other people, such as physical assistance, guidance, supervision or prompting
+ assistive technology, equipment or home modifications prescribed by a health professional.
+ Your impairment affects your ability to work, study or take part in social life
+ We look at how your permanent impairment affects your ability to work, study or socialise.
+-We might look at your ability to do things like:
++We look at your ability to do things like:
+ find and keep a job, or start your own business
+ study
+-spend and save money
+ play sport
+-go to the movies
+ volunteer
++participate in cultural activities
+ travel.
+ Your impairment means you’ll need NDIS supports for your lifetime
+ The last thing we look at is whether you’re likely to need support under the NDIS for your whole life.
+@@ -91,8 +89,8 @@
+ If you're not sure you meet the disability requirements
+ Get in touch with your
+ local NDIS partner
+-for advice if you meet the age and residence requirements, but are unsure if you meet the disability requirements.
+-They’ll help you to understand if you may be eligible to become an NDIS participant through the disability requirements, the early intervention requirements or both.
++for advice if you meet the age and residence requirements, but aren’t sure if you meet the disability requirements.
++They’ll help you understand if you may be eligible to become an NDIS participant through the requirements for disability, early intervention or both.
+ Your NDIS partner can connect you with
+ supports in your community
+ if you don’t meet the eligibility requirements.
+```

@@ -610,3 +610,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Intergovernmental agreements
  Legislation
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `baed68da7765d886c4e685465878fd475569aaeb0fff0a5891ccf0bb2ced311f`
+- New SHA-256: `d7d22591f38b5a248136512831e3b978672a612f231b379b90e97d52c735f981`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

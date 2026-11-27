@@ -599,3 +599,37 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for For GPs and health professionals
  Guide to the NDIS for GPs and health professionals
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `b1046559bbbea8464a26af88af8d54a6134c18e99d1cb133378d468816ab67c2`
+- New SHA-256: `0906372189557daabbc9fbc361d8f10107ab44e5da88e484b13df67fa7dfc8b5`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -152,9 +152,6 @@
+ For early childhood providers
+ Expand or collapse sub-menu for For early childhood providers
+ How to write an early childhood provider report
+-For providers and justice professionals
+-Expand or collapse sub-menu for For providers and justice professionals
+-Guide to the NDIS for providers and justice professionals
+ For GPs and health professionals
+ Expand or collapse sub-menu for For GPs and health professionals
+ Guide to the NDIS for GPs and health professionals
+@@ -185,6 +182,9 @@
+ Expand or collapse sub-menu for For assistive technology providers
+ How to provide assistive technology to participants
+ How to prepare evidence for a participant's assistive technology assessment
++For providers and justice professionals
++Expand or collapse sub-menu for For providers and justice professionals
++Guide to the NDIS for providers and justice professionals
+ Home and living providers
+ Expand or collapse sub-menu for Home and living providers
+ For home and living providers
+```

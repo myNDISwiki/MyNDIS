@@ -626,3 +626,130 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for For GPs and health professionals
  Guide to the NDIS for GPs and health professionals
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `89ef36d8fb26ed701c5f01d3ec4fa1179985728110065d0f55af6af03deea58e`
+- New SHA-256: `26a43e5b75ff9a0f220e07d5a399d928e7a2357a816d7295fef09314ad3e9489`
+- Visible text lines added: 39
+- Visible text lines removed: 27
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,19 +17,32 @@
+ 3 - Step 3: Complete the treating professional section of the access request form
+ 4 - Step 4: Provide evidence
+ Step 1: Understand your role in helping your patients access the NDIS
+-Your role as your patient’s treating healthcare professional is to help them apply to the NDIS by:
++Your role as your patient’s treating health professional is to help them apply to the NDIS by:
+ completing the treating professional section of their
+ access request form
++,
++supporting evidence form
++or
++evidence of psychosocial disability form
+ helping them contact the NDIS
+-providing information about their disability and their impairments
++providing information about their disability and related impairments
+ providing information about their impairments and the effects on their day-to-day function.
+ Step 2: Assess your patient’s day-to-day functioning
+ You'll need to provide
+ supporting evidence
+-on what your patient is able to do and how their impairment affects their functional capacity and ability to do day-to-day activities. These are referred to as functional domains.
+-When you’re assessing their functional capacity, you’ll need to objectively consider:
+-the tasks they can do without support, aids or modifications, including clear task-specific examples
++on what your patient is able to do and how their permanent impairment affects their functional capacity and ability to do day-to-day activities, including:
++communicating
++socialising
++learning
++moving around
++self-care
++self-management.
++When assessing a child, compare the help they need with the help other children of a similar age need.
++When you’re assessing your patient’s functional capacity, you’ll need to objectively consider and describe:
++the tasks they can do without help from others, assistive technology or modifications, including clear task-specific examples
+ how their impairment impacts their functional capacity in day-to-day tasks, employment or interactions with their community, including examples
++the tasks the patient requires support, aids or modifications to be able to do
++clear examples of which parts of the task they need support with, the specific impairment affecting the task, and the type of support, aids or equipment they need
+ what supports are already in place from family, carers, services and community and what needs are unmet even with these supports
+ what type of supports and aids they need, how often they need them, and how they help them become more independent and less reliant on informal supports
+ how supports will improve their social and economic participation.
+@@ -39,36 +52,35 @@
+ for the NDIS.
+ Step 3: Complete the treating professional section of the access request form
+ You can help your patient by completing the treating professional section in their access request form.
+-This section helps assess your patient’s eligibility for the NDIS by providing evidence of how their disability and impairment impacts their functional capacity.
++This section helps assess your patient’s eligibility for the NDIS by providing evidence of how their impairment impacts their functional capacity.
+ Step 4: Provide evidence
+-You’ll need to provide evidence to help support your patient’s application to the NDIS.
++You’ll need to provide evidence to help support your patient’s application to the NDIS. You can do this by completing the supporting evidence form.
+ You should include any relevant reports, clinical letters or assessments from one or more of your patient’s treating healthcare professionals.
+-You can prepare your own letter or report if you have the right skills and experience. This needs to include any information you’re qualified to provide.
+-Evidence you need to provide to validate your patient’s impairment can include:
++Or you can prepare your own letter or report if you have the right skills and experience. This needs to include any information you’re qualified to provide that addresses the evidence requirements.
++Information about the permanency of your patient’s impairment can include:
+ the name of the condition and a description of the impairment(s) related to this condition
+ the date of diagnosis or onset and how long the patient’s functional capacity has been affected by the impairment
+ any relevant diagnostic information including who diagnosed the condition and any clinical assessments used to confirm their condition and related impairment
++description of treatments (current and/or past) undertaken by your patient for the impairment and outcome
++whether there are known, available and appropriate evidence-based clinical, medical or other remaining treatments options that are likely to remedy the impairment
+ whether their condition is terminal or degenerative.
+-Patients with psychological disability
+-You’ll need to help your patient complete the evidence of psychosocial disability form if they have a psychological disability.
++Supporting evidence form
++Download the supporting evidence form:
++Supporting evidence form
++(PDF 244KB)
++Patients with psychosocial disability
++You’ll need to help your patient complete the evidence of psychosocial disability form if they have a psychosocial disability.
++Evidence of psychosocial disability form
+ Download the evidence of psychosocial disability form:
+ Evidence of psychosocial disability form
+ (PDF 654KB)
+ Evidence of psychosocial disability form
+-(DOCX 319KB)
++(DOCX 319 KB)
+ Make sure any information about the permanency of your patient’s impairment includes:
+-a summary of the patient’s disability from when it first began to now
+-a description of past, current and planned evidence-based treatments for the condition and resulting impairment
+-a description of all engaged, evidence-based practice interventions, including medical, allied health and lifestyle-based interventions
+-the frequency, duration and dosage of treatments and management interventions
+-the response and outcomes of treatments and management interventions
+-other details that affect treatment outcomes and functional capacity, including social and environmental factors
+-anticipated future functional capacity.
+-Patients with impacted functional capacity
+-Make sure any information about the impact of your patient’s impairment on their functional capacity describes:
+-the tasks the patient can do without support, aids or modifications, including clear task-specific examples
+-the tasks the patient requires support, aids or modifications to be able to do
+-clear examples of which parts of the task they need support with, the specific impairment affecting the task, and the type of support, aids or equipment needed.
++a summary of their psychosocial disability, including details of any relevant diagnosis if available
++the date of diagnosis or onset and how long their functional capacity has been affected by the impairment
++description of treatments (current and/or past) they’ve undertaken for the impairment and outcome
++whether there are known, available and appropriate evidence-based clinical, medical or other remaining treatments options that are likely to remedy the impairment, including a description of treatments that would ordinarily be considered for their impairment that have not been tried and the reason why.
+ The language you should use
+ Include a summary in easy-to-understand language when you use medical or clinical terms to describe impairments, treatments and clinical presentation.
+ The summary should clearly explain how the patient’s impairment affects their ability to perform day-to-day tasks.
+@@ -131,9 +143,6 @@
+ For early childhood providers
+ Expand or collapse sub-menu for For early childhood providers
+ How to write an early childhood provider report
+-For providers and justice professionals
+-Expand or collapse sub-menu for For providers and justice professionals
+-Guide to the NDIS for providers and justice professionals
+ For GPs and health professionals
+ Expand or collapse sub-menu for For GPs and health professionals
+ Guide to the NDIS for GPs and health professionals
+@@ -164,6 +173,9 @@
+ Expand or collapse sub-menu for For assistive technology providers
+ How to provide assistive technology to participants
+ How to prepare evidence for a participant's assistive technology assessment
++For providers and justice professionals
++Expand or collapse sub-menu for For providers and justice professionals
++Guide to the NDIS for providers and justice professionals
+ Home and living providers
+ Expand or collapse sub-menu for Home and living providers
+ For home and living providers
+```

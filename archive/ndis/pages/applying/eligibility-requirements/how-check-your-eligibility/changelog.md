@@ -592,3 +592,134 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `8d17e488d8e9101b5734e53e539d89e206ac2aac87ea33c9f01123e8b7ec7f67`
+- New SHA-256: `7f8d45c003332eb3971fe5efcab09853f5c9f495c114509177fa2f3dd8f6dd11`
+- Visible text lines added: 32
+- Visible text lines removed: 31
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -6,24 +6,25 @@
+ Print this page
+ Save page as PDF
+ On this page:
+-Step 1: Provide identity check documents
+-Step 2: Meeting the age limit
+-Step 3: Meeting the residence requirements
+-Step 4: Meeting the disability requirements
+-Step 5: Meeting the early intervention requirements
++Step 1: Provide evidence of identity documents
++Step 2: Meet the age requirements
++Step 3: Meet the residence requirements
++Step 4: Meet the disability requirements
++Step 5: Meet the early intervention requirements
+ On this page:
+-1 - Step 1: Provide identity check documents
+-2 - Step 2: Meeting the age limit
+-3 - Step 3: Meeting the residence requirements
+-4 - Step 4: Meeting the disability requirements
+-5 - Step 5: Meeting the early intervention requirements
+-Step 1: Provide identity check documents
+-We'll ask for documents that prove your identity if you apply to the NDIS.
++1 - Step 1: Provide evidence of identity documents
++2 - Step 2: Meet the age requirements
++3 - Step 3: Meet the residence requirements
++4 - Step 4: Meet the disability requirements
++5 - Step 5: Meet the early intervention requirements
++Step 1: Provide evidence of identity documents
++We’ll ask for documents that confirm your identity if you apply to the NDIS.
+ We need to see 3 different
+ identity documents
+ to confirm who you are. These documents need to include information like your name, address, date of birth and a photo of you.
+-We'll also ask to check your identity documents if you are a child representative, nominee or authorised representative.
+-Step 2: Meeting the age limit
++We’ll also ask you for evidence of your name change, if you change your legal name.
++We’ll also ask to check your identity documents if you are a child representative or nominee.
++Step 2: Meet the age requirements
+ I am aged from 0 to 64
+ You must be younger than 65 on the day you make your NDIS application. This means your application needs to be complete, in the format we ask for and received by us before you turn 65.
+ Contact us
+@@ -39,34 +40,33 @@
+ other services and supports
+ .
+ Tip: We'll check your age.
+-We can check whether you meet the age requirements based on the information on your Centrelink record, with your consent.
+-You’ll need to give us documentary evidence of your age if you don't consent.
++We can use your identity documents to check age in most cases. We can also check whether you meet the age requirements based on the information on your Centrelink record, with your consent.
+ Learn more about the
+ age requirements
+ .
+-Step 3: Meeting the residence requirements
+-I am either an Australian citizen, permanent resident or Protected Special Category visa holder
++Step 3: Meet the residence requirements
++I am either an Australian citizen, permanent resident or hold a specific visa
+ You must be an Australian citizen or have one of 2 visa types to be eligible to apply.
+ These visa types are:
+ a permanent residency visa
+-a Protected Special Category visa (SCV), which is only for some citizens of New Zealand.
++a Special Category visa (SCV), which is only for some citizens of New Zealand.
+ I live in Australia and spend most of my time here
+ You must live in Australia to be eligible to apply. This means Australia is your home and you spend most of your time here.
+ We'll check your residency and citizenship
+-We can check whether you meet the residence requirements based on the information on your Centrelink record with your consent.
+-You’ll need to give us documentary evidence if you don't consent.
++Sometimes we can check whether you meet the residence requirements based on the information on your Centrelink record, with your consent.
++You’ll need to give us documentary evidence if you don’t consent or if we need further information.
+ We need one birth or arrival document that shows when you were born or arrived in Australia. This could be your full birth certificate, passport or Australian Citizenship Certificate.
+ We also need evidence you live in Australia and spend most of your time here.
+ Learn more about the
+ residence requirements
+ .
+-Step 4: Meeting the disability requirements
++Step 4: Meet the disability requirements
+ I have a disability caused by a permanent impairment
+ You may be eligible under the disability requirements if:
+ you have a disability caused by an impairment
+-you have one or more impairments that are likely to be permanent
+-you'll likely need NDIS supports for your whole life.
+-I need disability-specific NDIS supports to complete daily life activities
++you have one or more impairments that are or are likely to be permanent, and further treatment isn’t likely to improve the impairment
++you’ll likely need NDIS supports for your whole life.
++I need disability-related NDIS supports to complete daily life activities
+ You may be eligible under the disability requirements if:
+ you have one or more impairments that substantially impact your ability to do daily life activities
+ your impairment affects your social life or your ability to work or study.
+@@ -74,24 +74,25 @@
+ what are the disability requirements
+ .
+ Tip: Start collecting evidence before you apply.
+-We'll need evidence about your disability and impairments and how they impact your daily life. This might include:
++We’ll need evidence about your disability and related impairments and how they impact your daily life. This might include:
+ assessments
+ reports
++information about treatments for your impairments
+ written statements.
+ Your
+ NDIS partner
+-can help you understand what evidence you’ll need and support you to gather it.
+-For more information visit
++can help you understand what evidence you’ll need and support you to gather it. For more information visit
+ how to gather evidence
+ .
+-Step 5: Meeting the early intervention requirements
++Step 5: Meet the early intervention requirements
+ Receiving NDIS supports now will reduce my future need for support
+ You may be eligible for the NDIS under the
+ early intervention requirements
+ if:
+-you have one or more impairments that are likely to be permanent and
++you have one or more impairments that are or are likely to be permanent
++you are a child with development delay and
+ early access to NDIS supports will reduce your need for supports in the future.
+-We need evidence about your disability and impairment and how they impact your daily life.
++We need evidence about your disability and related impairment and how they impact your daily life.
+ For more information visit
+ how to gather evidence
+ .
+```

@@ -2311,3 +2311,59 @@ The page bytes changed, but no visible main-content wording change was detected.
 +NDIS Community Forum in Adelaide
 +25 November 2026
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `97099ed1de2ce6e1e41e9ed1a49bed135fd95a8b50571fc14edd5125f1bdabbf`
+- New SHA-256: `e58c15524637b8ce9149ea6817d61dcc64554b8799210a8b05898f79e78c95f8`
+- Visible text lines added: 18
+- Visible text lines removed: 18
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,23 +5,23 @@
+ Save page as PDF
+ Page title
+ Updated
++Early Childhood partner, Miranda, 2228
++26 November 2026
++Guide to the NDIS for providers and justice professionals
++26 November 2026
++How to help your patient to access the NDIS
++26 November 2026
++How to determine whether your patient may be eligible
++26 November 2026
++What is supporting evidence
++26 November 2026
++What are the NDIS disability requirements
++26 November 2026
++How to check your eligibility
++26 November 2026
++How to gather evidence
++26 November 2026
++How to apply
++26 November 2026
+ FOI disclosure log
+ 26 November 2026
+-For providers and justice professionals
+-26 November 2026
+-Stronger NDIS claim checks stop millions in suspicious claims
+-25 November 2026
+-Transitioning from other systems
+-25 November 2026
+-Guide to the justice system
+-25 November 2026
+-Guide to the NDIS for providers and justice professionals
+-25 November 2026
+-Working with participants
+-25 November 2026
+-Our guidelines
+-25 November 2026
+-Improving how people with psychosocial disability apply to the NDIS
+-25 November 2026
+-NDIS Community Forum in Adelaide
+-25 November 2026
+```

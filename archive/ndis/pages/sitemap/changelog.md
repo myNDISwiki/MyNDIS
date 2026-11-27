@@ -751,3 +751,35 @@ The page bytes changed, but no visible main-content wording change was detected.
  Guide to the NDIS for GPs and health professionals
  How to determine whether your patient is eligible
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `788ca19eb01d1914bd9e61b79194b23dce5cce83279b51a5baeb67b41ed72e37`
+- New SHA-256: `b95077911ab504f208cfbe4a38700aadf3887a482f233ffb5ab51c9b3955c4b7`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -321,8 +321,6 @@
+ Working with participants
+ For early childhood providers
+ How to write an early childhood provider report
+-For providers and justice professionals
+-Guide to the NDIS for providers and justice professionals
+ For GPs and health professionals
+ Guide to the NDIS for GPs and health professionals
+ How to determine whether your patient is eligible
+@@ -347,6 +345,8 @@
+ For assistive technology providers
+ How to provide assistive technology to participants
+ How to prepare evidence for a participant's assistive technology assessment
++For providers and justice professionals
++Guide to the NDIS for providers and justice professionals
+ Corporate plan
+ Home and living providers
+ For home and living providers
+```

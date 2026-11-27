@@ -12,3 +12,37 @@ This file accumulates the recorded history of this NDIS page. For language chang
 - Visible text lines removed: 0
 
 Initial capture. The full initial wording is preserved in `index.html`; it is not duplicated here.
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `4f9dc722ed2a27b297d364e29e70f0c64edca9b74b23241d6ef10b242a50ff13`
+- New SHA-256: `fcabcc3411e39a3f2df1dd9d4455aa403c19568022cd4cd7a56291328a1a6e03`
+- Visible text lines added: 3
+- Visible text lines removed: 3
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -169,9 +169,6 @@
+ For early childhood providers
+ Expand or collapse sub-menu for For early childhood providers
+ How to write an early childhood provider report
+-For providers and justice professionals
+-Expand or collapse sub-menu for For providers and justice professionals
+-Guide to the NDIS for providers and justice professionals
+ For GPs and health professionals
+ Expand or collapse sub-menu for For GPs and health professionals
+ Guide to the NDIS for GPs and health professionals
+@@ -202,6 +199,9 @@
+ Expand or collapse sub-menu for For assistive technology providers
+ How to provide assistive technology to participants
+ How to prepare evidence for a participant's assistive technology assessment
++For providers and justice professionals
++Expand or collapse sub-menu for For providers and justice professionals
++Guide to the NDIS for providers and justice professionals
+ Home and living providers
+ Expand or collapse sub-menu for Home and living providers
+ For home and living providers
+```

@@ -592,3 +592,70 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `21604ef9daf58f10713d21f45f7e39b3bb860c3347c2505bd78db39eed792c04`
+- New SHA-256: `216a16b676a6df5372838374a22d70b4ed3875788cde7a864c8c34f85e79225e`
+- Visible text lines added: 20
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -17,32 +17,43 @@
+ Supporting evidence is information or advice a treating health professional gives us about your disability.
+ It tells us:
+ what your disability is
+-any treatments you’ve had
++any treatments you’ve had and outcomes
+ how your disability impacts your daily life
+ any recommendations they make.
+ Supporting evidence can be informal, like an email or letter. Or, it might be more formal, like an assessment or report.
++For children younger than 6, an
++early childhood partner
++can give evidence of developmental delay.
+ What supporting evidence is for
+ If you're an applicant
+-We'll ask for evidence of your disability, such as a diagnosis or treatment information.
+-We'll also ask for evidence of how your disability impacts your daily life. For example, the tasks you need support to complete, and the type of assistance you need.
++We’ll ask for evidence of your impairments, such as a diagnosis or treatment information.
++We’ll also ask for evidence of how your disability impacts your daily life. For example, the tasks you need support to complete and the type of assistance you need.
+ We might ask you for more information to help us make a decision about your eligibility for the NDIS.
++Learn more about
++how to gather evidence
++.
+ If we check your eligibility
+ We may
+ check your eligibility
+ if we have information that your disability support needs or situation have changed.
+-We ask you for supporting evidence when this happens, so we can check whether you still meet the
++We may ask you to provide supporting evidence if we believe you may no longer meet the
+ eligibility requirements for the NDIS
++. This is called an
++eligibility reassessment
+ .
+ What supporting evidence is like
+-Good evidence is recent and completed by a treating health professional relevant to your primary disability.
+-A primary disability is the impairment that has the greatest impact on your daily life.
++Good evidence is completed by a treating health professional relevant to your impairment.
+ It should include information about:
+ your disability and impairment
+-the impact of your disability on different areas of your life
+-previous treatments and outcomes
+-future treatment options.
++the impact of your impairment on different areas of your life
++any previous and current treatments and outcomes
++future treatment options and expected outcomes of those treatments.
+ Your treating health professional can complete assessments with you that provide this information.
++You might get your evidence of permanent impairment from a different treating health professional than your evidence of functional capacity, depending on your situation.
++We need evidence from your treating health professional, like your doctor or specialist, to confirm your permanent impairment. You can give us evidence confirming this from any age.
++Generally, we need evidence about how your impairment impacts your functional capacity from the last 12 months. This is because your functional capacity may change over time, even if your impairment doesn’t.
+ You, your providers and your carers can also provide evidence of the impacts of your impairment on your daily life. This helps build a fuller picture of the supports you need day-to-day.
++Early childhood partners can give evidence for children younger than 6 with developmental delay, to support their application.
+ You should work with your treating health professional
+ It's helpful to get information about the impacts your disability has on your daily life from a treating health professional you’ve worked with for a long time. They’ll know more about you and your needs.
+ The most common health professionals include GPs, paediatricians, orthopaedic surgeons, neurologists and psychiatrists.
+```

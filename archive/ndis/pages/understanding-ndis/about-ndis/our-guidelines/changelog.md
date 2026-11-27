@@ -931,3 +931,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Child representatives
  Child representatives
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `a79b0fd31853e30292e316e6ffef6e388cb5f03ebfb1763c4e6aea0bc5bf3430`
+- New SHA-256: `c9495bbf3f22e954ee8e56b6cd4edf9f7c0a7c069be0e5f685772d939468a0de`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -583,3 +583,107 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `1db22010954d21bf7babf993cfb3d62c29864818162800b196cd302d14056c9c`
+- New SHA-256: `0150146e7edc131180640e4e148275eafa17ddfaab467f2b5b45abc0f31291e8`
+- Visible text lines added: 42
+- Visible text lines removed: 16
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -16,18 +16,29 @@
+ Step 1: Learn what we mean by evidence
+ We need evidence from qualified professionals
+ All evidence
+-should be completed by a treating health professional relevant to your primary disability. It also needs to be recent.
++should be completed by an appropriate treating health professional.
++It also needs to be from within the last 12 months. We may need more recent reports for certain NDIS supports or if your support needs are changing quickly. We’ll let you know if we need more recent evidence.
+ Evidence to support your eligibility should:
+-confirm your primary disability
+-confirm the impacts of your disability on the different areas of your life
+-describe previous treatments and outcomes
++confirm your disability or disabilities
++explain how your impairments impact different areas of your life
++describe previous and current treatments and outcomes
+ describe future treatment options and expected outcomes of those treatments
+ be original and specific to you.
+ Tip: Check the types of disability evidence.
+-Different disabilities and impairments need different evidence from a variety of health practitioners.
+-Visit
+-types of disability evidence
+-to see a list of evidence against common disabilities.
++Different impairments and disabilities need evidence from different health professionals.
++Learn more about
++examples of disability evidence
++.
++We need evidence that you meet the age requirements
++We can check whether you meet the
++age requirements
++based on the information on your Centrelink record, with your consent. You’ll need to give us documentary evidence of your age if you don’t consent.
++We need evidence that you meet the residence requirements
++We can also check whether you meet the
++residence requirements
++based on the information on your Centrelink record, with your consent. You’ll need to give us documentary evidence if you don’t consent.
++We need one birth or arrival document that shows when you were born or arrived in Australia. This could be your full birth certificate, passport or Australian Citizenship Certificate.
++We also need evidence you live in Australia and spend most of your time here. Your Centrelink record usually gives us enough evidence to decide if you live in Australia, if you give us consent to use this.
+ Step 2: Know who you can gather evidence from
+ Talk to your treating health professional
+ Examples of a health professional include a:
+@@ -41,10 +52,24 @@
+ psychiatrist
+ physiotherapist.
+ Your treating health professional should:
+-be the most appropriate person to give you evidence of your primary disability
+-have treated you for at least 6 months
+-be registered to practice in Australia or New Zealand.
+-If you need support gathering your evidence, your my
++be the most appropriate person to give you evidence of your impairments
++have worked with you, usually for at least 6 months
++be qualified and registered to practice in Australia or New Zealand.
++Evidence forms
++You can work with your treating health professional to give us evidence using one of our forms. This includes:
++section 2 of the
++access request form
++supporting evidence form
++evidence of psychosocial disability form.
++Download the supporting evidence form:
++Supporting evidence form
++(PDF 244KB)
++Download the evidence of psychosocial disability form:
++Evidence of psychosocial disability form
++(DOCX 319KB)
++Evidence of psychosocial disability form
++(PDF 654KB)
++If you need support gathering your evidence, your
+ NDIS partner
+ is there to help.
+ Tip: We may ask for more information if your evidence doesn’t tell us what we need to know.
+@@ -59,17 +84,18 @@
+ An
+ early childhood partner
+ can help connect you to the right supports. They can help you gather evidence of your child’s disability or developmental delay.
+-You need to give us evidence from your child’s treating health professional that shows your child's disability diagnosis. This needs to include information about any treatments your child is receiving.
++You need to give us evidence that shows your child's disability diagnosis. This needs to include information about any treatments your child is receiving.
++Your early childhood partner can give evidence for children younger than 6 with developmental delay.
+ Your GP, child health nurse, early childhood educator or other health professional can provide evidence of your child’s disability or developmental delay if you live in an area that doesn’t have an early childhood partner.
+ Step 3: Share your evidence with us
+ Once you have your information and
+ evidence
+-, you’re ready to complete your application for the NDIS. Your my
++, you’re ready to complete your application for the NDIS. Your
+ NDIS partner
+-will help you
++can help you
+ apply
+ .
+-We'll decide if you are eligible for the NDIS within 21 days.
++We’ll decide if you are eligible for the NDIS within 90 days.
+ We’ll let you know if we need more information from you. We’ll make a decision within 14 days once we have this extra information.
+ Main navigation sidebar
+ Applying
+```

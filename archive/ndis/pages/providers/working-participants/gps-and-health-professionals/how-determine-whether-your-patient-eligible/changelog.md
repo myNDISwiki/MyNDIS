@@ -608,3 +608,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for For GPs and health professionals
  Guide to the NDIS for GPs and health professionals
 ```
+
+## 2026-11-27T00:38:14Z — missing
+
+- Previous SHA-256: `27b5c04b46e5b7a129f1816e602d96ec17a90a625fa4f1ec0bdaa0be81f0bd75`
+- New SHA-256: `27b5c04b46e5b7a129f1816e602d96ec17a90a625fa4f1ec0bdaa0be81f0bd75`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page disappeared from the current NDIS sitemap. Its last archived copy remains preserved.

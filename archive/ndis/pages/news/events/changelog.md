@@ -2352,3 +2352,70 @@ The page bytes changed, but no visible main-content wording change was detected.
  1
  2
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `690bf9cc0fc4301e424ba6b0e4bdb620a38924115c57ff9aec36021914f213b9`
+- New SHA-256: `fd13815fd78a01255e91855b8cead7db835198d578acf4cd17a4b598d786dae6`
+- Visible text lines added: 16
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -23,13 +23,13 @@
+ (2)
+ Employment
+ (2)
+-Provider Engagement
+-(2)
+ Provider
+ (1)
+ New to the NDIS
+ (1)
+ Consultation
++(1)
++Provider Engagement
+ (1)
+ Event State or Territory
+ SA
+@@ -38,15 +38,9 @@
+ December 2026
+ (8)
+ November 2026
+-(2)
++(1)
+ Search
+ Search
+-Category
+-Provider Engagement
+-Sector Briefing – Plan Management Request for Information
+-The NDIA invites you to attend a Sector Briefing for Plan Management Providers to discuss the Plan Management reform Request for Information.
+-Event Date
+-Wednesday, 25 November 2026
+ Category
+ Community Engagement
+ Understanding the NDIS webinar - Ways of managing your NDIS funding
+@@ -86,6 +80,19 @@
+ Community connections are all about helping you find the supports you need in your local community.
+ Event Date
+ Wednesday, 9 December 2026
++Category
++Community Engagement
++Early Childhood
++Employment
++General information
++Participant
++Provider
++NDIS Community Forum in Mt Gambier
++Join us at a community forum in Mount Gambier on 10 December 2026. At the forum, you can learn about what changes to the NDIS might mean for you. You’ll have the chance to ask questions about what’s happening and what you need to do.
++Event Date
++Thursday, 10 December 2026
++Event address
++Mount Gambier , SA 5290
+ Pagination
+ 1
+ 2
+```

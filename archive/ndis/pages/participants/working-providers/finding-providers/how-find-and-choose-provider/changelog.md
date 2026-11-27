@@ -663,3 +663,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Leaving the NDIS
  Expand or collapse sub-menu for Leaving the NDIS
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `58c947eb12b94f5be676d432fdaa7e996689c2c1872e9534efdf2e1524b36fe1`
+- New SHA-256: `e8543c15f1135a25fe9be4f3b2ea8ac03741a55bfaa666c3ea4bc4bd057fb38f`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

@@ -2367,3 +2367,63 @@ The page bytes changed, but no visible main-content wording change was detected.
 -24 November 2026
 +26 November 2026
 ```
+
+## 2026-11-27T00:38:14Z — changed
+
+- Previous SHA-256: `2566dcae7caf4717aa140afba26af66cc85c9edd24af9fcabc95436a18752b6a`
+- New SHA-256: `30d8f64a64ac15a6ccb0238181c51c5f08767cbbd7d4beb71693cc4419a88fc8`
+- Visible text lines added: 39
+- Visible text lines removed: 0
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,45 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 26/27-1036
++16/11/2026
++Complex Support Needs (CSN) Planning Guidelines, Training and Operational Documents
++FOI 26/27-1036 (PDF 9MB)
++12 documents released in full, 22 documents released in part:
++KA – Guide – Complex support needs (CSN) pathway v4.0
++Overview of Your Learning - 2025-11-10
++Specialised Service Delivery and CSN Branch Introduction and Overview
++Operations Director Welcome
++CSN Participant Pathway Experience - Entry into CSN
++Day in the Life - CSN Participant Interface Team
++Day in the Life - CSN Participant Interface Team
++Day in the Life - CSN Planning Team Members
++Principles of Stakeholder Engagement
++Positive Behaviour Support and Regulated Restrictive
++Children and Young People Team
++CSN Participant Pathway Experience Monitoring
++Specialised Resolution Team
++Managing Unreasonable Behaviour and Communication Strategies
++Cultural Considerations
++Transition a Participant from Complex Support Needs
++Transition a Participant from Complex Support Needs
++CSN Monitoring Framework_V3.0
++CSN Onboarding Program Schedule example 1 week program
++CSN Onboarding Schedule example 2-week program
++Form -CSNP Home and Living Supplementary
++Work instructions-CSNP Home and Living Supplementary form V2.0
++KA - Identify risks and vulnerabilities v6.0
++KA - Identify risks and vulnerabilities v5.0
++KA - Identify risks and vulnerabilities V4.0
++KA - Identify risks and vulnerabilities V3.0
++KA - Understand and determine a risk using the Risk and Escalation matrix v1.0
++KA - Guide – Safeguarding the participant’s interests v8.
++KA - Guide – Safeguarding the participant’s interests V7.0
++KA - Guide – Safeguarding the participant’s interests v6.0
++KA - Guide – Safeguarding the participant’s interests v5.0
++KA - Understand restricted access v4.0
++Record a request to apply for restricted access _ Knowledge _ Salesforce
++Understand restricted access _ Knowledge _ Salesforce
+ FOI 25/26-3233
+ 16/11/2026
+ Documents from the last 2 years regarding psychosocial hazards for NDIA or NCC staff in public facing roles.
+```
