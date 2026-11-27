@@ -7,20 +7,68 @@
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/",
     "https://www.health.gov.au/resources/publications/thriving-kids-advisory-group-final-report"
   ],
-  "checked_at": "2026-11-26T00:59:34Z",
+  "checked_at": "2026-11-27T01:00:45Z",
   "status": "partial",
   "fetch_failures": [
-    "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422",
-    "https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422\ncurl: (22) The requested URL returned error: 422"
+    "https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401",
+    "https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf: curl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401\ncurl: (22) The requested URL returned error: 401"
   ],
   "items": {
     "http://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx": {
@@ -624,7 +672,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports": {
-      "sha256": "3bb2e078c4a3763d899691d57716c77a33ab4b381393e9a7b97f53b55ec291bf",
+      "sha256": "7c5efd96a914e6783c7358b0699edab7687c1ddee8fa58f5dd9feb50b0e51e5c",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports",
@@ -632,7 +680,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view": {
-      "sha256": "3e3ff69b74b0a4a153234693f9931b9f9349557284ad385982d5ee2064f40f8a",
+      "sha256": "3ddaf5e9281a14affbb2d88b63c5e0825b04d12616adda22f0862642257efb27",
       "path": "archive/gov/health/ndis/consultations/disability-and-carers-group/nfp-ndis-supports/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view",
@@ -1128,7 +1176,7 @@
       "retrieval_note": "Fallback text rendering via Jina Reader because health.gov.au timed out from GitHub-hosted runner"
     },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation": {
-      "sha256": "66752506202d7e8373ddf889d8566728d25ca673d7308f29f2590c8e3aa63ae6",
+      "sha256": "e35988068963ed2dad5915310c7b6b0030931b3f26c8979161aece97cb259a62",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation",
@@ -1136,7 +1184,7 @@
       "retrieval_note": "Direct capture from health.gov.au"
     },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view": {
-      "sha256": "11d60cf0da3af8226ab3e76b27d3c2a8d92a7a1e239fde859818ecb34f4402d7",
+      "sha256": "43fbafbb48024f3c8630e30d2cd61e6d46e366270c7839d2fa67f73f7acf5695",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consult_view/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view",
@@ -1164,6 +1212,14 @@
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
       "content_type": "application/pdf",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1006821493",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1019548798": {
+      "sha256": "9797ef1c34076e199b0eb2184307840da12b5171306ab1d31556e3c3fd9b9628",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1019548798",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -1215,11 +1271,27 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1052427936": {
+      "sha256": "9ee0f229ddf810c7589571c654a97c6a2a41ac07d7219f91e73ab47cb6dd6c27",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1052427936",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1072041446": {
       "sha256": "b7e5b8d1839b7143fac8ba913b6ccf296916b81b67037d70044fe9dbeeb39aee",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
       "content_type": "application/pdf",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1072041446",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1072424132": {
+      "sha256": "50e491cb677fe97daccd01af1b7d2d0c93bd3570a021c79c95607b9f41f51850",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1072424132",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -1255,6 +1327,14 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=146119442": {
+      "sha256": "63b421b41bd5236cef1d001aea9529134487e9c09ecbb95ac2adbf438fc705c7",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=146119442",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=147270031": {
       "sha256": "a39c74008aa65a2cc3368e2194bf62b3debcbe02d33dfd6e4612a663a6fd145a",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
@@ -1284,6 +1364,14 @@
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
       "content_type": "application/pdf",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=181675197",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=189117208": {
+      "sha256": "44edbf2aad35bcedda696b9afe6437ee75d11e882e0b0fbf658643e4d1f280e8",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=189117208",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -1863,6 +1951,14 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=767078665": {
+      "sha256": "0413b5bab4c32e8165062861c6f6136ded37bd4161867aa33efd4745dedf7c22",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=767078665",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=775233998": {
       "sha256": "c5bb9073ce8afbafeb5d8a194b392089e533089309904cb2fac9b3621551002b",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
@@ -1911,6 +2007,22 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=802685302": {
+      "sha256": "23cbec36161c82f791827a59d7fbd474256091bc5630da42c2835438dd63e286",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=802685302",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=802919292": {
+      "sha256": "ff0f9ae789d2289866becaa9e0532ca04a4e3629abea42d966d160bd5392c2bf",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=802919292",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=804687927": {
       "sha256": "4132717cc6f77b183e6f54d26bf04ec5e9ff1e9d9ee3dbf02ede4ab4b50dd13d",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
@@ -1951,6 +2063,14 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=835180275": {
+      "sha256": "e2e695ccfbd7810184eb1134b553275bfb4dd8ddff5dce8d99802b0a6ce930b8",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=835180275",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=837072340": {
       "sha256": "9cfcb00c08fe7d64ade5cd61449ae44aacf094104fc186b19fa043572becac9b",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
@@ -1980,6 +2100,14 @@
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
       "content_type": "application/pdf",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=860098537",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=872664531": {
+      "sha256": "8a01a45d623ab3879c303c195621dbc82c978ca8954fc74a02675a955ff1b712",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=872664531",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -2100,6 +2228,22 @@
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
       "content_type": "application/pdf",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=976021615",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=991138635": {
+      "sha256": "5e3bdf6efc83329e7f1fac452db79649b83b6673b2235d11595e80c1dd659cf1",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=991138635",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=991200581": {
+      "sha256": "b346439764229a21da156ecdcdd1d217b8fec540d083ccb1fbdb38a1a1c29c01",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/download_public_attachment/current.html",
+      "content_type": "application/pdf",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=991200581",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -2615,6 +2759,14 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=1002460770": {
+      "sha256": "ef743427892bb46e63683ac90528c8fd2b9844e4d39ed1c5515b38bf6e4d9bf9",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=1002460770",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=1019548798": {
       "sha256": "9ce2cd33d81c13f46006f05f4ac01369bd2a6f40810256726eb6aae7aa7817cb",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
@@ -2639,6 +2791,30 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=120262473": {
+      "sha256": "552a980f3be479fa0c6338fe9613e87929159dfab5552437f24574237699033d",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=120262473",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=121561288": {
+      "sha256": "7c0d08b1e42874b26166492f8b629841ac5d487ee08eb2734cf6bb0d498e7443",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=121561288",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=121974793": {
+      "sha256": "325f26750d481b63af905aef0883fbb9cfc961d376ff61a039630e08cdf6a50d",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=121974793",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=146119442": {
       "sha256": "ae48f9692115c85fad1845b895ba136e5c791203af734b5e2452794991d97b8c",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
@@ -2647,11 +2823,43 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=180656407": {
+      "sha256": "92558a2ebd7b89de86388cf6ba9d8e2c4a0e028d7380bf82b26245809507ea54",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=180656407",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=189117208": {
       "sha256": "b6da5a15931e4bdc74cef999e685b901b6cce659f7765879a161722687903367",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=189117208",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=202286082": {
+      "sha256": "3080c1c9d8a7cd6e715bf9a9aa9fb309965870595cf66037566c3b73e5d76b6e",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=202286082",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=273939455": {
+      "sha256": "f291cbd624f6f17aa14bba73b35118b92cd348d5e9eb443e30d335c2720a8dec",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=273939455",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=276203781": {
+      "sha256": "bca26f4061dcbe9d97914bc5f64f3f7c2bad3d45427ccdae1564e0a5c5f64053",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=276203781",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -2671,11 +2879,51 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=390001944": {
+      "sha256": "449cf362b461ea5e1d8188d493684cafd3ff7611a36e1d85ea35134f9b7af279",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=390001944",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=406480922": {
+      "sha256": "b5607e4c7965221577034787e1e435b028475a6dae598401085b7def3bee9f7e",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=406480922",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=41143155": {
       "sha256": "8fc09ad5ea0c42404c393d055bba187b19ff7c55a51afcdea8aace76680d2e24",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=41143155",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=421608345": {
+      "sha256": "1285dac4d0dec4f1f7024ecd6f5b408ea10b38f6e0b5aee16b69521befd97380",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=421608345",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=47155055": {
+      "sha256": "35b8b5081b51ceeb2fdf8d9a7e5848a4b4205b48e9ad5017d780329483564180",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=47155055",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=475996774": {
+      "sha256": "86c7e9104a18e0feb5845ca95c7c8cc55f5a7e3ff316d172b1415bfc059247f4",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=475996774",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -2687,11 +2935,123 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=492313413": {
+      "sha256": "293f2cd451430f68ff161ecb0d5db711be3664447c9327d70a9bbcd8fc45bf9e",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=492313413",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=493205538": {
+      "sha256": "f4d9a9edf866bdd371e480a5dcda0e2507c8b6bafeb42ee82f50fc2f36c828d7",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=493205538",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=497928009": {
+      "sha256": "92e0b2146ee8d24fde73737fb21548972bd53b26bd0075a2fec91ae75c43728b",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=497928009",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=504592336": {
+      "sha256": "4c70ce5b41be50e273353bf5e9a7ab1f58945c51b4993bcea8bf02248b7d5353",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=504592336",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=507728264": {
+      "sha256": "4f6b88370b85d7017fd674b1e3e9405f30c9cba7869dfb5cb2812ef7e87539f5",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=507728264",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=571467774": {
+      "sha256": "b395836585fa3f851e389927d3a19c708b87806fd1c6e930ddb77d24f96d39e5",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=571467774",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=600899463": {
+      "sha256": "875ed5437de1f45fd89f62e80b4ac15bcb9deaef7a0d383a946188f9441ee0dc",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=600899463",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=609294770": {
+      "sha256": "0fcab9000b53feb8adfff6d23dec69567a330e86369481d7f6b95c75ef2d62b4",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=609294770",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=636564664": {
+      "sha256": "459cef689ba3a18e6182905c569264125c963e1d5b9be37df87e368a45c723cf",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=636564664",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=6694818": {
+      "sha256": "4972418e320766df276dd2ff5fd2f4ddd89ee51dded139fe3ad5c5dcc91e0135",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=6694818",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=680556336": {
+      "sha256": "ee4dc9e98c763a99f8a307fa84bdd0d577b39619cb72eae103dfcf425e2ed4fc",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=680556336",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=767078665": {
       "sha256": "692c8174064277d6fb1f26c936e7ceef5e6100dc857a7507c4f110331df403a9",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=767078665",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=767315185": {
+      "sha256": "dd80c0d3355af4fc9579c2153b35c3e8b63a8c4883a772ffc580f751858cf278",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=767315185",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=769285259": {
+      "sha256": "476f3edb3896540b30b9b0158b20aa44f216470d82a60f3bba891176ed7ffb1b",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=769285259",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=8013177": {
+      "sha256": "cf578caf21b053f637d3aa31aabc18f906d09480e1ecad125273dab4e61bd003",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=8013177",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
@@ -2711,6 +3071,14 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=831605689": {
+      "sha256": "32a2372703bfcc22a5e0f81d0158984ef33b57acd93d4a18e9f8f2a78522cd59",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=831605689",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=835180275": {
       "sha256": "0f78afbd1edcc6bda8f2a0a12b379c228b8b51a287b3c95f289836ceb96b9f71",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
@@ -2719,11 +3087,75 @@
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=836315569": {
+      "sha256": "4785d71d798da20b4cc63826aac23e0f66053d0f6f71c5eefc30e5da423317b5",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=836315569",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
     "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=872664531": {
       "sha256": "89e8b4c3083970a59951a21da65c98c1541c44f13cbe7f54214a3c6d03c9a76d",
       "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
       "content_type": "text/html; charset=UTF-8",
       "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=872664531",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=876311978": {
+      "sha256": "e489e0957ab39c0afe84c3a14861d4279187dd4e3c2425683b4de527abdb1530",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=876311978",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=904650307": {
+      "sha256": "2917acefa73b56522f727b9b656e0d5ccf402e8011502c823d5beac5525f5e0e",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=904650307",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=94583782": {
+      "sha256": "721f2d329e24417993b9b75c47ee3a7f658378fac0c6f95349c59d924d0b84e4",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=94583782",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=964699068": {
+      "sha256": "97560d21c17b9a9a7dd5997b37a91989c8e757e1da7086b4a9a2818d5fd80546",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=964699068",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=987264968": {
+      "sha256": "d4813fd511dbc748bfd20d881a9c8de11346c507b0ec49f785b3779d70ea59b9",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=987264968",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=989177993": {
+      "sha256": "a2f8b70b5f34368f731e8c91b25a7c0e2e3698200406f56dd5de6d3a9a4299dd",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=989177993",
+      "retrieval_method": "direct",
+      "retrieval_note": "Direct capture from health.gov.au"
+    },
+    "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=990519269": {
+      "sha256": "c245a4ecba5e29c1b9c6283c007ddb87c762f659af612c82b38f9f40c9a0bad0",
+      "path": "archive/gov/health/ndis/consultations/ndis/nfp-public-consultation/consultation/view_respondent/current.html",
+      "content_type": "text/html; charset=UTF-8",
+      "canonical_url": "https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=990519269",
       "retrieval_method": "direct",
       "retrieval_note": "Direct capture from health.gov.au"
     },

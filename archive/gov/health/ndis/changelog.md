@@ -8924,3 +8924,246 @@ curl: (22) The requested URL returned error: 422
 curl: (22) The requested URL returned error: 422
 curl: (22) The requested URL returned error: 422
 
+
+## 2026-11-27T01:00:45Z
+
+Status: **partial** — 59 fetch failure(s). Successful captures from this run were retained.
+
+### Added
+
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1019548798 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1052427936 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=1072424132 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=146119442 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=189117208 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=767078665 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=802685302 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=802919292 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=835180275 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=872664531 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=991138635 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/download_public_attachment?sqId=question-2026-01-13-3587063793-publishablefilesubquestion-1789087665-08&uuId=991200581 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=1002460770 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=120262473 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=121561288 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=121974793 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=180656407 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=202286082 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=273939455 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=276203781 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=390001944 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=406480922 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=421608345 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=47155055 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=475996774 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=492313413 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=493205538 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=497928009 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=504592336 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=507728264 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=571467774 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=600899463 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=609294770 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=636564664 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=6694818 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=680556336 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=767315185 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=769285259 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=8013177 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=831605689 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=836315569 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=876311978 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=904650307 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=94583782 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=964699068 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=987264968 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=989177993 — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consultation/view_respondent?_b_index=120&uuId=990519269 — `direct`
+
+### Changed
+
+- https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports — `direct`
+- https://consultations.health.gov.au/disability-and-carers-group/nfp-ndis-supports/consult_view — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation — `direct`
+- https://consultations.health.gov.au/ndis/nfp-public-consultation/consult_view — `direct`
+
+### Fetch failures
+
+- https://www.health.gov.au/our-work/ndis-legislation-changes: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026/about-the-changes-to-the-ndis?language=en: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---pdf-2.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---word-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-summary---consultation-on-ndis-access-changes-1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes-easy-read---pdf.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/public-consultation-paper---ndis-access-changes---easy-read---word-version.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/consultation-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports_final.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-2.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---support-needs-assessment---fact-sheet_updated-20261006-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---working-out-a-budget---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---plan-variations-and-reassessments---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-2.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/ndis-new-framework-planning---ndis-supports---fact-sheet_final-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read_final.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/disability-and-carers-group/user_uploads/summary-paper---ndis-supports---easy-read---words-only_final.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/committees-and-groups/technical-advisory-group-for-ndis-functional-capacity: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/resources/publications/ndis-amendment-securing-the-ndis-for-future-generations-bill-2026-fact-sheet?language=en: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/resources/collections/consultation-on-ndis-supports-rules-2025: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/our-work/ndis-legislation-changes/amendments: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework?language=en: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/resources/publications/ndis-new-framework-planning-what-we-heard-summary-report?language=en: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/our-work/ndis-legislation-changes/rules/framework: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://www.health.gov.au/resources/publications/ndis-rules-public-consultation-new-framework-planning-how-feedback-was-actioned?language=en: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---full-report---final.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-rules---public-consultation-on-new-framework-planning---what-we-heard---summary---final.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/nfp-consultation-report-easy-read---v0-3.6.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-1.-preparing-for-a-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-2.-the-support-needs-assessment.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-2-1.-the-support-needs-assessment.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-3.-building-a-plan.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---step-4.-using-a-plan.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning-.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/fact-sheet---reviews-and-appeals-under-the-new-way-of-planning--1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-5.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/public-consultation-on-nfp---discussion-paper-1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--easy-read---pdf-.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/discussion-paper-on-new-framework-planning--text-only-easy-read---word-.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---notice-of-impairments.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---transition-to-new-framework-plan-2.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---new-framework-plan-spending-rules-1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/explanatory-document---stated-supports-1.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.docx: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+- https://consultations.health.gov.au/ndis/user_uploads/ndis-new-framework-planning-what-we-heard-summary-report.pdf: curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+curl: (22) The requested URL returned error: 401
+
