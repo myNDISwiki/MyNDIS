@@ -1,5 +1,5 @@
 {
-  "bytes": 59913,
+  "bytes": 59911,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/9490c9d7ba5f6e35a5d8d697e6820548dc5bdd6276467f6bacfda60836c9d1a4",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/justice-advisory-panel-advice",
   "first_seen": "2026-10-28T22:37:08Z",
   "kind": "page",
-  "last_changed": "2026-11-26T01:52:29Z",
+  "last_changed": "2026-11-27T01:48:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Fresearch-and-evaluation%2Fevidence-helps-us-improve-ndis%2Fjustice-advisory-panel-advice",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -150,9 +150,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 25 Nov 2026 05:01:17 GMT"
+    "Last-Modified": "Thu, 26 Nov 2026 03:27:07 GMT"
   },
-  "sha256": "1df8616684c7669c32d32f69ce1f025a7e92637bd72c7cffd7f6542edbaf6cf3",
+  "sha256": "6bf91955fe3d179c44724bc0ca152328c7dcc997d3ed9957c19cec9a7d848d7a",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/research-and-evaluation/evidence-helps-us-improve-ndis/justice-advisory-panel-advice"
 }

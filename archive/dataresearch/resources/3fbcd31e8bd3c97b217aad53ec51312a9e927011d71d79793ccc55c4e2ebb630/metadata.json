@@ -1,5 +1,5 @@
 {
-  "bytes": 105361,
+  "bytes": 105359,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/3fbcd31e8bd3c97b217aad53ec51312a9e927011d71d79793ccc55c4e2ebb630",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-qld",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-26T01:52:29Z",
+  "last_changed": "2026-11-27T01:48:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fmarket-monitoring%2Fmarket-monitoring-qld",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -300,9 +300,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 25 Nov 2026 10:31:19 GMT"
+    "Last-Modified": "Thu, 26 Nov 2026 10:55:47 GMT"
   },
-  "sha256": "33f58d4e2712f803c994efa86d0e73ec94459c1499e9f7c66e856515d880d34e",
+  "sha256": "f13cdef73ac87b4340b1e026fefa50f85b3a4d0d97855f964450b0df9b5905ec",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/market-monitoring/market-monitoring-qld"
 }

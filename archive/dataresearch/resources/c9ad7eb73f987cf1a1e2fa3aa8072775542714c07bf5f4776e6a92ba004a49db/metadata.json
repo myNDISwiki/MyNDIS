@@ -1,5 +1,5 @@
 {
-  "bytes": 57357,
+  "bytes": 57356,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/c9ad7eb73f987cf1a1e2fa3aa8072775542714c07bf5f4776e6a92ba004a49db",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/first-nations",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-26T01:52:29Z",
+  "last_changed": "2026-11-27T01:48:00Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fparticipant-dashboards%2Ffirst-nations",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -159,9 +159,9 @@
     "https://www.youtube.com/user/DisabilityCare"
   ],
   "response_headers": {
-    "Last-Modified": "Wed, 25 Nov 2026 03:55:08 GMT"
+    "Last-Modified": "Thu, 26 Nov 2026 03:39:23 GMT"
   },
-  "sha256": "0f07ef899dd6fae97f2a3e897d4df136e8328fa8158cc7b4b8fd3105f022bc4d",
+  "sha256": "002caeae2b1cd2c0deec0eb13a925940a69d215aec0e64da3df2cd3ff8351df7",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/participant-dashboards/first-nations"
 }

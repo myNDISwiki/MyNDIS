@@ -748,3 +748,21 @@ SHA-256: `42c3ef6fa1008ad4311f637cbe9fe17817b957ed460f94bac57c1a39cc24e04e`
  24 November 2026
  First Nations
 ```
+
+## 2026-11-27T01:48:00Z — changed
+
+SHA-256: `d0779a40223e50182496aed3ecca335eefb21744eb519f871aab2b7029be4548`
+
+```diff
+--- before
++++ after
+@@ -63,7 +63,7 @@
+ Page title
+ Updated
+ Practice review into psychosocial disability and NDIA access
+-25 November 2026
++26 November 2026
+ Gender
+ 24 November 2026
+ First Nations
+```
