@@ -1,13 +1,13 @@
 # Tracking dashboard
 
-Generated: 2026-11-28T02:26:23Z
+Generated: 2026-11-28T09:18:18Z
 
 | Tracker | Status | Last checked | Pages | New | Modified | Removed | Registry | Latest |
 |---|---:|---:|---:|---:|---:|---:|---|---|
 | NDIS data and research | partial | 2026-11-28T01:31:38Z | 131 | 0 | 253 | 0 | [open](../dataresearch/manifest.json) | [open](../dataresearch/latest-run.json) |
 | NDIS website | active | — | 0 | 0 | 0 | 0 | [open](../ndis/manifest.json) | [open](../ndis/changes/) |
 | Health.gov.au NDIS material | partial | 2026-11-27T01:00:45Z | 582 | 0 | 8 | 0 | [open](../gov/health/ndis/manifest.json) | [open](health/latest-changes.md) |
-| Victorian Government reforms | complete | 2026-11-27T22:06:52Z | 250 | 0 | 1 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
+| Victorian Government reforms | complete | 2026-11-28T08:58:11Z | 250 | 0 | 1 | 0 | [open](vic-gov/page-registry.csv) | [open](vic-gov/latest-changes.md) |
 | Reports / .Gitkeep | recorded changes | 2026-09-04T09:54:31Z | 0 | 1 | 0 | 0 | [open](.gitkeep/change-ledger.csv) | [open](.gitkeep/changes.html) |
 | Reports / Aph | recorded changes | 2026-11-28T00:17:41Z | 0 | 3 | 240 | 0 | [open](aph/change-ledger.csv) | [open](aph/changes.html) |
 | Reports / Engage Ndis | recorded changes | 2026-11-28T00:17:41Z | 0 | 10 | 714 | 0 | [open](engage-ndis/change-ledger.csv) | [open](engage-ndis/changes.html) |
@@ -15,6 +15,6 @@ Generated: 2026-11-28T02:26:23Z
 | Reports / Ndia | recorded changes | 2026-11-28T00:17:41Z | 0 | 16 | 810 | 0 | [open](ndia/change-ledger.csv) | [open](ndia/changes.html) |
 | Reports / Ndis Commission | recorded changes | 2026-11-28T00:17:41Z | 0 | 1 | 71 | 0 | [open](ndis-commission/change-ledger.csv) | [open](ndis-commission/changes.html) |
 | Reports / Ndis Review | recorded changes | 2026-11-28T00:17:41Z | 0 | 116 | 2059 | 0 | [open](ndis-review/change-ledger.csv) | [open](ndis-review/changes.html) |
-| Reports / Vic Gov | recorded changes | 2026-11-28T00:17:41Z | 0 | 267 | 2610 | 17 | [open](vic-gov/change-ledger.csv) | [open](vic-gov/changes.html) |
+| Reports / Vic Gov | recorded changes | 2026-11-28T08:58:11Z | 0 | 267 | 2611 | 17 | [open](vic-gov/change-ledger.csv) | [open](vic-gov/changes.html) |
 
 The Victorian tracker begins at the Thriving Kids page, expands through the Victorian sitemap and relevant links, and automatically registers newly discovered pages. Full response bytes are hashed so even small source changes are retained.
