@@ -723,3 +723,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  how to gather evidence
  .
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `7f8d45c003332eb3971fe5efcab09853f5c9f495c114509177fa2f3dd8f6dd11`
+- New SHA-256: `8f55424590b67c31555caddc4e877541b37373f83d17709fac14cea17b1de95f`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

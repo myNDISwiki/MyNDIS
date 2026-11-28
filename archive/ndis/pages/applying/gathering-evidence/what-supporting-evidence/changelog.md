@@ -659,3 +659,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  It's helpful to get information about the impacts your disability has on your daily life from a treating health professional you’ve worked with for a long time. They’ll know more about you and your needs.
  The most common health professionals include GPs, paediatricians, orthopaedic surgeons, neurologists and psychiatrists.
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `216a16b676a6df5372838374a22d70b4ed3875788cde7a864c8c34f85e79225e`
+- New SHA-256: `472840becc08d6f8bffe6e937b11da85ce15eeb9ce2e27a05a8eb7858b7c4bcb`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

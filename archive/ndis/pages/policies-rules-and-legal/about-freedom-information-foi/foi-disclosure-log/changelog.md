@@ -2427,3 +2427,50 @@ The page bytes changed, but no visible main-content wording change was detected.
  16/11/2026
  Documents from the last 2 years regarding psychosocial hazards for NDIA or NCC staff in public facing roles.
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `30d8f64a64ac15a6ccb0238181c51c5f08767cbbd7d4beb71693cc4419a88fc8`
+- New SHA-256: `dc519102160069cb5ba9d08e06c3a6ed617d4e7de3b93ef4c126418390a6fc03`
+- Visible text lines added: 21
+- Visible text lines removed: 1
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -27,6 +27,26 @@
+ FOI request
+ Information published in the disclosure log
+ Comment
++FOI 26/27-0616
++16/11/2026
++This request is about:
++The policies, procedures, delegations and decision-making requirements that governed the withdrawal of an APS employment offer on 24 January 2025.
++Who had authority to make such a decision and what approval processes were required.
++What records should have been created, retained and preserved during that process.
++The NDIA's technical capability to retain, audit, search, recover and produce records relevant to that decision.
++FOI 26/27-0616 (PDF 3MB)
++4 documents released in full, 7 documents released in part, 1 document not suitable for release on disclosure log:
++Employment Offer Withdrawal Process Map
++Recruitment Withdrawal Matrix-Document created pursuant to section 17 of the Freedom of Information Act 1982.
++Combined links and advice document
++Instrument - Human Resources Delegations
++Policy - Access to official information and resources
++Policy Records and Information Management
++Policy - Workplace Adjustment V1.2
++Unified Communication Services
++Email Services
++Guide - Adjustments DCR Workflow
++Guide - Candidate care - Hiring managers V1.0
+ FOI 26/27-1036
+ 16/11/2026
+ Complex Support Needs (CSN) Planning Guidelines, Training and Operational Documents
+@@ -9238,4 +9258,4 @@
+ .
+ 2 documents released in full.
+ This page current as of
+-26 November 2026
++27 November 2026
+```

@@ -687,3 +687,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Main navigation sidebar
  Applying
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `0150146e7edc131180640e4e148275eafa17ddfaab467f2b5b45abc0f31291e8`
+- New SHA-256: `962841803ddfaba1967031f0f78fc8ee063e4b888356e2653576ad88772e7e53`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

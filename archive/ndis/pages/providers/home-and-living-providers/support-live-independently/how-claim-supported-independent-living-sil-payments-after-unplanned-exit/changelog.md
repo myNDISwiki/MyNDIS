@@ -679,3 +679,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Expand or collapse sub-menu for Home and living providers
  For home and living providers
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `eef9986257e78f70169c830ce31c0878b74d7a2056f004c90c900b2a027afcbb`
+- New SHA-256: `cc887ed794c48a20073edc0f9c5a4b9d4bc19164d718e0601a94a910a6454c3e`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

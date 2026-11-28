@@ -810,3 +810,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  supports in your community
  if you don’t meet the eligibility requirements.
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `72950788c567911f0f94aa8dc176269642351f3be2d538c5e8d441287569f96f`
+- New SHA-256: `c3a97648ca69a1263a4eb3e708673ee23907be9e12aaa82f3ac71fbc88db8b95`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

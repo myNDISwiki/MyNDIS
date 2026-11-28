@@ -2490,3 +2490,62 @@ The page bytes changed, but no visible main-content wording change was detected.
 - Visible text lines removed: 0
 
 The page bytes changed, but no visible main-content wording change was detected.
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `6589c93ac77fbc4fd23351e84ba898eb660bb3080fadbb18f38541f3163b9c8e`
+- New SHA-256: `841fa5504c0ea34fd001671ad145ee236de4d53feedaec3b179678caeae2a79a`
+- Visible text lines added: 8
+- Visible text lines removed: 9
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -56,7 +56,7 @@
+ Media statements
+ (5)
+ News
+-(345)
++(346)
+ Notification
+ (47)
+ News State or Territory
+@@ -78,7 +78,7 @@
+ (29)
+ News date
+ November 2026
+-(13)
++(14)
+ October 2026
+ (15)
+ September 2026
+@@ -363,6 +363,12 @@
+ Search
+ Category
+ News
++Planned system updates 28 November – 3 December 2026
++There are three upcoming multi-system updates. Planned outages allow us to update and improve our systems.
++Date
++27 November 2026
++Category
++News
+ Stronger NDIS claim checks stop millions in suspicious claims
+ The NDIA is strengthening its checks on claims to protect participants’ NDIS funding from fraud, misuse and incorrect payments.
+ Date
+@@ -389,13 +395,6 @@
+ Provider news
+ Help shape the Provider Newsletter
+ Don’t currently subscribe to the Provider Newsletter? We’d like to hear from you.
+-Date
+-19 November 2026
+-Category
+-Media release
+-Media release from the Minister
+-Work starts on commissioning NDIS plan management services
+-The Australian Government is charging ahead with strengthening the integrity of the National Disability Insurance Scheme (NDIS), with work beginning to commission plan management services by establishing a new Plan Management Panel.
+ Date
+ 19 November 2026
+ Pagination
+```

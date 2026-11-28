@@ -734,3 +734,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Applying
  Eligibility requirements
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `765cf8fe9ead9b60b77c68f3c1a75526c36f030d49806c5386c69c1179bb8127`
+- New SHA-256: `86e47a6c0b2fbda5c03cfce5f99df0c7677ff6cf2a1e0efd8198afd9313d4e60`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

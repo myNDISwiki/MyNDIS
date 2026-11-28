@@ -783,3 +783,12 @@ The page bytes changed, but no visible main-content wording change was detected.
  Home and living providers
  For home and living providers
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `b95077911ab504f208cfbe4a38700aadf3887a482f233ffb5ab51c9b3955c4b7`
+- New SHA-256: `67847d7b10e59f8d2ce1daca66bc656f25ec13d8a46423c5c7f9670a86c8dbeb`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.

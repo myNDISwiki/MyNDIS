@@ -2367,3 +2367,32 @@ The page bytes changed, but no visible main-content wording change was detected.
 -NDIS Community Forum in Adelaide
 -25 November 2026
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `e58c15524637b8ce9149ea6817d61dcc64554b8799210a8b05898f79e78c95f8`
+- New SHA-256: `4eef807057922b8d6866164c4e8d48fc4328d7354d3a26a45c5cdb3cc3ff0775`
+- Visible text lines added: 2
+- Visible text lines removed: 2
+
+### Language change
+
+```diff
+--- before
++++ after
+@@ -5,6 +5,8 @@
+ Save page as PDF
+ Page title
+ Updated
++FOI disclosure log
++26 November 2026
+ Early Childhood partner, Miranda, 2228
+ 26 November 2026
+ Guide to the NDIS for providers and justice professionals
+@@ -23,5 +25,3 @@
+ 26 November 2026
+ How to apply
+ 26 November 2026
+-FOI disclosure log
+-26 November 2026
+```

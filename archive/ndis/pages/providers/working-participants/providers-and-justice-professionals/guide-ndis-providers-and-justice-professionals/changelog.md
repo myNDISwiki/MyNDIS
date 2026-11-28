@@ -46,3 +46,12 @@ Initial capture. The full initial wording is preserved in `index.html`; it is no
  Expand or collapse sub-menu for Home and living providers
  For home and living providers
 ```
+
+## 2026-11-28T00:06:19Z — changed
+
+- Previous SHA-256: `fcabcc3411e39a3f2df1dd9d4455aa403c19568022cd4cd7a56291328a1a6e03`
+- New SHA-256: `666bf0826463fa8b22adc3f4a82979d1daeb01cebe4641afbba47b07b1a73525`
+- Visible text lines added: 0
+- Visible text lines removed: 0
+
+The page bytes changed, but no visible main-content wording change was detected.
