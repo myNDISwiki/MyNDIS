@@ -1,5 +1,5 @@
 {
-  "bytes": 74854,
+  "bytes": 74853,
   "content_type": "text/html; charset=utf-8",
   "directory": "resources/b53cefad063b73072a26d419e5ec0956a6db86a27e1583fc0303b94673de483c",
   "embeds": [
@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/specialist-disability-accommodation-sda-data",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-27T01:48:00Z",
+  "last_changed": "2026-11-28T01:31:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fspecialist-disability-accommodation-sda-data",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -200,7 +200,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 26 Nov 2026 03:14:35 GMT"
   },
-  "sha256": "c1eecba857b376b1e7a7484482022400ea46228d031092e7afc3f9884f33edbf",
+  "sha256": "8c059f93afcbf904913ba4af266c370ac89056926556a5358bf6e9e59d4cc1e0",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/specialist-disability-accommodation-sda-data"
 }

@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-27T01:48:00Z",
+  "last_changed": "2026-11-28T01:31:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fquarterly-report-supplements",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -379,7 +379,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 26 Nov 2026 03:14:57 GMT"
   },
-  "sha256": "8d3632c515e72106ecb329db8be9c1eab451f02131236bd7e88bff957833c748",
+  "sha256": "b5a7944b0120ce8fc7bcd9499c45fa4abca3f818a9f7bc480e35b8042d5c37ec",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/quarterly-report-supplements"
 }

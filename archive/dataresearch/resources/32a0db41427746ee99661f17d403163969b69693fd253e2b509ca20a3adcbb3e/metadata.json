@@ -11,7 +11,7 @@
   "final_url": "https://dataresearch.ndis.gov.au/reports-and-analyses/ndis-focus",
   "first_seen": "2026-09-09T19:20:17Z",
   "kind": "page",
-  "last_changed": "2026-11-27T01:48:00Z",
+  "last_changed": "2026-11-28T01:31:38Z",
   "links": [
     "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fdataresearch.ndis.gov.au%2Freports-and-analyses%2Fndis-focus",
     "https://cloud.email.ndis.gov.au/newsletter-signup",
@@ -186,7 +186,7 @@
   "response_headers": {
     "Last-Modified": "Thu, 26 Nov 2026 03:15:07 GMT"
   },
-  "sha256": "73297fc420ce28d90ef39015f6c0c65a2920d1c4b6c357ded5442795c55a262a",
+  "sha256": "31b28e651ccee660536632564d609175519cd9406607bd06b4818848c543aed9",
   "status": "active",
   "url": "https://dataresearch.ndis.gov.au/reports-and-analyses/ndis-focus"
 }

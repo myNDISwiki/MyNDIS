@@ -766,3 +766,9 @@ SHA-256: `d0779a40223e50182496aed3ecca335eefb21744eb519f871aab2b7029be4548`
  24 November 2026
  First Nations
 ```
+
+## 2026-11-28T01:31:38Z — changed
+
+SHA-256: `c6de15dddaabfaf584498136a91325d5dc9fc0df6f200aa693f9d8e2090af5f4`
+
+No visible wording change; HTML bytes changed.
